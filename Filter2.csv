@@ -1,0 +1,2593 @@
+Country,City,Year,Region,Value Column Name,Value
+"USA","California","2017","Americas","PY","90000"
+"USA","California","2017","Americas","PL","92000"
+"USA","California","2017","Americas","AC","131000"
+"USA","California","2017","Americas","AC - PY","41000"
+"USA","California","2017","Americas","(AC - PY)%","0.45555555555555555"
+"USA","California","2017","Americas","AC - PL","39000"
+"USA","California","2017","Americas","(AC - PL)%","0.42391304347826086"
+"USA","California","2017","Americas","PL - PY","2000"
+"USA","California","2017","Americas","(PL - PY)%","0.022222222222222223"
+"USA","California","2017","Asia-Pacific","PY",
+"USA","California","2017","Asia-Pacific","PL",
+"USA","California","2017","Asia-Pacific","AC",
+"USA","California","2017","Asia-Pacific","AC - PY",
+"USA","California","2017","Asia-Pacific","(AC - PY)%",
+"USA","California","2017","Asia-Pacific","AC - PL",
+"USA","California","2017","Asia-Pacific","(AC - PL)%",
+"USA","California","2017","Asia-Pacific","PL - PY",
+"USA","California","2017","Asia-Pacific","(PL - PY)%",
+"USA","California","2017","Europe","PY",
+"USA","California","2017","Europe","PL",
+"USA","California","2017","Europe","AC",
+"USA","California","2017","Europe","AC - PY",
+"USA","California","2017","Europe","(AC - PY)%",
+"USA","California","2017","Europe","AC - PL",
+"USA","California","2017","Europe","(AC - PL)%",
+"USA","California","2017","Europe","PL - PY",
+"USA","California","2017","Europe","(PL - PY)%",
+"USA","California","2018","Americas","PY","81000"
+"USA","California","2018","Americas","PL","60000"
+"USA","California","2018","Americas","AC","131000"
+"USA","California","2018","Americas","AC - PY","50000"
+"USA","California","2018","Americas","(AC - PY)%","0.6172839506172839"
+"USA","California","2018","Americas","AC - PL","71000"
+"USA","California","2018","Americas","(AC - PL)%","1.1833333333333333"
+"USA","California","2018","Americas","PL - PY","-21000"
+"USA","California","2018","Americas","(PL - PY)%","-0.25925925925925924"
+"USA","California","2018","Asia-Pacific","PY",
+"USA","California","2018","Asia-Pacific","PL",
+"USA","California","2018","Asia-Pacific","AC",
+"USA","California","2018","Asia-Pacific","AC - PY",
+"USA","California","2018","Asia-Pacific","(AC - PY)%",
+"USA","California","2018","Asia-Pacific","AC - PL",
+"USA","California","2018","Asia-Pacific","(AC - PL)%",
+"USA","California","2018","Asia-Pacific","PL - PY",
+"USA","California","2018","Asia-Pacific","(PL - PY)%",
+"USA","California","2018","Europe","PY",
+"USA","California","2018","Europe","PL",
+"USA","California","2018","Europe","AC",
+"USA","California","2018","Europe","AC - PY",
+"USA","California","2018","Europe","(AC - PY)%",
+"USA","California","2018","Europe","AC - PL",
+"USA","California","2018","Europe","(AC - PL)%",
+"USA","California","2018","Europe","PL - PY",
+"USA","California","2018","Europe","(PL - PY)%",
+"USA","California","2019","Americas","PY","139000"
+"USA","California","2019","Americas","PL","66000"
+"USA","California","2019","Americas","AC","113000"
+"USA","California","2019","Americas","AC - PY","-26000"
+"USA","California","2019","Americas","(AC - PY)%","-0.18705035971223022"
+"USA","California","2019","Americas","AC - PL","47000"
+"USA","California","2019","Americas","(AC - PL)%","0.7121212121212122"
+"USA","California","2019","Americas","PL - PY","-73000"
+"USA","California","2019","Americas","(PL - PY)%","-0.5251798561151079"
+"USA","California","2019","Asia-Pacific","PY",
+"USA","California","2019","Asia-Pacific","PL",
+"USA","California","2019","Asia-Pacific","AC",
+"USA","California","2019","Asia-Pacific","AC - PY",
+"USA","California","2019","Asia-Pacific","(AC - PY)%",
+"USA","California","2019","Asia-Pacific","AC - PL",
+"USA","California","2019","Asia-Pacific","(AC - PL)%",
+"USA","California","2019","Asia-Pacific","PL - PY",
+"USA","California","2019","Asia-Pacific","(PL - PY)%",
+"USA","California","2019","Europe","PY",
+"USA","California","2019","Europe","PL",
+"USA","California","2019","Europe","AC",
+"USA","California","2019","Europe","AC - PY",
+"USA","California","2019","Europe","(AC - PY)%",
+"USA","California","2019","Europe","AC - PL",
+"USA","California","2019","Europe","(AC - PL)%",
+"USA","California","2019","Europe","PL - PY",
+"USA","California","2019","Europe","(PL - PY)%",
+"USA","New York","2017","Americas","PY","92000"
+"USA","New York","2017","Americas","PL","114000"
+"USA","New York","2017","Americas","AC","116000"
+"USA","New York","2017","Americas","AC - PY","24000"
+"USA","New York","2017","Americas","(AC - PY)%","0.2608695652173913"
+"USA","New York","2017","Americas","AC - PL","2000"
+"USA","New York","2017","Americas","(AC - PL)%","0.017543859649122806"
+"USA","New York","2017","Americas","PL - PY","22000"
+"USA","New York","2017","Americas","(PL - PY)%","0.2391304347826087"
+"USA","New York","2017","Asia-Pacific","PY",
+"USA","New York","2017","Asia-Pacific","PL",
+"USA","New York","2017","Asia-Pacific","AC",
+"USA","New York","2017","Asia-Pacific","AC - PY",
+"USA","New York","2017","Asia-Pacific","(AC - PY)%",
+"USA","New York","2017","Asia-Pacific","AC - PL",
+"USA","New York","2017","Asia-Pacific","(AC - PL)%",
+"USA","New York","2017","Asia-Pacific","PL - PY",
+"USA","New York","2017","Asia-Pacific","(PL - PY)%",
+"USA","New York","2017","Europe","PY",
+"USA","New York","2017","Europe","PL",
+"USA","New York","2017","Europe","AC",
+"USA","New York","2017","Europe","AC - PY",
+"USA","New York","2017","Europe","(AC - PY)%",
+"USA","New York","2017","Europe","AC - PL",
+"USA","New York","2017","Europe","(AC - PL)%",
+"USA","New York","2017","Europe","PL - PY",
+"USA","New York","2017","Europe","(PL - PY)%",
+"USA","New York","2018","Americas","PY","119000"
+"USA","New York","2018","Americas","PL",
+"USA","New York","2018","Americas","AC","99000"
+"USA","New York","2018","Americas","AC - PY","-20000"
+"USA","New York","2018","Americas","(AC - PY)%","-0.16806722689075632"
+"USA","New York","2018","Americas","AC - PL","99000"
+"USA","New York","2018","Americas","(AC - PL)%",
+"USA","New York","2018","Americas","PL - PY","-119000"
+"USA","New York","2018","Americas","(PL - PY)%","-1"
+"USA","New York","2018","Asia-Pacific","PY",
+"USA","New York","2018","Asia-Pacific","PL",
+"USA","New York","2018","Asia-Pacific","AC",
+"USA","New York","2018","Asia-Pacific","AC - PY",
+"USA","New York","2018","Asia-Pacific","(AC - PY)%",
+"USA","New York","2018","Asia-Pacific","AC - PL",
+"USA","New York","2018","Asia-Pacific","(AC - PL)%",
+"USA","New York","2018","Asia-Pacific","PL - PY",
+"USA","New York","2018","Asia-Pacific","(PL - PY)%",
+"USA","New York","2018","Europe","PY",
+"USA","New York","2018","Europe","PL",
+"USA","New York","2018","Europe","AC",
+"USA","New York","2018","Europe","AC - PY",
+"USA","New York","2018","Europe","(AC - PY)%",
+"USA","New York","2018","Europe","AC - PL",
+"USA","New York","2018","Europe","(AC - PL)%",
+"USA","New York","2018","Europe","PL - PY",
+"USA","New York","2018","Europe","(PL - PY)%",
+"USA","New York","2019","Americas","PY","96000"
+"USA","New York","2019","Americas","PL","69000"
+"USA","New York","2019","Americas","AC","91000"
+"USA","New York","2019","Americas","AC - PY","-5000"
+"USA","New York","2019","Americas","(AC - PY)%","-0.05208333333333334"
+"USA","New York","2019","Americas","AC - PL","22000"
+"USA","New York","2019","Americas","(AC - PL)%","0.3188405797101449"
+"USA","New York","2019","Americas","PL - PY","-27000"
+"USA","New York","2019","Americas","(PL - PY)%","-0.28125"
+"USA","New York","2019","Asia-Pacific","PY",
+"USA","New York","2019","Asia-Pacific","PL",
+"USA","New York","2019","Asia-Pacific","AC",
+"USA","New York","2019","Asia-Pacific","AC - PY",
+"USA","New York","2019","Asia-Pacific","(AC - PY)%",
+"USA","New York","2019","Asia-Pacific","AC - PL",
+"USA","New York","2019","Asia-Pacific","(AC - PL)%",
+"USA","New York","2019","Asia-Pacific","PL - PY",
+"USA","New York","2019","Asia-Pacific","(PL - PY)%",
+"USA","New York","2019","Europe","PY",
+"USA","New York","2019","Europe","PL",
+"USA","New York","2019","Europe","AC",
+"USA","New York","2019","Europe","AC - PY",
+"USA","New York","2019","Europe","(AC - PY)%",
+"USA","New York","2019","Europe","AC - PL",
+"USA","New York","2019","Europe","(AC - PL)%",
+"USA","New York","2019","Europe","PL - PY",
+"USA","New York","2019","Europe","(PL - PY)%",
+"USA","Texas","2017","Americas","PY","111000"
+"USA","Texas","2017","Americas","PL","144000"
+"USA","Texas","2017","Americas","AC","112000"
+"USA","Texas","2017","Americas","AC - PY","1000"
+"USA","Texas","2017","Americas","(AC - PY)%","0.009009009009009009"
+"USA","Texas","2017","Americas","AC - PL","-32000"
+"USA","Texas","2017","Americas","(AC - PL)%","-0.2222222222222222"
+"USA","Texas","2017","Americas","PL - PY","33000"
+"USA","Texas","2017","Americas","(PL - PY)%","0.2972972972972973"
+"USA","Texas","2017","Asia-Pacific","PY",
+"USA","Texas","2017","Asia-Pacific","PL",
+"USA","Texas","2017","Asia-Pacific","AC",
+"USA","Texas","2017","Asia-Pacific","AC - PY",
+"USA","Texas","2017","Asia-Pacific","(AC - PY)%",
+"USA","Texas","2017","Asia-Pacific","AC - PL",
+"USA","Texas","2017","Asia-Pacific","(AC - PL)%",
+"USA","Texas","2017","Asia-Pacific","PL - PY",
+"USA","Texas","2017","Asia-Pacific","(PL - PY)%",
+"USA","Texas","2017","Europe","PY",
+"USA","Texas","2017","Europe","PL",
+"USA","Texas","2017","Europe","AC",
+"USA","Texas","2017","Europe","AC - PY",
+"USA","Texas","2017","Europe","(AC - PY)%",
+"USA","Texas","2017","Europe","AC - PL",
+"USA","Texas","2017","Europe","(AC - PL)%",
+"USA","Texas","2017","Europe","PL - PY",
+"USA","Texas","2017","Europe","(PL - PY)%",
+"USA","Texas","2018","Americas","PY","141000"
+"USA","Texas","2018","Americas","PL","73000"
+"USA","Texas","2018","Americas","AC","45000"
+"USA","Texas","2018","Americas","AC - PY","-96000"
+"USA","Texas","2018","Americas","(AC - PY)%","-0.6808510638297872"
+"USA","Texas","2018","Americas","AC - PL","-28000"
+"USA","Texas","2018","Americas","(AC - PL)%","-0.3835616438356164"
+"USA","Texas","2018","Americas","PL - PY","-68000"
+"USA","Texas","2018","Americas","(PL - PY)%","-0.48226950354609927"
+"USA","Texas","2018","Asia-Pacific","PY",
+"USA","Texas","2018","Asia-Pacific","PL",
+"USA","Texas","2018","Asia-Pacific","AC",
+"USA","Texas","2018","Asia-Pacific","AC - PY",
+"USA","Texas","2018","Asia-Pacific","(AC - PY)%",
+"USA","Texas","2018","Asia-Pacific","AC - PL",
+"USA","Texas","2018","Asia-Pacific","(AC - PL)%",
+"USA","Texas","2018","Asia-Pacific","PL - PY",
+"USA","Texas","2018","Asia-Pacific","(PL - PY)%",
+"USA","Texas","2018","Europe","PY",
+"USA","Texas","2018","Europe","PL",
+"USA","Texas","2018","Europe","AC",
+"USA","Texas","2018","Europe","AC - PY",
+"USA","Texas","2018","Europe","(AC - PY)%",
+"USA","Texas","2018","Europe","AC - PL",
+"USA","Texas","2018","Europe","(AC - PL)%",
+"USA","Texas","2018","Europe","PL - PY",
+"USA","Texas","2018","Europe","(PL - PY)%",
+"USA","Texas","2019","Americas","PY","51000"
+"USA","Texas","2019","Americas","PL","124000"
+"USA","Texas","2019","Americas","AC","117000"
+"USA","Texas","2019","Americas","AC - PY","66000"
+"USA","Texas","2019","Americas","(AC - PY)%","1.2941176470588234"
+"USA","Texas","2019","Americas","AC - PL","-7000"
+"USA","Texas","2019","Americas","(AC - PL)%","-0.0564516129032258"
+"USA","Texas","2019","Americas","PL - PY","73000"
+"USA","Texas","2019","Americas","(PL - PY)%","1.4313725490196076"
+"USA","Texas","2019","Asia-Pacific","PY",
+"USA","Texas","2019","Asia-Pacific","PL",
+"USA","Texas","2019","Asia-Pacific","AC",
+"USA","Texas","2019","Asia-Pacific","AC - PY",
+"USA","Texas","2019","Asia-Pacific","(AC - PY)%",
+"USA","Texas","2019","Asia-Pacific","AC - PL",
+"USA","Texas","2019","Asia-Pacific","(AC - PL)%",
+"USA","Texas","2019","Asia-Pacific","PL - PY",
+"USA","Texas","2019","Asia-Pacific","(PL - PY)%",
+"USA","Texas","2019","Europe","PY",
+"USA","Texas","2019","Europe","PL",
+"USA","Texas","2019","Europe","AC",
+"USA","Texas","2019","Europe","AC - PY",
+"USA","Texas","2019","Europe","(AC - PY)%",
+"USA","Texas","2019","Europe","AC - PL",
+"USA","Texas","2019","Europe","(AC - PL)%",
+"USA","Texas","2019","Europe","PL - PY",
+"USA","Texas","2019","Europe","(PL - PY)%",
+"Brazil","Rio","2017","Americas","PY","104000"
+"Brazil","Rio","2017","Americas","PL","146000"
+"Brazil","Rio","2017","Americas","AC","138000"
+"Brazil","Rio","2017","Americas","AC - PY","34000"
+"Brazil","Rio","2017","Americas","(AC - PY)%","0.3269230769230769"
+"Brazil","Rio","2017","Americas","AC - PL","-8000"
+"Brazil","Rio","2017","Americas","(AC - PL)%","-0.0547945205479452"
+"Brazil","Rio","2017","Americas","PL - PY","42000"
+"Brazil","Rio","2017","Americas","(PL - PY)%","0.40384615384615385"
+"Brazil","Rio","2017","Asia-Pacific","PY",
+"Brazil","Rio","2017","Asia-Pacific","PL",
+"Brazil","Rio","2017","Asia-Pacific","AC",
+"Brazil","Rio","2017","Asia-Pacific","AC - PY",
+"Brazil","Rio","2017","Asia-Pacific","(AC - PY)%",
+"Brazil","Rio","2017","Asia-Pacific","AC - PL",
+"Brazil","Rio","2017","Asia-Pacific","(AC - PL)%",
+"Brazil","Rio","2017","Asia-Pacific","PL - PY",
+"Brazil","Rio","2017","Asia-Pacific","(PL - PY)%",
+"Brazil","Rio","2017","Europe","PY",
+"Brazil","Rio","2017","Europe","PL",
+"Brazil","Rio","2017","Europe","AC",
+"Brazil","Rio","2017","Europe","AC - PY",
+"Brazil","Rio","2017","Europe","(AC - PY)%",
+"Brazil","Rio","2017","Europe","AC - PL",
+"Brazil","Rio","2017","Europe","(AC - PL)%",
+"Brazil","Rio","2017","Europe","PL - PY",
+"Brazil","Rio","2017","Europe","(PL - PY)%",
+"Brazil","Rio","2018","Americas","PY","78000"
+"Brazil","Rio","2018","Americas","PL","70000"
+"Brazil","Rio","2018","Americas","AC","105000"
+"Brazil","Rio","2018","Americas","AC - PY","27000"
+"Brazil","Rio","2018","Americas","(AC - PY)%","0.34615384615384615"
+"Brazil","Rio","2018","Americas","AC - PL","35000"
+"Brazil","Rio","2018","Americas","(AC - PL)%","0.5"
+"Brazil","Rio","2018","Americas","PL - PY","-8000"
+"Brazil","Rio","2018","Americas","(PL - PY)%","-0.10256410256410256"
+"Brazil","Rio","2018","Asia-Pacific","PY",
+"Brazil","Rio","2018","Asia-Pacific","PL",
+"Brazil","Rio","2018","Asia-Pacific","AC",
+"Brazil","Rio","2018","Asia-Pacific","AC - PY",
+"Brazil","Rio","2018","Asia-Pacific","(AC - PY)%",
+"Brazil","Rio","2018","Asia-Pacific","AC - PL",
+"Brazil","Rio","2018","Asia-Pacific","(AC - PL)%",
+"Brazil","Rio","2018","Asia-Pacific","PL - PY",
+"Brazil","Rio","2018","Asia-Pacific","(PL - PY)%",
+"Brazil","Rio","2018","Europe","PY",
+"Brazil","Rio","2018","Europe","PL",
+"Brazil","Rio","2018","Europe","AC",
+"Brazil","Rio","2018","Europe","AC - PY",
+"Brazil","Rio","2018","Europe","(AC - PY)%",
+"Brazil","Rio","2018","Europe","AC - PL",
+"Brazil","Rio","2018","Europe","(AC - PL)%",
+"Brazil","Rio","2018","Europe","PL - PY",
+"Brazil","Rio","2018","Europe","(PL - PY)%",
+"Brazil","Rio","2019","Americas","PY","131000"
+"Brazil","Rio","2019","Americas","PL","119000"
+"Brazil","Rio","2019","Americas","AC","99000"
+"Brazil","Rio","2019","Americas","AC - PY","-32000"
+"Brazil","Rio","2019","Americas","(AC - PY)%","-0.24427480916030533"
+"Brazil","Rio","2019","Americas","AC - PL","-20000"
+"Brazil","Rio","2019","Americas","(AC - PL)%","-0.16806722689075632"
+"Brazil","Rio","2019","Americas","PL - PY","-12000"
+"Brazil","Rio","2019","Americas","(PL - PY)%","-0.09160305343511449"
+"Brazil","Rio","2019","Asia-Pacific","PY",
+"Brazil","Rio","2019","Asia-Pacific","PL",
+"Brazil","Rio","2019","Asia-Pacific","AC",
+"Brazil","Rio","2019","Asia-Pacific","AC - PY",
+"Brazil","Rio","2019","Asia-Pacific","(AC - PY)%",
+"Brazil","Rio","2019","Asia-Pacific","AC - PL",
+"Brazil","Rio","2019","Asia-Pacific","(AC - PL)%",
+"Brazil","Rio","2019","Asia-Pacific","PL - PY",
+"Brazil","Rio","2019","Asia-Pacific","(PL - PY)%",
+"Brazil","Rio","2019","Europe","PY",
+"Brazil","Rio","2019","Europe","PL",
+"Brazil","Rio","2019","Europe","AC",
+"Brazil","Rio","2019","Europe","AC - PY",
+"Brazil","Rio","2019","Europe","(AC - PY)%",
+"Brazil","Rio","2019","Europe","AC - PL",
+"Brazil","Rio","2019","Europe","(AC - PL)%",
+"Brazil","Rio","2019","Europe","PL - PY",
+"Brazil","Rio","2019","Europe","(PL - PY)%",
+"Brazil","Manaus","2017","Americas","PY","72000"
+"Brazil","Manaus","2017","Americas","PL","134000"
+"Brazil","Manaus","2017","Americas","AC","56000"
+"Brazil","Manaus","2017","Americas","AC - PY","-16000"
+"Brazil","Manaus","2017","Americas","(AC - PY)%","-0.2222222222222222"
+"Brazil","Manaus","2017","Americas","AC - PL","-78000"
+"Brazil","Manaus","2017","Americas","(AC - PL)%","-0.582089552238806"
+"Brazil","Manaus","2017","Americas","PL - PY","62000"
+"Brazil","Manaus","2017","Americas","(PL - PY)%","0.8611111111111112"
+"Brazil","Manaus","2017","Asia-Pacific","PY",
+"Brazil","Manaus","2017","Asia-Pacific","PL",
+"Brazil","Manaus","2017","Asia-Pacific","AC",
+"Brazil","Manaus","2017","Asia-Pacific","AC - PY",
+"Brazil","Manaus","2017","Asia-Pacific","(AC - PY)%",
+"Brazil","Manaus","2017","Asia-Pacific","AC - PL",
+"Brazil","Manaus","2017","Asia-Pacific","(AC - PL)%",
+"Brazil","Manaus","2017","Asia-Pacific","PL - PY",
+"Brazil","Manaus","2017","Asia-Pacific","(PL - PY)%",
+"Brazil","Manaus","2017","Europe","PY",
+"Brazil","Manaus","2017","Europe","PL",
+"Brazil","Manaus","2017","Europe","AC",
+"Brazil","Manaus","2017","Europe","AC - PY",
+"Brazil","Manaus","2017","Europe","(AC - PY)%",
+"Brazil","Manaus","2017","Europe","AC - PL",
+"Brazil","Manaus","2017","Europe","(AC - PL)%",
+"Brazil","Manaus","2017","Europe","PL - PY",
+"Brazil","Manaus","2017","Europe","(PL - PY)%",
+"Brazil","Manaus","2018","Americas","PY","-122000"
+"Brazil","Manaus","2018","Americas","PL","139000"
+"Brazil","Manaus","2018","Americas","AC","129000"
+"Brazil","Manaus","2018","Americas","AC - PY","251000"
+"Brazil","Manaus","2018","Americas","(AC - PY)%","2.057377049180328"
+"Brazil","Manaus","2018","Americas","AC - PL","-10000"
+"Brazil","Manaus","2018","Americas","(AC - PL)%","-0.07194244604316546"
+"Brazil","Manaus","2018","Americas","PL - PY","261000"
+"Brazil","Manaus","2018","Americas","(PL - PY)%","2.139344262295082"
+"Brazil","Manaus","2018","Asia-Pacific","PY",
+"Brazil","Manaus","2018","Asia-Pacific","PL",
+"Brazil","Manaus","2018","Asia-Pacific","AC",
+"Brazil","Manaus","2018","Asia-Pacific","AC - PY",
+"Brazil","Manaus","2018","Asia-Pacific","(AC - PY)%",
+"Brazil","Manaus","2018","Asia-Pacific","AC - PL",
+"Brazil","Manaus","2018","Asia-Pacific","(AC - PL)%",
+"Brazil","Manaus","2018","Asia-Pacific","PL - PY",
+"Brazil","Manaus","2018","Asia-Pacific","(PL - PY)%",
+"Brazil","Manaus","2018","Europe","PY",
+"Brazil","Manaus","2018","Europe","PL",
+"Brazil","Manaus","2018","Europe","AC",
+"Brazil","Manaus","2018","Europe","AC - PY",
+"Brazil","Manaus","2018","Europe","(AC - PY)%",
+"Brazil","Manaus","2018","Europe","AC - PL",
+"Brazil","Manaus","2018","Europe","(AC - PL)%",
+"Brazil","Manaus","2018","Europe","PL - PY",
+"Brazil","Manaus","2018","Europe","(PL - PY)%",
+"Brazil","Manaus","2019","Americas","PY","55000"
+"Brazil","Manaus","2019","Americas","PL","144000"
+"Brazil","Manaus","2019","Americas","AC","147000"
+"Brazil","Manaus","2019","Americas","AC - PY","92000"
+"Brazil","Manaus","2019","Americas","(AC - PY)%","1.6727272727272726"
+"Brazil","Manaus","2019","Americas","AC - PL","3000"
+"Brazil","Manaus","2019","Americas","(AC - PL)%","0.02083333333333333"
+"Brazil","Manaus","2019","Americas","PL - PY","89000"
+"Brazil","Manaus","2019","Americas","(PL - PY)%","1.6181818181818182"
+"Brazil","Manaus","2019","Asia-Pacific","PY",
+"Brazil","Manaus","2019","Asia-Pacific","PL",
+"Brazil","Manaus","2019","Asia-Pacific","AC",
+"Brazil","Manaus","2019","Asia-Pacific","AC - PY",
+"Brazil","Manaus","2019","Asia-Pacific","(AC - PY)%",
+"Brazil","Manaus","2019","Asia-Pacific","AC - PL",
+"Brazil","Manaus","2019","Asia-Pacific","(AC - PL)%",
+"Brazil","Manaus","2019","Asia-Pacific","PL - PY",
+"Brazil","Manaus","2019","Asia-Pacific","(PL - PY)%",
+"Brazil","Manaus","2019","Europe","PY",
+"Brazil","Manaus","2019","Europe","PL",
+"Brazil","Manaus","2019","Europe","AC",
+"Brazil","Manaus","2019","Europe","AC - PY",
+"Brazil","Manaus","2019","Europe","(AC - PY)%",
+"Brazil","Manaus","2019","Europe","AC - PL",
+"Brazil","Manaus","2019","Europe","(AC - PL)%",
+"Brazil","Manaus","2019","Europe","PL - PY",
+"Brazil","Manaus","2019","Europe","(PL - PY)%",
+"Brazil","Salvador","2017","Americas","PY","121000"
+"Brazil","Salvador","2017","Americas","PL","101000"
+"Brazil","Salvador","2017","Americas","AC","39000"
+"Brazil","Salvador","2017","Americas","AC - PY","-82000"
+"Brazil","Salvador","2017","Americas","(AC - PY)%","-0.6776859504132231"
+"Brazil","Salvador","2017","Americas","AC - PL","-62000"
+"Brazil","Salvador","2017","Americas","(AC - PL)%","-0.6138613861386139"
+"Brazil","Salvador","2017","Americas","PL - PY","-20000"
+"Brazil","Salvador","2017","Americas","(PL - PY)%","-0.1652892561983471"
+"Brazil","Salvador","2017","Asia-Pacific","PY",
+"Brazil","Salvador","2017","Asia-Pacific","PL",
+"Brazil","Salvador","2017","Asia-Pacific","AC",
+"Brazil","Salvador","2017","Asia-Pacific","AC - PY",
+"Brazil","Salvador","2017","Asia-Pacific","(AC - PY)%",
+"Brazil","Salvador","2017","Asia-Pacific","AC - PL",
+"Brazil","Salvador","2017","Asia-Pacific","(AC - PL)%",
+"Brazil","Salvador","2017","Asia-Pacific","PL - PY",
+"Brazil","Salvador","2017","Asia-Pacific","(PL - PY)%",
+"Brazil","Salvador","2017","Europe","PY",
+"Brazil","Salvador","2017","Europe","PL",
+"Brazil","Salvador","2017","Europe","AC",
+"Brazil","Salvador","2017","Europe","AC - PY",
+"Brazil","Salvador","2017","Europe","(AC - PY)%",
+"Brazil","Salvador","2017","Europe","AC - PL",
+"Brazil","Salvador","2017","Europe","(AC - PL)%",
+"Brazil","Salvador","2017","Europe","PL - PY",
+"Brazil","Salvador","2017","Europe","(PL - PY)%",
+"Brazil","Salvador","2018","Americas","PY","0"
+"Brazil","Salvador","2018","Americas","PL","64000"
+"Brazil","Salvador","2018","Americas","AC","46000"
+"Brazil","Salvador","2018","Americas","AC - PY","46000"
+"Brazil","Salvador","2018","Americas","(AC - PY)%",
+"Brazil","Salvador","2018","Americas","AC - PL","-18000"
+"Brazil","Salvador","2018","Americas","(AC - PL)%","-0.28125"
+"Brazil","Salvador","2018","Americas","PL - PY","64000"
+"Brazil","Salvador","2018","Americas","(PL - PY)%",
+"Brazil","Salvador","2018","Asia-Pacific","PY",
+"Brazil","Salvador","2018","Asia-Pacific","PL",
+"Brazil","Salvador","2018","Asia-Pacific","AC",
+"Brazil","Salvador","2018","Asia-Pacific","AC - PY",
+"Brazil","Salvador","2018","Asia-Pacific","(AC - PY)%",
+"Brazil","Salvador","2018","Asia-Pacific","AC - PL",
+"Brazil","Salvador","2018","Asia-Pacific","(AC - PL)%",
+"Brazil","Salvador","2018","Asia-Pacific","PL - PY",
+"Brazil","Salvador","2018","Asia-Pacific","(PL - PY)%",
+"Brazil","Salvador","2018","Europe","PY",
+"Brazil","Salvador","2018","Europe","PL",
+"Brazil","Salvador","2018","Europe","AC",
+"Brazil","Salvador","2018","Europe","AC - PY",
+"Brazil","Salvador","2018","Europe","(AC - PY)%",
+"Brazil","Salvador","2018","Europe","AC - PL",
+"Brazil","Salvador","2018","Europe","(AC - PL)%",
+"Brazil","Salvador","2018","Europe","PL - PY",
+"Brazil","Salvador","2018","Europe","(PL - PY)%",
+"Brazil","Salvador","2019","Americas","PY","52000"
+"Brazil","Salvador","2019","Americas","PL","46000"
+"Brazil","Salvador","2019","Americas","AC","121000"
+"Brazil","Salvador","2019","Americas","AC - PY","69000"
+"Brazil","Salvador","2019","Americas","(AC - PY)%","1.3269230769230769"
+"Brazil","Salvador","2019","Americas","AC - PL","75000"
+"Brazil","Salvador","2019","Americas","(AC - PL)%","1.6304347826086956"
+"Brazil","Salvador","2019","Americas","PL - PY","-6000"
+"Brazil","Salvador","2019","Americas","(PL - PY)%","-0.11538461538461538"
+"Brazil","Salvador","2019","Asia-Pacific","PY",
+"Brazil","Salvador","2019","Asia-Pacific","PL",
+"Brazil","Salvador","2019","Asia-Pacific","AC",
+"Brazil","Salvador","2019","Asia-Pacific","AC - PY",
+"Brazil","Salvador","2019","Asia-Pacific","(AC - PY)%",
+"Brazil","Salvador","2019","Asia-Pacific","AC - PL",
+"Brazil","Salvador","2019","Asia-Pacific","(AC - PL)%",
+"Brazil","Salvador","2019","Asia-Pacific","PL - PY",
+"Brazil","Salvador","2019","Asia-Pacific","(PL - PY)%",
+"Brazil","Salvador","2019","Europe","PY",
+"Brazil","Salvador","2019","Europe","PL",
+"Brazil","Salvador","2019","Europe","AC",
+"Brazil","Salvador","2019","Europe","AC - PY",
+"Brazil","Salvador","2019","Europe","(AC - PY)%",
+"Brazil","Salvador","2019","Europe","AC - PL",
+"Brazil","Salvador","2019","Europe","(AC - PL)%",
+"Brazil","Salvador","2019","Europe","PL - PY",
+"Brazil","Salvador","2019","Europe","(PL - PY)%",
+"Canada","Vancouver","2017","Americas","PY","42000"
+"Canada","Vancouver","2017","Americas","PL","113000"
+"Canada","Vancouver","2017","Americas","AC","110000"
+"Canada","Vancouver","2017","Americas","AC - PY","68000"
+"Canada","Vancouver","2017","Americas","(AC - PY)%","1.619047619047619"
+"Canada","Vancouver","2017","Americas","AC - PL","-3000"
+"Canada","Vancouver","2017","Americas","(AC - PL)%","-0.02654867256637168"
+"Canada","Vancouver","2017","Americas","PL - PY","71000"
+"Canada","Vancouver","2017","Americas","(PL - PY)%","1.6904761904761905"
+"Canada","Vancouver","2017","Asia-Pacific","PY",
+"Canada","Vancouver","2017","Asia-Pacific","PL",
+"Canada","Vancouver","2017","Asia-Pacific","AC",
+"Canada","Vancouver","2017","Asia-Pacific","AC - PY",
+"Canada","Vancouver","2017","Asia-Pacific","(AC - PY)%",
+"Canada","Vancouver","2017","Asia-Pacific","AC - PL",
+"Canada","Vancouver","2017","Asia-Pacific","(AC - PL)%",
+"Canada","Vancouver","2017","Asia-Pacific","PL - PY",
+"Canada","Vancouver","2017","Asia-Pacific","(PL - PY)%",
+"Canada","Vancouver","2017","Europe","PY",
+"Canada","Vancouver","2017","Europe","PL",
+"Canada","Vancouver","2017","Europe","AC",
+"Canada","Vancouver","2017","Europe","AC - PY",
+"Canada","Vancouver","2017","Europe","(AC - PY)%",
+"Canada","Vancouver","2017","Europe","AC - PL",
+"Canada","Vancouver","2017","Europe","(AC - PL)%",
+"Canada","Vancouver","2017","Europe","PL - PY",
+"Canada","Vancouver","2017","Europe","(PL - PY)%",
+"Canada","Vancouver","2018","Americas","PY","102000"
+"Canada","Vancouver","2018","Americas","PL","87000"
+"Canada","Vancouver","2018","Americas","AC","134000"
+"Canada","Vancouver","2018","Americas","AC - PY","32000"
+"Canada","Vancouver","2018","Americas","(AC - PY)%","0.3137254901960784"
+"Canada","Vancouver","2018","Americas","AC - PL","47000"
+"Canada","Vancouver","2018","Americas","(AC - PL)%","0.5402298850574713"
+"Canada","Vancouver","2018","Americas","PL - PY","-15000"
+"Canada","Vancouver","2018","Americas","(PL - PY)%","-0.14705882352941177"
+"Canada","Vancouver","2018","Asia-Pacific","PY",
+"Canada","Vancouver","2018","Asia-Pacific","PL",
+"Canada","Vancouver","2018","Asia-Pacific","AC",
+"Canada","Vancouver","2018","Asia-Pacific","AC - PY",
+"Canada","Vancouver","2018","Asia-Pacific","(AC - PY)%",
+"Canada","Vancouver","2018","Asia-Pacific","AC - PL",
+"Canada","Vancouver","2018","Asia-Pacific","(AC - PL)%",
+"Canada","Vancouver","2018","Asia-Pacific","PL - PY",
+"Canada","Vancouver","2018","Asia-Pacific","(PL - PY)%",
+"Canada","Vancouver","2018","Europe","PY",
+"Canada","Vancouver","2018","Europe","PL",
+"Canada","Vancouver","2018","Europe","AC",
+"Canada","Vancouver","2018","Europe","AC - PY",
+"Canada","Vancouver","2018","Europe","(AC - PY)%",
+"Canada","Vancouver","2018","Europe","AC - PL",
+"Canada","Vancouver","2018","Europe","(AC - PL)%",
+"Canada","Vancouver","2018","Europe","PL - PY",
+"Canada","Vancouver","2018","Europe","(PL - PY)%",
+"Canada","Vancouver","2019","Americas","PY","111000"
+"Canada","Vancouver","2019","Americas","PL","83000"
+"Canada","Vancouver","2019","Americas","AC","150000"
+"Canada","Vancouver","2019","Americas","AC - PY","39000"
+"Canada","Vancouver","2019","Americas","(AC - PY)%","0.35135135135135137"
+"Canada","Vancouver","2019","Americas","AC - PL","67000"
+"Canada","Vancouver","2019","Americas","(AC - PL)%","0.8072289156626506"
+"Canada","Vancouver","2019","Americas","PL - PY","-28000"
+"Canada","Vancouver","2019","Americas","(PL - PY)%","-0.25225225225225223"
+"Canada","Vancouver","2019","Asia-Pacific","PY",
+"Canada","Vancouver","2019","Asia-Pacific","PL",
+"Canada","Vancouver","2019","Asia-Pacific","AC",
+"Canada","Vancouver","2019","Asia-Pacific","AC - PY",
+"Canada","Vancouver","2019","Asia-Pacific","(AC - PY)%",
+"Canada","Vancouver","2019","Asia-Pacific","AC - PL",
+"Canada","Vancouver","2019","Asia-Pacific","(AC - PL)%",
+"Canada","Vancouver","2019","Asia-Pacific","PL - PY",
+"Canada","Vancouver","2019","Asia-Pacific","(PL - PY)%",
+"Canada","Vancouver","2019","Europe","PY",
+"Canada","Vancouver","2019","Europe","PL",
+"Canada","Vancouver","2019","Europe","AC",
+"Canada","Vancouver","2019","Europe","AC - PY",
+"Canada","Vancouver","2019","Europe","(AC - PY)%",
+"Canada","Vancouver","2019","Europe","AC - PL",
+"Canada","Vancouver","2019","Europe","(AC - PL)%",
+"Canada","Vancouver","2019","Europe","PL - PY",
+"Canada","Vancouver","2019","Europe","(PL - PY)%",
+"Canada","Toronto","2017","Americas","PY","59000"
+"Canada","Toronto","2017","Americas","PL","98000"
+"Canada","Toronto","2017","Americas","AC","78000"
+"Canada","Toronto","2017","Americas","AC - PY","19000"
+"Canada","Toronto","2017","Americas","(AC - PY)%","0.3220338983050847"
+"Canada","Toronto","2017","Americas","AC - PL","-20000"
+"Canada","Toronto","2017","Americas","(AC - PL)%","-0.20408163265306123"
+"Canada","Toronto","2017","Americas","PL - PY","39000"
+"Canada","Toronto","2017","Americas","(PL - PY)%","0.6610169491525424"
+"Canada","Toronto","2017","Asia-Pacific","PY",
+"Canada","Toronto","2017","Asia-Pacific","PL",
+"Canada","Toronto","2017","Asia-Pacific","AC",
+"Canada","Toronto","2017","Asia-Pacific","AC - PY",
+"Canada","Toronto","2017","Asia-Pacific","(AC - PY)%",
+"Canada","Toronto","2017","Asia-Pacific","AC - PL",
+"Canada","Toronto","2017","Asia-Pacific","(AC - PL)%",
+"Canada","Toronto","2017","Asia-Pacific","PL - PY",
+"Canada","Toronto","2017","Asia-Pacific","(PL - PY)%",
+"Canada","Toronto","2017","Europe","PY",
+"Canada","Toronto","2017","Europe","PL",
+"Canada","Toronto","2017","Europe","AC",
+"Canada","Toronto","2017","Europe","AC - PY",
+"Canada","Toronto","2017","Europe","(AC - PY)%",
+"Canada","Toronto","2017","Europe","AC - PL",
+"Canada","Toronto","2017","Europe","(AC - PL)%",
+"Canada","Toronto","2017","Europe","PL - PY",
+"Canada","Toronto","2017","Europe","(PL - PY)%",
+"Canada","Toronto","2018","Americas","PY","0"
+"Canada","Toronto","2018","Americas","PL","42000"
+"Canada","Toronto","2018","Americas","AC","96000"
+"Canada","Toronto","2018","Americas","AC - PY","96000"
+"Canada","Toronto","2018","Americas","(AC - PY)%",
+"Canada","Toronto","2018","Americas","AC - PL","54000"
+"Canada","Toronto","2018","Americas","(AC - PL)%","1.2857142857142858"
+"Canada","Toronto","2018","Americas","PL - PY","42000"
+"Canada","Toronto","2018","Americas","(PL - PY)%",
+"Canada","Toronto","2018","Asia-Pacific","PY",
+"Canada","Toronto","2018","Asia-Pacific","PL",
+"Canada","Toronto","2018","Asia-Pacific","AC",
+"Canada","Toronto","2018","Asia-Pacific","AC - PY",
+"Canada","Toronto","2018","Asia-Pacific","(AC - PY)%",
+"Canada","Toronto","2018","Asia-Pacific","AC - PL",
+"Canada","Toronto","2018","Asia-Pacific","(AC - PL)%",
+"Canada","Toronto","2018","Asia-Pacific","PL - PY",
+"Canada","Toronto","2018","Asia-Pacific","(PL - PY)%",
+"Canada","Toronto","2018","Europe","PY",
+"Canada","Toronto","2018","Europe","PL",
+"Canada","Toronto","2018","Europe","AC",
+"Canada","Toronto","2018","Europe","AC - PY",
+"Canada","Toronto","2018","Europe","(AC - PY)%",
+"Canada","Toronto","2018","Europe","AC - PL",
+"Canada","Toronto","2018","Europe","(AC - PL)%",
+"Canada","Toronto","2018","Europe","PL - PY",
+"Canada","Toronto","2018","Europe","(PL - PY)%",
+"Canada","Toronto","2019","Americas","PY","35000"
+"Canada","Toronto","2019","Americas","PL","93000"
+"Canada","Toronto","2019","Americas","AC","47000"
+"Canada","Toronto","2019","Americas","AC - PY","12000"
+"Canada","Toronto","2019","Americas","(AC - PY)%","0.34285714285714286"
+"Canada","Toronto","2019","Americas","AC - PL","-46000"
+"Canada","Toronto","2019","Americas","(AC - PL)%","-0.4946236559139785"
+"Canada","Toronto","2019","Americas","PL - PY","58000"
+"Canada","Toronto","2019","Americas","(PL - PY)%","1.6571428571428573"
+"Canada","Toronto","2019","Asia-Pacific","PY",
+"Canada","Toronto","2019","Asia-Pacific","PL",
+"Canada","Toronto","2019","Asia-Pacific","AC",
+"Canada","Toronto","2019","Asia-Pacific","AC - PY",
+"Canada","Toronto","2019","Asia-Pacific","(AC - PY)%",
+"Canada","Toronto","2019","Asia-Pacific","AC - PL",
+"Canada","Toronto","2019","Asia-Pacific","(AC - PL)%",
+"Canada","Toronto","2019","Asia-Pacific","PL - PY",
+"Canada","Toronto","2019","Asia-Pacific","(PL - PY)%",
+"Canada","Toronto","2019","Europe","PY",
+"Canada","Toronto","2019","Europe","PL",
+"Canada","Toronto","2019","Europe","AC",
+"Canada","Toronto","2019","Europe","AC - PY",
+"Canada","Toronto","2019","Europe","(AC - PY)%",
+"Canada","Toronto","2019","Europe","AC - PL",
+"Canada","Toronto","2019","Europe","(AC - PL)%",
+"Canada","Toronto","2019","Europe","PL - PY",
+"Canada","Toronto","2019","Europe","(PL - PY)%",
+"Canada","Montreal","2017","Americas","PY","107000"
+"Canada","Montreal","2017","Americas","PL","38000"
+"Canada","Montreal","2017","Americas","AC","51000"
+"Canada","Montreal","2017","Americas","AC - PY","-56000"
+"Canada","Montreal","2017","Americas","(AC - PY)%","-0.5233644859813084"
+"Canada","Montreal","2017","Americas","AC - PL","13000"
+"Canada","Montreal","2017","Americas","(AC - PL)%","0.34210526315789475"
+"Canada","Montreal","2017","Americas","PL - PY","-69000"
+"Canada","Montreal","2017","Americas","(PL - PY)%","-0.6448598130841121"
+"Canada","Montreal","2017","Asia-Pacific","PY",
+"Canada","Montreal","2017","Asia-Pacific","PL",
+"Canada","Montreal","2017","Asia-Pacific","AC",
+"Canada","Montreal","2017","Asia-Pacific","AC - PY",
+"Canada","Montreal","2017","Asia-Pacific","(AC - PY)%",
+"Canada","Montreal","2017","Asia-Pacific","AC - PL",
+"Canada","Montreal","2017","Asia-Pacific","(AC - PL)%",
+"Canada","Montreal","2017","Asia-Pacific","PL - PY",
+"Canada","Montreal","2017","Asia-Pacific","(PL - PY)%",
+"Canada","Montreal","2017","Europe","PY",
+"Canada","Montreal","2017","Europe","PL",
+"Canada","Montreal","2017","Europe","AC",
+"Canada","Montreal","2017","Europe","AC - PY",
+"Canada","Montreal","2017","Europe","(AC - PY)%",
+"Canada","Montreal","2017","Europe","AC - PL",
+"Canada","Montreal","2017","Europe","(AC - PL)%",
+"Canada","Montreal","2017","Europe","PL - PY",
+"Canada","Montreal","2017","Europe","(PL - PY)%",
+"Canada","Montreal","2018","Americas","PY","-120000"
+"Canada","Montreal","2018","Americas","PL","37000"
+"Canada","Montreal","2018","Americas","AC","49000"
+"Canada","Montreal","2018","Americas","AC - PY","169000"
+"Canada","Montreal","2018","Americas","(AC - PY)%","1.4083333333333334"
+"Canada","Montreal","2018","Americas","AC - PL","12000"
+"Canada","Montreal","2018","Americas","(AC - PL)%","0.32432432432432434"
+"Canada","Montreal","2018","Americas","PL - PY","157000"
+"Canada","Montreal","2018","Americas","(PL - PY)%","1.3083333333333333"
+"Canada","Montreal","2018","Asia-Pacific","PY",
+"Canada","Montreal","2018","Asia-Pacific","PL",
+"Canada","Montreal","2018","Asia-Pacific","AC",
+"Canada","Montreal","2018","Asia-Pacific","AC - PY",
+"Canada","Montreal","2018","Asia-Pacific","(AC - PY)%",
+"Canada","Montreal","2018","Asia-Pacific","AC - PL",
+"Canada","Montreal","2018","Asia-Pacific","(AC - PL)%",
+"Canada","Montreal","2018","Asia-Pacific","PL - PY",
+"Canada","Montreal","2018","Asia-Pacific","(PL - PY)%",
+"Canada","Montreal","2018","Europe","PY",
+"Canada","Montreal","2018","Europe","PL",
+"Canada","Montreal","2018","Europe","AC",
+"Canada","Montreal","2018","Europe","AC - PY",
+"Canada","Montreal","2018","Europe","(AC - PY)%",
+"Canada","Montreal","2018","Europe","AC - PL",
+"Canada","Montreal","2018","Europe","(AC - PL)%",
+"Canada","Montreal","2018","Europe","PL - PY",
+"Canada","Montreal","2018","Europe","(PL - PY)%",
+"Canada","Montreal","2019","Americas","PY","86000"
+"Canada","Montreal","2019","Americas","PL","53000"
+"Canada","Montreal","2019","Americas","AC","39000"
+"Canada","Montreal","2019","Americas","AC - PY","-47000"
+"Canada","Montreal","2019","Americas","(AC - PY)%","-0.5465116279069767"
+"Canada","Montreal","2019","Americas","AC - PL","-14000"
+"Canada","Montreal","2019","Americas","(AC - PL)%","-0.2641509433962264"
+"Canada","Montreal","2019","Americas","PL - PY","-33000"
+"Canada","Montreal","2019","Americas","(PL - PY)%","-0.38372093023255816"
+"Canada","Montreal","2019","Asia-Pacific","PY",
+"Canada","Montreal","2019","Asia-Pacific","PL",
+"Canada","Montreal","2019","Asia-Pacific","AC",
+"Canada","Montreal","2019","Asia-Pacific","AC - PY",
+"Canada","Montreal","2019","Asia-Pacific","(AC - PY)%",
+"Canada","Montreal","2019","Asia-Pacific","AC - PL",
+"Canada","Montreal","2019","Asia-Pacific","(AC - PL)%",
+"Canada","Montreal","2019","Asia-Pacific","PL - PY",
+"Canada","Montreal","2019","Asia-Pacific","(PL - PY)%",
+"Canada","Montreal","2019","Europe","PY",
+"Canada","Montreal","2019","Europe","PL",
+"Canada","Montreal","2019","Europe","AC",
+"Canada","Montreal","2019","Europe","AC - PY",
+"Canada","Montreal","2019","Europe","(AC - PY)%",
+"Canada","Montreal","2019","Europe","AC - PL",
+"Canada","Montreal","2019","Europe","(AC - PL)%",
+"Canada","Montreal","2019","Europe","PL - PY",
+"Canada","Montreal","2019","Europe","(PL - PY)%",
+"Other","Chicago","2017","Americas","PY","111000"
+"Other","Chicago","2017","Americas","PL","38000"
+"Other","Chicago","2017","Americas","AC","97000"
+"Other","Chicago","2017","Americas","AC - PY","-14000"
+"Other","Chicago","2017","Americas","(AC - PY)%","-0.12612612612612611"
+"Other","Chicago","2017","Americas","AC - PL","59000"
+"Other","Chicago","2017","Americas","(AC - PL)%","1.5526315789473686"
+"Other","Chicago","2017","Americas","PL - PY","-73000"
+"Other","Chicago","2017","Americas","(PL - PY)%","-0.6576576576576578"
+"Other","Chicago","2017","Asia-Pacific","PY",
+"Other","Chicago","2017","Asia-Pacific","PL",
+"Other","Chicago","2017","Asia-Pacific","AC",
+"Other","Chicago","2017","Asia-Pacific","AC - PY",
+"Other","Chicago","2017","Asia-Pacific","(AC - PY)%",
+"Other","Chicago","2017","Asia-Pacific","AC - PL",
+"Other","Chicago","2017","Asia-Pacific","(AC - PL)%",
+"Other","Chicago","2017","Asia-Pacific","PL - PY",
+"Other","Chicago","2017","Asia-Pacific","(PL - PY)%",
+"Other","Chicago","2017","Europe","PY",
+"Other","Chicago","2017","Europe","PL",
+"Other","Chicago","2017","Europe","AC",
+"Other","Chicago","2017","Europe","AC - PY",
+"Other","Chicago","2017","Europe","(AC - PY)%",
+"Other","Chicago","2017","Europe","AC - PL",
+"Other","Chicago","2017","Europe","(AC - PL)%",
+"Other","Chicago","2017","Europe","PL - PY",
+"Other","Chicago","2017","Europe","(PL - PY)%",
+"Other","Chicago","2018","Americas","PY","93000"
+"Other","Chicago","2018","Americas","PL",
+"Other","Chicago","2018","Americas","AC","67000"
+"Other","Chicago","2018","Americas","AC - PY","-26000"
+"Other","Chicago","2018","Americas","(AC - PY)%","-0.27956989247311825"
+"Other","Chicago","2018","Americas","AC - PL","67000"
+"Other","Chicago","2018","Americas","(AC - PL)%",
+"Other","Chicago","2018","Americas","PL - PY","-93000"
+"Other","Chicago","2018","Americas","(PL - PY)%","-1"
+"Other","Chicago","2018","Asia-Pacific","PY",
+"Other","Chicago","2018","Asia-Pacific","PL",
+"Other","Chicago","2018","Asia-Pacific","AC",
+"Other","Chicago","2018","Asia-Pacific","AC - PY",
+"Other","Chicago","2018","Asia-Pacific","(AC - PY)%",
+"Other","Chicago","2018","Asia-Pacific","AC - PL",
+"Other","Chicago","2018","Asia-Pacific","(AC - PL)%",
+"Other","Chicago","2018","Asia-Pacific","PL - PY",
+"Other","Chicago","2018","Asia-Pacific","(PL - PY)%",
+"Other","Chicago","2018","Europe","PY",
+"Other","Chicago","2018","Europe","PL",
+"Other","Chicago","2018","Europe","AC",
+"Other","Chicago","2018","Europe","AC - PY",
+"Other","Chicago","2018","Europe","(AC - PY)%",
+"Other","Chicago","2018","Europe","AC - PL",
+"Other","Chicago","2018","Europe","(AC - PL)%",
+"Other","Chicago","2018","Europe","PL - PY",
+"Other","Chicago","2018","Europe","(PL - PY)%",
+"Other","Chicago","2019","Americas","PY","85000"
+"Other","Chicago","2019","Americas","PL","37000"
+"Other","Chicago","2019","Americas","AC","125000"
+"Other","Chicago","2019","Americas","AC - PY","40000"
+"Other","Chicago","2019","Americas","(AC - PY)%","0.4705882352941176"
+"Other","Chicago","2019","Americas","AC - PL","88000"
+"Other","Chicago","2019","Americas","(AC - PL)%","2.3783783783783785"
+"Other","Chicago","2019","Americas","PL - PY","-48000"
+"Other","Chicago","2019","Americas","(PL - PY)%","-0.5647058823529412"
+"Other","Chicago","2019","Asia-Pacific","PY",
+"Other","Chicago","2019","Asia-Pacific","PL",
+"Other","Chicago","2019","Asia-Pacific","AC",
+"Other","Chicago","2019","Asia-Pacific","AC - PY",
+"Other","Chicago","2019","Asia-Pacific","(AC - PY)%",
+"Other","Chicago","2019","Asia-Pacific","AC - PL",
+"Other","Chicago","2019","Asia-Pacific","(AC - PL)%",
+"Other","Chicago","2019","Asia-Pacific","PL - PY",
+"Other","Chicago","2019","Asia-Pacific","(PL - PY)%",
+"Other","Chicago","2019","Europe","PY",
+"Other","Chicago","2019","Europe","PL",
+"Other","Chicago","2019","Europe","AC",
+"Other","Chicago","2019","Europe","AC - PY",
+"Other","Chicago","2019","Europe","(AC - PY)%",
+"Other","Chicago","2019","Europe","AC - PL",
+"Other","Chicago","2019","Europe","(AC - PL)%",
+"Other","Chicago","2019","Europe","PL - PY",
+"Other","Chicago","2019","Europe","(PL - PY)%",
+"Other","Finland","2017","Americas","PY",
+"Other","Finland","2017","Americas","PL",
+"Other","Finland","2017","Americas","AC",
+"Other","Finland","2017","Americas","AC - PY",
+"Other","Finland","2017","Americas","(AC - PY)%",
+"Other","Finland","2017","Americas","AC - PL",
+"Other","Finland","2017","Americas","(AC - PL)%",
+"Other","Finland","2017","Americas","PL - PY",
+"Other","Finland","2017","Americas","(PL - PY)%",
+"Other","Finland","2017","Asia-Pacific","PY",
+"Other","Finland","2017","Asia-Pacific","PL",
+"Other","Finland","2017","Asia-Pacific","AC",
+"Other","Finland","2017","Asia-Pacific","AC - PY",
+"Other","Finland","2017","Asia-Pacific","(AC - PY)%",
+"Other","Finland","2017","Asia-Pacific","AC - PL",
+"Other","Finland","2017","Asia-Pacific","(AC - PL)%",
+"Other","Finland","2017","Asia-Pacific","PL - PY",
+"Other","Finland","2017","Asia-Pacific","(PL - PY)%",
+"Other","Finland","2017","Europe","PY","77000"
+"Other","Finland","2017","Europe","PL","64000"
+"Other","Finland","2017","Europe","AC","142000"
+"Other","Finland","2017","Europe","AC - PY","65000"
+"Other","Finland","2017","Europe","(AC - PY)%","0.8441558441558441"
+"Other","Finland","2017","Europe","AC - PL","78000"
+"Other","Finland","2017","Europe","(AC - PL)%","1.21875"
+"Other","Finland","2017","Europe","PL - PY","-13000"
+"Other","Finland","2017","Europe","(PL - PY)%","-0.16883116883116883"
+"Other","Finland","2018","Americas","PY",
+"Other","Finland","2018","Americas","PL",
+"Other","Finland","2018","Americas","AC",
+"Other","Finland","2018","Americas","AC - PY",
+"Other","Finland","2018","Americas","(AC - PY)%",
+"Other","Finland","2018","Americas","AC - PL",
+"Other","Finland","2018","Americas","(AC - PL)%",
+"Other","Finland","2018","Americas","PL - PY",
+"Other","Finland","2018","Americas","(PL - PY)%",
+"Other","Finland","2018","Asia-Pacific","PY",
+"Other","Finland","2018","Asia-Pacific","PL",
+"Other","Finland","2018","Asia-Pacific","AC",
+"Other","Finland","2018","Asia-Pacific","AC - PY",
+"Other","Finland","2018","Asia-Pacific","(AC - PY)%",
+"Other","Finland","2018","Asia-Pacific","AC - PL",
+"Other","Finland","2018","Asia-Pacific","(AC - PL)%",
+"Other","Finland","2018","Asia-Pacific","PL - PY",
+"Other","Finland","2018","Asia-Pacific","(PL - PY)%",
+"Other","Finland","2018","Europe","PY","0"
+"Other","Finland","2018","Europe","PL","131000"
+"Other","Finland","2018","Europe","AC","41000"
+"Other","Finland","2018","Europe","AC - PY","41000"
+"Other","Finland","2018","Europe","(AC - PY)%",
+"Other","Finland","2018","Europe","AC - PL","-90000"
+"Other","Finland","2018","Europe","(AC - PL)%","-0.6870229007633588"
+"Other","Finland","2018","Europe","PL - PY","131000"
+"Other","Finland","2018","Europe","(PL - PY)%",
+"Other","Finland","2019","Americas","PY",
+"Other","Finland","2019","Americas","PL",
+"Other","Finland","2019","Americas","AC",
+"Other","Finland","2019","Americas","AC - PY",
+"Other","Finland","2019","Americas","(AC - PY)%",
+"Other","Finland","2019","Americas","AC - PL",
+"Other","Finland","2019","Americas","(AC - PL)%",
+"Other","Finland","2019","Americas","PL - PY",
+"Other","Finland","2019","Americas","(PL - PY)%",
+"Other","Finland","2019","Asia-Pacific","PY",
+"Other","Finland","2019","Asia-Pacific","PL",
+"Other","Finland","2019","Asia-Pacific","AC",
+"Other","Finland","2019","Asia-Pacific","AC - PY",
+"Other","Finland","2019","Asia-Pacific","(AC - PY)%",
+"Other","Finland","2019","Asia-Pacific","AC - PL",
+"Other","Finland","2019","Asia-Pacific","(AC - PL)%",
+"Other","Finland","2019","Asia-Pacific","PL - PY",
+"Other","Finland","2019","Asia-Pacific","(PL - PY)%",
+"Other","Finland","2019","Europe","PY","50000"
+"Other","Finland","2019","Europe","PL","45000"
+"Other","Finland","2019","Europe","AC","83000"
+"Other","Finland","2019","Europe","AC - PY","33000"
+"Other","Finland","2019","Europe","(AC - PY)%","0.66"
+"Other","Finland","2019","Europe","AC - PL","38000"
+"Other","Finland","2019","Europe","(AC - PL)%","0.8444444444444444"
+"Other","Finland","2019","Europe","PL - PY","-5000"
+"Other","Finland","2019","Europe","(PL - PY)%","-0.1"
+"Other","Seoul","2017","Americas","PY",
+"Other","Seoul","2017","Americas","PL",
+"Other","Seoul","2017","Americas","AC",
+"Other","Seoul","2017","Americas","AC - PY",
+"Other","Seoul","2017","Americas","(AC - PY)%",
+"Other","Seoul","2017","Americas","AC - PL",
+"Other","Seoul","2017","Americas","(AC - PL)%",
+"Other","Seoul","2017","Americas","PL - PY",
+"Other","Seoul","2017","Americas","(PL - PY)%",
+"Other","Seoul","2017","Asia-Pacific","PY","134000"
+"Other","Seoul","2017","Asia-Pacific","PL","111000"
+"Other","Seoul","2017","Asia-Pacific","AC","50000"
+"Other","Seoul","2017","Asia-Pacific","AC - PY","-84000"
+"Other","Seoul","2017","Asia-Pacific","(AC - PY)%","-0.6268656716417911"
+"Other","Seoul","2017","Asia-Pacific","AC - PL","-61000"
+"Other","Seoul","2017","Asia-Pacific","(AC - PL)%","-0.5495495495495496"
+"Other","Seoul","2017","Asia-Pacific","PL - PY","-23000"
+"Other","Seoul","2017","Asia-Pacific","(PL - PY)%","-0.17164179104477612"
+"Other","Seoul","2017","Europe","PY",
+"Other","Seoul","2017","Europe","PL",
+"Other","Seoul","2017","Europe","AC",
+"Other","Seoul","2017","Europe","AC - PY",
+"Other","Seoul","2017","Europe","(AC - PY)%",
+"Other","Seoul","2017","Europe","AC - PL",
+"Other","Seoul","2017","Europe","(AC - PL)%",
+"Other","Seoul","2017","Europe","PL - PY",
+"Other","Seoul","2017","Europe","(PL - PY)%",
+"Other","Seoul","2018","Americas","PY",
+"Other","Seoul","2018","Americas","PL",
+"Other","Seoul","2018","Americas","AC",
+"Other","Seoul","2018","Americas","AC - PY",
+"Other","Seoul","2018","Americas","(AC - PY)%",
+"Other","Seoul","2018","Americas","AC - PL",
+"Other","Seoul","2018","Americas","(AC - PL)%",
+"Other","Seoul","2018","Americas","PL - PY",
+"Other","Seoul","2018","Americas","(PL - PY)%",
+"Other","Seoul","2018","Asia-Pacific","PY","78000"
+"Other","Seoul","2018","Asia-Pacific","PL","52000"
+"Other","Seoul","2018","Asia-Pacific","AC","78000"
+"Other","Seoul","2018","Asia-Pacific","AC - PY","0"
+"Other","Seoul","2018","Asia-Pacific","(AC - PY)%","0"
+"Other","Seoul","2018","Asia-Pacific","AC - PL","26000"
+"Other","Seoul","2018","Asia-Pacific","(AC - PL)%","0.5"
+"Other","Seoul","2018","Asia-Pacific","PL - PY","-26000"
+"Other","Seoul","2018","Asia-Pacific","(PL - PY)%","-0.33333333333333326"
+"Other","Seoul","2018","Europe","PY",
+"Other","Seoul","2018","Europe","PL",
+"Other","Seoul","2018","Europe","AC",
+"Other","Seoul","2018","Europe","AC - PY",
+"Other","Seoul","2018","Europe","(AC - PY)%",
+"Other","Seoul","2018","Europe","AC - PL",
+"Other","Seoul","2018","Europe","(AC - PL)%",
+"Other","Seoul","2018","Europe","PL - PY",
+"Other","Seoul","2018","Europe","(PL - PY)%",
+"Other","Seoul","2019","Americas","PY",
+"Other","Seoul","2019","Americas","PL",
+"Other","Seoul","2019","Americas","AC",
+"Other","Seoul","2019","Americas","AC - PY",
+"Other","Seoul","2019","Americas","(AC - PY)%",
+"Other","Seoul","2019","Americas","AC - PL",
+"Other","Seoul","2019","Americas","(AC - PL)%",
+"Other","Seoul","2019","Americas","PL - PY",
+"Other","Seoul","2019","Americas","(PL - PY)%",
+"Other","Seoul","2019","Asia-Pacific","PY","66000"
+"Other","Seoul","2019","Asia-Pacific","PL","41000"
+"Other","Seoul","2019","Asia-Pacific","AC","69000"
+"Other","Seoul","2019","Asia-Pacific","AC - PY","3000"
+"Other","Seoul","2019","Asia-Pacific","(AC - PY)%","0.045454545454545456"
+"Other","Seoul","2019","Asia-Pacific","AC - PL","28000"
+"Other","Seoul","2019","Asia-Pacific","(AC - PL)%","0.6829268292682927"
+"Other","Seoul","2019","Asia-Pacific","PL - PY","-25000"
+"Other","Seoul","2019","Asia-Pacific","(PL - PY)%","-0.37878787878787873"
+"Other","Seoul","2019","Europe","PY",
+"Other","Seoul","2019","Europe","PL",
+"Other","Seoul","2019","Europe","AC",
+"Other","Seoul","2019","Europe","AC - PY",
+"Other","Seoul","2019","Europe","(AC - PY)%",
+"Other","Seoul","2019","Europe","AC - PL",
+"Other","Seoul","2019","Europe","(AC - PL)%",
+"Other","Seoul","2019","Europe","PL - PY",
+"Other","Seoul","2019","Europe","(PL - PY)%",
+"Australia","Brisbane","2017","Americas","PY",
+"Australia","Brisbane","2017","Americas","PL",
+"Australia","Brisbane","2017","Americas","AC",
+"Australia","Brisbane","2017","Americas","AC - PY",
+"Australia","Brisbane","2017","Americas","(AC - PY)%",
+"Australia","Brisbane","2017","Americas","AC - PL",
+"Australia","Brisbane","2017","Americas","(AC - PL)%",
+"Australia","Brisbane","2017","Americas","PL - PY",
+"Australia","Brisbane","2017","Americas","(PL - PY)%",
+"Australia","Brisbane","2017","Asia-Pacific","PY","266000"
+"Australia","Brisbane","2017","Asia-Pacific","PL","204000"
+"Australia","Brisbane","2017","Asia-Pacific","AC","231000"
+"Australia","Brisbane","2017","Asia-Pacific","AC - PY","-35000"
+"Australia","Brisbane","2017","Asia-Pacific","(AC - PY)%","-0.13157894736842105"
+"Australia","Brisbane","2017","Asia-Pacific","AC - PL","27000"
+"Australia","Brisbane","2017","Asia-Pacific","(AC - PL)%","0.1323529411764706"
+"Australia","Brisbane","2017","Asia-Pacific","PL - PY","-62000"
+"Australia","Brisbane","2017","Asia-Pacific","(PL - PY)%","-0.23308270676691728"
+"Australia","Brisbane","2017","Europe","PY",
+"Australia","Brisbane","2017","Europe","PL",
+"Australia","Brisbane","2017","Europe","AC",
+"Australia","Brisbane","2017","Europe","AC - PY",
+"Australia","Brisbane","2017","Europe","(AC - PY)%",
+"Australia","Brisbane","2017","Europe","AC - PL",
+"Australia","Brisbane","2017","Europe","(AC - PL)%",
+"Australia","Brisbane","2017","Europe","PL - PY",
+"Australia","Brisbane","2017","Europe","(PL - PY)%",
+"Australia","Brisbane","2018","Americas","PY",
+"Australia","Brisbane","2018","Americas","PL",
+"Australia","Brisbane","2018","Americas","AC",
+"Australia","Brisbane","2018","Americas","AC - PY",
+"Australia","Brisbane","2018","Americas","(AC - PY)%",
+"Australia","Brisbane","2018","Americas","AC - PL",
+"Australia","Brisbane","2018","Americas","(AC - PL)%",
+"Australia","Brisbane","2018","Americas","PL - PY",
+"Australia","Brisbane","2018","Americas","(PL - PY)%",
+"Australia","Brisbane","2018","Asia-Pacific","PY","46000"
+"Australia","Brisbane","2018","Asia-Pacific","PL","71000"
+"Australia","Brisbane","2018","Asia-Pacific","AC","149000"
+"Australia","Brisbane","2018","Asia-Pacific","AC - PY","103000"
+"Australia","Brisbane","2018","Asia-Pacific","(AC - PY)%","2.239130434782609"
+"Australia","Brisbane","2018","Asia-Pacific","AC - PL","78000"
+"Australia","Brisbane","2018","Asia-Pacific","(AC - PL)%","1.0985915492957747"
+"Australia","Brisbane","2018","Asia-Pacific","PL - PY","25000"
+"Australia","Brisbane","2018","Asia-Pacific","(PL - PY)%","0.5434782608695652"
+"Australia","Brisbane","2018","Europe","PY",
+"Australia","Brisbane","2018","Europe","PL",
+"Australia","Brisbane","2018","Europe","AC",
+"Australia","Brisbane","2018","Europe","AC - PY",
+"Australia","Brisbane","2018","Europe","(AC - PY)%",
+"Australia","Brisbane","2018","Europe","AC - PL",
+"Australia","Brisbane","2018","Europe","(AC - PL)%",
+"Australia","Brisbane","2018","Europe","PL - PY",
+"Australia","Brisbane","2018","Europe","(PL - PY)%",
+"Australia","Brisbane","2019","Americas","PY",
+"Australia","Brisbane","2019","Americas","PL",
+"Australia","Brisbane","2019","Americas","AC",
+"Australia","Brisbane","2019","Americas","AC - PY",
+"Australia","Brisbane","2019","Americas","(AC - PY)%",
+"Australia","Brisbane","2019","Americas","AC - PL",
+"Australia","Brisbane","2019","Americas","(AC - PL)%",
+"Australia","Brisbane","2019","Americas","PL - PY",
+"Australia","Brisbane","2019","Americas","(PL - PY)%",
+"Australia","Brisbane","2019","Asia-Pacific","PY","70000"
+"Australia","Brisbane","2019","Asia-Pacific","PL","97000"
+"Australia","Brisbane","2019","Asia-Pacific","AC","38000"
+"Australia","Brisbane","2019","Asia-Pacific","AC - PY","-32000"
+"Australia","Brisbane","2019","Asia-Pacific","(AC - PY)%","-0.45714285714285713"
+"Australia","Brisbane","2019","Asia-Pacific","AC - PL","-59000"
+"Australia","Brisbane","2019","Asia-Pacific","(AC - PL)%","-0.6082474226804123"
+"Australia","Brisbane","2019","Asia-Pacific","PL - PY","27000"
+"Australia","Brisbane","2019","Asia-Pacific","(PL - PY)%","0.3857142857142858"
+"Australia","Brisbane","2019","Europe","PY",
+"Australia","Brisbane","2019","Europe","PL",
+"Australia","Brisbane","2019","Europe","AC",
+"Australia","Brisbane","2019","Europe","AC - PY",
+"Australia","Brisbane","2019","Europe","(AC - PY)%",
+"Australia","Brisbane","2019","Europe","AC - PL",
+"Australia","Brisbane","2019","Europe","(AC - PL)%",
+"Australia","Brisbane","2019","Europe","PL - PY",
+"Australia","Brisbane","2019","Europe","(PL - PY)%",
+"Australia","Sydney","2017","Americas","PY",
+"Australia","Sydney","2017","Americas","PL",
+"Australia","Sydney","2017","Americas","AC",
+"Australia","Sydney","2017","Americas","AC - PY",
+"Australia","Sydney","2017","Americas","(AC - PY)%",
+"Australia","Sydney","2017","Americas","AC - PL",
+"Australia","Sydney","2017","Americas","(AC - PL)%",
+"Australia","Sydney","2017","Americas","PL - PY",
+"Australia","Sydney","2017","Americas","(PL - PY)%",
+"Australia","Sydney","2017","Asia-Pacific","PY","54000"
+"Australia","Sydney","2017","Asia-Pacific","PL","66000"
+"Australia","Sydney","2017","Asia-Pacific","AC","62000"
+"Australia","Sydney","2017","Asia-Pacific","AC - PY","8000"
+"Australia","Sydney","2017","Asia-Pacific","(AC - PY)%","0.14814814814814814"
+"Australia","Sydney","2017","Asia-Pacific","AC - PL","-4000"
+"Australia","Sydney","2017","Asia-Pacific","(AC - PL)%","-0.06060606060606061"
+"Australia","Sydney","2017","Asia-Pacific","PL - PY","12000"
+"Australia","Sydney","2017","Asia-Pacific","(PL - PY)%","0.2222222222222222"
+"Australia","Sydney","2017","Europe","PY",
+"Australia","Sydney","2017","Europe","PL",
+"Australia","Sydney","2017","Europe","AC",
+"Australia","Sydney","2017","Europe","AC - PY",
+"Australia","Sydney","2017","Europe","(AC - PY)%",
+"Australia","Sydney","2017","Europe","AC - PL",
+"Australia","Sydney","2017","Europe","(AC - PL)%",
+"Australia","Sydney","2017","Europe","PL - PY",
+"Australia","Sydney","2017","Europe","(PL - PY)%",
+"Australia","Sydney","2018","Americas","PY",
+"Australia","Sydney","2018","Americas","PL",
+"Australia","Sydney","2018","Americas","AC",
+"Australia","Sydney","2018","Americas","AC - PY",
+"Australia","Sydney","2018","Americas","(AC - PY)%",
+"Australia","Sydney","2018","Americas","AC - PL",
+"Australia","Sydney","2018","Americas","(AC - PL)%",
+"Australia","Sydney","2018","Americas","PL - PY",
+"Australia","Sydney","2018","Americas","(PL - PY)%",
+"Australia","Sydney","2018","Asia-Pacific","PY","38000"
+"Australia","Sydney","2018","Asia-Pacific","PL","109000"
+"Australia","Sydney","2018","Asia-Pacific","AC","117000"
+"Australia","Sydney","2018","Asia-Pacific","AC - PY","79000"
+"Australia","Sydney","2018","Asia-Pacific","(AC - PY)%","2.0789473684210527"
+"Australia","Sydney","2018","Asia-Pacific","AC - PL","8000"
+"Australia","Sydney","2018","Asia-Pacific","(AC - PL)%","0.07339449541284404"
+"Australia","Sydney","2018","Asia-Pacific","PL - PY","71000"
+"Australia","Sydney","2018","Asia-Pacific","(PL - PY)%","1.868421052631579"
+"Australia","Sydney","2018","Europe","PY",
+"Australia","Sydney","2018","Europe","PL",
+"Australia","Sydney","2018","Europe","AC",
+"Australia","Sydney","2018","Europe","AC - PY",
+"Australia","Sydney","2018","Europe","(AC - PY)%",
+"Australia","Sydney","2018","Europe","AC - PL",
+"Australia","Sydney","2018","Europe","(AC - PL)%",
+"Australia","Sydney","2018","Europe","PL - PY",
+"Australia","Sydney","2018","Europe","(PL - PY)%",
+"Australia","Sydney","2019","Americas","PY",
+"Australia","Sydney","2019","Americas","PL",
+"Australia","Sydney","2019","Americas","AC",
+"Australia","Sydney","2019","Americas","AC - PY",
+"Australia","Sydney","2019","Americas","(AC - PY)%",
+"Australia","Sydney","2019","Americas","AC - PL",
+"Australia","Sydney","2019","Americas","(AC - PL)%",
+"Australia","Sydney","2019","Americas","PL - PY",
+"Australia","Sydney","2019","Americas","(PL - PY)%",
+"Australia","Sydney","2019","Asia-Pacific","PY","147000"
+"Australia","Sydney","2019","Asia-Pacific","PL","42000"
+"Australia","Sydney","2019","Asia-Pacific","AC","42000"
+"Australia","Sydney","2019","Asia-Pacific","AC - PY","-105000"
+"Australia","Sydney","2019","Asia-Pacific","(AC - PY)%","-0.7142857142857143"
+"Australia","Sydney","2019","Asia-Pacific","AC - PL","0"
+"Australia","Sydney","2019","Asia-Pacific","(AC - PL)%","0"
+"Australia","Sydney","2019","Asia-Pacific","PL - PY","-105000"
+"Australia","Sydney","2019","Asia-Pacific","(PL - PY)%","-0.7142857142857143"
+"Australia","Sydney","2019","Europe","PY",
+"Australia","Sydney","2019","Europe","PL",
+"Australia","Sydney","2019","Europe","AC",
+"Australia","Sydney","2019","Europe","AC - PY",
+"Australia","Sydney","2019","Europe","(AC - PY)%",
+"Australia","Sydney","2019","Europe","AC - PL",
+"Australia","Sydney","2019","Europe","(AC - PL)%",
+"Australia","Sydney","2019","Europe","PL - PY",
+"Australia","Sydney","2019","Europe","(PL - PY)%",
+"Australia","Melbourne","2017","Americas","PY",
+"Australia","Melbourne","2017","Americas","PL",
+"Australia","Melbourne","2017","Americas","AC",
+"Australia","Melbourne","2017","Americas","AC - PY",
+"Australia","Melbourne","2017","Americas","(AC - PY)%",
+"Australia","Melbourne","2017","Americas","AC - PL",
+"Australia","Melbourne","2017","Americas","(AC - PL)%",
+"Australia","Melbourne","2017","Americas","PL - PY",
+"Australia","Melbourne","2017","Americas","(PL - PY)%",
+"Australia","Melbourne","2017","Asia-Pacific","PY","9000"
+"Australia","Melbourne","2017","Asia-Pacific","PL","12000"
+"Australia","Melbourne","2017","Asia-Pacific","AC","11000"
+"Australia","Melbourne","2017","Asia-Pacific","AC - PY","2000"
+"Australia","Melbourne","2017","Asia-Pacific","(AC - PY)%","0.2222222222222222"
+"Australia","Melbourne","2017","Asia-Pacific","AC - PL","-1000"
+"Australia","Melbourne","2017","Asia-Pacific","(AC - PL)%","-0.08333333333333331"
+"Australia","Melbourne","2017","Asia-Pacific","PL - PY","3000"
+"Australia","Melbourne","2017","Asia-Pacific","(PL - PY)%","0.33333333333333326"
+"Australia","Melbourne","2017","Europe","PY",
+"Australia","Melbourne","2017","Europe","PL",
+"Australia","Melbourne","2017","Europe","AC",
+"Australia","Melbourne","2017","Europe","AC - PY",
+"Australia","Melbourne","2017","Europe","(AC - PY)%",
+"Australia","Melbourne","2017","Europe","AC - PL",
+"Australia","Melbourne","2017","Europe","(AC - PL)%",
+"Australia","Melbourne","2017","Europe","PL - PY",
+"Australia","Melbourne","2017","Europe","(PL - PY)%",
+"Australia","Melbourne","2018","Americas","PY",
+"Australia","Melbourne","2018","Americas","PL",
+"Australia","Melbourne","2018","Americas","AC",
+"Australia","Melbourne","2018","Americas","AC - PY",
+"Australia","Melbourne","2018","Americas","(AC - PY)%",
+"Australia","Melbourne","2018","Americas","AC - PL",
+"Australia","Melbourne","2018","Americas","(AC - PL)%",
+"Australia","Melbourne","2018","Americas","PL - PY",
+"Australia","Melbourne","2018","Americas","(PL - PY)%",
+"Australia","Melbourne","2018","Asia-Pacific","PY","96000"
+"Australia","Melbourne","2018","Asia-Pacific","PL","130000"
+"Australia","Melbourne","2018","Asia-Pacific","AC","69000"
+"Australia","Melbourne","2018","Asia-Pacific","AC - PY","-27000"
+"Australia","Melbourne","2018","Asia-Pacific","(AC - PY)%","-0.28125"
+"Australia","Melbourne","2018","Asia-Pacific","AC - PL","-61000"
+"Australia","Melbourne","2018","Asia-Pacific","(AC - PL)%","-0.4692307692307692"
+"Australia","Melbourne","2018","Asia-Pacific","PL - PY","34000"
+"Australia","Melbourne","2018","Asia-Pacific","(PL - PY)%","0.35416666666666674"
+"Australia","Melbourne","2018","Europe","PY",
+"Australia","Melbourne","2018","Europe","PL",
+"Australia","Melbourne","2018","Europe","AC",
+"Australia","Melbourne","2018","Europe","AC - PY",
+"Australia","Melbourne","2018","Europe","(AC - PY)%",
+"Australia","Melbourne","2018","Europe","AC - PL",
+"Australia","Melbourne","2018","Europe","(AC - PL)%",
+"Australia","Melbourne","2018","Europe","PL - PY",
+"Australia","Melbourne","2018","Europe","(PL - PY)%",
+"Australia","Melbourne","2019","Americas","PY",
+"Australia","Melbourne","2019","Americas","PL",
+"Australia","Melbourne","2019","Americas","AC",
+"Australia","Melbourne","2019","Americas","AC - PY",
+"Australia","Melbourne","2019","Americas","(AC - PY)%",
+"Australia","Melbourne","2019","Americas","AC - PL",
+"Australia","Melbourne","2019","Americas","(AC - PL)%",
+"Australia","Melbourne","2019","Americas","PL - PY",
+"Australia","Melbourne","2019","Americas","(PL - PY)%",
+"Australia","Melbourne","2019","Asia-Pacific","PY",
+"Australia","Melbourne","2019","Asia-Pacific","PL",
+"Australia","Melbourne","2019","Asia-Pacific","AC",
+"Australia","Melbourne","2019","Asia-Pacific","AC - PY",
+"Australia","Melbourne","2019","Asia-Pacific","(AC - PY)%",
+"Australia","Melbourne","2019","Asia-Pacific","AC - PL",
+"Australia","Melbourne","2019","Asia-Pacific","(AC - PL)%",
+"Australia","Melbourne","2019","Asia-Pacific","PL - PY",
+"Australia","Melbourne","2019","Asia-Pacific","(PL - PY)%",
+"Australia","Melbourne","2019","Europe","PY",
+"Australia","Melbourne","2019","Europe","PL",
+"Australia","Melbourne","2019","Europe","AC",
+"Australia","Melbourne","2019","Europe","AC - PY",
+"Australia","Melbourne","2019","Europe","(AC - PY)%",
+"Australia","Melbourne","2019","Europe","AC - PL",
+"Australia","Melbourne","2019","Europe","(AC - PL)%",
+"Australia","Melbourne","2019","Europe","PL - PY",
+"Australia","Melbourne","2019","Europe","(PL - PY)%",
+"Japan","Tokyo","2017","Americas","PY",
+"Japan","Tokyo","2017","Americas","PL",
+"Japan","Tokyo","2017","Americas","AC",
+"Japan","Tokyo","2017","Americas","AC - PY",
+"Japan","Tokyo","2017","Americas","(AC - PY)%",
+"Japan","Tokyo","2017","Americas","AC - PL",
+"Japan","Tokyo","2017","Americas","(AC - PL)%",
+"Japan","Tokyo","2017","Americas","PL - PY",
+"Japan","Tokyo","2017","Americas","(PL - PY)%",
+"Japan","Tokyo","2017","Asia-Pacific","PY","112000"
+"Japan","Tokyo","2017","Asia-Pacific","PL","69000"
+"Japan","Tokyo","2017","Asia-Pacific","AC","119000"
+"Japan","Tokyo","2017","Asia-Pacific","AC - PY","7000"
+"Japan","Tokyo","2017","Asia-Pacific","(AC - PY)%","0.0625"
+"Japan","Tokyo","2017","Asia-Pacific","AC - PL","50000"
+"Japan","Tokyo","2017","Asia-Pacific","(AC - PL)%","0.7246376811594203"
+"Japan","Tokyo","2017","Asia-Pacific","PL - PY","-43000"
+"Japan","Tokyo","2017","Asia-Pacific","(PL - PY)%","-0.38392857142857145"
+"Japan","Tokyo","2017","Europe","PY",
+"Japan","Tokyo","2017","Europe","PL",
+"Japan","Tokyo","2017","Europe","AC",
+"Japan","Tokyo","2017","Europe","AC - PY",
+"Japan","Tokyo","2017","Europe","(AC - PY)%",
+"Japan","Tokyo","2017","Europe","AC - PL",
+"Japan","Tokyo","2017","Europe","(AC - PL)%",
+"Japan","Tokyo","2017","Europe","PL - PY",
+"Japan","Tokyo","2017","Europe","(PL - PY)%",
+"Japan","Tokyo","2018","Americas","PY",
+"Japan","Tokyo","2018","Americas","PL",
+"Japan","Tokyo","2018","Americas","AC",
+"Japan","Tokyo","2018","Americas","AC - PY",
+"Japan","Tokyo","2018","Americas","(AC - PY)%",
+"Japan","Tokyo","2018","Americas","AC - PL",
+"Japan","Tokyo","2018","Americas","(AC - PL)%",
+"Japan","Tokyo","2018","Americas","PL - PY",
+"Japan","Tokyo","2018","Americas","(PL - PY)%",
+"Japan","Tokyo","2018","Asia-Pacific","PY","59000"
+"Japan","Tokyo","2018","Asia-Pacific","PL","116000"
+"Japan","Tokyo","2018","Asia-Pacific","AC","89000"
+"Japan","Tokyo","2018","Asia-Pacific","AC - PY","30000"
+"Japan","Tokyo","2018","Asia-Pacific","(AC - PY)%","0.5084745762711864"
+"Japan","Tokyo","2018","Asia-Pacific","AC - PL","-27000"
+"Japan","Tokyo","2018","Asia-Pacific","(AC - PL)%","-0.23275862068965517"
+"Japan","Tokyo","2018","Asia-Pacific","PL - PY","57000"
+"Japan","Tokyo","2018","Asia-Pacific","(PL - PY)%","0.9661016949152542"
+"Japan","Tokyo","2018","Europe","PY",
+"Japan","Tokyo","2018","Europe","PL",
+"Japan","Tokyo","2018","Europe","AC",
+"Japan","Tokyo","2018","Europe","AC - PY",
+"Japan","Tokyo","2018","Europe","(AC - PY)%",
+"Japan","Tokyo","2018","Europe","AC - PL",
+"Japan","Tokyo","2018","Europe","(AC - PL)%",
+"Japan","Tokyo","2018","Europe","PL - PY",
+"Japan","Tokyo","2018","Europe","(PL - PY)%",
+"Japan","Tokyo","2019","Americas","PY",
+"Japan","Tokyo","2019","Americas","PL",
+"Japan","Tokyo","2019","Americas","AC",
+"Japan","Tokyo","2019","Americas","AC - PY",
+"Japan","Tokyo","2019","Americas","(AC - PY)%",
+"Japan","Tokyo","2019","Americas","AC - PL",
+"Japan","Tokyo","2019","Americas","(AC - PL)%",
+"Japan","Tokyo","2019","Americas","PL - PY",
+"Japan","Tokyo","2019","Americas","(PL - PY)%",
+"Japan","Tokyo","2019","Asia-Pacific","PY","139000"
+"Japan","Tokyo","2019","Asia-Pacific","PL","94000"
+"Japan","Tokyo","2019","Asia-Pacific","AC","91000"
+"Japan","Tokyo","2019","Asia-Pacific","AC - PY","-48000"
+"Japan","Tokyo","2019","Asia-Pacific","(AC - PY)%","-0.3453237410071942"
+"Japan","Tokyo","2019","Asia-Pacific","AC - PL","-3000"
+"Japan","Tokyo","2019","Asia-Pacific","(AC - PL)%","-0.031914893617021274"
+"Japan","Tokyo","2019","Asia-Pacific","PL - PY","-45000"
+"Japan","Tokyo","2019","Asia-Pacific","(PL - PY)%","-0.3237410071942446"
+"Japan","Tokyo","2019","Europe","PY",
+"Japan","Tokyo","2019","Europe","PL",
+"Japan","Tokyo","2019","Europe","AC",
+"Japan","Tokyo","2019","Europe","AC - PY",
+"Japan","Tokyo","2019","Europe","(AC - PY)%",
+"Japan","Tokyo","2019","Europe","AC - PL",
+"Japan","Tokyo","2019","Europe","(AC - PL)%",
+"Japan","Tokyo","2019","Europe","PL - PY",
+"Japan","Tokyo","2019","Europe","(PL - PY)%",
+"Japan","Hiroshima","2017","Americas","PY",
+"Japan","Hiroshima","2017","Americas","PL",
+"Japan","Hiroshima","2017","Americas","AC",
+"Japan","Hiroshima","2017","Americas","AC - PY",
+"Japan","Hiroshima","2017","Americas","(AC - PY)%",
+"Japan","Hiroshima","2017","Americas","AC - PL",
+"Japan","Hiroshima","2017","Americas","(AC - PL)%",
+"Japan","Hiroshima","2017","Americas","PL - PY",
+"Japan","Hiroshima","2017","Americas","(PL - PY)%",
+"Japan","Hiroshima","2017","Asia-Pacific","PY","117000"
+"Japan","Hiroshima","2017","Asia-Pacific","PL","78000"
+"Japan","Hiroshima","2017","Asia-Pacific","AC","40000"
+"Japan","Hiroshima","2017","Asia-Pacific","AC - PY","-77000"
+"Japan","Hiroshima","2017","Asia-Pacific","(AC - PY)%","-0.658119658119658"
+"Japan","Hiroshima","2017","Asia-Pacific","AC - PL","-38000"
+"Japan","Hiroshima","2017","Asia-Pacific","(AC - PL)%","-0.48717948717948717"
+"Japan","Hiroshima","2017","Asia-Pacific","PL - PY","-39000"
+"Japan","Hiroshima","2017","Asia-Pacific","(PL - PY)%","-0.33333333333333326"
+"Japan","Hiroshima","2017","Europe","PY",
+"Japan","Hiroshima","2017","Europe","PL",
+"Japan","Hiroshima","2017","Europe","AC",
+"Japan","Hiroshima","2017","Europe","AC - PY",
+"Japan","Hiroshima","2017","Europe","(AC - PY)%",
+"Japan","Hiroshima","2017","Europe","AC - PL",
+"Japan","Hiroshima","2017","Europe","(AC - PL)%",
+"Japan","Hiroshima","2017","Europe","PL - PY",
+"Japan","Hiroshima","2017","Europe","(PL - PY)%",
+"Japan","Hiroshima","2018","Americas","PY",
+"Japan","Hiroshima","2018","Americas","PL",
+"Japan","Hiroshima","2018","Americas","AC",
+"Japan","Hiroshima","2018","Americas","AC - PY",
+"Japan","Hiroshima","2018","Americas","(AC - PY)%",
+"Japan","Hiroshima","2018","Americas","AC - PL",
+"Japan","Hiroshima","2018","Americas","(AC - PL)%",
+"Japan","Hiroshima","2018","Americas","PL - PY",
+"Japan","Hiroshima","2018","Americas","(PL - PY)%",
+"Japan","Hiroshima","2018","Asia-Pacific","PY","62000"
+"Japan","Hiroshima","2018","Asia-Pacific","PL","87000"
+"Japan","Hiroshima","2018","Asia-Pacific","AC","92000"
+"Japan","Hiroshima","2018","Asia-Pacific","AC - PY","30000"
+"Japan","Hiroshima","2018","Asia-Pacific","(AC - PY)%","0.4838709677419355"
+"Japan","Hiroshima","2018","Asia-Pacific","AC - PL","5000"
+"Japan","Hiroshima","2018","Asia-Pacific","(AC - PL)%","0.05747126436781609"
+"Japan","Hiroshima","2018","Asia-Pacific","PL - PY","25000"
+"Japan","Hiroshima","2018","Asia-Pacific","(PL - PY)%","0.4032258064516129"
+"Japan","Hiroshima","2018","Europe","PY",
+"Japan","Hiroshima","2018","Europe","PL",
+"Japan","Hiroshima","2018","Europe","AC",
+"Japan","Hiroshima","2018","Europe","AC - PY",
+"Japan","Hiroshima","2018","Europe","(AC - PY)%",
+"Japan","Hiroshima","2018","Europe","AC - PL",
+"Japan","Hiroshima","2018","Europe","(AC - PL)%",
+"Japan","Hiroshima","2018","Europe","PL - PY",
+"Japan","Hiroshima","2018","Europe","(PL - PY)%",
+"Japan","Hiroshima","2019","Americas","PY",
+"Japan","Hiroshima","2019","Americas","PL",
+"Japan","Hiroshima","2019","Americas","AC",
+"Japan","Hiroshima","2019","Americas","AC - PY",
+"Japan","Hiroshima","2019","Americas","(AC - PY)%",
+"Japan","Hiroshima","2019","Americas","AC - PL",
+"Japan","Hiroshima","2019","Americas","(AC - PL)%",
+"Japan","Hiroshima","2019","Americas","PL - PY",
+"Japan","Hiroshima","2019","Americas","(PL - PY)%",
+"Japan","Hiroshima","2019","Asia-Pacific","PY","67000"
+"Japan","Hiroshima","2019","Asia-Pacific","PL","92000"
+"Japan","Hiroshima","2019","Asia-Pacific","AC","102000"
+"Japan","Hiroshima","2019","Asia-Pacific","AC - PY","35000"
+"Japan","Hiroshima","2019","Asia-Pacific","(AC - PY)%","0.5223880597014925"
+"Japan","Hiroshima","2019","Asia-Pacific","AC - PL","10000"
+"Japan","Hiroshima","2019","Asia-Pacific","(AC - PL)%","0.10869565217391304"
+"Japan","Hiroshima","2019","Asia-Pacific","PL - PY","25000"
+"Japan","Hiroshima","2019","Asia-Pacific","(PL - PY)%","0.373134328358209"
+"Japan","Hiroshima","2019","Europe","PY",
+"Japan","Hiroshima","2019","Europe","PL",
+"Japan","Hiroshima","2019","Europe","AC",
+"Japan","Hiroshima","2019","Europe","AC - PY",
+"Japan","Hiroshima","2019","Europe","(AC - PY)%",
+"Japan","Hiroshima","2019","Europe","AC - PL",
+"Japan","Hiroshima","2019","Europe","(AC - PL)%",
+"Japan","Hiroshima","2019","Europe","PL - PY",
+"Japan","Hiroshima","2019","Europe","(PL - PY)%",
+"Japan","Yokohoma","2017","Americas","PY",
+"Japan","Yokohoma","2017","Americas","PL",
+"Japan","Yokohoma","2017","Americas","AC",
+"Japan","Yokohoma","2017","Americas","AC - PY",
+"Japan","Yokohoma","2017","Americas","(AC - PY)%",
+"Japan","Yokohoma","2017","Americas","AC - PL",
+"Japan","Yokohoma","2017","Americas","(AC - PL)%",
+"Japan","Yokohoma","2017","Americas","PL - PY",
+"Japan","Yokohoma","2017","Americas","(PL - PY)%",
+"Japan","Yokohoma","2017","Asia-Pacific","PY","35000"
+"Japan","Yokohoma","2017","Asia-Pacific","PL","85000"
+"Japan","Yokohoma","2017","Asia-Pacific","AC","47000"
+"Japan","Yokohoma","2017","Asia-Pacific","AC - PY","12000"
+"Japan","Yokohoma","2017","Asia-Pacific","(AC - PY)%","0.34285714285714286"
+"Japan","Yokohoma","2017","Asia-Pacific","AC - PL","-38000"
+"Japan","Yokohoma","2017","Asia-Pacific","(AC - PL)%","-0.4470588235294118"
+"Japan","Yokohoma","2017","Asia-Pacific","PL - PY","50000"
+"Japan","Yokohoma","2017","Asia-Pacific","(PL - PY)%","1.4285714285714286"
+"Japan","Yokohoma","2017","Europe","PY",
+"Japan","Yokohoma","2017","Europe","PL",
+"Japan","Yokohoma","2017","Europe","AC",
+"Japan","Yokohoma","2017","Europe","AC - PY",
+"Japan","Yokohoma","2017","Europe","(AC - PY)%",
+"Japan","Yokohoma","2017","Europe","AC - PL",
+"Japan","Yokohoma","2017","Europe","(AC - PL)%",
+"Japan","Yokohoma","2017","Europe","PL - PY",
+"Japan","Yokohoma","2017","Europe","(PL - PY)%",
+"Japan","Yokohoma","2018","Americas","PY",
+"Japan","Yokohoma","2018","Americas","PL",
+"Japan","Yokohoma","2018","Americas","AC",
+"Japan","Yokohoma","2018","Americas","AC - PY",
+"Japan","Yokohoma","2018","Americas","(AC - PY)%",
+"Japan","Yokohoma","2018","Americas","AC - PL",
+"Japan","Yokohoma","2018","Americas","(AC - PL)%",
+"Japan","Yokohoma","2018","Americas","PL - PY",
+"Japan","Yokohoma","2018","Americas","(PL - PY)%",
+"Japan","Yokohoma","2018","Asia-Pacific","PY","66000"
+"Japan","Yokohoma","2018","Asia-Pacific","PL","62000"
+"Japan","Yokohoma","2018","Asia-Pacific","AC","68000"
+"Japan","Yokohoma","2018","Asia-Pacific","AC - PY","2000"
+"Japan","Yokohoma","2018","Asia-Pacific","(AC - PY)%","0.030303030303030304"
+"Japan","Yokohoma","2018","Asia-Pacific","AC - PL","6000"
+"Japan","Yokohoma","2018","Asia-Pacific","(AC - PL)%","0.0967741935483871"
+"Japan","Yokohoma","2018","Asia-Pacific","PL - PY","-4000"
+"Japan","Yokohoma","2018","Asia-Pacific","(PL - PY)%","-0.06060606060606061"
+"Japan","Yokohoma","2018","Europe","PY",
+"Japan","Yokohoma","2018","Europe","PL",
+"Japan","Yokohoma","2018","Europe","AC",
+"Japan","Yokohoma","2018","Europe","AC - PY",
+"Japan","Yokohoma","2018","Europe","(AC - PY)%",
+"Japan","Yokohoma","2018","Europe","AC - PL",
+"Japan","Yokohoma","2018","Europe","(AC - PL)%",
+"Japan","Yokohoma","2018","Europe","PL - PY",
+"Japan","Yokohoma","2018","Europe","(PL - PY)%",
+"Japan","Yokohoma","2019","Americas","PY",
+"Japan","Yokohoma","2019","Americas","PL",
+"Japan","Yokohoma","2019","Americas","AC",
+"Japan","Yokohoma","2019","Americas","AC - PY",
+"Japan","Yokohoma","2019","Americas","(AC - PY)%",
+"Japan","Yokohoma","2019","Americas","AC - PL",
+"Japan","Yokohoma","2019","Americas","(AC - PL)%",
+"Japan","Yokohoma","2019","Americas","PL - PY",
+"Japan","Yokohoma","2019","Americas","(PL - PY)%",
+"Japan","Yokohoma","2019","Asia-Pacific","PY","73000"
+"Japan","Yokohoma","2019","Asia-Pacific","PL","114000"
+"Japan","Yokohoma","2019","Asia-Pacific","AC","36000"
+"Japan","Yokohoma","2019","Asia-Pacific","AC - PY","-37000"
+"Japan","Yokohoma","2019","Asia-Pacific","(AC - PY)%","-0.5068493150684932"
+"Japan","Yokohoma","2019","Asia-Pacific","AC - PL","-78000"
+"Japan","Yokohoma","2019","Asia-Pacific","(AC - PL)%","-0.6842105263157895"
+"Japan","Yokohoma","2019","Asia-Pacific","PL - PY","41000"
+"Japan","Yokohoma","2019","Asia-Pacific","(PL - PY)%","0.5616438356164384"
+"Japan","Yokohoma","2019","Europe","PY",
+"Japan","Yokohoma","2019","Europe","PL",
+"Japan","Yokohoma","2019","Europe","AC",
+"Japan","Yokohoma","2019","Europe","AC - PY",
+"Japan","Yokohoma","2019","Europe","(AC - PY)%",
+"Japan","Yokohoma","2019","Europe","AC - PL",
+"Japan","Yokohoma","2019","Europe","(AC - PL)%",
+"Japan","Yokohoma","2019","Europe","PL - PY",
+"Japan","Yokohoma","2019","Europe","(PL - PY)%",
+"China","Shangai","2017","Americas","PY",
+"China","Shangai","2017","Americas","PL",
+"China","Shangai","2017","Americas","AC",
+"China","Shangai","2017","Americas","AC - PY",
+"China","Shangai","2017","Americas","(AC - PY)%",
+"China","Shangai","2017","Americas","AC - PL",
+"China","Shangai","2017","Americas","(AC - PL)%",
+"China","Shangai","2017","Americas","PL - PY",
+"China","Shangai","2017","Americas","(PL - PY)%",
+"China","Shangai","2017","Asia-Pacific","PY","108000"
+"China","Shangai","2017","Asia-Pacific","PL","129000"
+"China","Shangai","2017","Asia-Pacific","AC","134000"
+"China","Shangai","2017","Asia-Pacific","AC - PY","26000"
+"China","Shangai","2017","Asia-Pacific","(AC - PY)%","0.24074074074074073"
+"China","Shangai","2017","Asia-Pacific","AC - PL","5000"
+"China","Shangai","2017","Asia-Pacific","(AC - PL)%","0.03875968992248062"
+"China","Shangai","2017","Asia-Pacific","PL - PY","21000"
+"China","Shangai","2017","Asia-Pacific","(PL - PY)%","0.19444444444444448"
+"China","Shangai","2017","Europe","PY",
+"China","Shangai","2017","Europe","PL",
+"China","Shangai","2017","Europe","AC",
+"China","Shangai","2017","Europe","AC - PY",
+"China","Shangai","2017","Europe","(AC - PY)%",
+"China","Shangai","2017","Europe","AC - PL",
+"China","Shangai","2017","Europe","(AC - PL)%",
+"China","Shangai","2017","Europe","PL - PY",
+"China","Shangai","2017","Europe","(PL - PY)%",
+"China","Shangai","2018","Americas","PY",
+"China","Shangai","2018","Americas","PL",
+"China","Shangai","2018","Americas","AC",
+"China","Shangai","2018","Americas","AC - PY",
+"China","Shangai","2018","Americas","(AC - PY)%",
+"China","Shangai","2018","Americas","AC - PL",
+"China","Shangai","2018","Americas","(AC - PL)%",
+"China","Shangai","2018","Americas","PL - PY",
+"China","Shangai","2018","Americas","(PL - PY)%",
+"China","Shangai","2018","Asia-Pacific","PY","109000"
+"China","Shangai","2018","Asia-Pacific","PL","63000"
+"China","Shangai","2018","Asia-Pacific","AC","124000"
+"China","Shangai","2018","Asia-Pacific","AC - PY","15000"
+"China","Shangai","2018","Asia-Pacific","(AC - PY)%","0.13761467889908258"
+"China","Shangai","2018","Asia-Pacific","AC - PL","61000"
+"China","Shangai","2018","Asia-Pacific","(AC - PL)%","0.9682539682539683"
+"China","Shangai","2018","Asia-Pacific","PL - PY","-46000"
+"China","Shangai","2018","Asia-Pacific","(PL - PY)%","-0.42201834862385323"
+"China","Shangai","2018","Europe","PY",
+"China","Shangai","2018","Europe","PL",
+"China","Shangai","2018","Europe","AC",
+"China","Shangai","2018","Europe","AC - PY",
+"China","Shangai","2018","Europe","(AC - PY)%",
+"China","Shangai","2018","Europe","AC - PL",
+"China","Shangai","2018","Europe","(AC - PL)%",
+"China","Shangai","2018","Europe","PL - PY",
+"China","Shangai","2018","Europe","(PL - PY)%",
+"China","Shangai","2019","Americas","PY",
+"China","Shangai","2019","Americas","PL",
+"China","Shangai","2019","Americas","AC",
+"China","Shangai","2019","Americas","AC - PY",
+"China","Shangai","2019","Americas","(AC - PY)%",
+"China","Shangai","2019","Americas","AC - PL",
+"China","Shangai","2019","Americas","(AC - PL)%",
+"China","Shangai","2019","Americas","PL - PY",
+"China","Shangai","2019","Americas","(PL - PY)%",
+"China","Shangai","2019","Asia-Pacific","PY","96000"
+"China","Shangai","2019","Asia-Pacific","PL","113000"
+"China","Shangai","2019","Asia-Pacific","AC","68000"
+"China","Shangai","2019","Asia-Pacific","AC - PY","-28000"
+"China","Shangai","2019","Asia-Pacific","(AC - PY)%","-0.2916666666666667"
+"China","Shangai","2019","Asia-Pacific","AC - PL","-45000"
+"China","Shangai","2019","Asia-Pacific","(AC - PL)%","-0.39823008849557523"
+"China","Shangai","2019","Asia-Pacific","PL - PY","17000"
+"China","Shangai","2019","Asia-Pacific","(PL - PY)%","0.17708333333333337"
+"China","Shangai","2019","Europe","PY",
+"China","Shangai","2019","Europe","PL",
+"China","Shangai","2019","Europe","AC",
+"China","Shangai","2019","Europe","AC - PY",
+"China","Shangai","2019","Europe","(AC - PY)%",
+"China","Shangai","2019","Europe","AC - PL",
+"China","Shangai","2019","Europe","(AC - PL)%",
+"China","Shangai","2019","Europe","PL - PY",
+"China","Shangai","2019","Europe","(PL - PY)%",
+"China","Beijing","2017","Americas","PY",
+"China","Beijing","2017","Americas","PL",
+"China","Beijing","2017","Americas","AC",
+"China","Beijing","2017","Americas","AC - PY",
+"China","Beijing","2017","Americas","(AC - PY)%",
+"China","Beijing","2017","Americas","AC - PL",
+"China","Beijing","2017","Americas","(AC - PL)%",
+"China","Beijing","2017","Americas","PL - PY",
+"China","Beijing","2017","Americas","(PL - PY)%",
+"China","Beijing","2017","Asia-Pacific","PY","104000"
+"China","Beijing","2017","Asia-Pacific","PL","35000"
+"China","Beijing","2017","Asia-Pacific","AC","48000"
+"China","Beijing","2017","Asia-Pacific","AC - PY","-56000"
+"China","Beijing","2017","Asia-Pacific","(AC - PY)%","-0.5384615384615384"
+"China","Beijing","2017","Asia-Pacific","AC - PL","13000"
+"China","Beijing","2017","Asia-Pacific","(AC - PL)%","0.37142857142857144"
+"China","Beijing","2017","Asia-Pacific","PL - PY","-69000"
+"China","Beijing","2017","Asia-Pacific","(PL - PY)%","-0.6634615384615384"
+"China","Beijing","2017","Europe","PY",
+"China","Beijing","2017","Europe","PL",
+"China","Beijing","2017","Europe","AC",
+"China","Beijing","2017","Europe","AC - PY",
+"China","Beijing","2017","Europe","(AC - PY)%",
+"China","Beijing","2017","Europe","AC - PL",
+"China","Beijing","2017","Europe","(AC - PL)%",
+"China","Beijing","2017","Europe","PL - PY",
+"China","Beijing","2017","Europe","(PL - PY)%",
+"China","Beijing","2018","Americas","PY",
+"China","Beijing","2018","Americas","PL",
+"China","Beijing","2018","Americas","AC",
+"China","Beijing","2018","Americas","AC - PY",
+"China","Beijing","2018","Americas","(AC - PY)%",
+"China","Beijing","2018","Americas","AC - PL",
+"China","Beijing","2018","Americas","(AC - PL)%",
+"China","Beijing","2018","Americas","PL - PY",
+"China","Beijing","2018","Americas","(PL - PY)%",
+"China","Beijing","2018","Asia-Pacific","PY","92000"
+"China","Beijing","2018","Asia-Pacific","PL","133000"
+"China","Beijing","2018","Asia-Pacific","AC","115000"
+"China","Beijing","2018","Asia-Pacific","AC - PY","23000"
+"China","Beijing","2018","Asia-Pacific","(AC - PY)%","0.25"
+"China","Beijing","2018","Asia-Pacific","AC - PL","-18000"
+"China","Beijing","2018","Asia-Pacific","(AC - PL)%","-0.13533834586466165"
+"China","Beijing","2018","Asia-Pacific","PL - PY","41000"
+"China","Beijing","2018","Asia-Pacific","(PL - PY)%","0.44565217391304346"
+"China","Beijing","2018","Europe","PY",
+"China","Beijing","2018","Europe","PL",
+"China","Beijing","2018","Europe","AC",
+"China","Beijing","2018","Europe","AC - PY",
+"China","Beijing","2018","Europe","(AC - PY)%",
+"China","Beijing","2018","Europe","AC - PL",
+"China","Beijing","2018","Europe","(AC - PL)%",
+"China","Beijing","2018","Europe","PL - PY",
+"China","Beijing","2018","Europe","(PL - PY)%",
+"China","Beijing","2019","Americas","PY",
+"China","Beijing","2019","Americas","PL",
+"China","Beijing","2019","Americas","AC",
+"China","Beijing","2019","Americas","AC - PY",
+"China","Beijing","2019","Americas","(AC - PY)%",
+"China","Beijing","2019","Americas","AC - PL",
+"China","Beijing","2019","Americas","(AC - PL)%",
+"China","Beijing","2019","Americas","PL - PY",
+"China","Beijing","2019","Americas","(PL - PY)%",
+"China","Beijing","2019","Asia-Pacific","PY","145000"
+"China","Beijing","2019","Asia-Pacific","PL","135000"
+"China","Beijing","2019","Asia-Pacific","AC","39000"
+"China","Beijing","2019","Asia-Pacific","AC - PY","-106000"
+"China","Beijing","2019","Asia-Pacific","(AC - PY)%","-0.7310344827586206"
+"China","Beijing","2019","Asia-Pacific","AC - PL","-96000"
+"China","Beijing","2019","Asia-Pacific","(AC - PL)%","-0.7111111111111111"
+"China","Beijing","2019","Asia-Pacific","PL - PY","-10000"
+"China","Beijing","2019","Asia-Pacific","(PL - PY)%","-0.06896551724137931"
+"China","Beijing","2019","Europe","PY",
+"China","Beijing","2019","Europe","PL",
+"China","Beijing","2019","Europe","AC",
+"China","Beijing","2019","Europe","AC - PY",
+"China","Beijing","2019","Europe","(AC - PY)%",
+"China","Beijing","2019","Europe","AC - PL",
+"China","Beijing","2019","Europe","(AC - PL)%",
+"China","Beijing","2019","Europe","PL - PY",
+"China","Beijing","2019","Europe","(PL - PY)%",
+"China","Chengdu","2017","Americas","PY",
+"China","Chengdu","2017","Americas","PL",
+"China","Chengdu","2017","Americas","AC",
+"China","Chengdu","2017","Americas","AC - PY",
+"China","Chengdu","2017","Americas","(AC - PY)%",
+"China","Chengdu","2017","Americas","AC - PL",
+"China","Chengdu","2017","Americas","(AC - PL)%",
+"China","Chengdu","2017","Americas","PL - PY",
+"China","Chengdu","2017","Americas","(PL - PY)%",
+"China","Chengdu","2017","Asia-Pacific","PY","96000"
+"China","Chengdu","2017","Asia-Pacific","PL","130000"
+"China","Chengdu","2017","Asia-Pacific","AC","62000"
+"China","Chengdu","2017","Asia-Pacific","AC - PY","-34000"
+"China","Chengdu","2017","Asia-Pacific","(AC - PY)%","-0.35416666666666674"
+"China","Chengdu","2017","Asia-Pacific","AC - PL","-68000"
+"China","Chengdu","2017","Asia-Pacific","(AC - PL)%","-0.5230769230769231"
+"China","Chengdu","2017","Asia-Pacific","PL - PY","34000"
+"China","Chengdu","2017","Asia-Pacific","(PL - PY)%","0.35416666666666674"
+"China","Chengdu","2017","Europe","PY",
+"China","Chengdu","2017","Europe","PL",
+"China","Chengdu","2017","Europe","AC",
+"China","Chengdu","2017","Europe","AC - PY",
+"China","Chengdu","2017","Europe","(AC - PY)%",
+"China","Chengdu","2017","Europe","AC - PL",
+"China","Chengdu","2017","Europe","(AC - PL)%",
+"China","Chengdu","2017","Europe","PL - PY",
+"China","Chengdu","2017","Europe","(PL - PY)%",
+"China","Chengdu","2018","Americas","PY",
+"China","Chengdu","2018","Americas","PL",
+"China","Chengdu","2018","Americas","AC",
+"China","Chengdu","2018","Americas","AC - PY",
+"China","Chengdu","2018","Americas","(AC - PY)%",
+"China","Chengdu","2018","Americas","AC - PL",
+"China","Chengdu","2018","Americas","(AC - PL)%",
+"China","Chengdu","2018","Americas","PL - PY",
+"China","Chengdu","2018","Americas","(PL - PY)%",
+"China","Chengdu","2018","Asia-Pacific","PY","117000"
+"China","Chengdu","2018","Asia-Pacific","PL","41000"
+"China","Chengdu","2018","Asia-Pacific","AC","48000"
+"China","Chengdu","2018","Asia-Pacific","AC - PY","-69000"
+"China","Chengdu","2018","Asia-Pacific","(AC - PY)%","-0.5897435897435898"
+"China","Chengdu","2018","Asia-Pacific","AC - PL","7000"
+"China","Chengdu","2018","Asia-Pacific","(AC - PL)%","0.17073170731707318"
+"China","Chengdu","2018","Asia-Pacific","PL - PY","-76000"
+"China","Chengdu","2018","Asia-Pacific","(PL - PY)%","-0.6495726495726495"
+"China","Chengdu","2018","Europe","PY",
+"China","Chengdu","2018","Europe","PL",
+"China","Chengdu","2018","Europe","AC",
+"China","Chengdu","2018","Europe","AC - PY",
+"China","Chengdu","2018","Europe","(AC - PY)%",
+"China","Chengdu","2018","Europe","AC - PL",
+"China","Chengdu","2018","Europe","(AC - PL)%",
+"China","Chengdu","2018","Europe","PL - PY",
+"China","Chengdu","2018","Europe","(PL - PY)%",
+"China","Chengdu","2019","Americas","PY",
+"China","Chengdu","2019","Americas","PL",
+"China","Chengdu","2019","Americas","AC",
+"China","Chengdu","2019","Americas","AC - PY",
+"China","Chengdu","2019","Americas","(AC - PY)%",
+"China","Chengdu","2019","Americas","AC - PL",
+"China","Chengdu","2019","Americas","(AC - PL)%",
+"China","Chengdu","2019","Americas","PL - PY",
+"China","Chengdu","2019","Americas","(PL - PY)%",
+"China","Chengdu","2019","Asia-Pacific","PY","80000"
+"China","Chengdu","2019","Asia-Pacific","PL","47000"
+"China","Chengdu","2019","Asia-Pacific","AC","38000"
+"China","Chengdu","2019","Asia-Pacific","AC - PY","-42000"
+"China","Chengdu","2019","Asia-Pacific","(AC - PY)%","-0.525"
+"China","Chengdu","2019","Asia-Pacific","AC - PL","-9000"
+"China","Chengdu","2019","Asia-Pacific","(AC - PL)%","-0.1914893617021277"
+"China","Chengdu","2019","Asia-Pacific","PL - PY","-33000"
+"China","Chengdu","2019","Asia-Pacific","(PL - PY)%","-0.4125"
+"China","Chengdu","2019","Europe","PY",
+"China","Chengdu","2019","Europe","PL",
+"China","Chengdu","2019","Europe","AC",
+"China","Chengdu","2019","Europe","AC - PY",
+"China","Chengdu","2019","Europe","(AC - PY)%",
+"China","Chengdu","2019","Europe","AC - PL",
+"China","Chengdu","2019","Europe","(AC - PL)%",
+"China","Chengdu","2019","Europe","PL - PY",
+"China","Chengdu","2019","Europe","(PL - PY)%",
+"Poland","Warsaw","2017","Americas","PY",
+"Poland","Warsaw","2017","Americas","PL",
+"Poland","Warsaw","2017","Americas","AC",
+"Poland","Warsaw","2017","Americas","AC - PY",
+"Poland","Warsaw","2017","Americas","(AC - PY)%",
+"Poland","Warsaw","2017","Americas","AC - PL",
+"Poland","Warsaw","2017","Americas","(AC - PL)%",
+"Poland","Warsaw","2017","Americas","PL - PY",
+"Poland","Warsaw","2017","Americas","(PL - PY)%",
+"Poland","Warsaw","2017","Asia-Pacific","PY",
+"Poland","Warsaw","2017","Asia-Pacific","PL",
+"Poland","Warsaw","2017","Asia-Pacific","AC",
+"Poland","Warsaw","2017","Asia-Pacific","AC - PY",
+"Poland","Warsaw","2017","Asia-Pacific","(AC - PY)%",
+"Poland","Warsaw","2017","Asia-Pacific","AC - PL",
+"Poland","Warsaw","2017","Asia-Pacific","(AC - PL)%",
+"Poland","Warsaw","2017","Asia-Pacific","PL - PY",
+"Poland","Warsaw","2017","Asia-Pacific","(PL - PY)%",
+"Poland","Warsaw","2017","Europe","PY","0"
+"Poland","Warsaw","2017","Europe","PL","90000"
+"Poland","Warsaw","2017","Europe","AC","103000"
+"Poland","Warsaw","2017","Europe","AC - PY","103000"
+"Poland","Warsaw","2017","Europe","(AC - PY)%",
+"Poland","Warsaw","2017","Europe","AC - PL","13000"
+"Poland","Warsaw","2017","Europe","(AC - PL)%","0.14444444444444443"
+"Poland","Warsaw","2017","Europe","PL - PY","90000"
+"Poland","Warsaw","2017","Europe","(PL - PY)%",
+"Poland","Warsaw","2018","Americas","PY",
+"Poland","Warsaw","2018","Americas","PL",
+"Poland","Warsaw","2018","Americas","AC",
+"Poland","Warsaw","2018","Americas","AC - PY",
+"Poland","Warsaw","2018","Americas","(AC - PY)%",
+"Poland","Warsaw","2018","Americas","AC - PL",
+"Poland","Warsaw","2018","Americas","(AC - PL)%",
+"Poland","Warsaw","2018","Americas","PL - PY",
+"Poland","Warsaw","2018","Americas","(PL - PY)%",
+"Poland","Warsaw","2018","Asia-Pacific","PY",
+"Poland","Warsaw","2018","Asia-Pacific","PL",
+"Poland","Warsaw","2018","Asia-Pacific","AC",
+"Poland","Warsaw","2018","Asia-Pacific","AC - PY",
+"Poland","Warsaw","2018","Asia-Pacific","(AC - PY)%",
+"Poland","Warsaw","2018","Asia-Pacific","AC - PL",
+"Poland","Warsaw","2018","Asia-Pacific","(AC - PL)%",
+"Poland","Warsaw","2018","Asia-Pacific","PL - PY",
+"Poland","Warsaw","2018","Asia-Pacific","(PL - PY)%",
+"Poland","Warsaw","2018","Europe","PY","103000"
+"Poland","Warsaw","2018","Europe","PL","55000"
+"Poland","Warsaw","2018","Europe","AC","99000"
+"Poland","Warsaw","2018","Europe","AC - PY","-4000"
+"Poland","Warsaw","2018","Europe","(AC - PY)%","-0.038834951456310676"
+"Poland","Warsaw","2018","Europe","AC - PL","44000"
+"Poland","Warsaw","2018","Europe","(AC - PL)%","0.8"
+"Poland","Warsaw","2018","Europe","PL - PY","-48000"
+"Poland","Warsaw","2018","Europe","(PL - PY)%","-0.46601941747572817"
+"Poland","Warsaw","2019","Americas","PY",
+"Poland","Warsaw","2019","Americas","PL",
+"Poland","Warsaw","2019","Americas","AC",
+"Poland","Warsaw","2019","Americas","AC - PY",
+"Poland","Warsaw","2019","Americas","(AC - PY)%",
+"Poland","Warsaw","2019","Americas","AC - PL",
+"Poland","Warsaw","2019","Americas","(AC - PL)%",
+"Poland","Warsaw","2019","Americas","PL - PY",
+"Poland","Warsaw","2019","Americas","(PL - PY)%",
+"Poland","Warsaw","2019","Asia-Pacific","PY",
+"Poland","Warsaw","2019","Asia-Pacific","PL",
+"Poland","Warsaw","2019","Asia-Pacific","AC",
+"Poland","Warsaw","2019","Asia-Pacific","AC - PY",
+"Poland","Warsaw","2019","Asia-Pacific","(AC - PY)%",
+"Poland","Warsaw","2019","Asia-Pacific","AC - PL",
+"Poland","Warsaw","2019","Asia-Pacific","(AC - PL)%",
+"Poland","Warsaw","2019","Asia-Pacific","PL - PY",
+"Poland","Warsaw","2019","Asia-Pacific","(PL - PY)%",
+"Poland","Warsaw","2019","Europe","PY","144000"
+"Poland","Warsaw","2019","Europe","PL","67000"
+"Poland","Warsaw","2019","Europe","AC","118000"
+"Poland","Warsaw","2019","Europe","AC - PY","-26000"
+"Poland","Warsaw","2019","Europe","(AC - PY)%","-0.18055555555555552"
+"Poland","Warsaw","2019","Europe","AC - PL","51000"
+"Poland","Warsaw","2019","Europe","(AC - PL)%","0.7611940298507462"
+"Poland","Warsaw","2019","Europe","PL - PY","-77000"
+"Poland","Warsaw","2019","Europe","(PL - PY)%","-0.5347222222222222"
+"Poland","Lublin","2017","Americas","PY",
+"Poland","Lublin","2017","Americas","PL",
+"Poland","Lublin","2017","Americas","AC",
+"Poland","Lublin","2017","Americas","AC - PY",
+"Poland","Lublin","2017","Americas","(AC - PY)%",
+"Poland","Lublin","2017","Americas","AC - PL",
+"Poland","Lublin","2017","Americas","(AC - PL)%",
+"Poland","Lublin","2017","Americas","PL - PY",
+"Poland","Lublin","2017","Americas","(PL - PY)%",
+"Poland","Lublin","2017","Asia-Pacific","PY",
+"Poland","Lublin","2017","Asia-Pacific","PL",
+"Poland","Lublin","2017","Asia-Pacific","AC",
+"Poland","Lublin","2017","Asia-Pacific","AC - PY",
+"Poland","Lublin","2017","Asia-Pacific","(AC - PY)%",
+"Poland","Lublin","2017","Asia-Pacific","AC - PL",
+"Poland","Lublin","2017","Asia-Pacific","(AC - PL)%",
+"Poland","Lublin","2017","Asia-Pacific","PL - PY",
+"Poland","Lublin","2017","Asia-Pacific","(PL - PY)%",
+"Poland","Lublin","2017","Europe","PY","0"
+"Poland","Lublin","2017","Europe","PL","82000"
+"Poland","Lublin","2017","Europe","AC","0"
+"Poland","Lublin","2017","Europe","AC - PY","0"
+"Poland","Lublin","2017","Europe","(AC - PY)%",
+"Poland","Lublin","2017","Europe","AC - PL","-82000"
+"Poland","Lublin","2017","Europe","(AC - PL)%","-1"
+"Poland","Lublin","2017","Europe","PL - PY","82000"
+"Poland","Lublin","2017","Europe","(PL - PY)%",
+"Poland","Lublin","2018","Americas","PY",
+"Poland","Lublin","2018","Americas","PL",
+"Poland","Lublin","2018","Americas","AC",
+"Poland","Lublin","2018","Americas","AC - PY",
+"Poland","Lublin","2018","Americas","(AC - PY)%",
+"Poland","Lublin","2018","Americas","AC - PL",
+"Poland","Lublin","2018","Americas","(AC - PL)%",
+"Poland","Lublin","2018","Americas","PL - PY",
+"Poland","Lublin","2018","Americas","(PL - PY)%",
+"Poland","Lublin","2018","Asia-Pacific","PY",
+"Poland","Lublin","2018","Asia-Pacific","PL",
+"Poland","Lublin","2018","Asia-Pacific","AC",
+"Poland","Lublin","2018","Asia-Pacific","AC - PY",
+"Poland","Lublin","2018","Asia-Pacific","(AC - PY)%",
+"Poland","Lublin","2018","Asia-Pacific","AC - PL",
+"Poland","Lublin","2018","Asia-Pacific","(AC - PL)%",
+"Poland","Lublin","2018","Asia-Pacific","PL - PY",
+"Poland","Lublin","2018","Asia-Pacific","(PL - PY)%",
+"Poland","Lublin","2018","Europe","PY","79000"
+"Poland","Lublin","2018","Europe","PL","118000"
+"Poland","Lublin","2018","Europe","AC","81000"
+"Poland","Lublin","2018","Europe","AC - PY","2000"
+"Poland","Lublin","2018","Europe","(AC - PY)%","0.025316455696202535"
+"Poland","Lublin","2018","Europe","AC - PL","-37000"
+"Poland","Lublin","2018","Europe","(AC - PL)%","-0.3135593220338983"
+"Poland","Lublin","2018","Europe","PL - PY","39000"
+"Poland","Lublin","2018","Europe","(PL - PY)%","0.4936708860759494"
+"Poland","Lublin","2019","Americas","PY",
+"Poland","Lublin","2019","Americas","PL",
+"Poland","Lublin","2019","Americas","AC",
+"Poland","Lublin","2019","Americas","AC - PY",
+"Poland","Lublin","2019","Americas","(AC - PY)%",
+"Poland","Lublin","2019","Americas","AC - PL",
+"Poland","Lublin","2019","Americas","(AC - PL)%",
+"Poland","Lublin","2019","Americas","PL - PY",
+"Poland","Lublin","2019","Americas","(PL - PY)%",
+"Poland","Lublin","2019","Asia-Pacific","PY",
+"Poland","Lublin","2019","Asia-Pacific","PL",
+"Poland","Lublin","2019","Asia-Pacific","AC",
+"Poland","Lublin","2019","Asia-Pacific","AC - PY",
+"Poland","Lublin","2019","Asia-Pacific","(AC - PY)%",
+"Poland","Lublin","2019","Asia-Pacific","AC - PL",
+"Poland","Lublin","2019","Asia-Pacific","(AC - PL)%",
+"Poland","Lublin","2019","Asia-Pacific","PL - PY",
+"Poland","Lublin","2019","Asia-Pacific","(PL - PY)%",
+"Poland","Lublin","2019","Europe","PY","128000"
+"Poland","Lublin","2019","Europe","PL","106000"
+"Poland","Lublin","2019","Europe","AC","121000"
+"Poland","Lublin","2019","Europe","AC - PY","-7000"
+"Poland","Lublin","2019","Europe","(AC - PY)%","-0.0546875"
+"Poland","Lublin","2019","Europe","AC - PL","15000"
+"Poland","Lublin","2019","Europe","(AC - PL)%","0.14150943396226415"
+"Poland","Lublin","2019","Europe","PL - PY","-22000"
+"Poland","Lublin","2019","Europe","(PL - PY)%","-0.171875"
+"Sweden","Stockholm","2017","Americas","PY",
+"Sweden","Stockholm","2017","Americas","PL",
+"Sweden","Stockholm","2017","Americas","AC",
+"Sweden","Stockholm","2017","Americas","AC - PY",
+"Sweden","Stockholm","2017","Americas","(AC - PY)%",
+"Sweden","Stockholm","2017","Americas","AC - PL",
+"Sweden","Stockholm","2017","Americas","(AC - PL)%",
+"Sweden","Stockholm","2017","Americas","PL - PY",
+"Sweden","Stockholm","2017","Americas","(PL - PY)%",
+"Sweden","Stockholm","2017","Asia-Pacific","PY",
+"Sweden","Stockholm","2017","Asia-Pacific","PL",
+"Sweden","Stockholm","2017","Asia-Pacific","AC",
+"Sweden","Stockholm","2017","Asia-Pacific","AC - PY",
+"Sweden","Stockholm","2017","Asia-Pacific","(AC - PY)%",
+"Sweden","Stockholm","2017","Asia-Pacific","AC - PL",
+"Sweden","Stockholm","2017","Asia-Pacific","(AC - PL)%",
+"Sweden","Stockholm","2017","Asia-Pacific","PL - PY",
+"Sweden","Stockholm","2017","Asia-Pacific","(PL - PY)%",
+"Sweden","Stockholm","2017","Europe","PY","84000"
+"Sweden","Stockholm","2017","Europe","PL","130000"
+"Sweden","Stockholm","2017","Europe","AC","115000"
+"Sweden","Stockholm","2017","Europe","AC - PY","31000"
+"Sweden","Stockholm","2017","Europe","(AC - PY)%","0.36904761904761907"
+"Sweden","Stockholm","2017","Europe","AC - PL","-15000"
+"Sweden","Stockholm","2017","Europe","(AC - PL)%","-0.11538461538461538"
+"Sweden","Stockholm","2017","Europe","PL - PY","46000"
+"Sweden","Stockholm","2017","Europe","(PL - PY)%","0.5476190476190477"
+"Sweden","Stockholm","2018","Americas","PY",
+"Sweden","Stockholm","2018","Americas","PL",
+"Sweden","Stockholm","2018","Americas","AC",
+"Sweden","Stockholm","2018","Americas","AC - PY",
+"Sweden","Stockholm","2018","Americas","(AC - PY)%",
+"Sweden","Stockholm","2018","Americas","AC - PL",
+"Sweden","Stockholm","2018","Americas","(AC - PL)%",
+"Sweden","Stockholm","2018","Americas","PL - PY",
+"Sweden","Stockholm","2018","Americas","(PL - PY)%",
+"Sweden","Stockholm","2018","Asia-Pacific","PY",
+"Sweden","Stockholm","2018","Asia-Pacific","PL",
+"Sweden","Stockholm","2018","Asia-Pacific","AC",
+"Sweden","Stockholm","2018","Asia-Pacific","AC - PY",
+"Sweden","Stockholm","2018","Asia-Pacific","(AC - PY)%",
+"Sweden","Stockholm","2018","Asia-Pacific","AC - PL",
+"Sweden","Stockholm","2018","Asia-Pacific","(AC - PL)%",
+"Sweden","Stockholm","2018","Asia-Pacific","PL - PY",
+"Sweden","Stockholm","2018","Asia-Pacific","(PL - PY)%",
+"Sweden","Stockholm","2018","Europe","PY","131000"
+"Sweden","Stockholm","2018","Europe","PL","111000"
+"Sweden","Stockholm","2018","Europe","AC",
+"Sweden","Stockholm","2018","Europe","AC - PY","-131000"
+"Sweden","Stockholm","2018","Europe","(AC - PY)%","-1"
+"Sweden","Stockholm","2018","Europe","AC - PL","-111000"
+"Sweden","Stockholm","2018","Europe","(AC - PL)%","-1"
+"Sweden","Stockholm","2018","Europe","PL - PY","-20000"
+"Sweden","Stockholm","2018","Europe","(PL - PY)%","-0.15267175572519084"
+"Sweden","Stockholm","2019","Americas","PY",
+"Sweden","Stockholm","2019","Americas","PL",
+"Sweden","Stockholm","2019","Americas","AC",
+"Sweden","Stockholm","2019","Americas","AC - PY",
+"Sweden","Stockholm","2019","Americas","(AC - PY)%",
+"Sweden","Stockholm","2019","Americas","AC - PL",
+"Sweden","Stockholm","2019","Americas","(AC - PL)%",
+"Sweden","Stockholm","2019","Americas","PL - PY",
+"Sweden","Stockholm","2019","Americas","(PL - PY)%",
+"Sweden","Stockholm","2019","Asia-Pacific","PY",
+"Sweden","Stockholm","2019","Asia-Pacific","PL",
+"Sweden","Stockholm","2019","Asia-Pacific","AC",
+"Sweden","Stockholm","2019","Asia-Pacific","AC - PY",
+"Sweden","Stockholm","2019","Asia-Pacific","(AC - PY)%",
+"Sweden","Stockholm","2019","Asia-Pacific","AC - PL",
+"Sweden","Stockholm","2019","Asia-Pacific","(AC - PL)%",
+"Sweden","Stockholm","2019","Asia-Pacific","PL - PY",
+"Sweden","Stockholm","2019","Asia-Pacific","(PL - PY)%",
+"Sweden","Stockholm","2019","Europe","PY","117000"
+"Sweden","Stockholm","2019","Europe","PL","55000"
+"Sweden","Stockholm","2019","Europe","AC","139000"
+"Sweden","Stockholm","2019","Europe","AC - PY","22000"
+"Sweden","Stockholm","2019","Europe","(AC - PY)%","0.18803418803418803"
+"Sweden","Stockholm","2019","Europe","AC - PL","84000"
+"Sweden","Stockholm","2019","Europe","(AC - PL)%","1.5272727272727276"
+"Sweden","Stockholm","2019","Europe","PL - PY","-62000"
+"Sweden","Stockholm","2019","Europe","(PL - PY)%","-0.5299145299145299"
+"Sweden","Gothenburg","2017","Americas","PY",
+"Sweden","Gothenburg","2017","Americas","PL",
+"Sweden","Gothenburg","2017","Americas","AC",
+"Sweden","Gothenburg","2017","Americas","AC - PY",
+"Sweden","Gothenburg","2017","Americas","(AC - PY)%",
+"Sweden","Gothenburg","2017","Americas","AC - PL",
+"Sweden","Gothenburg","2017","Americas","(AC - PL)%",
+"Sweden","Gothenburg","2017","Americas","PL - PY",
+"Sweden","Gothenburg","2017","Americas","(PL - PY)%",
+"Sweden","Gothenburg","2017","Asia-Pacific","PY",
+"Sweden","Gothenburg","2017","Asia-Pacific","PL",
+"Sweden","Gothenburg","2017","Asia-Pacific","AC",
+"Sweden","Gothenburg","2017","Asia-Pacific","AC - PY",
+"Sweden","Gothenburg","2017","Asia-Pacific","(AC - PY)%",
+"Sweden","Gothenburg","2017","Asia-Pacific","AC - PL",
+"Sweden","Gothenburg","2017","Asia-Pacific","(AC - PL)%",
+"Sweden","Gothenburg","2017","Asia-Pacific","PL - PY",
+"Sweden","Gothenburg","2017","Asia-Pacific","(PL - PY)%",
+"Sweden","Gothenburg","2017","Europe","PY","112000"
+"Sweden","Gothenburg","2017","Europe","PL","135000"
+"Sweden","Gothenburg","2017","Europe","AC","0"
+"Sweden","Gothenburg","2017","Europe","AC - PY","-112000"
+"Sweden","Gothenburg","2017","Europe","(AC - PY)%","-1"
+"Sweden","Gothenburg","2017","Europe","AC - PL","-135000"
+"Sweden","Gothenburg","2017","Europe","(AC - PL)%","-1"
+"Sweden","Gothenburg","2017","Europe","PL - PY","23000"
+"Sweden","Gothenburg","2017","Europe","(PL - PY)%","0.20535714285714285"
+"Sweden","Gothenburg","2018","Americas","PY",
+"Sweden","Gothenburg","2018","Americas","PL",
+"Sweden","Gothenburg","2018","Americas","AC",
+"Sweden","Gothenburg","2018","Americas","AC - PY",
+"Sweden","Gothenburg","2018","Americas","(AC - PY)%",
+"Sweden","Gothenburg","2018","Americas","AC - PL",
+"Sweden","Gothenburg","2018","Americas","(AC - PL)%",
+"Sweden","Gothenburg","2018","Americas","PL - PY",
+"Sweden","Gothenburg","2018","Americas","(PL - PY)%",
+"Sweden","Gothenburg","2018","Asia-Pacific","PY",
+"Sweden","Gothenburg","2018","Asia-Pacific","PL",
+"Sweden","Gothenburg","2018","Asia-Pacific","AC",
+"Sweden","Gothenburg","2018","Asia-Pacific","AC - PY",
+"Sweden","Gothenburg","2018","Asia-Pacific","(AC - PY)%",
+"Sweden","Gothenburg","2018","Asia-Pacific","AC - PL",
+"Sweden","Gothenburg","2018","Asia-Pacific","(AC - PL)%",
+"Sweden","Gothenburg","2018","Asia-Pacific","PL - PY",
+"Sweden","Gothenburg","2018","Asia-Pacific","(PL - PY)%",
+"Sweden","Gothenburg","2018","Europe","PY","130000"
+"Sweden","Gothenburg","2018","Europe","PL","68000"
+"Sweden","Gothenburg","2018","Europe","AC",
+"Sweden","Gothenburg","2018","Europe","AC - PY","-130000"
+"Sweden","Gothenburg","2018","Europe","(AC - PY)%","-1"
+"Sweden","Gothenburg","2018","Europe","AC - PL","-68000"
+"Sweden","Gothenburg","2018","Europe","(AC - PL)%","-1"
+"Sweden","Gothenburg","2018","Europe","PL - PY","-62000"
+"Sweden","Gothenburg","2018","Europe","(PL - PY)%","-0.47692307692307695"
+"Sweden","Gothenburg","2019","Americas","PY",
+"Sweden","Gothenburg","2019","Americas","PL",
+"Sweden","Gothenburg","2019","Americas","AC",
+"Sweden","Gothenburg","2019","Americas","AC - PY",
+"Sweden","Gothenburg","2019","Americas","(AC - PY)%",
+"Sweden","Gothenburg","2019","Americas","AC - PL",
+"Sweden","Gothenburg","2019","Americas","(AC - PL)%",
+"Sweden","Gothenburg","2019","Americas","PL - PY",
+"Sweden","Gothenburg","2019","Americas","(PL - PY)%",
+"Sweden","Gothenburg","2019","Asia-Pacific","PY",
+"Sweden","Gothenburg","2019","Asia-Pacific","PL",
+"Sweden","Gothenburg","2019","Asia-Pacific","AC",
+"Sweden","Gothenburg","2019","Asia-Pacific","AC - PY",
+"Sweden","Gothenburg","2019","Asia-Pacific","(AC - PY)%",
+"Sweden","Gothenburg","2019","Asia-Pacific","AC - PL",
+"Sweden","Gothenburg","2019","Asia-Pacific","(AC - PL)%",
+"Sweden","Gothenburg","2019","Asia-Pacific","PL - PY",
+"Sweden","Gothenburg","2019","Asia-Pacific","(PL - PY)%",
+"Sweden","Gothenburg","2019","Europe","PY","101000"
+"Sweden","Gothenburg","2019","Europe","PL","43000"
+"Sweden","Gothenburg","2019","Europe","AC","141000"
+"Sweden","Gothenburg","2019","Europe","AC - PY","40000"
+"Sweden","Gothenburg","2019","Europe","(AC - PY)%","0.39603960396039606"
+"Sweden","Gothenburg","2019","Europe","AC - PL","98000"
+"Sweden","Gothenburg","2019","Europe","(AC - PL)%","2.2790697674418605"
+"Sweden","Gothenburg","2019","Europe","PL - PY","-58000"
+"Sweden","Gothenburg","2019","Europe","(PL - PY)%","-0.5742574257425742"
+"Sweden","Malmo","2017","Americas","PY",
+"Sweden","Malmo","2017","Americas","PL",
+"Sweden","Malmo","2017","Americas","AC",
+"Sweden","Malmo","2017","Americas","AC - PY",
+"Sweden","Malmo","2017","Americas","(AC - PY)%",
+"Sweden","Malmo","2017","Americas","AC - PL",
+"Sweden","Malmo","2017","Americas","(AC - PL)%",
+"Sweden","Malmo","2017","Americas","PL - PY",
+"Sweden","Malmo","2017","Americas","(PL - PY)%",
+"Sweden","Malmo","2017","Asia-Pacific","PY",
+"Sweden","Malmo","2017","Asia-Pacific","PL",
+"Sweden","Malmo","2017","Asia-Pacific","AC",
+"Sweden","Malmo","2017","Asia-Pacific","AC - PY",
+"Sweden","Malmo","2017","Asia-Pacific","(AC - PY)%",
+"Sweden","Malmo","2017","Asia-Pacific","AC - PL",
+"Sweden","Malmo","2017","Asia-Pacific","(AC - PL)%",
+"Sweden","Malmo","2017","Asia-Pacific","PL - PY",
+"Sweden","Malmo","2017","Asia-Pacific","(PL - PY)%",
+"Sweden","Malmo","2017","Europe","PY","80000"
+"Sweden","Malmo","2017","Europe","PL","140000"
+"Sweden","Malmo","2017","Europe","AC","61000"
+"Sweden","Malmo","2017","Europe","AC - PY","-19000"
+"Sweden","Malmo","2017","Europe","(AC - PY)%","-0.2375"
+"Sweden","Malmo","2017","Europe","AC - PL","-79000"
+"Sweden","Malmo","2017","Europe","(AC - PL)%","-0.5642857142857143"
+"Sweden","Malmo","2017","Europe","PL - PY","60000"
+"Sweden","Malmo","2017","Europe","(PL - PY)%","0.75"
+"Sweden","Malmo","2018","Americas","PY",
+"Sweden","Malmo","2018","Americas","PL",
+"Sweden","Malmo","2018","Americas","AC",
+"Sweden","Malmo","2018","Americas","AC - PY",
+"Sweden","Malmo","2018","Americas","(AC - PY)%",
+"Sweden","Malmo","2018","Americas","AC - PL",
+"Sweden","Malmo","2018","Americas","(AC - PL)%",
+"Sweden","Malmo","2018","Americas","PL - PY",
+"Sweden","Malmo","2018","Americas","(PL - PY)%",
+"Sweden","Malmo","2018","Asia-Pacific","PY",
+"Sweden","Malmo","2018","Asia-Pacific","PL",
+"Sweden","Malmo","2018","Asia-Pacific","AC",
+"Sweden","Malmo","2018","Asia-Pacific","AC - PY",
+"Sweden","Malmo","2018","Asia-Pacific","(AC - PY)%",
+"Sweden","Malmo","2018","Asia-Pacific","AC - PL",
+"Sweden","Malmo","2018","Asia-Pacific","(AC - PL)%",
+"Sweden","Malmo","2018","Asia-Pacific","PL - PY",
+"Sweden","Malmo","2018","Asia-Pacific","(PL - PY)%",
+"Sweden","Malmo","2018","Europe","PY","84000"
+"Sweden","Malmo","2018","Europe","PL","68000"
+"Sweden","Malmo","2018","Europe","AC",
+"Sweden","Malmo","2018","Europe","AC - PY","-84000"
+"Sweden","Malmo","2018","Europe","(AC - PY)%","-1"
+"Sweden","Malmo","2018","Europe","AC - PL","-68000"
+"Sweden","Malmo","2018","Europe","(AC - PL)%","-1"
+"Sweden","Malmo","2018","Europe","PL - PY","-16000"
+"Sweden","Malmo","2018","Europe","(PL - PY)%","-0.19047619047619047"
+"Sweden","Malmo","2019","Americas","PY",
+"Sweden","Malmo","2019","Americas","PL",
+"Sweden","Malmo","2019","Americas","AC",
+"Sweden","Malmo","2019","Americas","AC - PY",
+"Sweden","Malmo","2019","Americas","(AC - PY)%",
+"Sweden","Malmo","2019","Americas","AC - PL",
+"Sweden","Malmo","2019","Americas","(AC - PL)%",
+"Sweden","Malmo","2019","Americas","PL - PY",
+"Sweden","Malmo","2019","Americas","(PL - PY)%",
+"Sweden","Malmo","2019","Asia-Pacific","PY",
+"Sweden","Malmo","2019","Asia-Pacific","PL",
+"Sweden","Malmo","2019","Asia-Pacific","AC",
+"Sweden","Malmo","2019","Asia-Pacific","AC - PY",
+"Sweden","Malmo","2019","Asia-Pacific","(AC - PY)%",
+"Sweden","Malmo","2019","Asia-Pacific","AC - PL",
+"Sweden","Malmo","2019","Asia-Pacific","(AC - PL)%",
+"Sweden","Malmo","2019","Asia-Pacific","PL - PY",
+"Sweden","Malmo","2019","Asia-Pacific","(PL - PY)%",
+"Sweden","Malmo","2019","Europe","PY","101000"
+"Sweden","Malmo","2019","Europe","PL","148000"
+"Sweden","Malmo","2019","Europe","AC","60000"
+"Sweden","Malmo","2019","Europe","AC - PY","-41000"
+"Sweden","Malmo","2019","Europe","(AC - PY)%","-0.40594059405940597"
+"Sweden","Malmo","2019","Europe","AC - PL","-88000"
+"Sweden","Malmo","2019","Europe","(AC - PL)%","-0.5945945945945946"
+"Sweden","Malmo","2019","Europe","PL - PY","47000"
+"Sweden","Malmo","2019","Europe","(PL - PY)%","0.46534653465346537"
+"Belgium","Flanders","2017","Americas","PY",
+"Belgium","Flanders","2017","Americas","PL",
+"Belgium","Flanders","2017","Americas","AC",
+"Belgium","Flanders","2017","Americas","AC - PY",
+"Belgium","Flanders","2017","Americas","(AC - PY)%",
+"Belgium","Flanders","2017","Americas","AC - PL",
+"Belgium","Flanders","2017","Americas","(AC - PL)%",
+"Belgium","Flanders","2017","Americas","PL - PY",
+"Belgium","Flanders","2017","Americas","(PL - PY)%",
+"Belgium","Flanders","2017","Asia-Pacific","PY",
+"Belgium","Flanders","2017","Asia-Pacific","PL",
+"Belgium","Flanders","2017","Asia-Pacific","AC",
+"Belgium","Flanders","2017","Asia-Pacific","AC - PY",
+"Belgium","Flanders","2017","Asia-Pacific","(AC - PY)%",
+"Belgium","Flanders","2017","Asia-Pacific","AC - PL",
+"Belgium","Flanders","2017","Asia-Pacific","(AC - PL)%",
+"Belgium","Flanders","2017","Asia-Pacific","PL - PY",
+"Belgium","Flanders","2017","Asia-Pacific","(PL - PY)%",
+"Belgium","Flanders","2017","Europe","PY","118000"
+"Belgium","Flanders","2017","Europe","PL","77000"
+"Belgium","Flanders","2017","Europe","AC","88000"
+"Belgium","Flanders","2017","Europe","AC - PY","-30000"
+"Belgium","Flanders","2017","Europe","(AC - PY)%","-0.2542372881355932"
+"Belgium","Flanders","2017","Europe","AC - PL","11000"
+"Belgium","Flanders","2017","Europe","(AC - PL)%","0.14285714285714285"
+"Belgium","Flanders","2017","Europe","PL - PY","-41000"
+"Belgium","Flanders","2017","Europe","(PL - PY)%","-0.3474576271186441"
+"Belgium","Flanders","2018","Americas","PY",
+"Belgium","Flanders","2018","Americas","PL",
+"Belgium","Flanders","2018","Americas","AC",
+"Belgium","Flanders","2018","Americas","AC - PY",
+"Belgium","Flanders","2018","Americas","(AC - PY)%",
+"Belgium","Flanders","2018","Americas","AC - PL",
+"Belgium","Flanders","2018","Americas","(AC - PL)%",
+"Belgium","Flanders","2018","Americas","PL - PY",
+"Belgium","Flanders","2018","Americas","(PL - PY)%",
+"Belgium","Flanders","2018","Asia-Pacific","PY",
+"Belgium","Flanders","2018","Asia-Pacific","PL",
+"Belgium","Flanders","2018","Asia-Pacific","AC",
+"Belgium","Flanders","2018","Asia-Pacific","AC - PY",
+"Belgium","Flanders","2018","Asia-Pacific","(AC - PY)%",
+"Belgium","Flanders","2018","Asia-Pacific","AC - PL",
+"Belgium","Flanders","2018","Asia-Pacific","(AC - PL)%",
+"Belgium","Flanders","2018","Asia-Pacific","PL - PY",
+"Belgium","Flanders","2018","Asia-Pacific","(PL - PY)%",
+"Belgium","Flanders","2018","Europe","PY","95000"
+"Belgium","Flanders","2018","Europe","PL","141000"
+"Belgium","Flanders","2018","Europe","AC","134000"
+"Belgium","Flanders","2018","Europe","AC - PY","39000"
+"Belgium","Flanders","2018","Europe","(AC - PY)%","0.4105263157894737"
+"Belgium","Flanders","2018","Europe","AC - PL","-7000"
+"Belgium","Flanders","2018","Europe","(AC - PL)%","-0.04964539007092199"
+"Belgium","Flanders","2018","Europe","PL - PY","46000"
+"Belgium","Flanders","2018","Europe","(PL - PY)%","0.4842105263157894"
+"Belgium","Flanders","2019","Americas","PY",
+"Belgium","Flanders","2019","Americas","PL",
+"Belgium","Flanders","2019","Americas","AC",
+"Belgium","Flanders","2019","Americas","AC - PY",
+"Belgium","Flanders","2019","Americas","(AC - PY)%",
+"Belgium","Flanders","2019","Americas","AC - PL",
+"Belgium","Flanders","2019","Americas","(AC - PL)%",
+"Belgium","Flanders","2019","Americas","PL - PY",
+"Belgium","Flanders","2019","Americas","(PL - PY)%",
+"Belgium","Flanders","2019","Asia-Pacific","PY",
+"Belgium","Flanders","2019","Asia-Pacific","PL",
+"Belgium","Flanders","2019","Asia-Pacific","AC",
+"Belgium","Flanders","2019","Asia-Pacific","AC - PY",
+"Belgium","Flanders","2019","Asia-Pacific","(AC - PY)%",
+"Belgium","Flanders","2019","Asia-Pacific","AC - PL",
+"Belgium","Flanders","2019","Asia-Pacific","(AC - PL)%",
+"Belgium","Flanders","2019","Asia-Pacific","PL - PY",
+"Belgium","Flanders","2019","Asia-Pacific","(PL - PY)%",
+"Belgium","Flanders","2019","Europe","PY","128000"
+"Belgium","Flanders","2019","Europe","PL","78000"
+"Belgium","Flanders","2019","Europe","AC","108000"
+"Belgium","Flanders","2019","Europe","AC - PY","-20000"
+"Belgium","Flanders","2019","Europe","(AC - PY)%","-0.15625"
+"Belgium","Flanders","2019","Europe","AC - PL","30000"
+"Belgium","Flanders","2019","Europe","(AC - PL)%","0.3846153846153847"
+"Belgium","Flanders","2019","Europe","PL - PY","-50000"
+"Belgium","Flanders","2019","Europe","(PL - PY)%","-0.390625"
+"Belgium","Brussels","2017","Americas","PY",
+"Belgium","Brussels","2017","Americas","PL",
+"Belgium","Brussels","2017","Americas","AC",
+"Belgium","Brussels","2017","Americas","AC - PY",
+"Belgium","Brussels","2017","Americas","(AC - PY)%",
+"Belgium","Brussels","2017","Americas","AC - PL",
+"Belgium","Brussels","2017","Americas","(AC - PL)%",
+"Belgium","Brussels","2017","Americas","PL - PY",
+"Belgium","Brussels","2017","Americas","(PL - PY)%",
+"Belgium","Brussels","2017","Asia-Pacific","PY",
+"Belgium","Brussels","2017","Asia-Pacific","PL",
+"Belgium","Brussels","2017","Asia-Pacific","AC",
+"Belgium","Brussels","2017","Asia-Pacific","AC - PY",
+"Belgium","Brussels","2017","Asia-Pacific","(AC - PY)%",
+"Belgium","Brussels","2017","Asia-Pacific","AC - PL",
+"Belgium","Brussels","2017","Asia-Pacific","(AC - PL)%",
+"Belgium","Brussels","2017","Asia-Pacific","PL - PY",
+"Belgium","Brussels","2017","Asia-Pacific","(PL - PY)%",
+"Belgium","Brussels","2017","Europe","PY","0"
+"Belgium","Brussels","2017","Europe","PL","115000"
+"Belgium","Brussels","2017","Europe","AC","0"
+"Belgium","Brussels","2017","Europe","AC - PY","0"
+"Belgium","Brussels","2017","Europe","(AC - PY)%",
+"Belgium","Brussels","2017","Europe","AC - PL","-115000"
+"Belgium","Brussels","2017","Europe","(AC - PL)%","-1"
+"Belgium","Brussels","2017","Europe","PL - PY","115000"
+"Belgium","Brussels","2017","Europe","(PL - PY)%",
+"Belgium","Brussels","2018","Americas","PY",
+"Belgium","Brussels","2018","Americas","PL",
+"Belgium","Brussels","2018","Americas","AC",
+"Belgium","Brussels","2018","Americas","AC - PY",
+"Belgium","Brussels","2018","Americas","(AC - PY)%",
+"Belgium","Brussels","2018","Americas","AC - PL",
+"Belgium","Brussels","2018","Americas","(AC - PL)%",
+"Belgium","Brussels","2018","Americas","PL - PY",
+"Belgium","Brussels","2018","Americas","(PL - PY)%",
+"Belgium","Brussels","2018","Asia-Pacific","PY",
+"Belgium","Brussels","2018","Asia-Pacific","PL",
+"Belgium","Brussels","2018","Asia-Pacific","AC",
+"Belgium","Brussels","2018","Asia-Pacific","AC - PY",
+"Belgium","Brussels","2018","Asia-Pacific","(AC - PY)%",
+"Belgium","Brussels","2018","Asia-Pacific","AC - PL",
+"Belgium","Brussels","2018","Asia-Pacific","(AC - PL)%",
+"Belgium","Brussels","2018","Asia-Pacific","PL - PY",
+"Belgium","Brussels","2018","Asia-Pacific","(PL - PY)%",
+"Belgium","Brussels","2018","Europe","PY","78000"
+"Belgium","Brussels","2018","Europe","PL","94000"
+"Belgium","Brussels","2018","Europe","AC","64000"
+"Belgium","Brussels","2018","Europe","AC - PY","-14000"
+"Belgium","Brussels","2018","Europe","(AC - PY)%","-0.1794871794871795"
+"Belgium","Brussels","2018","Europe","AC - PL","-30000"
+"Belgium","Brussels","2018","Europe","(AC - PL)%","-0.3191489361702128"
+"Belgium","Brussels","2018","Europe","PL - PY","16000"
+"Belgium","Brussels","2018","Europe","(PL - PY)%","0.20512820512820512"
+"Belgium","Brussels","2019","Americas","PY",
+"Belgium","Brussels","2019","Americas","PL",
+"Belgium","Brussels","2019","Americas","AC",
+"Belgium","Brussels","2019","Americas","AC - PY",
+"Belgium","Brussels","2019","Americas","(AC - PY)%",
+"Belgium","Brussels","2019","Americas","AC - PL",
+"Belgium","Brussels","2019","Americas","(AC - PL)%",
+"Belgium","Brussels","2019","Americas","PL - PY",
+"Belgium","Brussels","2019","Americas","(PL - PY)%",
+"Belgium","Brussels","2019","Asia-Pacific","PY",
+"Belgium","Brussels","2019","Asia-Pacific","PL",
+"Belgium","Brussels","2019","Asia-Pacific","AC",
+"Belgium","Brussels","2019","Asia-Pacific","AC - PY",
+"Belgium","Brussels","2019","Asia-Pacific","(AC - PY)%",
+"Belgium","Brussels","2019","Asia-Pacific","AC - PL",
+"Belgium","Brussels","2019","Asia-Pacific","(AC - PL)%",
+"Belgium","Brussels","2019","Asia-Pacific","PL - PY",
+"Belgium","Brussels","2019","Asia-Pacific","(PL - PY)%",
+"Belgium","Brussels","2019","Europe","PY","112000"
+"Belgium","Brussels","2019","Europe","PL","35000"
+"Belgium","Brussels","2019","Europe","AC","119000"
+"Belgium","Brussels","2019","Europe","AC - PY","7000"
+"Belgium","Brussels","2019","Europe","(AC - PY)%","0.0625"
+"Belgium","Brussels","2019","Europe","AC - PL","84000"
+"Belgium","Brussels","2019","Europe","(AC - PL)%","2.4"
+"Belgium","Brussels","2019","Europe","PL - PY","-77000"
+"Belgium","Brussels","2019","Europe","(PL - PY)%","-0.6875"
+"Germany","Frankfurt","2017","Americas","PY",
+"Germany","Frankfurt","2017","Americas","PL",
+"Germany","Frankfurt","2017","Americas","AC",
+"Germany","Frankfurt","2017","Americas","AC - PY",
+"Germany","Frankfurt","2017","Americas","(AC - PY)%",
+"Germany","Frankfurt","2017","Americas","AC - PL",
+"Germany","Frankfurt","2017","Americas","(AC - PL)%",
+"Germany","Frankfurt","2017","Americas","PL - PY",
+"Germany","Frankfurt","2017","Americas","(PL - PY)%",
+"Germany","Frankfurt","2017","Asia-Pacific","PY",
+"Germany","Frankfurt","2017","Asia-Pacific","PL",
+"Germany","Frankfurt","2017","Asia-Pacific","AC",
+"Germany","Frankfurt","2017","Asia-Pacific","AC - PY",
+"Germany","Frankfurt","2017","Asia-Pacific","(AC - PY)%",
+"Germany","Frankfurt","2017","Asia-Pacific","AC - PL",
+"Germany","Frankfurt","2017","Asia-Pacific","(AC - PL)%",
+"Germany","Frankfurt","2017","Asia-Pacific","PL - PY",
+"Germany","Frankfurt","2017","Asia-Pacific","(PL - PY)%",
+"Germany","Frankfurt","2017","Europe","PY","0"
+"Germany","Frankfurt","2017","Europe","PL","133000"
+"Germany","Frankfurt","2017","Europe","AC","107000"
+"Germany","Frankfurt","2017","Europe","AC - PY","107000"
+"Germany","Frankfurt","2017","Europe","(AC - PY)%",
+"Germany","Frankfurt","2017","Europe","AC - PL","-26000"
+"Germany","Frankfurt","2017","Europe","(AC - PL)%","-0.19548872180451127"
+"Germany","Frankfurt","2017","Europe","PL - PY","133000"
+"Germany","Frankfurt","2017","Europe","(PL - PY)%",
+"Germany","Frankfurt","2018","Americas","PY",
+"Germany","Frankfurt","2018","Americas","PL",
+"Germany","Frankfurt","2018","Americas","AC",
+"Germany","Frankfurt","2018","Americas","AC - PY",
+"Germany","Frankfurt","2018","Americas","(AC - PY)%",
+"Germany","Frankfurt","2018","Americas","AC - PL",
+"Germany","Frankfurt","2018","Americas","(AC - PL)%",
+"Germany","Frankfurt","2018","Americas","PL - PY",
+"Germany","Frankfurt","2018","Americas","(PL - PY)%",
+"Germany","Frankfurt","2018","Asia-Pacific","PY",
+"Germany","Frankfurt","2018","Asia-Pacific","PL",
+"Germany","Frankfurt","2018","Asia-Pacific","AC",
+"Germany","Frankfurt","2018","Asia-Pacific","AC - PY",
+"Germany","Frankfurt","2018","Asia-Pacific","(AC - PY)%",
+"Germany","Frankfurt","2018","Asia-Pacific","AC - PL",
+"Germany","Frankfurt","2018","Asia-Pacific","(AC - PL)%",
+"Germany","Frankfurt","2018","Asia-Pacific","PL - PY",
+"Germany","Frankfurt","2018","Asia-Pacific","(PL - PY)%",
+"Germany","Frankfurt","2018","Europe","PY","100000"
+"Germany","Frankfurt","2018","Europe","PL","126000"
+"Germany","Frankfurt","2018","Europe","AC","91000"
+"Germany","Frankfurt","2018","Europe","AC - PY","-9000"
+"Germany","Frankfurt","2018","Europe","(AC - PY)%","-0.09"
+"Germany","Frankfurt","2018","Europe","AC - PL","-35000"
+"Germany","Frankfurt","2018","Europe","(AC - PL)%","-0.2777777777777778"
+"Germany","Frankfurt","2018","Europe","PL - PY","26000"
+"Germany","Frankfurt","2018","Europe","(PL - PY)%","0.26"
+"Germany","Frankfurt","2019","Americas","PY",
+"Germany","Frankfurt","2019","Americas","PL",
+"Germany","Frankfurt","2019","Americas","AC",
+"Germany","Frankfurt","2019","Americas","AC - PY",
+"Germany","Frankfurt","2019","Americas","(AC - PY)%",
+"Germany","Frankfurt","2019","Americas","AC - PL",
+"Germany","Frankfurt","2019","Americas","(AC - PL)%",
+"Germany","Frankfurt","2019","Americas","PL - PY",
+"Germany","Frankfurt","2019","Americas","(PL - PY)%",
+"Germany","Frankfurt","2019","Asia-Pacific","PY",
+"Germany","Frankfurt","2019","Asia-Pacific","PL",
+"Germany","Frankfurt","2019","Asia-Pacific","AC",
+"Germany","Frankfurt","2019","Asia-Pacific","AC - PY",
+"Germany","Frankfurt","2019","Asia-Pacific","(AC - PY)%",
+"Germany","Frankfurt","2019","Asia-Pacific","AC - PL",
+"Germany","Frankfurt","2019","Asia-Pacific","(AC - PL)%",
+"Germany","Frankfurt","2019","Asia-Pacific","PL - PY",
+"Germany","Frankfurt","2019","Asia-Pacific","(PL - PY)%",
+"Germany","Frankfurt","2019","Europe","PY","142000"
+"Germany","Frankfurt","2019","Europe","PL","139000"
+"Germany","Frankfurt","2019","Europe","AC","91000"
+"Germany","Frankfurt","2019","Europe","AC - PY","-51000"
+"Germany","Frankfurt","2019","Europe","(AC - PY)%","-0.3591549295774648"
+"Germany","Frankfurt","2019","Europe","AC - PL","-48000"
+"Germany","Frankfurt","2019","Europe","(AC - PL)%","-0.3453237410071942"
+"Germany","Frankfurt","2019","Europe","PL - PY","-3000"
+"Germany","Frankfurt","2019","Europe","(PL - PY)%","-0.02112676056338028"
+"Germany","Berlin","2017","Americas","PY",
+"Germany","Berlin","2017","Americas","PL",
+"Germany","Berlin","2017","Americas","AC",
+"Germany","Berlin","2017","Americas","AC - PY",
+"Germany","Berlin","2017","Americas","(AC - PY)%",
+"Germany","Berlin","2017","Americas","AC - PL",
+"Germany","Berlin","2017","Americas","(AC - PL)%",
+"Germany","Berlin","2017","Americas","PL - PY",
+"Germany","Berlin","2017","Americas","(PL - PY)%",
+"Germany","Berlin","2017","Asia-Pacific","PY",
+"Germany","Berlin","2017","Asia-Pacific","PL",
+"Germany","Berlin","2017","Asia-Pacific","AC",
+"Germany","Berlin","2017","Asia-Pacific","AC - PY",
+"Germany","Berlin","2017","Asia-Pacific","(AC - PY)%",
+"Germany","Berlin","2017","Asia-Pacific","AC - PL",
+"Germany","Berlin","2017","Asia-Pacific","(AC - PL)%",
+"Germany","Berlin","2017","Asia-Pacific","PL - PY",
+"Germany","Berlin","2017","Asia-Pacific","(PL - PY)%",
+"Germany","Berlin","2017","Europe","PY","0"
+"Germany","Berlin","2017","Europe","PL","127000"
+"Germany","Berlin","2017","Europe","AC","0"
+"Germany","Berlin","2017","Europe","AC - PY","0"
+"Germany","Berlin","2017","Europe","(AC - PY)%",
+"Germany","Berlin","2017","Europe","AC - PL","-127000"
+"Germany","Berlin","2017","Europe","(AC - PL)%","-1"
+"Germany","Berlin","2017","Europe","PL - PY","127000"
+"Germany","Berlin","2017","Europe","(PL - PY)%",
+"Germany","Berlin","2018","Americas","PY",
+"Germany","Berlin","2018","Americas","PL",
+"Germany","Berlin","2018","Americas","AC",
+"Germany","Berlin","2018","Americas","AC - PY",
+"Germany","Berlin","2018","Americas","(AC - PY)%",
+"Germany","Berlin","2018","Americas","AC - PL",
+"Germany","Berlin","2018","Americas","(AC - PL)%",
+"Germany","Berlin","2018","Americas","PL - PY",
+"Germany","Berlin","2018","Americas","(PL - PY)%",
+"Germany","Berlin","2018","Asia-Pacific","PY",
+"Germany","Berlin","2018","Asia-Pacific","PL",
+"Germany","Berlin","2018","Asia-Pacific","AC",
+"Germany","Berlin","2018","Asia-Pacific","AC - PY",
+"Germany","Berlin","2018","Asia-Pacific","(AC - PY)%",
+"Germany","Berlin","2018","Asia-Pacific","AC - PL",
+"Germany","Berlin","2018","Asia-Pacific","(AC - PL)%",
+"Germany","Berlin","2018","Asia-Pacific","PL - PY",
+"Germany","Berlin","2018","Asia-Pacific","(PL - PY)%",
+"Germany","Berlin","2018","Europe","PY",
+"Germany","Berlin","2018","Europe","PL",
+"Germany","Berlin","2018","Europe","AC",
+"Germany","Berlin","2018","Europe","AC - PY",
+"Germany","Berlin","2018","Europe","(AC - PY)%",
+"Germany","Berlin","2018","Europe","AC - PL",
+"Germany","Berlin","2018","Europe","(AC - PL)%",
+"Germany","Berlin","2018","Europe","PL - PY",
+"Germany","Berlin","2018","Europe","(PL - PY)%",
+"Germany","Berlin","2019","Americas","PY",
+"Germany","Berlin","2019","Americas","PL",
+"Germany","Berlin","2019","Americas","AC",
+"Germany","Berlin","2019","Americas","AC - PY",
+"Germany","Berlin","2019","Americas","(AC - PY)%",
+"Germany","Berlin","2019","Americas","AC - PL",
+"Germany","Berlin","2019","Americas","(AC - PL)%",
+"Germany","Berlin","2019","Americas","PL - PY",
+"Germany","Berlin","2019","Americas","(PL - PY)%",
+"Germany","Berlin","2019","Asia-Pacific","PY",
+"Germany","Berlin","2019","Asia-Pacific","PL",
+"Germany","Berlin","2019","Asia-Pacific","AC",
+"Germany","Berlin","2019","Asia-Pacific","AC - PY",
+"Germany","Berlin","2019","Asia-Pacific","(AC - PY)%",
+"Germany","Berlin","2019","Asia-Pacific","AC - PL",
+"Germany","Berlin","2019","Asia-Pacific","(AC - PL)%",
+"Germany","Berlin","2019","Asia-Pacific","PL - PY",
+"Germany","Berlin","2019","Asia-Pacific","(PL - PY)%",
+"Germany","Berlin","2019","Europe","PY","48000"
+"Germany","Berlin","2019","Europe","PL","93000"
+"Germany","Berlin","2019","Europe","AC","128000"
+"Germany","Berlin","2019","Europe","AC - PY","80000"
+"Germany","Berlin","2019","Europe","(AC - PY)%","1.666666666666667"
+"Germany","Berlin","2019","Europe","AC - PL","35000"
+"Germany","Berlin","2019","Europe","(AC - PL)%","0.3763440860215054"
+"Germany","Berlin","2019","Europe","PL - PY","45000"
+"Germany","Berlin","2019","Europe","(PL - PY)%","0.9375"
+"France","Marseille","2017","Americas","PY",
+"France","Marseille","2017","Americas","PL",
+"France","Marseille","2017","Americas","AC",
+"France","Marseille","2017","Americas","AC - PY",
+"France","Marseille","2017","Americas","(AC - PY)%",
+"France","Marseille","2017","Americas","AC - PL",
+"France","Marseille","2017","Americas","(AC - PL)%",
+"France","Marseille","2017","Americas","PL - PY",
+"France","Marseille","2017","Americas","(PL - PY)%",
+"France","Marseille","2017","Asia-Pacific","PY",
+"France","Marseille","2017","Asia-Pacific","PL",
+"France","Marseille","2017","Asia-Pacific","AC",
+"France","Marseille","2017","Asia-Pacific","AC - PY",
+"France","Marseille","2017","Asia-Pacific","(AC - PY)%",
+"France","Marseille","2017","Asia-Pacific","AC - PL",
+"France","Marseille","2017","Asia-Pacific","(AC - PL)%",
+"France","Marseille","2017","Asia-Pacific","PL - PY",
+"France","Marseille","2017","Asia-Pacific","(PL - PY)%",
+"France","Marseille","2017","Europe","PY","107000"
+"France","Marseille","2017","Europe","PL","99000"
+"France","Marseille","2017","Europe","AC","118000"
+"France","Marseille","2017","Europe","AC - PY","11000"
+"France","Marseille","2017","Europe","(AC - PY)%","0.10280373831775699"
+"France","Marseille","2017","Europe","AC - PL","19000"
+"France","Marseille","2017","Europe","(AC - PL)%","0.1919191919191919"
+"France","Marseille","2017","Europe","PL - PY","-8000"
+"France","Marseille","2017","Europe","(PL - PY)%","-0.07476635514018691"
+"France","Marseille","2018","Americas","PY",
+"France","Marseille","2018","Americas","PL",
+"France","Marseille","2018","Americas","AC",
+"France","Marseille","2018","Americas","AC - PY",
+"France","Marseille","2018","Americas","(AC - PY)%",
+"France","Marseille","2018","Americas","AC - PL",
+"France","Marseille","2018","Americas","(AC - PL)%",
+"France","Marseille","2018","Americas","PL - PY",
+"France","Marseille","2018","Americas","(PL - PY)%",
+"France","Marseille","2018","Asia-Pacific","PY",
+"France","Marseille","2018","Asia-Pacific","PL",
+"France","Marseille","2018","Asia-Pacific","AC",
+"France","Marseille","2018","Asia-Pacific","AC - PY",
+"France","Marseille","2018","Asia-Pacific","(AC - PY)%",
+"France","Marseille","2018","Asia-Pacific","AC - PL",
+"France","Marseille","2018","Asia-Pacific","(AC - PL)%",
+"France","Marseille","2018","Asia-Pacific","PL - PY",
+"France","Marseille","2018","Asia-Pacific","(PL - PY)%",
+"France","Marseille","2018","Europe","PY","0"
+"France","Marseille","2018","Europe","PL","0"
+"France","Marseille","2018","Europe","AC","0"
+"France","Marseille","2018","Europe","AC - PY","0"
+"France","Marseille","2018","Europe","(AC - PY)%",
+"France","Marseille","2018","Europe","AC - PL","0"
+"France","Marseille","2018","Europe","(AC - PL)%",
+"France","Marseille","2018","Europe","PL - PY","0"
+"France","Marseille","2018","Europe","(PL - PY)%",
+"France","Marseille","2019","Americas","PY",
+"France","Marseille","2019","Americas","PL",
+"France","Marseille","2019","Americas","AC",
+"France","Marseille","2019","Americas","AC - PY",
+"France","Marseille","2019","Americas","(AC - PY)%",
+"France","Marseille","2019","Americas","AC - PL",
+"France","Marseille","2019","Americas","(AC - PL)%",
+"France","Marseille","2019","Americas","PL - PY",
+"France","Marseille","2019","Americas","(PL - PY)%",
+"France","Marseille","2019","Asia-Pacific","PY",
+"France","Marseille","2019","Asia-Pacific","PL",
+"France","Marseille","2019","Asia-Pacific","AC",
+"France","Marseille","2019","Asia-Pacific","AC - PY",
+"France","Marseille","2019","Asia-Pacific","(AC - PY)%",
+"France","Marseille","2019","Asia-Pacific","AC - PL",
+"France","Marseille","2019","Asia-Pacific","(AC - PL)%",
+"France","Marseille","2019","Asia-Pacific","PL - PY",
+"France","Marseille","2019","Asia-Pacific","(PL - PY)%",
+"France","Marseille","2019","Europe","PY","101000"
+"France","Marseille","2019","Europe","PL","95000"
+"France","Marseille","2019","Europe","AC","44000"
+"France","Marseille","2019","Europe","AC - PY","-57000"
+"France","Marseille","2019","Europe","(AC - PY)%","-0.5643564356435643"
+"France","Marseille","2019","Europe","AC - PL","-51000"
+"France","Marseille","2019","Europe","(AC - PL)%","-0.5368421052631579"
+"France","Marseille","2019","Europe","PL - PY","-6000"
+"France","Marseille","2019","Europe","(PL - PY)%","-0.0594059405940594"
+"France","Paris","2017","Americas","PY",
+"France","Paris","2017","Americas","PL",
+"France","Paris","2017","Americas","AC",
+"France","Paris","2017","Americas","AC - PY",
+"France","Paris","2017","Americas","(AC - PY)%",
+"France","Paris","2017","Americas","AC - PL",
+"France","Paris","2017","Americas","(AC - PL)%",
+"France","Paris","2017","Americas","PL - PY",
+"France","Paris","2017","Americas","(PL - PY)%",
+"France","Paris","2017","Asia-Pacific","PY",
+"France","Paris","2017","Asia-Pacific","PL",
+"France","Paris","2017","Asia-Pacific","AC",
+"France","Paris","2017","Asia-Pacific","AC - PY",
+"France","Paris","2017","Asia-Pacific","(AC - PY)%",
+"France","Paris","2017","Asia-Pacific","AC - PL",
+"France","Paris","2017","Asia-Pacific","(AC - PL)%",
+"France","Paris","2017","Asia-Pacific","PL - PY",
+"France","Paris","2017","Asia-Pacific","(PL - PY)%",
+"France","Paris","2017","Europe","PY","89000"
+"France","Paris","2017","Europe","PL","100000"
+"France","Paris","2017","Europe","AC","0"
+"France","Paris","2017","Europe","AC - PY","-89000"
+"France","Paris","2017","Europe","(AC - PY)%","-1"
+"France","Paris","2017","Europe","AC - PL","-100000"
+"France","Paris","2017","Europe","(AC - PL)%","-1"
+"France","Paris","2017","Europe","PL - PY","11000"
+"France","Paris","2017","Europe","(PL - PY)%","0.12359550561797752"
+"France","Paris","2018","Americas","PY",
+"France","Paris","2018","Americas","PL",
+"France","Paris","2018","Americas","AC",
+"France","Paris","2018","Americas","AC - PY",
+"France","Paris","2018","Americas","(AC - PY)%",
+"France","Paris","2018","Americas","AC - PL",
+"France","Paris","2018","Americas","(AC - PL)%",
+"France","Paris","2018","Americas","PL - PY",
+"France","Paris","2018","Americas","(PL - PY)%",
+"France","Paris","2018","Asia-Pacific","PY",
+"France","Paris","2018","Asia-Pacific","PL",
+"France","Paris","2018","Asia-Pacific","AC",
+"France","Paris","2018","Asia-Pacific","AC - PY",
+"France","Paris","2018","Asia-Pacific","(AC - PY)%",
+"France","Paris","2018","Asia-Pacific","AC - PL",
+"France","Paris","2018","Asia-Pacific","(AC - PL)%",
+"France","Paris","2018","Asia-Pacific","PL - PY",
+"France","Paris","2018","Asia-Pacific","(PL - PY)%",
+"France","Paris","2018","Europe","PY","0"
+"France","Paris","2018","Europe","PL","0"
+"France","Paris","2018","Europe","AC","0"
+"France","Paris","2018","Europe","AC - PY","0"
+"France","Paris","2018","Europe","(AC - PY)%",
+"France","Paris","2018","Europe","AC - PL","0"
+"France","Paris","2018","Europe","(AC - PL)%",
+"France","Paris","2018","Europe","PL - PY","0"
+"France","Paris","2018","Europe","(PL - PY)%",
+"France","Paris","2019","Americas","PY",
+"France","Paris","2019","Americas","PL",
+"France","Paris","2019","Americas","AC",
+"France","Paris","2019","Americas","AC - PY",
+"France","Paris","2019","Americas","(AC - PY)%",
+"France","Paris","2019","Americas","AC - PL",
+"France","Paris","2019","Americas","(AC - PL)%",
+"France","Paris","2019","Americas","PL - PY",
+"France","Paris","2019","Americas","(PL - PY)%",
+"France","Paris","2019","Asia-Pacific","PY",
+"France","Paris","2019","Asia-Pacific","PL",
+"France","Paris","2019","Asia-Pacific","AC",
+"France","Paris","2019","Asia-Pacific","AC - PY",
+"France","Paris","2019","Asia-Pacific","(AC - PY)%",
+"France","Paris","2019","Asia-Pacific","AC - PL",
+"France","Paris","2019","Asia-Pacific","(AC - PL)%",
+"France","Paris","2019","Asia-Pacific","PL - PY",
+"France","Paris","2019","Asia-Pacific","(PL - PY)%",
+"France","Paris","2019","Europe","PY","51000"
+"France","Paris","2019","Europe","PL","63000"
+"France","Paris","2019","Europe","AC","131000"
+"France","Paris","2019","Europe","AC - PY","80000"
+"France","Paris","2019","Europe","(AC - PY)%","1.5686274509803924"
+"France","Paris","2019","Europe","AC - PL","68000"
+"France","Paris","2019","Europe","(AC - PL)%","1.0793650793650793"
+"France","Paris","2019","Europe","PL - PY","12000"
+"France","Paris","2019","Europe","(PL - PY)%","0.2352941176470588"
