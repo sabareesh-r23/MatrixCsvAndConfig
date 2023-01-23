@@ -1,0 +1,103 @@
+Category,Sub-Category,Country,Value Column Name,Value
+"Technology","Phones","United States","Sum of Profit","40166.83419999997"
+"Technology","Phones","United States","Sum of Sales","293976.96799999994"
+"Technology","Phones","United States","Sum of Sales - Sum of Profit","253810.13379999995"
+"Technology","Phones","United States","(Sum of Sales - Sum of Profit)%","6.318898137110347"
+"Technology","Phones","Country Item","Date",
+"Technology","Phones","Country Item","Text","december"
+"Technology","Machines","United States","Sum of Profit","5063.529100000007"
+"Technology","Machines","United States","Sum of Sales","149650.34499999997"
+"Technology","Machines","United States","Sum of Sales - Sum of Profit","144586.81589999996"
+"Technology","Machines","United States","(Sum of Sales - Sum of Profit)%","28.554554154729704"
+"Technology","Machines","Country Item","Date",
+"Technology","Machines","Country Item","Text","march"
+"Technology","Accessories","United States","Sum of Profit","35335.08309999999"
+"Technology","Accessories","United States","Sum of Sales","142063.49000000008"
+"Technology","Accessories","United States","Sum of Sales - Sum of Profit","106728.40690000009"
+"Technology","Accessories","United States","(Sum of Sales - Sum of Profit)%","3.020465711031542"
+"Technology","Accessories","Country Item","Date",
+"Technology","Accessories","Country Item","Text","may"
+"Technology","Copiers","United States","Sum of Profit","51744.897099999995"
+"Technology","Copiers","United States","Sum of Sales","139568.21799999996"
+"Technology","Copiers","United States","Sum of Sales - Sum of Profit","87823.32089999996"
+"Technology","Copiers","United States","(Sum of Sales - Sum of Profit)%","1.697236361882725"
+"Technology","Copiers","Country Item","Date",
+"Technology","Copiers","Country Item","Text","june"
+"Furniture","Chairs","United States","Sum of Profit","22903.88559999999"
+"Furniture","Chairs","United States","Sum of Sales","290621.7870000006"
+"Furniture","Chairs","United States","Sum of Sales - Sum of Profit","267717.9014000006"
+"Furniture","Chairs","United States","(Sum of Sales - Sum of Profit)%","11.688754741247953"
+"Furniture","Chairs","Country Item","Date",
+"Furniture","Chairs","Country Item","Text","august"
+"Furniture","Tables","United States","Sum of Profit","-15198.643200000006"
+"Furniture","Tables","United States","Sum of Sales","177418.443"
+"Furniture","Tables","United States","Sum of Sales - Sum of Profit","192617.08620000002"
+"Furniture","Tables","United States","(Sum of Sales - Sum of Profit)%","12.673307983175757"
+"Furniture","Tables","Country Item","Date",
+"Furniture","Tables","Country Item","Text","april"
+"Furniture","Bookcases","United States","Sum of Profit","-1558.2672"
+"Furniture","Bookcases","United States","Sum of Sales","99885.64490000007"
+"Furniture","Bookcases","United States","Sum of Sales - Sum of Profit","101443.91210000007"
+"Furniture","Bookcases","United States","(Sum of Sales - Sum of Profit)%","65.10046037033962"
+"Furniture","Bookcases","Country Item","Date",
+"Furniture","Bookcases","Country Item","Text","oclober"
+"Furniture","Furnishings","United States","Sum of Profit","11937.998700000006"
+"Furniture","Furnishings","United States","Sum of Sales","79654.76000000001"
+"Furniture","Furnishings","United States","Sum of Sales - Sum of Profit","67716.7613"
+"Furniture","Furnishings","United States","(Sum of Sales - Sum of Profit)%","5.6723713079312"
+"Furniture","Furnishings","Country Item","Date",
+"Furniture","Furnishings","Country Item","Text","september"
+"Office Supplies","Storage","United States","Sum of Profit","19045.521599999982"
+"Office Supplies","Storage","United States","Sum of Sales","199205.19600000014"
+"Office Supplies","Storage","United States","Sum of Sales - Sum of Profit","180159.67440000016"
+"Office Supplies","Storage","United States","(Sum of Sales - Sum of Profit)%","9.459424539992664"
+"Office Supplies","Storage","Country Item","Date",
+"Office Supplies","Storage","Country Item","Text",
+"Office Supplies","Binders","United States","Sum of Profit","27275.964800000038"
+"Office Supplies","Binders","United States","Sum of Sales","180724.63099999994"
+"Office Supplies","Binders","United States","Sum of Sales - Sum of Profit","153448.6661999999"
+"Office Supplies","Binders","United States","(Sum of Sales - Sum of Profit)%","5.625783261019595"
+"Office Supplies","Binders","Country Item","Date",
+"Office Supplies","Binders","Country Item","Text",
+"Office Supplies","Appliances","United States","Sum of Profit","16830.160799999994"
+"Office Supplies","Appliances","United States","Sum of Sales","97708.58700000001"
+"Office Supplies","Appliances","United States","Sum of Sales - Sum of Profit","80878.42620000002"
+"Office Supplies","Appliances","United States","(Sum of Sales - Sum of Profit)%","4.80556467410579"
+"Office Supplies","Appliances","Country Item","Date",
+"Office Supplies","Appliances","Country Item","Text",
+"Office Supplies","Paper","United States","Sum of Profit","30696.57090000002"
+"Office Supplies","Paper","United States","Sum of Sales","70787.7820000001"
+"Office Supplies","Paper","United States","Sum of Sales - Sum of Profit","40091.21110000007"
+"Office Supplies","Paper","United States","(Sum of Sales - Sum of Profit)%","1.306048523485079"
+"Office Supplies","Paper","Country Item","Date",
+"Office Supplies","Paper","Country Item","Text",
+"Office Supplies","Supplies","United States","Sum of Profit","-890.7744000000004"
+"Office Supplies","Supplies","United States","Sum of Sales","44252.216"
+"Office Supplies","Supplies","United States","Sum of Sales - Sum of Profit","45142.9904"
+"Office Supplies","Supplies","United States","(Sum of Sales - Sum of Profit)%","50.67836525162823"
+"Office Supplies","Supplies","Country Item","Date",
+"Office Supplies","Supplies","Country Item","Text",
+"Office Supplies","Art","United States","Sum of Profit","5645.491499999996"
+"Office Supplies","Art","United States","Sum of Sales","22773.408000000007"
+"Office Supplies","Art","United States","Sum of Sales - Sum of Profit","17127.91650000001"
+"Office Supplies","Art","United States","(Sum of Sales - Sum of Profit)%","3.0339105992808637"
+"Office Supplies","Art","Country Item","Date",
+"Office Supplies","Art","Country Item","Text",
+"Office Supplies","Envelopes","United States","Sum of Profit","5883.655999999999"
+"Office Supplies","Envelopes","United States","Sum of Sales","13799.14999999999"
+"Office Supplies","Envelopes","United States","Sum of Sales - Sum of Profit","7915.4939999999915"
+"Office Supplies","Envelopes","United States","(Sum of Sales - Sum of Profit)%","1.3453359611778786"
+"Office Supplies","Envelopes","Country Item","Date",
+"Office Supplies","Envelopes","Country Item","Text",
+"Office Supplies","Labels","United States","Sum of Profit","4880.890699999996"
+"Office Supplies","Labels","United States","Sum of Sales","10923.621999999994"
+"Office Supplies","Labels","United States","Sum of Sales - Sum of Profit","6042.731299999998"
+"Office Supplies","Labels","United States","(Sum of Sales - Sum of Profit)%","1.2380386432337036"
+"Office Supplies","Labels","Country Item","Date",
+"Office Supplies","Labels","Country Item","Text",
+"Office Supplies","Fasteners","United States","Sum of Profit","775.7382999999999"
+"Office Supplies","Fasteners","United States","Sum of Sales","2539.342000000001"
+"Office Supplies","Fasteners","United States","Sum of Sales - Sum of Profit","1763.603700000001"
+"Office Supplies","Fasteners","United States","(Sum of Sales - Sum of Profit)%","2.2734518844821783"
+"Office Supplies","Fasteners","Country Item","Date",
+"Office Supplies","Fasteners","Country Item","Text",
