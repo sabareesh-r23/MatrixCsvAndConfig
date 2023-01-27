@@ -1,0 +1,193 @@
+Level 1,State,Year,Value Column Name,Value
+"Country","Texas","2018","Count of State","3"
+"Country","Texas","2018","Sum of CY Sales","69375435"
+"Country","Texas","2018","Sum of CY Sales - Count of State","69375432"
+"Country","Texas","2018","(Sum of CY Sales - Count of State)%","23125144"
+"Country","Texas","2019","Count of State",
+"Country","Texas","2019","Sum of CY Sales",
+"Country","Texas","2019","Sum of CY Sales - Count of State",
+"Country","Texas","2019","(Sum of CY Sales - Count of State)%",
+"Country","Texas","2020","Count of State",
+"Country","Texas","2020","Sum of CY Sales",
+"Country","Texas","2020","Sum of CY Sales - Count of State",
+"Country","Texas","2020","(Sum of CY Sales - Count of State)%",
+"Country","Washington","2018","Count of State","3"
+"Country","Washington","2018","Sum of CY Sales","22361778"
+"Country","Washington","2018","Sum of CY Sales - Count of State","22361775"
+"Country","Washington","2018","(Sum of CY Sales - Count of State)%","7453925"
+"Country","Washington","2019","Count of State",
+"Country","Washington","2019","Sum of CY Sales",
+"Country","Washington","2019","Sum of CY Sales - Count of State",
+"Country","Washington","2019","(Sum of CY Sales - Count of State)%",
+"Country","Washington","2020","Count of State",
+"Country","Washington","2020","Sum of CY Sales",
+"Country","Washington","2020","Sum of CY Sales - Count of State",
+"Country","Washington","2020","(Sum of CY Sales - Count of State)%",
+"Country","Houston","2018","Count of State","3"
+"Country","Houston","2018","Sum of CY Sales","4796235"
+"Country","Houston","2018","Sum of CY Sales - Count of State","4796232"
+"Country","Houston","2018","(Sum of CY Sales - Count of State)%","1598744"
+"Country","Houston","2019","Count of State",
+"Country","Houston","2019","Sum of CY Sales",
+"Country","Houston","2019","Sum of CY Sales - Count of State",
+"Country","Houston","2019","(Sum of CY Sales - Count of State)%",
+"Country","Houston","2020","Count of State",
+"Country","Houston","2020","Sum of CY Sales",
+"Country","Houston","2020","Sum of CY Sales - Count of State",
+"Country","Houston","2020","(Sum of CY Sales - Count of State)%",
+"Country","California","2018","Count of State","3"
+"Country","California","2018","Sum of CY Sales","3764367"
+"Country","California","2018","Sum of CY Sales - Count of State","3764364"
+"Country","California","2018","(Sum of CY Sales - Count of State)%","1254788"
+"Country","California","2019","Count of State",
+"Country","California","2019","Sum of CY Sales",
+"Country","California","2019","Sum of CY Sales - Count of State",
+"Country","California","2019","(Sum of CY Sales - Count of State)%",
+"Country","California","2020","Count of State",
+"Country","California","2020","Sum of CY Sales",
+"Country","California","2020","Sum of CY Sales - Count of State",
+"Country","California","2020","(Sum of CY Sales - Count of State)%",
+"Country","Wales","2018","Count of State",
+"Country","Wales","2018","Sum of CY Sales",
+"Country","Wales","2018","Sum of CY Sales - Count of State",
+"Country","Wales","2018","(Sum of CY Sales - Count of State)%",
+"Country","Wales","2019","Count of State","3"
+"Country","Wales","2019","Sum of CY Sales","3760962"
+"Country","Wales","2019","Sum of CY Sales - Count of State","3760959"
+"Country","Wales","2019","(Sum of CY Sales - Count of State)%","1253653"
+"Country","Wales","2020","Count of State",
+"Country","Wales","2020","Sum of CY Sales",
+"Country","Wales","2020","Sum of CY Sales - Count of State",
+"Country","Wales","2020","(Sum of CY Sales - Count of State)%",
+"Country","New York","2018","Count of State","3"
+"Country","New York","2018","Sum of CY Sales","2864292"
+"Country","New York","2018","Sum of CY Sales - Count of State","2864289"
+"Country","New York","2018","(Sum of CY Sales - Count of State)%","954763"
+"Country","New York","2019","Count of State",
+"Country","New York","2019","Sum of CY Sales",
+"Country","New York","2019","Sum of CY Sales - Count of State",
+"Country","New York","2019","(Sum of CY Sales - Count of State)%",
+"Country","New York","2020","Count of State",
+"Country","New York","2020","Sum of CY Sales",
+"Country","New York","2020","Sum of CY Sales - Count of State",
+"Country","New York","2020","(Sum of CY Sales - Count of State)%",
+"Country","LA","2018","Count of State","3"
+"Country","LA","2018","Sum of CY Sales","1340466"
+"Country","LA","2018","Sum of CY Sales - Count of State","1340463"
+"Country","LA","2018","(Sum of CY Sales - Count of State)%","446821"
+"Country","LA","2019","Count of State",
+"Country","LA","2019","Sum of CY Sales",
+"Country","LA","2019","Sum of CY Sales - Count of State",
+"Country","LA","2019","(Sum of CY Sales - Count of State)%",
+"Country","LA","2020","Count of State",
+"Country","LA","2020","Sum of CY Sales",
+"Country","LA","2020","Sum of CY Sales - Count of State",
+"Country","LA","2020","(Sum of CY Sales - Count of State)%",
+"Country","England","2018","Count of State",
+"Country","England","2018","Sum of CY Sales",
+"Country","England","2018","Sum of CY Sales - Count of State",
+"Country","England","2018","(Sum of CY Sales - Count of State)%",
+"Country","England","2019","Count of State","3"
+"Country","England","2019","Sum of CY Sales","707688"
+"Country","England","2019","Sum of CY Sales - Count of State","707685"
+"Country","England","2019","(Sum of CY Sales - Count of State)%","235895"
+"Country","England","2020","Count of State",
+"Country","England","2020","Sum of CY Sales",
+"Country","England","2020","Sum of CY Sales - Count of State",
+"Country","England","2020","(Sum of CY Sales - Count of State)%",
+"Country","Florida","2018","Count of State","3"
+"Country","Florida","2018","Sum of CY Sales","376467"
+"Country","Florida","2018","Sum of CY Sales - Count of State","376464"
+"Country","Florida","2018","(Sum of CY Sales - Count of State)%","125488"
+"Country","Florida","2019","Count of State",
+"Country","Florida","2019","Sum of CY Sales",
+"Country","Florida","2019","Sum of CY Sales - Count of State",
+"Country","Florida","2019","(Sum of CY Sales - Count of State)%",
+"Country","Florida","2020","Count of State",
+"Country","Florida","2020","Sum of CY Sales",
+"Country","Florida","2020","Sum of CY Sales - Count of State",
+"Country","Florida","2020","(Sum of CY Sales - Count of State)%",
+"Country","Scotland","2018","Count of State",
+"Country","Scotland","2018","Sum of CY Sales",
+"Country","Scotland","2018","Sum of CY Sales - Count of State",
+"Country","Scotland","2018","(Sum of CY Sales - Count of State)%",
+"Country","Scotland","2019","Count of State","3"
+"Country","Scotland","2019","Sum of CY Sales","376425"
+"Country","Scotland","2019","Sum of CY Sales - Count of State","376422"
+"Country","Scotland","2019","(Sum of CY Sales - Count of State)%","125474"
+"Country","Scotland","2020","Count of State",
+"Country","Scotland","2020","Sum of CY Sales",
+"Country","Scotland","2020","Sum of CY Sales - Count of State",
+"Country","Scotland","2020","(Sum of CY Sales - Count of State)%",
+"Country","Dallas","2018","Count of State","3"
+"Country","Dallas","2018","Sum of CY Sales","200136"
+"Country","Dallas","2018","Sum of CY Sales - Count of State","200133"
+"Country","Dallas","2018","(Sum of CY Sales - Count of State)%","66711"
+"Country","Dallas","2019","Count of State",
+"Country","Dallas","2019","Sum of CY Sales",
+"Country","Dallas","2019","Sum of CY Sales - Count of State",
+"Country","Dallas","2019","(Sum of CY Sales - Count of State)%",
+"Country","Dallas","2020","Count of State",
+"Country","Dallas","2020","Sum of CY Sales",
+"Country","Dallas","2020","Sum of CY Sales - Count of State",
+"Country","Dallas","2020","(Sum of CY Sales - Count of State)%",
+"Country","Alberta","2018","Count of State",
+"Country","Alberta","2018","Sum of CY Sales",
+"Country","Alberta","2018","Sum of CY Sales - Count of State",
+"Country","Alberta","2018","(Sum of CY Sales - Count of State)%",
+"Country","Alberta","2019","Count of State",
+"Country","Alberta","2019","Sum of CY Sales",
+"Country","Alberta","2019","Sum of CY Sales - Count of State",
+"Country","Alberta","2019","(Sum of CY Sales - Count of State)%",
+"Country","Alberta","2020","Count of State","3"
+"Country","Alberta","2020","Sum of CY Sales",
+"Country","Alberta","2020","Sum of CY Sales - Count of State","-3"
+"Country","Alberta","2020","(Sum of CY Sales - Count of State)%","-1"
+"Country","Manitoba","2018","Count of State",
+"Country","Manitoba","2018","Sum of CY Sales",
+"Country","Manitoba","2018","Sum of CY Sales - Count of State",
+"Country","Manitoba","2018","(Sum of CY Sales - Count of State)%",
+"Country","Manitoba","2019","Count of State",
+"Country","Manitoba","2019","Sum of CY Sales",
+"Country","Manitoba","2019","Sum of CY Sales - Count of State",
+"Country","Manitoba","2019","(Sum of CY Sales - Count of State)%",
+"Country","Manitoba","2020","Count of State","3"
+"Country","Manitoba","2020","Sum of CY Sales",
+"Country","Manitoba","2020","Sum of CY Sales - Count of State","-3"
+"Country","Manitoba","2020","(Sum of CY Sales - Count of State)%","-1"
+"Country","Nova","2018","Count of State",
+"Country","Nova","2018","Sum of CY Sales",
+"Country","Nova","2018","Sum of CY Sales - Count of State",
+"Country","Nova","2018","(Sum of CY Sales - Count of State)%",
+"Country","Nova","2019","Count of State",
+"Country","Nova","2019","Sum of CY Sales",
+"Country","Nova","2019","Sum of CY Sales - Count of State",
+"Country","Nova","2019","(Sum of CY Sales - Count of State)%",
+"Country","Nova","2020","Count of State","3"
+"Country","Nova","2020","Sum of CY Sales",
+"Country","Nova","2020","Sum of CY Sales - Count of State","-3"
+"Country","Nova","2020","(Sum of CY Sales - Count of State)%","-1"
+"Country","Quebec","2018","Count of State",
+"Country","Quebec","2018","Sum of CY Sales",
+"Country","Quebec","2018","Sum of CY Sales - Count of State",
+"Country","Quebec","2018","(Sum of CY Sales - Count of State)%",
+"Country","Quebec","2019","Count of State",
+"Country","Quebec","2019","Sum of CY Sales",
+"Country","Quebec","2019","Sum of CY Sales - Count of State",
+"Country","Quebec","2019","(Sum of CY Sales - Count of State)%",
+"Country","Quebec","2020","Count of State","3"
+"Country","Quebec","2020","Sum of CY Sales",
+"Country","Quebec","2020","Sum of CY Sales - Count of State","-3"
+"Country","Quebec","2020","(Sum of CY Sales - Count of State)%","-1"
+"Country","Yuka","2018","Count of State",
+"Country","Yuka","2018","Sum of CY Sales",
+"Country","Yuka","2018","Sum of CY Sales - Count of State",
+"Country","Yuka","2018","(Sum of CY Sales - Count of State)%",
+"Country","Yuka","2019","Count of State",
+"Country","Yuka","2019","Sum of CY Sales",
+"Country","Yuka","2019","Sum of CY Sales - Count of State",
+"Country","Yuka","2019","(Sum of CY Sales - Count of State)%",
+"Country","Yuka","2020","Count of State","3"
+"Country","Yuka","2020","Sum of CY Sales",
+"Country","Yuka","2020","Sum of CY Sales - Count of State","-3"
+"Country","Yuka","2020","(Sum of CY Sales - Count of State)%","-1"
