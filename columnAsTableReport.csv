@@ -1,0 +1,1129 @@
+Region,PL,City,Country,FC,BU,Year,Value Column Name,Value
+"Americas","144000","Manaus","Brazil","71000","71000","2017","PY",
+"Americas","144000","Manaus","Brazil","71000","71000","2017","AC",
+"Americas","144000","Manaus","Brazil","71000","71000","2017","AC - PY",
+"Americas","144000","Manaus","Brazil","71000","71000","2017","(AC - PY)%",
+"Americas","144000","Manaus","Brazil","71000","71000","2018","PY",
+"Americas","144000","Manaus","Brazil","71000","71000","2018","AC",
+"Americas","144000","Manaus","Brazil","71000","71000","2018","AC - PY",
+"Americas","144000","Manaus","Brazil","71000","71000","2018","(AC - PY)%",
+"Americas","144000","Manaus","Brazil","71000","71000","2019","PY","55000"
+"Americas","144000","Manaus","Brazil","71000","71000","2019","AC","147000"
+"Americas","144000","Manaus","Brazil","71000","71000","2019","AC - PY","92000"
+"Americas","144000","Manaus","Brazil","71000","71000","2019","(AC - PY)%","1.6727272727272726"
+"Americas","144000","Texas","USA","124000","118000","2017","PY","111000"
+"Americas","144000","Texas","USA","124000","118000","2017","AC","112000"
+"Americas","144000","Texas","USA","124000","118000","2017","AC - PY","1000"
+"Americas","144000","Texas","USA","124000","118000","2017","(AC - PY)%","0.009009009009009009"
+"Americas","144000","Texas","USA","124000","118000","2018","PY",
+"Americas","144000","Texas","USA","124000","118000","2018","AC",
+"Americas","144000","Texas","USA","124000","118000","2018","AC - PY",
+"Americas","144000","Texas","USA","124000","118000","2018","(AC - PY)%",
+"Americas","144000","Texas","USA","124000","118000","2019","PY",
+"Americas","144000","Texas","USA","124000","118000","2019","AC",
+"Americas","144000","Texas","USA","124000","118000","2019","AC - PY",
+"Americas","144000","Texas","USA","124000","118000","2019","(AC - PY)%",
+"Americas","37000","Chicago","Other","113000","77000","2017","PY",
+"Americas","37000","Chicago","Other","113000","77000","2017","AC",
+"Americas","37000","Chicago","Other","113000","77000","2017","AC - PY",
+"Americas","37000","Chicago","Other","113000","77000","2017","(AC - PY)%",
+"Americas","37000","Chicago","Other","113000","77000","2018","PY",
+"Americas","37000","Chicago","Other","113000","77000","2018","AC",
+"Americas","37000","Chicago","Other","113000","77000","2018","AC - PY",
+"Americas","37000","Chicago","Other","113000","77000","2018","(AC - PY)%",
+"Americas","37000","Chicago","Other","113000","77000","2019","PY","85000"
+"Americas","37000","Chicago","Other","113000","77000","2019","AC","125000"
+"Americas","37000","Chicago","Other","113000","77000","2019","AC - PY","40000"
+"Americas","37000","Chicago","Other","113000","77000","2019","(AC - PY)%","0.4705882352941176"
+"Americas","37000","Montreal","Canada","64000","144000","2017","PY",
+"Americas","37000","Montreal","Canada","64000","144000","2017","AC",
+"Americas","37000","Montreal","Canada","64000","144000","2017","AC - PY",
+"Americas","37000","Montreal","Canada","64000","144000","2017","(AC - PY)%",
+"Americas","37000","Montreal","Canada","64000","144000","2018","PY","-120000"
+"Americas","37000","Montreal","Canada","64000","144000","2018","AC","49000"
+"Americas","37000","Montreal","Canada","64000","144000","2018","AC - PY","169000"
+"Americas","37000","Montreal","Canada","64000","144000","2018","(AC - PY)%","1.4083333333333334"
+"Americas","37000","Montreal","Canada","64000","144000","2019","PY",
+"Americas","37000","Montreal","Canada","64000","144000","2019","AC",
+"Americas","37000","Montreal","Canada","64000","144000","2019","AC - PY",
+"Americas","37000","Montreal","Canada","64000","144000","2019","(AC - PY)%",
+"Americas","(Blank)","New York","USA","82000","60000","2017","PY",
+"Americas","(Blank)","New York","USA","82000","60000","2017","AC",
+"Americas","(Blank)","New York","USA","82000","60000","2017","AC - PY",
+"Americas","(Blank)","New York","USA","82000","60000","2017","(AC - PY)%",
+"Americas","(Blank)","New York","USA","82000","60000","2018","PY","119000"
+"Americas","(Blank)","New York","USA","82000","60000","2018","AC","99000"
+"Americas","(Blank)","New York","USA","82000","60000","2018","AC - PY","-20000"
+"Americas","(Blank)","New York","USA","82000","60000","2018","(AC - PY)%","-0.16806722689075632"
+"Americas","(Blank)","New York","USA","82000","60000","2019","PY",
+"Americas","(Blank)","New York","USA","82000","60000","2019","AC",
+"Americas","(Blank)","New York","USA","82000","60000","2019","AC - PY",
+"Americas","(Blank)","New York","USA","82000","60000","2019","(AC - PY)%",
+"Americas","(Blank)","Chicago","Other","147000","56000","2017","PY",
+"Americas","(Blank)","Chicago","Other","147000","56000","2017","AC",
+"Americas","(Blank)","Chicago","Other","147000","56000","2017","AC - PY",
+"Americas","(Blank)","Chicago","Other","147000","56000","2017","(AC - PY)%",
+"Americas","(Blank)","Chicago","Other","147000","56000","2018","PY","93000"
+"Americas","(Blank)","Chicago","Other","147000","56000","2018","AC","67000"
+"Americas","(Blank)","Chicago","Other","147000","56000","2018","AC - PY","-26000"
+"Americas","(Blank)","Chicago","Other","147000","56000","2018","(AC - PY)%","-0.27956989247311825"
+"Americas","(Blank)","Chicago","Other","147000","56000","2019","PY",
+"Americas","(Blank)","Chicago","Other","147000","56000","2019","AC",
+"Americas","(Blank)","Chicago","Other","147000","56000","2019","AC - PY",
+"Americas","(Blank)","Chicago","Other","147000","56000","2019","(AC - PY)%",
+"Americas","83000","Vancouver","Canada","119000","66000","2017","PY",
+"Americas","83000","Vancouver","Canada","119000","66000","2017","AC",
+"Americas","83000","Vancouver","Canada","119000","66000","2017","AC - PY",
+"Americas","83000","Vancouver","Canada","119000","66000","2017","(AC - PY)%",
+"Americas","83000","Vancouver","Canada","119000","66000","2018","PY",
+"Americas","83000","Vancouver","Canada","119000","66000","2018","AC",
+"Americas","83000","Vancouver","Canada","119000","66000","2018","AC - PY",
+"Americas","83000","Vancouver","Canada","119000","66000","2018","(AC - PY)%",
+"Americas","83000","Vancouver","Canada","119000","66000","2019","PY","111000"
+"Americas","83000","Vancouver","Canada","119000","66000","2019","AC","150000"
+"Americas","83000","Vancouver","Canada","119000","66000","2019","AC - PY","39000"
+"Americas","83000","Vancouver","Canada","119000","66000","2019","(AC - PY)%","0.35135135135135137"
+"Americas","38000","Chicago","Other","79000","133000","2017","PY","111000"
+"Americas","38000","Chicago","Other","79000","133000","2017","AC","97000"
+"Americas","38000","Chicago","Other","79000","133000","2017","AC - PY","-14000"
+"Americas","38000","Chicago","Other","79000","133000","2017","(AC - PY)%","-0.12612612612612611"
+"Americas","38000","Chicago","Other","79000","133000","2018","PY",
+"Americas","38000","Chicago","Other","79000","133000","2018","AC",
+"Americas","38000","Chicago","Other","79000","133000","2018","AC - PY",
+"Americas","38000","Chicago","Other","79000","133000","2018","(AC - PY)%",
+"Americas","38000","Chicago","Other","79000","133000","2019","PY",
+"Americas","38000","Chicago","Other","79000","133000","2019","AC",
+"Americas","38000","Chicago","Other","79000","133000","2019","AC - PY",
+"Americas","38000","Chicago","Other","79000","133000","2019","(AC - PY)%",
+"Americas","38000","Montreal","Canada","70000","89000","2017","PY","107000"
+"Americas","38000","Montreal","Canada","70000","89000","2017","AC","51000"
+"Americas","38000","Montreal","Canada","70000","89000","2017","AC - PY","-56000"
+"Americas","38000","Montreal","Canada","70000","89000","2017","(AC - PY)%","-0.5233644859813084"
+"Americas","38000","Montreal","Canada","70000","89000","2018","PY",
+"Americas","38000","Montreal","Canada","70000","89000","2018","AC",
+"Americas","38000","Montreal","Canada","70000","89000","2018","AC - PY",
+"Americas","38000","Montreal","Canada","70000","89000","2018","(AC - PY)%",
+"Americas","38000","Montreal","Canada","70000","89000","2019","PY",
+"Americas","38000","Montreal","Canada","70000","89000","2019","AC",
+"Americas","38000","Montreal","Canada","70000","89000","2019","AC - PY",
+"Americas","38000","Montreal","Canada","70000","89000","2019","(AC - PY)%",
+"Americas","146000","Rio","Brazil","87000","127000","2017","PY","104000"
+"Americas","146000","Rio","Brazil","87000","127000","2017","AC","138000"
+"Americas","146000","Rio","Brazil","87000","127000","2017","AC - PY","34000"
+"Americas","146000","Rio","Brazil","87000","127000","2017","(AC - PY)%","0.3269230769230769"
+"Americas","146000","Rio","Brazil","87000","127000","2018","PY",
+"Americas","146000","Rio","Brazil","87000","127000","2018","AC",
+"Americas","146000","Rio","Brazil","87000","127000","2018","AC - PY",
+"Americas","146000","Rio","Brazil","87000","127000","2018","(AC - PY)%",
+"Americas","146000","Rio","Brazil","87000","127000","2019","PY",
+"Americas","146000","Rio","Brazil","87000","127000","2019","AC",
+"Americas","146000","Rio","Brazil","87000","127000","2019","AC - PY",
+"Americas","146000","Rio","Brazil","87000","127000","2019","(AC - PY)%",
+"Americas","87000","Vancouver","Canada","79000","41000","2017","PY",
+"Americas","87000","Vancouver","Canada","79000","41000","2017","AC",
+"Americas","87000","Vancouver","Canada","79000","41000","2017","AC - PY",
+"Americas","87000","Vancouver","Canada","79000","41000","2017","(AC - PY)%",
+"Americas","87000","Vancouver","Canada","79000","41000","2018","PY","102000"
+"Americas","87000","Vancouver","Canada","79000","41000","2018","AC","134000"
+"Americas","87000","Vancouver","Canada","79000","41000","2018","AC - PY","32000"
+"Americas","87000","Vancouver","Canada","79000","41000","2018","(AC - PY)%","0.3137254901960784"
+"Americas","87000","Vancouver","Canada","79000","41000","2019","PY",
+"Americas","87000","Vancouver","Canada","79000","41000","2019","AC",
+"Americas","87000","Vancouver","Canada","79000","41000","2019","AC - PY",
+"Americas","87000","Vancouver","Canada","79000","41000","2019","(AC - PY)%",
+"Americas","60000","California","USA","85000","129000","2017","PY",
+"Americas","60000","California","USA","85000","129000","2017","AC",
+"Americas","60000","California","USA","85000","129000","2017","AC - PY",
+"Americas","60000","California","USA","85000","129000","2017","(AC - PY)%",
+"Americas","60000","California","USA","85000","129000","2018","PY","81000"
+"Americas","60000","California","USA","85000","129000","2018","AC","131000"
+"Americas","60000","California","USA","85000","129000","2018","AC - PY","50000"
+"Americas","60000","California","USA","85000","129000","2018","(AC - PY)%","0.6172839506172839"
+"Americas","60000","California","USA","85000","129000","2019","PY",
+"Americas","60000","California","USA","85000","129000","2019","AC",
+"Americas","60000","California","USA","85000","129000","2019","AC - PY",
+"Americas","60000","California","USA","85000","129000","2019","(AC - PY)%",
+"Americas","92000","California","USA","144000","121000","2017","PY","90000"
+"Americas","92000","California","USA","144000","121000","2017","AC","131000"
+"Americas","92000","California","USA","144000","121000","2017","AC - PY","41000"
+"Americas","92000","California","USA","144000","121000","2017","(AC - PY)%","0.45555555555555555"
+"Americas","92000","California","USA","144000","121000","2018","PY",
+"Americas","92000","California","USA","144000","121000","2018","AC",
+"Americas","92000","California","USA","144000","121000","2018","AC - PY",
+"Americas","92000","California","USA","144000","121000","2018","(AC - PY)%",
+"Americas","92000","California","USA","144000","121000","2019","PY",
+"Americas","92000","California","USA","144000","121000","2019","AC",
+"Americas","92000","California","USA","144000","121000","2019","AC - PY",
+"Americas","92000","California","USA","144000","121000","2019","(AC - PY)%",
+"Americas","139000","Manaus","Brazil","81000","144000","2017","PY",
+"Americas","139000","Manaus","Brazil","81000","144000","2017","AC",
+"Americas","139000","Manaus","Brazil","81000","144000","2017","AC - PY",
+"Americas","139000","Manaus","Brazil","81000","144000","2017","(AC - PY)%",
+"Americas","139000","Manaus","Brazil","81000","144000","2018","PY","-122000"
+"Americas","139000","Manaus","Brazil","81000","144000","2018","AC","129000"
+"Americas","139000","Manaus","Brazil","81000","144000","2018","AC - PY","251000"
+"Americas","139000","Manaus","Brazil","81000","144000","2018","(AC - PY)%","2.057377049180328"
+"Americas","139000","Manaus","Brazil","81000","144000","2019","PY",
+"Americas","139000","Manaus","Brazil","81000","144000","2019","AC",
+"Americas","139000","Manaus","Brazil","81000","144000","2019","AC - PY",
+"Americas","139000","Manaus","Brazil","81000","144000","2019","(AC - PY)%",
+"Americas","46000","Salvador","Brazil","101000","145000","2017","PY",
+"Americas","46000","Salvador","Brazil","101000","145000","2017","AC",
+"Americas","46000","Salvador","Brazil","101000","145000","2017","AC - PY",
+"Americas","46000","Salvador","Brazil","101000","145000","2017","(AC - PY)%",
+"Americas","46000","Salvador","Brazil","101000","145000","2018","PY",
+"Americas","46000","Salvador","Brazil","101000","145000","2018","AC",
+"Americas","46000","Salvador","Brazil","101000","145000","2018","AC - PY",
+"Americas","46000","Salvador","Brazil","101000","145000","2018","(AC - PY)%",
+"Americas","46000","Salvador","Brazil","101000","145000","2019","PY","52000"
+"Americas","46000","Salvador","Brazil","101000","145000","2019","AC","121000"
+"Americas","46000","Salvador","Brazil","101000","145000","2019","AC - PY","69000"
+"Americas","46000","Salvador","Brazil","101000","145000","2019","(AC - PY)%","1.3269230769230769"
+"Americas","124000","Texas","USA","126000","66000","2017","PY",
+"Americas","124000","Texas","USA","126000","66000","2017","AC",
+"Americas","124000","Texas","USA","126000","66000","2017","AC - PY",
+"Americas","124000","Texas","USA","126000","66000","2017","(AC - PY)%",
+"Americas","124000","Texas","USA","126000","66000","2018","PY",
+"Americas","124000","Texas","USA","126000","66000","2018","AC",
+"Americas","124000","Texas","USA","126000","66000","2018","AC - PY",
+"Americas","124000","Texas","USA","126000","66000","2018","(AC - PY)%",
+"Americas","124000","Texas","USA","126000","66000","2019","PY","51000"
+"Americas","124000","Texas","USA","126000","66000","2019","AC","117000"
+"Americas","124000","Texas","USA","126000","66000","2019","AC - PY","66000"
+"Americas","124000","Texas","USA","126000","66000","2019","(AC - PY)%","1.2941176470588234"
+"Americas","114000","New York","USA","136000","123000","2017","PY","92000"
+"Americas","114000","New York","USA","136000","123000","2017","AC","116000"
+"Americas","114000","New York","USA","136000","123000","2017","AC - PY","24000"
+"Americas","114000","New York","USA","136000","123000","2017","(AC - PY)%","0.2608695652173913"
+"Americas","114000","New York","USA","136000","123000","2018","PY",
+"Americas","114000","New York","USA","136000","123000","2018","AC",
+"Americas","114000","New York","USA","136000","123000","2018","AC - PY",
+"Americas","114000","New York","USA","136000","123000","2018","(AC - PY)%",
+"Americas","114000","New York","USA","136000","123000","2019","PY",
+"Americas","114000","New York","USA","136000","123000","2019","AC",
+"Americas","114000","New York","USA","136000","123000","2019","AC - PY",
+"Americas","114000","New York","USA","136000","123000","2019","(AC - PY)%",
+"Americas","66000","California","USA","139000","85000","2017","PY",
+"Americas","66000","California","USA","139000","85000","2017","AC",
+"Americas","66000","California","USA","139000","85000","2017","AC - PY",
+"Americas","66000","California","USA","139000","85000","2017","(AC - PY)%",
+"Americas","66000","California","USA","139000","85000","2018","PY",
+"Americas","66000","California","USA","139000","85000","2018","AC",
+"Americas","66000","California","USA","139000","85000","2018","AC - PY",
+"Americas","66000","California","USA","139000","85000","2018","(AC - PY)%",
+"Americas","66000","California","USA","139000","85000","2019","PY","139000"
+"Americas","66000","California","USA","139000","85000","2019","AC","113000"
+"Americas","66000","California","USA","139000","85000","2019","AC - PY","-26000"
+"Americas","66000","California","USA","139000","85000","2019","(AC - PY)%","-0.18705035971223022"
+"Americas","113000","Vancouver","Canada","117000","114000","2017","PY","42000"
+"Americas","113000","Vancouver","Canada","117000","114000","2017","AC","110000"
+"Americas","113000","Vancouver","Canada","117000","114000","2017","AC - PY","68000"
+"Americas","113000","Vancouver","Canada","117000","114000","2017","(AC - PY)%","1.619047619047619"
+"Americas","113000","Vancouver","Canada","117000","114000","2018","PY",
+"Americas","113000","Vancouver","Canada","117000","114000","2018","AC",
+"Americas","113000","Vancouver","Canada","117000","114000","2018","AC - PY",
+"Americas","113000","Vancouver","Canada","117000","114000","2018","(AC - PY)%",
+"Americas","113000","Vancouver","Canada","117000","114000","2019","PY",
+"Americas","113000","Vancouver","Canada","117000","114000","2019","AC",
+"Americas","113000","Vancouver","Canada","117000","114000","2019","AC - PY",
+"Americas","113000","Vancouver","Canada","117000","114000","2019","(AC - PY)%",
+"Americas","70000","Rio","Brazil","36000","53000","2017","PY",
+"Americas","70000","Rio","Brazil","36000","53000","2017","AC",
+"Americas","70000","Rio","Brazil","36000","53000","2017","AC - PY",
+"Americas","70000","Rio","Brazil","36000","53000","2017","(AC - PY)%",
+"Americas","70000","Rio","Brazil","36000","53000","2018","PY","78000"
+"Americas","70000","Rio","Brazil","36000","53000","2018","AC","105000"
+"Americas","70000","Rio","Brazil","36000","53000","2018","AC - PY","27000"
+"Americas","70000","Rio","Brazil","36000","53000","2018","(AC - PY)%","0.34615384615384615"
+"Americas","70000","Rio","Brazil","36000","53000","2019","PY",
+"Americas","70000","Rio","Brazil","36000","53000","2019","AC",
+"Americas","70000","Rio","Brazil","36000","53000","2019","AC - PY",
+"Americas","70000","Rio","Brazil","36000","53000","2019","(AC - PY)%",
+"Americas","119000","Rio","Brazil","70000","60000","2017","PY",
+"Americas","119000","Rio","Brazil","70000","60000","2017","AC",
+"Americas","119000","Rio","Brazil","70000","60000","2017","AC - PY",
+"Americas","119000","Rio","Brazil","70000","60000","2017","(AC - PY)%",
+"Americas","119000","Rio","Brazil","70000","60000","2018","PY",
+"Americas","119000","Rio","Brazil","70000","60000","2018","AC",
+"Americas","119000","Rio","Brazil","70000","60000","2018","AC - PY",
+"Americas","119000","Rio","Brazil","70000","60000","2018","(AC - PY)%",
+"Americas","119000","Rio","Brazil","70000","60000","2019","PY","131000"
+"Americas","119000","Rio","Brazil","70000","60000","2019","AC","99000"
+"Americas","119000","Rio","Brazil","70000","60000","2019","AC - PY","-32000"
+"Americas","119000","Rio","Brazil","70000","60000","2019","(AC - PY)%","-0.24427480916030533"
+"Americas","42000","Toronto","Canada","108000","52000","2017","PY",
+"Americas","42000","Toronto","Canada","108000","52000","2017","AC",
+"Americas","42000","Toronto","Canada","108000","52000","2017","AC - PY",
+"Americas","42000","Toronto","Canada","108000","52000","2017","(AC - PY)%",
+"Americas","42000","Toronto","Canada","108000","52000","2018","PY","0"
+"Americas","42000","Toronto","Canada","108000","52000","2018","AC","96000"
+"Americas","42000","Toronto","Canada","108000","52000","2018","AC - PY","96000"
+"Americas","42000","Toronto","Canada","108000","52000","2018","(AC - PY)%",
+"Americas","42000","Toronto","Canada","108000","52000","2019","PY",
+"Americas","42000","Toronto","Canada","108000","52000","2019","AC",
+"Americas","42000","Toronto","Canada","108000","52000","2019","AC - PY",
+"Americas","42000","Toronto","Canada","108000","52000","2019","(AC - PY)%",
+"Americas","69000","New York","USA","127000","57000","2017","PY",
+"Americas","69000","New York","USA","127000","57000","2017","AC",
+"Americas","69000","New York","USA","127000","57000","2017","AC - PY",
+"Americas","69000","New York","USA","127000","57000","2017","(AC - PY)%",
+"Americas","69000","New York","USA","127000","57000","2018","PY",
+"Americas","69000","New York","USA","127000","57000","2018","AC",
+"Americas","69000","New York","USA","127000","57000","2018","AC - PY",
+"Americas","69000","New York","USA","127000","57000","2018","(AC - PY)%",
+"Americas","69000","New York","USA","127000","57000","2019","PY","96000"
+"Americas","69000","New York","USA","127000","57000","2019","AC","91000"
+"Americas","69000","New York","USA","127000","57000","2019","AC - PY","-5000"
+"Americas","69000","New York","USA","127000","57000","2019","(AC - PY)%","-0.05208333333333334"
+"Americas","98000","Toronto","Canada","127000","39000","2017","PY","59000"
+"Americas","98000","Toronto","Canada","127000","39000","2017","AC","78000"
+"Americas","98000","Toronto","Canada","127000","39000","2017","AC - PY","19000"
+"Americas","98000","Toronto","Canada","127000","39000","2017","(AC - PY)%","0.3220338983050847"
+"Americas","98000","Toronto","Canada","127000","39000","2018","PY",
+"Americas","98000","Toronto","Canada","127000","39000","2018","AC",
+"Americas","98000","Toronto","Canada","127000","39000","2018","AC - PY",
+"Americas","98000","Toronto","Canada","127000","39000","2018","(AC - PY)%",
+"Americas","98000","Toronto","Canada","127000","39000","2019","PY",
+"Americas","98000","Toronto","Canada","127000","39000","2019","AC",
+"Americas","98000","Toronto","Canada","127000","39000","2019","AC - PY",
+"Americas","98000","Toronto","Canada","127000","39000","2019","(AC - PY)%",
+"Americas","134000","Manaus","Brazil","130000","122000","2017","PY","72000"
+"Americas","134000","Manaus","Brazil","130000","122000","2017","AC","56000"
+"Americas","134000","Manaus","Brazil","130000","122000","2017","AC - PY","-16000"
+"Americas","134000","Manaus","Brazil","130000","122000","2017","(AC - PY)%","-0.2222222222222222"
+"Americas","134000","Manaus","Brazil","130000","122000","2018","PY",
+"Americas","134000","Manaus","Brazil","130000","122000","2018","AC",
+"Americas","134000","Manaus","Brazil","130000","122000","2018","AC - PY",
+"Americas","134000","Manaus","Brazil","130000","122000","2018","(AC - PY)%",
+"Americas","134000","Manaus","Brazil","130000","122000","2019","PY",
+"Americas","134000","Manaus","Brazil","130000","122000","2019","AC",
+"Americas","134000","Manaus","Brazil","130000","122000","2019","AC - PY",
+"Americas","134000","Manaus","Brazil","130000","122000","2019","(AC - PY)%",
+"Americas","93000","Toronto","Canada","75000","98000","2017","PY",
+"Americas","93000","Toronto","Canada","75000","98000","2017","AC",
+"Americas","93000","Toronto","Canada","75000","98000","2017","AC - PY",
+"Americas","93000","Toronto","Canada","75000","98000","2017","(AC - PY)%",
+"Americas","93000","Toronto","Canada","75000","98000","2018","PY",
+"Americas","93000","Toronto","Canada","75000","98000","2018","AC",
+"Americas","93000","Toronto","Canada","75000","98000","2018","AC - PY",
+"Americas","93000","Toronto","Canada","75000","98000","2018","(AC - PY)%",
+"Americas","93000","Toronto","Canada","75000","98000","2019","PY","35000"
+"Americas","93000","Toronto","Canada","75000","98000","2019","AC","47000"
+"Americas","93000","Toronto","Canada","75000","98000","2019","AC - PY","12000"
+"Americas","93000","Toronto","Canada","75000","98000","2019","(AC - PY)%","0.34285714285714286"
+"Americas","64000","Salvador","Brazil","43000","126000","2017","PY",
+"Americas","64000","Salvador","Brazil","43000","126000","2017","AC",
+"Americas","64000","Salvador","Brazil","43000","126000","2017","AC - PY",
+"Americas","64000","Salvador","Brazil","43000","126000","2017","(AC - PY)%",
+"Americas","64000","Salvador","Brazil","43000","126000","2018","PY","0"
+"Americas","64000","Salvador","Brazil","43000","126000","2018","AC","46000"
+"Americas","64000","Salvador","Brazil","43000","126000","2018","AC - PY","46000"
+"Americas","64000","Salvador","Brazil","43000","126000","2018","(AC - PY)%",
+"Americas","64000","Salvador","Brazil","43000","126000","2019","PY",
+"Americas","64000","Salvador","Brazil","43000","126000","2019","AC",
+"Americas","64000","Salvador","Brazil","43000","126000","2019","AC - PY",
+"Americas","64000","Salvador","Brazil","43000","126000","2019","(AC - PY)%",
+"Americas","73000","Texas","USA","75000","128000","2017","PY",
+"Americas","73000","Texas","USA","75000","128000","2017","AC",
+"Americas","73000","Texas","USA","75000","128000","2017","AC - PY",
+"Americas","73000","Texas","USA","75000","128000","2017","(AC - PY)%",
+"Americas","73000","Texas","USA","75000","128000","2018","PY","141000"
+"Americas","73000","Texas","USA","75000","128000","2018","AC","45000"
+"Americas","73000","Texas","USA","75000","128000","2018","AC - PY","-96000"
+"Americas","73000","Texas","USA","75000","128000","2018","(AC - PY)%","-0.6808510638297872"
+"Americas","73000","Texas","USA","75000","128000","2019","PY",
+"Americas","73000","Texas","USA","75000","128000","2019","AC",
+"Americas","73000","Texas","USA","75000","128000","2019","AC - PY",
+"Americas","73000","Texas","USA","75000","128000","2019","(AC - PY)%",
+"Americas","53000","Montreal","Canada","97000","113000","2017","PY",
+"Americas","53000","Montreal","Canada","97000","113000","2017","AC",
+"Americas","53000","Montreal","Canada","97000","113000","2017","AC - PY",
+"Americas","53000","Montreal","Canada","97000","113000","2017","(AC - PY)%",
+"Americas","53000","Montreal","Canada","97000","113000","2018","PY",
+"Americas","53000","Montreal","Canada","97000","113000","2018","AC",
+"Americas","53000","Montreal","Canada","97000","113000","2018","AC - PY",
+"Americas","53000","Montreal","Canada","97000","113000","2018","(AC - PY)%",
+"Americas","53000","Montreal","Canada","97000","113000","2019","PY","86000"
+"Americas","53000","Montreal","Canada","97000","113000","2019","AC","39000"
+"Americas","53000","Montreal","Canada","97000","113000","2019","AC - PY","-47000"
+"Americas","53000","Montreal","Canada","97000","113000","2019","(AC - PY)%","-0.5465116279069767"
+"Americas","101000","Salvador","Brazil","63000","130000","2017","PY","121000"
+"Americas","101000","Salvador","Brazil","63000","130000","2017","AC","39000"
+"Americas","101000","Salvador","Brazil","63000","130000","2017","AC - PY","-82000"
+"Americas","101000","Salvador","Brazil","63000","130000","2017","(AC - PY)%","-0.6776859504132231"
+"Americas","101000","Salvador","Brazil","63000","130000","2018","PY",
+"Americas","101000","Salvador","Brazil","63000","130000","2018","AC",
+"Americas","101000","Salvador","Brazil","63000","130000","2018","AC - PY",
+"Americas","101000","Salvador","Brazil","63000","130000","2018","(AC - PY)%",
+"Americas","101000","Salvador","Brazil","63000","130000","2019","PY",
+"Americas","101000","Salvador","Brazil","63000","130000","2019","AC",
+"Americas","101000","Salvador","Brazil","63000","130000","2019","AC - PY",
+"Americas","101000","Salvador","Brazil","63000","130000","2019","(AC - PY)%",
+"Europe","55000","Stockholm","Sweden","42000","81000","2017","PY",
+"Europe","55000","Stockholm","Sweden","42000","81000","2017","AC",
+"Europe","55000","Stockholm","Sweden","42000","81000","2017","AC - PY",
+"Europe","55000","Stockholm","Sweden","42000","81000","2017","(AC - PY)%",
+"Europe","55000","Stockholm","Sweden","42000","81000","2018","PY",
+"Europe","55000","Stockholm","Sweden","42000","81000","2018","AC",
+"Europe","55000","Stockholm","Sweden","42000","81000","2018","AC - PY",
+"Europe","55000","Stockholm","Sweden","42000","81000","2018","(AC - PY)%",
+"Europe","55000","Stockholm","Sweden","42000","81000","2019","PY","117000"
+"Europe","55000","Stockholm","Sweden","42000","81000","2019","AC","139000"
+"Europe","55000","Stockholm","Sweden","42000","81000","2019","AC - PY","22000"
+"Europe","55000","Stockholm","Sweden","42000","81000","2019","(AC - PY)%","0.18803418803418803"
+"Europe","55000","Warsaw","Poland","141000","77000","2017","PY",
+"Europe","55000","Warsaw","Poland","141000","77000","2017","AC",
+"Europe","55000","Warsaw","Poland","141000","77000","2017","AC - PY",
+"Europe","55000","Warsaw","Poland","141000","77000","2017","(AC - PY)%",
+"Europe","55000","Warsaw","Poland","141000","77000","2018","PY","103000"
+"Europe","55000","Warsaw","Poland","141000","77000","2018","AC","99000"
+"Europe","55000","Warsaw","Poland","141000","77000","2018","AC - PY","-4000"
+"Europe","55000","Warsaw","Poland","141000","77000","2018","(AC - PY)%","-0.038834951456310676"
+"Europe","55000","Warsaw","Poland","141000","77000","2019","PY",
+"Europe","55000","Warsaw","Poland","141000","77000","2019","AC",
+"Europe","55000","Warsaw","Poland","141000","77000","2019","AC - PY",
+"Europe","55000","Warsaw","Poland","141000","77000","2019","(AC - PY)%",
+"Europe","64000","Finland","Other","77000","122000","2017","PY","77000"
+"Europe","64000","Finland","Other","77000","122000","2017","AC","142000"
+"Europe","64000","Finland","Other","77000","122000","2017","AC - PY","65000"
+"Europe","64000","Finland","Other","77000","122000","2017","(AC - PY)%","0.8441558441558441"
+"Europe","64000","Finland","Other","77000","122000","2018","PY",
+"Europe","64000","Finland","Other","77000","122000","2018","AC",
+"Europe","64000","Finland","Other","77000","122000","2018","AC - PY",
+"Europe","64000","Finland","Other","77000","122000","2018","(AC - PY)%",
+"Europe","64000","Finland","Other","77000","122000","2019","PY",
+"Europe","64000","Finland","Other","77000","122000","2019","AC",
+"Europe","64000","Finland","Other","77000","122000","2019","AC - PY",
+"Europe","64000","Finland","Other","77000","122000","2019","(AC - PY)%",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2017","PY",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2017","AC",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2017","AC - PY",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2017","(AC - PY)%",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2018","PY",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2018","AC",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2018","AC - PY",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2018","(AC - PY)%",
+"Europe","43000","Gothenburg","Sweden","51000","110000","2019","PY","101000"
+"Europe","43000","Gothenburg","Sweden","51000","110000","2019","AC","141000"
+"Europe","43000","Gothenburg","Sweden","51000","110000","2019","AC - PY","40000"
+"Europe","43000","Gothenburg","Sweden","51000","110000","2019","(AC - PY)%","0.39603960396039606"
+"Europe","141000","Flanders","Belgium","135000","83000","2017","PY",
+"Europe","141000","Flanders","Belgium","135000","83000","2017","AC",
+"Europe","141000","Flanders","Belgium","135000","83000","2017","AC - PY",
+"Europe","141000","Flanders","Belgium","135000","83000","2017","(AC - PY)%",
+"Europe","141000","Flanders","Belgium","135000","83000","2018","PY","95000"
+"Europe","141000","Flanders","Belgium","135000","83000","2018","AC","134000"
+"Europe","141000","Flanders","Belgium","135000","83000","2018","AC - PY","39000"
+"Europe","141000","Flanders","Belgium","135000","83000","2018","(AC - PY)%","0.4105263157894737"
+"Europe","141000","Flanders","Belgium","135000","83000","2019","PY",
+"Europe","141000","Flanders","Belgium","135000","83000","2019","AC",
+"Europe","141000","Flanders","Belgium","135000","83000","2019","AC - PY",
+"Europe","141000","Flanders","Belgium","135000","83000","2019","(AC - PY)%",
+"Europe","63000","Paris","France","88000","92000","2017","PY",
+"Europe","63000","Paris","France","88000","92000","2017","AC",
+"Europe","63000","Paris","France","88000","92000","2017","AC - PY",
+"Europe","63000","Paris","France","88000","92000","2017","(AC - PY)%",
+"Europe","63000","Paris","France","88000","92000","2018","PY",
+"Europe","63000","Paris","France","88000","92000","2018","AC",
+"Europe","63000","Paris","France","88000","92000","2018","AC - PY",
+"Europe","63000","Paris","France","88000","92000","2018","(AC - PY)%",
+"Europe","63000","Paris","France","88000","92000","2019","PY","51000"
+"Europe","63000","Paris","France","88000","92000","2019","AC","131000"
+"Europe","63000","Paris","France","88000","92000","2019","AC - PY","80000"
+"Europe","63000","Paris","France","88000","92000","2019","(AC - PY)%","1.5686274509803924"
+"Europe","93000","Berlin","Germany","63000","86000","2017","PY",
+"Europe","93000","Berlin","Germany","63000","86000","2017","AC",
+"Europe","93000","Berlin","Germany","63000","86000","2017","AC - PY",
+"Europe","93000","Berlin","Germany","63000","86000","2017","(AC - PY)%",
+"Europe","93000","Berlin","Germany","63000","86000","2018","PY",
+"Europe","93000","Berlin","Germany","63000","86000","2018","AC",
+"Europe","93000","Berlin","Germany","63000","86000","2018","AC - PY",
+"Europe","93000","Berlin","Germany","63000","86000","2018","(AC - PY)%",
+"Europe","93000","Berlin","Germany","63000","86000","2019","PY","48000"
+"Europe","93000","Berlin","Germany","63000","86000","2019","AC","128000"
+"Europe","93000","Berlin","Germany","63000","86000","2019","AC - PY","80000"
+"Europe","93000","Berlin","Germany","63000","86000","2019","(AC - PY)%","1.666666666666667"
+"Europe","106000","Lublin","Poland","53000","97000","2017","PY",
+"Europe","106000","Lublin","Poland","53000","97000","2017","AC",
+"Europe","106000","Lublin","Poland","53000","97000","2017","AC - PY",
+"Europe","106000","Lublin","Poland","53000","97000","2017","(AC - PY)%",
+"Europe","106000","Lublin","Poland","53000","97000","2018","PY",
+"Europe","106000","Lublin","Poland","53000","97000","2018","AC",
+"Europe","106000","Lublin","Poland","53000","97000","2018","AC - PY",
+"Europe","106000","Lublin","Poland","53000","97000","2018","(AC - PY)%",
+"Europe","106000","Lublin","Poland","53000","97000","2019","PY","128000"
+"Europe","106000","Lublin","Poland","53000","97000","2019","AC","121000"
+"Europe","106000","Lublin","Poland","53000","97000","2019","AC - PY","-7000"
+"Europe","106000","Lublin","Poland","53000","97000","2019","(AC - PY)%","-0.0546875"
+"Europe","35000","Brussels","Belgium","140000","136000","2017","PY",
+"Europe","35000","Brussels","Belgium","140000","136000","2017","AC",
+"Europe","35000","Brussels","Belgium","140000","136000","2017","AC - PY",
+"Europe","35000","Brussels","Belgium","140000","136000","2017","(AC - PY)%",
+"Europe","35000","Brussels","Belgium","140000","136000","2018","PY",
+"Europe","35000","Brussels","Belgium","140000","136000","2018","AC",
+"Europe","35000","Brussels","Belgium","140000","136000","2018","AC - PY",
+"Europe","35000","Brussels","Belgium","140000","136000","2018","(AC - PY)%",
+"Europe","35000","Brussels","Belgium","140000","136000","2019","PY","112000"
+"Europe","35000","Brussels","Belgium","140000","136000","2019","AC","119000"
+"Europe","35000","Brussels","Belgium","140000","136000","2019","AC - PY","7000"
+"Europe","35000","Brussels","Belgium","140000","136000","2019","(AC - PY)%","0.0625"
+"Europe","67000","Warsaw","Poland","118000","131000","2017","PY",
+"Europe","67000","Warsaw","Poland","118000","131000","2017","AC",
+"Europe","67000","Warsaw","Poland","118000","131000","2017","AC - PY",
+"Europe","67000","Warsaw","Poland","118000","131000","2017","(AC - PY)%",
+"Europe","67000","Warsaw","Poland","118000","131000","2018","PY",
+"Europe","67000","Warsaw","Poland","118000","131000","2018","AC",
+"Europe","67000","Warsaw","Poland","118000","131000","2018","AC - PY",
+"Europe","67000","Warsaw","Poland","118000","131000","2018","(AC - PY)%",
+"Europe","67000","Warsaw","Poland","118000","131000","2019","PY","144000"
+"Europe","67000","Warsaw","Poland","118000","131000","2019","AC","118000"
+"Europe","67000","Warsaw","Poland","118000","131000","2019","AC - PY","-26000"
+"Europe","67000","Warsaw","Poland","118000","131000","2019","(AC - PY)%","-0.18055555555555552"
+"Europe","99000","Marseille","France","99000","90000","2017","PY","107000"
+"Europe","99000","Marseille","France","99000","90000","2017","AC","118000"
+"Europe","99000","Marseille","France","99000","90000","2017","AC - PY","11000"
+"Europe","99000","Marseille","France","99000","90000","2017","(AC - PY)%","0.10280373831775699"
+"Europe","99000","Marseille","France","99000","90000","2018","PY",
+"Europe","99000","Marseille","France","99000","90000","2018","AC",
+"Europe","99000","Marseille","France","99000","90000","2018","AC - PY",
+"Europe","99000","Marseille","France","99000","90000","2018","(AC - PY)%",
+"Europe","99000","Marseille","France","99000","90000","2019","PY",
+"Europe","99000","Marseille","France","99000","90000","2019","AC",
+"Europe","99000","Marseille","France","99000","90000","2019","AC - PY",
+"Europe","99000","Marseille","France","99000","90000","2019","(AC - PY)%",
+"Europe","130000","Stockholm","Sweden","45000","99000","2017","PY","84000"
+"Europe","130000","Stockholm","Sweden","45000","99000","2017","AC","115000"
+"Europe","130000","Stockholm","Sweden","45000","99000","2017","AC - PY","31000"
+"Europe","130000","Stockholm","Sweden","45000","99000","2017","(AC - PY)%","0.36904761904761907"
+"Europe","130000","Stockholm","Sweden","45000","99000","2018","PY",
+"Europe","130000","Stockholm","Sweden","45000","99000","2018","AC",
+"Europe","130000","Stockholm","Sweden","45000","99000","2018","AC - PY",
+"Europe","130000","Stockholm","Sweden","45000","99000","2018","(AC - PY)%",
+"Europe","130000","Stockholm","Sweden","45000","99000","2019","PY",
+"Europe","130000","Stockholm","Sweden","45000","99000","2019","AC",
+"Europe","130000","Stockholm","Sweden","45000","99000","2019","AC - PY",
+"Europe","130000","Stockholm","Sweden","45000","99000","2019","(AC - PY)%",
+"Europe","78000","Flanders","Belgium","51000","67000","2017","PY",
+"Europe","78000","Flanders","Belgium","51000","67000","2017","AC",
+"Europe","78000","Flanders","Belgium","51000","67000","2017","AC - PY",
+"Europe","78000","Flanders","Belgium","51000","67000","2017","(AC - PY)%",
+"Europe","78000","Flanders","Belgium","51000","67000","2018","PY",
+"Europe","78000","Flanders","Belgium","51000","67000","2018","AC",
+"Europe","78000","Flanders","Belgium","51000","67000","2018","AC - PY",
+"Europe","78000","Flanders","Belgium","51000","67000","2018","(AC - PY)%",
+"Europe","78000","Flanders","Belgium","51000","67000","2019","PY","128000"
+"Europe","78000","Flanders","Belgium","51000","67000","2019","AC","108000"
+"Europe","78000","Flanders","Belgium","51000","67000","2019","AC - PY","-20000"
+"Europe","78000","Flanders","Belgium","51000","67000","2019","(AC - PY)%","-0.15625"
+"Europe","133000","Frankfurt","Germany","121000","118000","2017","PY","0"
+"Europe","133000","Frankfurt","Germany","121000","118000","2017","AC","107000"
+"Europe","133000","Frankfurt","Germany","121000","118000","2017","AC - PY","107000"
+"Europe","133000","Frankfurt","Germany","121000","118000","2017","(AC - PY)%",
+"Europe","133000","Frankfurt","Germany","121000","118000","2018","PY",
+"Europe","133000","Frankfurt","Germany","121000","118000","2018","AC",
+"Europe","133000","Frankfurt","Germany","121000","118000","2018","AC - PY",
+"Europe","133000","Frankfurt","Germany","121000","118000","2018","(AC - PY)%",
+"Europe","133000","Frankfurt","Germany","121000","118000","2019","PY",
+"Europe","133000","Frankfurt","Germany","121000","118000","2019","AC",
+"Europe","133000","Frankfurt","Germany","121000","118000","2019","AC - PY",
+"Europe","133000","Frankfurt","Germany","121000","118000","2019","(AC - PY)%",
+"Europe","90000","Warsaw","Poland","145000","64000","2017","PY","0"
+"Europe","90000","Warsaw","Poland","145000","64000","2017","AC","103000"
+"Europe","90000","Warsaw","Poland","145000","64000","2017","AC - PY","103000"
+"Europe","90000","Warsaw","Poland","145000","64000","2017","(AC - PY)%",
+"Europe","90000","Warsaw","Poland","145000","64000","2018","PY",
+"Europe","90000","Warsaw","Poland","145000","64000","2018","AC",
+"Europe","90000","Warsaw","Poland","145000","64000","2018","AC - PY",
+"Europe","90000","Warsaw","Poland","145000","64000","2018","(AC - PY)%",
+"Europe","90000","Warsaw","Poland","145000","64000","2019","PY",
+"Europe","90000","Warsaw","Poland","145000","64000","2019","AC",
+"Europe","90000","Warsaw","Poland","145000","64000","2019","AC - PY",
+"Europe","90000","Warsaw","Poland","145000","64000","2019","(AC - PY)%",
+"Europe","126000","Frankfurt","Germany","39000","54000","2017","PY",
+"Europe","126000","Frankfurt","Germany","39000","54000","2017","AC",
+"Europe","126000","Frankfurt","Germany","39000","54000","2017","AC - PY",
+"Europe","126000","Frankfurt","Germany","39000","54000","2017","(AC - PY)%",
+"Europe","126000","Frankfurt","Germany","39000","54000","2018","PY","100000"
+"Europe","126000","Frankfurt","Germany","39000","54000","2018","AC","91000"
+"Europe","126000","Frankfurt","Germany","39000","54000","2018","AC - PY","-9000"
+"Europe","126000","Frankfurt","Germany","39000","54000","2018","(AC - PY)%","-0.09"
+"Europe","126000","Frankfurt","Germany","39000","54000","2019","PY",
+"Europe","126000","Frankfurt","Germany","39000","54000","2019","AC",
+"Europe","126000","Frankfurt","Germany","39000","54000","2019","AC - PY",
+"Europe","126000","Frankfurt","Germany","39000","54000","2019","(AC - PY)%",
+"Europe","139000","Frankfurt","Germany","53000","113000","2017","PY",
+"Europe","139000","Frankfurt","Germany","53000","113000","2017","AC",
+"Europe","139000","Frankfurt","Germany","53000","113000","2017","AC - PY",
+"Europe","139000","Frankfurt","Germany","53000","113000","2017","(AC - PY)%",
+"Europe","139000","Frankfurt","Germany","53000","113000","2018","PY",
+"Europe","139000","Frankfurt","Germany","53000","113000","2018","AC",
+"Europe","139000","Frankfurt","Germany","53000","113000","2018","AC - PY",
+"Europe","139000","Frankfurt","Germany","53000","113000","2018","(AC - PY)%",
+"Europe","139000","Frankfurt","Germany","53000","113000","2019","PY","142000"
+"Europe","139000","Frankfurt","Germany","53000","113000","2019","AC","91000"
+"Europe","139000","Frankfurt","Germany","53000","113000","2019","AC - PY","-51000"
+"Europe","139000","Frankfurt","Germany","53000","113000","2019","(AC - PY)%","-0.3591549295774648"
+"Europe","77000","Flanders","Belgium","150000","35000","2017","PY","118000"
+"Europe","77000","Flanders","Belgium","150000","35000","2017","AC","88000"
+"Europe","77000","Flanders","Belgium","150000","35000","2017","AC - PY","-30000"
+"Europe","77000","Flanders","Belgium","150000","35000","2017","(AC - PY)%","-0.2542372881355932"
+"Europe","77000","Flanders","Belgium","150000","35000","2018","PY",
+"Europe","77000","Flanders","Belgium","150000","35000","2018","AC",
+"Europe","77000","Flanders","Belgium","150000","35000","2018","AC - PY",
+"Europe","77000","Flanders","Belgium","150000","35000","2018","(AC - PY)%",
+"Europe","77000","Flanders","Belgium","150000","35000","2019","PY",
+"Europe","77000","Flanders","Belgium","150000","35000","2019","AC",
+"Europe","77000","Flanders","Belgium","150000","35000","2019","AC - PY",
+"Europe","77000","Flanders","Belgium","150000","35000","2019","(AC - PY)%",
+"Europe","45000","Finland","Other","102000","74000","2017","PY",
+"Europe","45000","Finland","Other","102000","74000","2017","AC",
+"Europe","45000","Finland","Other","102000","74000","2017","AC - PY",
+"Europe","45000","Finland","Other","102000","74000","2017","(AC - PY)%",
+"Europe","45000","Finland","Other","102000","74000","2018","PY",
+"Europe","45000","Finland","Other","102000","74000","2018","AC",
+"Europe","45000","Finland","Other","102000","74000","2018","AC - PY",
+"Europe","45000","Finland","Other","102000","74000","2018","(AC - PY)%",
+"Europe","45000","Finland","Other","102000","74000","2019","PY","50000"
+"Europe","45000","Finland","Other","102000","74000","2019","AC","83000"
+"Europe","45000","Finland","Other","102000","74000","2019","AC - PY","33000"
+"Europe","45000","Finland","Other","102000","74000","2019","(AC - PY)%","0.66"
+"Europe","118000","Lublin","Poland","80000","59000","2017","PY",
+"Europe","118000","Lublin","Poland","80000","59000","2017","AC",
+"Europe","118000","Lublin","Poland","80000","59000","2017","AC - PY",
+"Europe","118000","Lublin","Poland","80000","59000","2017","(AC - PY)%",
+"Europe","118000","Lublin","Poland","80000","59000","2018","PY","79000"
+"Europe","118000","Lublin","Poland","80000","59000","2018","AC","81000"
+"Europe","118000","Lublin","Poland","80000","59000","2018","AC - PY","2000"
+"Europe","118000","Lublin","Poland","80000","59000","2018","(AC - PY)%","0.025316455696202535"
+"Europe","118000","Lublin","Poland","80000","59000","2019","PY",
+"Europe","118000","Lublin","Poland","80000","59000","2019","AC",
+"Europe","118000","Lublin","Poland","80000","59000","2019","AC - PY",
+"Europe","118000","Lublin","Poland","80000","59000","2019","(AC - PY)%",
+"Europe","94000","Brussels","Belgium","76000","64000","2017","PY",
+"Europe","94000","Brussels","Belgium","76000","64000","2017","AC",
+"Europe","94000","Brussels","Belgium","76000","64000","2017","AC - PY",
+"Europe","94000","Brussels","Belgium","76000","64000","2017","(AC - PY)%",
+"Europe","94000","Brussels","Belgium","76000","64000","2018","PY","78000"
+"Europe","94000","Brussels","Belgium","76000","64000","2018","AC","64000"
+"Europe","94000","Brussels","Belgium","76000","64000","2018","AC - PY","-14000"
+"Europe","94000","Brussels","Belgium","76000","64000","2018","(AC - PY)%","-0.1794871794871795"
+"Europe","94000","Brussels","Belgium","76000","64000","2019","PY",
+"Europe","94000","Brussels","Belgium","76000","64000","2019","AC",
+"Europe","94000","Brussels","Belgium","76000","64000","2019","AC - PY",
+"Europe","94000","Brussels","Belgium","76000","64000","2019","(AC - PY)%",
+"Europe","140000","Malmo","Sweden","38000","120000","2017","PY","80000"
+"Europe","140000","Malmo","Sweden","38000","120000","2017","AC","61000"
+"Europe","140000","Malmo","Sweden","38000","120000","2017","AC - PY","-19000"
+"Europe","140000","Malmo","Sweden","38000","120000","2017","(AC - PY)%","-0.2375"
+"Europe","140000","Malmo","Sweden","38000","120000","2018","PY",
+"Europe","140000","Malmo","Sweden","38000","120000","2018","AC",
+"Europe","140000","Malmo","Sweden","38000","120000","2018","AC - PY",
+"Europe","140000","Malmo","Sweden","38000","120000","2018","(AC - PY)%",
+"Europe","140000","Malmo","Sweden","38000","120000","2019","PY",
+"Europe","140000","Malmo","Sweden","38000","120000","2019","AC",
+"Europe","140000","Malmo","Sweden","38000","120000","2019","AC - PY",
+"Europe","140000","Malmo","Sweden","38000","120000","2019","(AC - PY)%",
+"Europe","148000","Malmo","Sweden","122000","107000","2017","PY",
+"Europe","148000","Malmo","Sweden","122000","107000","2017","AC",
+"Europe","148000","Malmo","Sweden","122000","107000","2017","AC - PY",
+"Europe","148000","Malmo","Sweden","122000","107000","2017","(AC - PY)%",
+"Europe","148000","Malmo","Sweden","122000","107000","2018","PY",
+"Europe","148000","Malmo","Sweden","122000","107000","2018","AC",
+"Europe","148000","Malmo","Sweden","122000","107000","2018","AC - PY",
+"Europe","148000","Malmo","Sweden","122000","107000","2018","(AC - PY)%",
+"Europe","148000","Malmo","Sweden","122000","107000","2019","PY","101000"
+"Europe","148000","Malmo","Sweden","122000","107000","2019","AC","60000"
+"Europe","148000","Malmo","Sweden","122000","107000","2019","AC - PY","-41000"
+"Europe","148000","Malmo","Sweden","122000","107000","2019","(AC - PY)%","-0.40594059405940597"
+"Europe","95000","Marseille","France","54000","150000","2017","PY",
+"Europe","95000","Marseille","France","54000","150000","2017","AC",
+"Europe","95000","Marseille","France","54000","150000","2017","AC - PY",
+"Europe","95000","Marseille","France","54000","150000","2017","(AC - PY)%",
+"Europe","95000","Marseille","France","54000","150000","2018","PY",
+"Europe","95000","Marseille","France","54000","150000","2018","AC",
+"Europe","95000","Marseille","France","54000","150000","2018","AC - PY",
+"Europe","95000","Marseille","France","54000","150000","2018","(AC - PY)%",
+"Europe","95000","Marseille","France","54000","150000","2019","PY","101000"
+"Europe","95000","Marseille","France","54000","150000","2019","AC","44000"
+"Europe","95000","Marseille","France","54000","150000","2019","AC - PY","-57000"
+"Europe","95000","Marseille","France","54000","150000","2019","(AC - PY)%","-0.5643564356435643"
+"Europe","131000","Finland","Other","129000","120000","2017","PY",
+"Europe","131000","Finland","Other","129000","120000","2017","AC",
+"Europe","131000","Finland","Other","129000","120000","2017","AC - PY",
+"Europe","131000","Finland","Other","129000","120000","2017","(AC - PY)%",
+"Europe","131000","Finland","Other","129000","120000","2018","PY","0"
+"Europe","131000","Finland","Other","129000","120000","2018","AC","41000"
+"Europe","131000","Finland","Other","129000","120000","2018","AC - PY","41000"
+"Europe","131000","Finland","Other","129000","120000","2018","(AC - PY)%",
+"Europe","131000","Finland","Other","129000","120000","2019","PY",
+"Europe","131000","Finland","Other","129000","120000","2019","AC",
+"Europe","131000","Finland","Other","129000","120000","2019","AC - PY",
+"Europe","131000","Finland","Other","129000","120000","2019","(AC - PY)%",
+"Europe","0","Marseille","France","43000","101000","2017","PY",
+"Europe","0","Marseille","France","43000","101000","2017","AC",
+"Europe","0","Marseille","France","43000","101000","2017","AC - PY",
+"Europe","0","Marseille","France","43000","101000","2017","(AC - PY)%",
+"Europe","0","Marseille","France","43000","101000","2018","PY","0"
+"Europe","0","Marseille","France","43000","101000","2018","AC","0"
+"Europe","0","Marseille","France","43000","101000","2018","AC - PY","0"
+"Europe","0","Marseille","France","43000","101000","2018","(AC - PY)%",
+"Europe","0","Marseille","France","43000","101000","2019","PY",
+"Europe","0","Marseille","France","43000","101000","2019","AC",
+"Europe","0","Marseille","France","43000","101000","2019","AC - PY",
+"Europe","0","Marseille","France","43000","101000","2019","(AC - PY)%",
+"Europe","0","Paris","France","127000","52000","2017","PY",
+"Europe","0","Paris","France","127000","52000","2017","AC",
+"Europe","0","Paris","France","127000","52000","2017","AC - PY",
+"Europe","0","Paris","France","127000","52000","2017","(AC - PY)%",
+"Europe","0","Paris","France","127000","52000","2018","PY","0"
+"Europe","0","Paris","France","127000","52000","2018","AC","0"
+"Europe","0","Paris","France","127000","52000","2018","AC - PY","0"
+"Europe","0","Paris","France","127000","52000","2018","(AC - PY)%",
+"Europe","0","Paris","France","127000","52000","2019","PY",
+"Europe","0","Paris","France","127000","52000","2019","AC",
+"Europe","0","Paris","France","127000","52000","2019","AC - PY",
+"Europe","0","Paris","France","127000","52000","2019","(AC - PY)%",
+"Europe","82000","Lublin","Poland","63000","80000","2017","PY","0"
+"Europe","82000","Lublin","Poland","63000","80000","2017","AC","0"
+"Europe","82000","Lublin","Poland","63000","80000","2017","AC - PY","0"
+"Europe","82000","Lublin","Poland","63000","80000","2017","(AC - PY)%",
+"Europe","82000","Lublin","Poland","63000","80000","2018","PY",
+"Europe","82000","Lublin","Poland","63000","80000","2018","AC",
+"Europe","82000","Lublin","Poland","63000","80000","2018","AC - PY",
+"Europe","82000","Lublin","Poland","63000","80000","2018","(AC - PY)%",
+"Europe","82000","Lublin","Poland","63000","80000","2019","PY",
+"Europe","82000","Lublin","Poland","63000","80000","2019","AC",
+"Europe","82000","Lublin","Poland","63000","80000","2019","AC - PY",
+"Europe","82000","Lublin","Poland","63000","80000","2019","(AC - PY)%",
+"Europe","100000","Paris","France","92000","131000","2017","PY","89000"
+"Europe","100000","Paris","France","92000","131000","2017","AC","0"
+"Europe","100000","Paris","France","92000","131000","2017","AC - PY","-89000"
+"Europe","100000","Paris","France","92000","131000","2017","(AC - PY)%","-1"
+"Europe","100000","Paris","France","92000","131000","2018","PY",
+"Europe","100000","Paris","France","92000","131000","2018","AC",
+"Europe","100000","Paris","France","92000","131000","2018","AC - PY",
+"Europe","100000","Paris","France","92000","131000","2018","(AC - PY)%",
+"Europe","100000","Paris","France","92000","131000","2019","PY",
+"Europe","100000","Paris","France","92000","131000","2019","AC",
+"Europe","100000","Paris","France","92000","131000","2019","AC - PY",
+"Europe","100000","Paris","France","92000","131000","2019","(AC - PY)%",
+"Europe","115000","Brussels","Belgium","101000","141000","2017","PY","0"
+"Europe","115000","Brussels","Belgium","101000","141000","2017","AC","0"
+"Europe","115000","Brussels","Belgium","101000","141000","2017","AC - PY","0"
+"Europe","115000","Brussels","Belgium","101000","141000","2017","(AC - PY)%",
+"Europe","115000","Brussels","Belgium","101000","141000","2018","PY",
+"Europe","115000","Brussels","Belgium","101000","141000","2018","AC",
+"Europe","115000","Brussels","Belgium","101000","141000","2018","AC - PY",
+"Europe","115000","Brussels","Belgium","101000","141000","2018","(AC - PY)%",
+"Europe","115000","Brussels","Belgium","101000","141000","2019","PY",
+"Europe","115000","Brussels","Belgium","101000","141000","2019","AC",
+"Europe","115000","Brussels","Belgium","101000","141000","2019","AC - PY",
+"Europe","115000","Brussels","Belgium","101000","141000","2019","(AC - PY)%",
+"Europe","127000","Berlin","Germany","86000","76000","2017","PY","0"
+"Europe","127000","Berlin","Germany","86000","76000","2017","AC","0"
+"Europe","127000","Berlin","Germany","86000","76000","2017","AC - PY","0"
+"Europe","127000","Berlin","Germany","86000","76000","2017","(AC - PY)%",
+"Europe","127000","Berlin","Germany","86000","76000","2018","PY",
+"Europe","127000","Berlin","Germany","86000","76000","2018","AC",
+"Europe","127000","Berlin","Germany","86000","76000","2018","AC - PY",
+"Europe","127000","Berlin","Germany","86000","76000","2018","(AC - PY)%",
+"Europe","127000","Berlin","Germany","86000","76000","2019","PY",
+"Europe","127000","Berlin","Germany","86000","76000","2019","AC",
+"Europe","127000","Berlin","Germany","86000","76000","2019","AC - PY",
+"Europe","127000","Berlin","Germany","86000","76000","2019","(AC - PY)%",
+"Europe","135000","Gothenburg","Sweden","54000","109000","2017","PY","112000"
+"Europe","135000","Gothenburg","Sweden","54000","109000","2017","AC","0"
+"Europe","135000","Gothenburg","Sweden","54000","109000","2017","AC - PY","-112000"
+"Europe","135000","Gothenburg","Sweden","54000","109000","2017","(AC - PY)%","-1"
+"Europe","135000","Gothenburg","Sweden","54000","109000","2018","PY",
+"Europe","135000","Gothenburg","Sweden","54000","109000","2018","AC",
+"Europe","135000","Gothenburg","Sweden","54000","109000","2018","AC - PY",
+"Europe","135000","Gothenburg","Sweden","54000","109000","2018","(AC - PY)%",
+"Europe","135000","Gothenburg","Sweden","54000","109000","2019","PY",
+"Europe","135000","Gothenburg","Sweden","54000","109000","2019","AC",
+"Europe","135000","Gothenburg","Sweden","54000","109000","2019","AC - PY",
+"Europe","135000","Gothenburg","Sweden","54000","109000","2019","(AC - PY)%",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2017","PY",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2017","AC",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2017","AC - PY",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2017","(AC - PY)%",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2018","PY","130000"
+"Europe","68000","Gothenburg","Sweden","123000","37000","2018","AC",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2018","AC - PY","-130000"
+"Europe","68000","Gothenburg","Sweden","123000","37000","2018","(AC - PY)%","-1"
+"Europe","68000","Gothenburg","Sweden","123000","37000","2019","PY",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2019","AC",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2019","AC - PY",
+"Europe","68000","Gothenburg","Sweden","123000","37000","2019","(AC - PY)%",
+"Europe","68000","Malmo","Sweden","76000","73000","2017","PY",
+"Europe","68000","Malmo","Sweden","76000","73000","2017","AC",
+"Europe","68000","Malmo","Sweden","76000","73000","2017","AC - PY",
+"Europe","68000","Malmo","Sweden","76000","73000","2017","(AC - PY)%",
+"Europe","68000","Malmo","Sweden","76000","73000","2018","PY","84000"
+"Europe","68000","Malmo","Sweden","76000","73000","2018","AC",
+"Europe","68000","Malmo","Sweden","76000","73000","2018","AC - PY","-84000"
+"Europe","68000","Malmo","Sweden","76000","73000","2018","(AC - PY)%","-1"
+"Europe","68000","Malmo","Sweden","76000","73000","2019","PY",
+"Europe","68000","Malmo","Sweden","76000","73000","2019","AC",
+"Europe","68000","Malmo","Sweden","76000","73000","2019","AC - PY",
+"Europe","68000","Malmo","Sweden","76000","73000","2019","(AC - PY)%",
+"Europe","111000","Stockholm","Sweden","126000","70000","2017","PY",
+"Europe","111000","Stockholm","Sweden","126000","70000","2017","AC",
+"Europe","111000","Stockholm","Sweden","126000","70000","2017","AC - PY",
+"Europe","111000","Stockholm","Sweden","126000","70000","2017","(AC - PY)%",
+"Europe","111000","Stockholm","Sweden","126000","70000","2018","PY","131000"
+"Europe","111000","Stockholm","Sweden","126000","70000","2018","AC",
+"Europe","111000","Stockholm","Sweden","126000","70000","2018","AC - PY","-131000"
+"Europe","111000","Stockholm","Sweden","126000","70000","2018","(AC - PY)%","-1"
+"Europe","111000","Stockholm","Sweden","126000","70000","2019","PY",
+"Europe","111000","Stockholm","Sweden","126000","70000","2019","AC",
+"Europe","111000","Stockholm","Sweden","126000","70000","2019","AC - PY",
+"Europe","111000","Stockholm","Sweden","126000","70000","2019","(AC - PY)%",
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2017","PY","266000"
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2017","AC","231000"
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2017","AC - PY","-35000"
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2017","(AC - PY)%","-0.13157894736842105"
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2018","PY",
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2018","AC",
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2018","AC - PY",
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2018","(AC - PY)%",
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2019","PY",
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2019","AC",
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2019","AC - PY",
+"Asia-Pacific","204000","Brisbane","Australia","275000","225000","2019","(AC - PY)%",
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2017","PY",
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2017","AC",
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2017","AC - PY",
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2017","(AC - PY)%",
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2018","PY","46000"
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2018","AC","149000"
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2018","AC - PY","103000"
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2018","(AC - PY)%","2.239130434782609"
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2019","PY",
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2019","AC",
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2019","AC - PY",
+"Asia-Pacific","71000","Brisbane","Australia","131000","82000","2019","(AC - PY)%",
+"Asia-Pacific","129000","Shangai","China","80000","136000","2017","PY","108000"
+"Asia-Pacific","129000","Shangai","China","80000","136000","2017","AC","134000"
+"Asia-Pacific","129000","Shangai","China","80000","136000","2017","AC - PY","26000"
+"Asia-Pacific","129000","Shangai","China","80000","136000","2017","(AC - PY)%","0.24074074074074073"
+"Asia-Pacific","129000","Shangai","China","80000","136000","2018","PY",
+"Asia-Pacific","129000","Shangai","China","80000","136000","2018","AC",
+"Asia-Pacific","129000","Shangai","China","80000","136000","2018","AC - PY",
+"Asia-Pacific","129000","Shangai","China","80000","136000","2018","(AC - PY)%",
+"Asia-Pacific","129000","Shangai","China","80000","136000","2019","PY",
+"Asia-Pacific","129000","Shangai","China","80000","136000","2019","AC",
+"Asia-Pacific","129000","Shangai","China","80000","136000","2019","AC - PY",
+"Asia-Pacific","129000","Shangai","China","80000","136000","2019","(AC - PY)%",
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2017","PY",
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2017","AC",
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2017","AC - PY",
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2017","(AC - PY)%",
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2018","PY","96000"
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2018","AC","69000"
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2018","AC - PY","-27000"
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2018","(AC - PY)%","-0.28125"
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2019","PY",
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2019","AC",
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2019","AC - PY",
+"Asia-Pacific","130000","Melbourne","Australia","63000","103000","2019","(AC - PY)%",
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2017","PY","96000"
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2017","AC","62000"
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2017","AC - PY","-34000"
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2017","(AC - PY)%","-0.35416666666666674"
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2018","PY",
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2018","AC",
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2018","AC - PY",
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2018","(AC - PY)%",
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2019","PY",
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2019","AC",
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2019","AC - PY",
+"Asia-Pacific","130000","Chengdu","China","94000","103000","2019","(AC - PY)%",
+"Asia-Pacific","63000","Shangai","China","126000","92000","2017","PY",
+"Asia-Pacific","63000","Shangai","China","126000","92000","2017","AC",
+"Asia-Pacific","63000","Shangai","China","126000","92000","2017","AC - PY",
+"Asia-Pacific","63000","Shangai","China","126000","92000","2017","(AC - PY)%",
+"Asia-Pacific","63000","Shangai","China","126000","92000","2018","PY","109000"
+"Asia-Pacific","63000","Shangai","China","126000","92000","2018","AC","124000"
+"Asia-Pacific","63000","Shangai","China","126000","92000","2018","AC - PY","15000"
+"Asia-Pacific","63000","Shangai","China","126000","92000","2018","(AC - PY)%","0.13761467889908258"
+"Asia-Pacific","63000","Shangai","China","126000","92000","2019","PY",
+"Asia-Pacific","63000","Shangai","China","126000","92000","2019","AC",
+"Asia-Pacific","63000","Shangai","China","126000","92000","2019","AC - PY",
+"Asia-Pacific","63000","Shangai","China","126000","92000","2019","(AC - PY)%",
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2017","PY","112000"
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2017","AC","119000"
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2017","AC - PY","7000"
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2017","(AC - PY)%","0.0625"
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2018","PY",
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2018","AC",
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2018","AC - PY",
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2018","(AC - PY)%",
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2019","PY",
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2019","AC",
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2019","AC - PY",
+"Asia-Pacific","69000","Tokyo","Japan","150000","99000","2019","(AC - PY)%",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2017","PY",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2017","AC",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2017","AC - PY",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2017","(AC - PY)%",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2018","PY",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2018","AC",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2018","AC - PY",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2018","(AC - PY)%",
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2019","PY","66000"
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2019","AC","69000"
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2019","AC - PY","3000"
+"Asia-Pacific","41000","Seoul","Other","87000","95000","2019","(AC - PY)%","0.045454545454545456"
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2017","PY",
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2017","AC",
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2017","AC - PY",
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2017","(AC - PY)%",
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2018","PY","117000"
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2018","AC","48000"
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2018","AC - PY","-69000"
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2018","(AC - PY)%","-0.5897435897435898"
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2019","PY",
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2019","AC",
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2019","AC - PY",
+"Asia-Pacific","41000","Chengdu","China","138000","65000","2019","(AC - PY)%",
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2017","PY",
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2017","AC",
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2017","AC - PY",
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2017","(AC - PY)%",
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2018","PY","38000"
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2018","AC","117000"
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2018","AC - PY","79000"
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2018","(AC - PY)%","2.0789473684210527"
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2019","PY",
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2019","AC",
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2019","AC - PY",
+"Asia-Pacific","109000","Sydney","Australia","101000","115000","2019","(AC - PY)%",
+"Asia-Pacific","133000","Beijing","China","149000","133000","2017","PY",
+"Asia-Pacific","133000","Beijing","China","149000","133000","2017","AC",
+"Asia-Pacific","133000","Beijing","China","149000","133000","2017","AC - PY",
+"Asia-Pacific","133000","Beijing","China","149000","133000","2017","(AC - PY)%",
+"Asia-Pacific","133000","Beijing","China","149000","133000","2018","PY","92000"
+"Asia-Pacific","133000","Beijing","China","149000","133000","2018","AC","115000"
+"Asia-Pacific","133000","Beijing","China","149000","133000","2018","AC - PY","23000"
+"Asia-Pacific","133000","Beijing","China","149000","133000","2018","(AC - PY)%","0.25"
+"Asia-Pacific","133000","Beijing","China","149000","133000","2019","PY",
+"Asia-Pacific","133000","Beijing","China","149000","133000","2019","AC",
+"Asia-Pacific","133000","Beijing","China","149000","133000","2019","AC - PY",
+"Asia-Pacific","133000","Beijing","China","149000","133000","2019","(AC - PY)%",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2017","PY",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2017","AC",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2017","AC - PY",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2017","(AC - PY)%",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2018","PY",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2018","AC",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2018","AC - PY",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2018","(AC - PY)%",
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2019","PY","67000"
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2019","AC","102000"
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2019","AC - PY","35000"
+"Asia-Pacific","92000","Hiroshima","Japan","82000","59000","2019","(AC - PY)%","0.5223880597014925"
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2017","PY",
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2017","AC",
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2017","AC - PY",
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2017","(AC - PY)%",
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2018","PY","62000"
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2018","AC","92000"
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2018","AC - PY","30000"
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2018","(AC - PY)%","0.4838709677419355"
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2019","PY",
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2019","AC",
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2019","AC - PY",
+"Asia-Pacific","87000","Hiroshima","Japan","121000","136000","2019","(AC - PY)%",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2017","PY",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2017","AC",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2017","AC - PY",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2017","(AC - PY)%",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2018","PY",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2018","AC",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2018","AC - PY",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2018","(AC - PY)%",
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2019","PY","139000"
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2019","AC","91000"
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2019","AC - PY","-48000"
+"Asia-Pacific","94000","Tokyo","Japan","93000","127000","2019","(AC - PY)%","-0.3453237410071942"
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2017","PY",
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2017","AC",
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2017","AC - PY",
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2017","(AC - PY)%",
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2018","PY","59000"
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2018","AC","89000"
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2018","AC - PY","30000"
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2018","(AC - PY)%","0.5084745762711864"
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2019","PY",
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2019","AC",
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2019","AC - PY",
+"Asia-Pacific","116000","Tokyo","Japan","145000","141000","2019","(AC - PY)%",
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2017","PY",
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2017","AC",
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2017","AC - PY",
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2017","(AC - PY)%",
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2018","PY","78000"
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2018","AC","78000"
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2018","AC - PY","0"
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2018","(AC - PY)%","0"
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2019","PY",
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2019","AC",
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2019","AC - PY",
+"Asia-Pacific","52000","Seoul","Other","55000","130000","2019","(AC - PY)%",
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2017","PY",
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2017","AC",
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2017","AC - PY",
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2017","(AC - PY)%",
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2018","PY","66000"
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2018","AC","68000"
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2018","AC - PY","2000"
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2018","(AC - PY)%","0.030303030303030304"
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2019","PY",
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2019","AC",
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2019","AC - PY",
+"Asia-Pacific","62000","Yokohoma","Japan","144000","131000","2019","(AC - PY)%",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2017","PY",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2017","AC",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2017","AC - PY",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2017","(AC - PY)%",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2018","PY",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2018","AC",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2018","AC - PY",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2018","(AC - PY)%",
+"Asia-Pacific","113000","Shangai","China","63000","82000","2019","PY","96000"
+"Asia-Pacific","113000","Shangai","China","63000","82000","2019","AC","68000"
+"Asia-Pacific","113000","Shangai","China","63000","82000","2019","AC - PY","-28000"
+"Asia-Pacific","113000","Shangai","China","63000","82000","2019","(AC - PY)%","-0.2916666666666667"
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2017","PY","54000"
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2017","AC","62000"
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2017","AC - PY","8000"
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2017","(AC - PY)%","0.14814814814814814"
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2018","PY",
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2018","AC",
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2018","AC - PY",
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2018","(AC - PY)%",
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2019","PY",
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2019","AC",
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2019","AC - PY",
+"Asia-Pacific","66000","Sydney","Australia","58000","75000","2019","(AC - PY)%",
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2017","PY","134000"
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2017","AC","50000"
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2017","AC - PY","-84000"
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2017","(AC - PY)%","-0.6268656716417911"
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2018","PY",
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2018","AC",
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2018","AC - PY",
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2018","(AC - PY)%",
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2019","PY",
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2019","AC",
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2019","AC - PY",
+"Asia-Pacific","111000","Seoul","Other","118000","93000","2019","(AC - PY)%",
+"Asia-Pacific","35000","Beijing","China","137000","78000","2017","PY","104000"
+"Asia-Pacific","35000","Beijing","China","137000","78000","2017","AC","48000"
+"Asia-Pacific","35000","Beijing","China","137000","78000","2017","AC - PY","-56000"
+"Asia-Pacific","35000","Beijing","China","137000","78000","2017","(AC - PY)%","-0.5384615384615384"
+"Asia-Pacific","35000","Beijing","China","137000","78000","2018","PY",
+"Asia-Pacific","35000","Beijing","China","137000","78000","2018","AC",
+"Asia-Pacific","35000","Beijing","China","137000","78000","2018","AC - PY",
+"Asia-Pacific","35000","Beijing","China","137000","78000","2018","(AC - PY)%",
+"Asia-Pacific","35000","Beijing","China","137000","78000","2019","PY",
+"Asia-Pacific","35000","Beijing","China","137000","78000","2019","AC",
+"Asia-Pacific","35000","Beijing","China","137000","78000","2019","AC - PY",
+"Asia-Pacific","35000","Beijing","China","137000","78000","2019","(AC - PY)%",
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2017","PY","35000"
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2017","AC","47000"
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2017","AC - PY","12000"
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2017","(AC - PY)%","0.34285714285714286"
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2018","PY",
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2018","AC",
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2018","AC - PY",
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2018","(AC - PY)%",
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2019","PY",
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2019","AC",
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2019","AC - PY",
+"Asia-Pacific","85000","Yokohoma","Japan","65000","121000","2019","(AC - PY)%",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2017","PY",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2017","AC",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2017","AC - PY",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2017","(AC - PY)%",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2018","PY",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2018","AC",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2018","AC - PY",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2018","(AC - PY)%",
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2019","PY","147000"
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2019","AC","42000"
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2019","AC - PY","-105000"
+"Asia-Pacific","42000","Sydney","Australia","106000","96000","2019","(AC - PY)%","-0.7142857142857143"
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2017","PY","117000"
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2017","AC","40000"
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2017","AC - PY","-77000"
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2017","(AC - PY)%","-0.658119658119658"
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2018","PY",
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2018","AC",
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2018","AC - PY",
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2018","(AC - PY)%",
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2019","PY",
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2019","AC",
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2019","AC - PY",
+"Asia-Pacific","78000","Hiroshima","Japan","39000","86000","2019","(AC - PY)%",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2017","PY",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2017","AC",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2017","AC - PY",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2017","(AC - PY)%",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2018","PY",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2018","AC",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2018","AC - PY",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2018","(AC - PY)%",
+"Asia-Pacific","135000","Beijing","China","124000","115000","2019","PY","145000"
+"Asia-Pacific","135000","Beijing","China","124000","115000","2019","AC","39000"
+"Asia-Pacific","135000","Beijing","China","124000","115000","2019","AC - PY","-106000"
+"Asia-Pacific","135000","Beijing","China","124000","115000","2019","(AC - PY)%","-0.7310344827586206"
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2017","PY",
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2017","AC",
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2017","AC - PY",
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2017","(AC - PY)%",
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2018","PY",
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2018","AC",
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2018","AC - PY",
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2018","(AC - PY)%",
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2019","PY","80000"
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2019","AC","38000"
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2019","AC - PY","-42000"
+"Asia-Pacific","47000","Chengdu","China","69000","108000","2019","(AC - PY)%","-0.525"
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2017","PY",
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2017","AC",
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2017","AC - PY",
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2017","(AC - PY)%",
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2018","PY",
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2018","AC",
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2018","AC - PY",
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2018","(AC - PY)%",
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2019","PY","70000"
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2019","AC","38000"
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2019","AC - PY","-32000"
+"Asia-Pacific","97000","Brisbane","Australia","70000","150000","2019","(AC - PY)%","-0.45714285714285713"
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2017","PY",
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2017","AC",
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2017","AC - PY",
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2017","(AC - PY)%",
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2018","PY",
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2018","AC",
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2018","AC - PY",
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2018","(AC - PY)%",
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2019","PY","73000"
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2019","AC","36000"
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2019","AC - PY","-37000"
+"Asia-Pacific","114000","Yokohoma","Japan","46000","129000","2019","(AC - PY)%","-0.5068493150684932"
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2017","PY","9000"
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2017","AC","11000"
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2017","AC - PY","2000"
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2017","(AC - PY)%","0.2222222222222222"
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2018","PY",
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2018","AC",
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2018","AC - PY",
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2018","(AC - PY)%",
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2019","PY",
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2019","AC",
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2019","AC - PY",
+"Asia-Pacific","12000","Melbourne","Australia","14000","16000","2019","(AC - PY)%",
