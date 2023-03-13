@@ -1,0 +1,414 @@
+{
+    "tree": null,
+    "single": null,
+    "categorical": null,
+    "table": null,
+    "metadata": {
+        "columns": [
+            {
+                "roles": {
+                    "category": true
+                },
+                "type": {
+                    "underlyingType": 1,
+                    "category": null,
+                    "primitiveType": 1,
+                    "extendedType": 1,
+                    "categoryString": null,
+                    "text": true,
+                    "numeric": false,
+                    "integer": false,
+                    "bool": false,
+                    "dateTime": false,
+                    "duration": false,
+                    "binary": false,
+                    "json": false,
+                    "none": false
+                },
+                "displayName": "Region",
+                "queryName": "Orders.Region",
+                "expr": {
+                    "_kind": 2,
+                    "source": {
+                        "_kind": 0,
+                        "entity": "Orders",
+                        "variable": "o",
+                        "kind": 0
+                    },
+                    "ref": "Region",
+                    "kind": 2
+                },
+                "rolesIndex": {
+                    "category": [0]
+                },
+                "index": 0,
+                "identityExprs": [
+                    {
+                        "_kind": 2,
+                        "source": {
+                            "_kind": 0,
+                            "entity": "Orders",
+                            "kind": 0
+                        },
+                        "ref": "Region",
+                        "kind": 2
+                    }
+                ]
+            },
+            {
+                "roles": {
+                    "ameasure": true
+                },
+                "type": {
+                    "underlyingType": 259,
+                    "category": null,
+                    "primitiveType": 3,
+                    "extendedType": 259,
+                    "categoryString": null,
+                    "text": false,
+                    "numeric": true,
+                    "integer": false,
+                    "bool": false,
+                    "dateTime": false,
+                    "duration": false,
+                    "binary": false,
+                    "json": false,
+                    "none": false
+                },
+                "displayName": "Sales",
+                "queryName": "Sum(Orders.Sales)",
+                "expr": {
+                    "_kind": 4,
+                    "arg": {
+                        "_kind": 2,
+                        "source": {
+                            "_kind": 0,
+                            "entity": "Orders",
+                            "variable": "o",
+                            "kind": 0
+                        },
+                        "ref": "Sales",
+                        "kind": 2
+                    },
+                    "func": 0,
+                    "kind": 4
+                },
+                "sort": 2,
+                "sortOrder": 0,
+                "rolesIndex": {
+                    "ameasure": [0]
+                },
+                "index": 1,
+                "isMeasure": true,
+                "aggregates": {
+                    "minLocal": 391721.9050000006,
+                    "maxLocal": 725457.8245000009
+                }
+            }
+        ],
+        "objects": {
+            "hiddenProperties": {
+                "dataLabel": "{\"labelStyle\":{\"default\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"Ø\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"total\":{\"enabled\":true,\"display\":\"auto\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":true,\"isItalic\":false},\"orientation\":-90},\"TT\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC_TOTAL\":{\"enabled\":true,\"display\":\"auto\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":true,\"isItalic\":false},\"orientation\":-90},\"PY_TOTAL\":{\"enabled\":true,\"display\":\"auto\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":true,\"isItalic\":false},\"orientation\":-90},\"PL_TOTAL\":{\"enabled\":true,\"display\":\"auto\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":true,\"isItalic\":false},\"orientation\":-90},\"FC_TOTAL\":{\"enabled\":true,\"display\":\"auto\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":true,\"isItalic\":false},\"orientation\":-90},\"AC_GROUP\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"PY_GROUP\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"PL_GROUP\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"FC_GROUP\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC1\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC2\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC3\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC4\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC5\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC6\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC7\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC8\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC9\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC10\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC11\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC12\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC13\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC14\":{\"enabled\":false,\"display\":\"none\",\"varianceDisplay\":\"none\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"AC\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"PY\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"PL\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"transparent\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90},\"FC\":{\"enabled\":true,\"display\":\"limited\",\"varianceDisplay\":\"minMax\",\"minColor\":\"#333333\",\"maxColor\":\"#333333\",\"interval\":2,\"position\":\"auto\",\"executiveFunnelLabelType\":\"valuePercentage\",\"horizontalPosition\":\"auto\",\"stackedPosition\":\"auto\",\"valuePosition\":\"auto\",\"percentagePosition\":\"auto\",\"categoryPosition\":\"auto\",\"valuePositionHorizontal\":\"auto\",\"percentagePositionHorizontal\":\"auto\",\"categoryPositionHorizontal\":\"auto\",\"percentageStackedLabelType\":\"both\",\"stackedHorizontalPosition\":\"auto\",\"contrastColor\":true,\"fontSize\":10,\"fontColor\":\"#333333\",\"background\":\"#ffffffcc\",\"offset\":0,\"posNegSplit\":false,\"isCategoryDisplay\":false,\"fontStyle\":{\"isBold\":false,\"isItalic\":false},\"orientation\":-90}},\"varianceFontColor\":\"#333333\",\"varianceFontSize\":10,\"varianceFormat\":\"both\",\"allowOverlap\":false,\"combinedLabel\":false,\"categorySeriesDisplay\":{\"showCategory\":true,\"first\":true,\"last\":true,\"seperator\":\", \",\"responsiveLabel\":true},\"isUserChanged\":false}",
+                "waterfallTotalLabels": "{\"labels\":[]}",
+                "cfProps": "{}",
+                "persistChecker": "{\"SMALL_MULTIPLES_LEGEND\":false,\"SMALL_MULTIPLES_XAXIS_LABEL_ENABLED\":false,\"SMALL_MULTIPLES_AVERAGE_PANEL\":false,\"SMALL_MULTIPLES_DEVIATION\":false,\"SMALL_MULTIPLES_TOTAL_AVERAGE\":false,\"SMALL_MULTIPLES_VARIED_ROW_SORTING\":false,\"SMALL_MULTIPLES_VARIED_PANEL_SORTING\":false,\"SMALL_MULTIPLES_GRID_SORTING\":false,\"SMALL_MULTIPLES_MATRIX_SORTING\":false,\"SMALL_MULTIPLES_AXIS_BREAK\":false,\"SMALL_MULTIPLES_VARIED_PANEL_AXIS_BREAK\":false,\"SMALL_MULTIPLES_GRID_SIZE_CHANGE\":false,\"SMALL_MULTIPLES_AXIS_VISIBILITY_CHANGE_FOR_GRID\":false,\"SMALL_MULTIPLES_AXIS_VISIBILITY_CHANGE_FOR_VARIED_ROW\":false,\"SMALL_MULTIPLES_AXIS_VISIBILITY_CHANGE_FOR_RANKING\":false,\"SMALL_MULTIPLES_FROZEN_YAXIS_DUAL_AXIS_VALIDATION_SWITCH\":false,\"INTEGRATED_VARIANCE_DEFAULT_TEMPLATE\":false,\"SMALL_MULTIPLES_REFERENCE_LINE_TEXT\":false,\"STACKED_LINE_DEFAULT_VALUE\":false,\"SERIES_LABEL_DEFAULT_VALUE\":false,\"SERIES_LABEL_LINE_AREA_DEFAULT_VALUE\":false,\"ANALYTICS_DEFAULT_REFERENCE_LINE\":true,\"SERIES_NAME_DEFAULT\":true,\"YAXIS1_TITLE_DEFAULT\":false,\"NORMAL_CHART_LEGEND\":true,\"DEFAULT_YAXIS_2\":true,\"SMALL_MULTIPLES_TIME_SERIES_SORTING\":false,\"STACKED_DEFAULT_SORTING\":true,\"DEFAULT_TEMPLATE\":true,\"KPI_TRELLIS_DEFAULT\":true,\"INVERT_KPI_DEFAULT_VALUE\":false,\"EXECUTIVE_FUNNEL_YAXIS\":false,\"EXECUTIVE_FUNNEL_XAXIS\":false,\"EXECUTIVE_FUNNEL_AGGREGATE_SERIES\":false,\"KPI_TRELLIS_YAXIS2_DEFAULT\":false,\"TIME_SERIES_DEVIATION_DEFAULT\":false,\"LINE_AREA_YAXIS\":false,\"SMALL_MULTIPLES_AUTOSCALE_DETECTION\":false,\"LEGEND_AS_TITLE\":false,\"DEFAULT_KPI_ONLY\":false,\"STACKED_COLUMN_APPEARANCE_DEFAULT_VALUE\":false,\"XAXIS_TITLE\":false,\"KPI_SORTBY_DEFAULT\":false,\"KPI_SORTBY_TIME_SERIES_DEFAULT\":false,\"FOCUS_MODE_RESIZE\":false,\"EXECUTIVE_FUNNEL_RANKING\":false,\"SMALL_MULTIPLES_AXIS_VISIBILITY_CHANGE_FOR_MEASUREASROWS_WATERFALL\":false,\"BREAKDOWN_WATERFALL_DEVIATION\":false,\"RANKING_OTHERS_COLORS\":false}",
+                "trellisSettings": "{\"gridLayout\":\"grid\",\"display\":\"auto\",\"panelScale\":\"uniform\",\"gridSize\":{\"row\":3,\"column\":3},\"xAxis\":\"auto\",\"yAxis\":\"auto\",\"panelRanking\":{\"enabled\":false,\"type\":\"off\",\"noOfItems\":5,\"filterBy\":\"AC\",\"showOthers\":false,\"isPercent\":false,\"topNPercent\":20,\"othersLabel\":\"Other\",\"labelSuffix\":[\"category\",\"itemsCount\"],\"isDefaultValue\":true},\"averagePanel\":{\"enabled\":false,\"backgroundColor\":\"#e7e7e7a1\"},\"isResponsiveGrid\":true,\"sortingConfig\":{\"sortBy\":\"AC\",\"sortType\":\"reset\",\"includeOtherInSort\":false,\"isDefaultValue\":true},\"columnSortingConfig\":{\"sortBy\":\"AC\",\"sortType\":\"reset\",\"includeOtherInSort\":false,\"isDefaultValue\":true},\"isDefault\":{\"layout\":true,\"xAxis\":true},\"isPersist\":false}",
+                "appearance": "{}",
+                "annotation": "\"{}\"",
+                "template": "{\"id\":\"COLUMN_VERTICAL\",\"previousId\":\"COLUMN_VERTICAL\",\"rendererType\":\"columnChart\",\"chartType\":\"columnChart\",\"chartOrientation\":\"vertical\",\"groupInfo\":{\"groupType\":\"actual\",\"previousGroupType\":\"actual\",\"groupId\":\"NO_GROUP\",\"previousGroupId\":\"NO_GROUP\",\"groupNature\":\"mono\",\"expandedGroupMeta\":{\"expandedGroupId\":null,\"parentGroupId\":null,\"originalExpandedGroupId\":null,\"previousOriginalExpandedGroupId\":null,\"currentIndex\":null,\"previousIndex\":null,\"direction\":\"next\",\"isFetching\":false,\"linkDepth\":null}},\"lineSubChartType\":\"default\",\"actualChartType\":\"groupedBar\",\"groupedBarEnabled\":true,\"varianceWaterfallEnabled\":true,\"templateChanged\":false,\"isOrientChanged\":false,\"stackType\":\"NO_STACK\",\"isTrellisEnabled\":true,\"isMatrixEnabled\":true,\"groupFormationType\":\"normal\",\"fromLandingPage\":false,\"fromToolbar\":false,\"isUserChangedTemplateID\":false}",
+                "yAxis": "{\"yAxis1\":{\"show\":true,\"enabled\":true,\"display\":\"yAxis\",\"label\":{\"enabled\":true,\"fontSize\":null,\"fontColor\":\"#605E5C\",\"noOfDecimal\":null,\"scalingFactor\":\"auto\"},\"title\":{\"enabled\":true,\"fontSize\":null,\"fontColor\":\"#605E5C\",\"text\":\"\"},\"lineWidth\":0,\"lineColor\":\"#333333\",\"offset\":null,\"scalingFactor\":null,\"gridLine\":{\"enabled\":true,\"color\":\"#e6e6e6\",\"width\":1,\"type\":\"dotted\"},\"scaleBand\":{\"enabled\":false,\"color\":\"#74B1E9\",\"fontSize\":11},\"prefix\":\"\",\"suffix\":\"\",\"customMinMax\":{\"enabled\":true,\"customMin\":null,\"customMax\":null,\"formattedCustomMax\":\"\",\"formattedCustomMin\":\"\"}},\"yAxis2\":{\"show\":true,\"enabled\":true,\"label\":{\"enabled\":true,\"fontSize\":null,\"fontColor\":\"#605E5C\",\"noOfDecimal\":null,\"scalingFactor\":\"auto\"},\"title\":{\"enabled\":true,\"fontSize\":null,\"fontColor\":\"#605E5C\",\"text\":\"\"},\"lineWidth\":0,\"lineColor\":\"#333333\",\"offset\":null,\"gridLine\":{\"enabled\":true,\"color\":\"#e6e6e6\",\"width\":1,\"type\":\"dotted\"},\"scaleBand\":{\"enabled\":false,\"color\":\"#74B1E9\",\"fontSize\":11},\"customMinMax\":{\"enabled\":true,\"customMin\":null,\"customMax\":null,\"formattedCustomMax\":\"\",\"formattedCustomMin\":\"\"}}}",
+                "commonSettings": "{\"expandCollapse\":true,\"applyPLAsNull\":false,\"showFCAsComparison\":true,\"seriesNameConfig\":{\"enabled\":false},\"showAxisBreak\":true,\"showCategoryDeviation\":true,\"categoryDeviationShape\":\"circle\",\"categoryDeviationBorderRadius\":5,\"categoryDeviationFontSize\":10,\"categoryDeviationAutoFontColor\":true,\"categoryDeviationFontColor\":\"#000000\",\"categoryDeviationLabel\":\"percentage\",\"showDirectionArrow\":true,\"directionArrowSize\":5,\"categoryDeviationBackgroundTransparency\":0,\"rowNullSuppression\":true,\"includeNullInCalculations\":false,\"varianceLabelType\":\"variance\",\"showInflation\":false,\"skipLines\":{\"enabled\":false,\"step\":4},\"categorySign\":false,\"alignAxis\":true,\"footer\":{\"enabled\":false,\"text\":\"Please visit inforiver.com for licensing.\",\"url\":\"https://inforiver.com/\",\"showInfoRiverLogo\":false},\"exportQuality\":4,\"titleWithSeriesLabel\":false,\"showAreaChart\":false,\"areaFillColor\":\"#dddddd\",\"areaTransparency\":0,\"showExecutiveFunnelBubble\":false,\"bubbleValueType\":\"percentage\",\"bubbleConnectingLineColor\":\"#dddddd\",\"bubbleConnectingLineWidth\":5,\"showHelperTooltips\":true,\"showWarningToasts\":true}",
+                "columnAsMeasure": "{}",
+                "measuresAsRows": "{\"enabled\":false,\"inverted\":false,\"groupingIgnoredMeasures\":{},\"isDirty\":false}",
+                "totalAvgSeries": "{\"tooltipTotal\":{}}",
+                "sorting": "{\"sortBy\":\"AC\",\"sortType\":\"reset\",\"includeOtherInSort\":false,\"isDefaultValue\":true}",
+                "legendSettings": "{\"enabled\":false,\"showTitleAsLegend\":false,\"showLegendWithSeriesLabels\":false,\"layout\":\"horizontal\",\"horizontalAlignment\":\"left\",\"verticalAlignment\":\"top\",\"title\":{\"enabled\":false,\"fontColor\":\"#333333\",\"fontSize\":13,\"text\":\"\"},\"label\":{\"enabled\":false,\"fontColor\":\"#333333\",\"fontSize\":13},\"showIcon\":true,\"rtl\":false}",
+                "xAxis": "{\"enabled\":true,\"label\":{\"enabled\":true,\"fontColor\":\"#605E5C\",\"fontSize\":null,\"display\":\"auto\",\"density\":\"all\",\"step\":2,\"rotation\":0,\"interval\":1,\"wordWrap\":true,\"maxHeight\":30,\"maxWidth\":25,\"padding\":null,\"offset\":0,\"concatLabels\":false,\"expandToLastChildren\":false},\"title\":{\"enabled\":true,\"fontColor\":\"#605E5C\",\"fontSize\":null,\"text\":\"\"},\"groupLine\":{\"enabled\":true,\"color\":\"#cccccc\",\"width\":1,\"type\":\"dotted\"},\"categoryWidth\":\"auto\",\"innerPadding\":30,\"maxHeight\":null,\"minWidth\":18,\"axisLineWidth\":1,\"maxCategoryCount\":null,\"offset\":null,\"isDefaultValue\":true}",
+                "stackedSorting": "{\"sortBy\":\"AC\",\"sortType\":\"reset\",\"includeOtherInSort\":false,\"isDefaultValue\":true}",
+                "groupIndexMap": "{\"NO_GROUP\":0,\"OTHERS_GROUP\":1}",
+                "fieldsMeta": "{\"AC\":\"0\",\"PY\":\"1\",\"PL\":\"2\",\"FC\":\"3\"}",
+                "analytics": "{\"referenceLine\":[{\"enabled\":true,\"id\":\"default-average-line\",\"title\":\"Reference Line 1\",\"orientation\":\"horizontal\",\"type\":\"average\",\"value\":\"AC\",\"number\":2,\"constValue\":362728.91,\"percentile\":50,\"stddev\":1,\"enableLineStyle\":true,\"color\":\"#999999\",\"lineStyle\":\"dashed\",\"lineWidth\":1,\"enableText\":true,\"textType\":\"both\",\"textColor\":\"#6B2328\",\"textSize\":12,\"textStyle\":\"normal\",\"labelText\":\"Avg\",\"labelXPosition\":0,\"labelYPosition\":5,\"rotation\":0,\"placement\":\"infront\",\"applyToBar\":false,\"barColor\":\"#6B2328\"}],\"referenceBand\":[],\"errorBar\":{\"enabled\":false,\"type\":\"percentage\",\"direction\":\"plusMinus\",\"value\":5,\"standardDeviation\":1,\"stemColor\":\"#C21111\",\"whiskerLength\":50,\"enableDatalabel\":false,\"dataLabelFontSize\":10,\"dataLabelColor\":\"#000000\",\"measure\":\"\"},\"additionalSeries\":{\"enabled\":false,\"measure\":\"AC\",\"type\":\"pareto\",\"enableDatalabel\":true,\"dataLabelFontSize\":10,\"dataLabelColor\":\"#000000\",\"displayAxis\":false,\"lineColor\":\"#AAAAAA\",\"lineStyle\":\"solid\",\"lineWidth\":1,\"showInLegend\":false,\"textStyle\":\"normal\"},\"trendLine\":{\"enabled\":false,\"type\":\"linear\",\"lineColor\":\"#C21111\",\"lineStyle\":\"solid\",\"displayEquation\":false,\"measure\":\"\",\"lineWidth\":1,\"showInLegend\":false,\"fontSize\":13,\"fontColor\":\"#C21111\",\"textStyle\":\"normal\",\"labelXPosition\":0,\"labelYPosition\":0,\"rotation\":0}}",
+                "categoryIndexMap": "{\"West\":0,\"OTHERS_GROUP\":4,\"East\":1,\"Central\":2,\"South\":3}",
+                "measureConfig": "{\"config\":[{\"role\":\"AC\",\"isVisible\":true,\"enable\":true,\"chart\":\"groupedBar\",\"type\":\"ACTUAL\",\"order\":0,\"calcFormula\":\"\",\"isWaterfallMeasure\":false,\"yAxis\":\"yAxis1\"}]}",
+                "toolbar": "{\"isPinned\":true,\"showTabContent\":true,\"isEditMode\":true,\"showOnHover\":false,\"isDropDownOpen\":false,\"toolbarView\":\"full\",\"previousToolbarType\":\"\",\"isSwitchedtoFocusView\":false,\"isKPIToolbarView\":false,\"isFloatingToolbar\":false,\"floatingView\":{\"isFloatingView\":false,\"showFloatingIcon\":true,\"showFloatingMenu\":false,\"showFocusToolbar\":false,\"pushToFocusMode\":false,\"prevContainerWidth\":null,\"prevContainerHeight\":null}}"
+            },
+            "visualConfig": {
+                "migrationSettings": "{\"v1_2_0\":{\"visualConfig\":{\"isResolved\":true}},\"v1_2_0_0\":{\"hiddenProperties\":{\"isResolved\":true}},\"v1_4_0_0\":{\"hiddenProperties\":{\"isResolved\":true}},\"v1_5_0_0\":{\"hiddenProperties\":{\"isResolved\":true}},\"v1_6_0_0\":{\"hiddenProperties\":{\"isResolved\":true}},\"v1_7_0_0\":{\"hiddenProperties\":{\"isResolved\":true}},\"v1_8_0_0\":{\"hiddenProperties\":{\"isResolved\":true}},\"v1_9_0_0\":{\"hiddenProperties\":{\"isResolved\":true}},\"v2_1_0_0\":{\"hiddenProperties\":{\"isResolved\":true}}}"
+            }
+        },
+        "dataRoles": {
+            "drillableRoles": {
+                "category": []
+            }
+        }
+    },
+    "matrix": {
+        "rows": {
+            "levels": [
+                {
+                    "sources": [
+                        {
+                            "roles": {
+                                "category": true
+                            },
+                            "type": {
+                                "underlyingType": 1,
+                                "category": null,
+                                "primitiveType": 1,
+                                "extendedType": 1,
+                                "categoryString": null,
+                                "text": true,
+                                "numeric": false,
+                                "integer": false,
+                                "bool": false,
+                                "dateTime": false,
+                                "duration": false,
+                                "binary": false,
+                                "json": false,
+                                "none": false
+                            },
+                            "displayName": "Region",
+                            "queryName": "Orders.Region",
+                            "expr": {
+                                "_kind": 2,
+                                "source": {
+                                    "_kind": 0,
+                                    "entity": "Orders",
+                                    "variable": "o",
+                                    "kind": 0
+                                },
+                                "ref": "Region",
+                                "kind": 2
+                            },
+                            "rolesIndex": {
+                                "category": [0]
+                            },
+                            "index": 0,
+                            "identityExprs": [
+                                {
+                                    "_kind": 2,
+                                    "source": {
+                                        "_kind": 0,
+                                        "entity": "Orders",
+                                        "kind": 0
+                                    },
+                                    "ref": "Region",
+                                    "kind": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "root": {
+                "childIdentityFields": [
+                    {
+                        "_kind": 2,
+                        "source": {
+                            "_kind": 0,
+                            "entity": "Orders",
+                            "kind": 0
+                        },
+                        "ref": "Region",
+                        "kind": 2
+                    }
+                ],
+                "children": [
+                    {
+                        "level": 0,
+                        "values": {
+                            "0": {
+                                "value": 725457.8245000009
+                            }
+                        },
+                        "levelValues": [
+                            {
+                                "value": "West",
+                                "levelSourceIndex": 0
+                            }
+                        ],
+                        "value": "West",
+                        "identity": {
+                            "identityIndex": 0
+                        },
+                        "categoryValues": ["West"]
+                    },
+                    {
+                        "level": 0,
+                        "values": {
+                            "0": {
+                                "value": 678781.2400000001
+                            }
+                        },
+                        "levelValues": [
+                            {
+                                "value": "East",
+                                "levelSourceIndex": 0
+                            }
+                        ],
+                        "value": "East",
+                        "identity": {
+                            "identityIndex": 1
+                        },
+                        "categoryValues": ["East"]
+                    },
+                    {
+                        "level": 0,
+                        "values": {
+                            "0": {
+                                "value": 501239.8907999996
+                            }
+                        },
+                        "levelValues": [
+                            {
+                                "value": "Central",
+                                "levelSourceIndex": 0
+                            }
+                        ],
+                        "value": "Central",
+                        "identity": {
+                            "identityIndex": 2
+                        },
+                        "categoryValues": ["Central"]
+                    },
+                    {
+                        "level": 0,
+                        "values": {
+                            "0": {
+                                "value": 391721.9050000006
+                            }
+                        },
+                        "levelValues": [
+                            {
+                                "value": "South",
+                                "levelSourceIndex": 0
+                            }
+                        ],
+                        "value": "South",
+                        "identity": {
+                            "identityIndex": 3
+                        },
+                        "categoryValues": ["South"]
+                    }
+                ]
+            }
+        },
+        "columns": {
+            "levels": [
+                {
+                    "sources": [
+                        {
+                            "roles": {
+                                "ameasure": true
+                            },
+                            "type": {
+                                "underlyingType": 259,
+                                "category": null,
+                                "primitiveType": 3,
+                                "extendedType": 259,
+                                "categoryString": null,
+                                "text": false,
+                                "numeric": true,
+                                "integer": false,
+                                "bool": false,
+                                "dateTime": false,
+                                "duration": false,
+                                "binary": false,
+                                "json": false,
+                                "none": false
+                            },
+                            "displayName": "Sales",
+                            "queryName": "Sum(Orders.Sales)",
+                            "expr": {
+                                "_kind": 4,
+                                "arg": {
+                                    "_kind": 2,
+                                    "source": {
+                                        "_kind": 0,
+                                        "entity": "Orders",
+                                        "variable": "o",
+                                        "kind": 0
+                                    },
+                                    "ref": "Sales",
+                                    "kind": 2
+                                },
+                                "func": 0,
+                                "kind": 4
+                            },
+                            "sort": 2,
+                            "sortOrder": 0,
+                            "rolesIndex": {
+                                "ameasure": [0]
+                            },
+                            "index": 1,
+                            "isMeasure": true,
+                            "aggregates": {
+                                "minLocal": 391721.9050000006,
+                                "maxLocal": 725457.8245000009
+                            }
+                        }
+                    ]
+                }
+            ],
+            "root": {
+                "children": [
+                    {
+                        "level": 0
+                    }
+                ]
+            }
+        },
+        "valueSources": [
+            {
+                "roles": {
+                    "ameasure": true
+                },
+                "type": {
+                    "underlyingType": 259,
+                    "category": null,
+                    "primitiveType": 3,
+                    "extendedType": 259,
+                    "categoryString": null,
+                    "text": false,
+                    "numeric": true,
+                    "integer": false,
+                    "bool": false,
+                    "dateTime": false,
+                    "duration": false,
+                    "binary": false,
+                    "json": false,
+                    "none": false
+                },
+                "displayName": "Sales",
+                "queryName": "Sum(Orders.Sales)",
+                "expr": {
+                    "_kind": 4,
+                    "arg": {
+                        "_kind": 2,
+                        "source": {
+                            "_kind": 0,
+                            "entity": "Orders",
+                            "variable": "o",
+                            "kind": 0
+                        },
+                        "ref": "Sales",
+                        "kind": 2
+                    },
+                    "func": 0,
+                    "kind": 4
+                },
+                "sort": 2,
+                "sortOrder": 0,
+                "rolesIndex": {
+                    "ameasure": [0]
+                },
+                "index": 1,
+                "isMeasure": true,
+                "aggregates": {
+                    "minLocal": 391721.9050000006,
+                    "maxLocal": 725457.8245000009
+                }
+            }
+        ]
+    }
+}
