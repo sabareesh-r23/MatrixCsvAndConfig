@@ -1,0 +1,13 @@
+Segment,Region,Value Column Name,Value
+"Consumer","Central","Sum of Profit","8564.048099999989"
+"Consumer","East","Sum of Profit","41190.984299999946"
+"Consumer","South","Sum of Profit","26913.572799999973"
+"Consumer","West","Sum of Profit","57450.60400000002"
+"Corporate","Central","Sum of Profit","18703.902000000006"
+"Corporate","East","Sum of Profit","23622.57890000003"
+"Corporate","South","Sum of Profit","15215.223200000033"
+"Corporate","West","Sum of Profit","34437.429899999974"
+"Home Office","Central","Sum of Profit","12438.412399999994"
+"Home Office","East","Sum of Profit","26709.216800000002"
+"Home Office","South","Sum of Profit","4620.634299999997"
+"Home Office","West","Sum of Profit","16530.414999999997"
