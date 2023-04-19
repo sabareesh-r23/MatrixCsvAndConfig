@@ -1,0 +1,26 @@
+financials.Segment,financials.Country,Sum(financials. Sales),
+Channel Partners,United States of America,366534.17999999993,5005966.033
+Enterprise,United States of America,4350605,5005966.033
+Government,United States of America,8390746.11,5005966.033
+Midmarket,United States of America,465385.875,5005966.033
+Small Business,United States of America,11456559,5005966.033
+Channel Partners,Canada,491164.14,4977530.977
+Enterprise,Canada,3967491.25,4977530.977
+Government,Canada,10741236.519999998,4977530.977
+Midmarket,Canada,510213.97500000003,4977530.977
+Small Business,Canada,9177549,4977530.977
+Channel Partners,France,372090.36,4870834.455999999
+Enterprise,France,3890890.625,4870834.455999999
+Government,France,12127782.719999997,4870834.455999999
+Midmarket,France,593802.075,4870834.455999999
+Small Business,France,7369606.5,4870834.455999999
+Channel Partners,Germany,336425.87999999995,4701068.164
+Enterprise,Germany,4086826.25,4701068.164
+Government,Germany,11452895.940000001,4701068.164
+Midmarket,Germany,301344.75000000006,4701068.164
+Small Business,Germany,7327848,4701068.164
+Channel Partners,Mexico,234379.07999999996,4189870.422
+Enterprise,Mexico,3315881.25,4189870.422
+Government,Mexico,9791599.379999999,4189870.422
+Midmarket,Mexico,511136.4,4189870.422
+Small Business,Mexico,7096356,4189870.422

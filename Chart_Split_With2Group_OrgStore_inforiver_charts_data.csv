@@ -1,0 +1,96 @@
+financials.Discount Band,financials.Segment,financials.Country,Sum(financials. Sales),Sum(financials.COGS),Sum(financials.Profit)
+High,Channel Partners,United States of America,126344.16,36747,89597.16
+High,Enterprise,United States of America,1662593.75,1811220,-148626.25
+High,Government,United States of America,3728909.0449999995,3117727.5,611181.545
+High,Midmarket,United States of America,185741.32499999998,141155,44586.325
+High,Small Business,United States of America,5437338,5167750,269588
+Low,Channel Partners,United States of America,128043.06,32737.5,95305.56
+Low,Enterprise,United States of America,384862.5,373200,11662.5
+Low,Government,United States of America,1734317.375,1306152.5,428164.87499999994
+Low,Midmarket,United States of America,70105.2,47810,22295.200000000004
+Low,Small Business,United States of America,3956076,3366500,589576
+Medium,Channel Partners,United States of America,52074.96,14037,38037.96
+Medium,Enterprise,United States of America,1950523.75,2002800,-52276.25
+Medium,Government,United States of America,2911517.69,2251985,659532.69
+Medium,Midmarket,United States of America,191089.35,136950,54139.34999999999
+Medium,Small Business,United States of America,2063145,1850250,212895
+None,Channel Partners,United States of America,60072,15018,45054
+None,Enterprise,United States of America,352625,338520,14105
+None,Government,United States of America,16002,11430,4572
+None,Midmarket,United States of America,18450,12300,6150
+High,Channel Partners,Canada,176064.48,49726.5,126337.98000000001
+High,Enterprise,Canada,1604403.75,1756800,-152396.25
+High,Government,Canada,4847440.579999999,4050280,797160.5799999997
+High,Midmarket,Canada,291671.85000000003,224920,66751.85
+High,Small Business,Canada,1737657,1664250,73407
+Low,Channel Partners,Canada,58194.119999999995,14829,43365.119999999995
+Low,Enterprise,Canada,1576062.5,1549860,26202.5
+Low,Government,Canada,3165500.650000001,2360650,804850.65
+Low,Midmarket,Canada,66200.09999999999,45480,20720.1
+Low,Small Business,Canada,1671942,1426500,245442
+Medium,Channel Partners,Canada,196473.53999999998,52522.5,143951.03999999998
+Medium,Enterprise,Canada,367587.5,379680,-12092.5
+Medium,Government,Canada,2013655.2900000005,1567890,445765.29
+Medium,Midmarket,Canada,120062.02500000001,85805,34257.025
+Medium,Small Business,Canada,5167650,4685750,481900
+None,Channel Partners,Canada,60432,15108,45324
+None,Enterprise,Canada,419437.5,402660,16777.5
+None,Government,Canada,714640,503945,210695
+None,Midmarket,Canada,32280,21520,10760
+None,Small Business,Canada,600300,500250,100050
+High,Channel Partners,France,124306.26,35449.5,88856.76
+High,Enterprise,France,1174422.5,1278840,-104417.5
+High,Government,France,2440389.7,2038802.5,401587.19999999995
+High,Midmarket,France,253795.275,191760,62035.274999999994
+High,Small Business,France,1872921,1785000,87921
+Low,Channel Partners,France,131768.28,33702,98066.28
+Low,Enterprise,France,1595784.375,1574820,20964.375
+Low,Government,France,3135858.18,2355960,779898.1799999999
+Low,Midmarket,France,71420.85,48780,22640.85
+Low,Small Business,France,978331.5,838125,140206.5
+Medium,Channel Partners,France,116015.82,31357.5,84658.32
+Medium,Enterprise,France,895183.75,916500,-21316.25
+Medium,Government,France,4978624.839999999,3873105,1105519.8399999999
+Medium,Midmarket,France,195010.95,139670,55340.95000000001
+Medium,Small Business,France,3873054,3478000,395054
+None,Enterprise,France,225500,216480,9020
+None,Government,France,1572910,1150000,422910
+None,Midmarket,France,73575,49050,24525
+None,Small Business,France,645300,537750,107550
+High,Channel Partners,Germany,77511.36,21942,55569.36
+High,Enterprise,Germany,935312.5,1038480,-103167.5
+High,Government,Germany,1807711.6000000006,1450325,357386.59999999986
+High,Midmarket,Germany,84030.9,64840,19190.9
+High,Small Business,Germany,1974228,1878250,95978
+Low,Channel Partners,Germany,47055.72,12033,35022.72
+Low,Enterprise,Germany,1366845,1348920,17925
+Low,Government,Germany,5324300.91,4038305,1285995.9100000001
+Low,Midmarket,Germany,67692.45,46370,21322.45
+Low,Small Business,Germany,3510714,3023625,487089
+Medium,Channel Partners,Germany,110386.79999999999,29724,80662.79999999999
+Medium,Enterprise,Germany,1257231.25,1294560,-37328.75
+Medium,Government,Germany,2504339.43,1944840,559499.4299999998
+Medium,Midmarket,Germany,109166.40000000001,77810,31356.399999999998
+Medium,Small Business,Germany,1842906,1654000,188906
+None,Channel Partners,Germany,101472,25368,76104
+None,Enterprise,Germany,527437.5,506340,21097.5
+None,Government,Germany,1816544,1342250,474294
+None,Midmarket,Germany,40455,26970,13485
+High,Channel Partners,Mexico,71067.12000000001,20295,50772.12
+High,Enterprise,Mexico,1152238.75,1266000,-113761.25
+High,Government,Mexico,3466939.77,2876870,590069.7700000001
+High,Midmarket,Mexico,130615.04999999999,98440,32175.050000000003
+High,Small Business,Mexico,2008833,1917750,91083
+Low,Channel Partners,Mexico,55912.31999999999,14322,41590.32000000001
+Low,Enterprise,Mexico,1518661.25,1493640,25021.25
+Low,Government,Mexico,3262026.46,2473310,788716.4600000001
+Low,Midmarket,Mexico,134973.9,93040,41933.9
+Low,Small Business,Mexico,617130,522250,94880
+Medium,Channel Partners,Mexico,107399.64,28872,78527.64
+Medium,Enterprise,Mexico,644981.25,676920,-31938.75
+Medium,Government,Mexico,3046001.1500000004,2390380,655621.1499999999
+Medium,Midmarket,Mexico,119757.45,85250,34507.45
+Medium,Small Business,Mexico,3946593,3552250,394343
+None,Government,Mexico,16632,11880,4752
+None,Midmarket,Mexico,125790,83860,41930
+None,Small Business,Mexico,523800,436500,87300
