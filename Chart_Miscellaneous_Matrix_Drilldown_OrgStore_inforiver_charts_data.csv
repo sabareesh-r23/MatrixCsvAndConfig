@@ -1,0 +1,488 @@
+financials.Discount Band,financials.Country,financials.Product,financials.Segment,Sum(financials.COGS)
+High,Canada,Paseo,Government,1477815
+High,France,Paseo,Government,971425
+High,Germany,Paseo,Government,179120
+High,Mexico,Paseo,Government,1907125
+High,United States of America,Paseo,Government,866012.5
+Low,Canada,Paseo,Government,783515
+Low,France,Paseo,Government,585175
+Low,Mexico,Paseo,Government,8800
+Low,United States of America,Paseo,Government,1011327.5
+Medium,Canada,Paseo,Government,364220
+Medium,France,Paseo,Government,450745
+Medium,Germany,Paseo,Government,642050
+Medium,Mexico,Paseo,Government,1046025
+Medium,United States of America,Paseo,Government,396925
+None,Canada,Paseo,Government,469590
+None,Germany,Paseo,Government,654940
+None,Mexico,Paseo,Government,4415
+None,United States of America,Paseo,Government,5715
+High,Canada,Paseo,Small Business,559750
+High,Germany,Paseo,Small Business,541500
+High,Mexico,Paseo,Small Business,685250
+High,United States of America,Paseo,Small Business,873750
+Low,Canada,Paseo,Small Business,479000
+Low,France,Paseo,Small Business,838125
+Low,Germany,Paseo,Small Business,957875
+Low,United States of America,Paseo,Small Business,1455750
+Medium,Canada,Paseo,Small Business,1050000
+Medium,France,Paseo,Small Business,443000
+Medium,Germany,Paseo,Small Business,280750
+Medium,Mexico,Paseo,Small Business,1658000
+Medium,United States of America,Paseo,Small Business,247750
+None,Mexico,Paseo,Small Business,197000
+High,Canada,Paseo,Enterprise,189960
+High,France,Paseo,Enterprise,292920
+High,Germany,Paseo,Enterprise,130200
+High,Mexico,Paseo,Enterprise,258720
+Low,Canada,Paseo,Enterprise,781440
+Low,France,Paseo,Enterprise,607440
+Low,Germany,Paseo,Enterprise,585600
+Low,Mexico,Paseo,Enterprise,692160
+Low,United States of America,Paseo,Enterprise,87240
+Medium,France,Paseo,Enterprise,370680
+Medium,Germany,Paseo,Enterprise,421560
+Medium,Mexico,Paseo,Enterprise,133680
+Medium,United States of America,Paseo,Enterprise,798000
+High,Canada,Paseo,Midmarket,99510
+High,France,Paseo,Midmarket,21670
+High,Germany,Paseo,Midmarket,14530
+High,Mexico,Paseo,Midmarket,23640
+High,United States of America,Paseo,Midmarket,17670
+Low,Canada,Paseo,Midmarket,25810
+Low,France,Paseo,Midmarket,45570
+Low,Germany,Paseo,Midmarket,26920
+Low,Mexico,Paseo,Midmarket,35450
+Low,United States of America,Paseo,Midmarket,41100
+Medium,France,Paseo,Midmarket,97490
+Medium,Germany,Paseo,Midmarket,38590
+Medium,United States of America,Paseo,Midmarket,99570
+None,Canada,Paseo,Midmarket,21520
+None,France,Paseo,Midmarket,5490
+None,Mexico,Paseo,Midmarket,34460
+High,Canada,Paseo,Channel Partners,18744
+High,France,Paseo,Channel Partners,15049.5
+High,Germany,Paseo,Channel Partners,3039
+High,Mexico,Paseo,Channel Partners,1713
+High,United States of America,Paseo,Channel Partners,12642
+Low,Canada,Paseo,Channel Partners,3885
+Low,France,Paseo,Channel Partners,14223
+Low,Germany,Paseo,Channel Partners,2298
+Low,Mexico,Paseo,Channel Partners,3252
+Low,United States of America,Paseo,Channel Partners,7534.5
+Medium,Canada,Paseo,Channel Partners,14190
+Medium,Germany,Paseo,Channel Partners,5325
+Medium,Mexico,Paseo,Channel Partners,9390
+None,Canada,Paseo,Channel Partners,7554
+None,Germany,Paseo,Channel Partners,1101
+None,United States of America,Paseo,Channel Partners,2736
+High,Canada,Paseo,,2345779
+High,France,Paseo,,1301064.5
+High,Germany,Paseo,,868389
+High,Mexico,Paseo,,2876448
+High,United States of America,Paseo,,1770074.5
+Low,Canada,Paseo,,2073650
+Low,France,Paseo,,2090533
+Low,Germany,Paseo,,1572693
+Low,Mexico,Paseo,,739662
+Low,United States of America,Paseo,,2602952
+Medium,Canada,Paseo,,1428410
+Medium,France,Paseo,,1361915
+Medium,Germany,Paseo,,1388275
+Medium,Mexico,Paseo,,2847095
+Medium,United States of America,Paseo,,1542245
+None,Canada,Paseo,,498664
+None,France,Paseo,,5490
+None,Germany,Paseo,,656041
+None,Mexico,Paseo,,235875
+None,United States of America,Paseo,,8451
+High,Canada,VTT,Small Business,441250
+High,Mexico,VTT,Small Business,108000
+High,United States of America,VTT,Small Business,1461250
+Low,Canada,VTT,Small Business,468500
+Low,Germany,VTT,Small Business,300000
+Low,Mexico,VTT,Small Business,123500
+Low,United States of America,VTT,Small Business,711000
+Medium,Canada,VTT,Small Business,1142500
+Medium,France,VTT,Small Business,545000
+Medium,Germany,VTT,Small Business,664750
+Medium,Mexico,VTT,Small Business,686750
+Medium,United States of America,VTT,Small Business,668750
+None,Canada,VTT,Small Business,500250
+None,France,VTT,Small Business,537750
+High,Canada,VTT,Government,199985
+High,France,VTT,Government,343445
+High,Germany,VTT,Government,502910
+High,Mexico,VTT,Government,26845
+High,United States of America,VTT,Government,996745
+Low,Canada,VTT,Government,251940
+Low,France,VTT,Government,566020
+Low,Germany,VTT,Government,749335
+Low,Mexico,VTT,Government,1294540
+Low,United States of America,VTT,Government,159900
+Medium,Canada,VTT,Government,21800
+Medium,France,VTT,Government,287685
+Medium,Germany,VTT,Government,146180
+Medium,Mexico,VTT,Government,34770
+Medium,United States of America,VTT,Government,397885
+None,Canada,VTT,Government,18170
+None,France,VTT,Government,397020
+High,Canada,VTT,Enterprise,847920
+High,Germany,VTT,Enterprise,66240
+High,Mexico,VTT,Enterprise,107400
+High,United States of America,VTT,Enterprise,286440
+Low,Canada,VTT,Enterprise,327480
+Low,France,VTT,Enterprise,303720
+Low,Germany,VTT,Enterprise,188400
+Low,Mexico,VTT,Enterprise,79440
+Low,United States of America,VTT,Enterprise,87240
+Medium,Mexico,VTT,Enterprise,105240
+High,Canada,VTT,Midmarket,15650
+High,France,VTT,Midmarket,60415
+High,Germany,VTT,Midmarket,16670
+High,Mexico,VTT,Midmarket,6410
+High,United States of America,VTT,Midmarket,25670
+Low,Germany,VTT,Midmarket,19450
+Low,Mexico,VTT,Midmarket,15140
+Medium,Canada,VTT,Midmarket,28440
+Medium,France,VTT,Midmarket,12270
+Medium,United States of America,VTT,Midmarket,11530
+None,France,VTT,Midmarket,21780
+None,Germany,VTT,Midmarket,8880
+High,Canada,VTT,Channel Partners,6327
+High,France,VTT,Channel Partners,5202
+High,Mexico,VTT,Channel Partners,3015
+High,United States of America,VTT,Channel Partners,5418
+Low,France,VTT,Channel Partners,2598
+Low,Germany,VTT,Channel Partners,7437
+Low,Mexico,VTT,Channel Partners,5748
+Medium,Canada,VTT,Channel Partners,9733.5
+Medium,France,VTT,Channel Partners,11917.5
+Medium,Germany,VTT,Channel Partners,9285
+Medium,United States of America,VTT,Channel Partners,5868
+None,Germany,VTT,Channel Partners,8514
+High,Canada,VTT,,1511132
+High,France,VTT,,409062
+High,Germany,VTT,,585820
+High,Mexico,VTT,,251670
+High,United States of America,VTT,,2775523
+Low,Canada,VTT,,1047920
+Low,France,VTT,,872338
+Low,Germany,VTT,,1264622
+Low,Mexico,VTT,,1518368
+Low,United States of America,VTT,,958140
+Medium,Canada,VTT,,1202473.5
+Medium,France,VTT,,856872.5
+Medium,Germany,VTT,,820215
+Medium,Mexico,VTT,,826760
+Medium,United States of America,VTT,,1084033
+None,Canada,VTT,,518420
+None,France,VTT,,956550
+None,Germany,VTT,,17394
+High,Canada,Velo,Government,693360
+High,France,Velo,Government,200140
+High,Germany,Velo,Government,15735
+High,Mexico,Velo,Government,461190
+High,United States of America,Velo,Government,262420
+Low,Canada,Velo,Government,75425
+Low,France,Velo,Government,607855
+Low,Germany,Velo,Government,1519180
+Low,Mexico,Velo,Government,7250
+Low,United States of America,Velo,Government,23020
+Medium,Canada,Velo,Government,343525
+Medium,France,Velo,Government,974600
+Medium,Germany,Velo,Government,367400
+Medium,Mexico,Velo,Government,20245
+Medium,United States of America,Velo,Government,216320
+None,Germany,Velo,Government,261560
+None,Mexico,Velo,Government,7465
+High,Canada,Velo,Small Business,67250
+High,France,Velo,Small Business,213250
+High,Germany,Velo,Small Business,634000
+High,Mexico,Velo,Small Business,651250
+High,United States of America,Velo,Small Business,1832000
+Medium,Canada,Velo,Small Business,948375
+Medium,France,Velo,Small Business,816500
+Medium,Germany,Velo,Small Business,312500
+Medium,Mexico,Velo,Small Business,158750
+Medium,United States of America,Velo,Small Business,343000
+High,Canada,Velo,Enterprise,229920
+High,France,Velo,Enterprise,79560
+High,Mexico,Velo,Enterprise,189000
+High,United States of America,Velo,Enterprise,484080
+Low,Canada,Velo,Enterprise,351840
+Low,Germany,Velo,Enterprise,97080
+Low,Mexico,Velo,Enterprise,257400
+Low,United States of America,Velo,Enterprise,79560
+Medium,Canada,Velo,Enterprise,182280
+Medium,France,Velo,Enterprise,84480
+Medium,Germany,Velo,Enterprise,347280
+Medium,Mexico,Velo,Enterprise,253200
+Medium,United States of America,Velo,Enterprise,433920
+None,Canada,Velo,Enterprise,41400
+None,France,Velo,Enterprise,216480
+None,United States of America,Velo,Enterprise,338520
+High,Canada,Velo,Midmarket,3840
+High,France,Velo,Midmarket,68235
+High,Germany,Velo,Midmarket,18510
+High,Mexico,Velo,Midmarket,6550
+High,United States of America,Velo,Midmarket,7900
+Medium,Canada,Velo,Midmarket,12620
+Medium,Germany,Velo,Midmarket,15300
+Medium,Mexico,Velo,Midmarket,57340
+Medium,United States of America,Velo,Midmarket,5550
+High,Germany,Velo,Channel Partners,4455
+High,Mexico,Velo,Channel Partners,4542
+High,United States of America,Velo,Channel Partners,2742
+Low,France,Velo,Channel Partners,3165
+Low,Mexico,Velo,Channel Partners,3252
+Low,United States of America,Velo,Channel Partners,4395
+Medium,Canada,Velo,Channel Partners,9087
+Medium,France,Velo,Channel Partners,5901
+None,Germany,Velo,Channel Partners,11118
+High,Canada,Velo,,994370
+High,France,Velo,,561185
+High,Germany,Velo,,672700
+High,Mexico,Velo,,1312532
+High,United States of America,Velo,,2589142
+Low,Canada,Velo,,427265
+Low,France,Velo,,611020
+Low,Germany,Velo,,1616260
+Low,Mexico,Velo,,267902
+Low,United States of America,Velo,,106975
+Medium,Canada,Velo,,1495887
+Medium,France,Velo,,1881481
+Medium,Germany,Velo,,1042480
+Medium,Mexico,Velo,,489535
+Medium,United States of America,Velo,,998790
+None,Canada,Velo,,41400
+None,France,Velo,,216480
+None,Germany,Velo,,272678
+None,Mexico,Velo,,7465
+None,United States of America,Velo,,338520
+High,Canada,Amarilla,Government,779890
+High,France,Amarilla,Government,31712.5
+High,Mexico,Amarilla,Government,144755
+High,United States of America,Amarilla,Government,70200
+Low,Canada,Amarilla,Government,462280
+Low,France,Amarilla,Government,9410
+Low,Germany,Amarilla,Government,1266980
+Low,Mexico,Amarilla,Government,484900
+Low,United States of America,Amarilla,Government,12360
+Medium,Canada,Amarilla,Government,816675
+Medium,France,Amarilla,Government,1294535
+Medium,Germany,Amarilla,Government,385655
+Medium,Mexico,Amarilla,Government,472275
+Medium,United States of America,Amarilla,Government,754835
+None,France,Amarilla,Government,733990
+None,Germany,Amarilla,Government,8430
+None,United States of America,Amarilla,Government,5715
+High,Canada,Amarilla,Small Business,222000
+High,France,Amarilla,Small Business,832000
+High,Mexico,Amarilla,Small Business,136500
+High,United States of America,Amarilla,Small Business,748250
+Low,Canada,Amarilla,Small Business,479000
+Low,Germany,Amarilla,Small Business,64750
+Low,Mexico,Amarilla,Small Business,275250
+Medium,Germany,Amarilla,Small Business,312500
+Medium,Mexico,Amarilla,Small Business,773750
+Medium,United States of America,Amarilla,Small Business,343000
+High,Canada,Amarilla,Enterprise,199080
+High,France,Amarilla,Enterprise,171960
+High,Germany,Amarilla,Enterprise,379800
+High,Mexico,Amarilla,Enterprise,113640
+High,United States of America,Amarilla,Enterprise,410760
+Low,Germany,Amarilla,Enterprise,273120
+Low,Mexico,Amarilla,Enterprise,128880
+Medium,Canada,Amarilla,Enterprise,197400
+Medium,France,Amarilla,Enterprise,238500
+Medium,Germany,Amarilla,Enterprise,119280
+None,Germany,Amarilla,Enterprise,506340
+High,Canada,Amarilla,Midmarket,17430
+High,France,Amarilla,Midmarket,20720
+High,Mexico,Amarilla,Midmarket,40270
+High,United States of America,Amarilla,Midmarket,57475
+Low,France,Amarilla,Midmarket,3210
+Low,United States of America,Amarilla,Midmarket,6710
+Medium,Canada,Amarilla,Midmarket,16305
+Medium,Germany,Amarilla,Midmarket,16810
+None,United States of America,Amarilla,Midmarket,6150
+High,Canada,Amarilla,Channel Partners,18844.5
+High,France,Amarilla,Channel Partners,11604
+High,Germany,Amarilla,Channel Partners,14448
+High,Mexico,Amarilla,Channel Partners,1230
+High,United States of America,Amarilla,Channel Partners,14787
+Low,United States of America,Amarilla,Channel Partners,5967
+Medium,France,Amarilla,Channel Partners,918
+Medium,Mexico,Amarilla,Channel Partners,7494
+None,United States of America,Amarilla,Channel Partners,12282
+High,Canada,Amarilla,,1237244.5
+High,France,Amarilla,,1067996.5
+High,Germany,Amarilla,,394248
+High,Mexico,Amarilla,,436395
+High,United States of America,Amarilla,,1301472
+Low,Canada,Amarilla,,941280
+Low,France,Amarilla,,12620
+Low,Germany,Amarilla,,1604850
+Low,Mexico,Amarilla,,889030
+Low,United States of America,Amarilla,,25037
+Medium,Canada,Amarilla,,1030380
+Medium,France,Amarilla,,1533953
+Medium,Germany,Amarilla,,834245
+Medium,Mexico,Amarilla,,1253519
+Medium,United States of America,Amarilla,,1097835
+None,France,Amarilla,,733990
+None,Germany,Amarilla,,514770
+None,United States of America,Amarilla,,24147
+High,France,Montana,Small Business,739750
+High,Mexico,Montana,Small Business,136500
+Low,Germany,Montana,Small Business,970000
+Low,United States of America,Montana,Small Business,1199750
+Medium,Canada,Montana,Small Business,1271375
+Medium,France,Montana,Small Business,1016250
+Medium,Germany,Montana,Small Business,83500
+Medium,Mexico,Montana,Small Business,275000
+None,Mexico,Montana,Small Business,239500
+High,Canada,Montana,Government,659250
+High,France,Montana,Government,1465
+High,Germany,Montana,Government,540820
+High,Mexico,Montana,Government,67275
+High,United States of America,Montana,Government,889940
+Low,Canada,Montana,Government,23405
+Low,France,Montana,Government,16475
+Low,Germany,Montana,Government,477010
+Low,United States of America,Montana,Government,15660
+Medium,Canada,Montana,Government,17575
+Medium,France,Montana,Government,837475
+Medium,Germany,Montana,Government,391845
+Medium,Mexico,Montana,Government,442000
+Medium,United States of America,Montana,Government,12820
+None,France,Montana,Government,18990
+None,Germany,Montana,Government,10730
+High,United States of America,Montana,Enterprise,216480
+Low,France,Montana,Enterprise,154440
+Low,Germany,Montana,Enterprise,204720
+Low,Mexico,Montana,Enterprise,335760
+Low,United States of America,Montana,Enterprise,79560
+Medium,France,Montana,Enterprise,222840
+Medium,Germany,Montana,Enterprise,300000
+Medium,United States of America,Montana,Enterprise,770880
+None,Canada,Montana,Enterprise,361260
+High,Canada,Montana,Midmarket,23000
+High,France,Montana,Midmarket,20720
+High,Mexico,Montana,Midmarket,21570
+High,United States of America,Montana,Midmarket,6770
+Low,Canada,Montana,Midmarket,19670
+Low,Mexico,Montana,Midmarket,42450
+Medium,France,Montana,Midmarket,25010
+Medium,Germany,Montana,Midmarket,7110
+None,Germany,Montana,Midmarket,9210
+None,Mexico,Montana,Midmarket,24700
+None,United States of America,Montana,Midmarket,6150
+High,Mexico,Montana,Channel Partners,9795
+Low,France,Montana,Channel Partners,5703
+Low,Mexico,Montana,Channel Partners,2070
+Low,United States of America,Montana,Channel Partners,3426
+Medium,Canada,Montana,Channel Partners,6963
+Medium,France,Montana,Channel Partners,7026
+Medium,Germany,Montana,Channel Partners,7026
+Medium,Mexico,Montana,Channel Partners,7020
+Medium,United States of America,Montana,Channel Partners,8169
+None,Canada,Montana,Channel Partners,7554
+None,Germany,Montana,Channel Partners,4635
+High,Canada,Montana,,682250
+High,France,Montana,,761935
+High,Germany,Montana,,540820
+High,Mexico,Montana,,235140
+High,United States of America,Montana,,1113190
+Low,Canada,Montana,,43075
+Low,France,Montana,,176618
+Low,Germany,Montana,,1651730
+Low,Mexico,Montana,,380280
+Low,United States of America,Montana,,1298396
+Medium,Canada,Montana,,1295913
+Medium,France,Montana,,2108601
+Medium,Germany,Montana,,789481
+Medium,Mexico,Montana,,724020
+Medium,United States of America,Montana,,791869
+None,Canada,Montana,,368814
+None,France,Montana,,18990
+None,Germany,Montana,,24575
+None,Mexico,Montana,,264200
+None,United States of America,Montana,,6150
+High,Canada,Carretera,Government,239980
+High,France,Carretera,Government,490615
+High,Germany,Carretera,Government,211740
+High,Mexico,Carretera,Government,269680
+High,United States of America,Carretera,Government,32410
+Low,Canada,Carretera,Government,764085
+Low,France,Carretera,Government,571025
+Low,Germany,Carretera,Government,25800
+Low,Mexico,Carretera,Government,677820
+Low,United States of America,Carretera,Government,83885
+Medium,Canada,Carretera,Government,4095
+Medium,France,Carretera,Government,28065
+Medium,Germany,Carretera,Government,11710
+Medium,Mexico,Carretera,Government,375065
+Medium,United States of America,Carretera,Government,473200
+None,Canada,Carretera,Government,16185
+None,Germany,Carretera,Government,406590
+High,Canada,Carretera,Small Business,374000
+High,Germany,Carretera,Small Business,702750
+High,Mexico,Carretera,Small Business,200250
+High,United States of America,Carretera,Small Business,252500
+Low,Germany,Carretera,Small Business,731000
+Low,Mexico,Carretera,Small Business,123500
+Medium,Canada,Carretera,Small Business,273500
+Medium,France,Carretera,Small Business,657250
+Medium,United States of America,Carretera,Small Business,247750
+High,Canada,Carretera,Enterprise,289920
+High,France,Carretera,Enterprise,734400
+High,Germany,Carretera,Enterprise,462240
+High,Mexico,Carretera,Enterprise,597240
+High,United States of America,Carretera,Enterprise,413460
+Low,Canada,Carretera,Enterprise,89100
+Low,France,Carretera,Enterprise,509220
+Low,United States of America,Carretera,Enterprise,39600
+Medium,Germany,Carretera,Enterprise,106440
+Medium,Mexico,Carretera,Enterprise,184800
+High,Canada,Carretera,Midmarket,65490
+High,Germany,Carretera,Midmarket,15130
+High,United States of America,Carretera,Midmarket,25670
+Medium,Canada,Carretera,Midmarket,28440
+Medium,France,Carretera,Midmarket,4900
+Medium,Mexico,Carretera,Midmarket,27910
+Medium,United States of America,Carretera,Midmarket,20300
+None,France,Carretera,Midmarket,21780
+None,Germany,Carretera,Midmarket,8880
+None,Mexico,Carretera,Midmarket,24700
+High,Canada,Carretera,Channel Partners,5811
+High,France,Carretera,Channel Partners,3594
+High,United States of America,Carretera,Channel Partners,1158
+Low,Canada,Carretera,Channel Partners,10944
+Low,France,Carretera,Channel Partners,8013
+Low,Germany,Carretera,Channel Partners,2298
+Low,United States of America,Carretera,Channel Partners,11415
+Medium,Canada,Carretera,Channel Partners,12549
+Medium,France,Carretera,Channel Partners,5595
+Medium,Germany,Carretera,Channel Partners,8088
+Medium,Mexico,Carretera,Channel Partners,4968
+High,Canada,Carretera,,975201
+High,France,Carretera,,1228609
+High,Germany,Carretera,,1391860
+High,Mexico,Carretera,,1067170
+High,United States of America,Carretera,,725198
+Low,Canada,Carretera,,864129
+Low,France,Carretera,,1088258
+Low,Germany,Carretera,,759098
+Low,Mexico,Carretera,,801320
+Low,United States of America,Carretera,,134900
+Medium,Canada,Carretera,,318584
+Medium,France,Carretera,,695810
+Medium,Germany,Carretera,,126238
+Medium,Mexico,Carretera,,592743
+Medium,United States of America,Carretera,,741250
+None,Canada,Carretera,,16185
+None,France,Carretera,,21780
+None,Germany,Carretera,,415470
+None,Mexico,Carretera,,24700
