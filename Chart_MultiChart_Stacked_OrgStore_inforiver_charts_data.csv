@@ -1,0 +1,196 @@
+financials.Month Name,financials.Discount Band,financials.Country,Sum(financials. Sales),Sum(financials.Profit)
+April,High,United States of America,398041.95,-21478.05
+April,Low,United States of America,714530.025,116817.525
+April,Medium,United States of America,480616.5,92476.5
+April,None,United States of America,23436,17577
+August,High,United States of America,1539783,174713
+August,Medium,United States of America,89166.12,35476.119999999995
+August,None,United States of America,378317,33374
+December,High,United States of America,298477.89999999997,-5611.100000000002
+December,Low,United States of America,317472.68,76517.68
+December,Medium,United States of America,1760107.1,127657.1
+December,None,United States of America,18450,6150
+February,High,United States of America,137018.22,33918.22
+February,Low,United States of America,872159.9400000001,140445.94
+February,Medium,United States of America,323712.5,-6887.5
+January,High,United States of America,1295749.215,89876.715
+January,Medium,United States of America,50277.270000000004,27684.27
+July,High,United States of America,677393.325,30398.324999999997
+July,Low,United States of America,1192666.95,278913.44999999995
+July,Medium,United States of America,438737.85,-867.1500000000005
+June,High,United States of America,66998.7,15658.699999999997
+June,Low,United States of America,206792.34,25460.34
+June,Medium,United States of America,1049819.76,186569.76
+March,High,United States of America,826883.5700000001,63968.57
+March,Low,United States of America,16876.8,12481.8
+March,Medium,United States of America,946214.1,119584.1
+May,High,United States of America,1093390.8,119982.8
+May,Low,United States of America,840384,110884
+May,Medium,United States of America,15474.55,3839.5499999999993
+November,High,United States of America,2106883.1,107143.1
+November,Low,United States of America,887010.6,148400.6
+November,Medium,United States of America,88664.95,43495.95
+November,None,United States of America,10944,8208
+October,High,United States of America,2480928.4,261108.40000000002
+October,Low,United States of America,244804.5,40944.5
+October,Medium,United States of America,715368.1000000001,107628.1
+October,None,United States of America,16002,4572
+September,High,United States of America,219378.09999999998,-3351.9000000000015
+September,Low,United States of America,980706.2999999999,196138.3
+September,Medium,United States of America,1210191.95,175671.95
+April,High,Canada,62901.74999999999,32585.249999999996
+April,Low,Canada,492578.7,119663.70000000001
+April,Medium,Canada,1038082.5,87457.5
+August,High,Canada,75240.45,25710.449999999997
+August,Low,Canada,672237.15,83827.15
+August,Medium,Canada,204565.44,55393.44
+December,High,Canada,274890,-1030
+December,Low,Canada,4359662.12,798658.12
+December,Medium,Canada,807476.51,141995.51
+December,None,Canada,104960,47100
+February,High,Canada,726287.16,138076.16
+February,Low,Canada,34736.1,11106.099999999999
+February,Medium,Canada,115002.72,-1677.2799999999997
+February,None,Canada,606140,102970
+January,High,Canada,1089111.15,88791.15
+January,Low,Canada,28566.72,7311.719999999999
+January,Medium,Canada,36208.62,26475.120000000003
+January,None,Canada,32370,16185
+July,High,Canada,713262.93,145359.93
+July,Medium,Canada,1063098.855,94323.855
+July,None,Canada,333187.5,13327.5
+June,High,Canada,1947190.5,198630.5
+June,Medium,Canada,718356.9,88966.90000000001
+June,None,Canada,60432,45324
+March,High,Canada,551919.1,65659.1
+March,Low,Canada,252611.47999999998,13431.48
+March,Medium,Canada,6601.92,4807.92
+May,High,Canada,82471.04000000001,24144.04
+May,Low,Canada,16121.4,7811.4
+May,Medium,Canada,685349.23,48544.23
+November,High,Canada,1316555.6800000002,47549.68
+November,Low,Canada,14497.56,4037.5599999999995
+November,Medium,Canada,437856.12,68713.12
+November,None,Canada,603750,155250
+October,High,Canada,1073703.98,72723.98
+October,Low,Canada,555958.3400000001,37518.340000000004
+October,Medium,Canada,1729620.44,389606.43999999994
+October,None,Canada,86250,3450
+September,High,Canada,743703.92,73060.92
+September,Low,Canada,110929.8,57214.799999999996
+September,Medium,Canada,1023209.1,89174.1
+April,High,France,483846.36,27936.36
+April,Low,France,591031.575,43171.575000000004
+April,Medium,France,257984.76,65389.26000000001
+August,High,France,166698.14,4913.139999999999
+August,Medium,France,613103.95,86743.95
+December,High,France,1391936,110736
+December,Low,France,1862884.5,404464.5
+December,Medium,France,70250.02,23452.019999999997
+February,High,France,1763.8600000000001,298.8600000000001
+February,Low,France,34095.6,11135.599999999999
+February,Medium,France,313579,55204
+February,None,France,1188000,256520
+January,High,France,115064.89499999999,44672.895
+January,Low,France,735778.35,107428.35
+January,Medium,France,693877.5,95407.5
+July,High,France,299409.18,70140.18
+July,Low,France,385794.9,13479.899999999998
+July,Medium,France,462861,48111
+June,High,France,14494.2,2594.2000000000007
+June,Low,France,239037.78000000003,38751.78
+June,Medium,France,1234352,232432
+June,None,France,141300,59760
+March,High,France,1220536.56,109391.56
+March,Medium,France,339212.19,22101.190000000002
+May,High,France,195452.75,-4767.25
+May,Low,France,287006.22,49758.22
+May,Medium,France,560318,111528
+November,High,France,1069474,155314
+November,Low,France,279165.02,37990.02
+November,Medium,France,760932.87,71846.87
+October,High,France,676813.54,14777.539999999999
+October,Low,France,1462944,330904
+October,Medium,France,3630380.98,567670.98
+September,High,France,230345.25,-24.75
+September,Low,France,35425.24,24692.239999999998
+September,Medium,France,1121037.09,239370.09
+September,None,France,1187985,247725
+April,High,Germany,367784,50944
+April,Low,Germany,457428,78003
+April,Medium,Germany,8107.96,1812.96
+April,None,Germany,561493.5,46639.5
+August,High,Germany,321792.95,-17969.05
+August,Low,Germany,535392,70642
+August,Medium,Germany,189570.21999999997,44420.22
+December,High,Germany,685942.6399999999,154934.64
+December,Low,Germany,413705,4265
+December,Medium,Germany,982451.6500000001,115626.65000000001
+December,None,Germany,1059100,272340
+February,High,Germany,50705.399999999994,20845.399999999998
+February,Low,Germany,13294.82,3504.8199999999997
+February,Medium,Germany,1283335.65,167397.65
+January,High,Germany,810535.75,23015.75
+January,Low,Germany,28855.56,21418.56
+January,Medium,Germany,9123.8,2263.7999999999993
+January,None,Germany,26420,13210
+July,High,Germany,756810,49140
+July,Medium,Germany,836533.75,68703.75
+July,None,Germany,16206,6675
+June,Low,Germany,781723,60423
+June,Medium,Germany,80382.24,29682.240000000005
+June,None,Germany,767920,217770
+March,High,Germany,266394,48894
+March,Low,Germany,173368.59,11903.59
+March,None,Germany,39747,24054
+May,Low,Germany,786842,81722
+May,Medium,Germany,530641,120996.00000000001
+November,High,Germany,1216727.7,55462.7
+November,Medium,Germany,1119326.7000000002,196065.69999999998
+October,High,Germany,385798.12,34406.119999999995
+October,Low,Germany,5571230.66,1177714.6600000001
+October,Medium,Germany,20001.100000000002,4811.1
+September,High,Germany,16303.8,5283.8
+September,Low,Germany,1554768.45,337758.45
+September,Medium,Germany,764555.8099999999,71315.81
+September,None,Germany,15022,4292
+April,High,Mexico,59442.05,20977.050000000003
+April,Low,Mexico,151182.24,16554.24
+April,Medium,Mexico,816287.2,133457.2
+August,High,Mexico,26486.4,6646.4000000000015
+August,Low,Mexico,557459,130539
+August,Medium,Mexico,201229.6,6970.6
+August,None,Mexico,293581,49666
+December,High,Mexico,409267,-853
+December,Low,Mexico,974698.08,185234.08
+December,Medium,Mexico,1575497.78,255692.77999999997
+February,High,Mexico,181924.1,-16515.9
+February,Low,Mexico,626640,141740
+February,Medium,Mexico,774526.32,85595.32
+February,None,Mexico,14610,4870
+January,High,Mexico,108428.7,15658.699999999997
+January,Medium,Mexico,1536943.15,231643.15
+January,None,Mexico,10451,2986
+July,High,Mexico,690169.74,96546.74
+July,Low,Mexico,225596.25,6836.25
+July,Medium,Mexico,11191.95,2776.9500000000007
+June,High,Mexico,558387.52,94043.51999999999
+June,Low,Mexico,162190,3310
+June,Medium,Mexico,1415416.88,149676.88
+June,None,Mexico,74100,24700
+March,High,Mexico,42547.66,15312.66
+March,Low,Mexico,775836.9,163846.9
+March,Medium,Mexico,128110,-5570
+May,High,Mexico,1110907.1600000001,152604.16
+May,Low,Mexico,2508.66,698.6599999999999
+May,Medium,Mexico,3344.25,894.25
+November,High,Mexico,2297084.88,205624.88
+November,Low,Mexico,211464.4,10194.4
+November,Medium,Mexico,231079.91999999998,54805.92
+October,High,Mexico,1088669.88,47219.88000000002
+October,Low,Mexico,1889178,330038
+October,Medium,Mexico,43778.979999999996,14686.979999999996
+September,High,Mexico,256378.6,13073.599999999999
+September,Low,Mexico,11950.4,3150.3999999999996
+September,Medium,Mexico,1127326.46,200430.45999999996
+September,None,Mexico,273480,51760
