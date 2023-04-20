@@ -1,0 +1,110 @@
+financials.Segment,financials.Product,financials.Discount Band,Sum(financials. Sales),Sum(financials.Profit)
+Channel Partners,Amarilla,Medium,31323.72,22911.72
+Channel Partners,Carretera,Medium,116655.48000000001,85455.48000000001
+Channel Partners,Montana,Medium,135010.68,98806.68
+Channel Partners,Paseo,Medium,107871.84000000001,78966.84
+Channel Partners,Velo,Medium,55794.96,40806.96
+Channel Partners,VTT,Medium,135694.08000000002,98890.08000000002
+Enterprise,Amarilla,Medium,540315,-14865
+Enterprise,Carretera,Medium,281322.5,-9917.5
+Enterprise,Montana,Medium,1250723.75,-42996.25
+Enterprise,Paseo,Medium,1679017.5,-44902.5
+Enterprise,Velo,Medium,1264370,-36790
+Enterprise,VTT,Medium,99758.75,-5481.25
+Government,Amarilla,Medium,4729707.569999999,1005732.57
+Government,Carretera,Medium,1146006.29,253871.28999999998
+Government,Montana,Medium,2181740.3300000005,480025.3299999999
+Government,Paseo,Medium,3743852.1900000004,843887.1899999998
+Government,Velo,Medium,2477166.62,555076.6199999999
+Government,VTT,Medium,1175665.4000000001,287345.4
+Midmarket,Amarilla,Medium,45308.625,12193.624999999998
+Midmarket,Carretera,Medium,115257.15,33707.15
+Midmarket,Montana,Medium,44325.600000000006,12205.600000000002
+Midmarket,Paseo,Medium,330016.19999999995,94366.20000000001
+Midmarket,Velo,Medium,127072.34999999999,36262.35
+Midmarket,VTT,Medium,73106.25,20866.25
+Small Business,Amarilla,Medium,1593258,164008
+Small Business,Carretera,Medium,1314588,136088
+Small Business,Montana,Medium,2924389.5,278264.5
+Small Business,Paseo,Medium,4084632,405132
+Small Business,Velo,Medium,2863642.5,284517.5
+Small Business,VTT,Medium,4112838,405088
+Channel Partners,Amarilla,High,213561.96,152648.46
+Channel Partners,Carretera,High,37650.6,27087.6
+Channel Partners,Montana,High,34405.92,24610.92
+Channel Partners,Paseo,High,179104.5,127916.99999999999
+Channel Partners,Velo,High,40625.64,28886.639999999996
+Channel Partners,VTT,High,69944.76,49982.759999999995
+Enterprise,Amarilla,High,1168165,-107075
+Enterprise,Carretera,High,2276067.5,-221192.5
+Enterprise,Montana,High,202950,-13530
+Enterprise,Paseo,High,796153.75,-75646.25
+Enterprise,Velo,High,893893.75,-88666.25
+Enterprise,VTT,High,1191741.25,-116258.75
+Government,Amarilla,High,1268101.34,241543.84000000003
+Government,Carretera,High,1508692,264267
+Government,Montana,High,2597354.4899999998,438604.48999999993
+Government,Paseo,High,6440376.934999999,1038879.4349999998
+Government,Velo,High,1959151.6400000001,326306.64
+Government,VTT,High,2517714.29,447784.2899999999
+Midmarket,Amarilla,High,179722.575,43827.575
+Midmarket,Carretera,High,139007.84999999998,32717.850000000002
+Midmarket,Montana,High,95374.34999999999,23314.35
+Midmarket,Paseo,High,230095.35,53075.350000000006
+Midmarket,Velo,High,137426.025,32391.025
+Midmarket,VTT,High,164228.25,39413.25
+Small Business,Amarilla,High,2037879,99129
+Small Business,Carretera,High,1603743,74243
+Small Business,Montana,High,920406,44156
+Small Business,Paseo,High,2817066,156816
+Small Business,Velo,High,3544335,146585
+Small Business,VTT,High,2107548,97048
+Channel Partners,Amarilla,Low,23629.32,17662.32
+Channel Partners,Carretera,Low,128532.59999999999,95862.59999999999
+Channel Partners,Montana,Low,43671.96,32472.96
+Channel Partners,Paseo,Low,121974.05999999998,90781.56
+Channel Partners,Velo,Low,42031.44,31219.44
+Channel Partners,VTT,Low,61134.12,45351.12
+Enterprise,Amarilla,Low,407690,5690
+Enterprise,Carretera,Low,646318.125,8398.125
+Enterprise,Montana,Low,784857.5,10377.5
+Enterprise,Paseo,Low,2792688.75,38808.75
+Enterprise,Velo,Low,801723.75,15843.75
+Enterprise,VTT,Low,1008937.5,22657.5
+Government,Amarilla,Low,2924807.2,688877.2
+Government,Carretera,Low,2837905.7900000005,715290.7899999999
+Government,Montana,Low,716839.2,184289.2
+Government,Paseo,Low,3156239.575,767422.0750000001
+Government,Velo,Low,3014552.790000001,781822.7899999999
+Government,VTT,Low,3971659.02,949924.02
+Midmarket,Amarilla,Low,14429.25,4509.25
+Midmarket,Montana,Low,90449.1,28329.100000000002
+Midmarket,Paseo,Low,255412.8,80562.79999999999
+Midmarket,VTT,Low,50101.35,15511.349999999999
+Small Business,Amarilla,Low,963144,144144
+Small Business,Carretera,Low,992181,137681
+Small Business,Montana,Low,2542743,372993
+Small Business,Paseo,Low,4360711.5,629961.5
+Small Business,VTT,Low,1875414,272414
+Channel Partners,Amarilla,None,49128,36846
+Channel Partners,Montana,None,48756,36567
+Channel Partners,Paseo,None,45564,34173
+Channel Partners,Velo,None,44472,33354
+Channel Partners,VTT,None,34056,25542
+Enterprise,Amarilla,None,527437.5,21097.5
+Enterprise,Montana,None,376312.5,15052.5
+Enterprise,Velo,None,621250,24850
+Government,Amarilla,None,1020283,272148
+Government,Carretera,None,588340,165565
+Government,Montana,None,53002,23282
+Government,Paseo,None,1541762,407102
+Government,Velo,None,362551,93526
+Government,VTT,None,570790,155600
+Midmarket,Amarilla,None,9225,3075
+Midmarket,Carretera,None,83040,27680
+Midmarket,Montana,None,60090,20030
+Midmarket,Paseo,None,92205,30735
+Midmarket,VTT,None,45990,15330
+Small Business,Montana,None,287400,47900
+Small Business,Paseo,None,236400,39400
+Small Business,VTT,None,1245600,207600
