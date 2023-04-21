@@ -1,0 +1,50 @@
+Orders.State,Orders.Region,Sum(Orders.Profit)
+Arizona,West,-3427.9246000000007
+California,West,76381.38710000005
+Colorado,West,-6527.857900000002
+Idaho,West,826.7231000000002
+Montana,West,1833.3284999999998
+Nevada,West,3316.765899999999
+New Mexico,West,1157.1160999999997
+Oregon,West,-1190.4705
+Utah,West,2546.5334999999995
+Washington,West,33402.65170000002
+Wyoming,West,100.19599999999997
+Connecticut,East,3511.4918000000002
+Delaware,East,9977.374800000001
+District of Columbia,East,1059.5893
+Maine,East,454.4862
+Maryland,East,7031.178799999998
+Massachusetts,East,6785.5016
+New Hampshire,East,1706.5028000000002
+New Jersey,East,9772.913799999997
+New York,East,74038.5486
+Ohio,East,-16971.376600000003
+Pennsylvania,East,-15559.960300000006
+Rhode Island,East,7285.629299999998
+Vermont,East,2244.9782999999998
+West Virginia,East,185.9216
+Alabama,South,5786.825300000001
+Arkansas,South,4008.6870999999996
+Florida,South,-3399.301700000003
+Georgia,South,16250.043300000003
+Kentucky,South,11199.696600000005
+Louisiana,South,2196.1023000000005
+Mississippi,South,3172.9761999999987
+North Carolina,South,-7490.912200000001
+South Carolina,South,1769.0566000000003
+Tennessee,South,-5341.6936000000005
+Virginia,South,18597.950399999998
+Illinois,Central,-12607.887000000006
+Indiana,Central,18382.936299999998
+Iowa,Central,1183.8119000000002
+Kansas,Central,836.4435000000001
+Michigan,Central,24463.187600000012
+Minnesota,Central,10823.187399999999
+Missouri,Central,6436.210500000001
+Nebraska,Central,2037.0942000000002
+North Dakota,Central,230.14969999999997
+Oklahoma,Central,4853.956
+South Dakota,Central,394.82830000000007
+Texas,Central,-25729.356300000007
+Wisconsin,Central,8401.800399999996
