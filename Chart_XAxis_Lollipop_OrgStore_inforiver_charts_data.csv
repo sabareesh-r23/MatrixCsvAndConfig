@@ -1,0 +1,11 @@
+Products.Product,Sum(Products.MaxOppValue)
+Ergonomic Seating,5000
+Stand-up Desks,5000
+Tablets,5000
+All-in-One,4000
+Design app,4000
+Mobile app,3500
+Desktops,3000
+Scanners,3000
+Laser Printers,1500
+Webcams,1000
