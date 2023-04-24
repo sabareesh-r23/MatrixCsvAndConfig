@@ -1,0 +1,355 @@
+Measures as Rows,Case Calendar.Date,CountNonNull(Cases.Agent),
+Count of Agent,Mon Nov 30 2020 00:00:00 GMT+0530 (India Standard Time),4,4
+Count of Is Escalated,Mon Nov 30 2020 00:00:00 GMT+0530 (India Standard Time),4,4
+Count of Agent,Tue Dec 01 2020 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Tue Dec 01 2020 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Wed Dec 02 2020 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed Dec 02 2020 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu Dec 03 2020 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Thu Dec 03 2020 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Fri Dec 04 2020 00:00:00 GMT+0530 (India Standard Time),72,72
+Count of Is Escalated,Fri Dec 04 2020 00:00:00 GMT+0530 (India Standard Time),72,72
+Count of Agent,Sat Dec 05 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sat Dec 05 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Sun Dec 06 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Dec 06 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Dec 07 2020 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Mon Dec 07 2020 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Tue Dec 08 2020 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Tue Dec 08 2020 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Wed Dec 09 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Wed Dec 09 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Thu Dec 10 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Thu Dec 10 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Fri Dec 11 2020 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Fri Dec 11 2020 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Sat Dec 12 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sat Dec 12 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Sun Dec 13 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Dec 13 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Dec 14 2020 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Mon Dec 14 2020 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Tue Dec 15 2020 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Tue Dec 15 2020 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Wed Dec 16 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Wed Dec 16 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Thu Dec 17 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Thu Dec 17 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Fri Dec 18 2020 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Fri Dec 18 2020 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Sat Dec 19 2020 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Dec 19 2020 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Dec 20 2020 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Dec 20 2020 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Dec 21 2020 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Mon Dec 21 2020 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Tue Dec 22 2020 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Tue Dec 22 2020 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Wed Dec 23 2020 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Wed Dec 23 2020 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Thu Dec 24 2020 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Thu Dec 24 2020 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Fri Dec 25 2020 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Fri Dec 25 2020 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Sat Dec 26 2020 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Dec 26 2020 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Dec 27 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Dec 27 2020 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Dec 28 2020 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Mon Dec 28 2020 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Tue Dec 29 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Tue Dec 29 2020 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Wed Dec 30 2020 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed Dec 30 2020 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu Dec 31 2020 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Thu Dec 31 2020 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Fri Jan 01 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Fri Jan 01 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Sat Jan 02 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sat Jan 02 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Sun Jan 03 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Jan 03 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Jan 04 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Mon Jan 04 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Tue Jan 05 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Tue Jan 05 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Wed Jan 06 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed Jan 06 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu Jan 07 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Thu Jan 07 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Fri Jan 08 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Fri Jan 08 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Sat Jan 09 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Is Escalated,Sat Jan 09 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Agent,Sun Jan 10 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Jan 10 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Jan 11 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Mon Jan 11 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Tue Jan 12 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Tue Jan 12 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Wed Jan 13 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Wed Jan 13 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Thu Jan 14 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Thu Jan 14 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Fri Jan 15 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Fri Jan 15 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Sat Jan 16 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Jan 16 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Jan 17 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Jan 17 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Jan 18 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Mon Jan 18 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Tue Jan 19 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Tue Jan 19 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Wed Jan 20 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Wed Jan 20 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Thu Jan 21 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Thu Jan 21 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Fri Jan 22 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Fri Jan 22 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Sat Jan 23 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Jan 23 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Jan 24 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Jan 24 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Jan 25 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Mon Jan 25 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Tue Jan 26 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Tue Jan 26 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Wed Jan 27 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Wed Jan 27 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Thu Jan 28 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Thu Jan 28 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Fri Jan 29 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Fri Jan 29 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Sat Jan 30 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Jan 30 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Jan 31 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Jan 31 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Feb 01 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Mon Feb 01 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Tue Feb 02 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Tue Feb 02 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Wed Feb 03 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Wed Feb 03 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Thu Feb 04 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Thu Feb 04 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Fri Feb 05 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Fri Feb 05 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Sat Feb 06 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sat Feb 06 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Sun Feb 07 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Feb 07 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Feb 08 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Mon Feb 08 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Tue Feb 09 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Tue Feb 09 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Wed Feb 10 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Wed Feb 10 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Thu Feb 11 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Thu Feb 11 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Fri Feb 12 2021 00:00:00 GMT+0530 (India Standard Time),72,72
+Count of Is Escalated,Fri Feb 12 2021 00:00:00 GMT+0530 (India Standard Time),72,72
+Count of Agent,Sat Feb 13 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Is Escalated,Sat Feb 13 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Agent,Sun Feb 14 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Feb 14 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Feb 15 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Mon Feb 15 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Tue Feb 16 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Tue Feb 16 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Wed Feb 17 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Wed Feb 17 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Thu Feb 18 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Thu Feb 18 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Fri Feb 19 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Fri Feb 19 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Sat Feb 20 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Feb 20 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Feb 21 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Feb 21 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Feb 22 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Mon Feb 22 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Tue Feb 23 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Tue Feb 23 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Wed Feb 24 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Wed Feb 24 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Thu Feb 25 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Thu Feb 25 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Fri Feb 26 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Fri Feb 26 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Sat Feb 27 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sat Feb 27 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Sun Feb 28 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Feb 28 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Mar 01 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Mon Mar 01 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Tue Mar 02 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Tue Mar 02 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Wed Mar 03 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed Mar 03 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu Mar 04 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Thu Mar 04 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Fri Mar 05 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Fri Mar 05 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Sat Mar 06 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sat Mar 06 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Sun Mar 07 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Mar 07 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Mar 08 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Mon Mar 08 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Tue Mar 09 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Tue Mar 09 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Wed Mar 10 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Wed Mar 10 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Thu Mar 11 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Thu Mar 11 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Fri Mar 12 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Fri Mar 12 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Sat Mar 13 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Mar 13 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Mar 14 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Mar 14 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Mar 15 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Mon Mar 15 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Tue Mar 16 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Tue Mar 16 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Wed Mar 17 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed Mar 17 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu Mar 18 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Thu Mar 18 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Fri Mar 19 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Fri Mar 19 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Sat Mar 20 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Mar 20 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Mar 21 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Mar 21 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Mar 22 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Mon Mar 22 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Tue Mar 23 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Tue Mar 23 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Wed Mar 24 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed Mar 24 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu Mar 25 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Thu Mar 25 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Fri Mar 26 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Fri Mar 26 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Sat Mar 27 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat Mar 27 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun Mar 28 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Mar 28 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Mar 29 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Mon Mar 29 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Tue Mar 30 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Tue Mar 30 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Wed Mar 31 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Wed Mar 31 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Thu Apr 01 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Thu Apr 01 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Fri Apr 02 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Fri Apr 02 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Sat Apr 03 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sat Apr 03 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Sun Apr 04 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun Apr 04 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon Apr 05 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Mon Apr 05 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Tue Apr 06 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Tue Apr 06 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Wed Apr 07 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed Apr 07 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu Apr 08 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Thu Apr 08 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Fri Apr 09 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Fri Apr 09 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Sat Apr 10 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Is Escalated,Sat Apr 10 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Agent,Sun Apr 11 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Apr 11 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Apr 12 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Mon Apr 12 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Tue Apr 13 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Tue Apr 13 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Wed Apr 14 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed Apr 14 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu Apr 15 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Thu Apr 15 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Fri Apr 16 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Fri Apr 16 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Sat Apr 17 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Is Escalated,Sat Apr 17 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Agent,Sun Apr 18 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Apr 18 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Apr 19 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Mon Apr 19 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Tue Apr 20 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Tue Apr 20 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Wed Apr 21 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Wed Apr 21 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Thu Apr 22 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Thu Apr 22 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Fri Apr 23 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Fri Apr 23 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Sat Apr 24 2021 00:00:00 GMT+0530 (India Standard Time),11,11
+Count of Is Escalated,Sat Apr 24 2021 00:00:00 GMT+0530 (India Standard Time),11,11
+Count of Agent,Sun Apr 25 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sun Apr 25 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Mon Apr 26 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Is Escalated,Mon Apr 26 2021 00:00:00 GMT+0530 (India Standard Time),73,73
+Count of Agent,Tue Apr 27 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Tue Apr 27 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Wed Apr 28 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Wed Apr 28 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Thu Apr 29 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Thu Apr 29 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Fri Apr 30 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Fri Apr 30 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Sat May 01 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Is Escalated,Sat May 01 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Agent,Sun May 02 2021 00:00:00 GMT+0530 (India Standard Time),11,11
+Count of Is Escalated,Sun May 02 2021 00:00:00 GMT+0530 (India Standard Time),11,11
+Count of Agent,Mon May 03 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Is Escalated,Mon May 03 2021 00:00:00 GMT+0530 (India Standard Time),79,79
+Count of Agent,Tue May 04 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Tue May 04 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Wed May 05 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed May 05 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu May 06 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Thu May 06 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Fri May 07 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Is Escalated,Fri May 07 2021 00:00:00 GMT+0530 (India Standard Time),74,74
+Count of Agent,Sat May 08 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sat May 08 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Sun May 09 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Is Escalated,Sun May 09 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Agent,Mon May 10 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Mon May 10 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Tue May 11 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Tue May 11 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Wed May 12 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Wed May 12 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Thu May 13 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Thu May 13 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Fri May 14 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Fri May 14 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Sat May 15 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Is Escalated,Sat May 15 2021 00:00:00 GMT+0530 (India Standard Time),8,8
+Count of Agent,Sun May 16 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun May 16 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon May 17 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Is Escalated,Mon May 17 2021 00:00:00 GMT+0530 (India Standard Time),75,75
+Count of Agent,Tue May 18 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Tue May 18 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Wed May 19 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Is Escalated,Wed May 19 2021 00:00:00 GMT+0530 (India Standard Time),76,76
+Count of Agent,Thu May 20 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Thu May 20 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Fri May 21 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Is Escalated,Fri May 21 2021 00:00:00 GMT+0530 (India Standard Time),77,77
+Count of Agent,Sat May 22 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Is Escalated,Sat May 22 2021 00:00:00 GMT+0530 (India Standard Time),10,10
+Count of Agent,Sun May 23 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Is Escalated,Sun May 23 2021 00:00:00 GMT+0530 (India Standard Time),9,9
+Count of Agent,Mon May 24 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Is Escalated,Mon May 24 2021 00:00:00 GMT+0530 (India Standard Time),78,78
+Count of Agent,Tue May 25 2021 00:00:00 GMT+0530 (India Standard Time),31,31
+Count of Is Escalated,Tue May 25 2021 00:00:00 GMT+0530 (India Standard Time),31,31
