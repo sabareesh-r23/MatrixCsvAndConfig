@@ -1,0 +1,61 @@
+financials.Month Name,financials.Country,Sum(financials. Sales)
+April,United States of America,1616624.475
+August,United States of America,2007266.1199999999
+December,United States of America,2394507.6799999997
+February,United States of America,1332890.66
+January,United States of America,1346026.485
+July,United States of America,2308798.125
+June,United States of America,1323610.8
+March,United States of America,1789974.47
+May,United States of America,1949249.3499999999
+November,United States of America,3093502.6500000004
+October,United States of America,3457102.9999999995
+September,United States of America,2410276.35
+April,Canada,1593562.95
+August,Canada,952043.0399999999
+December,Canada,5546988.63
+February,Canada,1482165.98
+January,Canada,1186256.49
+July,Canada,2109549.285
+June,Canada,2725979.4
+March,Canada,811132.5
+May,Canada,783941.6699999999
+November,Canada,2372659.3600000003
+October,Canada,3445532.7600000007
+September,Canada,1877842.8199999998
+April,France,1332862.6950000003
+August,France,779802.09
+December,France,3325070.5199999996
+February,France,1537438.46
+January,France,1544720.745
+July,France,1148065.08
+June,France,1629183.98
+March,France,1559748.75
+May,France,1042776.97
+November,France,2109571.89
+October,France,5770138.52
+September,France,2574792.58
+April,Germany,1394813.46
+August,Germany,1046755.1699999999
+December,Germany,3141199.29
+February,Germany,1347335.8699999999
+January,Germany,874935.11
+July,Germany,1609549.75
+June,Germany,1630025.24
+March,Germany,479509.59
+May,Germany,1317483
+November,Germany,2336054.4000000004
+October,Germany,5977029.880000001
+September,Germany,2350650.06
+April,Mexico,1026911.49
+August,Mexico,1078756
+December,Mexico,2959462.8600000003
+February,Mexico,1597700.42
+January,Mexico,1655822.85
+July,Mexico,926957.94
+June,Mexico,2210094.4
+March,Mexico,946494.56
+May,Mexico,1116760.07
+November,Mexico,2739629.1999999997
+October,Mexico,3021626.86
+September,Mexico,1669135.46

@@ -1,0 +1,116 @@
+financials.Discount Band,financials.Product,financials.Country,Sum(financials. Sales),Sum(financials.Units Sold)
+High,Amarilla,United States of America,1389351.7049999998,17362.5
+High,Carretera,United States of America,733882.4199999999,12147.5
+High,Montana,United States of America,1280259.7899999998,12398.5
+High,Paseo,United States of America,2002018.145,17386.5
+High,Velo,United States of America,2683116.5,14658
+High,VTT,United States of America,3052297.72,18244
+Low,Amarilla,United States of America,57517.32,3896
+Low,Carretera,United States of America,195163.59000000003,6938
+Low,Montana,United States of America,1551472.77,8170
+Low,Paseo,United States of America,3199430.3549999995,24457
+Low,Velo,United States of America,143747.85,4430
+Low,VTT,United States of America,1126072.25,4186
+Medium,Amarilla,United States of America,1323894.38,8359
+Medium,Carretera,United States of America,910793.54,6732.5
+Medium,Montana,United States of America,803169.24,10429
+Medium,Paseo,United States of America,1723932.27,25568
+Medium,Velo,United States of America,1119338.65,13852
+Medium,VTT,United States of America,1287222.67,12070
+None,Amarilla,United States of America,66354,5852
+None,Montana,United States of America,9225,615
+None,Paseo,United States of America,18945,2055
+None,Velo,United States of America,352625,2821
+High,Amarilla,Canada,1444328.95,16252.5
+High,Carretera,Canada,1039459.46,13321
+High,Montana,Canada,801257.2999999999,9098.5
+High,Paseo,Canada,2741974.6700000004,32251.5
+High,Velo,Canada,1102786.24,7009
+High,VTT,Canada,1527431.04,16928.5
+Low,Amarilla,Canada,1160712,3694
+Low,Carretera,Canada,1147437.29,10924.5
+Low,Montana,Canada,60165.42,6648
+Low,Paseo,Canada,2456023.2700000005,21481
+Low,Velo,Canada,497812.96,11520.5
+Low,VTT,Canada,1215748.43,6872.5
+Medium,Amarilla,Canada,1250724.925,9285.5
+Medium,Carretera,Canada,390937.58999999997,8940
+Medium,Montana,Canada,1443967.81,10213.5
+Medium,Paseo,Canada,1705097.05,15955
+Medium,Velo,Canada,1685766.1400000001,13589.5
+Medium,VTT,Canada,1388934.8399999999,13629.5
+None,Carretera,Canada,32370,1618.5
+None,Montana,Canada,406528.5,5528.5
+None,Paseo,Canada,708426,8504
+None,Velo,Canada,43125,345
+None,VTT,Canada,636640,3818
+High,Amarilla,France,1127490.17,17043.5
+High,Carretera,France,1275224.29,11629.5
+High,Montana,France,810911.86,5324
+High,Paseo,France,1506131.11,22346.5
+High,Velo,France,647413.725,12973.5
+High,VTT,France,498663.57999999996,10840.5
+Low,Amarilla,France,23210.449999999997,1262
+Low,Carretera,France,1307678.055,11214.5
+Low,Montana,France,209105.05,5107.5
+Low,Paseo,France,2493695.79,24842.5
+Low,Velo,France,824814.27,7735
+Low,VTT,France,1054659.57,5574
+Medium,Amarilla,France,1865246.51,8648.5
+Medium,Carretera,France,807749.55,9034
+Medium,Montana,France,2469385.46,18951.5
+Medium,Paseo,France,1589689.1600000001,23868
+Medium,Velo,France,2280368.24,14097
+Medium,VTT,France,1045450.4400000001,13504
+None,Amarilla,France,1000480,4649
+None,Carretera,France,32670,2178
+None,Montana,France,37980,1899
+None,Paseo,France,8235,549
+None,Velo,France,225500,1804
+None,VTT,France,1212420,5856
+High,Amarilla,Germany,403425.21,7981
+High,Carretera,Germany,1435414.1,9690
+High,Montana,Germany,652765.6,4957
+High,Paseo,Germany,973880.32,14704
+High,Velo,Germany,715723.68,8778
+High,VTT,Germany,697585.45,5900
+Low,Amarilla,Germany,2013046,7408
+Low,Carretera,Germany,904615.0800000001,6270
+Low,Montana,Germany,1947668.8199999998,9341
+Low,Paseo,Germany,1756117.28,12169.5
+Low,Velo,Germany,2103251.5,6652
+Low,VTT,Germany,1591909.4,10334
+Medium,Amarilla,Germany,1004539.55,9320
+Medium,Carretera,Germany,153021.5,5262
+Medium,Montana,Germany,918232.9500000001,9151
+Medium,Paseo,Germany,1613763.1400000001,25934
+Medium,Velo,Germany,1177359.8199999998,10908
+Medium,VTT,Germany,957112.92,11171
+None,Amarilla,Germany,539239.5,5905.5
+None,Carretera,Germany,569290,3722
+None,Montana,Germany,47377,4612
+None,Paseo,Germany,886054,2886
+None,Velo,Germany,396572,4712
+None,VTT,Germany,47376,3726
+High,Amarilla,Mexico,502833.84,12669
+High,Carretera,Mexico,1081180.68,11949
+High,Montana,Mexico,305296.21,15453
+High,Paseo,Mexico,3238792.29,22687
+High,Velo,Mexico,1426391.9100000001,8993
+High,VTT,Mexico,275198.76,7109
+Low,Amarilla,Mexico,1079214,4040
+Low,Carretera,Mexico,1050043.5,3101
+Low,Montana,Mexico,410148.7,7733
+Low,Paseo,Mexico,781759.99,12157
+Low,Velo,Mexico,288681.4,4135
+Low,VTT,Mexico,1978856.34,9565
+Medium,Amarilla,Mexico,1495507.5499999998,11687
+Medium,Carretera,Mexico,711327.24,9704
+Medium,Montana,Mexico,901434.4,5140
+Medium,Paseo,Mexico,3312908.1100000003,23321
+Medium,Velo,Mexico,525213.58,11919
+Medium,VTT,Mexico,918341.61,9455
+None,Carretera,Mexico,37050,2470
+None,Montana,Mexico,324450,3428
+None,Paseo,Mexico,294271,5117
+None,Velo,Mexico,10451,1493
