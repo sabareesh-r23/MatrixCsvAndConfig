@@ -1,0 +1,2 @@
+CountNonNull(Orders.Postal Code),CountNonNull(Orders.Region),Sum(Orders.Quantity),CountNonNull(Orders.Product ID),CountNonNull(Orders.Category),CountNonNull(Orders.City),CountNonNull(Orders.Ship Mode),CountNonNull(Orders.Country),CountNonNull(Orders.State),CountNonNull(Orders.Product Name),CountNonNull(Orders.Customer ID),Sum(Orders.Sales),CountNonNull(Orders.Order ID),CountNonNull(Orders.Segment)
+9994,9994,37873,9994,9994,9994,9994,9994,9994,9994,9994,2297200.8603000003,9994,9994
