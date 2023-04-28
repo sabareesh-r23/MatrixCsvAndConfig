@@ -1,0 +1,39 @@
+C04 : Multi-tier Bar.City,Sum(C04 : Multi-tier Bar.AC),Sum(C04 : Multi-tier Bar.PL)
+California,188,154
+Ohio,131,100
+New York,211,201
+New Hampshire,79,70
+South Carolina,46,40
+Hawaii,49,43
+Nevada,23,18
+New Mexico,73,69
+Maryland,125,123
+Maine,111,109
+Kansas,45,43
+Connecticut,50,53
+Texas,197,201
+Wisconsin,76,82
+Alaska,15,21
+Missouri,59,88
+New Jersey,78,109
+Virginia,69,166
+Unknown1,11,10
+Unknown2,12,10
+Unknown3,10,10
+Unknown4,11,9
+Unknown5,11,11
+Unknown6,11,9
+Unknown7,11,10
+Unknown8,11,9
+Unknown9,12,10
+Unknown10,12,11
+Unknown11,11,10
+Unknown12,11,10
+Unknown13,12,11
+Unknown14,8,10
+Unknown15,11,11
+Unknown16,12,11
+Unknown17,8,9
+Unknown18,10,8
+Unknown19,12,10
+Unknown20,12,10
