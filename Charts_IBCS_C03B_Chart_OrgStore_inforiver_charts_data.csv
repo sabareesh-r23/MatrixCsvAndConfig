@@ -1,0 +1,13 @@
+C03 : Multi-tier Column.Month Name,Sum(C03 : Multi-tier Column.AC),Sum(C03 : Multi-tier Column.PL),Sum(C03 : Multi-tier Column.FC),
+Jan,128,130,128,
+Feb,147,145,147,
+Mar,136,141,136,
+Apr,139,135,139,
+May,170,162,170,
+Jun,193,190,193,
+Jul,178,171,178,
+Aug,189,191,189,
+Sep,178,177,178,
+Oct,179,184,179,184
+Nov,189,194,189,194
+Dec,211,190,211,190
