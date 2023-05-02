@@ -1,0 +1,13 @@
+C05 : Columns with Waterfalls.Month,Sum(C05 : Columns with Waterfalls.AC),Sum(C05 : Columns with Waterfalls.PL),Sum(C05 : Columns with Waterfalls.PY),Sum(C05 : Columns with Waterfalls.FC),
+Jan,15,11,14,12,",0,0"
+Feb,13,10,16,16,",0,0"
+Mar,16,10,14,14,",0,0"
+Apr,7,10,17,9,",0,0"
+May,5,10,19,14,",0,0"
+Jun,6,10,17,11,",0,0"
+Jul,17,15,19,16,",0,0"
+Aug,11,14,22,13,",0,0"
+Sep,26,15,16,26,"26,0,26"
+Oct,22,15,17,22,"22,26,48"
+Nov,13,15,16,13,"13,48,61"
+Dec,29,19,22,29,"29,61,90"
