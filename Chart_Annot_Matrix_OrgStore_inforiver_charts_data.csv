@@ -1,0 +1,55 @@
+SA Covid Data.Group,SA Covid Data.Wave,"SA Covid Data.Days ",Sum(SA Covid Data.in %),CountNonNull(SA Covid Data.Order2)
+Cases,Delta wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),0,19
+Cases,First wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),0,7
+Cases,Omicron wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),0,1
+Deaths,Delta wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),0,67
+Deaths,First wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),0,55
+Deaths,Omicron wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),0,49
+Excess deaths,Delta wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),4,91
+Excess deaths,First wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),0,79
+Excess deaths,Omicron wave,Sat Dec 30 1899 00:00:00 GMT+0521 (India Standard Time),4,73
+Cases,Delta wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),5,20
+Cases,First wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),5,8
+Cases,Omicron wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),20,2
+Deaths,Delta wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),5,68
+Deaths,First wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),5,56
+Deaths,Omicron wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),4,50
+Excess deaths,Delta wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),10,92
+Excess deaths,First wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),5,80
+Excess deaths,Omicron wave,Mon Jan 29 1900 00:00:00 GMT+0521 (India Standard Time),10,74
+Cases,Delta wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),30,21
+Cases,First wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),30,9
+Cases,Omicron wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),45,3
+Deaths,Delta wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),20,69
+Deaths,First wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),20,57
+Deaths,Omicron wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),10,51
+Excess deaths,Delta wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),20,93
+Excess deaths,First wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),20,81
+Excess deaths,Omicron wave,Wed Feb 28 1900 00:00:00 GMT+0521 (India Standard Time),21,75
+Cases,Delta wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),65,22
+Cases,First wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),43,10
+Cases,Omicron wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),,4
+Deaths,Delta wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),60,70
+Deaths,First wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),40,58
+Deaths,Omicron wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),,52
+Excess deaths,Delta wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),60,94
+Excess deaths,First wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),40,82
+Excess deaths,Omicron wave,Fri Mar 30 1900 00:00:00 GMT+0521 (India Standard Time),,76
+Cases,Delta wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),90,23
+Cases,First wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),46,11
+Cases,Omicron wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),,5
+Deaths,Delta wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),90,71
+Deaths,First wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),45,59
+Deaths,Omicron wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),,53
+Excess deaths,Delta wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),80,95
+Excess deaths,First wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),43,83
+Excess deaths,Omicron wave,Sun Apr 29 1900 00:00:00 GMT+0521 (India Standard Time),,77
+Cases,Delta wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),100,24
+Cases,First wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),50,12
+Cases,Omicron wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),,6
+Deaths,Delta wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),100,72
+Deaths,First wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),50,60
+Deaths,Omicron wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),,54
+Excess deaths,Delta wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),100,96
+Excess deaths,First wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),45,84
+Excess deaths,Omicron wave,Tue May 29 1900 00:00:00 GMT+0521 (India Standard Time),,78
