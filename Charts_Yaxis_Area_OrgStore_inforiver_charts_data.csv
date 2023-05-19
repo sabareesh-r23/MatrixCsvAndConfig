@@ -1,0 +1,31 @@
+Opportunities.Status,Opportunities.Product Name,Sum(Opportunities.Value),Sum(Opportunities.Budget)
+Lost,Design app,4869900,6087375
+Open,Design app,2037100,2546375
+Won,Design app,10130200,12662750
+Lost,Stand-up Desks,1855400,2319250
+Open,Stand-up Desks,813300,1016625
+Won,Stand-up Desks,4279800,5349750
+Lost,All-in-One,2253800,2817250
+Open,All-in-One,994200,1242750
+Won,All-in-One,3602500,4503125
+Lost,Mobile app,2128300,2660375
+Open,Mobile app,734300,917875
+Won,Mobile app,2703300,3379125
+Lost,Tablets,272700,340875
+Open,Tablets,462300,577875
+Won,Tablets,4106300,5132875
+Lost,Ergonomic Seating,541400,676750
+Open,Ergonomic Seating,226800,283500
+Won,Ergonomic Seating,1572500,1965625
+Lost,Scanners,1444900,1806125
+Open,Scanners,337900,422375
+Won,Scanners,468200,585250
+Lost,Laser Printers,662300,827875
+Open,Laser Printers,243400,304250
+Won,Laser Printers,1110000,1387500
+Lost,Desktops,395700,494625
+Open,Desktops,224100,280125
+Won,Desktops,1085900,1357375
+Lost,Webcams,334600,418250
+Open,Webcams,134300,167875
+Won,Webcams,562300,702875

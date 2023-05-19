@@ -1,0 +1,9 @@
+Measures as Rows,Opportunities.Campaign Name,Avg(Opportunities.Discount),Sum(Opportunities.Value)
+Discount,Customer Follow-up,5.8107664233576575,1766100
+Discount,Consumer Tradeshow,5.484507042253521,1602700
+Discount,New Product Releases,4.530440414507786,2149700
+Discount,Customer Care Campaign,4.32247340425531,1921600
+Discount,Market Trends Newsletter,3.676171875000009,756400
+Discount,Monthly Newsletter,3.165672782874609,3217300
+Discount,Twitter,3.1047222222222217,557600
+Discount,,2.935862977602109,38616300

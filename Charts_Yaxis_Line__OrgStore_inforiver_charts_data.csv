@@ -1,0 +1,17 @@
+Opportunities.Decision Maker Identified,Opportunities.Campaign Name,Sum(Opportunities.Budget)
+false,,24359125
+true,,23911250
+false,Monthly Newsletter,1822750
+true,Monthly Newsletter,2198875
+false,New Product Releases,1234000
+true,New Product Releases,1453125
+false,Customer Care Campaign,1280750
+true,Customer Care Campaign,1121250
+false,Customer Follow-up,948250
+true,Customer Follow-up,1259375
+false,Consumer Tradeshow,653375
+true,Consumer Tradeshow,1350000
+false,Market Trends Newsletter,352750
+true,Market Trends Newsletter,592750
+false,Twitter,316875
+true,Twitter,380125
