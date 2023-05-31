@@ -1,0 +1,205 @@
+Quarter,Year,Brand Name,Color,YoY Sales,Units
+Q1,2013,Contoso,Black,41654,333
+Q2,2013,Contoso,Black,34676,327
+Q3,2013,Contoso,Black,97243,537
+Q4,2013,Contoso,Black,131236,839
+Q1,2014,Contoso,Black,82481,586
+Q2,2014,Contoso,Black,41347,455
+Q3,2014,Contoso,Black,50798,993
+Q4,2014,Contoso,Black,22734,1116
+Q1,2015,Contoso,Black,-17934,646
+Q2,2015,Contoso,Black,-45162,325
+Q3,2015,Contoso,Black,-88882,597
+Q4,2015,Contoso,Black,-114079,728
+Q1,2013,Contoso,Silver,91169,229
+Q2,2013,Contoso,Silver,16236,136
+Q3,2013,Contoso,Silver,89720,304
+Q4,2013,Contoso,Silver,132176,460
+Q1,2014,Contoso,Silver,55155,371
+Q2,2014,Contoso,Silver,70300,303
+Q3,2014,Contoso,Silver,53033,558
+Q4,2014,Contoso,Silver,103660,768
+Q1,2015,Contoso,Silver,-33867,362
+Q2,2015,Contoso,Silver,-55727,188
+Q3,2015,Contoso,Silver,-12053,499
+Q4,2015,Contoso,Silver,-140830,482
+Q1,2013,Contoso,Blue,2198,71
+Q2,2013,Contoso,Blue,2458,70
+Q3,2013,Contoso,Blue,5900,149
+Q4,2013,Contoso,Blue,36923,198
+Q1,2014,Contoso,Blue,28564,183
+Q2,2014,Contoso,Blue,37892,116
+Q3,2014,Contoso,Blue,54542,238
+Q4,2014,Contoso,Blue,59651,281
+Q1,2015,Contoso,Blue,31741,174
+Q2,2015,Contoso,Blue,-14091,58
+Q3,2015,Contoso,Blue,-3960,163
+Q4,2015,Contoso,Blue,-33206,201
+Q1,2013,Contoso,Red,1910,11
+Q2,2013,Contoso,Red,3520,25
+Q3,2013,Contoso,Red,2168,17
+Q4,2013,Contoso,Red,13954,67
+Q1,2014,Contoso,Red,28420,91
+Q2,2014,Contoso,Red,32140,63
+Q3,2014,Contoso,Red,66012,163
+Q4,2014,Contoso,Red,90087,200
+Q1,2015,Contoso,Red,28588,138
+Q2,2015,Contoso,Red,10655,71
+Q3,2015,Contoso,Red,2304,95
+Q4,2015,Contoso,Red,-25091,182
+Q1,2013,Contoso,Brown,20544,60
+Q2,2013,Contoso,Brown,7590,48
+Q3,2013,Contoso,Brown,38796,134
+Q4,2013,Contoso,Brown,44990,149
+Q1,2014,Contoso,Brown,9250,85
+Q2,2014,Contoso,Brown,2220,48
+Q3,2014,Contoso,Brown,-23036,56
+Q4,2014,Contoso,Brown,-15084,128
+Q1,2015,Contoso,Brown,-9943,57
+Q2,2015,Contoso,Brown,-12928,27
+Q3,2015,Contoso,Brown,1035,44
+Q4,2015,Contoso,Brown,-16947,77
+Q1,2013,Contoso,Silver Grey,,
+Q2,2013,Contoso,Silver Grey,,
+Q3,2013,Contoso,Silver Grey,,
+Q4,2013,Contoso,Silver Grey,,
+Q1,2014,Contoso,Silver Grey,6397,12
+Q2,2014,Contoso,Silver Grey,5758,13
+Q3,2014,Contoso,Silver Grey,9340,20
+Q4,2014,Contoso,Silver Grey,5182,10
+Q1,2015,Contoso,Silver Grey,-3024,7
+Q2,2015,Contoso,Silver Grey,-1066,12
+Q3,2015,Contoso,Silver Grey,-3136,13
+Q4,2015,Contoso,Silver Grey,2184,15
+Q1,2013,Adventure Works,Black,71085,170
+Q2,2013,Adventure Works,Black,72639,140
+Q3,2013,Adventure Works,Black,104717,308
+Q4,2013,Adventure Works,Black,166947,486
+Q1,2014,Adventure Works,Black,52377,278
+Q2,2014,Adventure Works,Black,-15098,146
+Q3,2014,Adventure Works,Black,-25280,295
+Q4,2014,Adventure Works,Black,-20582,469
+Q1,2015,Adventure Works,Black,-30594,226
+Q2,2015,Adventure Works,Black,-27469,83
+Q3,2015,Adventure Works,Black,-31704,218
+Q4,2015,Adventure Works,Black,-129714,224
+Q1,2013,Adventure Works,Silver,56617,100
+Q2,2013,Adventure Works,Silver,53304,108
+Q3,2013,Adventure Works,Silver,92446,166
+Q4,2013,Adventure Works,Silver,154195,331
+Q1,2014,Adventure Works,Silver,59069,223
+Q2,2014,Adventure Works,Silver,-21163,107
+Q3,2014,Adventure Works,Silver,-33006,212
+Q4,2014,Adventure Works,Silver,-55340,278
+Q1,2015,Adventure Works,Silver,-7829,173
+Q2,2015,Adventure Works,Silver,-17619,65
+Q3,2015,Adventure Works,Silver,-58254,101
+Q4,2015,Adventure Works,Silver,-75052,151
+Q1,2013,Adventure Works,Brown,37426,62
+Q2,2013,Adventure Works,Brown,43771,65
+Q3,2013,Adventure Works,Brown,93311,120
+Q4,2013,Adventure Works,Brown,77206,160
+Q1,2014,Adventure Works,Brown,44793,97
+Q2,2014,Adventure Works,Brown,-25539,45
+Q3,2014,Adventure Works,Brown,-39745,87
+Q4,2014,Adventure Works,Brown,-16951,113
+Q1,2015,Adventure Works,Brown,-26902,75
+Q2,2015,Adventure Works,Brown,-907,40
+Q3,2015,Adventure Works,Brown,-32439,53
+Q4,2015,Adventure Works,Brown,-64991,44
+Q1,2013,Adventure Works,Blue,4360,8
+Q2,2013,Adventure Works,Blue,11911,30
+Q3,2013,Adventure Works,Blue,16382,31
+Q4,2013,Adventure Works,Blue,34245,60
+Q1,2014,Adventure Works,Blue,6125,28
+Q2,2014,Adventure Works,Blue,-10497,21
+Q3,2014,Adventure Works,Blue,13599,74
+Q4,2014,Adventure Works,Blue,-19505,38
+Q1,2015,Adventure Works,Blue,5821,42
+Q2,2015,Adventure Works,Blue,2211,19
+Q3,2015,Adventure Works,Blue,-20331,50
+Q4,2015,Adventure Works,Blue,-10331,26
+Q1,2013,Adventure Works,Red,3239,19
+Q2,2013,Adventure Works,Red,-775,7
+Q3,2013,Adventure Works,Red,15624,56
+Q4,2013,Adventure Works,Red,16835,50
+Q1,2014,Adventure Works,Red,12859,30
+Q2,2014,Adventure Works,Red,2608,14
+Q3,2014,Adventure Works,Red,-19094,25
+Q4,2014,Adventure Works,Red,-1165,41
+Q1,2015,Adventure Works,Red,-11712,16
+Q2,2015,Adventure Works,Red,-2834,9
+Q3,2015,Adventure Works,Red,-9835,10
+Q4,2015,Adventure Works,Red,-4117,36
+Q1,2013,Fabrikam,Black,23729,39
+Q2,2013,Fabrikam,Black,5899,14
+Q3,2013,Fabrikam,Black,19788,28
+Q4,2013,Fabrikam,Black,66792,97
+Q1,2014,Fabrikam,Black,26041,105
+Q2,2014,Fabrikam,Black,77720,119
+Q3,2014,Fabrikam,Black,126690,226
+Q4,2014,Fabrikam,Black,79603,246
+Q1,2015,Fabrikam,Black,37741,154
+Q2,2015,Fabrikam,Black,-31641,103
+Q3,2015,Fabrikam,Black,-38357,169
+Q4,2015,Fabrikam,Black,-35656,210
+Q1,2013,Fabrikam,Blue,,
+Q2,2013,Fabrikam,Blue,,
+Q3,2013,Fabrikam,Blue,,
+Q4,2013,Fabrikam,Blue,10299,20
+Q1,2014,Fabrikam,Blue,41234,75
+Q2,2014,Fabrikam,Blue,14988,24
+Q3,2014,Fabrikam,Blue,77652,126
+Q4,2014,Fabrikam,Blue,129531,213
+Q1,2015,Fabrikam,Blue,42751,145
+Q2,2015,Fabrikam,Blue,25598,72
+Q3,2015,Fabrikam,Blue,14953,134
+Q4,2015,Fabrikam,Blue,-22678,141
+Q1,2013,Fabrikam,Silver,3738,19
+Q2,2013,Fabrikam,Silver,3755,24
+Q3,2013,Fabrikam,Silver,12036,45
+Q4,2013,Fabrikam,Silver,12707,57
+Q1,2014,Fabrikam,Silver,36288,74
+Q2,2014,Fabrikam,Silver,40852,88
+Q3,2014,Fabrikam,Silver,51418,120
+Q4,2014,Fabrikam,Silver,62196,180
+Q1,2015,Fabrikam,Silver,-1587,92
+Q2,2015,Fabrikam,Silver,-30661,49
+Q3,2015,Fabrikam,Silver,-27420,80
+Q4,2015,Fabrikam,Silver,-21785,108
+Q1,2013,Fabrikam,Red,7535,20
+Q2,2013,Fabrikam,Red,4155,14
+Q3,2013,Fabrikam,Red,6872,39
+Q4,2013,Fabrikam,Red,25618,110
+Q1,2014,Fabrikam,Red,9564,61
+Q2,2014,Fabrikam,Red,3119,24
+Q3,2014,Fabrikam,Red,14305,78
+Q4,2014,Fabrikam,Red,-14444,97
+Q1,2015,Fabrikam,Red,-8596,37
+Q2,2015,Fabrikam,Red,-3964,16
+Q3,2015,Fabrikam,Red,-9594,51
+Q4,2015,Fabrikam,Red,-12323,50
+Q1,2013,Fabrikam,Brown,,
+Q2,2013,Fabrikam,Brown,,
+Q3,2013,Fabrikam,Brown,,
+Q4,2013,Fabrikam,Brown,6213,11
+Q1,2014,Fabrikam,Brown,21413,19
+Q2,2014,Fabrikam,Brown,4495,5
+Q3,2014,Fabrikam,Brown,24350,42
+Q4,2014,Fabrikam,Brown,14107,29
+Q1,2015,Fabrikam,Brown,-13027,17
+Q2,2015,Fabrikam,Brown,6842,13
+Q3,2015,Fabrikam,Brown,805,38
+Q4,2015,Fabrikam,Brown,-83,31
+Q1,2013,Fabrikam,Silver Grey,,
+Q2,2013,Fabrikam,Silver Grey,,
+Q3,2013,Fabrikam,Silver Grey,,
+Q4,2013,Fabrikam,Silver Grey,664,2
+Q1,2014,Fabrikam,Silver Grey,2857,7
+Q2,2014,Fabrikam,Silver Grey,4281,8
+Q3,2014,Fabrikam,Silver Grey,4277,11
+Q4,2014,Fabrikam,Silver Grey,13126,27
+Q1,2015,Fabrikam,Silver Grey,-1861,3
+Q2,2015,Fabrikam,Silver Grey,-2097,6
+Q3,2015,Fabrikam,Silver Grey,522,11
+Q4,2015,Fabrikam,Silver Grey,-10154,11
