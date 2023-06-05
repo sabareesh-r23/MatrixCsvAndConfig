@@ -1,0 +1,52 @@
+Orders.Segment,Orders.Category,Orders.Sub-Category,CountNonNull(Orders.Row ID)
+Consumer,Office Supplies,Binders,780
+Corporate,Office Supplies,Binders,473
+Home Office,Office Supplies,Binders,270
+Consumer,Office Supplies,Paper,693
+Corporate,Office Supplies,Paper,408
+Home Office,Office Supplies,Paper,269
+Consumer,Office Supplies,Storage,450
+Corporate,Office Supplies,Storage,260
+Home Office,Office Supplies,Storage,136
+Consumer,Office Supplies,Art,428
+Corporate,Office Supplies,Art,218
+Home Office,Office Supplies,Art,150
+Consumer,Office Supplies,Appliances,244
+Corporate,Office Supplies,Appliances,155
+Home Office,Office Supplies,Appliances,67
+Consumer,Office Supplies,Labels,189
+Corporate,Office Supplies,Labels,102
+Home Office,Office Supplies,Labels,73
+Consumer,Office Supplies,Envelopes,129
+Corporate,Office Supplies,Envelopes,84
+Home Office,Office Supplies,Envelopes,41
+Consumer,Office Supplies,Fasteners,114
+Corporate,Office Supplies,Fasteners,59
+Home Office,Office Supplies,Fasteners,44
+Consumer,Office Supplies,Supplies,100
+Corporate,Office Supplies,Supplies,61
+Home Office,Office Supplies,Supplies,29
+Consumer,Furniture,Furnishings,494
+Corporate,Furniture,Furnishings,288
+Home Office,Furniture,Furnishings,175
+Consumer,Furniture,Chairs,329
+Corporate,Furniture,Chairs,188
+Home Office,Furniture,Chairs,100
+Consumer,Furniture,Tables,159
+Corporate,Furniture,Tables,106
+Home Office,Furniture,Tables,54
+Consumer,Furniture,Bookcases,131
+Corporate,Furniture,Bookcases,64
+Home Office,Furniture,Bookcases,33
+Consumer,Technology,Phones,451
+Corporate,Technology,Phones,272
+Home Office,Technology,Phones,166
+Consumer,Technology,Accessories,408
+Corporate,Technology,Accessories,227
+Home Office,Technology,Accessories,140
+Consumer,Technology,Machines,57
+Corporate,Technology,Machines,35
+Home Office,Technology,Machines,23
+Consumer,Technology,Copiers,35
+Corporate,Technology,Copiers,20
+Home Office,Technology,Copiers,13
