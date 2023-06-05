@@ -1,4 +1,4 @@
-Table5.Year,Table5.Region,Table5.Country,Sum(Table5.PY),Sum(Table5.AC)
+Year,Region,Country,PY,AC
 2017,Americas,USA,293000,359000
 2018,Americas,USA,341000,275000
 2019,Americas,USA,286000,321000
