@@ -1,4 +1,4 @@
-Quarter,Year,Category,City,Sum of Sales,Sum of Quantity,Sum of Profit
+Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.City,Sum(Orders.Sales),Sum(Orders.Quantity),Sum(Orders.Profit)
 Qtr 1,2014,Furniture,Akron,,,
 Qtr 2,2014,Furniture,Akron,149.232,3,3.730800000000002
 Qtr 3,2014,Furniture,Akron,,,

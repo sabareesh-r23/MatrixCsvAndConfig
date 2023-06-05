@@ -1,4 +1,4 @@
-Quarter,Year,Category,Sub-Category,Sum of Sales,Sum of Profit
+Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales),Sum(Orders.Profit)
 Qtr 1,2014,Furniture,Bookcases,2716.5009999999997,-468.0098
 Qtr 2,2014,Furniture,Bookcases,1708.7035999999998,-214.3451
 Qtr 3,2014,Furniture,Bookcases,4676.4188,310.71799999999985
