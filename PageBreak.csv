@@ -1,61 +1,61 @@
-Sheet1.Month Name,Sheet1.Country,Sheet1.Segment,Sheet1.Year,Sum(Sheet1.Profit)
-April,France,Government,2014,76600.56000000001
-February,France,Government,2014,259525.86
+Sheet1.Date.Variation.Date Hierarchy.Month,Sheet1.Country,Sheet1.Segment,Sheet1.Year,Sum(Sheet1.Profit)
 January,France,Government,2014,127153.5
+February,France,Government,2014,259525.86
 March,France,Government,2014,97016.56
-April,France,Channel Partners,2014,14186.16
-February,France,Channel Partners,2014,15666
+April,France,Government,2014,76600.56000000001
 January,France,Channel Partners,2014,13317.119999999999
+February,France,Channel Partners,2014,15666
 March,France,Channel Partners,2014,15578.64
-April,France,Enterprise,2014,5304.375
-February,France,Enterprise,2014,9020
+April,France,Channel Partners,2014,14186.16
 January,France,Enterprise,2014,-4968.75
+February,France,Enterprise,2014,9020
 March,France,Enterprise,2014,-2981.25
-April,Mexico,Government,2014,88597.05
-February,Mexico,Government,2014,144911.6
+April,France,Enterprise,2014,5304.375
 January,Mexico,Government,2014,164886.7
+February,Mexico,Government,2014,144911.6
 March,Mexico,Government,2014,116377.66
-April,Mexico,Channel Partners,2014,16554.24
-February,Mexico,Channel Partners,2014,5932.32
+April,Mexico,Government,2014,88597.05
 January,Mexico,Channel Partners,2014,19094.4
+February,Mexico,Channel Partners,2014,5932.32
 March,Mexico,Channel Partners,2014,3600
-April,Mexico,Enterprise,2014,0
-February,Mexico,Enterprise,2014,-19687.5
+April,Mexico,Channel Partners,2014,16554.24
 January,Mexico,Enterprise,2014,-4847.5
+February,Mexico,Enterprise,2014,-19687.5
 March,Mexico,Enterprise,2014,-5570
-April,Canada,Government,2014,118494.30000000002
-February,Canada,Government,2014,126822.72
+April,Mexico,Enterprise,2014,0
 January,Canada,Government,2014,114824.22
+February,Canada,Government,2014,126822.72
 March,Canada,Government,2014,61114.28
-April,Canada,Channel Partners,2014,27459.899999999998
-February,Canada,Channel Partners,2014,14876.16
+April,Canada,Government,2014,118494.30000000002
 January,Canada,Channel Partners,2014,26475.120000000003
+February,Canada,Channel Partners,2014,14876.16
 March,Canada,Channel Partners,2014,4807.92
-April,Canada,Enterprise,2014,1856.25
-February,Canada,Enterprise,2014,-2380
+April,Canada,Channel Partners,2014,27459.899999999998
 January,Canada,Enterprise,2014,-18663.75
+February,Canada,Enterprise,2014,-2380
 March,Canada,Enterprise,2014,2217.5
-April,Germany,Government,2014,75223.96
-February,Germany,Government,2014,121419.01999999999
+April,Canada,Enterprise,2014,1856.25
 January,Germany,Government,2014,54922.8
+February,Germany,Government,2014,121419.01999999999
 March,Germany,Government,2014,49401.59
-April,Germany,Channel Partners,2014,25542
-February,Germany,Channel Partners,2014,9374.4
+April,Germany,Government,2014,75223.96
 January,Germany,Channel Partners,2014,21418.56
+February,Germany,Channel Partners,2014,9374.4
 March,Germany,Channel Partners,2014,19449
-April,Germany,Enterprise,2014,21097.5
-February,Germany,Enterprise,2014,-1008.75
+April,Germany,Channel Partners,2014,25542
 January,Germany,Enterprise,2014,-27693.75
+February,Germany,Enterprise,2014,-1008.75
 March,Germany,Enterprise,2014,0
-April,United States of America,Government,2014,92096.47499999999
-February,United States of America,Government,2014,33918.22
+April,Germany,Enterprise,2014,21097.5
 January,United States of America,Government,2014,55123.215
+February,United States of America,Government,2014,33918.22
 March,United States of America,Government,2014,125266.27
-April,United States of America,Channel Partners,2014,17577
-February,United States of America,Channel Partners,2014,16499.04
+April,United States of America,Government,2014,92096.47499999999
 January,United States of America,Channel Partners,2014,15491.52
+February,United States of America,Channel Partners,2014,16499.04
 March,United States of America,Channel Partners,2014,12481.8
-April,United States of America,Enterprise,2014,-25841.25
-February,United States of America,Enterprise,2014,-6887.5
+April,United States of America,Channel Partners,2014,17577
 January,United States of America,Enterprise,2014,-4342.5
+February,United States of America,Enterprise,2014,-6887.5
 March,United States of America,Enterprise,2014,-3740
+April,United States of America,Enterprise,2014,-25841.25
