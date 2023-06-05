@@ -1,103 +1,103 @@
-financials.Product,financials.Discount Band,financials.Date,Sum(financials. Sales)
-Amarilla,High,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),140037.24000000002
-Amarilla,Low,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),1027000.4
-Amarilla,Medium,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),1347436.09
-Carretera,High,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),34999.36
-Carretera,Low,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),237892.8
-Carretera,Medium,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),29940.36
-Montana,High,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),111874.06
-Montana,Low,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),101204.97
-Montana,Medium,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),49970.689999999995
-Montana,None,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),43125
-Paseo,High,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),156683.24000000002
-Paseo,Low,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),430728.83
-Paseo,Medium,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),820455.96
-Velo,High,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),795938
-Velo,Low,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),1461249.25
-Velo,Medium,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),1110926
-Velo,None,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),43125
-VTT,High,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),722575.5
-VTT,Low,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),259735.35
-VTT,Medium,Tue Oct 01 2013 00:00:00 GMT+0530 (India Standard Time),370713
-Amarilla,High,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),7247.1
-Amarilla,Medium,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),785711.93
-Amarilla,None,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),37980
-Carretera,High,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),306387.35
-Carretera,Low,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),200499
-Carretera,Medium,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),746189.4
-Carretera,None,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),83040
-Montana,High,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),6305.76
-Montana,Low,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),35557.56
-Montana,Medium,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),36616
-Montana,None,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),123786
-Paseo,High,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),1246483.25
-Paseo,Low,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),694871.56
-Paseo,Medium,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),2121424
-Paseo,None,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),382316
-Velo,High,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),814996.86
-Velo,Medium,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),743372.4899999999
-Velo,None,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),370640
-VTT,High,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),205650.6
-VTT,Low,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),458815
-VTT,Medium,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),65013.96
-VTT,None,Sun Jun 01 2014 00:00:00 GMT+0530 (India Standard Time),45990
-Amarilla,High,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),63789.765
-Amarilla,Medium,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),33448.274999999994
-Amarilla,None,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),11802
-Carretera,High,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),957195
-Carretera,Low,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),17525.97
-Carretera,Medium,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),5217.03
-Montana,High,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),39237
-Montana,Low,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),27234.899999999998
-Montana,Medium,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),442574.25
-Montana,None,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),333187.5
-Paseo,High,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),730415.01
-Paseo,Low,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),1759297.23
-Paseo,Medium,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),408386.25
-Paseo,None,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),4404
-Velo,High,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),1265625
-Velo,Medium,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),1914766
-VTT,High,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),80783.4
-VTT,Medium,Tue Jul 01 2014 00:00:00 GMT+0530 (India Standard Time),8031.599999999999
-Amarilla,High,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),220261.66
-Amarilla,Medium,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),404176.5
-Amarilla,None,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),8001
-Carretera,High,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),1270550.5
-Carretera,Low,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),1081337.7
-Carretera,Medium,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),608499
-Montana,High,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),177804.03999999998
-Montana,Low,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),641988
-Montana,Medium,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),645252.6
-Paseo,High,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),756274.46
-Paseo,Low,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),288066.85000000003
-Paseo,Medium,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),155424.65
-Paseo,None,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),8001
-Velo,High,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),333275.36000000004
-Velo,Low,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),1992567.85
-Velo,Medium,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),543173.85
-VTT,High,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),985640.5
-VTT,Low,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),2202343.5
-VTT,Medium,Wed Oct 01 2014 00:00:00 GMT+0530 (India Standard Time),53180.899999999994
-Amarilla,High,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),287077.95
-Amarilla,Low,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),563304
-Amarilla,Medium,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),924109.8
-Amarilla,None,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),9225
-Carretera,High,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),31355.6
-Carretera,Low,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),1817007.5
-Carretera,Medium,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),462211.82
-Carretera,None,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),529550
-Montana,High,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),86437.95
-Montana,Low,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),499461.25
-Montana,Medium,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),327970.55
-Montana,None,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),9225
-Paseo,High,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),73525.92
-Paseo,Low,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),3239229.8899999997
-Paseo,Medium,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),835033.15
-Paseo,None,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),565890
-Velo,High,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),250208.52
-Velo,Low,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),25154.64
-Velo,Medium,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),952310.22
-VTT,High,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),55312.99999999999
-VTT,Low,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),334302.5
-VTT,Medium,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),84543.64
-VTT,None,Mon Dec 01 2014 00:00:00 GMT+0530 (India Standard Time),36340
+0,1,2,Sum(financials. Sales),
+[object Object],[object Object],[object Object],140037.24000000002,464780.55500000005
+[object Object],[object Object],[object Object],7247.1,432676.9918181818
+[object Object],[object Object],[object Object],63789.765,450162.23222222226
+[object Object],[object Object],[object Object],220261.66,651358.9431578948
+[object Object],[object Object],[object Object],287077.95,521686.4304347827
+[object Object],[object Object],[object Object],34999.36,464780.55500000005
+[object Object],[object Object],[object Object],306387.35,432676.9918181818
+[object Object],[object Object],[object Object],957195,450162.23222222226
+[object Object],[object Object],[object Object],1270550.5,651358.9431578948
+[object Object],[object Object],[object Object],31355.6,521686.4304347827
+[object Object],[object Object],[object Object],111874.06,464780.55500000005
+[object Object],[object Object],[object Object],6305.76,432676.9918181818
+[object Object],[object Object],[object Object],39237,450162.23222222226
+[object Object],[object Object],[object Object],177804.03999999998,651358.9431578948
+[object Object],[object Object],[object Object],86437.95,521686.4304347827
+[object Object],[object Object],[object Object],156683.24000000002,464780.55500000005
+[object Object],[object Object],[object Object],1246483.25,432676.9918181818
+[object Object],[object Object],[object Object],730415.01,450162.23222222226
+[object Object],[object Object],[object Object],756274.46,651358.9431578948
+[object Object],[object Object],[object Object],73525.92,521686.4304347827
+[object Object],[object Object],[object Object],795938,464780.55500000005
+[object Object],[object Object],[object Object],814996.86,432676.9918181818
+[object Object],[object Object],[object Object],1265625,450162.23222222226
+[object Object],[object Object],[object Object],333275.36000000004,651358.9431578948
+[object Object],[object Object],[object Object],250208.52,521686.4304347827
+[object Object],[object Object],[object Object],722575.5,464780.55500000005
+[object Object],[object Object],[object Object],205650.6,432676.9918181818
+[object Object],[object Object],[object Object],80783.4,450162.23222222226
+[object Object],[object Object],[object Object],985640.5,651358.9431578948
+[object Object],[object Object],[object Object],55312.99999999999,521686.4304347827
+[object Object],[object Object],[object Object],1027000.4,464780.55500000005
+[object Object],[object Object],[object Object],563304,432676.9918181818
+[object Object],[object Object],[object Object],237892.8,464780.55500000005
+[object Object],[object Object],[object Object],200499,432676.9918181818
+[object Object],[object Object],[object Object],17525.97,450162.23222222226
+[object Object],[object Object],[object Object],1081337.7,651358.9431578948
+[object Object],[object Object],[object Object],1817007.5,521686.4304347827
+[object Object],[object Object],[object Object],101204.97,464780.55500000005
+[object Object],[object Object],[object Object],35557.56,432676.9918181818
+[object Object],[object Object],[object Object],27234.899999999998,450162.23222222226
+[object Object],[object Object],[object Object],641988,651358.9431578948
+[object Object],[object Object],[object Object],499461.25,521686.4304347827
+[object Object],[object Object],[object Object],430728.83,464780.55500000005
+[object Object],[object Object],[object Object],694871.56,432676.9918181818
+[object Object],[object Object],[object Object],1759297.23,450162.23222222226
+[object Object],[object Object],[object Object],288066.85000000003,651358.9431578948
+[object Object],[object Object],[object Object],3239229.8899999997,521686.4304347827
+[object Object],[object Object],[object Object],1461249.25,464780.55500000005
+[object Object],[object Object],[object Object],1992567.85,432676.9918181818
+[object Object],[object Object],[object Object],25154.64,450162.23222222226
+[object Object],[object Object],[object Object],259735.35,464780.55500000005
+[object Object],[object Object],[object Object],458815,432676.9918181818
+[object Object],[object Object],[object Object],2202343.5,450162.23222222226
+[object Object],[object Object],[object Object],334302.5,651358.9431578948
+[object Object],[object Object],[object Object],1347436.09,464780.55500000005
+[object Object],[object Object],[object Object],785711.93,432676.9918181818
+[object Object],[object Object],[object Object],33448.274999999994,450162.23222222226
+[object Object],[object Object],[object Object],404176.5,651358.9431578948
+[object Object],[object Object],[object Object],924109.8,521686.4304347827
+[object Object],[object Object],[object Object],29940.36,464780.55500000005
+[object Object],[object Object],[object Object],746189.4,432676.9918181818
+[object Object],[object Object],[object Object],5217.03,450162.23222222226
+[object Object],[object Object],[object Object],608499,651358.9431578948
+[object Object],[object Object],[object Object],462211.82,521686.4304347827
+[object Object],[object Object],[object Object],49970.689999999995,464780.55500000005
+[object Object],[object Object],[object Object],36616,432676.9918181818
+[object Object],[object Object],[object Object],442574.25,450162.23222222226
+[object Object],[object Object],[object Object],645252.6,651358.9431578948
+[object Object],[object Object],[object Object],327970.55,521686.4304347827
+[object Object],[object Object],[object Object],820455.96,464780.55500000005
+[object Object],[object Object],[object Object],2121424,432676.9918181818
+[object Object],[object Object],[object Object],408386.25,450162.23222222226
+[object Object],[object Object],[object Object],155424.65,651358.9431578948
+[object Object],[object Object],[object Object],835033.15,521686.4304347827
+[object Object],[object Object],[object Object],1110926,464780.55500000005
+[object Object],[object Object],[object Object],743372.4899999999,432676.9918181818
+[object Object],[object Object],[object Object],1914766,450162.23222222226
+[object Object],[object Object],[object Object],543173.85,651358.9431578948
+[object Object],[object Object],[object Object],952310.22,521686.4304347827
+[object Object],[object Object],[object Object],370713,464780.55500000005
+[object Object],[object Object],[object Object],65013.96,432676.9918181818
+[object Object],[object Object],[object Object],8031.599999999999,450162.23222222226
+[object Object],[object Object],[object Object],53180.899999999994,651358.9431578948
+[object Object],[object Object],[object Object],84543.64,521686.4304347827
+[object Object],[object Object],[object Object],37980,464780.55500000005
+[object Object],[object Object],[object Object],11802,432676.9918181818
+[object Object],[object Object],[object Object],8001,450162.23222222226
+[object Object],[object Object],[object Object],9225,651358.9431578948
+[object Object],[object Object],[object Object],83040,464780.55500000005
+[object Object],[object Object],[object Object],529550,432676.9918181818
+[object Object],[object Object],[object Object],43125,464780.55500000005
+[object Object],[object Object],[object Object],123786,432676.9918181818
+[object Object],[object Object],[object Object],333187.5,450162.23222222226
+[object Object],[object Object],[object Object],9225,651358.9431578948
+[object Object],[object Object],[object Object],382316,464780.55500000005
+[object Object],[object Object],[object Object],4404,432676.9918181818
+[object Object],[object Object],[object Object],8001,450162.23222222226
+[object Object],[object Object],[object Object],565890,651358.9431578948
+[object Object],[object Object],[object Object],43125,464780.55500000005
+[object Object],[object Object],[object Object],370640,432676.9918181818
+[object Object],[object Object],[object Object],45990,464780.55500000005
+[object Object],[object Object],[object Object],36340,432676.9918181818
