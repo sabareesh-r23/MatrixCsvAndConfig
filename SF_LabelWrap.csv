@@ -1,6 +1,6 @@
-Index,Hypothetical change in 2020 assumption,Description,Value Column Name,Value
-"2","No morbidity improvement","morbidity improvement","Estimated increase to projected present value of future cash flows (pre-tax)","3400"
-"5","Based on company 
+GE_Table4.Index,GE_Table4.Hypothetical change in 2020 assumption,GE_Table4.Description,Sum(GE_Table4.Estimated increase to projected present value of future cash flows (pre-tax))
+2,No morbidity improvement,morbidity improvement,3400
+5,"Based on company 
 experience Varies by block, attained 
 age and benefit period; average 0.5 - 1.15% Based on company 
 experience","Total terminations:
@@ -8,24 +8,24 @@ Long-term care
 insurance mortality Long-term care 
 insurance lapse rate Long-term care 
 insurance benefit 
-exhaustion","Estimated increase to projected present value of future cash flows (pre-tax)","1100"
-"3","5% increase in dollar amount of paid claims","Long-term care insurance morbidity","Estimated increase to projected present value of future cash flows (pre-tax)","1000"
-"7","25 basis point reduction","Discount rate: Overall discount rate","Estimated increase to projected present value of future cash flows (pre-tax)","900"
-"1","25 basis point reduction","Long-term care insurance","Estimated increase to projected present value of future cash flows (pre-tax)","600"
-"6","25% adverse change in 
+exhaustion",1100
+3,5% increase in dollar amount of paid claims,Long-term care insurance morbidity,1000
+7,25 basis point reduction,Discount rate: Overall discount rate,900
+1,25 basis point reduction,Long-term care insurance,600
+6,"25% adverse change in 
 premium rate increase 
 success rate","Long-term care insurance 
 future premium rate 
-increases","Estimated increase to projected present value of future cash flows (pre-tax)","500"
-"4","1.0% per year for 10 
+increases",500
+4,"1.0% per year for 10 
 years with annual 
 improvement graded to 
 0% over next 10 years","Long-term care insurance 
-mortality improvement","Estimated increase to projected present value of future cash flows (pre-tax)","400"
-"10","5% increase in mortality","Life insurance mortality","Estimated increase to projected present value of future cash flows (pre-tax)","300"
-"8","25 basis point reduction; 
+mortality improvement",400
+10,5% increase in mortality,Life insurance mortality,300
+8," 25 basis point reduction; 
 grading to a long-term 
 average investment yield 
-of 5.8%","Reinvestment rate","Estimated increase to projected present value of future cash flows (pre-tax)","100"
-"9","5% decrease in mortality","Structured settlement 
-annuity mortality","Estimated increase to projected present value of future cash flows (pre-tax)","100"
+of 5.8%",Reinvestment rate,100
+9,5% decrease in mortality,"Structured settlement 
+annuity mortality",100
