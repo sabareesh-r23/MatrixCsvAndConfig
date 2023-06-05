@@ -1,385 +1,97 @@
-Region,Country,City,Year,Value Column Name,Value
-"Americas","USA","California","2017","PY","90000"
-"Americas","USA","California","2017","AC","131000"
-"Americas","USA","California","2017","AC - PY","41000"
-"Americas","USA","California","2017","(AC - PY)%","0.45555555555555555"
-"Americas","USA","California","2018","PY","81000"
-"Americas","USA","California","2018","AC","131000"
-"Americas","USA","California","2018","AC - PY","50000"
-"Americas","USA","California","2018","(AC - PY)%","0.6172839506172839"
-"Americas","USA","California","2019","PY","139000"
-"Americas","USA","California","2019","AC","113000"
-"Americas","USA","California","2019","AC - PY","-26000"
-"Americas","USA","California","2019","(AC - PY)%","-0.18705035971223022"
-"Americas","USA","New York","2017","PY","92000"
-"Americas","USA","New York","2017","AC","116000"
-"Americas","USA","New York","2017","AC - PY","24000"
-"Americas","USA","New York","2017","(AC - PY)%","0.2608695652173913"
-"Americas","USA","New York","2018","PY","119000"
-"Americas","USA","New York","2018","AC","99000"
-"Americas","USA","New York","2018","AC - PY","-20000"
-"Americas","USA","New York","2018","(AC - PY)%","-0.16806722689075632"
-"Americas","USA","New York","2019","PY","96000"
-"Americas","USA","New York","2019","AC","91000"
-"Americas","USA","New York","2019","AC - PY","-5000"
-"Americas","USA","New York","2019","(AC - PY)%","-0.05208333333333334"
-"Americas","USA","Texas","2017","PY","111000"
-"Americas","USA","Texas","2017","AC","112000"
-"Americas","USA","Texas","2017","AC - PY","1000"
-"Americas","USA","Texas","2017","(AC - PY)%","0.009009009009009009"
-"Americas","USA","Texas","2018","PY","141000"
-"Americas","USA","Texas","2018","AC","45000"
-"Americas","USA","Texas","2018","AC - PY","-96000"
-"Americas","USA","Texas","2018","(AC - PY)%","-0.6808510638297872"
-"Americas","USA","Texas","2019","PY","51000"
-"Americas","USA","Texas","2019","AC","117000"
-"Americas","USA","Texas","2019","AC - PY","66000"
-"Americas","USA","Texas","2019","(AC - PY)%","1.2941176470588234"
-"Americas","Brazil","Rio","2017","PY","104000"
-"Americas","Brazil","Rio","2017","AC","138000"
-"Americas","Brazil","Rio","2017","AC - PY","34000"
-"Americas","Brazil","Rio","2017","(AC - PY)%","0.3269230769230769"
-"Americas","Brazil","Rio","2018","PY","78000"
-"Americas","Brazil","Rio","2018","AC","105000"
-"Americas","Brazil","Rio","2018","AC - PY","27000"
-"Americas","Brazil","Rio","2018","(AC - PY)%","0.34615384615384615"
-"Americas","Brazil","Rio","2019","PY","131000"
-"Americas","Brazil","Rio","2019","AC","99000"
-"Americas","Brazil","Rio","2019","AC - PY","-32000"
-"Americas","Brazil","Rio","2019","(AC - PY)%","-0.24427480916030533"
-"Americas","Brazil","Manaus","2017","PY","72000"
-"Americas","Brazil","Manaus","2017","AC","56000"
-"Americas","Brazil","Manaus","2017","AC - PY","-16000"
-"Americas","Brazil","Manaus","2017","(AC - PY)%","-0.2222222222222222"
-"Americas","Brazil","Manaus","2018","PY","-122000"
-"Americas","Brazil","Manaus","2018","AC","129000"
-"Americas","Brazil","Manaus","2018","AC - PY","251000"
-"Americas","Brazil","Manaus","2018","(AC - PY)%","2.057377049180328"
-"Americas","Brazil","Manaus","2019","PY","55000"
-"Americas","Brazil","Manaus","2019","AC","147000"
-"Americas","Brazil","Manaus","2019","AC - PY","92000"
-"Americas","Brazil","Manaus","2019","(AC - PY)%","1.6727272727272726"
-"Americas","Brazil","Salvador","2017","PY","121000"
-"Americas","Brazil","Salvador","2017","AC","39000"
-"Americas","Brazil","Salvador","2017","AC - PY","-82000"
-"Americas","Brazil","Salvador","2017","(AC - PY)%","-0.6776859504132231"
-"Americas","Brazil","Salvador","2018","PY","0"
-"Americas","Brazil","Salvador","2018","AC","46000"
-"Americas","Brazil","Salvador","2018","AC - PY","46000"
-"Americas","Brazil","Salvador","2018","(AC - PY)%",
-"Americas","Brazil","Salvador","2019","PY","52000"
-"Americas","Brazil","Salvador","2019","AC","121000"
-"Americas","Brazil","Salvador","2019","AC - PY","69000"
-"Americas","Brazil","Salvador","2019","(AC - PY)%","1.3269230769230769"
-"Americas","Canada","Vancouver","2017","PY","42000"
-"Americas","Canada","Vancouver","2017","AC","110000"
-"Americas","Canada","Vancouver","2017","AC - PY","68000"
-"Americas","Canada","Vancouver","2017","(AC - PY)%","1.619047619047619"
-"Americas","Canada","Vancouver","2018","PY","102000"
-"Americas","Canada","Vancouver","2018","AC","134000"
-"Americas","Canada","Vancouver","2018","AC - PY","32000"
-"Americas","Canada","Vancouver","2018","(AC - PY)%","0.3137254901960784"
-"Americas","Canada","Vancouver","2019","PY","111000"
-"Americas","Canada","Vancouver","2019","AC","150000"
-"Americas","Canada","Vancouver","2019","AC - PY","39000"
-"Americas","Canada","Vancouver","2019","(AC - PY)%","0.35135135135135137"
-"Americas","Canada","Toronto","2017","PY","59000"
-"Americas","Canada","Toronto","2017","AC","78000"
-"Americas","Canada","Toronto","2017","AC - PY","19000"
-"Americas","Canada","Toronto","2017","(AC - PY)%","0.3220338983050847"
-"Americas","Canada","Toronto","2018","PY","0"
-"Americas","Canada","Toronto","2018","AC","96000"
-"Americas","Canada","Toronto","2018","AC - PY","96000"
-"Americas","Canada","Toronto","2018","(AC - PY)%",
-"Americas","Canada","Toronto","2019","PY","35000"
-"Americas","Canada","Toronto","2019","AC","47000"
-"Americas","Canada","Toronto","2019","AC - PY","12000"
-"Americas","Canada","Toronto","2019","(AC - PY)%","0.34285714285714286"
-"Americas","Canada","Montreal","2017","PY","107000"
-"Americas","Canada","Montreal","2017","AC","51000"
-"Americas","Canada","Montreal","2017","AC - PY","-56000"
-"Americas","Canada","Montreal","2017","(AC - PY)%","-0.5233644859813084"
-"Americas","Canada","Montreal","2018","PY","-120000"
-"Americas","Canada","Montreal","2018","AC","49000"
-"Americas","Canada","Montreal","2018","AC - PY","169000"
-"Americas","Canada","Montreal","2018","(AC - PY)%","1.4083333333333334"
-"Americas","Canada","Montreal","2019","PY","86000"
-"Americas","Canada","Montreal","2019","AC","39000"
-"Americas","Canada","Montreal","2019","AC - PY","-47000"
-"Americas","Canada","Montreal","2019","(AC - PY)%","-0.5465116279069767"
-"Americas","Other","Chicago","2017","PY","111000"
-"Americas","Other","Chicago","2017","AC","97000"
-"Americas","Other","Chicago","2017","AC - PY","-14000"
-"Americas","Other","Chicago","2017","(AC - PY)%","-0.12612612612612611"
-"Americas","Other","Chicago","2018","PY","93000"
-"Americas","Other","Chicago","2018","AC","67000"
-"Americas","Other","Chicago","2018","AC - PY","-26000"
-"Americas","Other","Chicago","2018","(AC - PY)%","-0.27956989247311825"
-"Americas","Other","Chicago","2019","PY","85000"
-"Americas","Other","Chicago","2019","AC","125000"
-"Americas","Other","Chicago","2019","AC - PY","40000"
-"Americas","Other","Chicago","2019","(AC - PY)%","0.4705882352941176"
-"Europe","Poland","Warsaw","2017","PY","0"
-"Europe","Poland","Warsaw","2017","AC","103000"
-"Europe","Poland","Warsaw","2017","AC - PY","103000"
-"Europe","Poland","Warsaw","2017","(AC - PY)%",
-"Europe","Poland","Warsaw","2018","PY","103000"
-"Europe","Poland","Warsaw","2018","AC","99000"
-"Europe","Poland","Warsaw","2018","AC - PY","-4000"
-"Europe","Poland","Warsaw","2018","(AC - PY)%","-0.038834951456310676"
-"Europe","Poland","Warsaw","2019","PY","144000"
-"Europe","Poland","Warsaw","2019","AC","118000"
-"Europe","Poland","Warsaw","2019","AC - PY","-26000"
-"Europe","Poland","Warsaw","2019","(AC - PY)%","-0.18055555555555552"
-"Europe","Poland","Lublin","2017","PY","0"
-"Europe","Poland","Lublin","2017","AC","0"
-"Europe","Poland","Lublin","2017","AC - PY","0"
-"Europe","Poland","Lublin","2017","(AC - PY)%",
-"Europe","Poland","Lublin","2018","PY","79000"
-"Europe","Poland","Lublin","2018","AC","81000"
-"Europe","Poland","Lublin","2018","AC - PY","2000"
-"Europe","Poland","Lublin","2018","(AC - PY)%","0.025316455696202535"
-"Europe","Poland","Lublin","2019","PY","128000"
-"Europe","Poland","Lublin","2019","AC","121000"
-"Europe","Poland","Lublin","2019","AC - PY","-7000"
-"Europe","Poland","Lublin","2019","(AC - PY)%","-0.0546875"
-"Europe","Sweden","Stockholm","2017","PY","84000"
-"Europe","Sweden","Stockholm","2017","AC","115000"
-"Europe","Sweden","Stockholm","2017","AC - PY","31000"
-"Europe","Sweden","Stockholm","2017","(AC - PY)%","0.36904761904761907"
-"Europe","Sweden","Stockholm","2018","PY","131000"
-"Europe","Sweden","Stockholm","2018","AC",
-"Europe","Sweden","Stockholm","2018","AC - PY","-131000"
-"Europe","Sweden","Stockholm","2018","(AC - PY)%","-1"
-"Europe","Sweden","Stockholm","2019","PY","117000"
-"Europe","Sweden","Stockholm","2019","AC","139000"
-"Europe","Sweden","Stockholm","2019","AC - PY","22000"
-"Europe","Sweden","Stockholm","2019","(AC - PY)%","0.18803418803418803"
-"Europe","Sweden","Gothenburg","2017","PY","112000"
-"Europe","Sweden","Gothenburg","2017","AC","0"
-"Europe","Sweden","Gothenburg","2017","AC - PY","-112000"
-"Europe","Sweden","Gothenburg","2017","(AC - PY)%","-1"
-"Europe","Sweden","Gothenburg","2018","PY","130000"
-"Europe","Sweden","Gothenburg","2018","AC",
-"Europe","Sweden","Gothenburg","2018","AC - PY","-130000"
-"Europe","Sweden","Gothenburg","2018","(AC - PY)%","-1"
-"Europe","Sweden","Gothenburg","2019","PY","101000"
-"Europe","Sweden","Gothenburg","2019","AC","141000"
-"Europe","Sweden","Gothenburg","2019","AC - PY","40000"
-"Europe","Sweden","Gothenburg","2019","(AC - PY)%","0.39603960396039606"
-"Europe","Sweden","Malmo","2017","PY","80000"
-"Europe","Sweden","Malmo","2017","AC","61000"
-"Europe","Sweden","Malmo","2017","AC - PY","-19000"
-"Europe","Sweden","Malmo","2017","(AC - PY)%","-0.2375"
-"Europe","Sweden","Malmo","2018","PY","84000"
-"Europe","Sweden","Malmo","2018","AC",
-"Europe","Sweden","Malmo","2018","AC - PY","-84000"
-"Europe","Sweden","Malmo","2018","(AC - PY)%","-1"
-"Europe","Sweden","Malmo","2019","PY","101000"
-"Europe","Sweden","Malmo","2019","AC","60000"
-"Europe","Sweden","Malmo","2019","AC - PY","-41000"
-"Europe","Sweden","Malmo","2019","(AC - PY)%","-0.40594059405940597"
-"Europe","Belgium","Flanders","2017","PY","118000"
-"Europe","Belgium","Flanders","2017","AC","88000"
-"Europe","Belgium","Flanders","2017","AC - PY","-30000"
-"Europe","Belgium","Flanders","2017","(AC - PY)%","-0.2542372881355932"
-"Europe","Belgium","Flanders","2018","PY","95000"
-"Europe","Belgium","Flanders","2018","AC","134000"
-"Europe","Belgium","Flanders","2018","AC - PY","39000"
-"Europe","Belgium","Flanders","2018","(AC - PY)%","0.4105263157894737"
-"Europe","Belgium","Flanders","2019","PY","128000"
-"Europe","Belgium","Flanders","2019","AC","108000"
-"Europe","Belgium","Flanders","2019","AC - PY","-20000"
-"Europe","Belgium","Flanders","2019","(AC - PY)%","-0.15625"
-"Europe","Belgium","Brussels","2017","PY","0"
-"Europe","Belgium","Brussels","2017","AC","0"
-"Europe","Belgium","Brussels","2017","AC - PY","0"
-"Europe","Belgium","Brussels","2017","(AC - PY)%",
-"Europe","Belgium","Brussels","2018","PY","78000"
-"Europe","Belgium","Brussels","2018","AC","64000"
-"Europe","Belgium","Brussels","2018","AC - PY","-14000"
-"Europe","Belgium","Brussels","2018","(AC - PY)%","-0.1794871794871795"
-"Europe","Belgium","Brussels","2019","PY","112000"
-"Europe","Belgium","Brussels","2019","AC","119000"
-"Europe","Belgium","Brussels","2019","AC - PY","7000"
-"Europe","Belgium","Brussels","2019","(AC - PY)%","0.0625"
-"Europe","Germany","Frankfurt","2017","PY","0"
-"Europe","Germany","Frankfurt","2017","AC","107000"
-"Europe","Germany","Frankfurt","2017","AC - PY","107000"
-"Europe","Germany","Frankfurt","2017","(AC - PY)%",
-"Europe","Germany","Frankfurt","2018","PY","100000"
-"Europe","Germany","Frankfurt","2018","AC","91000"
-"Europe","Germany","Frankfurt","2018","AC - PY","-9000"
-"Europe","Germany","Frankfurt","2018","(AC - PY)%","-0.09"
-"Europe","Germany","Frankfurt","2019","PY","142000"
-"Europe","Germany","Frankfurt","2019","AC","91000"
-"Europe","Germany","Frankfurt","2019","AC - PY","-51000"
-"Europe","Germany","Frankfurt","2019","(AC - PY)%","-0.3591549295774648"
-"Europe","Germany","Berlin","2017","PY","0"
-"Europe","Germany","Berlin","2017","AC","0"
-"Europe","Germany","Berlin","2017","AC - PY","0"
-"Europe","Germany","Berlin","2017","(AC - PY)%",
-"Europe","Germany","Berlin","2018","PY",
-"Europe","Germany","Berlin","2018","AC",
-"Europe","Germany","Berlin","2018","AC - PY",
-"Europe","Germany","Berlin","2018","(AC - PY)%",
-"Europe","Germany","Berlin","2019","PY","48000"
-"Europe","Germany","Berlin","2019","AC","128000"
-"Europe","Germany","Berlin","2019","AC - PY","80000"
-"Europe","Germany","Berlin","2019","(AC - PY)%","1.666666666666667"
-"Europe","France","Marseille","2017","PY","107000"
-"Europe","France","Marseille","2017","AC","118000"
-"Europe","France","Marseille","2017","AC - PY","11000"
-"Europe","France","Marseille","2017","(AC - PY)%","0.10280373831775699"
-"Europe","France","Marseille","2018","PY","0"
-"Europe","France","Marseille","2018","AC","0"
-"Europe","France","Marseille","2018","AC - PY","0"
-"Europe","France","Marseille","2018","(AC - PY)%",
-"Europe","France","Marseille","2019","PY","101000"
-"Europe","France","Marseille","2019","AC","44000"
-"Europe","France","Marseille","2019","AC - PY","-57000"
-"Europe","France","Marseille","2019","(AC - PY)%","-0.5643564356435643"
-"Europe","France","Paris","2017","PY","89000"
-"Europe","France","Paris","2017","AC","0"
-"Europe","France","Paris","2017","AC - PY","-89000"
-"Europe","France","Paris","2017","(AC - PY)%","-1"
-"Europe","France","Paris","2018","PY","0"
-"Europe","France","Paris","2018","AC","0"
-"Europe","France","Paris","2018","AC - PY","0"
-"Europe","France","Paris","2018","(AC - PY)%",
-"Europe","France","Paris","2019","PY","51000"
-"Europe","France","Paris","2019","AC","131000"
-"Europe","France","Paris","2019","AC - PY","80000"
-"Europe","France","Paris","2019","(AC - PY)%","1.5686274509803924"
-"Europe","Other","Finland","2017","PY","77000"
-"Europe","Other","Finland","2017","AC","142000"
-"Europe","Other","Finland","2017","AC - PY","65000"
-"Europe","Other","Finland","2017","(AC - PY)%","0.8441558441558441"
-"Europe","Other","Finland","2018","PY","0"
-"Europe","Other","Finland","2018","AC","41000"
-"Europe","Other","Finland","2018","AC - PY","41000"
-"Europe","Other","Finland","2018","(AC - PY)%",
-"Europe","Other","Finland","2019","PY","50000"
-"Europe","Other","Finland","2019","AC","83000"
-"Europe","Other","Finland","2019","AC - PY","33000"
-"Europe","Other","Finland","2019","(AC - PY)%","0.66"
-"Asia-Pacific","Australia","Brisbane","2017","PY","266000"
-"Asia-Pacific","Australia","Brisbane","2017","AC","231000"
-"Asia-Pacific","Australia","Brisbane","2017","AC - PY","-35000"
-"Asia-Pacific","Australia","Brisbane","2017","(AC - PY)%","-0.13157894736842105"
-"Asia-Pacific","Australia","Brisbane","2018","PY","46000"
-"Asia-Pacific","Australia","Brisbane","2018","AC","149000"
-"Asia-Pacific","Australia","Brisbane","2018","AC - PY","103000"
-"Asia-Pacific","Australia","Brisbane","2018","(AC - PY)%","2.239130434782609"
-"Asia-Pacific","Australia","Brisbane","2019","PY","70000"
-"Asia-Pacific","Australia","Brisbane","2019","AC","38000"
-"Asia-Pacific","Australia","Brisbane","2019","AC - PY","-32000"
-"Asia-Pacific","Australia","Brisbane","2019","(AC - PY)%","-0.45714285714285713"
-"Asia-Pacific","Australia","Sydney","2017","PY","54000"
-"Asia-Pacific","Australia","Sydney","2017","AC","62000"
-"Asia-Pacific","Australia","Sydney","2017","AC - PY","8000"
-"Asia-Pacific","Australia","Sydney","2017","(AC - PY)%","0.14814814814814814"
-"Asia-Pacific","Australia","Sydney","2018","PY","38000"
-"Asia-Pacific","Australia","Sydney","2018","AC","117000"
-"Asia-Pacific","Australia","Sydney","2018","AC - PY","79000"
-"Asia-Pacific","Australia","Sydney","2018","(AC - PY)%","2.0789473684210527"
-"Asia-Pacific","Australia","Sydney","2019","PY","147000"
-"Asia-Pacific","Australia","Sydney","2019","AC","42000"
-"Asia-Pacific","Australia","Sydney","2019","AC - PY","-105000"
-"Asia-Pacific","Australia","Sydney","2019","(AC - PY)%","-0.7142857142857143"
-"Asia-Pacific","Australia","Melbourne","2017","PY","9000"
-"Asia-Pacific","Australia","Melbourne","2017","AC","11000"
-"Asia-Pacific","Australia","Melbourne","2017","AC - PY","2000"
-"Asia-Pacific","Australia","Melbourne","2017","(AC - PY)%","0.2222222222222222"
-"Asia-Pacific","Australia","Melbourne","2018","PY","96000"
-"Asia-Pacific","Australia","Melbourne","2018","AC","69000"
-"Asia-Pacific","Australia","Melbourne","2018","AC - PY","-27000"
-"Asia-Pacific","Australia","Melbourne","2018","(AC - PY)%","-0.28125"
-"Asia-Pacific","Australia","Melbourne","2019","PY",
-"Asia-Pacific","Australia","Melbourne","2019","AC",
-"Asia-Pacific","Australia","Melbourne","2019","AC - PY",
-"Asia-Pacific","Australia","Melbourne","2019","(AC - PY)%",
-"Asia-Pacific","Japan","Tokyo","2017","PY","112000"
-"Asia-Pacific","Japan","Tokyo","2017","AC","119000"
-"Asia-Pacific","Japan","Tokyo","2017","AC - PY","7000"
-"Asia-Pacific","Japan","Tokyo","2017","(AC - PY)%","0.0625"
-"Asia-Pacific","Japan","Tokyo","2018","PY","59000"
-"Asia-Pacific","Japan","Tokyo","2018","AC","89000"
-"Asia-Pacific","Japan","Tokyo","2018","AC - PY","30000"
-"Asia-Pacific","Japan","Tokyo","2018","(AC - PY)%","0.5084745762711864"
-"Asia-Pacific","Japan","Tokyo","2019","PY","139000"
-"Asia-Pacific","Japan","Tokyo","2019","AC","91000"
-"Asia-Pacific","Japan","Tokyo","2019","AC - PY","-48000"
-"Asia-Pacific","Japan","Tokyo","2019","(AC - PY)%","-0.3453237410071942"
-"Asia-Pacific","Japan","Hiroshima","2017","PY","117000"
-"Asia-Pacific","Japan","Hiroshima","2017","AC","40000"
-"Asia-Pacific","Japan","Hiroshima","2017","AC - PY","-77000"
-"Asia-Pacific","Japan","Hiroshima","2017","(AC - PY)%","-0.658119658119658"
-"Asia-Pacific","Japan","Hiroshima","2018","PY","62000"
-"Asia-Pacific","Japan","Hiroshima","2018","AC","92000"
-"Asia-Pacific","Japan","Hiroshima","2018","AC - PY","30000"
-"Asia-Pacific","Japan","Hiroshima","2018","(AC - PY)%","0.4838709677419355"
-"Asia-Pacific","Japan","Hiroshima","2019","PY","67000"
-"Asia-Pacific","Japan","Hiroshima","2019","AC","102000"
-"Asia-Pacific","Japan","Hiroshima","2019","AC - PY","35000"
-"Asia-Pacific","Japan","Hiroshima","2019","(AC - PY)%","0.5223880597014925"
-"Asia-Pacific","Japan","Yokohoma","2017","PY","35000"
-"Asia-Pacific","Japan","Yokohoma","2017","AC","47000"
-"Asia-Pacific","Japan","Yokohoma","2017","AC - PY","12000"
-"Asia-Pacific","Japan","Yokohoma","2017","(AC - PY)%","0.34285714285714286"
-"Asia-Pacific","Japan","Yokohoma","2018","PY","66000"
-"Asia-Pacific","Japan","Yokohoma","2018","AC","68000"
-"Asia-Pacific","Japan","Yokohoma","2018","AC - PY","2000"
-"Asia-Pacific","Japan","Yokohoma","2018","(AC - PY)%","0.030303030303030304"
-"Asia-Pacific","Japan","Yokohoma","2019","PY","73000"
-"Asia-Pacific","Japan","Yokohoma","2019","AC","36000"
-"Asia-Pacific","Japan","Yokohoma","2019","AC - PY","-37000"
-"Asia-Pacific","Japan","Yokohoma","2019","(AC - PY)%","-0.5068493150684932"
-"Asia-Pacific","China","Shangai","2017","PY","108000"
-"Asia-Pacific","China","Shangai","2017","AC","134000"
-"Asia-Pacific","China","Shangai","2017","AC - PY","26000"
-"Asia-Pacific","China","Shangai","2017","(AC - PY)%","0.24074074074074073"
-"Asia-Pacific","China","Shangai","2018","PY","109000"
-"Asia-Pacific","China","Shangai","2018","AC","124000"
-"Asia-Pacific","China","Shangai","2018","AC - PY","15000"
-"Asia-Pacific","China","Shangai","2018","(AC - PY)%","0.13761467889908258"
-"Asia-Pacific","China","Shangai","2019","PY","96000"
-"Asia-Pacific","China","Shangai","2019","AC","68000"
-"Asia-Pacific","China","Shangai","2019","AC - PY","-28000"
-"Asia-Pacific","China","Shangai","2019","(AC - PY)%","-0.2916666666666667"
-"Asia-Pacific","China","Beijing","2017","PY","104000"
-"Asia-Pacific","China","Beijing","2017","AC","48000"
-"Asia-Pacific","China","Beijing","2017","AC - PY","-56000"
-"Asia-Pacific","China","Beijing","2017","(AC - PY)%","-0.5384615384615384"
-"Asia-Pacific","China","Beijing","2018","PY","92000"
-"Asia-Pacific","China","Beijing","2018","AC","115000"
-"Asia-Pacific","China","Beijing","2018","AC - PY","23000"
-"Asia-Pacific","China","Beijing","2018","(AC - PY)%","0.25"
-"Asia-Pacific","China","Beijing","2019","PY","145000"
-"Asia-Pacific","China","Beijing","2019","AC","39000"
-"Asia-Pacific","China","Beijing","2019","AC - PY","-106000"
-"Asia-Pacific","China","Beijing","2019","(AC - PY)%","-0.7310344827586206"
-"Asia-Pacific","China","Chengdu","2017","PY","96000"
-"Asia-Pacific","China","Chengdu","2017","AC","62000"
-"Asia-Pacific","China","Chengdu","2017","AC - PY","-34000"
-"Asia-Pacific","China","Chengdu","2017","(AC - PY)%","-0.35416666666666674"
-"Asia-Pacific","China","Chengdu","2018","PY","117000"
-"Asia-Pacific","China","Chengdu","2018","AC","48000"
-"Asia-Pacific","China","Chengdu","2018","AC - PY","-69000"
-"Asia-Pacific","China","Chengdu","2018","(AC - PY)%","-0.5897435897435898"
-"Asia-Pacific","China","Chengdu","2019","PY","80000"
-"Asia-Pacific","China","Chengdu","2019","AC","38000"
-"Asia-Pacific","China","Chengdu","2019","AC - PY","-42000"
-"Asia-Pacific","China","Chengdu","2019","(AC - PY)%","-0.525"
-"Asia-Pacific","Other","Seoul","2017","PY","134000"
-"Asia-Pacific","Other","Seoul","2017","AC","50000"
-"Asia-Pacific","Other","Seoul","2017","AC - PY","-84000"
-"Asia-Pacific","Other","Seoul","2017","(AC - PY)%","-0.6268656716417911"
-"Asia-Pacific","Other","Seoul","2018","PY","78000"
-"Asia-Pacific","Other","Seoul","2018","AC","78000"
-"Asia-Pacific","Other","Seoul","2018","AC - PY","0"
-"Asia-Pacific","Other","Seoul","2018","(AC - PY)%","0"
-"Asia-Pacific","Other","Seoul","2019","PY","66000"
-"Asia-Pacific","Other","Seoul","2019","AC","69000"
-"Asia-Pacific","Other","Seoul","2019","AC - PY","3000"
-"Asia-Pacific","Other","Seoul","2019","(AC - PY)%","0.045454545454545456"
+Table5.Year,Table5.Region,Table5.Country,Table5.City,Sum(Table5.PY),Sum(Table5.AC)
+2017,Americas,USA,California,90000,131000
+2018,Americas,USA,California,81000,131000
+2019,Americas,USA,California,139000,113000
+2017,Americas,USA,New York,92000,116000
+2018,Americas,USA,New York,119000,99000
+2019,Americas,USA,New York,96000,91000
+2017,Americas,USA,Texas,111000,112000
+2018,Americas,USA,Texas,141000,45000
+2019,Americas,USA,Texas,51000,117000
+2017,Americas,Brazil,Rio,104000,138000
+2018,Americas,Brazil,Rio,78000,105000
+2019,Americas,Brazil,Rio,131000,99000
+2017,Americas,Brazil,Manaus,72000,56000
+2018,Americas,Brazil,Manaus,-122000,129000
+2019,Americas,Brazil,Manaus,55000,147000
+2017,Americas,Brazil,Salvador,121000,39000
+2018,Americas,Brazil,Salvador,0,46000
+2019,Americas,Brazil,Salvador,52000,121000
+2017,Americas,Canada,Vancouver,42000,110000
+2018,Americas,Canada,Vancouver,102000,134000
+2019,Americas,Canada,Vancouver,111000,150000
+2017,Americas,Canada,Toronto,59000,78000
+2018,Americas,Canada,Toronto,0,96000
+2019,Americas,Canada,Toronto,35000,47000
+2017,Americas,Canada,Montreal,107000,51000
+2018,Americas,Canada,Montreal,-120000,49000
+2019,Americas,Canada,Montreal,86000,39000
+2017,Americas,Other,Chicago,111000,97000
+2018,Americas,Other,Chicago,93000,67000
+2019,Americas,Other,Chicago,85000,125000
+2017,Europe,Poland,Warsaw,0,103000
+2018,Europe,Poland,Warsaw,103000,99000
+2019,Europe,Poland,Warsaw,144000,118000
+2017,Europe,Poland,Lublin,0,0
+2018,Europe,Poland,Lublin,79000,81000
+2019,Europe,Poland,Lublin,128000,121000
+2017,Europe,Sweden,Stockholm,84000,115000
+2018,Europe,Sweden,Stockholm,131000,
+2019,Europe,Sweden,Stockholm,117000,139000
+2017,Europe,Sweden,Gothenburg,112000,0
+2018,Europe,Sweden,Gothenburg,130000,
+2019,Europe,Sweden,Gothenburg,101000,141000
+2017,Europe,Sweden,Malmo,80000,61000
+2018,Europe,Sweden,Malmo,84000,
+2019,Europe,Sweden,Malmo,101000,60000
+2017,Europe,Belgium,Flanders,118000,88000
+2018,Europe,Belgium,Flanders,95000,134000
+2019,Europe,Belgium,Flanders,128000,108000
+2017,Europe,Belgium,Brussels,0,0
+2018,Europe,Belgium,Brussels,78000,64000
+2019,Europe,Belgium,Brussels,112000,119000
+2017,Europe,Germany,Frankfurt,0,107000
+2018,Europe,Germany,Frankfurt,100000,91000
+2019,Europe,Germany,Frankfurt,142000,91000
+2017,Europe,Germany,Berlin,0,0
+2018,Europe,Germany,Berlin,,
+2019,Europe,Germany,Berlin,48000,128000
+2017,Europe,France,Marseille,107000,118000
+2018,Europe,France,Marseille,0,0
+2019,Europe,France,Marseille,101000,44000
+2017,Europe,France,Paris,89000,0
+2018,Europe,France,Paris,0,0
+2019,Europe,France,Paris,51000,131000
+2017,Europe,Other,Finland,77000,142000
+2018,Europe,Other,Finland,0,41000
+2019,Europe,Other,Finland,50000,83000
+2017,Asia-Pacific,Australia,Brisbane,266000,231000
+2018,Asia-Pacific,Australia,Brisbane,46000,149000
+2019,Asia-Pacific,Australia,Brisbane,70000,38000
+2017,Asia-Pacific,Australia,Sydney,54000,62000
+2018,Asia-Pacific,Australia,Sydney,38000,117000
+2019,Asia-Pacific,Australia,Sydney,147000,42000
+2017,Asia-Pacific,Australia,Melbourne,9000,11000
+2018,Asia-Pacific,Australia,Melbourne,96000,69000
+2019,Asia-Pacific,Australia,Melbourne,,
+2017,Asia-Pacific,Japan,Tokyo,112000,119000
+2018,Asia-Pacific,Japan,Tokyo,59000,89000
+2019,Asia-Pacific,Japan,Tokyo,139000,91000
+2017,Asia-Pacific,Japan,Hiroshima,117000,40000
+2018,Asia-Pacific,Japan,Hiroshima,62000,92000
+2019,Asia-Pacific,Japan,Hiroshima,67000,102000
+2017,Asia-Pacific,Japan,Yokohoma,35000,47000
+2018,Asia-Pacific,Japan,Yokohoma,66000,68000
+2019,Asia-Pacific,Japan,Yokohoma,73000,36000
+2017,Asia-Pacific,China,Shangai,108000,134000
+2018,Asia-Pacific,China,Shangai,109000,124000
+2019,Asia-Pacific,China,Shangai,96000,68000
+2017,Asia-Pacific,China,Beijing,104000,48000
+2018,Asia-Pacific,China,Beijing,92000,115000
+2019,Asia-Pacific,China,Beijing,145000,39000
+2017,Asia-Pacific,China,Chengdu,96000,62000
+2018,Asia-Pacific,China,Chengdu,117000,48000
+2019,Asia-Pacific,China,Chengdu,80000,38000
+2017,Asia-Pacific,Other,Seoul,134000,50000
+2018,Asia-Pacific,Other,Seoul,78000,78000
+2019,Asia-Pacific,Other,Seoul,66000,69000
