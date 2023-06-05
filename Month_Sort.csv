@@ -1,817 +1,205 @@
-Category,Sub-Category,Month,Value Column Name,Value
-"Furniture","Bookcases","December","Sum of Profit","-1161.4328000000012"
-"Furniture","Bookcases","December","Sum of Sales","7510.430499999999"
-"Furniture","Bookcases","December","Sum of Sales - Sum of Profit","8671.863299999999"
-"Furniture","Bookcases","December","(Sum of Sales - Sum of Profit)%","7.4665217824053105"
-"Furniture","Bookcases","November","Sum of Profit","482.1260999999995"
-"Furniture","Bookcases","November","Sum of Sales","23065.336499999998"
-"Furniture","Bookcases","November","Sum of Sales - Sum of Profit","22583.210399999996"
-"Furniture","Bookcases","November","(Sum of Sales - Sum of Profit)%","46.84087918077867"
-"Furniture","Bookcases","October","Sum of Profit","-591.9526000000001"
-"Furniture","Bookcases","October","Sum of Sales","5642.0452000000005"
-"Furniture","Bookcases","October","Sum of Sales - Sum of Profit","6233.997800000001"
-"Furniture","Bookcases","October","(Sum of Sales - Sum of Profit)%","10.531244900351819"
-"Furniture","Bookcases","September","Sum of Profit","-117.58160000000052"
-"Furniture","Bookcases","September","Sum of Sales","17170.4831"
-"Furniture","Bookcases","September","Sum of Sales - Sum of Profit","17288.064700000003"
-"Furniture","Bookcases","September","(Sum of Sales - Sum of Profit)%","147.03035764099081"
-"Furniture","Bookcases","August","Sum of Profit","-54.84219999999988"
-"Furniture","Bookcases","August","Sum of Sales","5621.544999999999"
-"Furniture","Bookcases","August","Sum of Sales - Sum of Profit","5676.387199999999"
-"Furniture","Bookcases","August","(Sum of Sales - Sum of Profit)%","103.50400239231854"
-"Furniture","Bookcases","July","Sum of Profit","539.8546"
-"Furniture","Bookcases","July","Sum of Sales","8009.846999999999"
-"Furniture","Bookcases","July","Sum of Sales - Sum of Profit","7469.992399999999"
-"Furniture","Bookcases","July","(Sum of Sales - Sum of Profit)%","13.837045011749458"
-"Furniture","Bookcases","June","Sum of Profit","261.8162999999998"
-"Furniture","Bookcases","June","Sum of Sales","8633.4643"
-"Furniture","Bookcases","June","Sum of Sales - Sum of Profit","8371.648"
-"Furniture","Bookcases","June","(Sum of Sales - Sum of Profit)%","31.97527426672826"
-"Furniture","Bookcases","May","Sum of Profit","-238.51660000000027"
-"Furniture","Bookcases","May","Sum of Sales","6289.5817"
-"Furniture","Bookcases","May","Sum of Sales - Sum of Profit","6528.0983"
-"Furniture","Bookcases","May","(Sum of Sales - Sum of Profit)%","27.36957637330061"
-"Furniture","Bookcases","April","Sum of Profit","43.25359999999995"
-"Furniture","Bookcases","April","Sum of Sales","4331.7766"
-"Furniture","Bookcases","April","Sum of Sales - Sum of Profit","4288.523"
-"Furniture","Bookcases","April","(Sum of Sales - Sum of Profit)%","99.14834834557136"
-"Furniture","Bookcases","March","Sum of Profit","-645.3928000000004"
-"Furniture","Bookcases","March","Sum of Sales","7146.582999999999"
-"Furniture","Bookcases","March","Sum of Sales - Sum of Profit","7791.975799999999"
-"Furniture","Bookcases","March","(Sum of Sales - Sum of Profit)%","12.073230132099388"
-"Furniture","Bookcases","February","Sum of Profit","249.99299999999988"
-"Furniture","Bookcases","February","Sum of Sales","1649.6234000000002"
-"Furniture","Bookcases","February","Sum of Sales - Sum of Profit","1399.6304000000002"
-"Furniture","Bookcases","February","(Sum of Sales - Sum of Profit)%","5.598678362994168"
-"Furniture","Bookcases","January","Sum of Profit","-325.59220000000016"
-"Furniture","Bookcases","January","Sum of Sales","4814.928599999999"
-"Furniture","Bookcases","January","Sum of Sales - Sum of Profit","5140.520799999999"
-"Furniture","Bookcases","January","(Sum of Sales - Sum of Profit)%","15.788218513834167"
-"Furniture","Chairs","December","Sum of Profit","5763.5536999999995"
-"Furniture","Chairs","December","Sum of Sales","52651.111000000004"
-"Furniture","Chairs","December","Sum of Sales - Sum of Profit","46887.55730000001"
-"Furniture","Chairs","December","(Sum of Sales - Sum of Profit)%","8.135181823672434"
-"Furniture","Chairs","November","Sum of Profit","2608.7489999999984"
-"Furniture","Chairs","November","Sum of Sales","42786.87099999998"
-"Furniture","Chairs","November","Sum of Sales - Sum of Profit","40178.12199999998"
-"Furniture","Chairs","November","(Sum of Sales - Sum of Profit)%","15.401298476779486"
-"Furniture","Chairs","October","Sum of Profit","809.9989"
-"Furniture","Chairs","October","Sum of Sales","21305.722000000005"
-"Furniture","Chairs","October","Sum of Sales - Sum of Profit","20495.723100000007"
-"Furniture","Chairs","October","(Sum of Sales - Sum of Profit)%","25.303396214488693"
-"Furniture","Chairs","September","Sum of Profit","6095.833499999999"
-"Furniture","Chairs","September","Sum of Sales","47048.50199999997"
-"Furniture","Chairs","September","Sum of Sales - Sum of Profit","40952.66849999997"
-"Furniture","Chairs","September","(Sum of Sales - Sum of Profit)%","6.718140923632507"
-"Furniture","Chairs","August","Sum of Profit","499.8399999999995"
-"Furniture","Chairs","August","Sum of Sales","15802.507999999998"
-"Furniture","Chairs","August","Sum of Sales - Sum of Profit","15302.667999999998"
-"Furniture","Chairs","August","(Sum of Sales - Sum of Profit)%","30.615132842509627"
-"Furniture","Chairs","July","Sum of Profit","459.0817999999995"
-"Furniture","Chairs","July","Sum of Sales","20183.946999999996"
-"Furniture","Chairs","July","Sum of Sales - Sum of Profit","19724.865199999997"
-"Furniture","Chairs","July","(Sum of Sales - Sum of Profit)%","42.96590542251951"
-"Furniture","Chairs","June","Sum of Profit","782.7015999999994"
-"Furniture","Chairs","June","Sum of Sales","16540.788"
-"Furniture","Chairs","June","Sum of Sales - Sum of Profit","15758.0864"
-"Furniture","Chairs","June","(Sum of Sales - Sum of Profit)%","20.13294261823409"
-"Furniture","Chairs","May","Sum of Profit","1506.1125999999995"
-"Furniture","Chairs","May","Sum of Sales","24148.342"
-"Furniture","Chairs","May","Sum of Sales - Sum of Profit","22642.2294"
-"Furniture","Chairs","May","(Sum of Sales - Sum of Profit)%","15.033556853584525"
-"Furniture","Chairs","April","Sum of Profit","1420.9327999999996"
-"Furniture","Chairs","April","Sum of Sales","14522.661999999997"
-"Furniture","Chairs","April","Sum of Sales - Sum of Profit","13101.729199999998"
-"Furniture","Chairs","April","(Sum of Sales - Sum of Profit)%","9.220512891250031"
-"Furniture","Chairs","March","Sum of Profit","1598.5288999999993"
-"Furniture","Chairs","March","Sum of Sales","19612.067000000006"
-"Furniture","Chairs","March","Sum of Sales - Sum of Profit","18013.538100000005"
-"Furniture","Chairs","March","(Sum of Sales - Sum of Profit)%","11.26882229029454"
-"Furniture","Chairs","February","Sum of Profit","683.5116999999996"
-"Furniture","Chairs","February","Sum of Sales","6009.883999999999"
-"Furniture","Chairs","February","Sum of Sales - Sum of Profit","5326.372299999999"
-"Furniture","Chairs","February","(Sum of Sales - Sum of Profit)%","7.792657097164545"
-"Furniture","Chairs","January","Sum of Profit","675.0410999999997"
-"Furniture","Chairs","January","Sum of Sales","10009.383"
-"Furniture","Chairs","January","Sum of Sales - Sum of Profit","9334.3419"
-"Furniture","Chairs","January","(Sum of Sales - Sum of Profit)%","13.827812706515209"
-"Furniture","Furnishings","December","Sum of Profit","1965.9145999999994"
-"Furniture","Furnishings","December","Sum of Sales","13127.855999999996"
-"Furniture","Furnishings","December","Sum of Sales - Sum of Profit","11161.941399999996"
-"Furniture","Furnishings","December","(Sum of Sales - Sum of Profit)%","5.677734627943655"
-"Furniture","Furnishings","November","Sum of Profit","1970.9455"
-"Furniture","Furnishings","November","Sum of Sales","14086.018"
-"Furniture","Furnishings","November","Sum of Sales - Sum of Profit","12115.0725"
-"Furniture","Furnishings","November","(Sum of Sales - Sum of Profit)%","6.146832827188778"
-"Furniture","Furnishings","October","Sum of Profit","427.75889999999987"
-"Furniture","Furnishings","October","Sum of Sales","4713.852"
-"Furniture","Furnishings","October","Sum of Sales - Sum of Profit","4286.0931"
-"Furniture","Furnishings","October","(Sum of Sales - Sum of Profit)%","10.019880591613644"
-"Furniture","Furnishings","September","Sum of Profit","2145.5893999999994"
-"Furniture","Furnishings","September","Sum of Sales","10673.497999999998"
-"Furniture","Furnishings","September","Sum of Sales - Sum of Profit","8527.908599999999"
-"Furniture","Furnishings","September","(Sum of Sales - Sum of Profit)%","3.9746228239196193"
-"Furniture","Furnishings","August","Sum of Profit","613.5127000000001"
-"Furniture","Furnishings","August","Sum of Sales","3567.3940000000007"
-"Furniture","Furnishings","August","Sum of Sales - Sum of Profit","2953.8813000000005"
-"Furniture","Furnishings","August","(Sum of Sales - Sum of Profit)%","4.814702776323945"
-"Furniture","Furnishings","July","Sum of Profit","534.0021999999998"
-"Furniture","Furnishings","July","Sum of Sales","6524.678000000001"
-"Furniture","Furnishings","July","Sum of Sales - Sum of Profit","5990.675800000001"
-"Furniture","Furnishings","July","(Sum of Sales - Sum of Profit)%","11.218447789166417"
-"Furniture","Furnishings","June","Sum of Profit","620.3980999999999"
-"Furniture","Furnishings","June","Sum of Sales","5008.584"
-"Furniture","Furnishings","June","Sum of Sales - Sum of Profit","4388.1859"
-"Furniture","Furnishings","June","(Sum of Sales - Sum of Profit)%","7.073177529073672"
-"Furniture","Furnishings","May","Sum of Profit","833.0794000000001"
-"Furniture","Furnishings","May","Sum of Sales","4871.554"
-"Furniture","Furnishings","May","Sum of Sales - Sum of Profit","4038.4746"
-"Furniture","Furnishings","May","(Sum of Sales - Sum of Profit)%","4.847646694900869"
-"Furniture","Furnishings","April","Sum of Profit","1137.5918999999994"
-"Furniture","Furnishings","April","Sum of Sales","6897.297999999999"
-"Furniture","Furnishings","April","Sum of Sales - Sum of Profit","5759.706099999999"
-"Furniture","Furnishings","April","(Sum of Sales - Sum of Profit)%","5.063068838658224"
-"Furniture","Furnishings","March","Sum of Profit","939.8353"
-"Furniture","Furnishings","March","Sum of Sales","4925.5560000000005"
-"Furniture","Furnishings","March","Sum of Sales - Sum of Profit","3985.7207000000008"
-"Furniture","Furnishings","March","(Sum of Sales - Sum of Profit)%","4.240871459073735"
-"Furniture","Furnishings","February","Sum of Profit","201.89139999999992"
-"Furniture","Furnishings","February","Sum of Sales","2220.5840000000003"
-"Furniture","Furnishings","February","Sum of Sales - Sum of Profit","2018.6926000000003"
-"Furniture","Furnishings","February","(Sum of Sales - Sum of Profit)%","9.998903370822141"
-"Furniture","Furnishings","January","Sum of Profit","547.4793000000001"
-"Furniture","Furnishings","January","Sum of Sales","3037.888"
-"Furniture","Furnishings","January","Sum of Sales - Sum of Profit","2490.4087"
-"Furniture","Furnishings","January","(Sum of Sales - Sum of Profit)%","4.5488636739325115"
-"Furniture","Tables","December","Sum of Profit","-1842.0441"
-"Furniture","Tables","December","Sum of Sales","30704.04"
-"Furniture","Tables","December","Sum of Sales - Sum of Profit","32546.0841"
-"Furniture","Tables","December","(Sum of Sales - Sum of Profit)%","17.668460869096457"
-"Furniture","Tables","November","Sum of Profit","-1167.8582999999994"
-"Furniture","Tables","November","Sum of Sales","29483.782999999992"
-"Furniture","Tables","November","Sum of Sales - Sum of Profit","30651.641299999992"
-"Furniture","Tables","November","(Sum of Sales - Sum of Profit)%","26.246027707299774"
-"Furniture","Tables","October","Sum of Profit","-4796.4512"
-"Furniture","Tables","October","Sum of Sales","18640.0225"
-"Furniture","Tables","October","Sum of Sales - Sum of Profit","23436.4737"
-"Furniture","Tables","October","(Sum of Sales - Sum of Profit)%","4.8862112263333355"
-"Furniture","Tables","September","Sum of Profit","-640.8797999999998"
-"Furniture","Tables","September","Sum of Sales","17580.164"
-"Furniture","Tables","September","Sum of Sales - Sum of Profit","18221.0438"
-"Furniture","Tables","September","(Sum of Sales - Sum of Profit)%","28.43129678919511"
-"Furniture","Tables","August","Sum of Profit","-780.4157000000009"
-"Furniture","Tables","August","Sum of Sales","13640.693000000001"
-"Furniture","Tables","August","Sum of Sales - Sum of Profit","14421.108700000003"
-"Furniture","Tables","August","(Sum of Sales - Sum of Profit)%","18.47875266989117"
-"Furniture","Tables","July","Sum of Profit","-187.1220000000003"
-"Furniture","Tables","July","Sum of Sales","7980.326999999999"
-"Furniture","Tables","July","Sum of Sales - Sum of Profit","8167.449"
-"Furniture","Tables","July","(Sum of Sales - Sum of Profit)%","43.64772180716317"
-"Furniture","Tables","June","Sum of Profit","-675.2413000000005"
-"Furniture","Tables","June","Sum of Sales","14235.404999999999"
-"Furniture","Tables","June","Sum of Sales - Sum of Profit","14910.646299999999"
-"Furniture","Tables","June","(Sum of Sales - Sum of Profit)%","22.08195248128334"
-"Furniture","Tables","May","Sum of Profit","-347.13990000000035"
-"Furniture","Tables","May","Sum of Sales","8721.171000000002"
-"Furniture","Tables","May","Sum of Sales - Sum of Profit","9068.310900000002"
-"Furniture","Tables","May","(Sum of Sales - Sum of Profit)%","26.12292882494923"
-"Furniture","Tables","April","Sum of Profit","-334.69740000000024"
-"Furniture","Tables","April","Sum of Sales","7072.2195"
-"Furniture","Tables","April","Sum of Sales - Sum of Profit","7406.9169"
-"Furniture","Tables","April","(Sum of Sales - Sum of Profit)%","22.130189538371063"
-"Furniture","Tables","March","Sum of Profit","-1151.5823"
-"Furniture","Tables","March","Sum of Sales","14401.823"
-"Furniture","Tables","March","Sum of Sales - Sum of Profit","15553.4053"
-"Furniture","Tables","March","(Sum of Sales - Sum of Profit)%","13.506117018297346"
-"Furniture","Tables","February","Sum of Profit","-555.3950000000002"
-"Furniture","Tables","February","Sum of Sales","4217.683"
-"Furniture","Tables","February","Sum of Sales - Sum of Profit","4773.078"
-"Furniture","Tables","February","(Sum of Sales - Sum of Profit)%","8.594024072957081"
-"Furniture","Tables","January","Sum of Profit","-2719.8162000000007"
-"Furniture","Tables","January","Sum of Sales","10741.112"
-"Furniture","Tables","January","Sum of Sales - Sum of Profit","13460.9282"
-"Furniture","Tables","January","(Sum of Sales - Sum of Profit)%","4.949205097020894"
-"Office Supplies","Appliances","December","Sum of Profit","2658.9055999999996"
-"Office Supplies","Appliances","December","Sum of Sales","14196.952999999998"
-"Office Supplies","Appliances","December","Sum of Sales - Sum of Profit","11538.047399999998"
-"Office Supplies","Appliances","December","(Sum of Sales - Sum of Profit)%","4.339397156484232"
-"Office Supplies","Appliances","November","Sum of Profit","3675.0382999999983"
-"Office Supplies","Appliances","November","Sum of Sales","18278.412"
-"Office Supplies","Appliances","November","Sum of Sales - Sum of Profit","14603.373700000002"
-"Office Supplies","Appliances","November","(Sum of Sales - Sum of Profit)%","3.9736657166266833"
-"Office Supplies","Appliances","October","Sum of Profit","2226.8997"
-"Office Supplies","Appliances","October","Sum of Sales","8908.836999999998"
-"Office Supplies","Appliances","October","Sum of Sales - Sum of Profit","6681.937299999998"
-"Office Supplies","Appliances","October","(Sum of Sales - Sum of Profit)%","3.0005560196536907"
-"Office Supplies","Appliances","September","Sum of Profit","1540.1314999999997"
-"Office Supplies","Appliances","September","Sum of Sales","9584.919999999996"
-"Office Supplies","Appliances","September","Sum of Sales - Sum of Profit","8044.788499999997"
-"Office Supplies","Appliances","September","(Sum of Sales - Sum of Profit)%","5.223442608634391"
-"Office Supplies","Appliances","August","Sum of Profit","2700.0116"
-"Office Supplies","Appliances","August","Sum of Sales","12391.739"
-"Office Supplies","Appliances","August","Sum of Sales - Sum of Profit","9691.7274"
-"Office Supplies","Appliances","August","(Sum of Sales - Sum of Profit)%","3.5895132450542064"
-"Office Supplies","Appliances","July","Sum of Profit","743.9222999999998"
-"Office Supplies","Appliances","July","Sum of Sales","3741.094"
-"Office Supplies","Appliances","July","Sum of Sales - Sum of Profit","2997.1717000000003"
-"Office Supplies","Appliances","July","(Sum of Sales - Sum of Profit)%","4.028877343776361"
-"Office Supplies","Appliances","June","Sum of Profit","766.4189999999999"
-"Office Supplies","Appliances","June","Sum of Sales","4775.13"
-"Office Supplies","Appliances","June","Sum of Sales - Sum of Profit","4008.7110000000002"
-"Office Supplies","Appliances","June","(Sum of Sales - Sum of Profit)%","5.230443138805276"
-"Office Supplies","Appliances","May","Sum of Profit","1068.5611999999994"
-"Office Supplies","Appliances","May","Sum of Sales","7147.449999999999"
-"Office Supplies","Appliances","May","Sum of Sales - Sum of Profit","6078.8888"
-"Office Supplies","Appliances","May","(Sum of Sales - Sum of Profit)%","5.688854133951338"
-"Office Supplies","Appliances","April","Sum of Profit","-263.5461000000009"
-"Office Supplies","Appliances","April","Sum of Sales","4731.562000000001"
-"Office Supplies","Appliances","April","Sum of Sales - Sum of Profit","4995.108100000001"
-"Office Supplies","Appliances","April","(Sum of Sales - Sum of Profit)%","18.95345102811229"
-"Office Supplies","Appliances","March","Sum of Profit","25.60409999999964"
-"Office Supplies","Appliances","March","Sum of Sales","5925.179999999997"
-"Office Supplies","Appliances","March","Sum of Sales - Sum of Profit","5899.575899999997"
-"Office Supplies","Appliances","March","(Sum of Sales - Sum of Profit)%","230.41528114638203"
-"Office Supplies","Appliances","February","Sum of Profit","1089.4189999999996"
-"Office Supplies","Appliances","February","Sum of Sales","4851.066"
-"Office Supplies","Appliances","February","Sum of Sales - Sum of Profit","3761.647"
-"Office Supplies","Appliances","February","(Sum of Sales - Sum of Profit)%","3.452892780463716"
-"Office Supplies","Appliances","January","Sum of Profit","598.7946"
-"Office Supplies","Appliances","January","Sum of Sales","3176.244"
-"Office Supplies","Appliances","January","Sum of Sales - Sum of Profit","2577.4494000000004"
-"Office Supplies","Appliances","January","(Sum of Sales - Sum of Profit)%","4.304396532634063"
-"Office Supplies","Art","December","Sum of Profit","522.7730999999999"
-"Office Supplies","Art","December","Sum of Sales","2186.8580000000006"
-"Office Supplies","Art","December","Sum of Sales - Sum of Profit","1664.0849000000007"
-"Office Supplies","Art","December","(Sum of Sales - Sum of Profit)%","3.1831876965360326"
-"Office Supplies","Art","November","Sum of Profit","872.8121"
-"Office Supplies","Art","November","Sum of Sales","3446.212000000001"
-"Office Supplies","Art","November","Sum of Sales - Sum of Profit","2573.399900000001"
-"Office Supplies","Art","November","(Sum of Sales - Sum of Profit)%","2.948400807000729"
-"Office Supplies","Art","October","Sum of Profit","449.56940000000003"
-"Office Supplies","Art","October","Sum of Sales","1748.2120000000014"
-"Office Supplies","Art","October","Sum of Sales - Sum of Profit","1298.6426000000013"
-"Office Supplies","Art","October","(Sum of Sales - Sum of Profit)%","2.8886365486619003"
-"Office Supplies","Art","September","Sum of Profit","840.2319"
-"Office Supplies","Art","September","Sum of Sales","3376.354000000002"
-"Office Supplies","Art","September","Sum of Sales - Sum of Profit","2536.1221000000023"
-"Office Supplies","Art","September","(Sum of Sales - Sum of Profit)%","3.0183596933180024"
-"Office Supplies","Art","August","Sum of Profit","444.7847999999999"
-"Office Supplies","Art","August","Sum of Sales","1696.4939999999997"
-"Office Supplies","Art","August","Sum of Sales - Sum of Profit","1251.7091999999998"
-"Office Supplies","Art","August","(Sum of Sales - Sum of Profit)%","2.814190592844"
-"Office Supplies","Art","July","Sum of Profit","471.51239999999984"
-"Office Supplies","Art","July","Sum of Sales","1944.304"
-"Office Supplies","Art","July","Sum of Sales - Sum of Profit","1472.7916000000002"
-"Office Supplies","Art","July","(Sum of Sales - Sum of Profit)%","3.1235479703184916"
-"Office Supplies","Art","June","Sum of Profit","418.1012"
-"Office Supplies","Art","June","Sum of Sales","1608.464"
-"Office Supplies","Art","June","Sum of Sales - Sum of Profit","1190.3627999999999"
-"Office Supplies","Art","June","(Sum of Sales - Sum of Profit)%","2.847068604443135"
-"Office Supplies","Art","May","Sum of Profit","412.82259999999997"
-"Office Supplies","Art","May","Sum of Sales","1798.2139999999997"
-"Office Supplies","Art","May","Sum of Sales - Sum of Profit","1385.3913999999997"
-"Office Supplies","Art","May","(Sum of Sales - Sum of Profit)%","3.3559000888032773"
-"Office Supplies","Art","April","Sum of Profit","443.1326000000001"
-"Office Supplies","Art","April","Sum of Sales","1782.3919999999998"
-"Office Supplies","Art","April","Sum of Sales - Sum of Profit","1339.2593999999997"
-"Office Supplies","Art","April","(Sum of Sales - Sum of Profit)%","3.0222542868658264"
-"Office Supplies","Art","March","Sum of Profit","296.57309999999995"
-"Office Supplies","Art","March","Sum of Sales","1238.5020000000004"
-"Office Supplies","Art","March","Sum of Sales - Sum of Profit","941.9289000000005"
-"Office Supplies","Art","March","(Sum of Sales - Sum of Profit)%","3.1760429384863316"
-"Office Supplies","Art","February","Sum of Profit","261.4203000000001"
-"Office Supplies","Art","February","Sum of Sales","1117.514"
-"Office Supplies","Art","February","Sum of Sales - Sum of Profit","856.0936999999998"
-"Office Supplies","Art","February","(Sum of Sales - Sum of Profit)%","3.274778967050376"
-"Office Supplies","Art","January","Sum of Profit","211.75799999999998"
-"Office Supplies","Art","January","Sum of Sales","829.8880000000001"
-"Office Supplies","Art","January","Sum of Sales - Sum of Profit","618.1300000000001"
-"Office Supplies","Art","January","(Sum of Sales - Sum of Profit)%","2.9190396584780753"
-"Office Supplies","Binders","December","Sum of Profit","3802.732500000001"
-"Office Supplies","Binders","December","Sum of Sales","31108.912000000004"
-"Office Supplies","Binders","December","Sum of Sales - Sum of Profit","27306.179500000002"
-"Office Supplies","Binders","December","(Sum of Sales - Sum of Profit)%","7.1806732395718065"
-"Office Supplies","Binders","November","Sum of Profit","-1269.8883999999964"
-"Office Supplies","Binders","November","Sum of Sales","19959.145000000004"
-"Office Supplies","Binders","November","Sum of Sales - Sum of Profit","21229.0334"
-"Office Supplies","Binders","November","(Sum of Sales - Sum of Profit)%","16.717243342013408"
-"Office Supplies","Binders","October","Sum of Profit","3839.947399999998"
-"Office Supplies","Binders","October","Sum of Sales","17620.721"
-"Office Supplies","Binders","October","Sum of Sales - Sum of Profit","13780.773600000004"
-"Office Supplies","Binders","October","(Sum of Sales - Sum of Profit)%","3.588792283977642"
-"Office Supplies","Binders","September","Sum of Profit","6655.595399999999"
-"Office Supplies","Binders","September","Sum of Sales","30790.111000000008"
-"Office Supplies","Binders","September","Sum of Sales - Sum of Profit","24134.51560000001"
-"Office Supplies","Binders","September","(Sum of Sales - Sum of Profit)%","3.626199332970272"
-"Office Supplies","Binders","August","Sum of Profit","4257.119"
-"Office Supplies","Binders","August","Sum of Sales","20185.281000000006"
-"Office Supplies","Binders","August","Sum of Sales - Sum of Profit","15928.162000000008"
-"Office Supplies","Binders","August","(Sum of Sales - Sum of Profit)%","3.741535531423953"
-"Office Supplies","Binders","July","Sum of Profit","-3433.0339000000017"
-"Office Supplies","Binders","July","Sum of Sales","8329.131000000003"
-"Office Supplies","Binders","July","Sum of Sales - Sum of Profit","11762.164900000005"
-"Office Supplies","Binders","July","(Sum of Sales - Sum of Profit)%","3.4261720806194194"
-"Office Supplies","Binders","June","Sum of Profit","3430.3697999999995"
-"Office Supplies","Binders","June","Sum of Sales","12586.830999999998"
-"Office Supplies","Binders","June","Sum of Sales - Sum of Profit","9156.461199999998"
-"Office Supplies","Binders","June","(Sum of Sales - Sum of Profit)%","2.669234436473875"
-"Office Supplies","Binders","May","Sum of Profit","905.1419999999995"
-"Office Supplies","Binders","May","Sum of Sales","6116.032"
-"Office Supplies","Binders","May","Sum of Sales - Sum of Profit","5210.89"
-"Office Supplies","Binders","May","(Sum of Sales - Sum of Profit)%","5.756986196640972"
-"Office Supplies","Binders","April","Sum of Profit","3318.1817"
-"Office Supplies","Binders","April","Sum of Sales","10807.792999999998"
-"Office Supplies","Binders","April","Sum of Sales - Sum of Profit","7489.611299999998"
-"Office Supplies","Binders","April","(Sum of Sales - Sum of Profit)%","2.2571432118982506"
-"Office Supplies","Binders","March","Sum of Profit","2281.8478"
-"Office Supplies","Binders","March","Sum of Sales","7082.343999999999"
-"Office Supplies","Binders","March","Sum of Sales - Sum of Profit","4800.4962"
-"Office Supplies","Binders","March","(Sum of Sales - Sum of Profit)%","2.1037758083602243"
-"Office Supplies","Binders","February","Sum of Profit","690.0398000000002"
-"Office Supplies","Binders","February","Sum of Sales","4236.981000000001"
-"Office Supplies","Binders","February","Sum of Sales - Sum of Profit","3546.9412"
-"Office Supplies","Binders","February","(Sum of Sales - Sum of Profit)%","5.140198000173322"
-"Office Supplies","Binders","January","Sum of Profit","2797.9117"
-"Office Supplies","Binders","January","Sum of Sales","11901.348999999998"
-"Office Supplies","Binders","January","Sum of Sales - Sum of Profit","9103.437299999998"
-"Office Supplies","Binders","January","(Sum of Sales - Sum of Profit)%","3.2536542522053136"
-"Office Supplies","Envelopes","December","Sum of Profit","751.8337"
-"Office Supplies","Envelopes","December","Sum of Sales","1820.0840000000005"
-"Office Supplies","Envelopes","December","Sum of Sales - Sum of Profit","1068.2503000000006"
-"Office Supplies","Envelopes","December","(Sum of Sales - Sum of Profit)%","1.4208598257832825"
-"Office Supplies","Envelopes","November","Sum of Profit","1043.4953"
-"Office Supplies","Envelopes","November","Sum of Sales","2543.1599999999994"
-"Office Supplies","Envelopes","November","Sum of Sales - Sum of Profit","1499.6646999999994"
-"Office Supplies","Envelopes","November","(Sum of Sales - Sum of Profit)%","1.4371552032864923"
-"Office Supplies","Envelopes","October","Sum of Profit","585.1125"
-"Office Supplies","Envelopes","October","Sum of Sales","1362.558"
-"Office Supplies","Envelopes","October","Sum of Sales - Sum of Profit","777.4455"
-"Office Supplies","Envelopes","October","(Sum of Sales - Sum of Profit)%","1.3287111452925722"
-"Office Supplies","Envelopes","September","Sum of Profit","762.4976999999999"
-"Office Supplies","Envelopes","September","Sum of Sales","1781.788"
-"Office Supplies","Envelopes","September","Sum of Sales - Sum of Profit","1019.2903000000001"
-"Office Supplies","Envelopes","September","(Sum of Sales - Sum of Profit)%","1.3367781961834118"
-"Office Supplies","Envelopes","August","Sum of Profit","191.038"
-"Office Supplies","Envelopes","August","Sum of Sales","416.32800000000003"
-"Office Supplies","Envelopes","August","Sum of Sales - Sum of Profit","225.29000000000002"
-"Office Supplies","Envelopes","August","(Sum of Sales - Sum of Profit)%","1.1792941718401575"
-"Office Supplies","Envelopes","July","Sum of Profit","545.3799"
-"Office Supplies","Envelopes","July","Sum of Sales","1200.08"
-"Office Supplies","Envelopes","July","Sum of Sales - Sum of Profit","654.7000999999999"
-"Office Supplies","Envelopes","July","(Sum of Sales - Sum of Profit)%","1.2004477979478156"
-"Office Supplies","Envelopes","June","Sum of Profit","165.76959999999997"
-"Office Supplies","Envelopes","June","Sum of Sales","392.53"
-"Office Supplies","Envelopes","June","Sum of Sales - Sum of Profit","226.7604"
-"Office Supplies","Envelopes","June","(Sum of Sales - Sum of Profit)%","1.367925120166786"
-"Office Supplies","Envelopes","May","Sum of Profit","316.4876"
-"Office Supplies","Envelopes","May","Sum of Sales","708.3859999999999"
-"Office Supplies","Envelopes","May","Sum of Sales - Sum of Profit","391.89839999999987"
-"Office Supplies","Envelopes","May","(Sum of Sales - Sum of Profit)%","1.2382741061577132"
-"Office Supplies","Envelopes","April","Sum of Profit","391.5077999999999"
-"Office Supplies","Envelopes","April","Sum of Sales","873.1220000000001"
-"Office Supplies","Envelopes","April","Sum of Sales - Sum of Profit","481.61420000000015"
-"Office Supplies","Envelopes","April","(Sum of Sales - Sum of Profit)%","1.2301522472860063"
-"Office Supplies","Envelopes","March","Sum of Profit","576.5129999999999"
-"Office Supplies","Envelopes","March","Sum of Sales","1390.0359999999998"
-"Office Supplies","Envelopes","March","Sum of Sales - Sum of Profit","813.5229999999999"
-"Office Supplies","Envelopes","March","(Sum of Sales - Sum of Profit)%","1.4111095500014743"
-"Office Supplies","Envelopes","February","Sum of Profit","303.17409999999995"
-"Office Supplies","Envelopes","February","Sum of Sales","668.566"
-"Office Supplies","Envelopes","February","Sum of Sales - Sum of Profit","365.3919000000001"
-"Office Supplies","Envelopes","February","(Sum of Sales - Sum of Profit)%","1.2052213563097907"
-"Office Supplies","Envelopes","January","Sum of Profit","250.84679999999997"
-"Office Supplies","Envelopes","January","Sum of Sales","642.512"
-"Office Supplies","Envelopes","January","Sum of Sales - Sum of Profit","391.66519999999997"
-"Office Supplies","Envelopes","January","(Sum of Sales - Sum of Profit)%","1.5613721203539372"
-"Office Supplies","Fasteners","December","Sum of Profit","116.1504"
-"Office Supplies","Fasteners","December","Sum of Sales","297.434"
-"Office Supplies","Fasteners","December","Sum of Sales - Sum of Profit","181.28360000000004"
-"Office Supplies","Fasteners","December","(Sum of Sales - Sum of Profit)%","1.5607660412706286"
-"Office Supplies","Fasteners","November","Sum of Profit","146.4942"
-"Office Supplies","Fasteners","November","Sum of Sales","446.564"
-"Office Supplies","Fasteners","November","Sum of Sales - Sum of Profit","300.0698"
-"Office Supplies","Fasteners","November","(Sum of Sales - Sum of Profit)%","2.048339115132203"
-"Office Supplies","Fasteners","October","Sum of Profit","77.31699999999998"
-"Office Supplies","Fasteners","October","Sum of Sales","321.742"
-"Office Supplies","Fasteners","October","Sum of Sales - Sum of Profit","244.42500000000004"
-"Office Supplies","Fasteners","October","(Sum of Sales - Sum of Profit)%","3.1613357993714204"
-"Office Supplies","Fasteners","September","Sum of Profit","145.70579999999995"
-"Office Supplies","Fasteners","September","Sum of Sales","389.81399999999996"
-"Office Supplies","Fasteners","September","Sum of Sales - Sum of Profit","244.1082"
-"Office Supplies","Fasteners","September","(Sum of Sales - Sum of Profit)%","1.6753499174363689"
-"Office Supplies","Fasteners","August","Sum of Profit","42.162099999999995"
-"Office Supplies","Fasteners","August","Sum of Sales","157.92400000000004"
-"Office Supplies","Fasteners","August","Sum of Sales - Sum of Profit","115.76190000000004"
-"Office Supplies","Fasteners","August","(Sum of Sales - Sum of Profit)%","2.745638855749596"
-"Office Supplies","Fasteners","July","Sum of Profit","59.89300000000001"
-"Office Supplies","Fasteners","July","Sum of Sales","167.43800000000002"
-"Office Supplies","Fasteners","July","Sum of Sales - Sum of Profit","107.54500000000002"
-"Office Supplies","Fasteners","July","(Sum of Sales - Sum of Profit)%","1.7956188536222932"
-"Office Supplies","Fasteners","June","Sum of Profit","34.8279"
-"Office Supplies","Fasteners","June","Sum of Sales","110.54399999999998"
-"Office Supplies","Fasteners","June","Sum of Sales - Sum of Profit","75.71609999999998"
-"Office Supplies","Fasteners","June","(Sum of Sales - Sum of Profit)%","2.174007046075129"
-"Office Supplies","Fasteners","May","Sum of Profit","26.798899999999996"
-"Office Supplies","Fasteners","May","Sum of Sales","109.302"
-"Office Supplies","Fasteners","May","Sum of Sales - Sum of Profit","82.50310000000002"
-"Office Supplies","Fasteners","May","(Sum of Sales - Sum of Profit)%","3.078600241054671"
-"Office Supplies","Fasteners","April","Sum of Profit","31.276999999999994"
-"Office Supplies","Fasteners","April","Sum of Sales","170.98800000000003"
-"Office Supplies","Fasteners","April","Sum of Sales - Sum of Profit","139.71100000000004"
-"Office Supplies","Fasteners","April","(Sum of Sales - Sum of Profit)%","4.466892604789464"
-"Office Supplies","Fasteners","March","Sum of Profit","34.1674"
-"Office Supplies","Fasteners","March","Sum of Sales","149.63600000000002"
-"Office Supplies","Fasteners","March","Sum of Sales - Sum of Profit","115.46860000000002"
-"Office Supplies","Fasteners","March","(Sum of Sales - Sum of Profit)%","3.3794962449586454"
-"Office Supplies","Fasteners","February","Sum of Profit","46.271499999999996"
-"Office Supplies","Fasteners","February","Sum of Sales","137.856"
-"Office Supplies","Fasteners","February","Sum of Sales - Sum of Profit","91.58449999999999"
-"Office Supplies","Fasteners","February","(Sum of Sales - Sum of Profit)%","1.97928530520947"
-"Office Supplies","Fasteners","January","Sum of Profit","14.673099999999996"
-"Office Supplies","Fasteners","January","Sum of Sales","80.10000000000001"
-"Office Supplies","Fasteners","January","Sum of Sales - Sum of Profit","65.42690000000002"
-"Office Supplies","Fasteners","January","(Sum of Sales - Sum of Profit)%","4.4589691339935005"
-"Office Supplies","Labels","December","Sum of Profit","558.2769000000001"
-"Office Supplies","Labels","December","Sum of Sales","1233.2020000000002"
-"Office Supplies","Labels","December","Sum of Sales - Sum of Profit","674.9251000000002"
-"Office Supplies","Labels","December","(Sum of Sales - Sum of Profit)%","1.2089432681165924"
-"Office Supplies","Labels","November","Sum of Profit","743.4728000000001"
-"Office Supplies","Labels","November","Sum of Sales","1779.6360000000002"
-"Office Supplies","Labels","November","Sum of Sales - Sum of Profit","1036.1632"
-"Office Supplies","Labels","November","(Sum of Sales - Sum of Profit)%","1.3936800377902188"
-"Office Supplies","Labels","October","Sum of Profit","533.0691"
-"Office Supplies","Labels","October","Sum of Sales","1217.478"
-"Office Supplies","Labels","October","Sum of Sales - Sum of Profit","684.4089"
-"Office Supplies","Labels","October","(Sum of Sales - Sum of Profit)%","1.283902781084103"
-"Office Supplies","Labels","September","Sum of Profit","458.3744"
-"Office Supplies","Labels","September","Sum of Sales","1049.106"
-"Office Supplies","Labels","September","Sum of Sales - Sum of Profit","590.7316000000001"
-"Office Supplies","Labels","September","(Sum of Sales - Sum of Profit)%","1.288753473143352"
-"Office Supplies","Labels","August","Sum of Profit","352.5606"
-"Office Supplies","Labels","August","Sum of Sales","773.0820000000001"
-"Office Supplies","Labels","August","Sum of Sales - Sum of Profit","420.5214000000001"
-"Office Supplies","Labels","August","(Sum of Sales - Sum of Profit)%","1.1927634568355059"
-"Office Supplies","Labels","July","Sum of Profit","635.2902999999998"
-"Office Supplies","Labels","July","Sum of Sales","1335.5160000000005"
-"Office Supplies","Labels","July","Sum of Sales - Sum of Profit","700.2257000000008"
-"Office Supplies","Labels","July","(Sum of Sales - Sum of Profit)%","1.102213743858518"
-"Office Supplies","Labels","June","Sum of Profit","514.8910000000001"
-"Office Supplies","Labels","June","Sum of Sales","1139.33"
-"Office Supplies","Labels","June","Sum of Sales - Sum of Profit","624.4389999999999"
-"Office Supplies","Labels","June","(Sum of Sales - Sum of Profit)%","1.2127595937781002"
-"Office Supplies","Labels","May","Sum of Profit","318.7735"
-"Office Supplies","Labels","May","Sum of Sales","718.0619999999999"
-"Office Supplies","Labels","May","Sum of Sales - Sum of Profit","399.2884999999999"
-"Office Supplies","Labels","May","(Sum of Sales - Sum of Profit)%","1.2525774570345398"
-"Office Supplies","Labels","April","Sum of Profit","139.2686"
-"Office Supplies","Labels","April","Sum of Sales","320.68"
-"Office Supplies","Labels","April","Sum of Sales - Sum of Profit","181.41140000000001"
-"Office Supplies","Labels","April","(Sum of Sales - Sum of Profit)%","1.302600873420139"
-"Office Supplies","Labels","March","Sum of Profit","427.78299999999996"
-"Office Supplies","Labels","March","Sum of Sales","919.4079999999998"
-"Office Supplies","Labels","March","Sum of Sales - Sum of Profit","491.62499999999983"
-"Office Supplies","Labels","March","(Sum of Sales - Sum of Profit)%","1.1492392170796872"
-"Office Supplies","Labels","February","Sum of Profit","134.8464"
-"Office Supplies","Labels","February","Sum of Sales","299.882"
-"Office Supplies","Labels","February","Sum of Sales - Sum of Profit","165.03560000000002"
-"Office Supplies","Labels","February","(Sum of Sales - Sum of Profit)%","1.223878427603555"
-"Office Supplies","Labels","January","Sum of Profit","64.28410000000001"
-"Office Supplies","Labels","January","Sum of Sales","138.24"
-"Office Supplies","Labels","January","Sum of Sales - Sum of Profit","73.9559"
-"Office Supplies","Labels","January","(Sum of Sales - Sum of Profit)%","1.1504540002893404"
-"Office Supplies","Paper","December","Sum of Profit","4543.973600000003"
-"Office Supplies","Paper","December","Sum of Sales","10459.489999999996"
-"Office Supplies","Paper","December","Sum of Sales - Sum of Profit","5915.516399999993"
-"Office Supplies","Paper","December","(Sum of Sales - Sum of Profit)%","1.301837757155981"
-"Office Supplies","Paper","November","Sum of Profit","5201.073599999998"
-"Office Supplies","Paper","November","Sum of Sales","11846.389999999994"
-"Office Supplies","Paper","November","Sum of Sales - Sum of Profit","6645.316399999996"
-"Office Supplies","Paper","November","(Sum of Sales - Sum of Profit)%","1.2776816694153297"
-"Office Supplies","Paper","October","Sum of Profit","1692.1359999999995"
-"Office Supplies","Paper","October","Sum of Sales","4082.0380000000005"
-"Office Supplies","Paper","October","Sum of Sales - Sum of Profit","2389.902000000001"
-"Office Supplies","Paper","October","(Sum of Sales - Sum of Profit)%","1.412358108331719"
-"Office Supplies","Paper","September","Sum of Profit","4189.6568000000025"
-"Office Supplies","Paper","September","Sum of Sales","9419.307999999997"
-"Office Supplies","Paper","September","Sum of Sales - Sum of Profit","5229.651199999995"
-"Office Supplies","Paper","September","(Sum of Sales - Sum of Profit)%","1.248229019618025"
-"Office Supplies","Paper","August","Sum of Profit","2456.1352"
-"Office Supplies","Paper","August","Sum of Sales","5739.000000000002"
-"Office Supplies","Paper","August","Sum of Sales - Sum of Profit","3282.8648000000017"
-"Office Supplies","Paper","August","(Sum of Sales - Sum of Profit)%","1.3365977573221546"
-"Office Supplies","Paper","July","Sum of Profit","1644.7139000000006"
-"Office Supplies","Paper","July","Sum of Sales","3890.2880000000014"
-"Office Supplies","Paper","July","Sum of Sales - Sum of Profit","2245.5741000000007"
-"Office Supplies","Paper","July","(Sum of Sales - Sum of Profit)%","1.365328097488566"
-"Office Supplies","Paper","June","Sum of Profit","2315.7936"
-"Office Supplies","Paper","June","Sum of Sales","5414.633999999998"
-"Office Supplies","Paper","June","Sum of Sales - Sum of Profit","3098.840399999998"
-"Office Supplies","Paper","June","(Sum of Sales - Sum of Profit)%","1.3381332429625845"
-"Office Supplies","Paper","May","Sum of Profit","2601.315699999999"
-"Office Supplies","Paper","May","Sum of Sales","5936.665999999997"
-"Office Supplies","Paper","May","Sum of Sales - Sum of Profit","3335.3502999999982"
-"Office Supplies","Paper","May","(Sum of Sales - Sum of Profit)%","1.2821782069742627"
-"Office Supplies","Paper","April","Sum of Profit","1477.5727"
-"Office Supplies","Paper","April","Sum of Sales","3524.0720000000006"
-"Office Supplies","Paper","April","Sum of Sales - Sum of Profit","2046.4993000000006"
-"Office Supplies","Paper","April","(Sum of Sales - Sum of Profit)%","1.3850413587094568"
-"Office Supplies","Paper","March","Sum of Profit","2614.658999999999"
-"Office Supplies","Paper","March","Sum of Sales","5975.563999999998"
-"Office Supplies","Paper","March","Sum of Sales - Sum of Profit","3360.9049999999984"
-"Office Supplies","Paper","March","(Sum of Sales - Sum of Profit)%","1.2854085370214623"
-"Office Supplies","Paper","February","Sum of Profit","999.8929999999999"
-"Office Supplies","Paper","February","Sum of Sales","2340.4939999999997"
-"Office Supplies","Paper","February","Sum of Sales - Sum of Profit","1340.6009999999997"
-"Office Supplies","Paper","February","(Sum of Sales - Sum of Profit)%","1.3407444596571834"
-"Office Supplies","Paper","January","Sum of Profit","959.6478000000003"
-"Office Supplies","Paper","January","Sum of Sales","2159.838"
-"Office Supplies","Paper","January","Sum of Sales - Sum of Profit","1200.1902"
-"Office Supplies","Paper","January","(Sum of Sales - Sum of Profit)%","1.250656959772116"
-"Office Supplies","Storage","December","Sum of Profit","3570.6515000000004"
-"Office Supplies","Storage","December","Sum of Sales","27479.180000000004"
-"Office Supplies","Storage","December","Sum of Sales - Sum of Profit","23908.528500000004"
-"Office Supplies","Storage","December","(Sum of Sales - Sum of Profit)%","6.695844861925058"
-"Office Supplies","Storage","November","Sum of Profit","3726.8743999999992"
-"Office Supplies","Storage","November","Sum of Sales","34534.00600000001"
-"Office Supplies","Storage","November","Sum of Sales - Sum of Profit","30807.131600000008"
-"Office Supplies","Storage","November","(Sum of Sales - Sum of Profit)%","8.2662113861417"
-"Office Supplies","Storage","October","Sum of Profit","539.4248999999993"
-"Office Supplies","Storage","October","Sum of Sales","14850.940000000002"
-"Office Supplies","Storage","October","Sum of Sales - Sum of Profit","14311.515100000002"
-"Office Supplies","Storage","October","(Sum of Sales - Sum of Profit)%","26.531061321047694"
-"Office Supplies","Storage","September","Sum of Profit","2517.110800000001"
-"Office Supplies","Storage","September","Sum of Sales","26842.89799999999"
-"Office Supplies","Storage","September","Sum of Sales - Sum of Profit","24325.787199999988"
-"Office Supplies","Storage","September","(Sum of Sales - Sum of Profit)%","9.664170206571749"
-"Office Supplies","Storage","August","Sum of Profit","1410.6100999999994"
-"Office Supplies","Storage","August","Sum of Sales","15437.096000000001"
-"Office Supplies","Storage","August","Sum of Sales - Sum of Profit","14026.485900000001"
-"Office Supplies","Storage","August","(Sum of Sales - Sum of Profit)%","9.94355981146031"
-"Office Supplies","Storage","July","Sum of Profit","761.1965999999996"
-"Office Supplies","Storage","July","Sum of Sales","10414.343999999997"
-"Office Supplies","Storage","July","Sum of Sales - Sum of Profit","9653.147399999998"
-"Office Supplies","Storage","July","(Sum of Sales - Sum of Profit)%","12.681542981143114"
-"Office Supplies","Storage","June","Sum of Profit","953.1164999999997"
-"Office Supplies","Storage","June","Sum of Sales","15014.833999999997"
-"Office Supplies","Storage","June","Sum of Sales - Sum of Profit","14061.717499999997"
-"Office Supplies","Storage","June","(Sum of Sales - Sum of Profit)%","14.753408948433902"
-"Office Supplies","Storage","May","Sum of Profit","1228.7561999999994"
-"Office Supplies","Storage","May","Sum of Sales","13691.282"
-"Office Supplies","Storage","May","Sum of Sales - Sum of Profit","12462.5258"
-"Office Supplies","Storage","May","(Sum of Sales - Sum of Profit)%","10.142390980407672"
-"Office Supplies","Storage","April","Sum of Profit","1293.1126"
-"Office Supplies","Storage","April","Sum of Sales","14817.201999999997"
-"Office Supplies","Storage","April","Sum of Sales - Sum of Profit","13524.089399999997"
-"Office Supplies","Storage","April","(Sum of Sales - Sum of Profit)%","10.458555117319246"
-"Office Supplies","Storage","March","Sum of Profit","1627.1746999999996"
-"Office Supplies","Storage","March","Sum of Sales","13637.821999999998"
-"Office Supplies","Storage","March","Sum of Sales - Sum of Profit","12010.647299999999"
-"Office Supplies","Storage","March","(Sum of Sales - Sum of Profit)%","7.381289360017705"
-"Office Supplies","Storage","February","Sum of Profit","468.3598999999999"
-"Office Supplies","Storage","February","Sum of Sales","5881.724"
-"Office Supplies","Storage","February","Sum of Sales - Sum of Profit","5413.364100000001"
-"Office Supplies","Storage","February","(Sum of Sales - Sum of Profit)%","11.558128908986445"
-"Office Supplies","Storage","January","Sum of Profit","949.1333999999998"
-"Office Supplies","Storage","January","Sum of Sales","6603.868"
-"Office Supplies","Storage","January","Sum of Sales - Sum of Profit","5654.734600000001"
-"Office Supplies","Storage","January","(Sum of Sales - Sum of Profit)%","5.9577869665107155"
-"Office Supplies","Supplies","December","Sum of Profit","189.27609999999996"
-"Office Supplies","Supplies","December","Sum of Sales","3440.5160000000005"
-"Office Supplies","Supplies","December","Sum of Sales - Sum of Profit","3251.2399000000005"
-"Office Supplies","Supplies","December","(Sum of Sales - Sum of Profit)%","17.177234209707414"
-"Office Supplies","Supplies","November","Sum of Profit","-123.35690000000004"
-"Office Supplies","Supplies","November","Sum of Sales","1314.1979999999999"
-"Office Supplies","Supplies","November","Sum of Sales - Sum of Profit","1437.5548999999999"
-"Office Supplies","Supplies","November","(Sum of Sales - Sum of Profit)%","11.6536237535152"
-"Office Supplies","Supplies","October","Sum of Profit","40.81920000000002"
-"Office Supplies","Supplies","October","Sum of Sales","694.7320000000001"
-"Office Supplies","Supplies","October","Sum of Sales - Sum of Profit","653.9128000000001"
-"Office Supplies","Supplies","October","(Sum of Sales - Sum of Profit)%","16.019735810598927"
-"Office Supplies","Supplies","September","Sum of Profit","-991.9062000000001"
-"Office Supplies","Supplies","September","Sum of Sales","5709.3640000000005"
-"Office Supplies","Supplies","September","Sum of Sales - Sum of Profit","6701.270200000001"
-"Office Supplies","Supplies","September","(Sum of Sales - Sum of Profit)%","6.755951520415943"
-"Office Supplies","Supplies","August","Sum of Profit","40.50169999999997"
-"Office Supplies","Supplies","August","Sum of Sales","591.4100000000001"
-"Office Supplies","Supplies","August","Sum of Sales - Sum of Profit","550.9083"
-"Office Supplies","Supplies","August","(Sum of Sales - Sum of Profit)%","13.602103121597374"
-"Office Supplies","Supplies","July","Sum of Profit","419.2236999999996"
-"Office Supplies","Supplies","July","Sum of Sales","8752.86"
-"Office Supplies","Supplies","July","Sum of Sales - Sum of Profit","8333.6363"
-"Office Supplies","Supplies","July","(Sum of Sales - Sum of Profit)%","19.87873371662911"
-"Office Supplies","Supplies","June","Sum of Profit","70.4448"
-"Office Supplies","Supplies","June","Sum of Sales","1235.4680000000003"
-"Office Supplies","Supplies","June","Sum of Sales - Sum of Profit","1165.0232000000003"
-"Office Supplies","Supplies","June","(Sum of Sales - Sum of Profit)%","16.5381007540656"
-"Office Supplies","Supplies","May","Sum of Profit","129.8522"
-"Office Supplies","Supplies","May","Sum of Sales","1153.636"
-"Office Supplies","Supplies","May","Sum of Sales - Sum of Profit","1023.7837999999999"
-"Office Supplies","Supplies","May","(Sum of Sales - Sum of Profit)%","7.8842237559317425"
-"Office Supplies","Supplies","April","Sum of Profit","29.828900000000136"
-"Office Supplies","Supplies","April","Sum of Sales","6030.567999999999"
-"Office Supplies","Supplies","April","Sum of Sales - Sum of Profit","6000.739099999999"
-"Office Supplies","Supplies","April","(Sum of Sales - Sum of Profit)%","201.1719875691015"
-"Office Supplies","Supplies","March","Sum of Profit","-843.6412000000006"
-"Office Supplies","Supplies","March","Sum of Sales","10636.744000000002"
-"Office Supplies","Supplies","March","Sum of Sales - Sum of Profit","11480.385200000002"
-"Office Supplies","Supplies","March","(Sum of Sales - Sum of Profit)%","13.60813720335137"
-"Office Supplies","Supplies","February","Sum of Profit","17.962200000000006"
-"Office Supplies","Supplies","February","Sum of Sales","289.35"
-"Office Supplies","Supplies","February","Sum of Sales - Sum of Profit","271.3878"
-"Office Supplies","Supplies","February","(Sum of Sales - Sum of Profit)%","15.108828539933857"
-"Office Supplies","Supplies","January","Sum of Profit","130.22110000000004"
-"Office Supplies","Supplies","January","Sum of Sales","4403.369999999999"
-"Office Supplies","Supplies","January","Sum of Sales - Sum of Profit","4273.148899999999"
-"Office Supplies","Supplies","January","(Sum of Sales - Sum of Profit)%","32.81456614941817"
-"Technology","Accessories","December","Sum of Profit","6690.981700000001"
-"Technology","Accessories","December","Sum of Sales","25096.967999999997"
-"Technology","Accessories","December","Sum of Sales - Sum of Profit","18405.986299999997"
-"Technology","Accessories","December","(Sum of Sales - Sum of Profit)%","2.7508648394599544"
-"Technology","Accessories","November","Sum of Profit","5956.5665"
-"Technology","Accessories","November","Sum of Sales","23999.210000000014"
-"Technology","Accessories","November","Sum of Sales - Sum of Profit","18042.643500000013"
-"Technology","Accessories","November","(Sum of Sales - Sum of Profit)%","3.0290341759804096"
-"Technology","Accessories","October","Sum of Profit","2632.5006999999996"
-"Technology","Accessories","October","Sum of Sales","12460.337999999996"
-"Technology","Accessories","October","Sum of Sales - Sum of Profit","9827.837299999996"
-"Technology","Accessories","October","(Sum of Sales - Sum of Profit)%","3.7332705362623444"
-"Technology","Accessories","September","Sum of Profit","4558.334700000001"
-"Technology","Accessories","September","Sum of Sales","17978.568000000003"
-"Technology","Accessories","September","Sum of Sales - Sum of Profit","13420.233300000002"
-"Technology","Accessories","September","(Sum of Sales - Sum of Profit)%","2.9441087992068677"
-"Technology","Accessories","August","Sum of Profit","2551.1388"
-"Technology","Accessories","August","Sum of Sales","12103.367999999999"
-"Technology","Accessories","August","Sum of Sales - Sum of Profit","9552.229199999998"
-"Technology","Accessories","August","(Sum of Sales - Sum of Profit)%","3.7443000749312416"
-"Technology","Accessories","July","Sum of Profit","3559.395499999999"
-"Technology","Accessories","July","Sum of Sales","12463.912000000002"
-"Technology","Accessories","July","Sum of Sales - Sum of Profit","8904.516500000003"
-"Technology","Accessories","July","(Sum of Sales - Sum of Profit)%","2.501693475760141"
-"Technology","Accessories","June","Sum of Profit","1988.281"
-"Technology","Accessories","June","Sum of Sales","7875.898"
-"Technology","Accessories","June","Sum of Sales - Sum of Profit","5887.617"
-"Technology","Accessories","June","(Sum of Sales - Sum of Profit)%","2.9611594135838946"
-"Technology","Accessories","May","Sum of Profit","1625.7697999999993"
-"Technology","Accessories","May","Sum of Sales","7359.088"
-"Technology","Accessories","May","Sum of Sales - Sum of Profit","5733.318200000001"
-"Technology","Accessories","May","(Sum of Sales - Sum of Profit)%","3.5265252190070218"
-"Technology","Accessories","April","Sum of Profit","1508.9290999999998"
-"Technology","Accessories","April","Sum of Sales","5757.273999999999"
-"Technology","Accessories","April","Sum of Sales - Sum of Profit","4248.3449"
-"Technology","Accessories","April","(Sum of Sales - Sum of Profit)%","2.8154701900838153"
-"Technology","Accessories","March","Sum of Profit","2248.8948"
-"Technology","Accessories","March","Sum of Sales","8508.210000000001"
-"Technology","Accessories","March","Sum of Sales - Sum of Profit","6259.315200000001"
-"Technology","Accessories","March","(Sum of Sales - Sum of Profit)%","2.7832850162666576"
-"Technology","Accessories","February","Sum of Profit","1168.3732"
-"Technology","Accessories","February","Sum of Sales","4614.245999999999"
-"Technology","Accessories","February","Sum of Sales - Sum of Profit","3445.872799999999"
-"Technology","Accessories","February","(Sum of Sales - Sum of Profit)%","2.9492912025027613"
-"Technology","Accessories","January","Sum of Profit","845.9172999999998"
-"Technology","Accessories","January","Sum of Sales","3846.41"
-"Technology","Accessories","January","Sum of Sales - Sum of Profit","3000.4927"
-"Technology","Accessories","January","(Sum of Sales - Sum of Profit)%","3.5470284151890503"
-"Technology","Copiers","December","Sum of Profit","6559.886199999999"
-"Technology","Copiers","December","Sum of Sales","17599.674"
-"Technology","Copiers","December","Sum of Sales - Sum of Profit","11039.7878"
-"Technology","Copiers","December","(Sum of Sales - Sum of Profit)%","1.68292367632841"
-"Technology","Copiers","November","Sum of Profit","6280.9634"
-"Technology","Copiers","November","Sum of Sales","15149.883999999998"
-"Technology","Copiers","November","Sum of Sales - Sum of Profit","8868.920599999998"
-"Technology","Copiers","November","(Sum of Sales - Sum of Profit)%","1.4120318867006927"
-"Technology","Copiers","October","Sum of Profit","15863.897999999997"
-"Technology","Copiers","October","Sum of Sales","37019.755999999994"
-"Technology","Copiers","October","Sum of Sales - Sum of Profit","21155.857999999997"
-"Technology","Copiers","October","(Sum of Sales - Sum of Profit)%","1.3335850999546266"
-"Technology","Copiers","September","Sum of Profit","2806.9184"
-"Technology","Copiers","September","Sum of Sales","7559.7880000000005"
-"Technology","Copiers","September","Sum of Sales - Sum of Profit","4752.8696"
-"Technology","Copiers","September","(Sum of Sales - Sum of Profit)%","1.6932696012823172"
-"Technology","Copiers","August","Sum of Profit","1569.9734999999998"
-"Technology","Copiers","August","Sum of Sales","4529.924"
-"Technology","Copiers","August","Sum of Sales - Sum of Profit","2959.9505"
-"Technology","Copiers","August","(Sum of Sales - Sum of Profit)%","1.8853506126058819"
-"Technology","Copiers","July","Sum of Profit","2761.9452999999994"
-"Technology","Copiers","July","Sum of Sales","9779.792000000001"
-"Technology","Copiers","July","Sum of Sales - Sum of Profit","7017.846700000002"
-"Technology","Copiers","July","(Sum of Sales - Sum of Profit)%","2.540907200443109"
-"Technology","Copiers","June","Sum of Profit","314.9895"
-"Technology","Copiers","June","Sum of Sales","899.97"
-"Technology","Copiers","June","Sum of Sales - Sum of Profit","584.9805"
-"Technology","Copiers","June","(Sum of Sales - Sum of Profit)%","1.857142857142857"
-"Technology","Copiers","May","Sum of Profit","3719.9489999999987"
-"Technology","Copiers","May","Sum of Sales","18399.789999999997"
-"Technology","Copiers","May","Sum of Sales - Sum of Profit","14679.840999999999"
-"Technology","Copiers","May","(Sum of Sales - Sum of Profit)%","3.9462479189902884"
-"Technology","Copiers","April","Sum of Profit","701.9784"
-"Technology","Copiers","April","Sum of Sales","2079.936"
-"Technology","Copiers","April","Sum of Sales - Sum of Profit","1377.9576000000002"
-"Technology","Copiers","April","(Sum of Sales - Sum of Profit)%","1.9629629629629632"
-"Technology","Copiers","March","Sum of Profit","11044.399399999998"
-"Technology","Copiers","March","Sum of Sales","25589.736"
-"Technology","Copiers","March","Sum of Sales - Sum of Profit","14545.336600000002"
-"Technology","Copiers","March","(Sum of Sales - Sum of Profit)%","1.3169875584180708"
-"Technology","Copiers","February","Sum of Profit",
-"Technology","Copiers","February","Sum of Sales",
-"Technology","Copiers","February","Sum of Sales - Sum of Profit",
-"Technology","Copiers","February","(Sum of Sales - Sum of Profit)%",
-"Technology","Copiers","January","Sum of Profit","119.99599999999992"
-"Technology","Copiers","January","Sum of Sales","959.9680000000001"
-"Technology","Copiers","January","Sum of Sales - Sum of Profit","839.9720000000002"
-"Technology","Copiers","January","(Sum of Sales - Sum of Profit)%","7.000000000000005"
-"Technology","Machines","December","Sum of Profit","-111.04000000000087"
-"Technology","Machines","December","Sum of Sales","14247.496000000001"
-"Technology","Machines","December","Sum of Sales - Sum of Profit","14358.536000000002"
-"Technology","Machines","December","(Sum of Sales - Sum of Profit)%","129.30958213256383"
-"Technology","Machines","November","Sum of Profit","-2483.2696000000005"
-"Technology","Machines","November","Sum of Sales","21815.339"
-"Technology","Machines","November","Sum of Sales - Sum of Profit","24298.6086"
-"Technology","Machines","November","(Sum of Sales - Sum of Profit)%","9.784925728563662"
-"Technology","Machines","October","Sum of Profit","947.9603999999999"
-"Technology","Machines","October","Sum of Sales","10613.093"
-"Technology","Machines","October","Sum of Sales - Sum of Profit","9665.1326"
-"Technology","Machines","October","(Sum of Sales - Sum of Profit)%","10.195713449633551"
-"Technology","Machines","September","Sum of Profit","-74.67660000000083"
-"Technology","Machines","September","Sum of Sales","11552.945"
-"Technology","Machines","September","Sum of Sales - Sum of Profit","11627.6216"
-"Technology","Machines","September","(Sum of Sales - Sum of Profit)%","155.70636049311125"
-"Technology","Machines","August","Sum of Profit","1374.1189999999995"
-"Technology","Machines","August","Sum of Sales","6261.51"
-"Technology","Machines","August","Sum of Sales - Sum of Profit","4887.3910000000005"
-"Technology","Machines","August","(Sum of Sales - Sum of Profit)%","3.556745085396536"
-"Technology","Machines","July","Sum of Profit","149.3859"
-"Technology","Machines","July","Sum of Sales","3799.2930000000006"
-"Technology","Machines","July","Sum of Sales - Sum of Profit","3649.9071000000004"
-"Technology","Machines","July","(Sum of Sales - Sum of Profit)%","24.43274164429174"
-"Technology","Machines","June","Sum of Profit","2433.8314999999993"
-"Technology","Machines","June","Sum of Sales","11174.546000000002"
-"Technology","Machines","June","Sum of Sales - Sum of Profit","8740.714500000002"
-"Technology","Machines","June","(Sum of Sales - Sum of Profit)%","3.591339211445001"
-"Technology","Machines","May","Sum of Profit","1626.0846999999994"
-"Technology","Machines","May","Sum of Sales","11267.723000000002"
-"Technology","Machines","May","Sum of Sales - Sum of Profit","9641.638300000002"
-"Technology","Machines","May","(Sum of Sales - Sum of Profit)%","5.929357984857742"
-"Technology","Machines","April","Sum of Profit","-552.5183000000015"
-"Technology","Machines","April","Sum of Sales","16809.843"
-"Technology","Machines","April","Sum of Sales - Sum of Profit","17362.361300000004"
-"Technology","Machines","April","(Sum of Sales - Sum of Profit)%","31.42404749308748"
-"Technology","Machines","March","Sum of Profit","-1425.586900000003"
-"Technology","Machines","March","Sum of Sales","30151.974000000002"
-"Technology","Machines","March","Sum of Sales - Sum of Profit","31577.560900000004"
-"Technology","Machines","March","(Sum of Sales - Sum of Profit)%","22.15056893410001"
-"Technology","Machines","February","Sum of Profit","2838.9813999999997"
-"Technology","Machines","February","Sum of Sales","8989.934000000001"
-"Technology","Machines","February","Sum of Sales - Sum of Profit","6150.952600000001"
-"Technology","Machines","February","(Sum of Sales - Sum of Profit)%","2.166605459267892"
-"Technology","Machines","January","Sum of Profit","340.2575999999998"
-"Technology","Machines","January","Sum of Sales","2966.6490000000003"
-"Technology","Machines","January","Sum of Sales - Sum of Profit","2626.3914000000004"
-"Technology","Machines","January","(Sum of Sales - Sum of Profit)%","7.718832437541445"
-"Technology","Phones","December","Sum of Profit","4364.670899999999"
-"Technology","Phones","December","Sum of Sales","32574.322000000007"
-"Technology","Phones","December","Sum of Sales - Sum of Profit","28209.65110000001"
-"Technology","Phones","December","(Sum of Sales - Sum of Profit)%","6.463179411762755"
-"Technology","Phones","November","Sum of Profit","6752.797699999998"
-"Technology","Phones","November","Sum of Sales","50230.42999999998"
-"Technology","Phones","November","Sum of Sales - Sum of Profit","43477.63229999998"
-"Technology","Phones","November","(Sum of Sales - Sum of Profit)%","6.438462135479046"
-"Technology","Phones","October","Sum of Profit","3949.605600000001"
-"Technology","Phones","October","Sum of Sales","23117.216000000004"
-"Technology","Phones","October","Sum of Sales - Sum of Profit","19167.610400000005"
-"Technology","Phones","October","(Sum of Sales - Sum of Profit)%","4.8530441621816625"
-"Technology","Phones","September","Sum of Profit","5598.011799999998"
-"Technology","Phones","September","Sum of Sales","31527.99000000001"
-"Technology","Phones","September","Sum of Sales - Sum of Profit","25929.978200000012"
-"Technology","Phones","September","(Sum of Sales - Sum of Profit)%","4.631997774638492"
-"Technology","Phones","August","Sum of Profit","3121.6879"
-"Technology","Phones","August","Sum of Sales","27119.15"
-"Technology","Phones","August","Sum of Sales - Sum of Profit","23997.4621"
-"Technology","Phones","August","(Sum of Sales - Sum of Profit)%","7.687335463612491"
-"Technology","Phones","July","Sum of Profit","2556.1296"
-"Technology","Phones","July","Sum of Sales","22445.146000000004"
-"Technology","Phones","July","Sum of Sales - Sum of Profit","19889.016400000004"
-"Technology","Phones","July","(Sum of Sales - Sum of Profit)%","7.780910795759339"
-"Technology","Phones","June","Sum of Profit","3494.1934000000006"
-"Technology","Phones","June","Sum of Sales","23575.952000000005"
-"Technology","Phones","June","Sum of Sales - Sum of Profit","20081.758600000005"
-"Technology","Phones","June","(Sum of Sales - Sum of Profit)%","5.747180050194131"
-"Technology","Phones","May","Sum of Profit","2527.6313"
-"Technology","Phones","May","Sum of Sales","19737.430000000008"
-"Technology","Phones","May","Sum of Sales - Sum of Profit","17209.798700000007"
-"Technology","Phones","May","(Sum of Sales - Sum of Profit)%","6.8086665567086495"
-"Technology","Phones","April","Sum of Profit","2142.7836"
-"Technology","Phones","April","Sum of Sales","16897.766"
-"Technology","Phones","April","Sum of Sales - Sum of Profit","14754.982399999999"
-"Technology","Phones","April","(Sum of Sales - Sum of Profit)%","6.885894777242087"
-"Technology","Phones","March","Sum of Profit","2956.4566999999997"
-"Technology","Phones","March","Sum of Sales","26748.31000000001"
-"Technology","Phones","March","Sum of Sales - Sum of Profit","23791.85330000001"
-"Technology","Phones","March","(Sum of Sales - Sum of Profit)%","8.047421529968632"
-"Technology","Phones","February","Sum of Profit","959.6239999999998"
-"Technology","Phones","February","Sum of Sales","7710.751999999998"
-"Technology","Phones","February","Sum of Sales - Sum of Profit","6751.127999999998"
-"Technology","Phones","February","(Sum of Sales - Sum of Profit)%","7.035180445674555"
-"Technology","Phones","January","Sum of Profit","1743.2417"
-"Technology","Phones","January","Sum of Sales","12292.503999999999"
-"Technology","Phones","January","Sum of Sales - Sum of Profit","10549.262299999999"
-"Technology","Phones","January","(Sum of Sales - Sum of Profit)%","6.051520164989168"
+Min.Order Date.Variation.Date Hierarchy.Month,Min.Category,Min.Sub-Category,Sum(Min.Profit),Sum(Min.Sales)
+January,Furniture,Bookcases,-325.59220000000016,4814.928599999999
+February,Furniture,Bookcases,249.99299999999988,1649.6234000000002
+March,Furniture,Bookcases,-645.3928000000004,7146.582999999999
+April,Furniture,Bookcases,43.25359999999995,4331.7766
+May,Furniture,Bookcases,-238.51660000000027,6289.5817
+June,Furniture,Bookcases,261.8162999999998,8633.4643
+July,Furniture,Bookcases,539.8546,8009.846999999999
+August,Furniture,Bookcases,-54.84219999999988,5621.544999999999
+September,Furniture,Bookcases,-117.58160000000052,17170.4831
+October,Furniture,Bookcases,-591.9526000000001,5642.0452000000005
+November,Furniture,Bookcases,482.1260999999995,23065.336499999998
+December,Furniture,Bookcases,-1161.4328000000012,7510.430499999999
+January,Furniture,Chairs,675.0410999999997,10009.383
+February,Furniture,Chairs,683.5116999999996,6009.883999999999
+March,Furniture,Chairs,1598.5288999999993,19612.067000000006
+April,Furniture,Chairs,1420.9327999999996,14522.661999999997
+May,Furniture,Chairs,1506.1125999999995,24148.342
+June,Furniture,Chairs,782.7015999999994,16540.788
+July,Furniture,Chairs,459.0817999999995,20183.946999999996
+August,Furniture,Chairs,499.8399999999995,15802.507999999998
+September,Furniture,Chairs,6095.833499999999,47048.50199999997
+October,Furniture,Chairs,809.9989,21305.722000000005
+November,Furniture,Chairs,2608.7489999999984,42786.87099999998
+December,Furniture,Chairs,5763.5536999999995,52651.111000000004
+January,Furniture,Furnishings,547.4793000000001,3037.888
+February,Furniture,Furnishings,201.89139999999992,2220.5840000000003
+March,Furniture,Furnishings,939.8353,4925.5560000000005
+April,Furniture,Furnishings,1137.5918999999994,6897.297999999999
+May,Furniture,Furnishings,833.0794000000001,4871.554
+June,Furniture,Furnishings,620.3980999999999,5008.584
+July,Furniture,Furnishings,534.0021999999998,6524.678000000001
+August,Furniture,Furnishings,613.5127000000001,3567.3940000000007
+September,Furniture,Furnishings,2145.5893999999994,10673.497999999998
+October,Furniture,Furnishings,427.75889999999987,4713.852
+November,Furniture,Furnishings,1970.9455,14086.018
+December,Furniture,Furnishings,1965.9145999999994,13127.855999999996
+January,Furniture,Tables,-2719.8162000000007,10741.112
+February,Furniture,Tables,-555.3950000000002,4217.683
+March,Furniture,Tables,-1151.5823,14401.823
+April,Furniture,Tables,-334.69740000000024,7072.2195
+May,Furniture,Tables,-347.13990000000035,8721.171000000002
+June,Furniture,Tables,-675.2413000000005,14235.404999999999
+July,Furniture,Tables,-187.1220000000003,7980.326999999999
+August,Furniture,Tables,-780.4157000000009,13640.693000000001
+September,Furniture,Tables,-640.8797999999998,17580.164
+October,Furniture,Tables,-4796.4512,18640.0225
+November,Furniture,Tables,-1167.8582999999994,29483.782999999992
+December,Furniture,Tables,-1842.0441,30704.04
+January,Office Supplies,Appliances,598.7946,3176.244
+February,Office Supplies,Appliances,1089.4189999999996,4851.066
+March,Office Supplies,Appliances,25.60409999999964,5925.179999999997
+April,Office Supplies,Appliances,-263.5461000000009,4731.562000000001
+May,Office Supplies,Appliances,1068.5611999999994,7147.449999999999
+June,Office Supplies,Appliances,766.4189999999999,4775.13
+July,Office Supplies,Appliances,743.9222999999998,3741.094
+August,Office Supplies,Appliances,2700.0116,12391.739
+September,Office Supplies,Appliances,1540.1314999999997,9584.919999999996
+October,Office Supplies,Appliances,2226.8997,8908.836999999998
+November,Office Supplies,Appliances,3675.0382999999983,18278.412
+December,Office Supplies,Appliances,2658.9055999999996,14196.952999999998
+January,Office Supplies,Art,211.75799999999998,829.8880000000001
+February,Office Supplies,Art,261.4203000000001,1117.514
+March,Office Supplies,Art,296.57309999999995,1238.5020000000004
+April,Office Supplies,Art,443.1326000000001,1782.3919999999998
+May,Office Supplies,Art,412.82259999999997,1798.2139999999997
+June,Office Supplies,Art,418.1012,1608.464
+July,Office Supplies,Art,471.51239999999984,1944.304
+August,Office Supplies,Art,444.7847999999999,1696.4939999999997
+September,Office Supplies,Art,840.2319,3376.354000000002
+October,Office Supplies,Art,449.56940000000003,1748.2120000000014
+November,Office Supplies,Art,872.8121,3446.212000000001
+December,Office Supplies,Art,522.7730999999999,2186.8580000000006
+January,Office Supplies,Binders,2797.9117,11901.348999999998
+February,Office Supplies,Binders,690.0398000000002,4236.981000000001
+March,Office Supplies,Binders,2281.8478,7082.343999999999
+April,Office Supplies,Binders,3318.1817,10807.792999999998
+May,Office Supplies,Binders,905.1419999999995,6116.032
+June,Office Supplies,Binders,3430.3697999999995,12586.830999999998
+July,Office Supplies,Binders,-3433.0339000000017,8329.131000000003
+August,Office Supplies,Binders,4257.119,20185.281000000006
+September,Office Supplies,Binders,6655.595399999999,30790.111000000008
+October,Office Supplies,Binders,3839.947399999998,17620.721
+November,Office Supplies,Binders,-1269.8883999999964,19959.145000000004
+December,Office Supplies,Binders,3802.732500000001,31108.912000000004
+January,Office Supplies,Envelopes,250.84679999999997,642.512
+February,Office Supplies,Envelopes,303.17409999999995,668.566
+March,Office Supplies,Envelopes,576.5129999999999,1390.0359999999998
+April,Office Supplies,Envelopes,391.5077999999999,873.1220000000001
+May,Office Supplies,Envelopes,316.4876,708.3859999999999
+June,Office Supplies,Envelopes,165.76959999999997,392.53
+July,Office Supplies,Envelopes,545.3799,1200.08
+August,Office Supplies,Envelopes,191.038,416.32800000000003
+September,Office Supplies,Envelopes,762.4976999999999,1781.788
+October,Office Supplies,Envelopes,585.1125,1362.558
+November,Office Supplies,Envelopes,1043.4953,2543.1599999999994
+December,Office Supplies,Envelopes,751.8337,1820.0840000000005
+January,Office Supplies,Fasteners,14.673099999999996,80.10000000000001
+February,Office Supplies,Fasteners,46.271499999999996,137.856
+March,Office Supplies,Fasteners,34.1674,149.63600000000002
+April,Office Supplies,Fasteners,31.276999999999994,170.98800000000003
+May,Office Supplies,Fasteners,26.798899999999996,109.302
+June,Office Supplies,Fasteners,34.8279,110.54399999999998
+July,Office Supplies,Fasteners,59.89300000000001,167.43800000000002
+August,Office Supplies,Fasteners,42.162099999999995,157.92400000000004
+September,Office Supplies,Fasteners,145.70579999999995,389.81399999999996
+October,Office Supplies,Fasteners,77.31699999999998,321.742
+November,Office Supplies,Fasteners,146.4942,446.564
+December,Office Supplies,Fasteners,116.1504,297.434
+January,Office Supplies,Labels,64.28410000000001,138.24
+February,Office Supplies,Labels,134.8464,299.882
+March,Office Supplies,Labels,427.78299999999996,919.4079999999998
+April,Office Supplies,Labels,139.2686,320.68
+May,Office Supplies,Labels,318.7735,718.0619999999999
+June,Office Supplies,Labels,514.8910000000001,1139.33
+July,Office Supplies,Labels,635.2902999999998,1335.5160000000005
+August,Office Supplies,Labels,352.5606,773.0820000000001
+September,Office Supplies,Labels,458.3744,1049.106
+October,Office Supplies,Labels,533.0691,1217.478
+November,Office Supplies,Labels,743.4728000000001,1779.6360000000002
+December,Office Supplies,Labels,558.2769000000001,1233.2020000000002
+January,Office Supplies,Paper,959.6478000000003,2159.838
+February,Office Supplies,Paper,999.8929999999999,2340.4939999999997
+March,Office Supplies,Paper,2614.658999999999,5975.563999999998
+April,Office Supplies,Paper,1477.5727,3524.0720000000006
+May,Office Supplies,Paper,2601.315699999999,5936.665999999997
+June,Office Supplies,Paper,2315.7936,5414.633999999998
+July,Office Supplies,Paper,1644.7139000000006,3890.2880000000014
+August,Office Supplies,Paper,2456.1352,5739.000000000002
+September,Office Supplies,Paper,4189.6568000000025,9419.307999999997
+October,Office Supplies,Paper,1692.1359999999995,4082.0380000000005
+November,Office Supplies,Paper,5201.073599999998,11846.389999999994
+December,Office Supplies,Paper,4543.973600000003,10459.489999999996
+January,Office Supplies,Storage,949.1333999999998,6603.868
+February,Office Supplies,Storage,468.3598999999999,5881.724
+March,Office Supplies,Storage,1627.1746999999996,13637.821999999998
+April,Office Supplies,Storage,1293.1126,14817.201999999997
+May,Office Supplies,Storage,1228.7561999999994,13691.282
+June,Office Supplies,Storage,953.1164999999997,15014.833999999997
+July,Office Supplies,Storage,761.1965999999996,10414.343999999997
+August,Office Supplies,Storage,1410.6100999999994,15437.096000000001
+September,Office Supplies,Storage,2517.110800000001,26842.89799999999
+October,Office Supplies,Storage,539.4248999999993,14850.940000000002
+November,Office Supplies,Storage,3726.8743999999992,34534.00600000001
+December,Office Supplies,Storage,3570.6515000000004,27479.180000000004
+January,Office Supplies,Supplies,130.22110000000004,4403.369999999999
+February,Office Supplies,Supplies,17.962200000000006,289.35
+March,Office Supplies,Supplies,-843.6412000000006,10636.744000000002
+April,Office Supplies,Supplies,29.828900000000136,6030.567999999999
+May,Office Supplies,Supplies,129.8522,1153.636
+June,Office Supplies,Supplies,70.4448,1235.4680000000003
+July,Office Supplies,Supplies,419.2236999999996,8752.86
+August,Office Supplies,Supplies,40.50169999999997,591.4100000000001
+September,Office Supplies,Supplies,-991.9062000000001,5709.3640000000005
+October,Office Supplies,Supplies,40.81920000000002,694.7320000000001
+November,Office Supplies,Supplies,-123.35690000000004,1314.1979999999999
+December,Office Supplies,Supplies,189.27609999999996,3440.5160000000005
+January,Technology,Accessories,845.9172999999998,3846.41
+February,Technology,Accessories,1168.3732,4614.245999999999
+March,Technology,Accessories,2248.8948,8508.210000000001
+April,Technology,Accessories,1508.9290999999998,5757.273999999999
+May,Technology,Accessories,1625.7697999999993,7359.088
+June,Technology,Accessories,1988.281,7875.898
+July,Technology,Accessories,3559.395499999999,12463.912000000002
+August,Technology,Accessories,2551.1388,12103.367999999999
+September,Technology,Accessories,4558.334700000001,17978.568000000003
+October,Technology,Accessories,2632.5006999999996,12460.337999999996
+November,Technology,Accessories,5956.5665,23999.210000000014
+December,Technology,Accessories,6690.981700000001,25096.967999999997
+January,Technology,Copiers,119.99599999999992,959.9680000000001
+February,Technology,Copiers,,
+March,Technology,Copiers,11044.399399999998,25589.736
+April,Technology,Copiers,701.9784,2079.936
+May,Technology,Copiers,3719.9489999999987,18399.789999999997
+June,Technology,Copiers,314.9895,899.97
+July,Technology,Copiers,2761.9452999999994,9779.792000000001
+August,Technology,Copiers,1569.9734999999998,4529.924
+September,Technology,Copiers,2806.9184,7559.7880000000005
+October,Technology,Copiers,15863.897999999997,37019.755999999994
+November,Technology,Copiers,6280.9634,15149.883999999998
+December,Technology,Copiers,6559.886199999999,17599.674
+January,Technology,Machines,340.2575999999998,2966.6490000000003
+February,Technology,Machines,2838.9813999999997,8989.934000000001
+March,Technology,Machines,-1425.586900000003,30151.974000000002
+April,Technology,Machines,-552.5183000000015,16809.843
+May,Technology,Machines,1626.0846999999994,11267.723000000002
+June,Technology,Machines,2433.8314999999993,11174.546000000002
+July,Technology,Machines,149.3859,3799.2930000000006
+August,Technology,Machines,1374.1189999999995,6261.51
+September,Technology,Machines,-74.67660000000083,11552.945
+October,Technology,Machines,947.9603999999999,10613.093
+November,Technology,Machines,-2483.2696000000005,21815.339
+December,Technology,Machines,-111.04000000000087,14247.496000000001
+January,Technology,Phones,1743.2417,12292.503999999999
+February,Technology,Phones,959.6239999999998,7710.751999999998
+March,Technology,Phones,2956.4566999999997,26748.31000000001
+April,Technology,Phones,2142.7836,16897.766
+May,Technology,Phones,2527.6313,19737.430000000008
+June,Technology,Phones,3494.1934000000006,23575.952000000005
+July,Technology,Phones,2556.1296,22445.146000000004
+August,Technology,Phones,3121.6879,27119.15
+September,Technology,Phones,5598.011799999998,31527.99000000001
+October,Technology,Phones,3949.605600000001,23117.216000000004
+November,Technology,Phones,6752.797699999998,50230.42999999998
+December,Technology,Phones,4364.670899999999,32574.322000000007
