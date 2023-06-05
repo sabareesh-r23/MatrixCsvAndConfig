@@ -1,0 +1,15 @@
+Table5.Region,Table5.Country,Sum(Table5.PY),Sum(Table5.PL),Sum(Table5.AC)
+Americas,USA,920000,742000,955000
+Americas,Brazil,491000,963000,880000
+Americas,Canada,422000,644000,754000
+Americas,Other,289000,75000,289000
+Europe,Poland,454000,518000,522000
+Europe,Sweden,940000,898000,516000
+Europe,Belgium,531000,540000,513000
+Europe,Germany,290000,618000,417000
+Europe,France,348000,357000,293000
+Europe,Other,127000,240000,266000
+Asia-Pacific,Australia,726000,731000,719000
+Asia-Pacific,Japan,730000,797000,684000
+Asia-Pacific,China,947000,826000,676000
+Asia-Pacific,Other,278000,204000,197000
