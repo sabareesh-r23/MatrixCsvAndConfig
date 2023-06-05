@@ -1,13 +1,13 @@
-C03.Month Name,Sum(C03.AC),Sum(C03.PY)
-Jun,193,183
-Aug,189,164
-Jul,178,152
-Sep,178,172
-May,170,174
-Feb,147,134
-Apr,139,152
-Mar,136,141
-Jan,128,115
-Dec,,183
-Nov,,201
-Oct,,184
+0,1,Sum(C03.AC),Sum(C03.PY)
+[object Object],[object Object],193,183
+[object Object],[object Object],189,164
+[object Object],[object Object],178,152
+[object Object],[object Object],178,172
+[object Object],[object Object],170,174
+[object Object],[object Object],147,134
+[object Object],[object Object],139,152
+[object Object],[object Object],136,141
+[object Object],[object Object],128,115
+[object Object],[object Object],0,183
+[object Object],[object Object],0,201
+[object Object],[object Object],0,184
