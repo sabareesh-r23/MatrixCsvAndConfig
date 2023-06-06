@@ -1,0 +1,145 @@
+Orders.Ship Mode,Orders.Segment,Orders.Category,Orders.Region,Sum(Orders.Profit),CountNonNull(Orders.Row ID),Sum(Orders.Sales)
+First Class,Consumer,Technology,East,698.2641999999993,52,22843.346
+Same Day,Consumer,Technology,East,3000.7087,17,9788.284
+Second Class,Consumer,Technology,East,2459.3775,58,15939.067999999997
+Standard Class,Consumer,Technology,East,13771.828999999996,151,86870.53100000003
+First Class,Corporate,Technology,East,504.51859999999994,18,6121.297
+Same Day,Corporate,Technology,East,2511.7070999999996,11,10490.381000000001
+Second Class,Corporate,Technology,East,955.3315999999999,20,7477.968000000001
+Standard Class,Corporate,Technology,East,5851.230899999997,110,45635.920000000006
+First Class,Home Office,Technology,East,6036.2875,21,18728.670000000002
+Same Day,Home Office,Technology,East,322.15639999999996,3,1070.8000000000002
+Second Class,Home Office,Technology,East,968.9622000000002,16,5887.454
+Standard Class,Home Office,Technology,East,10381.661400000003,58,34120.26199999998
+First Class,Consumer,Technology,West,8768.763300000002,46,27251.099000000006
+Same Day,Consumer,Technology,West,2219.3432,15,7911.084000000002
+Second Class,Consumer,Technology,West,5106.633,57,24914.024
+Standard Class,Consumer,Technology,West,11690.8286,184,72915.53900000005
+First Class,Corporate,Technology,West,3221.309899999999,35,17640.4
+Same Day,Corporate,Technology,West,1195.6606,4,5545.192000000001
+Second Class,Corporate,Technology,West,1572.0102999999997,42,9500.932000000003
+Standard Class,Corporate,Technology,West,5952.082399999998,110,32954.787999999986
+First Class,Home Office,Technology,West,1822.9977999999999,26,16216.490000000002
+Same Day,Home Office,Technology,West,1144.0503,12,5761.778000000001
+Second Class,Home Office,Technology,West,555.898,13,4196.024
+Standard Class,Home Office,Technology,West,1054.0722000000005,55,27184.482000000007
+First Class,Consumer,Technology,Central,1313.2515999999996,29,7258.822000000002
+Same Day,Consumer,Technology,Central,620.4937999999997,14,3110.1560000000004
+Second Class,Consumer,Technology,Central,1792.1987000000004,40,12179.954000000002
+Standard Class,Consumer,Technology,Central,6249.394999999994,135,50141.80399999999
+First Class,Corporate,Technology,Central,1431.377899999999,21,7622.236000000002
+Same Day,Corporate,Technology,Central,,,
+Second Class,Corporate,Technology,Central,374.8217999999988,35,12918.799999999997
+Standard Class,Corporate,Technology,Central,14476.413599999998,63,44231.47400000002
+First Class,Home Office,Technology,Central,693.4754,11,3438.0280000000002
+Same Day,Home Office,Technology,Central,712.0715,4,2644.25
+Second Class,Home Office,Technology,Central,2428.4595,25,12956.875000000002
+Standard Class,Home Office,Technology,Central,3605.4731999999985,43,13913.912999999997
+First Class,Consumer,Technology,South,780.4703,22,3736.167000000001
+Same Day,Consumer,Technology,South,422.09889999999996,12,4455.372
+Second Class,Consumer,Technology,South,5071.9673,26,19909.558
+Standard Class,Consumer,Technology,South,6832.1865,93,37175.089
+First Class,Corporate,Technology,South,2078.0278000000003,16,7817.729999999998
+Same Day,Corporate,Technology,South,-3714.002999999999,2,8299.949999999999
+Second Class,Corporate,Technology,South,3917.8230999999996,19,12014.861999999997
+Standard Class,Corporate,Technology,South,3838.6853999999994,48,18178.189
+First Class,Home Office,Technology,South,153.8191,4,691.306
+Same Day,Home Office,Technology,South,236.6038,4,1046.6180000000002
+Second Class,Home Office,Technology,South,948.7233999999999,15,4326.023000000001
+Standard Class,Home Office,Technology,South,-574.5712000000026,32,31121.044
+First Class,Consumer,Furniture,West,80.5809999999993,53,14891.392999999998
+Same Day,Consumer,Furniture,West,452.1625999999998,19,4637.009
+Second Class,Consumer,Furniture,West,1575.4008000000003,77,29787.329499999996
+Standard Class,Consumer,Furniture,West,2222.523599999995,226,70492.35549999998
+First Class,Corporate,Furniture,West,630.2280999999997,39,16165.127499999999
+Same Day,Corporate,Furniture,West,-13.03600000000013,12,5673.023999999999
+Second Class,Corporate,Furniture,West,848.2787999999996,39,10859.757000000001
+Standard Class,Corporate,Furniture,West,2503.1949999999983,120,50382.19799999998
+First Class,Home Office,Furniture,West,278.74170000000004,23,8962.309
+Same Day,Home Office,Furniture,West,369.03949999999975,12,4217.945000000001
+Second Class,Home Office,Furniture,West,1720.769199999999,23,13508.569000000001
+Standard Class,Home Office,Furniture,West,837.0659999999991,64,23035.727000000003
+First Class,Consumer,Furniture,East,190.49449999999948,56,15127.518999999995
+Same Day,Consumer,Furniture,East,-423.47730000000007,16,5385.486000000001
+Second Class,Consumer,Furniture,East,950.3210000000001,66,24974.375999999997
+Standard Class,Consumer,Furniture,East,1320.774,165,68724.42100000002
+First Class,Corporate,Furniture,East,613.6982999999993,26,6662.529
+Same Day,Corporate,Furniture,East,711.8534999999996,12,6728.753000000001
+Second Class,Corporate,Furniture,East,-634.8835000000004,42,13813.15
+Standard Class,Corporate,Furniture,East,-348.54259999999874,118,37004.61400000001
+First Class,Home Office,Furniture,East,761.3767999999994,14,7620.5960000000005
+Same Day,Home Office,Furniture,East,-189.91720000000007,7,738.3319999999999
+Second Class,Home Office,Furniture,East,-244.71360000000016,19,5248.411
+Standard Class,Home Office,Furniture,East,339.1818999999995,60,16263.016999999998
+First Class,Consumer,Furniture,Central,542.6886000000004,32,11405.944000000001
+Same Day,Consumer,Furniture,Central,-227.1174999999996,23,7767.296000000002
+Second Class,Consumer,Furniture,Central,-2535.4379000000004,50,13276.197600000001
+Standard Class,Consumer,Furniture,Central,-1774.5674000000008,150,53779.7814
+First Class,Corporate,Furniture,Central,-512.1741000000001,19,6063.3154
+Same Day,Corporate,Furniture,Central,2.7354,1,5.82
+Second Class,Corporate,Furniture,Central,934.6982000000002,23,10668.857799999994
+Standard Class,Corporate,Furniture,Central,1896.734399999998,94,35347.6086
+First Class,Home Office,Furniture,Central,-691.4005000000002,13,3568.5660000000003
+Same Day,Home Office,Furniture,Central,17.248399999999982,4,1069.17
+Second Class,Home Office,Furniture,Central,19.91139999999956,21,7242.068000000001
+Standard Class,Home Office,Furniture,Central,-544.3684000000003,51,13602.539
+First Class,Consumer,Furniture,South,1264.9748999999997,23,8454.164
+Same Day,Consumer,Furniture,South,236.95540000000008,8,1965.4199999999996
+Second Class,Consumer,Furniture,South,773.5328999999983,43,18761.314499999993
+Standard Class,Consumer,Furniture,South,2341.2693999999974,106,41619.30549999997
+First Class,Corporate,Furniture,South,198.1737999999997,20,6186.620000000001
+Same Day,Corporate,Furniture,South,-199.0532000000001,3,701.704
+Second Class,Corporate,Furniture,South,448.5105999999997,17,6061.549999999999
+Standard Class,Corporate,Furniture,South,504.39909999999804,61,16695.157499999998
+First Class,Home Office,Furniture,South,-290.4357,9,5622.4400000000005
+Same Day,Home Office,Furniture,South,59.95479999999998,2,258.82
+Second Class,Home Office,Furniture,South,369.8734999999999,7,2087.444
+Standard Class,Home Office,Furniture,South,1063.0505999999993,33,8884.744499999999
+First Class,Consumer,Office Supplies,West,3326.7396000000003,142,11750.369999999995
+Same Day,Consumer,Office Supplies,West,1427.4369999999994,64,4902.376000000001
+Second Class,Consumer,Office Supplies,West,5066.569400000002,194,25075.587999999996
+Standard Class,Consumer,Office Supplies,West,15513.621899999973,595,68352.60599999999
+First Class,Corporate,Office Supplies,West,4061.5081000000005,96,14044.248
+Same Day,Corporate,Office Supplies,West,813.8385999999999,25,2774.9580000000005
+Second Class,Corporate,Office Supplies,West,3275.864500000001,120,17412.523999999983
+Standard Class,Corporate,Office Supplies,West,10376.489599999999,318,42902.12600000002
+First Class,Home Office,Office Supplies,West,447.3037,55,2840.452
+Same Day,Home Office,Office Supplies,West,533.4513999999999,22,2180.344
+Second Class,Home Office,Office Supplies,West,3155.9388000000004,56,10084.68
+Standard Class,Home Office,Office Supplies,West,4611.086400000005,210,18532.977000000003
+First Class,Consumer,Office Supplies,East,3445.110999999999,165,19291.087000000003
+Same Day,Consumer,Office Supplies,East,1470.497299999999,54,5717.373000000002
+Second Class,Consumer,Office Supplies,East,3080.2342,169,22258.16199999999
+Standard Class,Consumer,Office Supplies,East,11226.850199999988,500,53988.51399999998
+First Class,Corporate,Office Supplies,East,1683.9901999999995,80,6097.152000000001
+Same Day,Corporate,Office Supplies,East,294.3316,22,2266.207000000001
+Second Class,Corporate,Office Supplies,East,2007.1249000000014,93,16096.51
+Standard Class,Corporate,Office Supplies,East,9472.218299999995,325,42014.86600000002
+First Class,Home Office,Office Supplies,East,1798.2729999999995,58,11094.857000000004
+Same Day,Home Office,Office Supplies,East,282.40689999999984,13,1141.2160000000001
+Second Class,Home Office,Office Supplies,East,1245.5365,47,4850.425
+Standard Class,Home Office,Office Supplies,East,5008.004999999998,186,20699.685999999998
+First Class,Consumer,Office Supplies,Central,-867.8393000000002,82,8547.211999999998
+Same Day,Consumer,Office Supplies,Central,439.4676,46,3244.8859999999995
+Second Class,Consumer,Office Supplies,Central,1521.8020999999999,131,13369.995999999996
+Standard Class,Consumer,Office Supplies,Central,1489.712800000016,480,67949.385
+First Class,Corporate,Office Supplies,Central,-571.3871000000001,61,4649.558000000001
+Same Day,Corporate,Office Supplies,Central,-69.73620000000007,12,1729.68
+Second Class,Corporate,Office Supplies,Central,2187.427700000002,85,12134.309
+Standard Class,Corporate,Office Supplies,Central,-1447.009600000007,259,22624.153999999973
+First Class,Home Office,Office Supplies,Central,2369.2746999999995,31,6193.2339999999995
+Same Day,Home Office,Office Supplies,Central,36.716699999999975,16,844.152
+Second Class,Home Office,Office Supplies,Central,2390.9534000000003,55,8802.947999999999
+Standard Class,Home Office,Office Supplies,Central,1400.5970999999959,164,16936.901000000013
+First Class,Consumer,Office Supplies,South,1830.5439000000001,67,8611.841999999999
+Same Day,Consumer,Office Supplies,South,235.63569999999993,29,1711.617
+Second Class,Consumer,Office Supplies,South,84.31220000000076,109,11053.382000000005
+Standard Class,Consumer,Office Supplies,South,7039.625399999998,300,38127.740000000005
+First Class,Corporate,Office Supplies,South,1125.2009000000005,54,6788.257
+Same Day,Corporate,Office Supplies,South,283.8434,10,905.6540000000001
+Second Class,Corporate,Office Supplies,South,2338.7050999999988,74,17166.819
+Standard Class,Corporate,Office Supplies,South,4394.9101999999975,186,21069.440000000006
+First Class,Home Office,Office Supplies,South,-248.3895999999999,19,1424.0399999999997
+Same Day,Home Office,Office Supplies,South,675.6292,13,1672.018
+Second Class,Home Office,Office Supplies,South,713.6987999999999,19,2377.66
+Standard Class,Home Office,Office Supplies,South,1512.6776000000002,115,14742.844000000003
