@@ -1,8 +1,8 @@
-Table5.Country,Table5.Year,Table5.Region,Table5.City,Sum(Table5.PY),Sum(Table5.AC)
+Table5.Country,Table5.Year,Table5.Region,Table5.City,Sum(Table5.AC),Sum(Table5.PY)
 Australia,2017,Americas,Vancouver,,
 Belgium,2017,Americas,Vancouver,,
 Brazil,2017,Americas,Vancouver,,
-Canada,2017,Americas,Vancouver,42000,110000
+Canada,2017,Americas,Vancouver,110000,42000
 China,2017,Americas,Vancouver,,
 France,2017,Americas,Vancouver,,
 Germany,2017,Americas,Vancouver,,
@@ -14,7 +14,7 @@ USA,2017,Americas,Vancouver,,
 Australia,2018,Americas,Vancouver,,
 Belgium,2018,Americas,Vancouver,,
 Brazil,2018,Americas,Vancouver,,
-Canada,2018,Americas,Vancouver,102000,134000
+Canada,2018,Americas,Vancouver,134000,102000
 China,2018,Americas,Vancouver,,
 France,2018,Americas,Vancouver,,
 Germany,2018,Americas,Vancouver,,
@@ -26,7 +26,7 @@ USA,2018,Americas,Vancouver,,
 Australia,2019,Americas,Vancouver,,
 Belgium,2019,Americas,Vancouver,,
 Brazil,2019,Americas,Vancouver,,
-Canada,2019,Americas,Vancouver,111000,150000
+Canada,2019,Americas,Vancouver,150000,111000
 China,2019,Americas,Vancouver,,
 France,2019,Americas,Vancouver,,
 Germany,2019,Americas,Vancouver,,
@@ -46,7 +46,7 @@ Japan,2017,Americas,California,,
 Other,2017,Americas,California,,
 Poland,2017,Americas,California,,
 Sweden,2017,Americas,California,,
-USA,2017,Americas,California,90000,131000
+USA,2017,Americas,California,131000,90000
 Australia,2018,Americas,California,,
 Belgium,2018,Americas,California,,
 Brazil,2018,Americas,California,,
@@ -58,7 +58,7 @@ Japan,2018,Americas,California,,
 Other,2018,Americas,California,,
 Poland,2018,Americas,California,,
 Sweden,2018,Americas,California,,
-USA,2018,Americas,California,81000,131000
+USA,2018,Americas,California,131000,81000
 Australia,2019,Americas,California,,
 Belgium,2019,Americas,California,,
 Brazil,2019,Americas,California,,
@@ -70,10 +70,10 @@ Japan,2019,Americas,California,,
 Other,2019,Americas,California,,
 Poland,2019,Americas,California,,
 Sweden,2019,Americas,California,,
-USA,2019,Americas,California,139000,113000
+USA,2019,Americas,California,113000,139000
 Australia,2017,Americas,Rio,,
 Belgium,2017,Americas,Rio,,
-Brazil,2017,Americas,Rio,104000,138000
+Brazil,2017,Americas,Rio,138000,104000
 Canada,2017,Americas,Rio,,
 China,2017,Americas,Rio,,
 France,2017,Americas,Rio,,
@@ -85,7 +85,7 @@ Sweden,2017,Americas,Rio,,
 USA,2017,Americas,Rio,,
 Australia,2018,Americas,Rio,,
 Belgium,2018,Americas,Rio,,
-Brazil,2018,Americas,Rio,78000,105000
+Brazil,2018,Americas,Rio,105000,78000
 Canada,2018,Americas,Rio,,
 China,2018,Americas,Rio,,
 France,2018,Americas,Rio,,
@@ -97,7 +97,7 @@ Sweden,2018,Americas,Rio,,
 USA,2018,Americas,Rio,,
 Australia,2019,Americas,Rio,,
 Belgium,2019,Americas,Rio,,
-Brazil,2019,Americas,Rio,131000,99000
+Brazil,2019,Americas,Rio,99000,131000
 Canada,2019,Americas,Rio,,
 China,2019,Americas,Rio,,
 France,2019,Americas,Rio,,
@@ -109,7 +109,7 @@ Sweden,2019,Americas,Rio,,
 USA,2019,Americas,Rio,,
 Australia,2017,Americas,Manaus,,
 Belgium,2017,Americas,Manaus,,
-Brazil,2017,Americas,Manaus,72000,56000
+Brazil,2017,Americas,Manaus,56000,72000
 Canada,2017,Americas,Manaus,,
 China,2017,Americas,Manaus,,
 France,2017,Americas,Manaus,,
@@ -121,7 +121,7 @@ Sweden,2017,Americas,Manaus,,
 USA,2017,Americas,Manaus,,
 Australia,2018,Americas,Manaus,,
 Belgium,2018,Americas,Manaus,,
-Brazil,2018,Americas,Manaus,-122000,129000
+Brazil,2018,Americas,Manaus,129000,-122000
 Canada,2018,Americas,Manaus,,
 China,2018,Americas,Manaus,,
 France,2018,Americas,Manaus,,
@@ -133,7 +133,7 @@ Sweden,2018,Americas,Manaus,,
 USA,2018,Americas,Manaus,,
 Australia,2019,Americas,Manaus,,
 Belgium,2019,Americas,Manaus,,
-Brazil,2019,Americas,Manaus,55000,147000
+Brazil,2019,Americas,Manaus,147000,55000
 Canada,2019,Americas,Manaus,,
 China,2019,Americas,Manaus,,
 France,2019,Americas,Manaus,,
@@ -154,7 +154,7 @@ Japan,2017,Americas,New York,,
 Other,2017,Americas,New York,,
 Poland,2017,Americas,New York,,
 Sweden,2017,Americas,New York,,
-USA,2017,Americas,New York,92000,116000
+USA,2017,Americas,New York,116000,92000
 Australia,2018,Americas,New York,,
 Belgium,2018,Americas,New York,,
 Brazil,2018,Americas,New York,,
@@ -166,7 +166,7 @@ Japan,2018,Americas,New York,,
 Other,2018,Americas,New York,,
 Poland,2018,Americas,New York,,
 Sweden,2018,Americas,New York,,
-USA,2018,Americas,New York,119000,99000
+USA,2018,Americas,New York,99000,119000
 Australia,2019,Americas,New York,,
 Belgium,2019,Americas,New York,,
 Brazil,2019,Americas,New York,,
@@ -178,7 +178,7 @@ Japan,2019,Americas,New York,,
 Other,2019,Americas,New York,,
 Poland,2019,Americas,New York,,
 Sweden,2019,Americas,New York,,
-USA,2019,Americas,New York,96000,91000
+USA,2019,Americas,New York,91000,96000
 Australia,2017,Americas,Chicago,,
 Belgium,2017,Americas,Chicago,,
 Brazil,2017,Americas,Chicago,,
@@ -187,7 +187,7 @@ China,2017,Americas,Chicago,,
 France,2017,Americas,Chicago,,
 Germany,2017,Americas,Chicago,,
 Japan,2017,Americas,Chicago,,
-Other,2017,Americas,Chicago,111000,97000
+Other,2017,Americas,Chicago,97000,111000
 Poland,2017,Americas,Chicago,,
 Sweden,2017,Americas,Chicago,,
 USA,2017,Americas,Chicago,,
@@ -199,7 +199,7 @@ China,2018,Americas,Chicago,,
 France,2018,Americas,Chicago,,
 Germany,2018,Americas,Chicago,,
 Japan,2018,Americas,Chicago,,
-Other,2018,Americas,Chicago,93000,67000
+Other,2018,Americas,Chicago,67000,93000
 Poland,2018,Americas,Chicago,,
 Sweden,2018,Americas,Chicago,,
 USA,2018,Americas,Chicago,,
@@ -211,7 +211,7 @@ China,2019,Americas,Chicago,,
 France,2019,Americas,Chicago,,
 Germany,2019,Americas,Chicago,,
 Japan,2019,Americas,Chicago,,
-Other,2019,Americas,Chicago,85000,125000
+Other,2019,Americas,Chicago,125000,85000
 Poland,2019,Americas,Chicago,,
 Sweden,2019,Americas,Chicago,,
 USA,2019,Americas,Chicago,,
@@ -226,7 +226,7 @@ Japan,2017,Americas,Texas,,
 Other,2017,Americas,Texas,,
 Poland,2017,Americas,Texas,,
 Sweden,2017,Americas,Texas,,
-USA,2017,Americas,Texas,111000,112000
+USA,2017,Americas,Texas,112000,111000
 Australia,2018,Americas,Texas,,
 Belgium,2018,Americas,Texas,,
 Brazil,2018,Americas,Texas,,
@@ -238,7 +238,7 @@ Japan,2018,Americas,Texas,,
 Other,2018,Americas,Texas,,
 Poland,2018,Americas,Texas,,
 Sweden,2018,Americas,Texas,,
-USA,2018,Americas,Texas,141000,45000
+USA,2018,Americas,Texas,45000,141000
 Australia,2019,Americas,Texas,,
 Belgium,2019,Americas,Texas,,
 Brazil,2019,Americas,Texas,,
@@ -250,11 +250,11 @@ Japan,2019,Americas,Texas,,
 Other,2019,Americas,Texas,,
 Poland,2019,Americas,Texas,,
 Sweden,2019,Americas,Texas,,
-USA,2019,Americas,Texas,51000,117000
+USA,2019,Americas,Texas,117000,51000
 Australia,2017,Americas,Toronto,,
 Belgium,2017,Americas,Toronto,,
 Brazil,2017,Americas,Toronto,,
-Canada,2017,Americas,Toronto,59000,78000
+Canada,2017,Americas,Toronto,78000,59000
 China,2017,Americas,Toronto,,
 France,2017,Americas,Toronto,,
 Germany,2017,Americas,Toronto,,
@@ -266,7 +266,7 @@ USA,2017,Americas,Toronto,,
 Australia,2018,Americas,Toronto,,
 Belgium,2018,Americas,Toronto,,
 Brazil,2018,Americas,Toronto,,
-Canada,2018,Americas,Toronto,0,96000
+Canada,2018,Americas,Toronto,96000,0
 China,2018,Americas,Toronto,,
 France,2018,Americas,Toronto,,
 Germany,2018,Americas,Toronto,,
@@ -278,7 +278,7 @@ USA,2018,Americas,Toronto,,
 Australia,2019,Americas,Toronto,,
 Belgium,2019,Americas,Toronto,,
 Brazil,2019,Americas,Toronto,,
-Canada,2019,Americas,Toronto,35000,47000
+Canada,2019,Americas,Toronto,47000,35000
 China,2019,Americas,Toronto,,
 France,2019,Americas,Toronto,,
 Germany,2019,Americas,Toronto,,
@@ -289,7 +289,7 @@ Sweden,2019,Americas,Toronto,,
 USA,2019,Americas,Toronto,,
 Australia,2017,Americas,Salvador,,
 Belgium,2017,Americas,Salvador,,
-Brazil,2017,Americas,Salvador,121000,39000
+Brazil,2017,Americas,Salvador,39000,121000
 Canada,2017,Americas,Salvador,,
 China,2017,Americas,Salvador,,
 France,2017,Americas,Salvador,,
@@ -301,7 +301,7 @@ Sweden,2017,Americas,Salvador,,
 USA,2017,Americas,Salvador,,
 Australia,2018,Americas,Salvador,,
 Belgium,2018,Americas,Salvador,,
-Brazil,2018,Americas,Salvador,0,46000
+Brazil,2018,Americas,Salvador,46000,0
 Canada,2018,Americas,Salvador,,
 China,2018,Americas,Salvador,,
 France,2018,Americas,Salvador,,
@@ -313,7 +313,7 @@ Sweden,2018,Americas,Salvador,,
 USA,2018,Americas,Salvador,,
 Australia,2019,Americas,Salvador,,
 Belgium,2019,Americas,Salvador,,
-Brazil,2019,Americas,Salvador,52000,121000
+Brazil,2019,Americas,Salvador,121000,52000
 Canada,2019,Americas,Salvador,,
 China,2019,Americas,Salvador,,
 France,2019,Americas,Salvador,,
@@ -326,7 +326,7 @@ USA,2019,Americas,Salvador,,
 Australia,2017,Americas,Montreal,,
 Belgium,2017,Americas,Montreal,,
 Brazil,2017,Americas,Montreal,,
-Canada,2017,Americas,Montreal,107000,51000
+Canada,2017,Americas,Montreal,51000,107000
 China,2017,Americas,Montreal,,
 France,2017,Americas,Montreal,,
 Germany,2017,Americas,Montreal,,
@@ -338,7 +338,7 @@ USA,2017,Americas,Montreal,,
 Australia,2018,Americas,Montreal,,
 Belgium,2018,Americas,Montreal,,
 Brazil,2018,Americas,Montreal,,
-Canada,2018,Americas,Montreal,-120000,49000
+Canada,2018,Americas,Montreal,49000,-120000
 China,2018,Americas,Montreal,,
 France,2018,Americas,Montreal,,
 Germany,2018,Americas,Montreal,,
@@ -350,7 +350,7 @@ USA,2018,Americas,Montreal,,
 Australia,2019,Americas,Montreal,,
 Belgium,2019,Americas,Montreal,,
 Brazil,2019,Americas,Montreal,,
-Canada,2019,Americas,Montreal,86000,39000
+Canada,2019,Americas,Montreal,39000,86000
 China,2019,Americas,Montreal,,
 France,2019,Americas,Montreal,,
 Germany,2019,Americas,Montreal,,
@@ -360,7 +360,7 @@ Poland,2019,Americas,Montreal,,
 Sweden,2019,Americas,Montreal,,
 USA,2019,Americas,Montreal,,
 Australia,2017,Europe,Flanders,,
-Belgium,2017,Europe,Flanders,118000,88000
+Belgium,2017,Europe,Flanders,88000,118000
 Brazil,2017,Europe,Flanders,,
 Canada,2017,Europe,Flanders,,
 China,2017,Europe,Flanders,,
@@ -372,7 +372,7 @@ Poland,2017,Europe,Flanders,,
 Sweden,2017,Europe,Flanders,,
 USA,2017,Europe,Flanders,,
 Australia,2018,Europe,Flanders,,
-Belgium,2018,Europe,Flanders,95000,134000
+Belgium,2018,Europe,Flanders,134000,95000
 Brazil,2018,Europe,Flanders,,
 Canada,2018,Europe,Flanders,,
 China,2018,Europe,Flanders,,
@@ -384,7 +384,7 @@ Poland,2018,Europe,Flanders,,
 Sweden,2018,Europe,Flanders,,
 USA,2018,Europe,Flanders,,
 Australia,2019,Europe,Flanders,,
-Belgium,2019,Europe,Flanders,128000,108000
+Belgium,2019,Europe,Flanders,108000,128000
 Brazil,2019,Europe,Flanders,,
 Canada,2019,Europe,Flanders,,
 China,2019,Europe,Flanders,,
@@ -404,7 +404,7 @@ France,2017,Europe,Warsaw,,
 Germany,2017,Europe,Warsaw,,
 Japan,2017,Europe,Warsaw,,
 Other,2017,Europe,Warsaw,,
-Poland,2017,Europe,Warsaw,0,103000
+Poland,2017,Europe,Warsaw,103000,0
 Sweden,2017,Europe,Warsaw,,
 USA,2017,Europe,Warsaw,,
 Australia,2018,Europe,Warsaw,,
@@ -416,7 +416,7 @@ France,2018,Europe,Warsaw,,
 Germany,2018,Europe,Warsaw,,
 Japan,2018,Europe,Warsaw,,
 Other,2018,Europe,Warsaw,,
-Poland,2018,Europe,Warsaw,103000,99000
+Poland,2018,Europe,Warsaw,99000,103000
 Sweden,2018,Europe,Warsaw,,
 USA,2018,Europe,Warsaw,,
 Australia,2019,Europe,Warsaw,,
@@ -428,7 +428,7 @@ France,2019,Europe,Warsaw,,
 Germany,2019,Europe,Warsaw,,
 Japan,2019,Europe,Warsaw,,
 Other,2019,Europe,Warsaw,,
-Poland,2019,Europe,Warsaw,144000,118000
+Poland,2019,Europe,Warsaw,118000,144000
 Sweden,2019,Europe,Warsaw,,
 USA,2019,Europe,Warsaw,,
 Australia,2017,Europe,Frankfurt,,
@@ -437,7 +437,7 @@ Brazil,2017,Europe,Frankfurt,,
 Canada,2017,Europe,Frankfurt,,
 China,2017,Europe,Frankfurt,,
 France,2017,Europe,Frankfurt,,
-Germany,2017,Europe,Frankfurt,0,107000
+Germany,2017,Europe,Frankfurt,107000,0
 Japan,2017,Europe,Frankfurt,,
 Other,2017,Europe,Frankfurt,,
 Poland,2017,Europe,Frankfurt,,
@@ -449,7 +449,7 @@ Brazil,2018,Europe,Frankfurt,,
 Canada,2018,Europe,Frankfurt,,
 China,2018,Europe,Frankfurt,,
 France,2018,Europe,Frankfurt,,
-Germany,2018,Europe,Frankfurt,100000,91000
+Germany,2018,Europe,Frankfurt,91000,100000
 Japan,2018,Europe,Frankfurt,,
 Other,2018,Europe,Frankfurt,,
 Poland,2018,Europe,Frankfurt,,
@@ -461,7 +461,7 @@ Brazil,2019,Europe,Frankfurt,,
 Canada,2019,Europe,Frankfurt,,
 China,2019,Europe,Frankfurt,,
 France,2019,Europe,Frankfurt,,
-Germany,2019,Europe,Frankfurt,142000,91000
+Germany,2019,Europe,Frankfurt,91000,142000
 Japan,2019,Europe,Frankfurt,,
 Other,2019,Europe,Frankfurt,,
 Poland,2019,Europe,Frankfurt,,
@@ -475,7 +475,7 @@ China,2017,Europe,Finland,,
 France,2017,Europe,Finland,,
 Germany,2017,Europe,Finland,,
 Japan,2017,Europe,Finland,,
-Other,2017,Europe,Finland,77000,142000
+Other,2017,Europe,Finland,142000,77000
 Poland,2017,Europe,Finland,,
 Sweden,2017,Europe,Finland,,
 USA,2017,Europe,Finland,,
@@ -487,7 +487,7 @@ China,2018,Europe,Finland,,
 France,2018,Europe,Finland,,
 Germany,2018,Europe,Finland,,
 Japan,2018,Europe,Finland,,
-Other,2018,Europe,Finland,0,41000
+Other,2018,Europe,Finland,41000,0
 Poland,2018,Europe,Finland,,
 Sweden,2018,Europe,Finland,,
 USA,2018,Europe,Finland,,
@@ -499,7 +499,7 @@ China,2019,Europe,Finland,,
 France,2019,Europe,Finland,,
 Germany,2019,Europe,Finland,,
 Japan,2019,Europe,Finland,,
-Other,2019,Europe,Finland,50000,83000
+Other,2019,Europe,Finland,83000,50000
 Poland,2019,Europe,Finland,,
 Sweden,2019,Europe,Finland,,
 USA,2019,Europe,Finland,,
@@ -513,7 +513,7 @@ Germany,2017,Europe,Stockholm,,
 Japan,2017,Europe,Stockholm,,
 Other,2017,Europe,Stockholm,,
 Poland,2017,Europe,Stockholm,,
-Sweden,2017,Europe,Stockholm,84000,115000
+Sweden,2017,Europe,Stockholm,115000,84000
 USA,2017,Europe,Stockholm,,
 Australia,2018,Europe,Stockholm,,
 Belgium,2018,Europe,Stockholm,,
@@ -525,7 +525,7 @@ Germany,2018,Europe,Stockholm,,
 Japan,2018,Europe,Stockholm,,
 Other,2018,Europe,Stockholm,,
 Poland,2018,Europe,Stockholm,,
-Sweden,2018,Europe,Stockholm,131000,
+Sweden,2018,Europe,Stockholm,,131000
 USA,2018,Europe,Stockholm,,
 Australia,2019,Europe,Stockholm,,
 Belgium,2019,Europe,Stockholm,,
@@ -537,7 +537,7 @@ Germany,2019,Europe,Stockholm,,
 Japan,2019,Europe,Stockholm,,
 Other,2019,Europe,Stockholm,,
 Poland,2019,Europe,Stockholm,,
-Sweden,2019,Europe,Stockholm,117000,139000
+Sweden,2019,Europe,Stockholm,139000,117000
 USA,2019,Europe,Stockholm,,
 Australia,2017,Europe,Lublin,,
 Belgium,2017,Europe,Lublin,,
@@ -560,7 +560,7 @@ France,2018,Europe,Lublin,,
 Germany,2018,Europe,Lublin,,
 Japan,2018,Europe,Lublin,,
 Other,2018,Europe,Lublin,,
-Poland,2018,Europe,Lublin,79000,81000
+Poland,2018,Europe,Lublin,81000,79000
 Sweden,2018,Europe,Lublin,,
 USA,2018,Europe,Lublin,,
 Australia,2019,Europe,Lublin,,
@@ -572,7 +572,7 @@ France,2019,Europe,Lublin,,
 Germany,2019,Europe,Lublin,,
 Japan,2019,Europe,Lublin,,
 Other,2019,Europe,Lublin,,
-Poland,2019,Europe,Lublin,128000,121000
+Poland,2019,Europe,Lublin,121000,128000
 Sweden,2019,Europe,Lublin,,
 USA,2019,Europe,Lublin,,
 Australia,2017,Europe,Brussels,,
@@ -588,7 +588,7 @@ Poland,2017,Europe,Brussels,,
 Sweden,2017,Europe,Brussels,,
 USA,2017,Europe,Brussels,,
 Australia,2018,Europe,Brussels,,
-Belgium,2018,Europe,Brussels,78000,64000
+Belgium,2018,Europe,Brussels,64000,78000
 Brazil,2018,Europe,Brussels,,
 Canada,2018,Europe,Brussels,,
 China,2018,Europe,Brussels,,
@@ -600,7 +600,7 @@ Poland,2018,Europe,Brussels,,
 Sweden,2018,Europe,Brussels,,
 USA,2018,Europe,Brussels,,
 Australia,2019,Europe,Brussels,,
-Belgium,2019,Europe,Brussels,112000,119000
+Belgium,2019,Europe,Brussels,119000,112000
 Brazil,2019,Europe,Brussels,,
 Canada,2019,Europe,Brussels,,
 China,2019,Europe,Brussels,,
@@ -616,7 +616,7 @@ Belgium,2017,Europe,Marseille,,
 Brazil,2017,Europe,Marseille,,
 Canada,2017,Europe,Marseille,,
 China,2017,Europe,Marseille,,
-France,2017,Europe,Marseille,107000,118000
+France,2017,Europe,Marseille,118000,107000
 Germany,2017,Europe,Marseille,,
 Japan,2017,Europe,Marseille,,
 Other,2017,Europe,Marseille,,
@@ -640,7 +640,7 @@ Belgium,2019,Europe,Marseille,,
 Brazil,2019,Europe,Marseille,,
 Canada,2019,Europe,Marseille,,
 China,2019,Europe,Marseille,,
-France,2019,Europe,Marseille,101000,44000
+France,2019,Europe,Marseille,44000,101000
 Germany,2019,Europe,Marseille,,
 Japan,2019,Europe,Marseille,,
 Other,2019,Europe,Marseille,,
@@ -657,7 +657,7 @@ Germany,2017,Europe,Gothenburg,,
 Japan,2017,Europe,Gothenburg,,
 Other,2017,Europe,Gothenburg,,
 Poland,2017,Europe,Gothenburg,,
-Sweden,2017,Europe,Gothenburg,112000,0
+Sweden,2017,Europe,Gothenburg,0,112000
 USA,2017,Europe,Gothenburg,,
 Australia,2018,Europe,Gothenburg,,
 Belgium,2018,Europe,Gothenburg,,
@@ -669,7 +669,7 @@ Germany,2018,Europe,Gothenburg,,
 Japan,2018,Europe,Gothenburg,,
 Other,2018,Europe,Gothenburg,,
 Poland,2018,Europe,Gothenburg,,
-Sweden,2018,Europe,Gothenburg,130000,
+Sweden,2018,Europe,Gothenburg,,130000
 USA,2018,Europe,Gothenburg,,
 Australia,2019,Europe,Gothenburg,,
 Belgium,2019,Europe,Gothenburg,,
@@ -681,14 +681,14 @@ Germany,2019,Europe,Gothenburg,,
 Japan,2019,Europe,Gothenburg,,
 Other,2019,Europe,Gothenburg,,
 Poland,2019,Europe,Gothenburg,,
-Sweden,2019,Europe,Gothenburg,101000,141000
+Sweden,2019,Europe,Gothenburg,141000,101000
 USA,2019,Europe,Gothenburg,,
 Australia,2017,Europe,Paris,,
 Belgium,2017,Europe,Paris,,
 Brazil,2017,Europe,Paris,,
 Canada,2017,Europe,Paris,,
 China,2017,Europe,Paris,,
-France,2017,Europe,Paris,89000,0
+France,2017,Europe,Paris,0,89000
 Germany,2017,Europe,Paris,,
 Japan,2017,Europe,Paris,,
 Other,2017,Europe,Paris,,
@@ -712,7 +712,7 @@ Belgium,2019,Europe,Paris,,
 Brazil,2019,Europe,Paris,,
 Canada,2019,Europe,Paris,,
 China,2019,Europe,Paris,,
-France,2019,Europe,Paris,51000,131000
+France,2019,Europe,Paris,131000,51000
 Germany,2019,Europe,Paris,,
 Japan,2019,Europe,Paris,,
 Other,2019,Europe,Paris,,
@@ -749,7 +749,7 @@ Brazil,2019,Europe,Berlin,,
 Canada,2019,Europe,Berlin,,
 China,2019,Europe,Berlin,,
 France,2019,Europe,Berlin,,
-Germany,2019,Europe,Berlin,48000,128000
+Germany,2019,Europe,Berlin,128000,48000
 Japan,2019,Europe,Berlin,,
 Other,2019,Europe,Berlin,,
 Poland,2019,Europe,Berlin,,
@@ -765,7 +765,7 @@ Germany,2017,Europe,Malmo,,
 Japan,2017,Europe,Malmo,,
 Other,2017,Europe,Malmo,,
 Poland,2017,Europe,Malmo,,
-Sweden,2017,Europe,Malmo,80000,61000
+Sweden,2017,Europe,Malmo,61000,80000
 USA,2017,Europe,Malmo,,
 Australia,2018,Europe,Malmo,,
 Belgium,2018,Europe,Malmo,,
@@ -777,7 +777,7 @@ Germany,2018,Europe,Malmo,,
 Japan,2018,Europe,Malmo,,
 Other,2018,Europe,Malmo,,
 Poland,2018,Europe,Malmo,,
-Sweden,2018,Europe,Malmo,84000,
+Sweden,2018,Europe,Malmo,,84000
 USA,2018,Europe,Malmo,,
 Australia,2019,Europe,Malmo,,
 Belgium,2019,Europe,Malmo,,
@@ -789,9 +789,9 @@ Germany,2019,Europe,Malmo,,
 Japan,2019,Europe,Malmo,,
 Other,2019,Europe,Malmo,,
 Poland,2019,Europe,Malmo,,
-Sweden,2019,Europe,Malmo,101000,60000
+Sweden,2019,Europe,Malmo,60000,101000
 USA,2019,Europe,Malmo,,
-Australia,2017,Asia-Pacific,Brisbane,266000,231000
+Australia,2017,Asia-Pacific,Brisbane,231000,266000
 Belgium,2017,Asia-Pacific,Brisbane,,
 Brazil,2017,Asia-Pacific,Brisbane,,
 Canada,2017,Asia-Pacific,Brisbane,,
@@ -803,7 +803,7 @@ Other,2017,Asia-Pacific,Brisbane,,
 Poland,2017,Asia-Pacific,Brisbane,,
 Sweden,2017,Asia-Pacific,Brisbane,,
 USA,2017,Asia-Pacific,Brisbane,,
-Australia,2018,Asia-Pacific,Brisbane,46000,149000
+Australia,2018,Asia-Pacific,Brisbane,149000,46000
 Belgium,2018,Asia-Pacific,Brisbane,,
 Brazil,2018,Asia-Pacific,Brisbane,,
 Canada,2018,Asia-Pacific,Brisbane,,
@@ -815,7 +815,7 @@ Other,2018,Asia-Pacific,Brisbane,,
 Poland,2018,Asia-Pacific,Brisbane,,
 Sweden,2018,Asia-Pacific,Brisbane,,
 USA,2018,Asia-Pacific,Brisbane,,
-Australia,2019,Asia-Pacific,Brisbane,70000,38000
+Australia,2019,Asia-Pacific,Brisbane,38000,70000
 Belgium,2019,Asia-Pacific,Brisbane,,
 Brazil,2019,Asia-Pacific,Brisbane,,
 Canada,2019,Asia-Pacific,Brisbane,,
@@ -831,7 +831,7 @@ Australia,2017,Asia-Pacific,Shangai,,
 Belgium,2017,Asia-Pacific,Shangai,,
 Brazil,2017,Asia-Pacific,Shangai,,
 Canada,2017,Asia-Pacific,Shangai,,
-China,2017,Asia-Pacific,Shangai,108000,134000
+China,2017,Asia-Pacific,Shangai,134000,108000
 France,2017,Asia-Pacific,Shangai,,
 Germany,2017,Asia-Pacific,Shangai,,
 Japan,2017,Asia-Pacific,Shangai,,
@@ -843,7 +843,7 @@ Australia,2018,Asia-Pacific,Shangai,,
 Belgium,2018,Asia-Pacific,Shangai,,
 Brazil,2018,Asia-Pacific,Shangai,,
 Canada,2018,Asia-Pacific,Shangai,,
-China,2018,Asia-Pacific,Shangai,109000,124000
+China,2018,Asia-Pacific,Shangai,124000,109000
 France,2018,Asia-Pacific,Shangai,,
 Germany,2018,Asia-Pacific,Shangai,,
 Japan,2018,Asia-Pacific,Shangai,,
@@ -855,7 +855,7 @@ Australia,2019,Asia-Pacific,Shangai,,
 Belgium,2019,Asia-Pacific,Shangai,,
 Brazil,2019,Asia-Pacific,Shangai,,
 Canada,2019,Asia-Pacific,Shangai,,
-China,2019,Asia-Pacific,Shangai,96000,68000
+China,2019,Asia-Pacific,Shangai,68000,96000
 France,2019,Asia-Pacific,Shangai,,
 Germany,2019,Asia-Pacific,Shangai,,
 Japan,2019,Asia-Pacific,Shangai,,
@@ -870,7 +870,7 @@ Canada,2017,Asia-Pacific,Tokyo,,
 China,2017,Asia-Pacific,Tokyo,,
 France,2017,Asia-Pacific,Tokyo,,
 Germany,2017,Asia-Pacific,Tokyo,,
-Japan,2017,Asia-Pacific,Tokyo,112000,119000
+Japan,2017,Asia-Pacific,Tokyo,119000,112000
 Other,2017,Asia-Pacific,Tokyo,,
 Poland,2017,Asia-Pacific,Tokyo,,
 Sweden,2017,Asia-Pacific,Tokyo,,
@@ -882,7 +882,7 @@ Canada,2018,Asia-Pacific,Tokyo,,
 China,2018,Asia-Pacific,Tokyo,,
 France,2018,Asia-Pacific,Tokyo,,
 Germany,2018,Asia-Pacific,Tokyo,,
-Japan,2018,Asia-Pacific,Tokyo,59000,89000
+Japan,2018,Asia-Pacific,Tokyo,89000,59000
 Other,2018,Asia-Pacific,Tokyo,,
 Poland,2018,Asia-Pacific,Tokyo,,
 Sweden,2018,Asia-Pacific,Tokyo,,
@@ -894,7 +894,7 @@ Canada,2019,Asia-Pacific,Tokyo,,
 China,2019,Asia-Pacific,Tokyo,,
 France,2019,Asia-Pacific,Tokyo,,
 Germany,2019,Asia-Pacific,Tokyo,,
-Japan,2019,Asia-Pacific,Tokyo,139000,91000
+Japan,2019,Asia-Pacific,Tokyo,91000,139000
 Other,2019,Asia-Pacific,Tokyo,,
 Poland,2019,Asia-Pacific,Tokyo,,
 Sweden,2019,Asia-Pacific,Tokyo,,
@@ -906,7 +906,7 @@ Canada,2017,Asia-Pacific,Hiroshima,,
 China,2017,Asia-Pacific,Hiroshima,,
 France,2017,Asia-Pacific,Hiroshima,,
 Germany,2017,Asia-Pacific,Hiroshima,,
-Japan,2017,Asia-Pacific,Hiroshima,117000,40000
+Japan,2017,Asia-Pacific,Hiroshima,40000,117000
 Other,2017,Asia-Pacific,Hiroshima,,
 Poland,2017,Asia-Pacific,Hiroshima,,
 Sweden,2017,Asia-Pacific,Hiroshima,,
@@ -918,7 +918,7 @@ Canada,2018,Asia-Pacific,Hiroshima,,
 China,2018,Asia-Pacific,Hiroshima,,
 France,2018,Asia-Pacific,Hiroshima,,
 Germany,2018,Asia-Pacific,Hiroshima,,
-Japan,2018,Asia-Pacific,Hiroshima,62000,92000
+Japan,2018,Asia-Pacific,Hiroshima,92000,62000
 Other,2018,Asia-Pacific,Hiroshima,,
 Poland,2018,Asia-Pacific,Hiroshima,,
 Sweden,2018,Asia-Pacific,Hiroshima,,
@@ -930,12 +930,12 @@ Canada,2019,Asia-Pacific,Hiroshima,,
 China,2019,Asia-Pacific,Hiroshima,,
 France,2019,Asia-Pacific,Hiroshima,,
 Germany,2019,Asia-Pacific,Hiroshima,,
-Japan,2019,Asia-Pacific,Hiroshima,67000,102000
+Japan,2019,Asia-Pacific,Hiroshima,102000,67000
 Other,2019,Asia-Pacific,Hiroshima,,
 Poland,2019,Asia-Pacific,Hiroshima,,
 Sweden,2019,Asia-Pacific,Hiroshima,,
 USA,2019,Asia-Pacific,Hiroshima,,
-Australia,2017,Asia-Pacific,Sydney,54000,62000
+Australia,2017,Asia-Pacific,Sydney,62000,54000
 Belgium,2017,Asia-Pacific,Sydney,,
 Brazil,2017,Asia-Pacific,Sydney,,
 Canada,2017,Asia-Pacific,Sydney,,
@@ -947,7 +947,7 @@ Other,2017,Asia-Pacific,Sydney,,
 Poland,2017,Asia-Pacific,Sydney,,
 Sweden,2017,Asia-Pacific,Sydney,,
 USA,2017,Asia-Pacific,Sydney,,
-Australia,2018,Asia-Pacific,Sydney,38000,117000
+Australia,2018,Asia-Pacific,Sydney,117000,38000
 Belgium,2018,Asia-Pacific,Sydney,,
 Brazil,2018,Asia-Pacific,Sydney,,
 Canada,2018,Asia-Pacific,Sydney,,
@@ -959,7 +959,7 @@ Other,2018,Asia-Pacific,Sydney,,
 Poland,2018,Asia-Pacific,Sydney,,
 Sweden,2018,Asia-Pacific,Sydney,,
 USA,2018,Asia-Pacific,Sydney,,
-Australia,2019,Asia-Pacific,Sydney,147000,42000
+Australia,2019,Asia-Pacific,Sydney,42000,147000
 Belgium,2019,Asia-Pacific,Sydney,,
 Brazil,2019,Asia-Pacific,Sydney,,
 Canada,2019,Asia-Pacific,Sydney,,
@@ -975,7 +975,7 @@ Australia,2017,Asia-Pacific,Beijing,,
 Belgium,2017,Asia-Pacific,Beijing,,
 Brazil,2017,Asia-Pacific,Beijing,,
 Canada,2017,Asia-Pacific,Beijing,,
-China,2017,Asia-Pacific,Beijing,104000,48000
+China,2017,Asia-Pacific,Beijing,48000,104000
 France,2017,Asia-Pacific,Beijing,,
 Germany,2017,Asia-Pacific,Beijing,,
 Japan,2017,Asia-Pacific,Beijing,,
@@ -987,7 +987,7 @@ Australia,2018,Asia-Pacific,Beijing,,
 Belgium,2018,Asia-Pacific,Beijing,,
 Brazil,2018,Asia-Pacific,Beijing,,
 Canada,2018,Asia-Pacific,Beijing,,
-China,2018,Asia-Pacific,Beijing,92000,115000
+China,2018,Asia-Pacific,Beijing,115000,92000
 France,2018,Asia-Pacific,Beijing,,
 Germany,2018,Asia-Pacific,Beijing,,
 Japan,2018,Asia-Pacific,Beijing,,
@@ -999,7 +999,7 @@ Australia,2019,Asia-Pacific,Beijing,,
 Belgium,2019,Asia-Pacific,Beijing,,
 Brazil,2019,Asia-Pacific,Beijing,,
 Canada,2019,Asia-Pacific,Beijing,,
-China,2019,Asia-Pacific,Beijing,145000,39000
+China,2019,Asia-Pacific,Beijing,39000,145000
 France,2019,Asia-Pacific,Beijing,,
 Germany,2019,Asia-Pacific,Beijing,,
 Japan,2019,Asia-Pacific,Beijing,,
@@ -1015,7 +1015,7 @@ China,2017,Asia-Pacific,Seoul,,
 France,2017,Asia-Pacific,Seoul,,
 Germany,2017,Asia-Pacific,Seoul,,
 Japan,2017,Asia-Pacific,Seoul,,
-Other,2017,Asia-Pacific,Seoul,134000,50000
+Other,2017,Asia-Pacific,Seoul,50000,134000
 Poland,2017,Asia-Pacific,Seoul,,
 Sweden,2017,Asia-Pacific,Seoul,,
 USA,2017,Asia-Pacific,Seoul,,
@@ -1039,7 +1039,7 @@ China,2019,Asia-Pacific,Seoul,,
 France,2019,Asia-Pacific,Seoul,,
 Germany,2019,Asia-Pacific,Seoul,,
 Japan,2019,Asia-Pacific,Seoul,,
-Other,2019,Asia-Pacific,Seoul,66000,69000
+Other,2019,Asia-Pacific,Seoul,69000,66000
 Poland,2019,Asia-Pacific,Seoul,,
 Sweden,2019,Asia-Pacific,Seoul,,
 USA,2019,Asia-Pacific,Seoul,,
@@ -1050,7 +1050,7 @@ Canada,2017,Asia-Pacific,Yokohoma,,
 China,2017,Asia-Pacific,Yokohoma,,
 France,2017,Asia-Pacific,Yokohoma,,
 Germany,2017,Asia-Pacific,Yokohoma,,
-Japan,2017,Asia-Pacific,Yokohoma,35000,47000
+Japan,2017,Asia-Pacific,Yokohoma,47000,35000
 Other,2017,Asia-Pacific,Yokohoma,,
 Poland,2017,Asia-Pacific,Yokohoma,,
 Sweden,2017,Asia-Pacific,Yokohoma,,
@@ -1062,7 +1062,7 @@ Canada,2018,Asia-Pacific,Yokohoma,,
 China,2018,Asia-Pacific,Yokohoma,,
 France,2018,Asia-Pacific,Yokohoma,,
 Germany,2018,Asia-Pacific,Yokohoma,,
-Japan,2018,Asia-Pacific,Yokohoma,66000,68000
+Japan,2018,Asia-Pacific,Yokohoma,68000,66000
 Other,2018,Asia-Pacific,Yokohoma,,
 Poland,2018,Asia-Pacific,Yokohoma,,
 Sweden,2018,Asia-Pacific,Yokohoma,,
@@ -1074,7 +1074,7 @@ Canada,2019,Asia-Pacific,Yokohoma,,
 China,2019,Asia-Pacific,Yokohoma,,
 France,2019,Asia-Pacific,Yokohoma,,
 Germany,2019,Asia-Pacific,Yokohoma,,
-Japan,2019,Asia-Pacific,Yokohoma,73000,36000
+Japan,2019,Asia-Pacific,Yokohoma,36000,73000
 Other,2019,Asia-Pacific,Yokohoma,,
 Poland,2019,Asia-Pacific,Yokohoma,,
 Sweden,2019,Asia-Pacific,Yokohoma,,
@@ -1083,7 +1083,7 @@ Australia,2017,Asia-Pacific,Chengdu,,
 Belgium,2017,Asia-Pacific,Chengdu,,
 Brazil,2017,Asia-Pacific,Chengdu,,
 Canada,2017,Asia-Pacific,Chengdu,,
-China,2017,Asia-Pacific,Chengdu,96000,62000
+China,2017,Asia-Pacific,Chengdu,62000,96000
 France,2017,Asia-Pacific,Chengdu,,
 Germany,2017,Asia-Pacific,Chengdu,,
 Japan,2017,Asia-Pacific,Chengdu,,
@@ -1095,7 +1095,7 @@ Australia,2018,Asia-Pacific,Chengdu,,
 Belgium,2018,Asia-Pacific,Chengdu,,
 Brazil,2018,Asia-Pacific,Chengdu,,
 Canada,2018,Asia-Pacific,Chengdu,,
-China,2018,Asia-Pacific,Chengdu,117000,48000
+China,2018,Asia-Pacific,Chengdu,48000,117000
 France,2018,Asia-Pacific,Chengdu,,
 Germany,2018,Asia-Pacific,Chengdu,,
 Japan,2018,Asia-Pacific,Chengdu,,
@@ -1107,7 +1107,7 @@ Australia,2019,Asia-Pacific,Chengdu,,
 Belgium,2019,Asia-Pacific,Chengdu,,
 Brazil,2019,Asia-Pacific,Chengdu,,
 Canada,2019,Asia-Pacific,Chengdu,,
-China,2019,Asia-Pacific,Chengdu,80000,38000
+China,2019,Asia-Pacific,Chengdu,38000,80000
 France,2019,Asia-Pacific,Chengdu,,
 Germany,2019,Asia-Pacific,Chengdu,,
 Japan,2019,Asia-Pacific,Chengdu,,
@@ -1115,7 +1115,7 @@ Other,2019,Asia-Pacific,Chengdu,,
 Poland,2019,Asia-Pacific,Chengdu,,
 Sweden,2019,Asia-Pacific,Chengdu,,
 USA,2019,Asia-Pacific,Chengdu,,
-Australia,2017,Asia-Pacific,Melbourne,9000,11000
+Australia,2017,Asia-Pacific,Melbourne,11000,9000
 Belgium,2017,Asia-Pacific,Melbourne,,
 Brazil,2017,Asia-Pacific,Melbourne,,
 Canada,2017,Asia-Pacific,Melbourne,,
@@ -1127,7 +1127,7 @@ Other,2017,Asia-Pacific,Melbourne,,
 Poland,2017,Asia-Pacific,Melbourne,,
 Sweden,2017,Asia-Pacific,Melbourne,,
 USA,2017,Asia-Pacific,Melbourne,,
-Australia,2018,Asia-Pacific,Melbourne,96000,69000
+Australia,2018,Asia-Pacific,Melbourne,69000,96000
 Belgium,2018,Asia-Pacific,Melbourne,,
 Brazil,2018,Asia-Pacific,Melbourne,,
 Canada,2018,Asia-Pacific,Melbourne,,
