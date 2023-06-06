@@ -1,0 +1,569 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.State,Sum(Orders.Sales)
+2014,Furniture,Alabama,3590.6200000000003
+2015,Furniture,Alabama,2238.7599999999998
+2016,Furniture,Alabama,350.98
+2017,Furniture,Alabama,152.12
+2014,Furniture,Arizona,1383.673
+2015,Furniture,Arizona,3873.4330000000004
+2016,Furniture,Arizona,3766.0180000000005
+2017,Furniture,Arizona,4502.167
+2014,Furniture,Arkansas,2381.82
+2015,Furniture,Arkansas,301.96
+2016,Furniture,Arkansas,503.77
+2017,Furniture,Arkansas,
+2014,Furniture,California,32962.946999999986
+2015,Furniture,California,32500.028499999997
+2016,Furniture,California,49927.255499999985
+2017,Furniture,California,40674.370499999975
+2014,Furniture,Colorado,1721.994
+2015,Furniture,Colorado,2002.508
+2016,Furniture,Colorado,6742.897999999999
+2017,Furniture,Colorado,2775.637
+2014,Furniture,Connecticut,1231.37
+2015,Furniture,Connecticut,22.200000000000003
+2016,Furniture,Connecticut,2150.877
+2017,Furniture,Connecticut,1770.5400000000004
+2014,Furniture,Delaware,1170.91
+2015,Furniture,Delaware,2419.786
+2016,Furniture,Delaware,292.32000000000005
+2017,Furniture,Delaware,876.3030000000001
+2014,Furniture,District of Columbia,
+2015,Furniture,District of Columbia,1267.53
+2016,Furniture,District of Columbia,41.37
+2017,Furniture,District of Columbia,37.68
+2014,Furniture,Florida,4040.0825000000004
+2015,Furniture,Florida,5524.006500000001
+2016,Furniture,Florida,3057.2175
+2017,Furniture,Florida,10365.7315
+2014,Furniture,Georgia,235.99
+2015,Furniture,Georgia,1421.55
+2016,Furniture,Georgia,2961.37
+2017,Furniture,Georgia,3702.57
+2014,Furniture,Idaho,338.352
+2015,Furniture,Idaho,1051.78
+2016,Furniture,Idaho,1128.3899999999999
+2017,Furniture,Idaho,76.96000000000001
+2014,Furniture,Illinois,5480.269
+2015,Furniture,Illinois,6142.452
+2016,Furniture,Illinois,7886.874
+2017,Furniture,Illinois,8764.927000000001
+2014,Furniture,Indiana,668.1600000000001
+2015,Furniture,Indiana,1612.3500000000001
+2016,Furniture,Indiana,4974.01
+2017,Furniture,Indiana,4242.19
+2014,Furniture,Iowa,1184.72
+2015,Furniture,Iowa,1408.1
+2016,Furniture,Iowa,
+2017,Furniture,Iowa,49.49000000000001
+2014,Furniture,Kansas,40.56
+2015,Furniture,Kansas,
+2016,Furniture,Kansas,70.56
+2017,Furniture,Kansas,
+2014,Furniture,Kentucky,2573.82
+2015,Furniture,Kentucky,1122.8300000000002
+2016,Furniture,Kentucky,3433.9300000000003
+2017,Furniture,Kentucky,4996.259999999999
+2014,Furniture,Louisiana,181.88
+2015,Furniture,Louisiana,632.64
+2016,Furniture,Louisiana,
+2017,Furniture,Louisiana,2148.51
+2014,Furniture,Maine,
+2015,Furniture,Maine,
+2016,Furniture,Maine,109.48
+2017,Furniture,Maine,
+2014,Furniture,Maryland,827.72
+2015,Furniture,Maryland,875.88
+2016,Furniture,Maryland,2713.1829999999995
+2017,Furniture,Maryland,4732.469999999999
+2014,Furniture,Massachusetts,4300.186
+2015,Furniture,Massachusetts,2198.4579999999996
+2016,Furniture,Massachusetts,1539.194
+2017,Furniture,Massachusetts,2881.2259999999997
+2014,Furniture,Michigan,1123.8999999999999
+2015,Furniture,Michigan,5067.07
+2016,Furniture,Michigan,8526.2
+2017,Furniture,Michigan,7603.93
+2014,Furniture,Minnesota,2481.76
+2015,Furniture,Minnesota,2936.4
+2016,Furniture,Minnesota,711.78
+2017,Furniture,Minnesota,1481.4099999999999
+2014,Furniture,Mississippi,85.98
+2015,Furniture,Mississippi,6.16
+2016,Furniture,Mississippi,3359.31
+2017,Furniture,Mississippi,866.4
+2014,Furniture,Missouri,393.83
+2015,Furniture,Missouri,1247.0000000000002
+2016,Furniture,Missouri,821.0799999999999
+2017,Furniture,Missouri,474.53999999999996
+2014,Furniture,Montana,
+2015,Furniture,Montana,63.980000000000004
+2016,Furniture,Montana,
+2017,Furniture,Montana,
+2014,Furniture,Nebraska,
+2015,Furniture,Nebraska,28.4
+2016,Furniture,Nebraska,1900.3799999999997
+2017,Furniture,Nebraska,15.92
+2014,Furniture,Nevada,860.3220000000001
+2015,Furniture,Nevada,222.92000000000002
+2016,Furniture,Nevada,1685.88
+2017,Furniture,Nevada,1866.05
+2014,Furniture,New Hampshire,139.86
+2015,Furniture,New Hampshire,1053.164
+2016,Furniture,New Hampshire,343.71000000000004
+2017,Furniture,New Hampshire,349.74
+2014,Furniture,New Jersey,1567.47
+2015,Furniture,New Jersey,17.2
+2016,Furniture,New Jersey,1221.252
+2017,Furniture,New Jersey,3501.1199999999994
+2014,Furniture,New Mexico,
+2015,Furniture,New Mexico,1114.192
+2016,Furniture,New Mexico,
+2017,Furniture,New Mexico,587.22
+2014,Furniture,New York,21706.441
+2015,Furniture,New York,26050.474999999995
+2016,Furniture,New York,21991.634
+2017,Furniture,New York,23624.178999999996
+2014,Furniture,North Carolina,1399.516
+2015,Furniture,North Carolina,5337.3
+2016,Furniture,North Carolina,3772.994
+2017,Furniture,North Carolina,4645.674
+2014,Furniture,Ohio,5889.833999999999
+2015,Furniture,Ohio,4682.8640000000005
+2016,Furniture,Ohio,7889.939000000002
+2017,Furniture,Ohio,5736.508000000001
+2014,Furniture,Oklahoma,1471.4299999999998
+2015,Furniture,Oklahoma,1323.8999999999999
+2016,Furniture,Oklahoma,2391.8300000000004
+2017,Furniture,Oklahoma,3096.9400000000005
+2014,Furniture,Oregon,1762.53
+2015,Furniture,Oregon,645.994
+2016,Furniture,Oregon,2560.741
+2017,Furniture,Oregon,1368.865
+2014,Furniture,Pennsylvania,7375.132
+2015,Furniture,Pennsylvania,9504.875
+2016,Furniture,Pennsylvania,7149.473000000001
+2017,Furniture,Pennsylvania,15325.450999999997
+2014,Furniture,Rhode Island,3023.8160000000007
+2015,Furniture,Rhode Island,604.8999999999999
+2016,Furniture,Rhode Island,944.74
+2017,Furniture,Rhode Island,1345.3
+2014,Furniture,South Carolina,943.54
+2015,Furniture,South Carolina,1690.04
+2016,Furniture,South Carolina,
+2017,Furniture,South Carolina,444.66999999999996
+2014,Furniture,South Dakota,141.96
+2015,Furniture,South Dakota,
+2016,Furniture,South Dakota,
+2017,Furniture,South Dakota,182.94
+2014,Furniture,Tennessee,1974.734
+2015,Furniture,Tennessee,3118.0480000000002
+2016,Furniture,Tennessee,913.3
+2017,Furniture,Tennessee,7500.649999999999
+2014,Furniture,Texas,16687.504599999997
+2015,Furniture,Texas,12338.784999999996
+2016,Furniture,Texas,15556.168
+2017,Furniture,Texas,16010.8342
+2014,Furniture,Utah,73.32000000000001
+2015,Furniture,Utah,3430.93
+2016,Furniture,Utah,
+2017,Furniture,Utah,1318.1000000000001
+2014,Furniture,Vermont,
+2015,Furniture,Vermont,5120.099999999999
+2016,Furniture,Vermont,
+2017,Furniture,Vermont,
+2014,Furniture,Virginia,9560.02
+2015,Furniture,Virginia,2710.52
+2016,Furniture,Virginia,9568.569999999998
+2017,Furniture,Virginia,3482.84
+2014,Furniture,Washington,10979.31
+2015,Furniture,Washington,12099.177999999998
+2016,Furniture,Washington,6405.322
+2017,Furniture,Washington,18536.34199999999
+2014,Furniture,West Virginia,
+2015,Furniture,West Virginia,
+2016,Furniture,West Virginia,
+2017,Furniture,West Virginia,673.3439999999999
+2014,Furniture,Wisconsin,3235.57
+2015,Furniture,Wisconsin,3487.5899999999997
+2016,Furniture,Wisconsin,7934.299999999999
+2017,Furniture,Wisconsin,2599.15
+2014,Furniture,Wyoming,
+2015,Furniture,Wyoming,
+2016,Furniture,Wyoming,1603.1360000000002
+2017,Furniture,Wyoming,
+2014,Office Supplies,Alabama,474.59
+2015,Office Supplies,Alabama,693.27
+2016,Office Supplies,Alabama,1721.4700000000003
+2017,Office Supplies,Alabama,1319.75
+2014,Office Supplies,Arizona,3672.1540000000005
+2015,Office Supplies,Arizona,2855.2250000000004
+2016,Office Supplies,Arizona,930.5670000000001
+2017,Office Supplies,Arizona,2547.879000000001
+2014,Office Supplies,Arkansas,1999.05
+2015,Office Supplies,Arkansas,111.66
+2016,Office Supplies,Arkansas,730.3
+2017,Office Supplies,Arkansas,1724.32
+2014,Office Supplies,California,30136.40399999999
+2015,Office Supplies,California,24857.881999999983
+2016,Office Supplies,California,31944.827999999983
+2017,Office Supplies,California,55412.83399999996
+2014,Office Supplies,Colorado,1448.0120000000002
+2015,Office Supplies,Colorado,1377.6239999999996
+2016,Office Supplies,Colorado,2134.5010000000007
+2017,Office Supplies,Colorado,2938.615
+2014,Office Supplies,Connecticut,369.74
+2015,Office Supplies,Connecticut,1161.9500000000003
+2016,Office Supplies,Connecticut,1020.9200000000001
+2017,Office Supplies,Connecticut,2865.7300000000014
+2014,Office Supplies,Delaware,3379.2000000000003
+2015,Office Supplies,Delaware,1222.87
+2016,Office Supplies,Delaware,1682.6300000000003
+2017,Office Supplies,Delaware,1844.83
+2014,Office Supplies,District of Columbia,
+2015,Office Supplies,District of Columbia,22.740000000000002
+2016,Office Supplies,District of Columbia,75.7
+2017,Office Supplies,District of Columbia,40.08
+2014,Office Supplies,Florida,2912.3659999999995
+2015,Office Supplies,Florida,7119.105000000002
+2016,Office Supplies,Florida,4003.4830000000006
+2017,Office Supplies,Florida,5483.680000000002
+2014,Office Supplies,Georgia,2267.879999999999
+2015,Office Supplies,Georgia,8513.369999999999
+2016,Office Supplies,Georgia,8557.090000000002
+2017,Office Supplies,Georgia,7377.469999999999
+2014,Office Supplies,Idaho,126.864
+2015,Office Supplies,Idaho,3.3040000000000003
+2016,Office Supplies,Idaho,55.096
+2017,Office Supplies,Idaho,764.2420000000001
+2014,Office Supplies,Illinois,4545.896000000001
+2015,Office Supplies,Illinois,2593.282
+2016,Office Supplies,Illinois,5025.389999999999
+2017,Office Supplies,Illinois,7743.337999999999
+2014,Office Supplies,Indiana,2204.36
+2015,Office Supplies,Indiana,2044.8200000000002
+2016,Office Supplies,Indiana,2082.2
+2017,Office Supplies,Indiana,9404.020000000002
+2014,Office Supplies,Iowa,6.12
+2015,Office Supplies,Iowa,41.14
+2016,Office Supplies,Iowa,275.96999999999997
+2017,Office Supplies,Iowa,459.91999999999996
+2014,Office Supplies,Kansas,689.89
+2015,Office Supplies,Kansas,170.30999999999997
+2016,Office Supplies,Kansas,360.79999999999995
+2017,Office Supplies,Kansas,733.15
+2014,Office Supplies,Kentucky,3900.7799999999997
+2015,Office Supplies,Kentucky,1939.2999999999997
+2016,Office Supplies,Kentucky,968.9799999999999
+2017,Office Supplies,Kentucky,5085.210000000001
+2014,Office Supplies,Louisiana,923.4100000000002
+2015,Office Supplies,Louisiana,124.96000000000001
+2016,Office Supplies,Louisiana,190.78
+2017,Office Supplies,Louisiana,2184.01
+2014,Office Supplies,Maine,361.7
+2015,Office Supplies,Maine,38.1
+2016,Office Supplies,Maine,
+2017,Office Supplies,Maine,
+2014,Office Supplies,Maryland,813.55
+2015,Office Supplies,Maryland,4607.3499999999985
+2016,Office Supplies,Maryland,1305.8199999999997
+2017,Office Supplies,Maryland,3663.51
+2014,Office Supplies,Massachusetts,5037.049999999998
+2015,Office Supplies,Massachusetts,3056.1700000000005
+2016,Office Supplies,Massachusetts,2228.16
+2017,Office Supplies,Massachusetts,1667.36
+2014,Office Supplies,Michigan,4198.381
+2015,Office Supplies,Michigan,9061.239000000001
+2016,Office Supplies,Michigan,14857.114999999998
+2017,Office Supplies,Michigan,9607.024
+2014,Office Supplies,Minnesota,12999.800000000001
+2015,Office Supplies,Minnesota,1859.8300000000002
+2016,Office Supplies,Minnesota,654.67
+2017,Office Supplies,Minnesota,3892.2400000000002
+2014,Office Supplies,Mississippi,443.76
+2015,Office Supplies,Mississippi,56.3
+2016,Office Supplies,Mississippi,1991.17
+2017,Office Supplies,Mississippi,1139.9299999999998
+2014,Office Supplies,Missouri,1073.68
+2015,Office Supplies,Missouri,238.29000000000002
+2016,Office Supplies,Missouri,2670.11
+2017,Office Supplies,Missouri,8200.099999999999
+2014,Office Supplies,Montana,101.464
+2015,Office Supplies,Montana,531.644
+2016,Office Supplies,Montana,
+2017,Office Supplies,Montana,1229.3300000000002
+2014,Office Supplies,Nebraska,84.07000000000001
+2015,Office Supplies,Nebraska,145.79
+2016,Office Supplies,Nebraska,1001.1199999999998
+2017,Office Supplies,Nebraska,1003.51
+2014,Office Supplies,Nevada,141.99
+2015,Office Supplies,Nevada,1725.5420000000004
+2016,Office Supplies,Nevada,4940.412
+2017,Office Supplies,Nevada,148.98000000000002
+2014,Office Supplies,New Hampshire,364.61999999999995
+2015,Office Supplies,New Hampshire,1041.96
+2016,Office Supplies,New Hampshire,27.93
+2017,Office Supplies,New Hampshire,334.73999999999995
+2014,Office Supplies,New Jersey,914.5699999999999
+2015,Office Supplies,New Jersey,3828.9500000000003
+2016,Office Supplies,New Jersey,5792.239999999999
+2017,Office Supplies,New Jersey,4420.349999999999
+2014,Office Supplies,New Mexico,289.14
+2015,Office Supplies,New Mexico,78.68
+2016,Office Supplies,New Mexico,64.08
+2017,Office Supplies,New Mexico,952.282
+2014,Office Supplies,New York,14559.573999999997
+2015,Office Supplies,New York,19383.646000000004
+2016,Office Supplies,New York,29399.873999999978
+2017,Office Supplies,New York,26676.947999999982
+2014,Office Supplies,North Carolina,1360.4739999999997
+2015,Office Supplies,North Carolina,2401.6059999999993
+2016,Office Supplies,North Carolina,4170.750000000001
+2017,Office Supplies,North Carolina,6431.731
+2014,Office Supplies,North Dakota,
+2015,Office Supplies,North Dakota,
+2016,Office Supplies,North Dakota,
+2017,Office Supplies,North Dakota,919.91
+2014,Office Supplies,Ohio,2805.0300000000007
+2015,Office Supplies,Ohio,2116.128
+2016,Office Supplies,Ohio,6593.818
+2017,Office Supplies,Ohio,6868.022999999999
+2014,Office Supplies,Oklahoma,583.1100000000001
+2015,Office Supplies,Oklahoma,662.5
+2016,Office Supplies,Oklahoma,2850.11
+2017,Office Supplies,Oklahoma,935.12
+2014,Office Supplies,Oregon,1944.5360000000003
+2015,Office Supplies,Oregon,1624.8790000000001
+2016,Office Supplies,Oregon,1221.497
+2017,Office Supplies,Oregon,480.552
+2014,Office Supplies,Pennsylvania,7059.885
+2015,Office Supplies,Pennsylvania,6115.531
+2016,Office Supplies,Pennsylvania,7990.745999999999
+2017,Office Supplies,Pennsylvania,13775.552000000003
+2014,Office Supplies,Rhode Island,304.07
+2015,Office Supplies,Rhode Island,59.849999999999994
+2016,Office Supplies,Rhode Island,4111.04
+2017,Office Supplies,Rhode Island,1759.8300000000004
+2014,Office Supplies,South Carolina,634.4600000000002
+2015,Office Supplies,South Carolina,1713.9
+2016,Office Supplies,South Carolina,426.49999999999994
+2017,Office Supplies,South Carolina,1036.98
+2014,Office Supplies,South Dakota,17.22
+2015,Office Supplies,South Dakota,
+2016,Office Supplies,South Dakota,
+2017,Office Supplies,South Dakota,580.5000000000001
+2014,Office Supplies,Tennessee,1076.778
+2015,Office Supplies,Tennessee,4703.484000000001
+2016,Office Supplies,Tennessee,1637.175
+2017,Office Supplies,Tennessee,4930.421000000001
+2014,Office Supplies,Texas,9455.924
+2015,Office Supplies,Texas,7854.639999999999
+2016,Office Supplies,Texas,13906.834000000004
+2017,Office Supplies,Texas,13273.131999999994
+2014,Office Supplies,Utah,2275.678
+2015,Office Supplies,Utah,545.614
+2016,Office Supplies,Utah,322.4599999999999
+2017,Office Supplies,Utah,944.0500000000002
+2014,Office Supplies,Vermont,
+2015,Office Supplies,Vermont,
+2016,Office Supplies,Vermont,1572.33
+2017,Office Supplies,Vermont,637.1799999999998
+2014,Office Supplies,Virginia,9965.330000000002
+2015,Office Supplies,Virginia,3876.339999999999
+2016,Office Supplies,Virginia,4268.93
+2017,Office Supplies,Virginia,3059.010000000001
+2014,Office Supplies,Washington,12710.612000000001
+2015,Office Supplies,Washington,4263.137999999999
+2016,Office Supplies,Washington,6065.915999999999
+2017,Office Supplies,Washington,17044.742
+2014,Office Supplies,West Virginia,
+2015,Office Supplies,West Virginia,
+2016,Office Supplies,West Virginia,
+2017,Office Supplies,West Virginia,536.48
+2014,Office Supplies,Wisconsin,1143.2400000000002
+2015,Office Supplies,Wisconsin,789.5500000000001
+2016,Office Supplies,Wisconsin,2108.47
+2017,Office Supplies,Wisconsin,2018.58
+2014,Technology,Alabama,2073.88
+2015,Technology,Alabama,959.94
+2016,Technology,Alabama,5578.88
+2017,Technology,Alabama,356.38
+2014,Technology,Arizona,3239.4080000000004
+2015,Technology,Arizona,2882.5519999999997
+2016,Technology,Arizona,1545.4339999999997
+2017,Technology,Arizona,4083.491
+2014,Technology,Arkansas,1921.82
+2015,Technology,Arkansas,29.99
+2016,Technology,Arkansas,990.12
+2017,Technology,Arkansas,983.3200000000002
+2014,Technology,California,28204.179999999997
+2015,Technology,California,31085.934000000005
+2016,Technology,California,49679.82799999999
+2017,Technology,California,50301.13999999996
+2014,Technology,Colorado,3332.288
+2015,Technology,Colorado,1259.138
+2016,Technology,Colorado,1789.342
+2017,Technology,Colorado,4585.561000000001
+2014,Technology,Connecticut,1192.9099999999999
+2015,Technology,Connecticut,100.49
+2016,Technology,Connecticut,826.69
+2017,Technology,Connecticut,670.94
+2014,Technology,Delaware,235.92000000000002
+2015,Technology,Delaware,2547.68
+2016,Technology,Delaware,744.77
+2017,Technology,Delaware,11033.849999999999
+2014,Technology,District of Columbia,
+2015,Technology,District of Columbia,1379.92
+2016,Technology,District of Columbia,
+2017,Technology,District of Columbia,
+2014,Technology,Florida,27295.811999999998
+2015,Technology,Florida,2534.3370000000004
+2016,Technology,Florida,6542.5830000000005
+2017,Technology,Florida,10595.304000000002
+2014,Technology,Georgia,2036.23
+2015,Technology,Georgia,1403.1299999999999
+2016,Technology,Georgia,2539.2099999999996
+2017,Technology,Georgia,8079.98
+2014,Technology,Idaho,
+2015,Technology,Idaho,445.15200000000004
+2016,Technology,Idaho,
+2017,Technology,Idaho,392.346
+2014,Technology,Illinois,6176.5419999999995
+2015,Technology,Illinois,9842.33
+2016,Technology,Illinois,8121.455
+2017,Technology,Illinois,7843.346
+2014,Technology,Indiana,64.29
+2015,Technology,Indiana,2983.1500000000005
+2016,Technology,Indiana,18405.569999999996
+2017,Technology,Indiana,4870.240000000002
+2014,Technology,Iowa,
+2015,Technology,Iowa,263.96
+2016,Technology,Iowa,683.3399999999999
+2017,Technology,Iowa,207
+2014,Technology,Kansas,589.34
+2015,Technology,Kansas,
+2016,Technology,Kansas,259.7
+2017,Technology,Kansas,
+2014,Technology,Kentucky,1805.8600000000001
+2015,Technology,Kentucky,4611.429999999999
+2016,Technology,Kentucky,699.98
+2017,Technology,Kentucky,5453.37
+2014,Technology,Louisiana,1429.63
+2015,Technology,Louisiana,160.2
+2016,Technology,Louisiana,71.98
+2017,Technology,Louisiana,1169.03
+2014,Technology,Maine,255.42
+2015,Technology,Maine,67.98
+2016,Technology,Maine,437.84999999999997
+2017,Technology,Maine,
+2014,Technology,Maryland,59.98
+2015,Technology,Maryland,2359.88
+2016,Technology,Maryland,690.56
+2017,Technology,Maryland,1055.6200000000001
+2014,Technology,Massachusetts,562.87
+2015,Technology,Massachusetts,1371.3600000000001
+2016,Technology,Massachusetts,197.91
+2017,Technology,Massachusetts,3594.49
+2014,Technology,Michigan,849.97
+2015,Technology,Michigan,2715.3700000000003
+2016,Technology,Michigan,4036.7199999999993
+2017,Technology,Michigan,8622.694999999998
+2014,Technology,Minnesota,401.77
+2015,Technology,Minnesota,927.96
+2016,Technology,Minnesota,160.92999999999998
+2017,Technology,Minnesota,1354.6000000000001
+2014,Technology,Mississippi,1525.42
+2015,Technology,Mississippi,239.70000000000002
+2016,Technology,Mississippi,66.30000000000001
+2017,Technology,Mississippi,990.9100000000001
+2014,Technology,Missouri,180.51999999999998
+2015,Technology,Missouri,5499.92
+2016,Technology,Missouri,729.9200000000001
+2017,Technology,Missouri,676.1599999999999
+2014,Technology,Montana,323.024
+2015,Technology,Montana,339.96000000000004
+2016,Technology,Montana,
+2017,Technology,Montana,2999.95
+2014,Technology,Nebraska,125.94999999999999
+2015,Technology,Nebraska,419.95000000000005
+2016,Technology,Nebraska,179.92
+2017,Technology,Nebraska,2559.92
+2014,Technology,Nevada,1558.898
+2015,Technology,Nevada,
+2016,Technology,Nevada,2454.98
+2017,Technology,Nevada,1123.1280000000002
+2014,Technology,New Hampshire,
+2015,Technology,New Hampshire,2249.91
+2016,Technology,New Hampshire,561.9399999999999
+2017,Technology,New Hampshire,824.95
+2014,Technology,New Jersey,1710.24
+2015,Technology,New Jersey,258.94
+2016,Technology,New Jersey,10969.9
+2017,Technology,New Jersey,1562.08
+2014,Technology,New Mexico,418.87199999999996
+2015,Technology,New Mexico,
+2016,Technology,New Mexico,
+2017,Technology,New Mexico,1279.056
+2014,Technology,New York,28522.471999999998
+2015,Technology,New York,34886.566000000006
+2016,Technology,New York,20452.594000000005
+2017,Technology,New York,43621.868
+2014,Technology,North Carolina,5860.750999999999
+2015,Technology,North Carolina,819.392
+2016,Technology,North Carolina,7023.552
+2017,Technology,North Carolina,12379.424
+2014,Technology,Ohio,5439.986
+2015,Technology,Ohio,9311.434
+2016,Technology,Ohio,10264.253000000002
+2017,Technology,Ohio,10660.318999999998
+2014,Technology,Oklahoma,584.81
+2015,Technology,Oklahoma,821.94
+2016,Technology,Oklahoma,2767.8500000000004
+2017,Technology,Oklahoma,2193.85
+2014,Technology,Oregon,1100.717
+2015,Technology,Oregon,2015.0639999999999
+2016,Technology,Oregon,1668.599
+2017,Technology,Oregon,1037.1760000000002
+2014,Technology,Pennsylvania,5811.130999999999
+2015,Technology,Pennsylvania,4890.41
+2016,Technology,Pennsylvania,17926.425
+2017,Technology,Pennsylvania,13587.302999999996
+2014,Technology,Rhode Island,1687.8
+2015,Technology,Rhode Island,434.81000000000006
+2016,Technology,Rhode Island,8029.82
+2017,Technology,Rhode Island,321.98
+2014,Technology,South Carolina,692.8599999999999
+2015,Technology,South Carolina,743.68
+2016,Technology,South Carolina,75.98
+2017,Technology,South Carolina,79.1
+2014,Technology,South Dakota,2.9699999999999998
+2015,Technology,South Dakota,
+2016,Technology,South Dakota,
+2017,Technology,South Dakota,389.97
+2014,Technology,Tennessee,
+2015,Technology,Tennessee,544.512
+2016,Technology,Tennessee,580.019
+2017,Technology,Tennessee,3682.752
+2014,Technology,Texas,24481.747999999996
+2015,Technology,Texas,14261.534
+2016,Technology,Texas,12223.149999999996
+2017,Technology,Texas,14137.792000000001
+2014,Technology,Utah,594.69
+2015,Technology,Utah,16.776000000000003
+2016,Technology,Utah,1499.95
+2017,Technology,Utah,198.488
+2014,Technology,Vermont,
+2015,Technology,Vermont,
+2016,Technology,Vermont,1394.73
+2017,Technology,Vermont,205.03
+2014,Technology,Virginia,6276.7
+2015,Technology,Virginia,3956.5600000000004
+2016,Technology,Virginia,12853.549999999997
+2017,Technology,Virginia,1058.35
+2014,Technology,Washington,6181.654000000001
+2015,Technology,Washington,7053.1979999999985
+2016,Technology,Washington,7343.046
+2017,Technology,Washington,29958.811999999998
+2014,Technology,Wisconsin,468.90000000000003
+2015,Technology,Wisconsin,4084.67
+2016,Technology,Wisconsin,3294.8500000000004
+2017,Technology,Wisconsin,949.7400000000001
