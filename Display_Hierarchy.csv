@@ -1,0 +1,16 @@
+Table.Level1,Table.Country,Table.Region,Table.State,Table.District,"Table.City ",Sum(Table.PY Sales),Sum(Table.CY Sales)
+World,USA,East Coast,New York,New York1,Square,6528765,7453926
+World,USA,East Coast,New York,New York1,NY1,23564564,1232131
+World,USA,East Coast,New York,New York1,Long Beach,270654,446822
+World,USA,East Coast,Massachusetts,M1,Cambridge,745389,895462
+World,USA,East Coast,Massachusetts,M1,Boston,867532,666712
+World,USA,West Coast1,LA,(Blank),(Blank),3200645,4538296
+World,USA,West Coast,San Francisco,(Blank),(Blank),3706453,3667251
+World,USA,East Coast1,New York,York,Buffalo,1536723,954764
+World,USA,East Coast3,EC4,D4,EC4-City,0,0
+World,USA,East Coast2,EC2,D2,(Blank),,
+World,USA,East Coast2,EC3,(Blank),(Blank),,
+World,UK,Cardiff,(Blank),(Blank),(Blank),856256,678254
+World,UK,Edinburgh,(Blank),(Blank),(Blank),100578,245673
+World,UK,London,(Blank),L1,(Blank),100000,0
+(Blank),(Blank),(Blank),(Blank),(Blank),(Blank),1231231,1312312
