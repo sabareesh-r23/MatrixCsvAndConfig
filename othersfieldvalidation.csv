@@ -1,4 +1,4 @@
-Segment,Region,State,Quantity,Row ID,Sales,Average of Postal Code,Profit,First Ship Mode,Discount
+Orders.Segment,Orders.Region,Orders.State,Sum(Orders.Quantity),CountNonNull(Orders.Row ID),Sum(Orders.Sales),Avg(Orders.Postal Code),Sum(Orders.Profit),Min(Orders.Ship Mode),Sum(Orders.Discount)
 Consumer,West,Washington,990,275,73866.52000000003,98152.8690909091,19817.305199999973,First Class,17.599999999999998
 Corporate,West,Washington,536,131,39727.10999999999,98148.73282442748,9295.911299999996,First Class,7.800000000000001
 Home Office,West,Washington,357,100,25047.639999999996,98121.64,4289.435200000002,First Class,7.000000000000002
