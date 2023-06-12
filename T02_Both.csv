@@ -1,4 +1,4 @@
-Sub Region,Region,Level 0 Description,Level 1 Description,Level 2 Description,2020 Gross Sales,2020 Plan,Actuals,2020 Actuals
+Region Master.Sub Region,Region Master.Region,Accounts Master.Level 0 Description,Accounts Master.Level 1 Description,Accounts Master.Level 2 Description,Values.2020 Gross Sales,Values.2020 Plan,Values.Actuals,Values.2020 Actuals
 APAC,International,Operating Profit,Gross Profit,Cost of Goods Sold,,-403703130.05999994,-1251532501.7000017,-435483613.0300003
 EMEA,International,Operating Profit,Gross Profit,Cost of Goods Sold,,-827892731.5599998,-2550040280.9000034,-844821717.23
 Central,United States,Operating Profit,Gross Profit,Cost of Goods Sold,,-430138329.35999984,-1273267085.8199983,-432117201.30999935
