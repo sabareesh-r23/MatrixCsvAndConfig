@@ -1,4 +1,4 @@
-Sub Category,Category,Level 0 Description,2020 Gross Sales,2020 Plan,Actuals,2020 Actuals
+Category Master.Sub Category,Category Master.Category,Accounts Master.Level 0 Description,Values.2020 Gross Sales,Values.2020 Plan,Values.Actuals,Values.2020 Actuals
 Juices,Beverages,Operating Profit,2964582958.9599996,474326004.1000001,1256329449.000001,437953558.10999864
 Soda,Beverages,Operating Profit,2438756734.77,318588772.0000006,868461678.1199986,302503517.22999936
 Tea & Coffee,Beverages,Operating Profit,802917130.9299998,89527095.52,297806326.5200025,104849652.75000001
