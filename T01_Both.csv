@@ -1,0 +1,37 @@
+Region Master.Sub Region,Region Master.Region,Accounts Master.Level 0 Description,Accounts Master.Level 1 Description,Accounts Master.Level 2 Description,Values.2020 Gross Sales,Values.2020 Plan,Values.Actuals,Values.2020 Actuals
+APAC,International,Operating Profit,Gross Profit,Cost of Goods Sold,,-403703130.05999994,-1251532501.7000017,-435483613.0300003
+EMEA,International,Operating Profit,Gross Profit,Cost of Goods Sold,,-827892731.5599998,-2550040280.9000034,-844821717.23
+Central,United States,Operating Profit,Gross Profit,Cost of Goods Sold,,-430138329.35999984,-1273267085.8199983,-432117201.30999935
+East,United States,Operating Profit,Gross Profit,Cost of Goods Sold,,-826725417.129999,-2534559881.990001,-863599913.9099995
+Midwest,United States,Operating Profit,Gross Profit,Cost of Goods Sold,,-306952664.4000007,-933269737.4900007,-314476982.63000035
+Pacific,United States,Operating Profit,Gross Profit,Cost of Goods Sold,,-537888287.0299997,-1619829857.1099994,-534912672.59999985
+APAC,International,Operating Profit,Gross Profit,Net Revenue,892792152.02,762127429.9199997,2330710401.649996,810701513.0100008
+EMEA,International,Operating Profit,Gross Profit,Net Revenue,1767391026.6600006,1573856931.700001,4805988981.029997,1604950417.2600024
+Central,United States,Operating Profit,Gross Profit,Net Revenue,889073068.6399997,794702029.2799999,2376797085.6900005,811267201.3199993
+East,United States,Operating Profit,Gross Profit,Net Revenue,1808507804.6800003,1579013017.1700003,4810459882.060001,1644639913.9599998
+Midwest,United States,Operating Profit,Gross Profit,Net Revenue,663758446.3800001,586672064.37,1781845595.4399989,603452840.6599989
+Pacific,United States,Operating Profit,Gross Profit,Net Revenue,1118500960.6999998,1022990787.0700003,3083996857.1300015,1018299672.6699997
+APAC,International,Operating Profit,Operating Expenses,IT Expenses,,-20898046.51999999,-59114741.76000002,-21486232.1
+EMEA,International,Operating Profit,Operating Expenses,IT Expenses,,-35602953.08,-116259463.76,-36758130.82000001
+Central,United States,Operating Profit,Operating Expenses,IT Expenses,,-18357242.71,-55744136.73999999,-19166992.78999999
+East,United States,Operating Profit,Operating Expenses,IT Expenses,,-36076635.47999999,-113136299.94000006,-38208859.379999995
+Midwest,United States,Operating Profit,Operating Expenses,IT Expenses,,-17460328.20999999,-48806047.7,-17801478.970000006
+Pacific,United States,Operating Profit,Operating Expenses,IT Expenses,,-24233521.26,-72529017.53,-24285697.67999999
+APAC,International,Operating Profit,Operating Expenses,Other Expenses,,-26443798.899999995,-76838989.63999988,-26779977.680000007
+EMEA,International,Operating Profit,Operating Expenses,Other Expenses,,-53520269.690000005,-158305972.35000014,-52499331.86000001
+Central,United States,Operating Profit,Operating Expenses,Other Expenses,,-25320643.769999985,-77287663.36,-26609213.259999998
+East,United States,Operating Profit,Operating Expenses,Other Expenses,,-48208463.38,-152044370.20000008,-52153569.539999984
+Midwest,United States,Operating Profit,Operating Expenses,Other Expenses,,-19595069.93,-58843063.81999998,-19649444.42
+Pacific,United States,Operating Profit,Operating Expenses,Other Expenses,,-32213901.450000003,-98788481.38000001,-31861238.530000005
+APAC,International,Operating Profit,Operating Expenses,Personnel Costs,,-111648173.13000003,-343376330.7699993,-115766081.26999992
+EMEA,International,Operating Profit,Operating Expenses,Personnel Costs,,-223317731.80999997,-703277140,-231261196.9600001
+Central,United States,Operating Profit,Operating Expenses,Personnel Costs,,-114952135.30999984,-340531111.82999957,-120000461.44999991
+East,United States,Operating Profit,Operating Expenses,Personnel Costs,,-241334875.8700001,-731961453.0300007,-254572567.9999998
+Midwest,United States,Operating Profit,Operating Expenses,Personnel Costs,,-78086868.12999989,-248167128.5100003,-80426206.59999987
+Pacific,United States,Operating Profit,Operating Expenses,Personnel Costs,,-152797368.23999992,-460908624.2099994,-153131630.89999983
+APAC,International,Operating Profit,Operating Expenses,Sales and Marketing,,-45680844.29000002,-186125025.99000025,-59480661.23000002
+EMEA,International,Operating Profit,Operating Expenses,Sales and Marketing,,-116686099.13999999,-387747507.75000006,-128770042.70000002
+Central,United States,Operating Profit,Operating Expenses,Sales and Marketing,,-72364627.08000006,-240946030.47,-78240463.71999995
+East,United States,Operating Profit,Operating Expenses,Sales and Marketing,,-144265062.83999997,-497994524.2000005,-166609567.71000007
+Midwest,United States,Operating Profit,Operating Expenses,Sales and Marketing,,-50509388.74999997,-164135581.90000007,-54498004.83000002
+Pacific,United States,Operating Profit,Operating Expenses,Sales and Marketing,,-87242995.66999999,-309086728.5899998,-100517086.63
