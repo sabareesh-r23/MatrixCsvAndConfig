@@ -1,25 +1,25 @@
 Accounts Master.Level 0 Description,Accounts Master.Level 1 Description,Accounts Master.Level 2 Description,Accounts Master.Level 3 Description,Accounts Master.Level 4 Description,Values.2020 Gross Sales,Values.2020 Plan,Values.Actuals,Values.2020 Actuals
-Operating Profit,Gross Profit,Cost of Goods Sold,Raw Materials,(Blank),,-2055874486.099999,-6398495015.029999,-2114713361.6899996
-Operating Profit,Gross Profit,Cost of Goods Sold,Labor,(Blank),,-1268413913.2199988,-3737161511.0500035,-1301685982.8499987
-Operating Profit,Gross Profit,Cost of Goods Sold,Purchase Price Variance,(Blank),,-570187.0499999997,-733285.379999998,95555.22999999892
-Operating Profit,Gross Profit,Cost of Goods Sold,Other Direct Costs,(Blank),,-2730843.3000000035,-8213609.619999985,-3008206.2200000025
-Operating Profit,Gross Profit,Cost of Goods Sold,Freight,(Blank),,-5711129.870000004,-17895923.929999944,-6100105.180000004
+Operating Profit,Gross Profit,Cost of Goods Sold,Raw Materials,,,-2055874486.099999,-6398495015.029999,-2114713361.6899996
+Operating Profit,Gross Profit,Cost of Goods Sold,Labor,,,-1268413913.2199988,-3737161511.0500035,-1301685982.8499987
+Operating Profit,Gross Profit,Cost of Goods Sold,Purchase Price Variance,,,-570187.0499999997,-733285.379999998,95555.22999999892
+Operating Profit,Gross Profit,Cost of Goods Sold,Other Direct Costs,,,-2730843.3000000035,-8213609.619999985,-3008206.2200000025
+Operating Profit,Gross Profit,Cost of Goods Sold,Freight,,,-5711129.870000004,-17895923.929999944,-6100105.180000004
 Operating Profit,Gross Profit,Net Revenue,Gross Revenue,Gross Sales,7140023459.080005,6935859630.630002,21088343371.58,7140023459.080005
 Operating Profit,Gross Profit,Net Revenue,Gross Revenue,Retail Returns,,-44093955.20000001,-134124795.4699998,-44163119.17000004
 Operating Profit,Gross Profit,Net Revenue,Discounts,Pricing Adjustments,,-331056255.0199999,-1016768128.0199986,-340898660.86000013
 Operating Profit,Gross Profit,Net Revenue,Discounts,Sale Allowances,,-81227590.02000007,-249753676.81999984,-87586908.47999997
 Operating Profit,Gross Profit,Net Revenue,Discounts,Sales Discounts,,-122552836.3600001,-386172009.61000156,-135406207.58000013
 Operating Profit,Gross Profit,Net Revenue,Discounts,Sales Markdown,,-37566734.52000001,-111725958.65999988,-38657004.11000002
-Operating Profit,Operating Expenses,IT Expenses,(Blank),(Blank),,-152628727.2600001,-465589707.42999995,-157707391.74000004
-Operating Profit,Operating Expenses,Other Expenses,(Blank),(Blank),,-205302147.11999977,-622108540.7499994,-209552775.29000008
-Operating Profit,Operating Expenses,Personnel Costs,Salaries,(Blank),,-419503517.91,-1282619470.7799995,-430504789.4599994
-Operating Profit,Operating Expenses,Personnel Costs,Wages,(Blank),,-258664262.84000027,-780072822.5100003,-268090809.89999995
-Operating Profit,Operating Expenses,Personnel Costs,Bonus,(Blank),,-70012271.58999996,-220220293.53000027,-73958865.28999992
-Operating Profit,Operating Expenses,Personnel Costs,Benefits,(Blank),,-28949850.430000007,-87793135.85999991,-29662173.049999975
-Operating Profit,Operating Expenses,Personnel Costs,Training,(Blank),,-43234436.440000005,-138344308.22999975,-45936803.09999991
-Operating Profit,Operating Expenses,Personnel Costs,Recruiting,(Blank),,-36092192.64999999,-115310177.35999991,-38239229.81000001
-Operating Profit,Operating Expenses,Personnel Costs,Equipment,(Blank),,-27086141.869999994,-86239511.90999974,-28792675.83000001
-Operating Profit,Operating Expenses,Personnel Costs,Computer,(Blank),,-21957569.550000004,-66242514.20000002,-22795716.180000015
-Operating Profit,Operating Expenses,Personnel Costs,Tuition,(Blank),,-16636909.210000008,-51379553.96999999,-17177082.56000001
-Operating Profit,Operating Expenses,Sales and Marketing,Marketing Expenses,(Blank),,-309086298.3499998,-952359709.7500005,-318367352.28999996
-Operating Profit,Operating Expenses,Sales and Marketing,Sales Expenses,(Blank),,-207662719.41999996,-833675689.1499995,-269748474.53
+Operating Profit,Operating Expenses,IT Expenses,,,,-152628727.2600001,-465589707.42999995,-157707391.74000004
+Operating Profit,Operating Expenses,Other Expenses,,,,-205302147.11999977,-622108540.7499994,-209552775.29000008
+Operating Profit,Operating Expenses,Personnel Costs,Salaries,,,-419503517.91,-1282619470.7799995,-430504789.4599994
+Operating Profit,Operating Expenses,Personnel Costs,Wages,,,-258664262.84000027,-780072822.5100003,-268090809.89999995
+Operating Profit,Operating Expenses,Personnel Costs,Bonus,,,-70012271.58999996,-220220293.53000027,-73958865.28999992
+Operating Profit,Operating Expenses,Personnel Costs,Benefits,,,-28949850.430000007,-87793135.85999991,-29662173.049999975
+Operating Profit,Operating Expenses,Personnel Costs,Training,,,-43234436.440000005,-138344308.22999975,-45936803.09999991
+Operating Profit,Operating Expenses,Personnel Costs,Recruiting,,,-36092192.64999999,-115310177.35999991,-38239229.81000001
+Operating Profit,Operating Expenses,Personnel Costs,Equipment,,,-27086141.869999994,-86239511.90999974,-28792675.83000001
+Operating Profit,Operating Expenses,Personnel Costs,Computer,,,-21957569.550000004,-66242514.20000002,-22795716.180000015
+Operating Profit,Operating Expenses,Personnel Costs,Tuition,,,-16636909.210000008,-51379553.96999999,-17177082.56000001
+Operating Profit,Operating Expenses,Sales and Marketing,Marketing Expenses,,,-309086298.3499998,-952359709.7500005,-318367352.28999996
+Operating Profit,Operating Expenses,Sales and Marketing,Sales Expenses,,,-207662719.41999996,-833675689.1499995,-269748474.53
