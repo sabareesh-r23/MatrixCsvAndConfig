@@ -1,0 +1,17 @@
+_EmployeeData-Sparkline.Title,_EmployeeData-Sparkline.Subtitle,Sum(_EmployeeData-Sparkline.Salary),_EmployeeData-Sparkline.Prev Salary,Avg(_EmployeeData-Sparkline.Attendance),Min(_EmployeeData-Sparkline.Image)
+Programmer,Ariel Wiley,168036,0,78.1875,https://cdn.balkan.app/shared/13.jpg
+Programmer,Reuben Mcleod,151091,0,77.0625,https://cdn.balkan.app/shared/12.jpg
+Programmer,Anne Ewing,144900,0,73.0625,https://cdn.balkan.app/shared/11.jpg
+Programmer,Alice Gray,136634,273268,78.8125,https://cdn.balkan.app/shared/10.jpg
+QA,Elliot Ross,180596,361192,76.8125,https://cdn.balkan.app/shared/5.jpg
+QA,Knox Macias,169015,0,77.6875,https://cdn.balkan.app/shared/7.jpg
+QA,Anahi Gordon,153931,153931,72.6875,https://cdn.balkan.app/shared/6.jpg
+JS Team Lead,Sage Barnett,198939,397878,76.8125,https://cdn.balkan.app/shared/9.jpg
+QA Lead,Lexie Cole,198331,396662,77.875,https://cdn.balkan.app/shared/2.jpg
+Manager,Aaliyah Webb,189305,378610,72.125,https://cdn.balkan.app/shared/4.jpg
+Sales Manager,Alex Snider,172688,0,74.875,https://cdn.balkan.app/shared/16.jpg
+Marketer,Lucas West,164726,0,79.9375,https://cdn.balkan.app/shared/14.jpg
+Technical Director,Janae Barrett,162848,0,78.1875,https://cdn.balkan.app/shared/3.jpg
+Designer,Adan Travis,150232,300464,77.9375,https://cdn.balkan.app/shared/15.jpg
+Chairman,Jack Hill,143759,143759,71.6875,https://cdn.balkan.app/shared/1.jpg
+.NET Team Lead,Nash Ingram,129069,258138,76.8125,https://cdn.balkan.app/shared/8.jpg
