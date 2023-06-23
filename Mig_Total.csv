@@ -1,0 +1,817 @@
+Orders.Region,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Category,Orders.Segment,Sum(Orders.Quantity),Sum(Orders.Profit),Sum(Orders.Discount),Sum(Orders.Sales),CountNonNull(Orders.Postal Code)
+Central,2014,Furniture,Bookcases,Consumer,15,-120.65839999999996,0.9199999999999999,1110.6116,3
+East,2014,Furniture,Bookcases,Consumer,29,-395.4879000000005,1.3,6759.801000000001,6
+South,2014,Furniture,Bookcases,Consumer,13,164.70860000000002,0.2,794.2760000000001,2
+West,2014,Furniture,Bookcases,Consumer,17,-302.8688,1.4499999999999997,1489.4415,6
+Central,2015,Furniture,Bookcases,Consumer,27,-608.6298000000002,1.54,4136.7688,6
+East,2015,Furniture,Bookcases,Consumer,43,-1514.0249000000001,2.3,11367.880000000001,9
+South,2015,Furniture,Bookcases,Consumer,12,89.2884,0.2,813.6120000000001,2
+West,2015,Furniture,Bookcases,Consumer,64,-1267.6758000000004,4.850000000000001,6704.628000000001,18
+Central,2016,Furniture,Bookcases,Consumer,31,-522.1548,1.58,4697.1992,7
+East,2016,Furniture,Bookcases,Consumer,35,-446.0228000000002,2.7,3546.9269999999997,11
+South,2016,Furniture,Bookcases,Consumer,23,480.5709999999999,0.2,2839.756,5
+West,2016,Furniture,Bookcases,Consumer,27,327.8037999999998,1.5999999999999996,6066.1990000000005,8
+Central,2017,Furniture,Bookcases,Consumer,22,-245.68300000000013,2.22,3016.2743999999993,8
+East,2017,Furniture,Bookcases,Consumer,33,163.46839999999975,2.8,5632.525999999999,13
+South,2017,Furniture,Bookcases,Consumer,37,485.444,1,4268.918,10
+West,2017,Furniture,Bookcases,Consumer,68,-723.7162000000001,4.15,5387.9105,17
+Central,2014,Furniture,Bookcases,Corporate,3,26.750099999999996,0.32,209.95319999999998,2
+East,2014,Furniture,Bookcases,Corporate,26,-70.80500000000015,1.7,3485.738,5
+South,2014,Furniture,Bookcases,Corporate,,,,,
+West,2014,Furniture,Bookcases,Corporate,25,278.5208999999999,0.75,3325.9764999999998,6
+Central,2015,Furniture,Bookcases,Corporate,16,-174.12800000000004,0.96,2198.6304,5
+East,2015,Furniture,Bookcases,Corporate,23,485.8235999999999,1.4,5934.681999999999,6
+South,2015,Furniture,Bookcases,Corporate,7,13.991999999999997,0.4,363.024,2
+West,2015,Furniture,Bookcases,Corporate,18,277.4451,0.44999999999999996,2649.1865,3
+Central,2016,Furniture,Bookcases,Corporate,27,54.11400000000006,0.94,3687.7408,5
+East,2016,Furniture,Bookcases,Corporate,16,269.9486,0.7,2042.8160000000003,5
+South,2016,Furniture,Bookcases,Corporate,2,10.858799999999974,0.2,289.568,1
+West,2016,Furniture,Bookcases,Corporate,12,-99.43860000000011,1.15,1267.1715,4
+Central,2017,Furniture,Bookcases,Corporate,28,-289.44820000000004,1.58,2293.1764000000003,6
+East,2017,Furniture,Bookcases,Corporate,19,279.9958,0.7,1705.696,5
+South,2017,Furniture,Bookcases,Corporate,11,43.51579999999999,0.2,501.212,2
+West,2017,Furniture,Bookcases,Corporate,38,-468.6947,2.55,4051.353,7
+Central,2014,Furniture,Bookcases,Home Office,5,-39.73740000000003,0.32,513.4728,2
+East,2014,Furniture,Bookcases,Home Office,5,40.70739999999998,0.2,617.912,2
+South,2014,Furniture,Bookcases,Home Office,,,,,
+West,2014,Furniture,Bookcases,Home Office,15,72.69980000000004,0.44999999999999996,1729.495,3
+Central,2015,Furniture,Bookcases,Home Office,15,-102.43460000000003,0.94,1962.3228,4
+East,2015,Furniture,Bookcases,Home Office,15,40.77659999999992,0.9,2350.878,5
+South,2015,Furniture,Bookcases,Home Office,2,4.337199999999996,0,61.96,1
+West,2015,Furniture,Bookcases,Home Office,,,,,
+Central,2016,Furniture,Bookcases,Home Office,,,,,
+East,2016,Furniture,Bookcases,Home Office,8,-22.011600000000016,0.7,374.47800000000007,3
+South,2016,Furniture,Bookcases,Home Office,7,61.293599999999955,0.2,579.9000000000001,2
+West,2016,Furniture,Bookcases,Home Office,9,97.509,0.3,883.711,3
+Central,2017,Furniture,Bookcases,Home Office,3,24.10579999999998,0.32,331.02639999999997,2
+East,2017,Furniture,Bookcases,Home Office,,,,,
+South,2017,Furniture,Bookcases,Home Office,4,-14.51760000000003,0.2,387.136,1
+West,2017,Furniture,Bookcases,Home Office,13,161.90380000000005,0.6,2449.051,5
+Central,2014,Furniture,Chairs,Consumer,70,577.9794999999997,3.899999999999999,11023.306000000002,17
+East,2014,Furniture,Chairs,Consumer,71,1494.901,2.7,14298.381000000001,16
+South,2014,Furniture,Chairs,Consumer,50,729.7823999999999,1,5961.312,11
+West,2014,Furniture,Chairs,Consumer,89,686.3086999999995,5.400000000000002,12922.439999999999,27
+Central,2015,Furniture,Chairs,Consumer,99,1255.3317999999992,4.199999999999999,13440.148000000001,23
+East,2015,Furniture,Chairs,Consumer,86,1149.8792000000003,2.8000000000000003,9866.753,21
+South,2015,Furniture,Chairs,Consumer,48,1070.8517999999997,0.6000000000000001,5815.340000000001,11
+West,2015,Furniture,Chairs,Consumer,56,397.0047999999999,3.400000000000001,8760.64,17
+Central,2016,Furniture,Chairs,Consumer,56,322.0644999999999,2.9999999999999996,6618.043000000001,17
+East,2016,Furniture,Chairs,Consumer,126,1226.2762999999995,5.1,16826.879999999997,30
+South,2016,Furniture,Chairs,Consumer,31,910.1379999999999,0.8,4130.094,10
+West,2016,Furniture,Chairs,Consumer,119,214.8520999999994,6.200000000000003,12582.424000000003,31
+Central,2017,Furniture,Chairs,Consumer,82,765.5254999999993,5.099999999999999,11851.878000000002,24
+East,2017,Furniture,Chairs,Consumer,104,1046.3387,4.599999999999999,18653.118999999995,27
+South,2017,Furniture,Chairs,Consumer,66,1306.2624999999998,2.1999999999999997,10897.480000000001,21
+West,2017,Furniture,Chairs,Consumer,81,81.83509999999978,5.200000000000002,9214.504000000004,26
+Central,2014,Furniture,Chairs,Corporate,25,-231.84699999999987,1.5,3891.2039999999997,6
+East,2014,Furniture,Chairs,Corporate,44,882.9467999999999,0.8,5396.138999999999,9
+South,2014,Furniture,Chairs,Corporate,39,543.5437999999998,0.6000000000000001,3397.228,6
+West,2014,Furniture,Chairs,Corporate,50,269.6639999999999,2.6,5310.408,13
+Central,2015,Furniture,Chairs,Corporate,15,219.14689999999985,0.6,1837.4019999999998,5
+East,2015,Furniture,Chairs,Corporate,47,592.9418000000001,1.7000000000000002,6039.421,11
+South,2015,Furniture,Chairs,Corporate,25,-101.90270000000027,1.2,3134.476,7
+West,2015,Furniture,Chairs,Corporate,49,111.08749999999964,2.8000000000000003,7319.928000000002,14
+Central,2016,Furniture,Chairs,Corporate,91,1293.1130999999993,4.199999999999999,13987.673000000003,20
+East,2016,Furniture,Chairs,Corporate,33,271.0239999999999,1.7,4260.718,10
+South,2016,Furniture,Chairs,Corporate,19,335.4869999999999,0.6000000000000001,2079.2479999999996,6
+West,2016,Furniture,Chairs,Corporate,75,601.6498999999994,4.800000000000002,14118.592000000004,24
+Central,2017,Furniture,Chairs,Corporate,47,1926.4707,1.2,8273.273000000001,14
+East,2017,Furniture,Chairs,Corporate,65,973.6752,2.1999999999999997,7808.952,16
+South,2017,Furniture,Chairs,Corporate,19,406.8263999999999,1,2755.92,7
+West,2017,Furniture,Chairs,Corporate,76,250.82909999999944,4.000000000000001,9530.296,20
+Central,2014,Furniture,Chairs,Home Office,41,353.1291999999998,1.8,5839.542,9
+East,2014,Furniture,Chairs,Home Office,29,341.5362,0.9999999999999999,2313.748,7
+South,2014,Furniture,Chairs,Home Office,13,1031.3877999999997,0,3713.7400000000002,2
+West,2014,Furniture,Chairs,Home Office,19,275.7146,1.2,3174.1279999999997,6
+Central,2015,Furniture,Chairs,Home Office,31,202.46910000000003,1.2,2630.955,6
+East,2015,Furniture,Chairs,Home Office,23,735.9805999999998,0.5,4103.098,7
+South,2015,Furniture,Chairs,Home Office,5,131.27849999999995,0.2,1166.92,1
+West,2015,Furniture,Chairs,Home Office,44,464.3467999999999,1.9999999999999998,7619.447999999999,10
+Central,2016,Furniture,Chairs,Home Office,19,-110.93960000000003,1.2,2743.908,5
+East,2016,Furniture,Chairs,Home Office,16,285.50079999999997,0.5,1922.885,4
+South,2016,Furniture,Chairs,Home Office,2,30.444999999999993,0,121.78,1
+West,2016,Furniture,Chairs,Home Office,27,383.5427999999999,1.4,4526.400000000001,7
+Central,2017,Furniture,Chairs,Home Office,39,20.27839999999982,1.8,3093.314,8
+East,2017,Furniture,Chairs,Home Office,32,356.76999999999964,1.7000000000000004,4770.589000000001,10
+South,2017,Furniture,Chairs,Home Office,14,217.98879999999997,0.4,2002.908,5
+West,2017,Furniture,Chairs,Home Office,49,290.7488999999994,2.4,6702.12,12
+Central,2014,Furniture,Furnishings,Consumer,97,-144.59579999999997,11.399999999999997,2153.268,26
+East,2014,Furniture,Furnishings,Consumer,103,350.49669999999986,2.8000000000000003,2305.5599999999995,33
+South,2014,Furniture,Furnishings,Consumer,55,113.88119999999992,1.7999999999999998,1413.06,16
+West,2014,Furniture,Furnishings,Consumer,105,501.1047,0.8,1906.32,31
+Central,2015,Furniture,Furnishings,Consumer,86,-299.73350000000005,8.399999999999999,1618.0380000000005,22
+East,2015,Furniture,Furnishings,Consumer,69,498.2005999999999,1.7999999999999998,2110.936,20
+South,2015,Furniture,Furnishings,Consumer,59,409.3825999999998,1.5999999999999999,3006.3879999999995,17
+West,2015,Furniture,Furnishings,Consumer,155,952.2838999999999,1.7999999999999998,4027.17,37
+Central,2016,Furniture,Furnishings,Consumer,108,-417.3794000000001,11.399999999999997,3118.8700000000003,29
+East,2016,Furniture,Furnishings,Consumer,153,1375.4659000000006,2.4,5338.15,39
+South,2016,Furniture,Furnishings,Consumer,98,983.7493000000002,1.5999999999999999,4197.066000000001,23
+West,2016,Furniture,Furnishings,Consumer,183,1433.3485999999998,0.8,4805.974000000001,40
+Central,2017,Furniture,Furnishings,Consumer,108,-592.3437000000002,13.199999999999996,2609.814,31
+East,2017,Furniture,Furnishings,Consumer,156,796.9738,4.600000000000001,3422.4220000000005,45
+South,2017,Furniture,Furnishings,Consumer,84,450.1724,3.400000000000001,2254.0599999999995,25
+West,2017,Furniture,Furnishings,Consumer,215,1508.4153999999994,1.4,5332.95,60
+Central,2014,Furniture,Furnishings,Corporate,32,-111.01229999999998,4.8,254.368,9
+East,2014,Furniture,Furnishings,Corporate,46,294.2906,1,1025.22,13
+South,2014,Furniture,Furnishings,Corporate,37,201.75579999999997,1.2,1407.932,12
+West,2014,Furniture,Furnishings,Corporate,67,286.95660000000004,0.6000000000000001,1494.978,16
+Central,2015,Furniture,Furnishings,Corporate,43,-220.79289999999997,5.999999999999999,313.892,12
+East,2015,Furniture,Furnishings,Corporate,63,148.73139999999987,1.7999999999999998,1935.9920000000002,20
+South,2015,Furniture,Furnishings,Corporate,94,719.0287,3.0000000000000004,2194.58,20
+West,2015,Furniture,Furnishings,Corporate,77,557.1619999999999,0.8,2263.9500000000003,20
+Central,2016,Furniture,Furnishings,Corporate,96,-313.74610000000007,7.799999999999998,977.9979999999999,21
+East,2016,Furniture,Furnishings,Corporate,95,592.6106999999998,1.2,3429.38,28
+South,2016,Furniture,Furnishings,Corporate,37,79.543,1.4,502.866,10
+West,2016,Furniture,Furnishings,Corporate,72,284.5587999999999,1,1189.888,17
+Central,2017,Furniture,Furnishings,Corporate,53,-563.8070000000001,4.8,1597.6979999999999,16
+East,2017,Furniture,Furnishings,Corporate,137,920.5978999999998,1.9999999999999998,3592.734,38
+South,2017,Furniture,Furnishings,Corporate,46,87.60559999999998,1.4,399.30199999999996,12
+West,2017,Furniture,Furnishings,Corporate,91,544.7249,0.6000000000000001,2420.4880000000003,24
+Central,2014,Furniture,Furnishings,Home Office,18,9.099000000000004,1.7999999999999998,128.46,5
+East,2014,Furniture,Furnishings,Home Office,33,99.59359999999998,0.8,426.53600000000006,6
+South,2014,Furniture,Furnishings,Home Office,16,107.52959999999999,0.4,339.51,5
+West,2014,Furniture,Furnishings,Home Office,51,263.7922,0.2,971.0219999999999,12
+Central,2015,Furniture,Furnishings,Home Office,28,-237.17239999999995,1.2,596.63,5
+East,2015,Furniture,Furnishings,Home Office,39,90.14199999999991,0.8,1222.986,12
+South,2015,Furniture,Furnishings,Home Office,11,43.72639999999999,0,176.84,4
+West,2015,Furniture,Furnishings,Home Office,46,390.86009999999993,0.2,1622.31,11
+Central,2016,Furniture,Furnishings,Home Office,54,-851.2000000000003,6.599999999999999,1018.8240000000002,15
+East,2016,Furniture,Furnishings,Home Office,50,167.0991,1.2,819.61,9
+South,2016,Furniture,Furnishings,Home Office,51,215.1076,0.4,682.852,12
+West,2016,Furniture,Furnishings,Home Office,39,386.11250000000007,0.8,1792.6460000000002,14
+Central,2017,Furniture,Furnishings,Home Office,35,-163.53270000000003,5.3999999999999995,866.5100000000001,14
+East,2017,Furniture,Furnishings,Home Office,71,547.2047999999999,1.5999999999999999,3441.8539999999994,20
+South,2017,Furniture,Furnishings,Home Office,27,31.200699999999948,1.4,732.228,9
+West,2017,Furniture,Furnishings,Home Office,74,531.9506999999999,1,2245.0340000000006,22
+Central,2014,Furniture,Tables,Consumer,40,-1372.7273000000005,3.999999999999999,5836.129999999999,11
+East,2014,Furniture,Tables,Consumer,26,-835.1682000000003,2.8999999999999995,3315.6059999999998,8
+South,2014,Furniture,Tables,Consumer,23,-67.27690000000024,0.8500000000000001,3902.5945,5
+West,2014,Furniture,Tables,Consumer,59,255.43759999999963,3.0999999999999996,10868.865999999998,13
+Central,2015,Furniture,Tables,Consumer,21,-106.12850000000019,1.5,3110.961,6
+East,2015,Furniture,Tables,Consumer,33,-1341.1239000000003,2.8,4033.068,7
+South,2015,Furniture,Tables,Consumer,27,-2210.8203000000003,1.75,7012.0945,7
+West,2015,Furniture,Tables,Consumer,58,203.79839999999996,2.9,8585.503,15
+Central,2016,Furniture,Tables,Consumer,40,-1177.9492,3.1999999999999993,4940.114,10
+East,2016,Furniture,Tables,Consumer,27,-764.2839000000001,3.6999999999999993,3776.876,11
+South,2016,Furniture,Tables,Consumer,41,596.2253,1.6500000000000001,7690.782999999999,9
+West,2016,Furniture,Tables,Consumer,44,62.35219999999933,2.5,9185.527000000002,12
+Central,2017,Furniture,Tables,Consumer,50,-1307.3520999999998,4.399999999999999,6947.795,15
+East,2017,Furniture,Tables,Consumer,20,-767.7767999999999,2.5999999999999996,2956.917,7
+South,2017,Furniture,Tables,Consumer,28,-895.6277,1.25,5803.37,6
+West,2017,Furniture,Tables,Consumer,65,0.3835000000000264,3.1999999999999997,11967.59,17
+Central,2014,Furniture,Tables,Corporate,7,-140.42969999999994,0.6,1318.6529999999998,2
+East,2014,Furniture,Tables,Corporate,34,-2523.3029,3.8999999999999995,6802.746000000001,10
+South,2014,Furniture,Tables,Corporate,18,581.3595000000001,0.4,3338.7700000000004,4
+West,2014,Furniture,Tables,Corporate,34,72.90879999999989,1.9,4440.961,10
+Central,2015,Furniture,Tables,Corporate,15,251.69550000000004,0.6,1875.2519999999997,4
+East,2015,Furniture,Tables,Corporate,24,-726.1578000000002,1.7999999999999998,3008.286,5
+South,2015,Furniture,Tables,Corporate,2,39.44380000000001,0,358.58,1
+West,2015,Furniture,Tables,Corporate,15,772.7909999999999,0.4,4533.804,4
+Central,2016,Furniture,Tables,Corporate,27,1150.9317,0.3,7592.712,5
+East,2016,Furniture,Tables,Corporate,22,-1144.6562000000004,3.5999999999999996,3027.984,9
+South,2016,Furniture,Tables,Corporate,38,-557.0023000000006,2.1,4807.528500000001,6
+West,2016,Furniture,Tables,Corporate,70,340.6075,3.3,13999.457,15
+Central,2017,Furniture,Tables,Corporate,17,-555.0169000000003,1.6,1775.9759999999999,5
+East,2017,Furniture,Tables,Corporate,29,-905.5387999999998,2.8999999999999995,4712.5419999999995,8
+South,2017,Furniture,Tables,Corporate,21,-1452.0249000000001,1.65,4114.7970000000005,5
+West,2017,Furniture,Tables,Corporate,46,-112.10690000000021,2.5,5163.669,13
+Central,2014,Furniture,Tables,Home Office,6,88.82600000000002,0.3,630.695,2
+East,2014,Furniture,Tables,Home Office,4,-179.36640000000003,0.8,485.35200000000003,2
+South,2014,Furniture,Tables,Home Office,9,593.9076,0,2699.58,2
+West,2014,Furniture,Tables,Home Office,10,401.78919999999977,0.2,2448.4120000000003,2
+Central,2015,Furniture,Tables,Home Office,15,-410.6609000000003,0.8,1871.047,4
+East,2015,Furniture,Tables,Home Office,10,-208.58239999999995,1,1843.452,3
+South,2015,Furniture,Tables,Home Office,,,,,
+West,2015,Furniture,Tables,Home Office,15,225.94319999999976,0.2,2918.376,2
+Central,2016,Furniture,Tables,Home Office,7,319.6386,0,1390.1,2
+East,2016,Furniture,Tables,Home Office,11,-397.8382000000001,0.8,1020.4679999999998,2
+South,2016,Furniture,Tables,Home Office,,,,,
+West,2016,Furniture,Tables,Home Office,19,-1378.9673,1.9,3401.651,5
+Central,2017,Furniture,Tables,Home Office,17,-300.4776000000001,1.6,1865.5359999999998,6
+East,2017,Furniture,Tables,Home Office,31,-1231.5846000000001,3.0999999999999996,4156.51,8
+South,2017,Furniture,Tables,Home Office,20,-1251.2420000000002,1.7000000000000002,4188.0945,6
+West,2017,Furniture,Tables,Home Office,46,637.6700999999998,1.1,7240.745999999999,8
+Central,2014,Office Supplies,Appliances,Consumer,54,-789.0035000000001,7.299999999999999,1748.6660000000002,14
+East,2014,Office Supplies,Appliances,Consumer,45,561.1186,1.4,2123.2319999999995,16
+South,2014,Office Supplies,Appliances,Consumer,30,102.89829999999998,1,765.924,6
+West,2014,Office Supplies,Appliances,Consumer,32,579.3983000000001,0.2,2033.75,11
+Central,2015,Office Supplies,Appliances,Consumer,67,-2200.5389000000005,8.2,2227.0020000000004,15
+East,2015,Office Supplies,Appliances,Consumer,49,1298.9668999999994,1.2,4748.233999999999,13
+South,2015,Office Supplies,Appliances,Consumer,40,630.4729,0.6000000000000001,2988.3979999999997,12
+West,2015,Office Supplies,Appliances,Consumer,49,798.8262999999995,0.8,3462.51,11
+Central,2016,Office Supplies,Appliances,Consumer,24,64.27659999999989,3.5,1281.081,9
+East,2016,Office Supplies,Appliances,Consumer,56,1340.9531000000004,1.4,4736.658,18
+South,2016,Office Supplies,Appliances,Consumer,31,264.0676,1.2,2159.0280000000002,8
+West,2016,Office Supplies,Appliances,Consumer,56,887.2072999999999,0.2,2664.0480000000002,18
+Central,2017,Office Supplies,Appliances,Consumer,102,-850.3407000000002,13.600000000000003,4561.972,28
+East,2017,Office Supplies,Appliances,Consumer,95,1807.7192999999997,1,7781.632,19
+South,2017,Office Supplies,Appliances,Consumer,77,457.82439999999997,2.4,2374.0039999999995,20
+West,2017,Office Supplies,Appliances,Consumer,101,2028.0817000000002,0.2,7163.441999999998,26
+Central,2014,Office Supplies,Appliances,Corporate,20,-253.47140000000005,3.3,239.75399999999996,7
+East,2014,Office Supplies,Appliances,Corporate,43,769.6899999999999,0.6000000000000001,3353.906,12
+South,2014,Office Supplies,Appliances,Corporate,20,371.04339999999996,0.6000000000000001,1142.55,6
+West,2014,Office Supplies,Appliances,Corporate,24,235.44519999999997,0.4,862.776,8
+Central,2015,Office Supplies,Appliances,Corporate,15,41.72199999999998,1.9000000000000001,781.6909999999999,5
+East,2015,Office Supplies,Appliances,Corporate,20,106.86090000000002,0.2,343.87600000000003,6
+South,2015,Office Supplies,Appliances,Corporate,5,322.70730000000003,0.2,833.102,2
+West,2015,Office Supplies,Appliances,Corporate,45,578.6085999999998,0.8,2385.098,12
+Central,2016,Office Supplies,Appliances,Corporate,46,-623.8456000000002,5,901.036,12
+East,2016,Office Supplies,Appliances,Corporate,56,836.5294999999999,1.2,3699.868,14
+South,2016,Office Supplies,Appliances,Corporate,15,795.8128999999999,0.4,2574.1939999999995,5
+West,2016,Office Supplies,Appliances,Corporate,46,319.84540000000004,0.4,1221.2040000000002,11
+Central,2017,Office Supplies,Appliances,Corporate,53,376.3643999999999,6.499999999999999,3302.278,12
+East,2017,Office Supplies,Appliances,Corporate,43,894.2067999999999,1,3583.614,11
+South,2017,Office Supplies,Appliances,Corporate,60,1054.2581999999998,1.9999999999999998,5573.790000000001,17
+West,2017,Office Supplies,Appliances,Corporate,58,1604.1175999999998,0.2,5789.946000000001,15
+Central,2014,Office Supplies,Appliances,Home Office,8,533.3024999999999,0.1,1670.785,2
+East,2014,Office Supplies,Appliances,Home Office,13,81.15359999999998,0.2,302.064,3
+South,2014,Office Supplies,Appliances,Home Office,6,15.843599999999995,0.2,211.248,1
+West,2014,Office Supplies,Appliances,Home Office,19,252.0812999999999,0,858.9699999999998,7
+Central,2015,Office Supplies,Appliances,Home Office,24,-35.9392000000002,2.6,1965.8159999999998,6
+East,2015,Office Supplies,Appliances,Home Office,29,444.77269999999993,0.2,1599.1420000000003,7
+South,2015,Office Supplies,Appliances,Home Office,2,9.517199999999999,0,28.84,1
+West,2015,Office Supplies,Appliances,Home Office,20,515.9190000000001,0.2,1877.5799999999997,4
+Central,2016,Office Supplies,Appliances,Home Office,30,938.2637,1.6,3832.8940000000002,7
+East,2016,Office Supplies,Appliances,Home Office,7,125.12319999999993,0.4,990.056,3
+South,2016,Office Supplies,Appliances,Home Office,7,99.49379999999995,0.4,874.248,3
+West,2016,Office Supplies,Appliances,Home Office,22,253.61399999999998,0.6000000000000001,1116,6
+Central,2017,Office Supplies,Appliances,Home Office,27,160.59259999999998,1.6,1069.058,6
+East,2017,Office Supplies,Appliances,Home Office,18,124.31879999999987,0.4,926.184,4
+South,2017,Office Supplies,Appliances,Home Office,,,,,
+West,2017,Office Supplies,Appliances,Home Office,20,208.12519999999995,0.2,801.0120000000001,7
+Central,2014,Office Supplies,Art,Consumer,69,111.90610000000001,1.9999999999999998,490.61799999999994,19
+East,2014,Office Supplies,Art,Consumer,94,155.13269999999994,2.4,608.2820000000003,28
+South,2014,Office Supplies,Art,Consumer,47,83.193,1.2,339.004,13
+West,2014,Office Supplies,Art,Consumer,132,348.04239999999993,1.5999999999999999,1391.4940000000004,38
+Central,2015,Office Supplies,Art,Consumer,59,68.0502,1.7999999999999998,391.746,14
+East,2015,Office Supplies,Art,Consumer,92,232.26229999999998,1.7999999999999998,974.2039999999998,25
+South,2015,Office Supplies,Art,Consumer,51,145.28969999999995,1.5999999999999999,536.784,16
+West,2015,Office Supplies,Art,Consumer,109,281.09319999999997,2.1999999999999997,1103.514,29
+Central,2016,Office Supplies,Art,Consumer,79,125.67719999999998,3.400000000000001,936.9760000000001,22
+East,2016,Office Supplies,Art,Consumer,94,256.7172,1.5999999999999999,1082.058,29
+South,2016,Office Supplies,Art,Consumer,99,240.3839,1.7999999999999998,954.072,24
+West,2016,Office Supplies,Art,Consumer,84,184.8224,0.2,613.318,21
+Central,2017,Office Supplies,Art,Consumer,167,299.928,5.600000000000002,1453.0120000000002,39
+East,2017,Office Supplies,Art,Consumer,140,344.9519999999999,2.4,1182.6540000000002,35
+South,2017,Office Supplies,Art,Consumer,115,179.58770000000004,3.400000000000001,824.8959999999998,28
+West,2017,Office Supplies,Art,Consumer,194,397.2631,0.8,1369.2980000000002,48
+Central,2014,Office Supplies,Art,Corporate,22,61.77939999999998,0.4,210.576,5
+East,2014,Office Supplies,Art,Corporate,47,68.82619999999999,0.8,279.802,11
+South,2014,Office Supplies,Art,Corporate,49,43.417799999999986,1,159.47999999999996,13
+West,2014,Office Supplies,Art,Corporate,68,342.86879999999996,0.6000000000000001,1780.484,16
+Central,2015,Office Supplies,Art,Corporate,36,112.27209999999997,0.8,482.416,11
+East,2015,Office Supplies,Art,Corporate,51,95.29309999999997,1,355.41799999999995,14
+South,2015,Office Supplies,Art,Corporate,57,90.45079999999997,1.4,622.648,12
+West,2015,Office Supplies,Art,Corporate,36,178.24179999999996,0.4,636.4459999999999,10
+Central,2016,Office Supplies,Art,Corporate,56,67.54029999999999,1.4,339.14599999999996,15
+East,2016,Office Supplies,Art,Corporate,85,189.7744,1.2,671.4159999999999,22
+South,2016,Office Supplies,Art,Corporate,23,75.89029999999997,0.8,316.33799999999997,7
+West,2016,Office Supplies,Art,Corporate,41,58.905199999999994,0.4,206.35799999999998,14
+Central,2017,Office Supplies,Art,Corporate,63,102.37750000000001,1.9999999999999998,446.60400000000004,13
+East,2017,Office Supplies,Art,Corporate,104,212.27789999999996,2.1999999999999997,971.766,25
+South,2017,Office Supplies,Art,Corporate,28,54.49539999999998,1,233.938,8
+West,2017,Office Supplies,Art,Corporate,84,250.23669999999998,0.2,877.6120000000001,22
+Central,2014,Office Supplies,Art,Home Office,15,14.156500000000001,0.8,120.75999999999999,4
+East,2014,Office Supplies,Art,Home Office,24,108.95429999999996,0.4,402.11799999999994,6
+South,2014,Office Supplies,Art,Home Office,13,7.142499999999995,0.6000000000000001,67.648,4
+West,2014,Office Supplies,Art,Home Office,33,61.383399999999995,0.2,207.716,7
+Central,2015,Office Supplies,Art,Home Office,21,67.74780000000001,0.4,257.99799999999993,8
+East,2015,Office Supplies,Art,Home Office,44,72.83769999999997,1,377.744,15
+South,2015,Office Supplies,Art,Home Office,16,57.60979999999998,0.4,202.886,4
+West,2015,Office Supplies,Art,Home Office,36,83.90970000000002,0,295.0299999999999,9
+Central,2016,Office Supplies,Art,Home Office,36,68.1978,0.6000000000000001,243.828,9
+East,2016,Office Supplies,Art,Home Office,36,30.428199999999997,0.6000000000000001,129.092,7
+South,2016,Office Supplies,Art,Home Office,10,36.36219999999999,0.2,167.86,3
+West,2016,Office Supplies,Art,Home Office,35,79.2635,0.4,300.44599999999997,10
+Central,2017,Office Supplies,Art,Home Office,55,95.52619999999999,2.4,391.65999999999997,17
+East,2017,Office Supplies,Art,Home Office,38,132.48829999999995,0.4,451.21000000000004,11
+South,2017,Office Supplies,Art,Home Office,39,44.7635,1,230.068,10
+West,2017,Office Supplies,Art,Home Office,74,108.06679999999997,0.8,430.3500000000001,26
+Central,2014,Office Supplies,Binders,Consumer,208,-914.2178000000044,26.400000000000013,14713.503999999997,50
+East,2014,Office Supplies,Binders,Consumer,176,936.7102999999997,18.999999999999993,3894.951000000001,51
+South,2014,Office Supplies,Binders,Consumer,63,522.6309,7.000000000000001,2743.139999999999,18
+West,2014,Office Supplies,Binders,Consumer,151,1775.5900000000006,12,8801.639000000001,40
+Central,2015,Office Supplies,Binders,Consumer,153,-467.11190000000033,22.40000000000001,1229.0599999999997,41
+East,2015,Office Supplies,Binders,Consumer,184,3894.9118000000003,15.099999999999994,10539.957,44
+South,2015,Office Supplies,Binders,Consumer,119,1130.9719999999993,11.899999999999997,10395.143000000005,30
+West,2015,Office Supplies,Binders,Consumer,178,828.8235999999999,14.199999999999996,2722.3199999999997,51
+Central,2016,Office Supplies,Binders,Consumer,148,3079.143699999999,22.40000000000001,11601.987999999998,40
+East,2016,Office Supplies,Binders,Consumer,244,721.3482999999994,19.89999999999999,8129.984,71
+South,2016,Office Supplies,Binders,Consumer,133,2.1980000000000928,12.599999999999996,916.507,33
+West,2016,Office Supplies,Binders,Consumer,282,1494.4095999999993,19.099999999999984,5063.841000000002,68
+Central,2017,Office Supplies,Binders,Consumer,260,134.50699999999867,30.400000000000016,12149.023999999998,62
+East,2017,Office Supplies,Binders,Consumer,254,1187.6992999999993,29.19999999999998,9057.717999999999,72
+South,2017,Office Supplies,Binders,Consumer,114,-71.87239999999932,10.499999999999998,4562.9130000000005,30
+West,2017,Office Supplies,Binders,Consumer,348,3739.8547999999987,22.299999999999976,11639.320000000005,79
+Central,2014,Office Supplies,Binders,Corporate,40,-415.92180000000013,9.6,471.448,15
+East,2014,Office Supplies,Binders,Corporate,104,-178.14229999999986,8.4,1420.894,27
+South,2014,Office Supplies,Binders,Corporate,78,1928.3879,5.6000000000000005,4450.604000000001,20
+West,2014,Office Supplies,Binders,Corporate,101,514.7916999999999,7.3000000000000025,3469.9750000000013,29
+Central,2015,Office Supplies,Binders,Corporate,69,-141.87170000000006,11.200000000000001,340.08000000000015,18
+East,2015,Office Supplies,Binders,Corporate,124,708.5404999999998,10.399999999999999,2825.014,29
+South,2015,Office Supplies,Binders,Corporate,96,-882.0821000000001,10.499999999999998,2594.096,24
+West,2015,Office Supplies,Binders,Corporate,92,116.75429999999997,7.500000000000002,883.9000000000001,25
+Central,2016,Office Supplies,Binders,Corporate,106,-253.1095000000002,10.4,2048.272,26
+East,2016,Office Supplies,Binders,Corporate,138,1538.8229999999992,12.699999999999998,4772.522,38
+South,2016,Office Supplies,Binders,Corporate,92,-55.80759999999988,9.1,1026.3249999999998,22
+West,2016,Office Supplies,Binders,Corporate,162,568.8918999999999,12.299999999999999,1872.0880000000004,44
+Central,2017,Office Supplies,Binders,Corporate,212,-3609.5219000000016,22.40000000000001,6019.74,45
+East,2017,Office Supplies,Binders,Corporate,125,763.7821999999999,15.399999999999993,3029.951000000001,36
+South,2017,Office Supplies,Binders,Corporate,99,1505.7019000000003,8.4,3756.6069999999995,21
+West,2017,Office Supplies,Binders,Corporate,210,4268.103599999999,13.799999999999994,12578.797,54
+Central,2014,Office Supplies,Binders,Home Office,52,-45.79620000000011,7.199999999999999,685.9859999999999,14
+East,2014,Office Supplies,Binders,Home Office,54,402.4006,3.0999999999999996,1030.7820000000002,10
+South,2014,Office Supplies,Binders,Home Office,20,-30.917099999999962,1.4,1113.702,6
+West,2014,Office Supplies,Binders,Home Office,42,244.19979999999998,1.9999999999999998,691.64,10
+Central,2015,Office Supplies,Binders,Home Office,66,1979.0884,6.3999999999999995,4321.448,16
+East,2015,Office Supplies,Binders,Home Office,62,140.0245,5.700000000000001,841.7099999999998,20
+South,2015,Office Supplies,Binders,Home Office,30,207.6734,2.0999999999999996,478.07800000000003,8
+West,2015,Office Supplies,Binders,Home Office,42,80.94859999999998,3.3999999999999995,282.29200000000003,12
+Central,2016,Office Supplies,Binders,Home Office,54,93.30239999999999,6.3999999999999995,406.12000000000006,14
+East,2016,Office Supplies,Binders,Home Office,85,542.4744999999994,8,6053.042000000001,18
+South,2016,Office Supplies,Binders,Home Office,48,671.6350000000002,6.300000000000001,2169.384,14
+West,2016,Office Supplies,Binders,Home Office,111,1812.3247999999992,8.9,5623.252000000002,27
+Central,2017,Office Supplies,Binders,Home Office,105,-482.12760000000003,11.200000000000001,2936.612,25
+East,2017,Office Supplies,Binders,Home Office,102,609.3618999999999,8.600000000000001,1901.4720000000002,24
+South,2017,Office Supplies,Binders,Home Office,89,-1027.8559000000002,7.000000000000001,2823.8420000000006,20
+West,2017,Office Supplies,Binders,Home Office,149,652.1089000000002,9.9,2332.049,32
+Central,2014,Office Supplies,Envelopes,Consumer,26,285.5756999999999,1,837.2560000000001,6
+East,2014,Office Supplies,Envelopes,Consumer,42,221.85469999999998,1.2,589.874,10
+South,2014,Office Supplies,Envelopes,Consumer,15,45.9222,0.6000000000000001,125.56400000000001,4
+West,2014,Office Supplies,Envelopes,Consumer,32,274.9298,0.6000000000000001,618.3799999999999,9
+Central,2015,Office Supplies,Envelopes,Consumer,18,159.57,0.6000000000000001,362.73,6
+East,2015,Office Supplies,Envelopes,Consumer,35,150.7986,0.8,339.50399999999996,13
+South,2015,Office Supplies,Envelopes,Consumer,24,183.6358,0.2,393.662,8
+West,2015,Office Supplies,Envelopes,Consumer,23,319.59659999999997,0.6000000000000001,698.326,9
+Central,2016,Office Supplies,Envelopes,Consumer,26,135.6727,1.4,366.636,9
+East,2016,Office Supplies,Envelopes,Consumer,41,408.72180000000003,0.6000000000000001,948.1920000000001,10
+South,2016,Office Supplies,Envelopes,Consumer,20,93.53209999999999,0.6000000000000001,247.342,6
+West,2016,Office Supplies,Envelopes,Consumer,43,322.48400000000004,0.2,679.622,12
+Central,2017,Office Supplies,Envelopes,Consumer,29,331.8432,0.6000000000000001,798.828,8
+East,2017,Office Supplies,Envelopes,Consumer,15,100.50459999999998,0.4,217.952,6
+South,2017,Office Supplies,Envelopes,Consumer,33,180.34060000000002,1.2,424.99,8
+West,2017,Office Supplies,Envelopes,Consumer,20,49.430200000000006,0.6000000000000001,122.288,5
+Central,2014,Office Supplies,Envelopes,Corporate,20,109.30069999999999,1,290.47600000000006,6
+East,2014,Office Supplies,Envelopes,Corporate,27,297.316,0.6000000000000001,746.3879999999999,5
+South,2014,Office Supplies,Envelopes,Corporate,10,44.101099999999995,0,89.89,4
+West,2014,Office Supplies,Envelopes,Corporate,8,10.208400000000001,0.2,23.928,2
+Central,2015,Office Supplies,Envelopes,Corporate,16,99.35379999999996,0.4,288.45599999999996,3
+East,2015,Office Supplies,Envelopes,Corporate,20,87.10419999999999,0.4,199.102,6
+South,2015,Office Supplies,Envelopes,Corporate,40,393.60349999999994,0.6000000000000001,913.8080000000001,8
+West,2015,Office Supplies,Envelopes,Corporate,21,249.0676,0,532.65,5
+Central,2016,Office Supplies,Envelopes,Corporate,11,179.79029999999997,0.2,436.87199999999996,2
+East,2016,Office Supplies,Envelopes,Corporate,12,84.8253,0.2,190.626,3
+South,2016,Office Supplies,Envelopes,Corporate,20,50.142599999999995,0,103.28999999999999,3
+West,2016,Office Supplies,Envelopes,Corporate,20,398.84839999999997,0,843.28,6
+Central,2017,Office Supplies,Envelopes,Corporate,10,95.21940000000001,0.6000000000000001,220.104,4
+East,2017,Office Supplies,Envelopes,Corporate,38,194.3397,0.8,443.15,11
+South,2017,Office Supplies,Envelopes,Corporate,20,155.5326,0.6000000000000001,363.916,6
+West,2017,Office Supplies,Envelopes,Corporate,30,122.47540000000001,0.2,256.734,10
+Central,2014,Office Supplies,Envelopes,Home Office,17,175.97179999999997,0.4,470.95400000000006,5
+East,2014,Office Supplies,Envelopes,Home Office,2,5.339199999999999,0,11.36,1
+South,2014,Office Supplies,Envelopes,Home Office,5,17.472,0,36.4,1
+West,2014,Office Supplies,Envelopes,Home Office,2,7.4872,0,15.28,1
+Central,2015,Office Supplies,Envelopes,Home Office,16,88.029,0.4,219.672,3
+East,2015,Office Supplies,Envelopes,Home Office,16,125.94249999999997,0.2,338.23400000000004,2
+South,2015,Office Supplies,Envelopes,Home Office,6,44.992799999999995,0.2,101.584,3
+West,2015,Office Supplies,Envelopes,Home Office,2,58.49619999999999,0,124.46,1
+Central,2016,Office Supplies,Envelopes,Home Office,4,56.45969999999999,0.4,167.288,2
+East,2016,Office Supplies,Envelopes,Home Office,8,63.0879,0.6000000000000001,165.932,4
+South,2016,Office Supplies,Envelopes,Home Office,13,256.20169999999996,0,545.11,3
+West,2016,Office Supplies,Envelopes,Home Office,4,16.9818,0,35.699999999999996,2
+Central,2017,Office Supplies,Envelopes,Home Office,13,60.74199999999999,0.6000000000000001,177.60000000000002,5
+East,2017,Office Supplies,Envelopes,Home Office,11,72.5745,0.2,185.56,3
+South,2017,Office Supplies,Envelopes,Home Office,,,,,
+West,2017,Office Supplies,Envelopes,Home Office,22,78.75680000000001,0.4,167.452,5
+Central,2014,Office Supplies,Fasteners,Consumer,28,-0.001800000000001134,1.2,65.724,7
+East,2014,Office Supplies,Fasteners,Consumer,22,17.551199999999994,0.4,54.32000000000001,3
+South,2014,Office Supplies,Fasteners,Consumer,20,32.9158,0.4,78.08200000000001,4
+West,2014,Office Supplies,Fasteners,Consumer,29,50.3514,0.2,116.76400000000002,8
+Central,2015,Office Supplies,Fasteners,Consumer,28,15.8691,0.8,53.138000000000005,6
+East,2015,Office Supplies,Fasteners,Consumer,27,37.262499999999996,0.6000000000000001,103.50599999999999,8
+South,2015,Office Supplies,Fasteners,Consumer,10,32.79959999999999,0.2,86.664,2
+West,2015,Office Supplies,Fasteners,Consumer,33,42.463699999999996,0.2,115.452,10
+Central,2016,Office Supplies,Fasteners,Consumer,28,38.1731,1.2,111.13800000000002,7
+East,2016,Office Supplies,Fasteners,Consumer,50,51.4534,0.4,161.37600000000003,10
+South,2016,Office Supplies,Fasteners,Consumer,7,14.8626,0,30.740000000000002,2
+West,2016,Office Supplies,Fasteners,Consumer,45,36.4727,0,183.35000000000002,11
+Central,2017,Office Supplies,Fasteners,Consumer,38,74.10730000000001,1,192.432,10
+East,2017,Office Supplies,Fasteners,Consumer,37,42.9059,0.4,104.496,8
+South,2017,Office Supplies,Fasteners,Consumer,23,33.6934,0.2,80.93,5
+West,2017,Office Supplies,Fasteners,Consumer,48,55.9209,0.4,142.83,13
+Central,2014,Office Supplies,Fasteners,Corporate,16,15.4984,0.6000000000000001,52.604000000000006,5
+East,2014,Office Supplies,Fasteners,Corporate,17,12.913999999999996,0.2,36.912,2
+South,2014,Office Supplies,Fasteners,Corporate,17,9.363,0.6000000000000001,30.55,4
+West,2014,Office Supplies,Fasteners,Corporate,17,29.1785,0.6000000000000001,75.642,6
+Central,2015,Office Supplies,Fasteners,Corporate,8,3.6292000000000004,0.2,19.472,2
+East,2015,Office Supplies,Fasteners,Corporate,28,7.9364,0.8,65.9,6
+South,2015,Office Supplies,Fasteners,Corporate,16,12.990499999999999,0.4,38.74400000000001,2
+West,2015,Office Supplies,Fasteners,Corporate,5,2.289000000000001,0.2,8.72,1
+Central,2016,Office Supplies,Fasteners,Corporate,25,22.5829,0.8,58.306,5
+East,2016,Office Supplies,Fasteners,Corporate,49,41.2991,0.8,125.23400000000001,8
+South,2016,Office Supplies,Fasteners,Corporate,3,5.2164,0,11.34,1
+West,2016,Office Supplies,Fasteners,Corporate,10,18.812499999999996,0.2,49.46,2
+Central,2017,Office Supplies,Fasteners,Corporate,22,36.845800000000004,1,101.72800000000001,6
+East,2017,Office Supplies,Fasteners,Corporate,22,14.320899999999998,0.6000000000000001,58.04600000000001,5
+South,2017,Office Supplies,Fasteners,Corporate,,,,,
+West,2017,Office Supplies,Fasteners,Corporate,18,19.0264,0.2,50.632,4
+Central,2014,Office Supplies,Fasteners,Home Office,2,0.5668,0.2,3.4880000000000004,1
+East,2014,Office Supplies,Fasteners,Home Office,2,1.9169999999999998,0.2,5.68,1
+South,2014,Office Supplies,Fasteners,Home Office,9,8.626299999999999,0.4,57.160000000000004,3
+West,2014,Office Supplies,Fasteners,Home Office,22,-0.32230000000000203,0.2,84.402,6
+Central,2015,Office Supplies,Fasteners,Home Office,4,5.6,0.2,16,1
+East,2015,Office Supplies,Fasteners,Home Office,12,5.004,0.2,22.247999999999998,3
+South,2015,Office Supplies,Fasteners,Home Office,,,,,
+West,2015,Office Supplies,Fasteners,Home Office,5,6.093599999999999,0,15.38,3
+Central,2016,Office Supplies,Fasteners,Home Office,21,22.469499999999996,0.2,77.92999999999999,3
+East,2016,Office Supplies,Fasteners,Home Office,24,19.7248,1,57.56,5
+South,2016,Office Supplies,Fasteners,Home Office,14,14.822399999999998,0,62.79,3
+West,2016,Office Supplies,Fasteners,Home Office,12,8.184000000000001,0,30.91,2
+Central,2017,Office Supplies,Fasteners,Home Office,7,1.2783000000000002,0,26.07,2
+East,2017,Office Supplies,Fasteners,Home Office,8,11.7016,0,24.44,2
+South,2017,Office Supplies,Fasteners,Home Office,7,8.428099999999999,0.2,26.316,3
+West,2017,Office Supplies,Fasteners,Home Office,19,6.7203,0.2,49.67400000000001,6
+Central,2014,Office Supplies,Labels,Consumer,17,67.3107,0.4,143.09400000000002,5
+East,2014,Office Supplies,Labels,Consumer,47,149.1173,0.4,325.462,10
+South,2014,Office Supplies,Labels,Consumer,25,110.52149999999997,0.6000000000000001,251.23000000000002,5
+West,2014,Office Supplies,Labels,Consumer,47,139.3539,0.4,301.098,10
+Central,2015,Office Supplies,Labels,Consumer,26,66.0458,0.4,148.412,6
+East,2015,Office Supplies,Labels,Consumer,52,124.16619999999999,0.8,281.702,13
+South,2015,Office Supplies,Labels,Consumer,21,492.72780000000006,0.6000000000000001,1010.604,7
+West,2015,Office Supplies,Labels,Consumer,41,124.31269999999996,0.2,266.37000000000006,14
+Central,2016,Office Supplies,Labels,Consumer,32,55.1777,1.2,133.426,10
+East,2016,Office Supplies,Labels,Consumer,66,254.60210000000004,0.8,581.9199999999998,16
+South,2016,Office Supplies,Labels,Consumer,23,85.77489999999999,0.8,183.63800000000003,9
+West,2016,Office Supplies,Labels,Consumer,72,226.33559999999997,0,475.82,18
+Central,2017,Office Supplies,Labels,Consumer,48,145.66809999999995,1.2,318.274,12
+East,2017,Office Supplies,Labels,Consumer,74,205.64340000000007,1.5999999999999999,463.7159999999999,24
+South,2017,Office Supplies,Labels,Consumer,25,151.8796,1,422.75000000000006,9
+West,2017,Office Supplies,Labels,Consumer,99,677.3511000000001,0.2,1401.7459999999999,21
+Central,2014,Office Supplies,Labels,Corporate,14,346.6299,0.6000000000000001,716.754,5
+East,2014,Office Supplies,Labels,Corporate,40,65.2848,0.6000000000000001,162.042,9
+South,2014,Office Supplies,Labels,Corporate,38,58.09689999999999,0.6000000000000001,146.85999999999999,9
+West,2014,Office Supplies,Labels,Corporate,29,194.3524,0,416.24,6
+Central,2015,Office Supplies,Labels,Corporate,18,39.0177,1.2,110.946,7
+East,2015,Office Supplies,Labels,Corporate,9,19.2288,0.2,45.24000000000001,2
+South,2015,Office Supplies,Labels,Corporate,21,33.31049999999999,1,83.744,7
+West,2015,Office Supplies,Labels,Corporate,48,317.68479999999994,0.6000000000000001,736.6579999999999,11
+Central,2016,Office Supplies,Labels,Corporate,24,35.196799999999996,1,104.67200000000001,5
+East,2016,Office Supplies,Labels,Corporate,14,30.6441,0.2,70.206,4
+South,2016,Office Supplies,Labels,Corporate,14,36.6768,0.4,81.39599999999999,3
+West,2016,Office Supplies,Labels,Corporate,22,258.59979999999996,0.4,696.1880000000001,8
+Central,2017,Office Supplies,Labels,Corporate,24,66.3256,0.6000000000000001,162.73600000000002,6
+East,2017,Office Supplies,Labels,Corporate,35,103.47220000000002,0.6000000000000001,231.098,8
+South,2017,Office Supplies,Labels,Corporate,14,22.353,0.4,53.226000000000006,4
+West,2017,Office Supplies,Labels,Corporate,34,133.9532,0,283.64,8
+Central,2014,Office Supplies,Labels,Home Office,26,67.61019999999998,1,188.62400000000002,6
+East,2014,Office Supplies,Labels,Home Office,12,10.6245,0.2,28.638000000000005,2
+South,2014,Office Supplies,Labels,Home Office,1,0.9963,0.2,2.952,1
+West,2014,Office Supplies,Labels,Home Office,30,76.1058,0,158.4,8
+Central,2015,Office Supplies,Labels,Home Office,5,21.672,0,45.15,2
+East,2015,Office Supplies,Labels,Home Office,14,69.84349999999999,0.6000000000000001,189.32,5
+South,2015,Office Supplies,Labels,Home Office,6,8.1474,0.4,23.695999999999998,2
+West,2015,Office Supplies,Labels,Home Office,2,6.8713999999999995,0,14.62,1
+Central,2016,Office Supplies,Labels,Home Office,33,114.5873,0.4,273.15200000000004,7
+East,2016,Office Supplies,Labels,Home Office,32,50.4524,1.2,127.03,9
+South,2016,Office Supplies,Labels,Home Office,7,10.0524,0.2,23.165999999999997,3
+West,2016,Office Supplies,Labels,Home Office,24,34.51199999999999,0.2,76.626,5
+Central,2017,Office Supplies,Labels,Home Office,17,47.837599999999995,0.6000000000000001,106.23200000000001,5
+East,2017,Office Supplies,Labels,Home Office,25,46.2007,0,96.56,5
+South,2017,Office Supplies,Labels,Home Office,21,30.235200000000003,0.8,69.918,6
+West,2017,Office Supplies,Labels,Home Office,32,113.6896,0.2,251.32,6
+Central,2014,Office Supplies,Paper,Consumer,135,553.0337,5.000000000000002,1535.76,34
+East,2014,Office Supplies,Paper,Consumer,122,706.7534,2.1999999999999997,1638.7539999999997,32
+South,2014,Office Supplies,Paper,Consumer,92,488.02459999999996,2.8000000000000003,1279.316,24
+West,2014,Office Supplies,Paper,Consumer,178,1138.2850999999998,2.8000000000000003,2661.138,46
+Central,2015,Office Supplies,Paper,Consumer,94,625.1057,3.0000000000000004,1569.6900000000003,26
+East,2015,Office Supplies,Paper,Consumer,140,583.9636999999999,1.5999999999999999,1269.654,37
+South,2015,Office Supplies,Paper,Consumer,85,699.585,1.4,1619.0319999999997,20
+West,2015,Office Supplies,Paper,Consumer,225,1282.4415000000001,2.1999999999999997,2996.8760000000007,52
+Central,2016,Office Supplies,Paper,Consumer,164,667.3287,5.8000000000000025,1769.2240000000004,46
+East,2016,Office Supplies,Paper,Consumer,146,979.1502,1.9999999999999998,2143.892,43
+South,2016,Office Supplies,Paper,Consumer,103,778.9839,3.0000000000000004,1802.7979999999998,31
+West,2016,Office Supplies,Paper,Consumer,221,1672.3316999999993,0.8,3551.728,66
+Central,2017,Office Supplies,Paper,Consumer,193,1069.1695999999997,6.000000000000003,2689.346000000001,49
+East,2017,Office Supplies,Paper,Consumer,271,1647.4633999999999,4.600000000000001,3608.9680000000008,75
+South,2017,Office Supplies,Paper,Consumer,163,1118.7429,6.200000000000003,2902.1260000000007,44
+West,2017,Office Supplies,Paper,Consumer,270,1524.2805,1.5999999999999999,3286.0660000000016,68
+Central,2014,Office Supplies,Paper,Corporate,56,247.9758,2.6,578.704,19
+East,2014,Office Supplies,Paper,Corporate,84,703.1220999999999,1.2,1546.7720000000002,18
+South,2014,Office Supplies,Paper,Corporate,81,740.6026,1.2,1628.0560000000003,24
+West,2014,Office Supplies,Paper,Corporate,98,849.2582999999998,0.8,1864.2640000000001,27
+Central,2015,Office Supplies,Paper,Corporate,99,509.7322999999999,2.8000000000000003,1309.4919999999995,24
+East,2015,Office Supplies,Paper,Corporate,87,660.5631000000002,0.8,1406.792,24
+South,2015,Office Supplies,Paper,Corporate,51,173.78799999999998,1.4,479.82000000000005,13
+West,2015,Office Supplies,Paper,Corporate,94,763.3985999999999,0.8,1672.9719999999998,24
+Central,2016,Office Supplies,Paper,Corporate,130,783.6163,4.400000000000001,1909.71,32
+East,2016,Office Supplies,Paper,Corporate,88,487.00470000000007,1.4,1105.202,24
+South,2016,Office Supplies,Paper,Corporate,53,175.12279999999998,1.5999999999999999,454.10800000000006,11
+West,2016,Office Supplies,Paper,Corporate,141,792.2316,1.4,1744.7320000000007,34
+Central,2017,Office Supplies,Paper,Corporate,141,857.9061000000002,5.600000000000002,2154.0960000000005,37
+East,2017,Office Supplies,Paper,Corporate,126,818.2683000000002,3.0000000000000004,1916.3500000000008,36
+South,2017,Office Supplies,Paper,Corporate,71,320.5499,1.7999999999999998,783.338,17
+West,2017,Office Supplies,Paper,Corporate,155,1478.4063,1.5999999999999999,3328.7220000000007,44
+Central,2014,Office Supplies,Paper,Home Office,41,95.1976,1.4,232.31200000000004,11
+East,2014,Office Supplies,Paper,Home Office,49,338.9796999999999,1,731.6219999999998,14
+South,2014,Office Supplies,Paper,Home Office,38,110.20219999999999,1.2,277.204,10
+West,2014,Office Supplies,Paper,Home Office,43,399.5863,0.2,861.054,14
+Central,2015,Office Supplies,Paper,Home Office,31,263.9047,0.6000000000000001,665.056,6
+East,2015,Office Supplies,Paper,Home Office,112,564.5344,1.7999999999999998,1291.2320000000004,25
+South,2015,Office Supplies,Paper,Home Office,10,75.2952,0.4,204.40000000000003,3
+West,2015,Office Supplies,Paper,Home Office,59,367.85779999999994,0.6000000000000001,802.6220000000001,18
+Central,2016,Office Supplies,Paper,Home Office,60,754.4257000000001,1.5999999999999999,1686.674,14
+East,2016,Office Supplies,Paper,Home Office,88,668.8683,2.8000000000000003,1677.0260000000003,24
+South,2016,Office Supplies,Paper,Home Office,78,769.9554999999998,1,1666.258,17
+West,2016,Office Supplies,Paper,Home Office,100,542.5151000000001,0.6000000000000001,1150.542,24
+Central,2017,Office Supplies,Paper,Home Office,81,544.5043000000001,2.6,1391.838,23
+East,2017,Office Supplies,Paper,Home Office,87,856.6996999999998,1.9999999999999998,1836.338,26
+South,2017,Office Supplies,Paper,Home Office,26,496.2088,0.6000000000000001,1054.528,7
+West,2017,Office Supplies,Paper,Home Office,118,1308.6435999999999,0.8,2743.002,33
+Central,2014,Office Supplies,Storage,Consumer,124,-2.6856000000001146,3.800000000000001,7349.325999999997,36
+East,2014,Office Supplies,Storage,Consumer,62,364.26749999999964,1.5999999999999999,6443.852000000001,16
+South,2014,Office Supplies,Storage,Consumer,39,360.1185999999998,1.2,2688.864,12
+West,2014,Office Supplies,Storage,Consumer,136,770.8347999999999,1.2,8744.173999999999,35
+Central,2015,Office Supplies,Storage,Consumer,69,-173.60840000000042,3.2000000000000006,4996.564000000001,20
+East,2015,Office Supplies,Storage,Consumer,101,525.1284999999997,1.9999999999999998,5359.602000000001,26
+South,2015,Office Supplies,Storage,Consumer,66,-290.7855,1.5999999999999999,4368.752000000001,18
+West,2015,Office Supplies,Storage,Consumer,138,1214.8914999999995,1,10784.966,34
+Central,2016,Office Supplies,Storage,Consumer,94,438.4566,3.0000000000000004,6238.274000000001,25
+East,2016,Office Supplies,Storage,Consumer,137,1024.9028999999998,2.1999999999999997,9561.482000000002,41
+South,2016,Office Supplies,Storage,Consumer,78,433.4962999999999,1,4882.456000000001,15
+West,2016,Office Supplies,Storage,Consumer,121,838.3638,1,5740.273999999999,35
+Central,2017,Office Supplies,Storage,Consumer,107,151.14749999999998,5.000000000000002,6087.646,38
+East,2017,Office Supplies,Storage,Consumer,98,59.62530000000004,3.0000000000000004,3629.5220000000004,31
+South,2017,Office Supplies,Storage,Consumer,69,385.8402999999997,1.9999999999999998,4941.674000000001,21
+West,2017,Office Supplies,Storage,Consumer,180,1004.2062999999998,1.7999999999999998,8674.973999999997,47
+Central,2014,Office Supplies,Storage,Corporate,42,25.58059999999999,1.7999999999999998,1428.7300000000002,11
+East,2014,Office Supplies,Storage,Corporate,72,822.5079000000002,1.4,8385.52,15
+South,2014,Office Supplies,Storage,Corporate,48,91.18639999999988,0.8,3036.9739999999993,13
+West,2014,Office Supplies,Storage,Corporate,71,724.6847000000001,0.4,4773.114,17
+Central,2015,Office Supplies,Storage,Corporate,49,449.8159999999999,1.5999999999999999,2273.248,12
+East,2015,Office Supplies,Storage,Corporate,93,1012.5210999999999,1,5395.728000000001,25
+South,2015,Office Supplies,Storage,Corporate,22,90.51020000000001,1,2372.986,7
+West,2015,Office Supplies,Storage,Corporate,43,277.1819999999998,0.8,3650.7160000000003,11
+Central,2016,Office Supplies,Storage,Corporate,40,413.9957999999998,1.5999999999999999,3985.1600000000003,12
+East,2016,Office Supplies,Storage,Corporate,106,504.28479999999973,1.9999999999999998,7164.718000000001,26
+South,2016,Office Supplies,Storage,Corporate,38,389.7424999999999,1,2996.2780000000002,10
+West,2016,Office Supplies,Storage,Corporate,52,416.53740000000005,0.6000000000000001,5096.104000000001,13
+Central,2017,Office Supplies,Storage,Corporate,64,195.11779999999993,2.1999999999999997,4969.466,19
+East,2017,Office Supplies,Storage,Corporate,85,1497.1426999999992,1.7999999999999998,10022.404,24
+South,2017,Office Supplies,Storage,Corporate,42,147.13199999999978,1,2956.02,10
+West,2017,Office Supplies,Storage,Corporate,133,2073.082799999999,0.4,11283.831999999999,35
+Central,2014,Office Supplies,Storage,Home Office,20,321.5443999999999,0.6000000000000001,2315.33,7
+East,2014,Office Supplies,Storage,Home Office,9,125.23099999999997,0,1377.89,3
+South,2014,Office Supplies,Storage,Home Office,16,10.92160000000003,0.2,989.1679999999999,4
+West,2014,Office Supplies,Storage,Home Office,34,552.0868999999998,0,2796.1,8
+Central,2015,Office Supplies,Storage,Home Office,13,161.20809999999994,0.4,1061.662,4
+East,2015,Office Supplies,Storage,Home Office,25,194.90819999999982,0.6000000000000001,2553.876,6
+South,2015,Office Supplies,Storage,Home Office,5,-67.77260000000001,0.4,745.488,2
+West,2015,Office Supplies,Storage,Home Office,31,111.46100000000008,0,1484.66,6
+Central,2016,Office Supplies,Storage,Home Office,44,-73.47590000000008,1,2588.0780000000004,10
+East,2016,Office Supplies,Storage,Home Office,50,1275.1011999999998,0.6000000000000001,5369.858000000001,10
+South,2016,Office Supplies,Storage,Home Office,25,264.8304,0.6000000000000001,2961.6620000000003,7
+West,2016,Office Supplies,Storage,Home Office,23,278.05099999999976,0.2,2204.3559999999998,6
+Central,2017,Office Supplies,Storage,Home Office,58,62.73960000000004,1.7999999999999998,2636.628,16
+East,2017,Office Supplies,Storage,Home Office,69,983.7500999999999,1,6348.131999999999,19
+South,2017,Office Supplies,Storage,Home Office,40,459.07629999999983,1,2827.7380000000003,9
+West,2017,Office Supplies,Storage,Home Office,77,383.93999999999994,0.8,5299.582,19
+Central,2014,Office Supplies,Supplies,Consumer,8,3.927300000000002,0.4,43.632,2
+East,2014,Office Supplies,Supplies,Consumer,22,-27.754800000000003,0.4,433.12800000000004,6
+South,2014,Office Supplies,Supplies,Consumer,10,9.7335,0.4,52.206,4
+West,2014,Office Supplies,Supplies,Consumer,38,361.16859999999957,0.6000000000000001,8395.541999999998,10
+Central,2015,Office Supplies,Supplies,Consumer,11,4.516200000000001,0.6000000000000001,78.488,3
+East,2015,Office Supplies,Supplies,Consumer,24,-122.0361,0.8,1184.818,7
+South,2015,Office Supplies,Supplies,Consumer,8,10.007999999999988,0.2,88.96000000000001,1
+West,2015,Office Supplies,Supplies,Consumer,28,42.0286,0.2,239.46399999999997,9
+Central,2016,Office Supplies,Supplies,Consumer,18,-819.4432000000003,1,4252.38,6
+East,2016,Office Supplies,Supplies,Consumer,51,-82.37489999999995,1,1875.5980000000004,12
+South,2016,Office Supplies,Supplies,Consumer,11,7.452899999999995,0.4,69.944,3
+West,2016,Office Supplies,Supplies,Consumer,15,26.738800000000005,0,138.51999999999998,4
+Central,2017,Office Supplies,Supplies,Consumer,26,28.907499999999985,1.2,185.41199999999998,9
+East,2017,Office Supplies,Supplies,Consumer,40,-939.4698999999999,0.6000000000000001,5074.282000000001,10
+South,2017,Office Supplies,Supplies,Consumer,10,42.66480000000001,0.6000000000000001,1912.444,5
+West,2017,Office Supplies,Supplies,Consumer,39,-203.61860000000004,0.6000000000000001,1716.678,9
+Central,2014,Office Supplies,Supplies,Corporate,8,-0.6210000000000049,0.4,38.896,2
+East,2014,Office Supplies,Supplies,Corporate,2,4.4564,0,17.14,1
+South,2014,Office Supplies,Supplies,Corporate,8,89.91100000000006,0,4189.549999999999,2
+West,2014,Office Supplies,Supplies,Corporate,20,38.46860000000004,0.2,820.01,7
+Central,2015,Office Supplies,Supplies,Corporate,13,10.814599999999995,0.6000000000000001,106.71799999999999,4
+East,2015,Office Supplies,Supplies,Corporate,,,,,
+South,2015,Office Supplies,Supplies,Corporate,3,4.654799999999993,0.2,41.376,1
+West,2015,Office Supplies,Supplies,Corporate,5,18.75509999999999,0,64.09,2
+Central,2016,Office Supplies,Supplies,Corporate,5,7.691400000000002,0.2,42.528000000000006,2
+East,2016,Office Supplies,Supplies,Corporate,20,38.971199999999996,0.2,154.8,7
+South,2016,Office Supplies,Supplies,Corporate,21,-226.52049999999997,0.8,1253.748,5
+West,2016,Office Supplies,Supplies,Corporate,37,272.6279999999997,0.4,5904.524,10
+Central,2017,Office Supplies,Supplies,Corporate,12,83.96480000000005,0.4,4194.785999999999,3
+East,2017,Office Supplies,Supplies,Corporate,21,-56.325000000000045,0.4,1677.3180000000002,6
+South,2017,Office Supplies,Supplies,Corporate,8,20.316800000000004,0,537.48,3
+West,2017,Office Supplies,Supplies,Corporate,19,31.760200000000005,0,392.32000000000005,6
+Central,2014,Office Supplies,Supplies,Home Office,3,7.158600000000007,0,357.93,1
+East,2014,Office Supplies,Supplies,Home Office,3,0.00039999999999906777,0.2,17.604000000000003,2
+South,2014,Office Supplies,Supplies,Home Office,2,-1.0410000000000006,0.2,5.5520000000000005,1
+West,2014,Office Supplies,Supplies,Home Office,6,4.647999999999998,0,22.88,2
+Central,2015,Office Supplies,Supplies,Home Office,13,6.347999999999995,0.2,139.24,2
+East,2015,Office Supplies,Supplies,Home Office,2,-0.6976000000000007,0.2,3.4880000000000004,1
+South,2015,Office Supplies,Supplies,Home Office,,,,,
+West,2015,Office Supplies,Supplies,Home Office,2,0.7299999999999995,0.2,5.84,1
+Central,2016,Office Supplies,Supplies,Home Office,,,,,
+East,2016,Office Supplies,Supplies,Home Office,6,16.199399999999997,0,55.86,2
+South,2016,Office Supplies,Supplies,Home Office,9,34.17899999999999,0.2,132.608,3
+West,2016,Office Supplies,Supplies,Home Office,23,25.513999999999967,0.2,397.06600000000003,6
+Central,2017,Office Supplies,Supplies,Home Office,5,4.847700000000001,0.2,27.362,2
+East,2017,Office Supplies,Supplies,Home Office,4,13.895700000000016,0,266.08,2
+South,2017,Office Supplies,Supplies,Home Office,2,10.517999999999997,0,35.06,1
+West,2017,Office Supplies,Supplies,Home Office,6,7.225199999999999,0.2,30.188000000000002,3
+Central,2014,Technology,Accessories,Consumer,80,622.1514000000001,3.0000000000000004,3137.73,18
+East,2014,Technology,Accessories,Consumer,56,628.1177999999998,2.1999999999999997,2785.562,19
+South,2014,Technology,Accessories,Consumer,56,654.2967,1,2610.7960000000003,13
+West,2014,Technology,Accessories,Consumer,144,1152.2438,1.7999999999999998,5764.523999999999,33
+Central,2015,Technology,Accessories,Consumer,84,791.0439999999998,3.2000000000000006,4051.0919999999996,21
+East,2015,Technology,Accessories,Consumer,85,2949.7856999999995,2.6,11843.260000000002,27
+South,2015,Technology,Accessories,Consumer,67,357.7556999999999,1.4,2110.15,14
+West,2015,Technology,Accessories,Consumer,131,2510.7203,1.5999999999999999,8394.364,33
+Central,2016,Technology,Accessories,Consumer,106,1371.3057,3.600000000000001,7690.97,25
+East,2016,Technology,Accessories,Consumer,66,497.3909000000001,1.4,2482.4400000000005,21
+South,2016,Technology,Accessories,Consumer,66,1092.9295,1.5999999999999999,3826.0720000000006,21
+West,2016,Technology,Accessories,Consumer,89,2343.5202999999997,0.4,9461.813999999998,23
+Central,2017,Technology,Accessories,Consumer,122,958.8847999999996,3.400000000000001,4182.512,37
+East,2017,Technology,Accessories,Consumer,147,1164.7838999999997,3.800000000000001,5749.793999999999,40
+South,2017,Technology,Accessories,Consumer,76,683.3252999999996,2.6,3104.5460000000003,22
+West,2017,Technology,Accessories,Consumer,203,2957.6667000000007,1.4,9909.612,41
+Central,2014,Technology,Accessories,Corporate,42,169.61589999999998,1.2,792,11
+East,2014,Technology,Accessories,Corporate,29,285.4739,0.4,836.53,6
+South,2014,Technology,Accessories,Corporate,30,721.8762999999999,0.4,1925.896,10
+West,2014,Technology,Accessories,Corporate,58,482.6298,0.2,1687.1200000000003,16
+Central,2015,Technology,Accessories,Corporate,29,266.8103,1.2,1471.1039999999998,9
+East,2015,Technology,Accessories,Corporate,44,691.2335,0.8,2084.7459999999996,14
+South,2015,Technology,Accessories,Corporate,32,287.0609999999999,0.6000000000000001,1175.652,6
+West,2015,Technology,Accessories,Corporate,44,408.38689999999997,0.6000000000000001,1427.508,13
+Central,2016,Technology,Accessories,Corporate,62,435.2235999999999,1.7999999999999998,1788.966,16
+East,2016,Technology,Accessories,Corporate,39,422.33049999999986,1,1918.672,11
+South,2016,Technology,Accessories,Corporate,35,1318.4211999999998,0.4,4165.411999999999,9
+West,2016,Technology,Accessories,Corporate,83,1297.8576999999998,0.8,4795.588,24
+Central,2017,Technology,Accessories,Corporate,62,591.2838999999999,1.4,2143.168,15
+East,2017,Technology,Accessories,Corporate,110,1534.5531999999998,2.6,6908.05,25
+South,2017,Technology,Accessories,Corporate,32,758.1191999999999,0.6000000000000001,2908.4959999999996,9
+West,2017,Technology,Accessories,Corporate,150,3036.6036,1,12161.655999999999,33
+Central,2014,Technology,Accessories,Home Office,17,99.49419999999998,0.6000000000000001,509.24,5
+East,2014,Technology,Accessories,Home Office,18,974.4441000000002,0.4,2431.676,6
+South,2014,Technology,Accessories,Home Office,24,309.55559999999997,0.4,1058.598,5
+West,2014,Technology,Accessories,Home Office,26,302.81549999999993,0,1474.6000000000001,6
+Central,2015,Technology,Accessories,Home Office,35,473.19339999999994,1.2,2273.032,8
+East,2015,Technology,Accessories,Home Office,41,1047.4399,1,3983.43,12
+South,2015,Technology,Accessories,Home Office,29,183.21739999999997,0.4,855.732,4
+West,2015,Technology,Accessories,Home Office,14,230.62709999999996,0,853.89,5
+Central,2016,Technology,Accessories,Home Office,37,81.56060000000002,1.4,1322.278,9
+East,2016,Technology,Accessories,Home Office,43,340.28149999999994,1.2,1830.266,14
+South,2016,Technology,Accessories,Home Office,23,132.49019999999996,0.8,1388.3600000000001,4
+West,2016,Technology,Accessories,Home Office,33,330.9768,0.4,1225.0160000000003,9
+Central,2017,Technology,Accessories,Home Office,40,1391.0628000000002,0.8,4593.984,9
+East,2017,Technology,Accessories,Home Office,46,660.0294999999999,0.2,2178.946,11
+South,2017,Technology,Accessories,Home Office,34,505.49429999999995,0.8,2147.0440000000003,11
+West,2017,Technology,Accessories,Home Office,57,1430.5498000000002,1.2,3958.4240000000004,22
+Central,2014,Technology,Copiers,Consumer,5,624.9875,0.2,1999.96,1
+East,2014,Technology,Copiers,Consumer,12,650.9887,1.4,4099.9259999999995,4
+South,2014,Technology,Copiers,Consumer,2,89.99699999999999,0.2,479.98400000000004,1
+West,2014,Technology,Copiers,Consumer,6,1136.9796000000001,0.2,2999.946,2
+Central,2015,Technology,Copiers,Consumer,9,857.9740999999999,0.4,2519.924,3
+East,2015,Technology,Copiers,Consumer,11,1404.9717,0.6000000000000001,4159.912,3
+South,2015,Technology,Copiers,Consumer,,,,,
+West,2015,Technology,Copiers,Consumer,13,1154.9706999999999,0.8,3919.8960000000006,4
+Central,2016,Technology,Copiers,Consumer,,,,,
+East,2016,Technology,Copiers,Consumer,12,1491.9899999999989,1.2000000000000002,11039.927999999998,3
+South,2016,Technology,Copiers,Consumer,8,751.9624,0,1599.92,1
+West,2016,Technology,Copiers,Consumer,15,2501.9559,0.6000000000000001,7079.876000000002,4
+Central,2017,Technology,Copiers,Consumer,,,,,
+East,2017,Technology,Copiers,Consumer,8,5109.9821,0.4,11099.939999999999,2
+South,2017,Technology,Copiers,Consumer,4,941.9857999999999,0.2,2359.964,2
+West,2017,Technology,Copiers,Consumer,12,7364.9650999999985,0.6000000000000001,16459.894,5
+Central,2014,Technology,Copiers,Corporate,3,134.9955,0.2,719.9760000000001,1
+East,2014,Technology,Copiers,Corporate,,,,,
+South,2014,Technology,Copiers,Corporate,,,,,
+West,2014,Technology,Copiers,Corporate,,,,,
+Central,2015,Technology,Copiers,Corporate,14,3576.9476999999993,0.4,8739.872000000001,4
+East,2015,Technology,Copiers,Corporate,,,,,
+South,2015,Technology,Copiers,Corporate,3,314.9895,0,899.97,1
+West,2015,Technology,Copiers,Corporate,8,1645.4641,0.2,3589.9220000000005,2
+Central,2016,Technology,Copiers,Corporate,5,8399.975999999999,0,17499.949999999997,1
+East,2016,Technology,Copiers,Corporate,8,1059.9779999999998,0.6000000000000001,3319.932,3
+South,2016,Technology,Copiers,Corporate,4,119.99599999999992,0.2,959.9680000000001,1
+West,2016,Technology,Copiers,Corporate,3,374.99249999999995,0.2,1199.976,1
+Central,2017,Technology,Copiers,Corporate,7,677.9851000000001,0.4,2719.944,2
+East,2017,Technology,Copiers,Corporate,3,74.99849999999992,0.4,899.982,1
+South,2017,Technology,Copiers,Corporate,5,1439.976,0,2999.95,1
+West,2017,Technology,Copiers,Corporate,7,1169.98,0.4,3279.944,2
+Central,2014,Technology,Copiers,Home Office,1,274.995,0,549.99,1
+East,2014,Technology,Copiers,Home Office,,,,,
+South,2014,Technology,Copiers,Home Office,,,,,
+West,2014,Technology,Copiers,Home Office,,,,,
+Central,2015,Technology,Copiers,Home Office,3,724.986,0,1549.97,2
+East,2015,Technology,Copiers,Home Office,2,249.99499999999998,0.2,799.984,1
+South,2015,Technology,Copiers,Home Office,,,,,
+West,2015,Technology,Copiers,Home Office,,,,,
+Central,2016,Technology,Copiers,Home Office,,,,,
+East,2016,Technology,Copiers,Home Office,9,2591.9568,0,5399.91,1
+South,2016,Technology,Copiers,Home Office,,,,,
+West,2016,Technology,Copiers,Home Office,5,449.9849999999999,0,1499.95,1
+Central,2017,Technology,Copiers,Home Office,2,335.99440000000004,0.2,959.984,1
+East,2017,Technology,Copiers,Home Office,6,4387.980999999999,0.2,12399.948,2
+South,2017,Technology,Copiers,Home Office,,,,,
+West,2017,Technology,Copiers,Home Office,19,3527.9421999999995,0.6000000000000001,9719.838,4
+Central,2014,Technology,Machines,Consumer,15,-1657.482000000002,1.2000000000000002,9577.601999999999,3
+East,2014,Technology,Machines,Consumer,16,3399.0852,1.4,10174.875,5
+South,2014,Technology,Machines,Consumer,8,-1426.7031000000004,1,4134.945,3
+West,2014,Technology,Machines,Consumer,15,438.2881999999999,1.3,1452.181,4
+Central,2015,Technology,Machines,Consumer,7,-23.665500000000023,0.8,771.3499999999999,3
+East,2015,Technology,Machines,Consumer,24,-1870.1156000000005,1.4,4754.802,5
+South,2015,Technology,Machines,Consumer,10,1414.8208999999997,0.5,3112.985,2
+West,2015,Technology,Machines,Consumer,21,903.3806999999989,1,8072.232,5
+Central,2016,Technology,Machines,Consumer,6,14.119499999999846,0.7,1650.81,2
+East,2016,Technology,Machines,Consumer,30,-2863.7971000000016,2.0999999999999996,15004.997000000001,6
+South,2016,Technology,Machines,Consumer,11,2962.2359999999994,0.5,9841.650000000001,3
+West,2016,Technology,Machines,Consumer,23,585.4388999999996,1.9,7216.718999999999,7
+Central,2017,Technology,Machines,Consumer,,,,,
+East,2017,Technology,Machines,Consumer,7,38.74250000000009,1.4,733.755,3
+South,2017,Technology,Machines,Consumer,7,-39.795000000000144,1,1248.97,3
+West,2017,Technology,Machines,Consumer,17,266.50820000000004,0.6000000000000001,1794.952,3
+Central,2014,Technology,Machines,Corporate,13,-883.2633000000006,1.2000000000000002,6139.65,3
+East,2014,Technology,Machines,Corporate,4,-559.3559999999999,0.7,399.54,1
+South,2014,Technology,Machines,Corporate,,,,,
+West,2014,Technology,Machines,Corporate,6,287.98199999999997,0.2,767.9520000000001,1
+Central,2015,Technology,Machines,Corporate,2,55.99859999999995,0.4,479.988,1
+East,2015,Technology,Machines,Corporate,21,1210.2939999999999,1.4,7349.9400000000005,4
+South,2015,Technology,Machines,Corporate,,,,,
+West,2015,Technology,Machines,Corporate,5,34.99649999999998,0.8999999999999999,299.97,2
+Central,2016,Technology,Machines,Corporate,,,,,
+East,2016,Technology,Machines,Corporate,21,1521.4505999999994,1.4,10210.941,4
+South,2016,Technology,Machines,Corporate,9,1347.7005,0.5,3305.475,2
+West,2016,Technology,Machines,Corporate,15,-144.4069999999998,1.1,3503.9700000000003,3
+Central,2017,Technology,Machines,Corporate,8,465.76029999999935,0.9,5097.096,3
+East,2017,Technology,Machines,Corporate,17,452.2137,0.7,5931.615,3
+South,2017,Technology,Machines,Corporate,6,-3867.8183999999987,1,8695.68,2
+West,2017,Technology,Machines,Corporate,14,781.4674999999993,1.7,8094.937999999999,6
+Central,2014,Technology,Machines,Home Office,2,156.04699999999997,0.3,574.91,1
+East,2014,Technology,Machines,Home Office,3,2026.0857,0,4061.97,2
+South,2014,Technology,Machines,Home Office,10,-1827.504400000002,1,23459.78,2
+West,2014,Technology,Machines,Home Office,4,415.98959999999994,0.2,1279.968,1
+Central,2015,Technology,Machines,Home Office,2,137.26399999999995,0.3,600.53,1
+East,2015,Technology,Machines,Home Office,2,1114.512,0,2321.9,1
+South,2015,Technology,Machines,Home Office,,,,,
+West,2015,Technology,Machines,Home Office,,,,,
+Central,2016,Technology,Machines,Home Office,3,43.199100000000044,0.3,1007.979,1
+East,2016,Technology,Machines,Home Office,,,,,
+South,2016,Technology,Machines,Home Office,1,-1.829499999999996,0.5,91.475,1
+West,2016,Technology,Machines,Home Office,10,-556.7930000000003,1.1,4072.8700000000003,3
+Central,2017,Technology,Machines,Home Office,8,205.95569999999992,0.8,897.469,3
+East,2017,Technology,Machines,Home Office,20,2459.5279,0,5161.83,3
+South,2017,Technology,Machines,Home Office,,,,,
+West,2017,Technology,Machines,Home Office,17,-3631.7780000000007,1.8,5888.370000000001,4
+Central,2014,Technology,Phones,Consumer,48,735.6789999999996,2.4,5550.280000000001,16
+East,2014,Technology,Phones,Consumer,104,3043.2290000000003,4.8,16651.997999999996,28
+South,2014,Technology,Phones,Consumer,46,1185.0283,0.6000000000000001,4690.514,12
+West,2014,Technology,Phones,Consumer,161,1812.6377999999995,7.0000000000000036,19498.272,35
+Central,2015,Technology,Phones,Consumer,83,1798.2329999999995,2.6,8957.145999999999,26
+East,2015,Technology,Phones,Consumer,113,2038.22,4.8,12095.466,35
+South,2015,Technology,Phones,Consumer,79,1558.2632999999998,1.4,5847.6579999999985,19
+West,2015,Technology,Phones,Consumer,115,1143.4174999999996,6.200000000000003,11779.96,31
+Central,2016,Technology,Phones,Consumer,133,1865.3407000000002,3.2000000000000006,11299.903999999999,35
+East,2016,Technology,Phones,Consumer,113,635.6175999999998,4.3999999999999995,6680.607999999999,31
+South,2016,Technology,Phones,Consumer,58,976.231,2.4,7732.339999999999,17
+West,2016,Technology,Phones,Consumer,94,589.7996999999996,5.8000000000000025,7625.639999999999,29
+Central,2017,Technology,Phones,Consumer,92,2016.7668999999996,4.800000000000002,11301.456,28
+East,2017,Technology,Phones,Consumer,184,1611.187,8.000000000000002,16083.965999999999,46
+South,2017,Technology,Phones,Consumer,86,1904.3891999999998,2.1999999999999997,12575.692000000001,20
+West,2017,Technology,Phones,Consumer,176,923.0746999999998,8.600000000000001,11561.864000000001,43
+Central,2014,Technology,Phones,Corporate,25,277.50849999999997,1,2548.196000000001,6
+East,2014,Technology,Phones,Corporate,48,299.65110000000004,2.4,3744.7819999999997,12
+South,2014,Technology,Phones,Corporate,52,2277.5083999999997,0.8,9740.380000000001,14
+West,2014,Technology,Phones,Corporate,75,639.2624000000001,3.800000000000001,5094.312,19
+Central,2015,Technology,Phones,Corporate,66,891.0112999999997,2.4,6451.064,17
+East,2015,Technology,Phones,Corporate,77,914.1632999999997,3.1999999999999997,7726.91,24
+South,2015,Technology,Phones,Corporate,22,383.77779999999984,1.2,2000.7240000000002,8
+West,2015,Technology,Phones,Corporate,58,476.4329999999997,3.400000000000001,4197.688,17
+Central,2016,Technology,Phones,Corporate,85,789.2826999999997,2.1999999999999997,5353.372000000001,18
+East,2016,Technology,Phones,Corporate,70,1104.0686,3.1999999999999997,7130.253999999999,20
+South,2016,Technology,Phones,Corporate,34,196.22480000000002,1.4,1767.8080000000002,7
+West,2016,Technology,Phones,Corporate,80,845.2782000000007,4.200000000000001,8693.488000000001,21
+Central,2017,Technology,Phones,Corporate,34,433.4771999999999,1.5999999999999999,2828.1639999999998,12
+East,2017,Technology,Phones,Corporate,109,811.7353000000003,4.3999999999999995,11263.672,31
+South,2017,Technology,Phones,Corporate,56,822.701,1.5999999999999999,5765.3200000000015,15
+West,2017,Technology,Phones,Corporate,112,604.136,6.200000000000003,6847.280000000001,31
+Central,2014,Technology,Phones,Home Office,25,467.74119999999994,1,1827.276,7
+East,2014,Technology,Phones,Home Office,10,86.2218,0,291.87,3
+South,2014,Technology,Phones,Home Office,35,623.1709,0.2,2818.0699999999997,8
+West,2014,Technology,Phones,Home Office,55,360.3668999999999,2.1999999999999997,4934.856000000001,11
+Central,2015,Technology,Phones,Home Office,29,617.9998,0.8,3955.7120000000004,8
+East,2015,Technology,Phones,Home Office,35,347.2843,1.2000000000000002,2739.03,10
+South,2015,Technology,Phones,Home Office,,,,,
+West,2015,Technology,Phones,Home Office,20,230.00410000000008,0.8,2562.344,4
+Central,2016,Technology,Phones,Home Office,28,760.5102,0.4,3249.1759999999995,9
+East,2016,Technology,Phones,Home Office,47,428.1258999999999,3.5999999999999996,7479.493999999999,13
+South,2016,Technology,Phones,Home Office,21,335.4691999999998,0.8,2343.674,8
+West,2016,Technology,Phones,Home Office,55,933.6443000000002,3.400000000000001,9606.272,17
+Central,2017,Technology,Phones,Home Office,65,1669.4761999999998,1.9999999999999998,9081.536,18
+East,2017,Technology,Phones,Home Office,72,995.1821000000001,3.5999999999999996,8726.931999999999,19
+South,2017,Technology,Phones,Home Office,37,504.5114000000001,1.4,3022.2580000000007,12
+West,2017,Technology,Phones,Home Office,67,552.688,3.800000000000001,6282.376000000001,19
