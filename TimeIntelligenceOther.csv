@@ -1,0 +1,2363 @@
+Superstore 2023.Category,Dates.Date,Key measures.Total sales,Key measures.Total YTD,Sum(Superstore 2023.Sales)
+Furniture,"Monday, January 06, 2020",2573.82,2573.82,2573.82
+Furniture,"Tuesday, January 07, 2020",76.728,2650.5480000000002,76.728
+Furniture,"Wednesday, January 08, 2020",,2650.5480000000002,
+Furniture,"Thursday, January 09, 2020",,2650.5480000000002,
+Furniture,"Friday, January 10, 2020",51.94,2702.4880000000003,51.94
+Furniture,"Saturday, January 11, 2020",9.94,2712.4280000000003,9.94
+Furniture,"Sunday, January 12, 2020",,2712.4280000000003,
+Furniture,"Monday, January 13, 2020",879.939,3592.367,879.939
+Furniture,"Tuesday, January 14, 2020",61.96,3654.327,61.96
+Furniture,"Wednesday, January 15, 2020",,3654.327,
+Furniture,"Thursday, January 16, 2020",127.104,3781.431,127.104
+Furniture,"Friday, January 17, 2020",,3781.431,
+Furniture,"Saturday, January 18, 2020",,3781.431,
+Furniture,"Sunday, January 19, 2020",181.47,3962.901,181.47
+Furniture,"Monday, January 20, 2020",1413.51,5376.411,1413.51
+Furniture,"Tuesday, January 21, 2020",25.248,5401.659,25.248
+Furniture,"Wednesday, January 22, 2020",,5401.659,
+Furniture,"Thursday, January 23, 2020",,5401.659,
+Furniture,"Friday, January 24, 2020",,5401.659,
+Furniture,"Saturday, January 25, 2020",,5401.659,
+Furniture,"Sunday, January 26, 2020",217.2,5618.8589999999995,217.2
+Furniture,"Monday, January 27, 2020",333,5951.8589999999995,333
+Furniture,"Tuesday, January 28, 2020",,5951.8589999999995,
+Furniture,"Wednesday, January 29, 2020",,5951.8589999999995,
+Furniture,"Thursday, January 30, 2020",,5951.8589999999995,
+Furniture,"Friday, January 31, 2020",290.666,6242.525,290.666
+Furniture,"Saturday, February 01, 2020",,6242.525,
+Furniture,"Sunday, February 02, 2020",,6242.525,
+Furniture,"Monday, February 03, 2020",,6242.525,
+Furniture,"Tuesday, February 04, 2020",,6242.525,
+Furniture,"Wednesday, February 05, 2020",,6242.525,
+Furniture,"Thursday, February 06, 2020",,6242.525,
+Furniture,"Friday, February 07, 2020",,6242.525,
+Furniture,"Saturday, February 08, 2020",14.56,6257.085,14.56
+Furniture,"Sunday, February 09, 2020",,6257.085,
+Furniture,"Monday, February 10, 2020",,6257.085,
+Furniture,"Tuesday, February 11, 2020",1650.05,7907.135,1650.05
+Furniture,"Wednesday, February 12, 2020",129.568,8036.703,129.568
+Furniture,"Thursday, February 13, 2020",,8036.703,
+Furniture,"Friday, February 14, 2020",,8036.703,
+Furniture,"Saturday, February 15, 2020",,8036.703,
+Furniture,"Sunday, February 16, 2020",,8036.703,
+Furniture,"Monday, February 17, 2020",,8036.703,
+Furniture,"Tuesday, February 18, 2020",25.16,8061.863,25.16
+Furniture,"Wednesday, February 19, 2020",,8061.863,
+Furniture,"Thursday, February 20, 2020",20.32,8082.183,20.32
+Furniture,"Friday, February 21, 2020",,8082.183,
+Furniture,"Saturday, February 22, 2020",,8082.183,
+Furniture,"Sunday, February 23, 2020",,8082.183,
+Furniture,"Monday, February 24, 2020",,8082.183,
+Furniture,"Tuesday, February 25, 2020",,8082.183,
+Furniture,"Wednesday, February 26, 2020",,8082.183,
+Furniture,"Thursday, February 27, 2020",,8082.183,
+Furniture,"Friday, February 28, 2020",,8082.183,
+Furniture,"Saturday, February 29, 2020",,8082.183,
+Furniture,"Sunday, March 01, 2020",1893.995,9976.178,1893.995
+Furniture,"Monday, March 02, 2020",,9976.178,
+Furniture,"Tuesday, March 03, 2020",928.802,10904.98,928.802
+Furniture,"Wednesday, March 04, 2020",,10904.98,
+Furniture,"Thursday, March 05, 2020",,10904.98,
+Furniture,"Friday, March 06, 2020",,10904.98,
+Furniture,"Saturday, March 07, 2020",966.984,11871.964,966.984
+Furniture,"Sunday, March 08, 2020",,11871.964,
+Furniture,"Monday, March 09, 2020",,11871.964,
+Furniture,"Tuesday, March 10, 2020",,11871.964,
+Furniture,"Wednesday, March 11, 2020",8.32,11880.284,8.32
+Furniture,"Thursday, March 12, 2020",,11880.284,
+Furniture,"Friday, March 13, 2020",,11880.284,
+Furniture,"Saturday, March 14, 2020",1139.92,13020.204,1139.92
+Furniture,"Sunday, March 15, 2020",45.696,13065.9,45.696
+Furniture,"Monday, March 16, 2020",,13065.9,
+Furniture,"Tuesday, March 17, 2020",3265.23,16331.13,3265.23
+Furniture,"Wednesday, March 18, 2020",1462.45,17793.579999999998,1462.45
+Furniture,"Thursday, March 19, 2020",25.008,17818.588,25.008
+Furniture,"Friday, March 20, 2020",,17818.588,
+Furniture,"Saturday, March 21, 2020",251.328,18069.916,251.328
+Furniture,"Sunday, March 22, 2020",314.352,18384.268,314.352
+Furniture,"Monday, March 23, 2020",,18384.268,
+Furniture,"Tuesday, March 24, 2020",40.48,18424.748,40.48
+Furniture,"Wednesday, March 25, 2020",366.786,18791.534,366.786
+Furniture,"Thursday, March 26, 2020",,18791.534,
+Furniture,"Friday, March 27, 2020",,18791.534,
+Furniture,"Saturday, March 28, 2020",1515.308,20306.842,1515.308
+Furniture,"Sunday, March 29, 2020",890.841,21197.683,890.841
+Furniture,"Monday, March 30, 2020",332.968,21530.651,332.968
+Furniture,"Tuesday, March 31, 2020",1125.488,22656.139000000003,1125.488
+Furniture,"Wednesday, April 01, 2020",,22656.139000000003,
+Furniture,"Thursday, April 02, 2020",177.68,22833.819000000003,177.68
+Furniture,"Friday, April 03, 2020",,22833.819000000003,
+Furniture,"Saturday, April 04, 2020",5.47,22839.289000000004,5.47
+Furniture,"Sunday, April 05, 2020",,22839.289000000004,
+Furniture,"Monday, April 06, 2020",933.384,23772.673000000003,933.384
+Furniture,"Tuesday, April 07, 2020",8.96,23781.633,8.96
+Furniture,"Wednesday, April 08, 2020",1487.622,25269.255,1487.622
+Furniture,"Thursday, April 09, 2020",,25269.255,
+Furniture,"Friday, April 10, 2020",,25269.255,
+Furniture,"Saturday, April 11, 2020",,25269.255,
+Furniture,"Sunday, April 12, 2020",308.499,25577.754,308.499
+Furniture,"Monday, April 13, 2020",,25577.754,
+Furniture,"Tuesday, April 14, 2020",,25577.754,
+Furniture,"Wednesday, April 15, 2020",187.76,25765.514,187.76
+Furniture,"Thursday, April 16, 2020",,25765.514,
+Furniture,"Friday, April 17, 2020",,25765.514,
+Furniture,"Saturday, April 18, 2020",317.058,26082.572,317.058
+Furniture,"Sunday, April 19, 2020",76.14,26158.712,76.14
+Furniture,"Monday, April 20, 2020",1205.61,27364.322,1205.61
+Furniture,"Tuesday, April 21, 2020",,27364.322,
+Furniture,"Wednesday, April 22, 2020",,27364.322,
+Furniture,"Thursday, April 23, 2020",585.08,27949.402000000002,585.08
+Furniture,"Friday, April 24, 2020",,27949.402000000002,
+Furniture,"Saturday, April 25, 2020",1790.29,29739.692000000003,1790.29
+Furniture,"Sunday, April 26, 2020",230.28,29969.972,230.28
+Furniture,"Monday, April 27, 2020",,29969.972,
+Furniture,"Tuesday, April 28, 2020",,29969.972,
+Furniture,"Wednesday, April 29, 2020",631.004,30600.976000000002,631.004
+Furniture,"Thursday, April 30, 2020",,30600.976000000002,
+Furniture,"Friday, May 01, 2020",,30600.976000000002,
+Furniture,"Saturday, May 02, 2020",,30600.976000000002,
+Furniture,"Sunday, May 03, 2020",,30600.976000000002,
+Furniture,"Monday, May 04, 2020",39.64,30640.616,39.64
+Furniture,"Tuesday, May 05, 2020",127.869,30768.485,127.869
+Furniture,"Wednesday, May 06, 2020",,30768.485,
+Furniture,"Thursday, May 07, 2020",1066.57,31835.055,1066.57
+Furniture,"Friday, May 08, 2020",,31835.055,
+Furniture,"Saturday, May 09, 2020",,31835.055,
+Furniture,"Sunday, May 10, 2020",606.749,32441.804,606.749
+Furniture,"Monday, May 11, 2020",1279.072,33720.876,1279.072
+Furniture,"Tuesday, May 12, 2020",734.846,34455.721999999994,734.846
+Furniture,"Wednesday, May 13, 2020",279.456,34735.17799999999,279.456
+Furniture,"Thursday, May 14, 2020",310.88,35046.05799999999,310.88
+Furniture,"Friday, May 15, 2020",,35046.05799999999,
+Furniture,"Saturday, May 16, 2020",232.88,35278.93799999999,232.88
+Furniture,"Sunday, May 17, 2020",,35278.93799999999,
+Furniture,"Monday, May 18, 2020",149.232,35428.16999999999,149.232
+Furniture,"Tuesday, May 19, 2020",,35428.16999999999,
+Furniture,"Wednesday, May 20, 2020",150.192,35578.361999999994,150.192
+Furniture,"Thursday, May 21, 2020",107.772,35686.13399999999,107.772
+Furniture,"Friday, May 22, 2020",,35686.13399999999,
+Furniture,"Saturday, May 23, 2020",,35686.13399999999,
+Furniture,"Sunday, May 24, 2020",,35686.13399999999,
+Furniture,"Monday, May 25, 2020",29.32,35715.45399999999,29.32
+Furniture,"Tuesday, May 26, 2020",875.734,36591.18799999999,875.734
+Furniture,"Wednesday, May 27, 2020",567.12,37158.30799999999,567.12
+Furniture,"Thursday, May 28, 2020",,37158.30799999999,
+Furniture,"Friday, May 29, 2020",,37158.30799999999,
+Furniture,"Saturday, May 30, 2020",355.455,37513.76299999999,355.455
+Furniture,"Sunday, May 31, 2020",,37513.76299999999,
+Furniture,"Monday, June 01, 2020",2024.06,39537.82299999999,2024.06
+Furniture,"Tuesday, June 02, 2020",73.32,39611.14299999999,73.32
+Furniture,"Wednesday, June 03, 2020",577.424,40188.56699999999,577.424
+Furniture,"Thursday, June 04, 2020",424.488,40613.054999999986,424.488
+Furniture,"Friday, June 05, 2020",,40613.054999999986,
+Furniture,"Saturday, June 06, 2020",991.764,41604.81899999999,991.764
+Furniture,"Sunday, June 07, 2020",268.935,41873.753999999986,268.935
+Furniture,"Monday, June 08, 2020",755.904,42629.65799999999,755.904
+Furniture,"Tuesday, June 09, 2020",3233.744,45863.40199999999,3233.744
+Furniture,"Wednesday, June 10, 2020",,45863.40199999999,
+Furniture,"Thursday, June 11, 2020",,45863.40199999999,
+Furniture,"Friday, June 12, 2020",,45863.40199999999,
+Furniture,"Saturday, June 13, 2020",,45863.40199999999,
+Furniture,"Sunday, June 14, 2020",212.94,46076.34199999999,212.94
+Furniture,"Monday, June 15, 2020",897.862,46974.20399999999,897.862
+Furniture,"Tuesday, June 16, 2020",647.84,47622.04399999999,647.84
+Furniture,"Wednesday, June 17, 2020",6.24,47628.283999999985,6.24
+Furniture,"Thursday, June 18, 2020",,47628.283999999985,
+Furniture,"Friday, June 19, 2020",,47628.283999999985,
+Furniture,"Saturday, June 20, 2020",193.0656,47821.34959999999,193.0656
+Furniture,"Sunday, June 21, 2020",107.994,47929.343599999986,107.994
+Furniture,"Monday, June 22, 2020",1023.988,48953.33159999998,1023.988
+Furniture,"Tuesday, June 23, 2020",,48953.33159999998,
+Furniture,"Wednesday, June 24, 2020",4.272,48957.60359999998,4.272
+Furniture,"Thursday, June 25, 2020",447.84,49405.44359999998,447.84
+Furniture,"Friday, June 26, 2020",,49405.44359999998,
+Furniture,"Saturday, June 27, 2020",85.98,49491.42359999998,85.98
+Furniture,"Sunday, June 28, 2020",1228.465,50719.88859999998,1228.465
+Furniture,"Monday, June 29, 2020",,50719.88859999998,
+Furniture,"Tuesday, June 30, 2020",,50719.88859999998,
+Furniture,"Wednesday, July 01, 2020",,50719.88859999998,
+Furniture,"Thursday, July 02, 2020",,50719.88859999998,
+Furniture,"Friday, July 03, 2020",,50719.88859999998,
+Furniture,"Saturday, July 04, 2020",,50719.88859999998,
+Furniture,"Sunday, July 05, 2020",232.736,50952.624599999974,232.736
+Furniture,"Monday, July 06, 2020",478.48,51431.10459999998,478.48
+Furniture,"Tuesday, July 07, 2020",241.194,51672.29859999998,241.194
+Furniture,"Wednesday, July 08, 2020",566.37,52238.66859999998,566.37
+Furniture,"Thursday, July 09, 2020",119.833,52358.50159999998,119.833
+Furniture,"Friday, July 10, 2020",,52358.50159999998,
+Furniture,"Saturday, July 11, 2020",979.05,53337.551599999984,979.05
+Furniture,"Sunday, July 12, 2020",1333.846,54671.39759999998,1333.846
+Furniture,"Monday, July 13, 2020",351.216,55022.61359999998,351.216
+Furniture,"Tuesday, July 14, 2020",31.984,55054.59759999998,31.984
+Furniture,"Wednesday, July 15, 2020",,55054.59759999998,
+Furniture,"Thursday, July 16, 2020",,55054.59759999998,
+Furniture,"Friday, July 17, 2020",,55054.59759999998,
+Furniture,"Saturday, July 18, 2020",259.136,55313.73359999998,259.136
+Furniture,"Sunday, July 19, 2020",70.56,55384.293599999975,70.56
+Furniture,"Monday, July 20, 2020",1041.132,56425.42559999997,1041.132
+Furniture,"Tuesday, July 21, 2020",1732.346,58157.77159999997,1732.346
+Furniture,"Wednesday, July 22, 2020",888.072,59045.84359999997,888.072
+Furniture,"Thursday, July 23, 2020",,59045.84359999997,
+Furniture,"Friday, July 24, 2020",,59045.84359999997,
+Furniture,"Saturday, July 25, 2020",77.92,59123.76359999997,77.92
+Furniture,"Sunday, July 26, 2020",919.448,60043.211599999966,919.448
+Furniture,"Monday, July 27, 2020",,60043.211599999966,
+Furniture,"Tuesday, July 28, 2020",129.888,60173.099599999965,129.888
+Furniture,"Wednesday, July 29, 2020",,60173.099599999965,
+Furniture,"Thursday, July 30, 2020",1367.84,61540.93959999996,1367.84
+Furniture,"Friday, July 31, 2020",,61540.93959999996,
+Furniture,"Saturday, August 01, 2020",44.128,61585.06759999996,44.128
+Furniture,"Sunday, August 02, 2020",,61585.06759999996,
+Furniture,"Monday, August 03, 2020",218.75,61803.81759999996,218.75
+Furniture,"Tuesday, August 04, 2020",,61803.81759999996,
+Furniture,"Wednesday, August 05, 2020",1962.724,63766.54159999996,1962.724
+Furniture,"Thursday, August 06, 2020",,63766.54159999996,
+Furniture,"Friday, August 07, 2020",,63766.54159999996,
+Furniture,"Saturday, August 08, 2020",658.472,64425.01359999996,658.472
+Furniture,"Sunday, August 09, 2020",,64425.01359999996,
+Furniture,"Monday, August 10, 2020",,64425.01359999996,
+Furniture,"Tuesday, August 11, 2020",12.35,64437.36359999996,12.35
+Furniture,"Wednesday, August 12, 2020",85.44,64522.80359999996,85.44
+Furniture,"Thursday, August 13, 2020",,64522.80359999996,
+Furniture,"Friday, August 14, 2020",,64522.80359999996,
+Furniture,"Saturday, August 15, 2020",195.136,64717.93959999996,195.136
+Furniture,"Sunday, August 16, 2020",853.092,65571.03159999996,853.092
+Furniture,"Monday, August 17, 2020",,65571.03159999996,
+Furniture,"Tuesday, August 18, 2020",,65571.03159999996,
+Furniture,"Wednesday, August 19, 2020",928.06,66499.09159999996,928.06
+Furniture,"Thursday, August 20, 2020",921.612,67420.70359999995,921.612
+Furniture,"Friday, August 21, 2020",,67420.70359999995,
+Furniture,"Saturday, August 22, 2020",,67420.70359999995,
+Furniture,"Sunday, August 23, 2020",4.224,67424.92759999995,4.224
+Furniture,"Monday, August 24, 2020",13.28,67438.20759999995,13.28
+Furniture,"Tuesday, August 25, 2020",6.28,67444.48759999995,6.28
+Furniture,"Wednesday, August 26, 2020",10.68,67455.16759999994,10.68
+Furniture,"Thursday, August 27, 2020",1232.06,68687.22759999994,1232.06
+Furniture,"Friday, August 28, 2020",,68687.22759999994,
+Furniture,"Saturday, August 29, 2020",174.0585,68861.28609999994,174.0585
+Furniture,"Sunday, August 30, 2020",,68861.28609999994,
+Furniture,"Monday, August 31, 2020",,68861.28609999994,
+Furniture,"Tuesday, September 01, 2020",,68861.28609999994,
+Furniture,"Wednesday, September 02, 2020",70.71,68931.99609999995,70.71
+Furniture,"Thursday, September 03, 2020",,68931.99609999995,
+Furniture,"Friday, September 04, 2020",,68931.99609999995,
+Furniture,"Saturday, September 05, 2020",31.984,68963.98009999994,31.984
+Furniture,"Sunday, September 06, 2020",41.88,69005.86009999995,41.88
+Furniture,"Monday, September 07, 2020",1714.593,70720.45309999994,1714.593
+Furniture,"Tuesday, September 08, 2020",3855.444,74575.89709999994,3855.444
+Furniture,"Wednesday, September 09, 2020",864.024,75439.92109999995,864.024
+Furniture,"Thursday, September 10, 2020",1741.94,77181.86109999995,1741.94
+Furniture,"Friday, September 11, 2020",127.95,77309.81109999995,127.95
+Furniture,"Saturday, September 12, 2020",3825.852,81135.66309999995,3825.852
+Furniture,"Sunday, September 13, 2020",354.306,81489.96909999994,354.306
+Furniture,"Monday, September 14, 2020",629.78,82119.74909999994,629.78
+Furniture,"Tuesday, September 15, 2020",118.496,82238.24509999994,118.496
+Furniture,"Wednesday, September 16, 2020",,82238.24509999994,
+Furniture,"Thursday, September 17, 2020",35.34,82273.58509999994,35.34
+Furniture,"Friday, September 18, 2020",,82273.58509999994,
+Furniture,"Saturday, September 19, 2020",961.018,83234.60309999993,961.018
+Furniture,"Sunday, September 20, 2020",3071.64,86306.24309999993,3071.64
+Furniture,"Monday, September 21, 2020",8.544,86314.78709999993,8.544
+Furniture,"Tuesday, September 22, 2020",676.968,86991.75509999992,676.968
+Furniture,"Wednesday, September 23, 2020",435.999,87427.75409999992,435.999
+Furniture,"Thursday, September 24, 2020",,87427.75409999992,
+Furniture,"Friday, September 25, 2020",300.5328,87728.28689999992,300.5328
+Furniture,"Saturday, September 26, 2020",752.304,88480.59089999992,752.304
+Furniture,"Sunday, September 27, 2020",691.46,89172.05089999993,691.46
+Furniture,"Monday, September 28, 2020",337.088,89509.13889999993,337.088
+Furniture,"Tuesday, September 29, 2020",3153.388,92662.52689999994,3153.388
+Furniture,"Wednesday, September 30, 2020",15.24,92677.76689999994,15.24
+Furniture,"Thursday, October 01, 2020",,92677.76689999994,
+Furniture,"Friday, October 02, 2020",,92677.76689999994,
+Furniture,"Saturday, October 03, 2020",555.839,93233.60589999995,555.839
+Furniture,"Sunday, October 04, 2020",589.41,93823.01589999995,589.41
+Furniture,"Monday, October 05, 2020",,93823.01589999995,
+Furniture,"Tuesday, October 06, 2020",,93823.01589999995,
+Furniture,"Wednesday, October 07, 2020",129.92,93952.93589999995,129.92
+Furniture,"Thursday, October 08, 2020",,93952.93589999995,
+Furniture,"Friday, October 09, 2020",,93952.93589999995,
+Furniture,"Saturday, October 10, 2020",169.224,94122.15989999996,169.224
+Furniture,"Sunday, October 11, 2020",505.958,94628.11789999995,505.958
+Furniture,"Monday, October 12, 2020",,94628.11789999995,
+Furniture,"Tuesday, October 13, 2020",1544.53,96172.64789999995,1544.53
+Furniture,"Wednesday, October 14, 2020",1628.82,97801.46789999996,1628.82
+Furniture,"Thursday, October 15, 2020",198.756,98000.22389999995,198.756
+Furniture,"Friday, October 16, 2020",,98000.22389999995,
+Furniture,"Saturday, October 17, 2020",5.312,98005.53589999996,5.312
+Furniture,"Sunday, October 18, 2020",1151.22,99156.75589999996,1151.22
+Furniture,"Monday, October 19, 2020",,99156.75589999996,
+Furniture,"Tuesday, October 20, 2020",328.59,99485.34589999996,328.59
+Furniture,"Wednesday, October 21, 2020",1000.91,100486.25589999996,1000.91
+Furniture,"Thursday, October 22, 2020",223.808,100710.06389999996,223.808
+Furniture,"Friday, October 23, 2020",,100710.06389999996,
+Furniture,"Saturday, October 24, 2020",,100710.06389999996,
+Furniture,"Sunday, October 25, 2020",,100710.06389999996,
+Furniture,"Monday, October 26, 2020",63.92,100773.98389999996,63.92
+Furniture,"Tuesday, October 27, 2020",,100773.98389999996,
+Furniture,"Wednesday, October 28, 2020",616.998,101390.98189999997,616.998
+Furniture,"Thursday, October 29, 2020",,101390.98189999997,
+Furniture,"Friday, October 30, 2020",,101390.98189999997,
+Furniture,"Saturday, October 31, 2020",3591.032,104982.01389999998,3591.032
+Furniture,"Sunday, November 01, 2020",100.384,105082.39789999998,100.384
+Furniture,"Monday, November 02, 2020",89.34,105171.73789999998,89.34
+Furniture,"Tuesday, November 03, 2020",1355.388,106527.12589999998,1355.388
+Furniture,"Wednesday, November 04, 2020",744.95,107272.07589999998,744.95
+Furniture,"Thursday, November 05, 2020",443.508,107715.58389999998,443.508
+Furniture,"Friday, November 06, 2020",,107715.58389999998,
+Furniture,"Saturday, November 07, 2020",683.144,108398.72789999998,683.144
+Furniture,"Sunday, November 08, 2020",,108398.72789999998,
+Furniture,"Monday, November 09, 2020",279.186,108677.91389999999,279.186
+Furniture,"Tuesday, November 10, 2020",657.02,109334.93389999999,657.02
+Furniture,"Wednesday, November 11, 2020",2071.424,111406.35789999999,2071.424
+Furniture,"Thursday, November 12, 2020",722.1852,112128.5431,722.1852
+Furniture,"Friday, November 13, 2020",,112128.5431,
+Furniture,"Saturday, November 14, 2020",69.264,112197.80709999999,69.264
+Furniture,"Sunday, November 15, 2020",10.11,112207.91709999999,10.11
+Furniture,"Monday, November 16, 2020",343.2705,112551.18759999999,343.2705
+Furniture,"Tuesday, November 17, 2020",5270.08,117821.26759999999,5270.08
+Furniture,"Wednesday, November 18, 2020",2191.732,120012.9996,2191.732
+Furniture,"Thursday, November 19, 2020",1025.88,121038.8796,1025.88
+Furniture,"Friday, November 20, 2020",,121038.8796,
+Furniture,"Saturday, November 21, 2020",,121038.8796,
+Furniture,"Sunday, November 22, 2020",,121038.8796,
+Furniture,"Monday, November 23, 2020",1147.1,122185.9796,1147.1
+Furniture,"Tuesday, November 24, 2020",1029.808,123215.78760000001,1029.808
+Furniture,"Wednesday, November 25, 2020",2302.967,125518.75460000001,2302.967
+Furniture,"Thursday, November 26, 2020",19.3,125538.05460000002,19.3
+Furniture,"Friday, November 27, 2020",199.9,125737.95460000001,199.9
+Furniture,"Saturday, November 28, 2020",808.932,126546.88660000001,808.932
+Furniture,"Sunday, November 29, 2020",,126546.88660000001,
+Furniture,"Monday, November 30, 2020",,126546.88660000001,
+Furniture,"Tuesday, December 01, 2020",4513.606,131060.49260000001,4513.606
+Furniture,"Wednesday, December 02, 2020",1282.8,132343.29260000002,1282.8
+Furniture,"Thursday, December 03, 2020",,132343.29260000002,
+Furniture,"Friday, December 04, 2020",,132343.29260000002,
+Furniture,"Saturday, December 05, 2020",,132343.29260000002,
+Furniture,"Sunday, December 06, 2020",525.192,132868.48460000003,525.192
+Furniture,"Monday, December 07, 2020",,132868.48460000003,
+Furniture,"Tuesday, December 08, 2020",723.24,133591.72460000002,723.24
+Furniture,"Wednesday, December 09, 2020",,133591.72460000002,
+Furniture,"Thursday, December 10, 2020",338.352,133930.07660000003,338.352
+Furniture,"Friday, December 11, 2020",,133930.07660000003,
+Furniture,"Saturday, December 12, 2020",4695.6005,138625.67710000003,4695.6005
+Furniture,"Sunday, December 13, 2020",182.388,138808.06510000004,182.388
+Furniture,"Monday, December 14, 2020",322.834,139130.89910000004,322.834
+Furniture,"Tuesday, December 15, 2020",1223.786,140354.68510000003,1223.786
+Furniture,"Wednesday, December 16, 2020",2798.432,143153.11710000003,2798.432
+Furniture,"Thursday, December 17, 2020",,143153.11710000003,
+Furniture,"Friday, December 18, 2020",,143153.11710000003,
+Furniture,"Saturday, December 19, 2020",1819.86,144972.97710000002,1819.86
+Furniture,"Sunday, December 20, 2020",4039.814,149012.79110000003,4039.814
+Furniture,"Monday, December 21, 2020",1897.92,150910.71110000004,1897.92
+Furniture,"Tuesday, December 22, 2020",,150910.71110000004,
+Furniture,"Wednesday, December 23, 2020",118.1,151028.81110000005,118.1
+Furniture,"Thursday, December 24, 2020",346.622,151375.43310000005,346.622
+Furniture,"Friday, December 25, 2020",,151375.43310000005,
+Furniture,"Saturday, December 26, 2020",1353.158,152728.59110000005,1353.158
+Furniture,"Sunday, December 27, 2020",1212.798,153941.38910000006,1212.798
+Furniture,"Monday, December 28, 2020",,153941.38910000006,
+Furniture,"Tuesday, December 29, 2020",143.172,154084.56110000005,143.172
+Furniture,"Wednesday, December 30, 2020",523.764,154608.32510000005,523.764
+Furniture,"Thursday, December 31, 2020",2584.528,157192.85310000004,2584.528
+Furniture,"Saturday, January 02, 2021",452.45,452.45,452.45
+Furniture,"Sunday, January 03, 2021",1352.3976,1804.8476,1352.3976
+Furniture,"Monday, January 04, 2021",192.22,1997.0676,192.22
+Furniture,"Tuesday, January 05, 2021",61.584,2058.6516,61.584
+Furniture,"Wednesday, January 06, 2021",,2058.6516,
+Furniture,"Thursday, January 07, 2021",,2058.6516,
+Furniture,"Friday, January 08, 2021",,2058.6516,
+Furniture,"Saturday, January 09, 2021",,2058.6516,
+Furniture,"Sunday, January 10, 2021",1018.104,3076.7556000000004,1018.104
+Furniture,"Monday, January 11, 2021",,3076.7556000000004,
+Furniture,"Tuesday, January 12, 2021",,3076.7556000000004,
+Furniture,"Wednesday, January 13, 2021",542.45,3619.2056000000002,542.45
+Furniture,"Thursday, January 14, 2021",,3619.2056000000002,
+Furniture,"Friday, January 15, 2021",,3619.2056000000002,
+Furniture,"Saturday, January 16, 2021",,3619.2056000000002,
+Furniture,"Sunday, January 17, 2021",254.744,3873.9496000000004,254.744
+Furniture,"Monday, January 18, 2021",,3873.9496000000004,
+Furniture,"Tuesday, January 19, 2021",301.742,4175.6916,301.742
+Furniture,"Wednesday, January 20, 2021",,4175.6916,
+Furniture,"Thursday, January 21, 2021",,4175.6916,
+Furniture,"Friday, January 22, 2021",,4175.6916,
+Furniture,"Saturday, January 23, 2021",,4175.6916,
+Furniture,"Sunday, January 24, 2021",,4175.6916,
+Furniture,"Monday, January 25, 2021",,4175.6916,
+Furniture,"Tuesday, January 26, 2021",,4175.6916,
+Furniture,"Wednesday, January 27, 2021",2985.906,7161.5976,2985.906
+Furniture,"Thursday, January 28, 2021",4297.644,11459.241600000001,4297.644
+Furniture,"Friday, January 29, 2021",,11459.241600000001,
+Furniture,"Saturday, January 30, 2021",227.36,11686.601600000002,227.36
+Furniture,"Sunday, January 31, 2021",53.34,11739.941600000002,53.34
+Furniture,"Monday, February 01, 2021",,11739.941600000002,
+Furniture,"Tuesday, February 02, 2021",,11739.941600000002,
+Furniture,"Wednesday, February 03, 2021",256.202,11996.143600000001,256.202
+Furniture,"Thursday, February 04, 2021",,11996.143600000001,
+Furniture,"Friday, February 05, 2021",,11996.143600000001,
+Furniture,"Saturday, February 06, 2021",1552.74,13548.883600000001,1552.74
+Furniture,"Sunday, February 07, 2021",,13548.883600000001,
+Furniture,"Monday, February 08, 2021",,13548.883600000001,
+Furniture,"Tuesday, February 09, 2021",244.704,13793.5876,244.704
+Furniture,"Wednesday, February 10, 2021",,13793.5876,
+Furniture,"Thursday, February 11, 2021",,13793.5876,
+Furniture,"Friday, February 12, 2021",,13793.5876,
+Furniture,"Saturday, February 13, 2021",,13793.5876,
+Furniture,"Sunday, February 14, 2021",,13793.5876,
+Furniture,"Monday, February 15, 2021",,13793.5876,
+Furniture,"Tuesday, February 16, 2021",,13793.5876,
+Furniture,"Wednesday, February 17, 2021",,13793.5876,
+Furniture,"Thursday, February 18, 2021",35.544,13829.1316,35.544
+Furniture,"Friday, February 19, 2021",,13829.1316,
+Furniture,"Saturday, February 20, 2021",,13829.1316,
+Furniture,"Sunday, February 21, 2021",,13829.1316,
+Furniture,"Monday, February 22, 2021",,13829.1316,
+Furniture,"Tuesday, February 23, 2021",,13829.1316,
+Furniture,"Wednesday, February 24, 2021",,13829.1316,
+Furniture,"Thursday, February 25, 2021",,13829.1316,
+Furniture,"Friday, February 26, 2021",,13829.1316,
+Furniture,"Saturday, February 27, 2021",493.92,14323.0516,493.92
+Furniture,"Sunday, February 28, 2021",551.264,14874.3156,551.264
+Furniture,"Monday, March 01, 2021",1412.7504,16287.065999999999,1412.7504
+Furniture,"Tuesday, March 02, 2021",787.53,17074.595999999998,787.53
+Furniture,"Wednesday, March 03, 2021",,17074.595999999998,
+Furniture,"Thursday, March 04, 2021",,17074.595999999998,
+Furniture,"Friday, March 05, 2021",521.259,17595.854999999996,521.259
+Furniture,"Saturday, March 06, 2021",435.26,18031.114999999994,435.26
+Furniture,"Sunday, March 07, 2021",,18031.114999999994,
+Furniture,"Monday, March 08, 2021",1746.95,19778.064999999995,1746.95
+Furniture,"Tuesday, March 09, 2021",,19778.064999999995,
+Furniture,"Wednesday, March 10, 2021",,19778.064999999995,
+Furniture,"Thursday, March 11, 2021",,19778.064999999995,
+Furniture,"Friday, March 12, 2021",37.288,19815.352999999996,37.288
+Furniture,"Saturday, March 13, 2021",1384.856,21200.208999999995,1384.856
+Furniture,"Sunday, March 14, 2021",,21200.208999999995,
+Furniture,"Monday, March 15, 2021",,21200.208999999995,
+Furniture,"Tuesday, March 16, 2021",215.09,21415.298999999995,215.09
+Furniture,"Wednesday, March 17, 2021",,21415.298999999995,
+Furniture,"Thursday, March 18, 2021",,21415.298999999995,
+Furniture,"Friday, March 19, 2021",383.4656,21798.764599999995,383.4656
+Furniture,"Saturday, March 20, 2021",,21798.764599999995,
+Furniture,"Sunday, March 21, 2021",,21798.764599999995,
+Furniture,"Monday, March 22, 2021",91.96,21890.724599999994,91.96
+Furniture,"Tuesday, March 23, 2021",107.772,21998.496599999995,107.772
+Furniture,"Wednesday, March 24, 2021",405.958,22404.454599999994,405.958
+Furniture,"Thursday, March 25, 2021",,22404.454599999994,
+Furniture,"Friday, March 26, 2021",3393.68,25798.134599999994,3393.68
+Furniture,"Saturday, March 27, 2021",,25798.134599999994,
+Furniture,"Sunday, March 28, 2021",,25798.134599999994,
+Furniture,"Monday, March 29, 2021",1186.84,26984.974599999994,1186.84
+Furniture,"Tuesday, March 30, 2021",366.744,27351.718599999993,366.744
+Furniture,"Wednesday, March 31, 2021",22.38,27374.098599999994,22.38
+Furniture,"Thursday, April 01, 2021",,27374.098599999994,
+Furniture,"Friday, April 02, 2021",,27374.098599999994,
+Furniture,"Saturday, April 03, 2021",,27374.098599999994,
+Furniture,"Sunday, April 04, 2021",108.4,27482.498599999995,108.4
+Furniture,"Monday, April 05, 2021",1799.394,29281.892599999996,1799.394
+Furniture,"Tuesday, April 06, 2021",,29281.892599999996,
+Furniture,"Wednesday, April 07, 2021",,29281.892599999996,
+Furniture,"Thursday, April 08, 2021",,29281.892599999996,
+Furniture,"Friday, April 09, 2021",369.912,29651.804599999996,369.912
+Furniture,"Saturday, April 10, 2021",,29651.804599999996,
+Furniture,"Sunday, April 11, 2021",121.888,29773.692599999995,121.888
+Furniture,"Monday, April 12, 2021",,29773.692599999995,
+Furniture,"Tuesday, April 13, 2021",1811.432,31585.124599999996,1811.432
+Furniture,"Wednesday, April 14, 2021",,31585.124599999996,
+Furniture,"Thursday, April 15, 2021",,31585.124599999996,
+Furniture,"Friday, April 16, 2021",1847.884,33433.008599999994,1847.884
+Furniture,"Saturday, April 17, 2021",,33433.008599999994,
+Furniture,"Sunday, April 18, 2021",152.836,33585.8446,152.836
+Furniture,"Monday, April 19, 2021",,33585.8446,
+Furniture,"Tuesday, April 20, 2021",595.38,34181.224599999994,595.38
+Furniture,"Wednesday, April 21, 2021",401.84,34583.06459999999,401.84
+Furniture,"Thursday, April 22, 2021",,34583.06459999999,
+Furniture,"Friday, April 23, 2021",,34583.06459999999,
+Furniture,"Saturday, April 24, 2021",,34583.06459999999,
+Furniture,"Sunday, April 25, 2021",128.058,34711.12259999999,128.058
+Furniture,"Monday, April 26, 2021",1592.8495,36303.972099999984,1592.8495
+Furniture,"Tuesday, April 27, 2021",1267.53,37571.50209999998,1267.53
+Furniture,"Wednesday, April 28, 2021",,37571.50209999998,
+Furniture,"Thursday, April 29, 2021",,37571.50209999998,
+Furniture,"Friday, April 30, 2021",278.295,37849.79709999998,278.295
+Furniture,"Saturday, May 01, 2021",63.552,37913.349099999985,63.552
+Furniture,"Sunday, May 02, 2021",,37913.349099999985,
+Furniture,"Monday, May 03, 2021",1509.996,39423.345099999984,1509.996
+Furniture,"Tuesday, May 04, 2021",49.088,39472.43309999999,49.088
+Furniture,"Wednesday, May 05, 2021",,39472.43309999999,
+Furniture,"Thursday, May 06, 2021",,39472.43309999999,
+Furniture,"Friday, May 07, 2021",244.006,39716.43909999999,244.006
+Furniture,"Saturday, May 08, 2021",339.516,40055.95509999999,339.516
+Furniture,"Sunday, May 09, 2021",,40055.95509999999,
+Furniture,"Monday, May 10, 2021",,40055.95509999999,
+Furniture,"Tuesday, May 11, 2021",191.968,40247.92309999999,191.968
+Furniture,"Wednesday, May 12, 2021",21.968,40269.89109999999,21.968
+Furniture,"Thursday, May 13, 2021",,40269.89109999999,
+Furniture,"Friday, May 14, 2021",1452.7875,41722.67859999999,1452.7875
+Furniture,"Saturday, May 15, 2021",,41722.67859999999,
+Furniture,"Sunday, May 16, 2021",,41722.67859999999,
+Furniture,"Monday, May 17, 2021",,41722.67859999999,
+Furniture,"Tuesday, May 18, 2021",,41722.67859999999,
+Furniture,"Wednesday, May 19, 2021",,41722.67859999999,
+Furniture,"Thursday, May 20, 2021",163.136,41885.81459999999,163.136
+Furniture,"Friday, May 21, 2021",,41885.81459999999,
+Furniture,"Saturday, May 22, 2021",,41885.81459999999,
+Furniture,"Sunday, May 23, 2021",75.33,41961.14459999999,75.33
+Furniture,"Monday, May 24, 2021",602.651,42563.79559999999,602.651
+Furniture,"Tuesday, May 25, 2021",14.73,42578.52559999999,14.73
+Furniture,"Wednesday, May 26, 2021",230.856,42809.38159999999,230.856
+Furniture,"Thursday, May 27, 2021",,42809.38159999999,
+Furniture,"Friday, May 28, 2021",,42809.38159999999,
+Furniture,"Saturday, May 29, 2021",358.626,43168.00759999999,358.626
+Furniture,"Sunday, May 30, 2021",,43168.00759999999,
+Furniture,"Monday, May 31, 2021",4056.74,47224.74759999999,4056.74
+Furniture,"Tuesday, June 01, 2021",,47224.74759999999,
+Furniture,"Wednesday, June 02, 2021",,47224.74759999999,
+Furniture,"Thursday, June 03, 2021",,47224.74759999999,
+Furniture,"Friday, June 04, 2021",35.28,47260.02759999999,35.28
+Furniture,"Saturday, June 05, 2021",1522.638,48782.665599999986,1522.638
+Furniture,"Sunday, June 06, 2021",,48782.665599999986,
+Furniture,"Monday, June 07, 2021",,48782.665599999986,
+Furniture,"Tuesday, June 08, 2021",173.208,48955.873599999984,173.208
+Furniture,"Wednesday, June 09, 2021",355.36,49311.233599999985,355.36
+Furniture,"Thursday, June 10, 2021",,49311.233599999985,
+Furniture,"Friday, June 11, 2021",1201.752,50512.985599999985,1201.752
+Furniture,"Saturday, June 12, 2021",43.296,50556.28159999999,43.296
+Furniture,"Sunday, June 13, 2021",,50556.28159999999,
+Furniture,"Monday, June 14, 2021",51.072,50607.35359999999,51.072
+Furniture,"Tuesday, June 15, 2021",404.96,51012.31359999999,404.96
+Furniture,"Wednesday, June 16, 2021",197.372,51209.68559999999,197.372
+Furniture,"Thursday, June 17, 2021",,51209.68559999999,
+Furniture,"Friday, June 18, 2021",779.336,51989.02159999999,779.336
+Furniture,"Saturday, June 19, 2021",12.56,52001.58159999999,12.56
+Furniture,"Sunday, June 20, 2021",257.64,52259.22159999999,257.64
+Furniture,"Monday, June 21, 2021",,52259.22159999999,
+Furniture,"Tuesday, June 22, 2021",796.425,53055.64659999999,796.425
+Furniture,"Wednesday, June 23, 2021",27.42,53083.06659999999,27.42
+Furniture,"Thursday, June 24, 2021",,53083.06659999999,
+Furniture,"Friday, June 25, 2021",280.234,53363.30059999999,280.234
+Furniture,"Saturday, June 26, 2021",332.94,53696.24059999999,332.94
+Furniture,"Sunday, June 27, 2021",,53696.24059999999,
+Furniture,"Monday, June 28, 2021",1104.7,54800.94059999999,1104.7
+Furniture,"Tuesday, June 29, 2021",137.986,54938.926599999984,137.986
+Furniture,"Wednesday, June 30, 2021",,54938.926599999984,
+Furniture,"Thursday, July 01, 2021",,54938.926599999984,
+Furniture,"Friday, July 02, 2021",950.378,55889.30459999998,950.378
+Furniture,"Saturday, July 03, 2021",522.332,56411.63659999998,522.332
+Furniture,"Sunday, July 04, 2021",,56411.63659999998,
+Furniture,"Monday, July 05, 2021",9.856,56421.49259999998,9.856
+Furniture,"Tuesday, July 06, 2021",642.092,57063.58459999998,642.092
+Furniture,"Wednesday, July 07, 2021",,57063.58459999998,
+Furniture,"Thursday, July 08, 2021",,57063.58459999998,
+Furniture,"Friday, July 09, 2021",181.96,57245.54459999998,181.96
+Furniture,"Saturday, July 10, 2021",,57245.54459999998,
+Furniture,"Sunday, July 11, 2021",856.468,58102.01259999998,856.468
+Furniture,"Monday, July 12, 2021",391.367,58493.37959999998,391.367
+Furniture,"Tuesday, July 13, 2021",1931.04,60424.41959999998,1931.04
+Furniture,"Wednesday, July 14, 2021",569.684,60994.10359999998,569.684
+Furniture,"Thursday, July 15, 2021",,60994.10359999998,
+Furniture,"Friday, July 16, 2021",2199.836,63193.93959999998,2199.836
+Furniture,"Saturday, July 17, 2021",427.386,63621.32559999998,427.386
+Furniture,"Sunday, July 18, 2021",7.38,63628.70559999998,7.38
+Furniture,"Monday, July 19, 2021",,63628.70559999998,
+Furniture,"Tuesday, July 20, 2021",1298.374,64927.07959999998,1298.374
+Furniture,"Wednesday, July 21, 2021",,64927.07959999998,
+Furniture,"Thursday, July 22, 2021",,64927.07959999998,
+Furniture,"Friday, July 23, 2021",128.82,65055.89959999998,128.82
+Furniture,"Saturday, July 24, 2021",20.94,65076.839599999985,20.94
+Furniture,"Sunday, July 25, 2021",1625.048,66701.88759999999,1625.048
+Furniture,"Monday, July 26, 2021",659.517,67361.4046,659.517
+Furniture,"Tuesday, July 27, 2021",,67361.4046,
+Furniture,"Wednesday, July 28, 2021",,67361.4046,
+Furniture,"Thursday, July 29, 2021",,67361.4046,
+Furniture,"Friday, July 30, 2021",161.16,67522.5646,161.16
+Furniture,"Saturday, July 31, 2021",1090.782,68613.3466,1090.782
+Furniture,"Sunday, August 01, 2021",1004.976,69618.3226,1004.976
+Furniture,"Monday, August 02, 2021",388.48,70006.8026,388.48
+Furniture,"Tuesday, August 03, 2021",,70006.8026,
+Furniture,"Wednesday, August 04, 2021",,70006.8026,
+Furniture,"Thursday, August 05, 2021",14.76,70021.56259999999,14.76
+Furniture,"Friday, August 06, 2021",369.1992,70390.7618,369.1992
+Furniture,"Saturday, August 07, 2021",212.94,70603.7018,212.94
+Furniture,"Sunday, August 08, 2021",144.784,70748.4858,144.784
+Furniture,"Monday, August 09, 2021",1755.876,72504.3618,1755.876
+Furniture,"Tuesday, August 10, 2021",,72504.3618,
+Furniture,"Wednesday, August 11, 2021",46.152,72550.5138,46.152
+Furniture,"Thursday, August 12, 2021",,72550.5138,
+Furniture,"Friday, August 13, 2021",31.56,72582.0738,31.56
+Furniture,"Saturday, August 14, 2021",,72582.0738,
+Furniture,"Sunday, August 15, 2021",104.23,72686.3038,104.23
+Furniture,"Monday, August 16, 2021",555.822,73242.1258,555.822
+Furniture,"Tuesday, August 17, 2021",,73242.1258,
+Furniture,"Wednesday, August 18, 2021",,73242.1258,
+Furniture,"Thursday, August 19, 2021",,73242.1258,
+Furniture,"Friday, August 20, 2021",,73242.1258,
+Furniture,"Saturday, August 21, 2021",1754.848,74996.97379999999,1754.848
+Furniture,"Sunday, August 22, 2021",,74996.97379999999,
+Furniture,"Monday, August 23, 2021",,74996.97379999999,
+Furniture,"Tuesday, August 24, 2021",1218.059,76215.03279999999,1218.059
+Furniture,"Wednesday, August 25, 2021",68.768,76283.80079999998,68.768
+Furniture,"Thursday, August 26, 2021",,76283.80079999998,
+Furniture,"Friday, August 27, 2021",,76283.80079999998,
+Furniture,"Saturday, August 28, 2021",415.307,76699.10779999998,415.307
+Furniture,"Sunday, August 29, 2021",,76699.10779999998,
+Furniture,"Monday, August 30, 2021",,76699.10779999998,
+Furniture,"Tuesday, August 31, 2021",1552.831,78251.93879999999,1552.831
+Furniture,"Wednesday, September 01, 2021",185.1,78437.0388,185.1
+Furniture,"Thursday, September 02, 2021",,78437.0388,
+Furniture,"Friday, September 03, 2021",367.72,78804.7588,367.72
+Furniture,"Saturday, September 04, 2021",,78804.7588,
+Furniture,"Sunday, September 05, 2021",778.651,79583.4098,778.651
+Furniture,"Monday, September 06, 2021",549.564,80132.97379999999,549.564
+Furniture,"Tuesday, September 07, 2021",556.106,80689.07979999999,556.106
+Furniture,"Wednesday, September 08, 2021",21.36,80710.4398,21.36
+Furniture,"Thursday, September 09, 2021",,80710.4398,
+Furniture,"Friday, September 10, 2021",648.526,81358.96579999999,648.526
+Furniture,"Saturday, September 11, 2021",244.24,81603.2058,244.24
+Furniture,"Sunday, September 12, 2021",,81603.2058,
+Furniture,"Monday, September 13, 2021",2917.822,84521.0278,2917.822
+Furniture,"Tuesday, September 14, 2021",1082.886,85603.9138,1082.886
+Furniture,"Wednesday, September 15, 2021",1976.884,87580.7978,1976.884
+Furniture,"Thursday, September 16, 2021",,87580.7978,
+Furniture,"Friday, September 17, 2021",10006.174,97586.9718,10006.174
+Furniture,"Saturday, September 18, 2021",24.4,97611.3718,24.4
+Furniture,"Sunday, September 19, 2021",122.8,97734.1718,122.8
+Furniture,"Monday, September 20, 2021",,97734.1718,
+Furniture,"Tuesday, September 21, 2021",3119.064,100853.2358,3119.064
+Furniture,"Wednesday, September 22, 2021",252.58,101105.8158,252.58
+Furniture,"Thursday, September 23, 2021",,101105.8158,
+Furniture,"Friday, September 24, 2021",1940.51,103046.32579999999,1940.51
+Furniture,"Saturday, September 25, 2021",1454.348,104500.67379999999,1454.348
+Furniture,"Sunday, September 26, 2021",,104500.67379999999,
+Furniture,"Monday, September 27, 2021",24.288,104524.96179999999,24.288
+Furniture,"Tuesday, September 28, 2021",,104524.96179999999,
+Furniture,"Wednesday, September 29, 2021",,104524.96179999999,
+Furniture,"Thursday, September 30, 2021",,104524.96179999999,
+Furniture,"Friday, October 01, 2021",,104524.96179999999,
+Furniture,"Saturday, October 02, 2021",11.032,104535.9938,11.032
+Furniture,"Sunday, October 03, 2021",156.156,104692.1498,156.156
+Furniture,"Monday, October 04, 2021",457.884,105150.0338,457.884
+Furniture,"Tuesday, October 05, 2021",357.462,105507.4958,357.462
+Furniture,"Wednesday, October 06, 2021",,105507.4958,
+Furniture,"Thursday, October 07, 2021",,105507.4958,
+Furniture,"Friday, October 08, 2021",218.68,105726.1758,218.68
+Furniture,"Saturday, October 09, 2021",389.97,106116.1458,389.97
+Furniture,"Sunday, October 10, 2021",362.136,106478.2818,362.136
+Furniture,"Monday, October 11, 2021",957.5775,107435.8593,957.5775
+Furniture,"Tuesday, October 12, 2021",1735.158,109171.01729999999,1735.158
+Furniture,"Wednesday, October 13, 2021",287.94,109458.9573,287.94
+Furniture,"Thursday, October 14, 2021",,109458.9573,
+Furniture,"Friday, October 15, 2021",2601.946,112060.90329999999,2601.946
+Furniture,"Saturday, October 16, 2021",,112060.90329999999,
+Furniture,"Sunday, October 17, 2021",,112060.90329999999,
+Furniture,"Monday, October 18, 2021",10.11,112071.01329999999,10.11
+Furniture,"Tuesday, October 19, 2021",,112071.01329999999,
+Furniture,"Wednesday, October 20, 2021",455.556,112526.56929999999,455.556
+Furniture,"Thursday, October 21, 2021",,112526.56929999999,
+Furniture,"Friday, October 22, 2021",,112526.56929999999,
+Furniture,"Saturday, October 23, 2021",1275.104,113801.6733,1275.104
+Furniture,"Sunday, October 24, 2021",801.633,114603.3063,801.633
+Furniture,"Monday, October 25, 2021",1126.612,115729.91829999999,1126.612
+Furniture,"Tuesday, October 26, 2021",,115729.91829999999,
+Furniture,"Wednesday, October 27, 2021",,115729.91829999999,
+Furniture,"Thursday, October 28, 2021",57.21,115787.1283,57.21
+Furniture,"Friday, October 29, 2021",,115787.1283,
+Furniture,"Saturday, October 30, 2021",15.488,115802.6163,15.488
+Furniture,"Sunday, October 31, 2021",748.969,116551.58529999999,748.969
+Furniture,"Monday, November 01, 2021",1094.388,117645.9733,1094.388
+Furniture,"Tuesday, November 02, 2021",4379.385,122025.35829999999,4379.385
+Furniture,"Wednesday, November 03, 2021",1491.42,123516.77829999999,1491.42
+Furniture,"Thursday, November 04, 2021",,123516.77829999999,
+Furniture,"Friday, November 05, 2021",207,123723.77829999999,207
+Furniture,"Saturday, November 06, 2021",,123723.77829999999,
+Furniture,"Sunday, November 07, 2021",970.88,124694.6583,970.88
+Furniture,"Monday, November 08, 2021",5252.426,129947.0843,5252.426
+Furniture,"Tuesday, November 09, 2021",1024.38,130971.4643,1024.38
+Furniture,"Wednesday, November 10, 2021",29.22,131000.68430000001,29.22
+Furniture,"Thursday, November 11, 2021",,131000.68430000001,
+Furniture,"Friday, November 12, 2021",670.056,131670.7403,670.056
+Furniture,"Saturday, November 13, 2021",1781.1372,133451.8775,1781.1372
+Furniture,"Sunday, November 14, 2021",1190.332,134642.2095,1190.332
+Furniture,"Monday, November 15, 2021",39.96,134682.1695,39.96
+Furniture,"Tuesday, November 16, 2021",1784.164,136466.33349999998,1784.164
+Furniture,"Wednesday, November 17, 2021",1667.028,138133.36149999997,1667.028
+Furniture,"Thursday, November 18, 2021",,138133.36149999997,
+Furniture,"Friday, November 19, 2021",141.96,138275.32149999996,141.96
+Furniture,"Saturday, November 20, 2021",1656.7,139932.02149999997,1656.7
+Furniture,"Sunday, November 21, 2021",2055.7748,141987.7963,2055.7748
+Furniture,"Monday, November 22, 2021",206.962,142194.7583,206.962
+Furniture,"Tuesday, November 23, 2021",,142194.7583,
+Furniture,"Wednesday, November 24, 2021",79.76,142274.5183,79.76
+Furniture,"Thursday, November 25, 2021",,142274.5183,
+Furniture,"Friday, November 26, 2021",692.472,142966.9903,692.472
+Furniture,"Saturday, November 27, 2021",1315.3955,144282.38580000002,1315.3955
+Furniture,"Sunday, November 28, 2021",625.962,144908.34780000002,625.962
+Furniture,"Monday, November 29, 2021",1408.87,146317.2178,1408.87
+Furniture,"Tuesday, November 30, 2021",1115.2,147432.41780000002,1115.2
+Furniture,"Wednesday, December 01, 2021",6600.68,154033.09780000002,6600.68
+Furniture,"Thursday, December 02, 2021",,154033.09780000002,
+Furniture,"Friday, December 03, 2021",440.411,154473.5088,440.411
+Furniture,"Saturday, December 04, 2021",1200.268,155673.77680000002,1200.268
+Furniture,"Sunday, December 05, 2021",306.53,155980.30680000002,306.53
+Furniture,"Monday, December 06, 2021",390.718,156371.0248,390.718
+Furniture,"Tuesday, December 07, 2021",363.84,156734.8648,363.84
+Furniture,"Wednesday, December 08, 2021",,156734.8648,
+Furniture,"Thursday, December 09, 2021",,156734.8648,
+Furniture,"Friday, December 10, 2021",1536.86,158271.7248,1536.86
+Furniture,"Saturday, December 11, 2021",541.862,158813.5868,541.862
+Furniture,"Sunday, December 12, 2021",515.428,159329.0148,515.428
+Furniture,"Monday, December 13, 2021",,159329.0148,
+Furniture,"Tuesday, December 14, 2021",324.188,159653.2028,324.188
+Furniture,"Wednesday, December 15, 2021",262.864,159916.0668,262.864
+Furniture,"Thursday, December 16, 2021",,159916.0668,
+Furniture,"Friday, December 17, 2021",1245.642,161161.7088,1245.642
+Furniture,"Saturday, December 18, 2021",20.32,161182.0288,20.32
+Furniture,"Sunday, December 19, 2021",1053.164,162235.1928,1053.164
+Furniture,"Monday, December 20, 2021",373.426,162608.6188,373.426
+Furniture,"Tuesday, December 21, 2021",1670.126,164278.7448,1670.126
+Furniture,"Wednesday, December 22, 2021",422.625,164701.3698,422.625
+Furniture,"Thursday, December 23, 2021",,164701.3698,
+Furniture,"Friday, December 24, 2021",1563.994,166265.3638,1563.994
+Furniture,"Saturday, December 25, 2021",1433.564,167698.9278,1433.564
+Furniture,"Sunday, December 26, 2021",326.646,168025.5738,326.646
+Furniture,"Monday, December 27, 2021",2477.9032,170503.477,2477.9032
+Furniture,"Tuesday, December 28, 2021",,170503.477,
+Furniture,"Wednesday, December 29, 2021",,170503.477,
+Furniture,"Thursday, December 30, 2021",,170503.477,
+Furniture,"Friday, December 31, 2021",14.76,170518.23700000002,14.76
+Furniture,"Sunday, January 02, 2022",173.94,173.94,173.94
+Furniture,"Monday, January 03, 2022",1592.85,1766.79,1592.85
+Furniture,"Tuesday, January 04, 2022",,1766.79,
+Furniture,"Wednesday, January 05, 2022",,1766.79,
+Furniture,"Thursday, January 06, 2022",,1766.79,
+Furniture,"Friday, January 07, 2022",23.076,1789.866,23.076
+Furniture,"Saturday, January 08, 2022",1565.88,3355.746,1565.88
+Furniture,"Sunday, January 09, 2022",15.168,3370.914,15.168
+Furniture,"Monday, January 10, 2022",104.77,3475.684,104.77
+Furniture,"Tuesday, January 11, 2022",54.992,3530.6760000000004,54.992
+Furniture,"Wednesday, January 12, 2022",,3530.6760000000004,
+Furniture,"Thursday, January 13, 2022",,3530.6760000000004,
+Furniture,"Friday, January 14, 2022",315.776,3846.452,315.776
+Furniture,"Saturday, January 15, 2022",181.797,4028.2490000000003,181.797
+Furniture,"Sunday, January 16, 2022",,4028.2490000000003,
+Furniture,"Monday, January 17, 2022",322.59,4350.839,322.59
+Furniture,"Tuesday, January 18, 2022",,4350.839,
+Furniture,"Wednesday, January 19, 2022",,4350.839,
+Furniture,"Thursday, January 20, 2022",,4350.839,
+Furniture,"Friday, January 21, 2022",1167.056,5517.895,1167.056
+Furniture,"Saturday, January 22, 2022",575.308,6093.203,575.308
+Furniture,"Sunday, January 23, 2022",59.99,6153.193,59.99
+Furniture,"Monday, January 24, 2022",,6153.193,
+Furniture,"Tuesday, January 25, 2022",359.702,6512.895,359.702
+Furniture,"Wednesday, January 26, 2022",,6512.895,
+Furniture,"Thursday, January 27, 2022",,6512.895,
+Furniture,"Friday, January 28, 2022",,6512.895,
+Furniture,"Saturday, January 29, 2022",,6512.895,
+Furniture,"Sunday, January 30, 2022",1109.848,7622.743,1109.848
+Furniture,"Monday, January 31, 2022",,7622.743,
+Furniture,"Tuesday, February 01, 2022",,7622.743,
+Furniture,"Wednesday, February 02, 2022",92.474,7715.217000000001,92.474
+Furniture,"Thursday, February 03, 2022",866.4,8581.617,866.4
+Furniture,"Friday, February 04, 2022",14.368,8595.985,14.368
+Furniture,"Saturday, February 05, 2022",816.548,9412.533000000001,816.548
+Furniture,"Sunday, February 06, 2022",132.224,9544.757000000001,132.224
+Furniture,"Monday, February 07, 2022",,9544.757000000001,
+Furniture,"Tuesday, February 08, 2022",241.5,9786.257000000001,241.5
+Furniture,"Wednesday, February 09, 2022",,9786.257000000001,
+Furniture,"Thursday, February 10, 2022",,9786.257000000001,
+Furniture,"Friday, February 11, 2022",,9786.257000000001,
+Furniture,"Saturday, February 12, 2022",,9786.257000000001,
+Furniture,"Sunday, February 13, 2022",,9786.257000000001,
+Furniture,"Monday, February 14, 2022",560.991,10347.248000000001,560.991
+Furniture,"Tuesday, February 15, 2022",,10347.248000000001,
+Furniture,"Wednesday, February 16, 2022",935.644,11282.892000000002,935.644
+Furniture,"Thursday, February 17, 2022",,11282.892000000002,
+Furniture,"Friday, February 18, 2022",,11282.892000000002,
+Furniture,"Saturday, February 19, 2022",44.46,11327.352,44.46
+Furniture,"Sunday, February 20, 2022",,11327.352,
+Furniture,"Monday, February 21, 2022",204.75,11532.102,204.75
+Furniture,"Tuesday, February 22, 2022",,11532.102,
+Furniture,"Wednesday, February 23, 2022",,11532.102,
+Furniture,"Thursday, February 24, 2022",,11532.102,
+Furniture,"Friday, February 25, 2022",,11532.102,
+Furniture,"Saturday, February 26, 2022",,11532.102,
+Furniture,"Sunday, February 27, 2022",16.192,11548.294,16.192
+Furniture,"Monday, February 28, 2022",,11548.294,
+Furniture,"Tuesday, March 01, 2022",836.592,12384.886,836.592
+Furniture,"Wednesday, March 02, 2022",,12384.886,
+Furniture,"Thursday, March 03, 2022",1236.606,13621.492,1236.606
+Furniture,"Friday, March 04, 2022",,13621.492,
+Furniture,"Saturday, March 05, 2022",,13621.492,
+Furniture,"Sunday, March 06, 2022",305.02,13926.512,305.02
+Furniture,"Monday, March 07, 2022",,13926.512,
+Furniture,"Tuesday, March 08, 2022",215.96,14142.472,215.96
+Furniture,"Wednesday, March 09, 2022",354.9,14497.372,354.9
+Furniture,"Thursday, March 10, 2022",176.784,14674.155999999999,176.784
+Furniture,"Friday, March 11, 2022",351.262,15025.418,351.262
+Furniture,"Saturday, March 12, 2022",770.352,15795.77,770.352
+Furniture,"Sunday, March 13, 2022",1100.425,16896.195,1100.425
+Furniture,"Monday, March 14, 2022",476.736,17372.931,476.736
+Furniture,"Tuesday, March 15, 2022",1880.462,19253.393,1880.462
+Furniture,"Wednesday, March 16, 2022",,19253.393,
+Furniture,"Thursday, March 17, 2022",971.5,20224.893,971.5
+Furniture,"Friday, March 18, 2022",189.882,20414.775,189.882
+Furniture,"Saturday, March 19, 2022",107.594,20522.369000000002,107.594
+Furniture,"Sunday, March 20, 2022",783.61,21305.979000000003,783.61
+Furniture,"Monday, March 21, 2022",627.802,21933.781000000003,627.802
+Furniture,"Tuesday, March 22, 2022",167.888,22101.669,167.888
+Furniture,"Wednesday, March 23, 2022",,22101.669,
+Furniture,"Thursday, March 24, 2022",301.47,22403.139000000003,301.47
+Furniture,"Friday, March 25, 2022",,22403.139000000003,
+Furniture,"Saturday, March 26, 2022",,22403.139000000003,
+Furniture,"Sunday, March 27, 2022",60.16,22463.299000000003,60.16
+Furniture,"Monday, March 28, 2022",,22463.299000000003,
+Furniture,"Tuesday, March 29, 2022",1558.091,24021.390000000003,1558.091
+Furniture,"Wednesday, March 30, 2022",,24021.390000000003,
+Furniture,"Thursday, March 31, 2022",327.996,24349.386000000002,327.996
+Furniture,"Friday, April 01, 2022",1324.532,25673.918,1324.532
+Furniture,"Saturday, April 02, 2022",1454.9,27128.818000000003,1454.9
+Furniture,"Sunday, April 03, 2022",71.12,27199.938000000002,71.12
+Furniture,"Monday, April 04, 2022",82.64,27282.578,82.64
+Furniture,"Tuesday, April 05, 2022",,27282.578,
+Furniture,"Wednesday, April 06, 2022",,27282.578,
+Furniture,"Thursday, April 07, 2022",658.746,27941.324,658.746
+Furniture,"Friday, April 08, 2022",1024.208,28965.532,1024.208
+Furniture,"Saturday, April 09, 2022",556.665,29522.197,556.665
+Furniture,"Sunday, April 10, 2022",,29522.197,
+Furniture,"Monday, April 11, 2022",,29522.197,
+Furniture,"Tuesday, April 12, 2022",1176.56,30698.757,1176.56
+Furniture,"Wednesday, April 13, 2022",,30698.757,
+Furniture,"Thursday, April 14, 2022",1317.336,32016.093,1317.336
+Furniture,"Friday, April 15, 2022",1121.568,33137.661,1121.568
+Furniture,"Saturday, April 16, 2022",9.96,33147.621,9.96
+Furniture,"Sunday, April 17, 2022",355.243,33502.864,355.243
+Furniture,"Monday, April 18, 2022",472.252,33975.116,472.252
+Furniture,"Tuesday, April 19, 2022",205.176,34180.292,205.176
+Furniture,"Wednesday, April 20, 2022",,34180.292,
+Furniture,"Thursday, April 21, 2022",,34180.292,
+Furniture,"Friday, April 22, 2022",1414.37,35594.662000000004,1414.37
+Furniture,"Saturday, April 23, 2022",,35594.662000000004,
+Furniture,"Sunday, April 24, 2022",1325.76,36920.422000000006,1325.76
+Furniture,"Monday, April 25, 2022",,36920.422000000006,
+Furniture,"Tuesday, April 26, 2022",434.646,37355.06800000001,434.646
+Furniture,"Wednesday, April 27, 2022",,37355.06800000001,
+Furniture,"Thursday, April 28, 2022",71.912,37426.98,71.912
+Furniture,"Friday, April 29, 2022",,37426.98,
+Furniture,"Saturday, April 30, 2022",134.496,37561.476,134.496
+Furniture,"Sunday, May 01, 2022",370.62,37932.096000000005,370.62
+Furniture,"Monday, May 02, 2022",781.06,38713.156,781.06
+Furniture,"Tuesday, May 03, 2022",51.968,38765.124,51.968
+Furniture,"Wednesday, May 04, 2022",,38765.124,
+Furniture,"Thursday, May 05, 2022",2072.464,40837.588,2072.464
+Furniture,"Friday, May 06, 2022",96.312,40933.9,96.312
+Furniture,"Saturday, May 07, 2022",506.444,41440.344000000005,506.444
+Furniture,"Sunday, May 08, 2022",211.96,41652.304000000004,211.96
+Furniture,"Monday, May 09, 2022",,41652.304000000004,
+Furniture,"Tuesday, May 10, 2022",,41652.304000000004,
+Furniture,"Wednesday, May 11, 2022",,41652.304000000004,
+Furniture,"Thursday, May 12, 2022",10.02,41662.324,10.02
+Furniture,"Friday, May 13, 2022",,41662.324,
+Furniture,"Saturday, May 14, 2022",109.576,41771.9,109.576
+Furniture,"Sunday, May 15, 2022",,41771.9,
+Furniture,"Monday, May 16, 2022",282.84,42054.74,282.84
+Furniture,"Tuesday, May 17, 2022",195.848,42250.587999999996,195.848
+Furniture,"Wednesday, May 18, 2022",,42250.587999999996,
+Furniture,"Thursday, May 19, 2022",717.64,42968.227999999996,717.64
+Furniture,"Friday, May 20, 2022",1049.2,44017.42799999999,1049.2
+Furniture,"Saturday, May 21, 2022",,44017.42799999999,
+Furniture,"Sunday, May 22, 2022",174.286,44191.71399999999,174.286
+Furniture,"Monday, May 23, 2022",37.05,44228.763999999996,37.05
+Furniture,"Tuesday, May 24, 2022",,44228.763999999996,
+Furniture,"Wednesday, May 25, 2022",24.96,44253.723999999995,24.96
+Furniture,"Thursday, May 26, 2022",941.444,45195.168,941.444
+Furniture,"Friday, May 27, 2022",3535.66,48730.827999999994,3535.66
+Furniture,"Saturday, May 28, 2022",390.272,49121.09999999999,390.272
+Furniture,"Sunday, May 29, 2022",44.76,49165.85999999999,44.76
+Furniture,"Monday, May 30, 2022",3292.308,52458.16799999999,3292.308
+Furniture,"Tuesday, May 31, 2022",223.143,52681.31099999999,223.143
+Furniture,"Wednesday, June 01, 2022",,52681.31099999999,
+Furniture,"Thursday, June 02, 2022",,52681.31099999999,
+Furniture,"Friday, June 03, 2022",71.088,52752.39899999999,71.088
+Furniture,"Saturday, June 04, 2022",810.541,53562.93999999999,810.541
+Furniture,"Sunday, June 05, 2022",,53562.93999999999,
+Furniture,"Monday, June 06, 2022",548.96,54111.89999999999,548.96
+Furniture,"Tuesday, June 07, 2022",,54111.89999999999,
+Furniture,"Wednesday, June 08, 2022",,54111.89999999999,
+Furniture,"Thursday, June 09, 2022",815.292,54927.19199999999,815.292
+Furniture,"Friday, June 10, 2022",1335.68,56262.87199999999,1335.68
+Furniture,"Saturday, June 11, 2022",915.256,57178.12799999999,915.256
+Furniture,"Sunday, June 12, 2022",433.396,57611.52399999999,433.396
+Furniture,"Monday, June 13, 2022",,57611.52399999999,
+Furniture,"Tuesday, June 14, 2022",3353.729,60965.25299999999,3353.729
+Furniture,"Wednesday, June 15, 2022",,60965.25299999999,
+Furniture,"Thursday, June 16, 2022",,60965.25299999999,
+Furniture,"Friday, June 17, 2022",1685.43,62650.68299999999,1685.43
+Furniture,"Saturday, June 18, 2022",,62650.68299999999,
+Furniture,"Sunday, June 19, 2022",,62650.68299999999,
+Furniture,"Monday, June 20, 2022",219.258,62869.94099999999,219.258
+Furniture,"Tuesday, June 21, 2022",353.568,63223.50899999999,353.568
+Furniture,"Wednesday, June 22, 2022",,63223.50899999999,
+Furniture,"Thursday, June 23, 2022",,63223.50899999999,
+Furniture,"Friday, June 24, 2022",,63223.50899999999,
+Furniture,"Saturday, June 25, 2022",540.016,63763.524999999994,540.016
+Furniture,"Sunday, June 26, 2022",59.88,63823.40499999999,59.88
+Furniture,"Monday, June 27, 2022",539.658,64363.062999999995,539.658
+Furniture,"Tuesday, June 28, 2022",121.96,64485.022999999994,121.96
+Furniture,"Wednesday, June 29, 2022",,64485.022999999994,
+Furniture,"Thursday, June 30, 2022",1266.86,65751.88299999999,1266.86
+Furniture,"Friday, July 01, 2022",,65751.88299999999,
+Furniture,"Saturday, July 02, 2022",723.614,66475.49699999999,723.614
+Furniture,"Sunday, July 03, 2022",,66475.49699999999,
+Furniture,"Monday, July 04, 2022",1329.965,67805.46199999998,1329.965
+Furniture,"Tuesday, July 05, 2022",,67805.46199999998,
+Furniture,"Wednesday, July 06, 2022",,67805.46199999998,
+Furniture,"Thursday, July 07, 2022",817.278,68622.73999999999,817.278
+Furniture,"Friday, July 08, 2022",662.88,69285.62,662.88
+Furniture,"Saturday, July 09, 2022",573.286,69858.90599999999,573.286
+Furniture,"Sunday, July 10, 2022",,69858.90599999999,
+Furniture,"Monday, July 11, 2022",,69858.90599999999,
+Furniture,"Tuesday, July 12, 2022",,69858.90599999999,
+Furniture,"Wednesday, July 13, 2022",,69858.90599999999,
+Furniture,"Thursday, July 14, 2022",661.686,70520.59199999999,661.686
+Furniture,"Friday, July 15, 2022",230.28,70750.87199999999,230.28
+Furniture,"Saturday, July 16, 2022",9.552,70760.42399999998,9.552
+Furniture,"Sunday, July 17, 2022",37.17,70797.59399999998,37.17
+Furniture,"Monday, July 18, 2022",1539.17,72336.76399999998,1539.17
+Furniture,"Tuesday, July 19, 2022",690.48,73027.24399999998,690.48
+Furniture,"Wednesday, July 20, 2022",,73027.24399999998,
+Furniture,"Thursday, July 21, 2022",363.92,73391.16399999998,363.92
+Furniture,"Friday, July 22, 2022",39.068,73430.23199999997,39.068
+Furniture,"Saturday, July 23, 2022",,73430.23199999997,
+Furniture,"Sunday, July 24, 2022",253.764,73683.99599999997,253.764
+Furniture,"Monday, July 25, 2022",3495.468,77179.46399999996,3495.468
+Furniture,"Tuesday, July 26, 2022",,77179.46399999996,
+Furniture,"Wednesday, July 27, 2022",,77179.46399999996,
+Furniture,"Thursday, July 28, 2022",504.87,77684.33399999996,504.87
+Furniture,"Friday, July 29, 2022",,77684.33399999996,
+Furniture,"Saturday, July 30, 2022",,77684.33399999996,
+Furniture,"Sunday, July 31, 2022",1136.068,78820.40199999996,1136.068
+Furniture,"Monday, August 01, 2022",19.312,78839.71399999996,19.312
+Furniture,"Tuesday, August 02, 2022",136.464,78976.17799999997,136.464
+Furniture,"Wednesday, August 03, 2022",,78976.17799999997,
+Furniture,"Thursday, August 04, 2022",109.8,79085.97799999997,109.8
+Furniture,"Friday, August 05, 2022",,79085.97799999997,
+Furniture,"Saturday, August 06, 2022",,79085.97799999997,
+Furniture,"Sunday, August 07, 2022",,79085.97799999997,
+Furniture,"Monday, August 08, 2022",513.024,79599.00199999998,513.024
+Furniture,"Tuesday, August 09, 2022",,79599.00199999998,
+Furniture,"Wednesday, August 10, 2022",,79599.00199999998,
+Furniture,"Thursday, August 11, 2022",,79599.00199999998,
+Furniture,"Friday, August 12, 2022",917.2045,80516.20649999999,917.2045
+Furniture,"Saturday, August 13, 2022",241.96,80758.16649999999,241.96
+Furniture,"Sunday, August 14, 2022",,80758.16649999999,
+Furniture,"Monday, August 15, 2022",537.326,81295.4925,537.326
+Furniture,"Tuesday, August 16, 2022",161.28,81456.77249999999,161.28
+Furniture,"Wednesday, August 17, 2022",,81456.77249999999,
+Furniture,"Thursday, August 18, 2022",14.896,81471.66849999999,14.896
+Furniture,"Friday, August 19, 2022",,81471.66849999999,
+Furniture,"Saturday, August 20, 2022",,81471.66849999999,
+Furniture,"Sunday, August 21, 2022",4275.522,85747.19049999998,4275.522
+Furniture,"Monday, August 22, 2022",98.328,85845.51849999998,98.328
+Furniture,"Tuesday, August 23, 2022",555.312,86400.83049999998,555.312
+Furniture,"Wednesday, August 24, 2022",,86400.83049999998,
+Furniture,"Thursday, August 25, 2022",,86400.83049999998,
+Furniture,"Friday, August 26, 2022",3262.232,89663.06249999999,3262.232
+Furniture,"Saturday, August 27, 2022",244.615,89907.67749999999,244.615
+Furniture,"Sunday, August 28, 2022",156.3728,90064.05029999999,156.3728
+Furniture,"Monday, August 29, 2022",405.8,90469.85029999999,405.8
+Furniture,"Tuesday, August 30, 2022",833.784,91303.63429999999,833.784
+Furniture,"Wednesday, August 31, 2022",,91303.63429999999,
+Furniture,"Thursday, September 01, 2022",191.82,91495.4543,191.82
+Furniture,"Friday, September 02, 2022",1476.154,92971.60829999999,1476.154
+Furniture,"Saturday, September 03, 2022",642.396,93614.00429999999,642.396
+Furniture,"Sunday, September 04, 2022",130.81,93744.81429999998,130.81
+Furniture,"Monday, September 05, 2022",3461.917,97206.73129999998,3461.917
+Furniture,"Tuesday, September 06, 2022",722.352,97929.08329999998,722.352
+Furniture,"Wednesday, September 07, 2022",,97929.08329999998,
+Furniture,"Thursday, September 08, 2022",3374.9816,101304.06489999998,3374.9816
+Furniture,"Friday, September 09, 2022",15.008,101319.07289999998,15.008
+Furniture,"Saturday, September 10, 2022",300.93,101620.00289999998,300.93
+Furniture,"Sunday, September 11, 2022",,101620.00289999998,
+Furniture,"Monday, September 12, 2022",1679.872,103299.87489999998,1679.872
+Furniture,"Tuesday, September 13, 2022",1336.44,104636.31489999998,1336.44
+Furniture,"Wednesday, September 14, 2022",,104636.31489999998,
+Furniture,"Thursday, September 15, 2022",1128.39,105764.70489999998,1128.39
+Furniture,"Friday, September 16, 2022",395.446,106160.15089999998,395.446
+Furniture,"Saturday, September 17, 2022",430.008,106590.15889999998,430.008
+Furniture,"Sunday, September 18, 2022",3218.74,109808.89889999999,3218.74
+Furniture,"Monday, September 19, 2022",1599.324,111408.22289999998,1599.324
+Furniture,"Tuesday, September 20, 2022",279.36,111687.58289999998,279.36
+Furniture,"Wednesday, September 21, 2022",,111687.58289999998,
+Furniture,"Thursday, September 22, 2022",100.672,111788.25489999999,100.672
+Furniture,"Friday, September 23, 2022",1114.426,112902.68089999999,1114.426
+Furniture,"Saturday, September 24, 2022",931.202,113833.8829,931.202
+Furniture,"Sunday, September 25, 2022",1624.567,115458.44989999999,1624.567
+Furniture,"Monday, September 26, 2022",1627.4805,117085.9304,1627.4805
+Furniture,"Tuesday, September 27, 2022",956.6648,118042.5952,956.6648
+Furniture,"Wednesday, September 28, 2022",,118042.5952,
+Furniture,"Thursday, September 29, 2022",,118042.5952,
+Furniture,"Friday, September 30, 2022",523.92,118566.5152,523.92
+Furniture,"Saturday, October 01, 2022",567.286,119133.80119999999,567.286
+Furniture,"Sunday, October 02, 2022",,119133.80119999999,
+Furniture,"Monday, October 03, 2022",1552.508,120686.30919999999,1552.508
+Furniture,"Tuesday, October 04, 2022",250.94,120937.24919999999,250.94
+Furniture,"Wednesday, October 05, 2022",,120937.24919999999,
+Furniture,"Thursday, October 06, 2022",,120937.24919999999,
+Furniture,"Friday, October 07, 2022",,120937.24919999999,
+Furniture,"Saturday, October 08, 2022",51.712,120988.96119999999,51.712
+Furniture,"Sunday, October 09, 2022",502.4,121491.36119999998,502.4
+Furniture,"Monday, October 10, 2022",225.666,121717.02719999998,225.666
+Furniture,"Tuesday, October 11, 2022",,121717.02719999998,
+Furniture,"Wednesday, October 12, 2022",,121717.02719999998,
+Furniture,"Thursday, October 13, 2022",1017.71,122734.73719999999,1017.71
+Furniture,"Friday, October 14, 2022",102.592,122837.3292,102.592
+Furniture,"Saturday, October 15, 2022",,122837.3292,
+Furniture,"Sunday, October 16, 2022",142.182,122979.5112,142.182
+Furniture,"Monday, October 17, 2022",241.646,123221.15719999999,241.646
+Furniture,"Tuesday, October 18, 2022",307.92,123529.07719999999,307.92
+Furniture,"Wednesday, October 19, 2022",,123529.07719999999,
+Furniture,"Thursday, October 20, 2022",504.922,124033.99919999999,504.922
+Furniture,"Friday, October 21, 2022",2012.76,126046.75919999999,2012.76
+Furniture,"Saturday, October 22, 2022",173.26,126220.01919999998,173.26
+Furniture,"Sunday, October 23, 2022",16.156,126236.17519999998,16.156
+Furniture,"Monday, October 24, 2022",,126236.17519999998,
+Furniture,"Tuesday, October 25, 2022",,126236.17519999998,
+Furniture,"Wednesday, October 26, 2022",,126236.17519999998,
+Furniture,"Thursday, October 27, 2022",758.824,126994.99919999998,758.824
+Furniture,"Friday, October 28, 2022",1111.368,128106.36719999998,1111.368
+Furniture,"Saturday, October 29, 2022",67,128173.36719999998,67
+Furniture,"Sunday, October 30, 2022",,128173.36719999998,
+Furniture,"Monday, October 31, 2022",2265.725,130439.09219999998,2265.725
+Furniture,"Tuesday, November 01, 2022",,130439.09219999998,
+Furniture,"Wednesday, November 02, 2022",,130439.09219999998,
+Furniture,"Thursday, November 03, 2022",1554.779,131993.8712,1554.779
+Furniture,"Friday, November 04, 2022",2007.59,134001.4612,2007.59
+Furniture,"Saturday, November 05, 2022",2964.4408,136965.902,2964.4408
+Furniture,"Sunday, November 06, 2022",563.536,137529.438,563.536
+Furniture,"Monday, November 07, 2022",1662.416,139191.854,1662.416
+Furniture,"Tuesday, November 08, 2022",993.9,140185.754,993.9
+Furniture,"Wednesday, November 09, 2022",,140185.754,
+Furniture,"Thursday, November 10, 2022",1004.988,141190.742,1004.988
+Furniture,"Friday, November 11, 2022",3472.65,144663.392,3472.65
+Furniture,"Saturday, November 12, 2022",4158.352,148821.744,4158.352
+Furniture,"Sunday, November 13, 2022",54.08,148875.824,54.08
+Furniture,"Monday, November 14, 2022",856.56,149732.384,856.56
+Furniture,"Tuesday, November 15, 2022",630.024,150362.408,630.024
+Furniture,"Wednesday, November 16, 2022",,150362.408,
+Furniture,"Thursday, November 17, 2022",,150362.408,
+Furniture,"Friday, November 18, 2022",557.068,150919.476,557.068
+Furniture,"Saturday, November 19, 2022",34.288,150953.764,34.288
+Furniture,"Sunday, November 20, 2022",702.036,151655.8,702.036
+Furniture,"Monday, November 21, 2022",514.21,152170.00999999998,514.21
+Furniture,"Tuesday, November 22, 2022",39.88,152209.88999999998,39.88
+Furniture,"Wednesday, November 23, 2022",84.816,152294.70599999998,84.816
+Furniture,"Thursday, November 24, 2022",2324.632,154619.338,2324.632
+Furniture,"Friday, November 25, 2022",1762.962,156382.3,1762.962
+Furniture,"Saturday, November 26, 2022",4315.22,160697.52,4315.22
+Furniture,"Sunday, November 27, 2022",362.583,161060.103,362.583
+Furniture,"Monday, November 28, 2022",530.472,161590.575,530.472
+Furniture,"Tuesday, November 29, 2022",242.176,161832.75100000002,242.176
+Furniture,"Wednesday, November 30, 2022",389.97,162222.72100000002,389.97
+Furniture,"Thursday, December 01, 2022",1801.265,164023.98600000003,1801.265
+Furniture,"Friday, December 02, 2022",868.804,164892.79000000004,868.804
+Furniture,"Saturday, December 03, 2022",2140.888,167033.67800000004,2140.888
+Furniture,"Sunday, December 04, 2022",113.79,167147.46800000005,113.79
+Furniture,"Monday, December 05, 2022",2239,169386.46800000005,2239
+Furniture,"Tuesday, December 06, 2022",,169386.46800000005,
+Furniture,"Wednesday, December 07, 2022",,169386.46800000005,
+Furniture,"Thursday, December 08, 2022",2698.454,172084.92200000005,2698.454
+Furniture,"Friday, December 09, 2022",1136.834,173221.75600000005,1136.834
+Furniture,"Saturday, December 10, 2022",1746.468,174968.22400000005,1746.468
+Furniture,"Sunday, December 11, 2022",2461.796,177430.02000000005,2461.796
+Furniture,"Monday, December 12, 2022",477.47,177907.49000000005,477.47
+Furniture,"Tuesday, December 13, 2022",1114.272,179021.76200000005,1114.272
+Furniture,"Wednesday, December 14, 2022",611.724,179633.48600000003,611.724
+Furniture,"Thursday, December 15, 2022",2231.895,181865.38100000002,2231.895
+Furniture,"Friday, December 16, 2022",563.92,182429.30100000004,563.92
+Furniture,"Saturday, December 17, 2022",2003.52,184432.82100000003,2003.52
+Furniture,"Sunday, December 18, 2022",1183.99,185616.81100000002,1183.99
+Furniture,"Monday, December 19, 2022",759.89,186376.70100000003,759.89
+Furniture,"Tuesday, December 20, 2022",18.92,186395.62100000004,18.92
+Furniture,"Wednesday, December 21, 2022",,186395.62100000004,
+Furniture,"Thursday, December 22, 2022",919.304,187314.92500000005,919.304
+Furniture,"Friday, December 23, 2022",1002.84,188317.76500000004,1002.84
+Furniture,"Saturday, December 24, 2022",843.52,189161.28500000003,843.52
+Furniture,"Sunday, December 25, 2022",6636.863,195798.14800000004,6636.863
+Furniture,"Monday, December 26, 2022",1262.004,197060.15200000003,1262.004
+Furniture,"Tuesday, December 27, 2022",845.488,197905.64000000004,845.488
+Furniture,"Wednesday, December 28, 2022",,197905.64000000004,
+Furniture,"Thursday, December 29, 2022",825.01,198730.65000000005,825.01
+Furniture,"Friday, December 30, 2022",170.786,198901.43600000005,170.786
+Furniture,"Saturday, December 31, 2022",,198901.43600000005,
+Furniture,"Sunday, January 01, 2023",975.49,975.49,975.49
+Furniture,"Monday, January 02, 2023",913.43,1888.92,913.43
+Furniture,"Tuesday, January 03, 2023",,1888.92,
+Furniture,"Wednesday, January 04, 2023",,1888.92,
+Furniture,"Thursday, January 05, 2023",,1888.92,
+Furniture,"Friday, January 06, 2023",,1888.92,
+Furniture,"Saturday, January 07, 2023",,1888.92,
+Furniture,"Sunday, January 08, 2023",892.98,2781.9,892.98
+Furniture,"Monday, January 09, 2023",,2781.9,
+Furniture,"Tuesday, January 10, 2023",,2781.9,
+Furniture,"Wednesday, January 11, 2023",,2781.9,
+Furniture,"Thursday, January 12, 2023",37.68,2819.58,37.68
+Furniture,"Friday, January 13, 2023",212.94,3032.52,212.94
+Furniture,"Saturday, January 14, 2023",18.96,3051.48,18.96
+Furniture,"Sunday, January 15, 2023",,3051.48,
+Furniture,"Monday, January 16, 2023",730.262,3781.742,730.262
+Furniture,"Tuesday, January 17, 2023",,3781.742,
+Furniture,"Wednesday, January 18, 2023",,3781.742,
+Furniture,"Thursday, January 19, 2023",919.239,4700.981,919.239
+Furniture,"Friday, January 20, 2023",207.846,4908.826999999999,207.846
+Furniture,"Saturday, January 21, 2023",84.98,4993.806999999999,84.98
+Furniture,"Sunday, January 22, 2023",,4993.806999999999,
+Furniture,"Monday, January 23, 2023",210.98,5204.786999999998,210.98
+Furniture,"Tuesday, January 24, 2023",,5204.786999999998,
+Furniture,"Wednesday, January 25, 2023",,5204.786999999998,
+Furniture,"Thursday, January 26, 2023",62.72,5267.506999999999,62.72
+Furniture,"Friday, January 27, 2023",,5267.506999999999,
+Furniture,"Saturday, January 28, 2023",37.74,5305.2469999999985,37.74
+Furniture,"Sunday, January 29, 2023",14.91,5320.156999999998,14.91
+Furniture,"Monday, January 30, 2023",643.875,5964.031999999998,643.875
+Furniture,"Tuesday, January 31, 2023",,5964.031999999998,
+Furniture,"Wednesday, February 01, 2023",,5964.031999999998,
+Furniture,"Thursday, February 02, 2023",296.84,6260.8719999999985,296.84
+Furniture,"Friday, February 03, 2023",22.2,6283.071999999998,22.2
+Furniture,"Saturday, February 04, 2023",,6283.071999999998,
+Furniture,"Sunday, February 05, 2023",,6283.071999999998,
+Furniture,"Monday, February 06, 2023",600.754,6883.825999999998,600.754
+Furniture,"Tuesday, February 07, 2023",,6883.825999999998,
+Furniture,"Wednesday, February 08, 2023",,6883.825999999998,
+Furniture,"Thursday, February 09, 2023",25.104,6908.9299999999985,25.104
+Furniture,"Friday, February 10, 2023",203.983,7112.912999999999,203.983
+Furniture,"Saturday, February 11, 2023",1110.704,8223.616999999998,1110.704
+Furniture,"Sunday, February 12, 2023",,8223.616999999998,
+Furniture,"Monday, February 13, 2023",107.53,8331.146999999999,107.53
+Furniture,"Tuesday, February 14, 2023",,8331.146999999999,
+Furniture,"Wednesday, February 15, 2023",,8331.146999999999,
+Furniture,"Thursday, February 16, 2023",608.25,8939.396999999999,608.25
+Furniture,"Friday, February 17, 2023",1955.5704,10894.9674,1955.5704
+Furniture,"Saturday, February 18, 2023",,10894.9674,
+Furniture,"Sunday, February 19, 2023",44.67,10939.6374,44.67
+Furniture,"Monday, February 20, 2023",477.844,11417.481399999999,477.844
+Furniture,"Tuesday, February 21, 2023",,11417.481399999999,
+Furniture,"Wednesday, February 22, 2023",,11417.481399999999,
+Furniture,"Thursday, February 23, 2023",,11417.481399999999,
+Furniture,"Friday, February 24, 2023",,11417.481399999999,
+Furniture,"Saturday, February 25, 2023",428.704,11846.185399999998,428.704
+Furniture,"Sunday, February 26, 2023",984.184,12830.369399999998,984.184
+Furniture,"Monday, February 27, 2023",,12830.369399999998,
+Furniture,"Tuesday, February 28, 2023",,12830.369399999998,
+Furniture,"Wednesday, March 01, 2023",,12830.369399999998,
+Furniture,"Thursday, March 02, 2023",441.96,13272.329399999997,441.96
+Furniture,"Friday, March 03, 2023",751.004,14023.333399999998,751.004
+Furniture,"Saturday, March 04, 2023",103.5,14126.833399999998,103.5
+Furniture,"Sunday, March 05, 2023",,14126.833399999998,
+Furniture,"Monday, March 06, 2023",71.97,14198.803399999997,71.97
+Furniture,"Tuesday, March 07, 2023",,14198.803399999997,
+Furniture,"Wednesday, March 08, 2023",,14198.803399999997,
+Furniture,"Thursday, March 09, 2023",,14198.803399999997,
+Furniture,"Friday, March 10, 2023",983.976,15182.779399999998,983.976
+Furniture,"Saturday, March 11, 2023",181.484,15364.263399999998,181.484
+Furniture,"Sunday, March 12, 2023",,15364.263399999998,
+Furniture,"Monday, March 13, 2023",89.768,15454.031399999998,89.768
+Furniture,"Tuesday, March 14, 2023",,15454.031399999998,
+Furniture,"Wednesday, March 15, 2023",,15454.031399999998,
+Furniture,"Thursday, March 16, 2023",51.264,15505.295399999997,51.264
+Furniture,"Friday, March 17, 2023",,15505.295399999997,
+Furniture,"Saturday, March 18, 2023",82.524,15587.819399999997,82.524
+Furniture,"Sunday, March 19, 2023",728.09,16315.909399999997,728.09
+Furniture,"Monday, March 20, 2023",2.91,16318.819399999997,2.91
+Furniture,"Tuesday, March 21, 2023",1828.02,18146.839399999997,1828.02
+Furniture,"Wednesday, March 22, 2023",,18146.839399999997,
+Furniture,"Thursday, March 23, 2023",211.84,18358.679399999997,211.84
+Furniture,"Friday, March 24, 2023",479.61,18838.289399999998,479.61
+Furniture,"Saturday, March 25, 2023",1986.52,20824.8094,1986.52
+Furniture,"Sunday, March 26, 2023",318.408,21143.217399999998,318.408
+Furniture,"Monday, March 27, 2023",2142.244,23285.461399999997,2142.244
+Furniture,"Tuesday, March 28, 2023",48.04,23333.501399999997,48.04
+Furniture,"Wednesday, March 29, 2023",,23333.501399999997,
+Furniture,"Thursday, March 30, 2023",94.2,23427.701399999998,94.2
+Furniture,"Friday, March 31, 2023",296.1128,23723.814199999997,296.1128
+Furniture,"Saturday, April 01, 2023",828.966,24552.780199999997,828.966
+Furniture,"Sunday, April 02, 2023",436.91,24989.690199999997,436.91
+Furniture,"Monday, April 03, 2023",25.472,25015.1622,25.472
+Furniture,"Tuesday, April 04, 2023",,25015.1622,
+Furniture,"Wednesday, April 05, 2023",,25015.1622,
+Furniture,"Thursday, April 06, 2023",,25015.1622,
+Furniture,"Friday, April 07, 2023",1112.5465,26127.7087,1112.5465
+Furniture,"Saturday, April 08, 2023",637.14,26764.8487,637.14
+Furniture,"Sunday, April 09, 2023",,26764.8487,
+Furniture,"Monday, April 10, 2023",48.992,26813.840699999997,48.992
+Furniture,"Tuesday, April 11, 2023",,26813.840699999997,
+Furniture,"Wednesday, April 12, 2023",,26813.840699999997,
+Furniture,"Thursday, April 13, 2023",436.704,27250.5447,436.704
+Furniture,"Friday, April 14, 2023",515.074,27765.6187,515.074
+Furniture,"Saturday, April 15, 2023",196.45,27962.0687,196.45
+Furniture,"Sunday, April 16, 2023",102.833,28064.9017,102.833
+Furniture,"Monday, April 17, 2023",278.664,28343.5657,278.664
+Furniture,"Tuesday, April 18, 2023",,28343.5657,
+Furniture,"Wednesday, April 19, 2023",,28343.5657,
+Furniture,"Thursday, April 20, 2023",470.394,28813.9597,470.394
+Furniture,"Friday, April 21, 2023",1071.42,29885.379699999998,1071.42
+Furniture,"Saturday, April 22, 2023",272.632,30158.0117,272.632
+Furniture,"Sunday, April 23, 2023",567.252,30725.2637,567.252
+Furniture,"Monday, April 24, 2023",,30725.2637,
+Furniture,"Tuesday, April 25, 2023",344.981,31070.2447,344.981
+Furniture,"Wednesday, April 26, 2023",1.988,31072.2327,1.988
+Furniture,"Thursday, April 27, 2023",359.8456,31432.0783,359.8456
+Furniture,"Friday, April 28, 2023",,31432.0783,
+Furniture,"Saturday, April 29, 2023",1048.35,32480.4283,1048.35
+Furniture,"Sunday, April 30, 2023",309.344,32789.7723,309.344
+Furniture,"Monday, May 01, 2023",4051.534,36841.3063,4051.534
+Furniture,"Tuesday, May 02, 2023",129.93,36971.2363,129.93
+Furniture,"Wednesday, May 03, 2023",405.918,37377.154299999995,405.918
+Furniture,"Thursday, May 04, 2023",300.904,37678.0583,300.904
+Furniture,"Friday, May 05, 2023",89.991,37768.0493,89.991
+Furniture,"Saturday, May 06, 2023",623.4648,38391.5141,623.4648
+Furniture,"Sunday, May 07, 2023",1962.09,40353.6041,1962.09
+Furniture,"Monday, May 08, 2023",176.05,40529.6541,176.05
+Furniture,"Tuesday, May 09, 2023",493.85,41023.5041,493.85
+Furniture,"Wednesday, May 10, 2023",,41023.5041,
+Furniture,"Thursday, May 11, 2023",217.975,41241.4791,217.975
+Furniture,"Friday, May 12, 2023",328.33,41569.8091,328.33
+Furniture,"Saturday, May 13, 2023",458.43,42028.2391,458.43
+Furniture,"Sunday, May 14, 2023",1179.67,43207.9091,1179.67
+Furniture,"Monday, May 15, 2023",303.544,43511.4531,303.544
+Furniture,"Tuesday, May 16, 2023",,43511.4531,
+Furniture,"Wednesday, May 17, 2023",,43511.4531,
+Furniture,"Thursday, May 18, 2023",342,43853.4531,342
+Furniture,"Friday, May 19, 2023",2624.58,46478.0331,2624.58
+Furniture,"Saturday, May 20, 2023",525.252,47003.2851,525.252
+Furniture,"Sunday, May 21, 2023",520.05,47523.335100000004,520.05
+Furniture,"Monday, May 22, 2023",181.986,47705.3211,181.986
+Furniture,"Tuesday, May 23, 2023",171.288,47876.6091,171.288
+Furniture,"Wednesday, May 24, 2023",,47876.6091,
+Furniture,"Thursday, May 25, 2023",18.84,47895.4491,18.84
+Furniture,"Friday, May 26, 2023",,47895.4491,
+Furniture,"Saturday, May 27, 2023",512.3,48407.7491,512.3
+Furniture,"Sunday, May 28, 2023",799.689,49207.4381,799.689
+Furniture,"Monday, May 29, 2023",71.664,49279.1021,71.664
+Furniture,"Tuesday, May 30, 2023",468.2284,49747.3305,468.2284
+Furniture,"Wednesday, May 31, 2023",,49747.3305,
+Furniture,"Thursday, June 01, 2023",1925.88,51673.210499999994,1925.88
+Furniture,"Friday, June 02, 2023",,51673.210499999994,
+Furniture,"Saturday, June 03, 2023",661.504,52334.714499999995,661.504
+Furniture,"Sunday, June 04, 2023",62.32,52397.034499999994,62.32
+Furniture,"Monday, June 05, 2023",,52397.034499999994,
+Furniture,"Tuesday, June 06, 2023",4.95,52401.98449999999,4.95
+Furniture,"Wednesday, June 07, 2023",,52401.98449999999,
+Furniture,"Thursday, June 08, 2023",1497.666,53899.65049999999,1497.666
+Furniture,"Friday, June 09, 2023",132.901,54032.55149999999,132.901
+Furniture,"Saturday, June 10, 2023",514.165,54546.71649999999,514.165
+Furniture,"Sunday, June 11, 2023",455.212,55001.92849999999,455.212
+Furniture,"Monday, June 12, 2023",1337.124,56339.05249999999,1337.124
+Furniture,"Tuesday, June 13, 2023",761.438,57100.49049999999,761.438
+Furniture,"Wednesday, June 14, 2023",,57100.49049999999,
+Furniture,"Thursday, June 15, 2023",928.208,58028.69849999999,928.208
+Furniture,"Friday, June 16, 2023",1514.92,59543.61849999999,1514.92
+Furniture,"Saturday, June 17, 2023",155.25,59698.86849999999,155.25
+Furniture,"Sunday, June 18, 2023",917.9235,60616.79199999999,917.9235
+Furniture,"Monday, June 19, 2023",1306.705,61923.49699999999,1306.705
+Furniture,"Tuesday, June 20, 2023",,61923.49699999999,
+Furniture,"Wednesday, June 21, 2023",17.92,61941.41699999999,17.92
+Furniture,"Thursday, June 22, 2023",487.96,62429.376999999986,487.96
+Furniture,"Friday, June 23, 2023",,62429.376999999986,
+Furniture,"Saturday, June 24, 2023",449.454,62878.830999999984,449.454
+Furniture,"Sunday, June 25, 2023",1272.184,64151.014999999985,1272.184
+Furniture,"Monday, June 26, 2023",800.002,64951.016999999985,800.002
+Furniture,"Tuesday, June 27, 2023",317.946,65268.96299999999,317.946
+Furniture,"Wednesday, June 28, 2023",,65268.96299999999,
+Furniture,"Thursday, June 29, 2023",1381.2932,66650.25619999999,1381.2932
+Furniture,"Friday, June 30, 2023",2105.661,68755.9172,2105.661
+Furniture,"Saturday, July 01, 2023",,68755.9172,
+Furniture,"Sunday, July 02, 2023",,68755.9172,
+Furniture,"Monday, July 03, 2023",1016.678,69772.5952,1016.678
+Furniture,"Tuesday, July 04, 2023",,69772.5952,
+Furniture,"Wednesday, July 05, 2023",332.028,70104.6232,332.028
+Furniture,"Thursday, July 06, 2023",361.376,70465.9992,361.376
+Furniture,"Friday, July 07, 2023",87.21,70553.20920000001,87.21
+Furniture,"Saturday, July 08, 2023",484.1,71037.30920000002,484.1
+Furniture,"Sunday, July 09, 2023",526.45,71563.75920000001,526.45
+Furniture,"Monday, July 10, 2023",18.84,71582.59920000001,18.84
+Furniture,"Tuesday, July 11, 2023",,71582.59920000001,
+Furniture,"Wednesday, July 12, 2023",,71582.59920000001,
+Furniture,"Thursday, July 13, 2023",91.008,71673.60720000001,91.008
+Furniture,"Friday, July 14, 2023",692.45,72366.05720000001,692.45
+Furniture,"Saturday, July 15, 2023",1847.529,74213.5862,1847.529
+Furniture,"Sunday, July 16, 2023",313.724,74527.3102,313.724
+Furniture,"Monday, July 17, 2023",1241.149,75768.45920000001,1241.149
+Furniture,"Tuesday, July 18, 2023",1473.888,77242.34720000002,1473.888
+Furniture,"Wednesday, July 19, 2023",,77242.34720000002,
+Furniture,"Thursday, July 20, 2023",539.416,77781.76320000002,539.416
+Furniture,"Friday, July 21, 2023",661.44,78443.20320000002,661.44
+Furniture,"Saturday, July 22, 2023",526.344,78969.54720000002,526.344
+Furniture,"Sunday, July 23, 2023",,78969.54720000002,
+Furniture,"Monday, July 24, 2023",,78969.54720000002,
+Furniture,"Tuesday, July 25, 2023",456.8,79426.34720000002,456.8
+Furniture,"Wednesday, July 26, 2023",362.352,79788.69920000002,362.352
+Furniture,"Thursday, July 27, 2023",324.65,80113.34920000001,324.65
+Furniture,"Friday, July 28, 2023",,80113.34920000001,
+Furniture,"Saturday, July 29, 2023",418.63,80531.97920000002,418.63
+Furniture,"Sunday, July 30, 2023",,80531.97920000002,
+Furniture,"Monday, July 31, 2023",36.96,80568.93920000002,36.96
+Furniture,"Tuesday, August 01, 2023",,80568.93920000002,
+Furniture,"Wednesday, August 02, 2023",,80568.93920000002,
+Furniture,"Thursday, August 03, 2023",307.332,80876.27120000002,307.332
+Furniture,"Friday, August 04, 2023",,80876.27120000002,
+Furniture,"Saturday, August 05, 2023",,80876.27120000002,
+Furniture,"Sunday, August 06, 2023",161.14,81037.41120000002,161.14
+Furniture,"Monday, August 07, 2023",258.934,81296.34520000001,258.934
+Furniture,"Tuesday, August 08, 2023",,81296.34520000001,
+Furniture,"Wednesday, August 09, 2023",,81296.34520000001,
+Furniture,"Thursday, August 10, 2023",121.3,81417.64520000001,121.3
+Furniture,"Friday, August 11, 2023",,81417.64520000001,
+Furniture,"Saturday, August 12, 2023",1834.82,83252.46520000002,1834.82
+Furniture,"Sunday, August 13, 2023",455.632,83708.09720000002,455.632
+Furniture,"Monday, August 14, 2023",418.296,84126.39320000002,418.296
+Furniture,"Tuesday, August 15, 2023",,84126.39320000002,
+Furniture,"Wednesday, August 16, 2023",,84126.39320000002,
+Furniture,"Thursday, August 17, 2023",4970.114,89096.50720000002,4970.114
+Furniture,"Friday, August 18, 2023",204.38,89300.88720000003,204.38
+Furniture,"Saturday, August 19, 2023",,89300.88720000003,
+Furniture,"Sunday, August 20, 2023",,89300.88720000003,
+Furniture,"Monday, August 21, 2023",2093.584,91394.47120000003,2093.584
+Furniture,"Tuesday, August 22, 2023",524.54,91919.01120000002,524.54
+Furniture,"Wednesday, August 23, 2023",2.784,91921.79520000002,2.784
+Furniture,"Thursday, August 24, 2023",,91921.79520000002,
+Furniture,"Friday, August 25, 2023",130.98,92052.77520000002,130.98
+Furniture,"Saturday, August 26, 2023",64.96,92117.73520000002,64.96
+Furniture,"Sunday, August 27, 2023",2037.74,94155.47520000003,2037.74
+Furniture,"Monday, August 28, 2023",1137.75,95293.22520000003,1137.75
+Furniture,"Tuesday, August 29, 2023",148.02,95441.24520000003,148.02
+Furniture,"Wednesday, August 30, 2023",,95441.24520000003,
+Furniture,"Thursday, August 31, 2023",569.568,96010.81320000003,569.568
+Furniture,"Friday, September 01, 2023",896.72,96907.53320000003,896.72
+Furniture,"Saturday, September 02, 2023",2527.552,99435.08520000003,2527.552
+Furniture,"Sunday, September 03, 2023",620.631,100055.71620000002,620.631
+Furniture,"Monday, September 04, 2023",3722.982,103778.69820000003,3722.982
+Furniture,"Tuesday, September 05, 2023",,103778.69820000003,
+Furniture,"Wednesday, September 06, 2023",,103778.69820000003,
+Furniture,"Thursday, September 07, 2023",470.688,104249.38620000002,470.688
+Furniture,"Friday, September 08, 2023",1000.239,105249.62520000002,1000.239
+Furniture,"Saturday, September 09, 2023",482.564,105732.18920000002,482.564
+Furniture,"Sunday, September 10, 2023",362.352,106094.54120000002,362.352
+Furniture,"Monday, September 11, 2023",2810.894,108905.43520000002,2810.894
+Furniture,"Tuesday, September 12, 2023",8.36,108913.79520000002,8.36
+Furniture,"Wednesday, September 13, 2023",,108913.79520000002,
+Furniture,"Thursday, September 14, 2023",830.718,109744.51320000002,830.718
+Furniture,"Friday, September 15, 2023",2612.768,112357.28120000001,2612.768
+Furniture,"Saturday, September 16, 2023",22.512,112379.79320000001,22.512
+Furniture,"Sunday, September 17, 2023",2335.29,114715.08320000001,2335.29
+Furniture,"Monday, September 18, 2023",30.14,114745.22320000001,30.14
+Furniture,"Tuesday, September 19, 2023",481.804,115227.02720000001,481.804
+Furniture,"Wednesday, September 20, 2023",5496.174,120723.20120000001,5496.174
+Furniture,"Thursday, September 21, 2023",,120723.20120000001,
+Furniture,"Friday, September 22, 2023",254.03,120977.23120000001,254.03
+Furniture,"Saturday, September 23, 2023",804.732,121781.96320000001,804.732
+Furniture,"Sunday, September 24, 2023",1427.24,123209.20320000002,1427.24
+Furniture,"Monday, September 25, 2023",805.736,124014.93920000002,805.736
+Furniture,"Tuesday, September 26, 2023",428.376,124443.31520000003,428.376
+Furniture,"Wednesday, September 27, 2023",,124443.31520000003,
+Furniture,"Thursday, September 28, 2023",42.016,124485.33120000003,42.016
+Furniture,"Friday, September 29, 2023",553.688,125039.01920000002,553.688
+Furniture,"Saturday, September 30, 2023",,125039.01920000002,
+Furniture,"Sunday, October 01, 2023",559.76,125598.77920000002,559.76
+Furniture,"Monday, October 02, 2023",2758.464,128357.24320000003,2758.464
+Furniture,"Tuesday, October 03, 2023",255.208,128612.45120000002,255.208
+Furniture,"Wednesday, October 04, 2023",19.98,128632.43120000002,19.98
+Furniture,"Thursday, October 05, 2023",935.802,129568.23320000002,935.802
+Furniture,"Friday, October 06, 2023",41.96,129610.19320000002,41.96
+Furniture,"Saturday, October 07, 2023",462.43,130072.62320000002,462.43
+Furniture,"Sunday, October 08, 2023",145.764,130218.38720000001,145.764
+Furniture,"Monday, October 09, 2023",1333.393,131551.7802,1333.393
+Furniture,"Tuesday, October 10, 2023",239.358,131791.13820000002,239.358
+Furniture,"Wednesday, October 11, 2023",,131791.13820000002,
+Furniture,"Thursday, October 12, 2023",3123.328,134914.46620000002,3123.328
+Furniture,"Friday, October 13, 2023",1514.996,136429.46220000004,1514.996
+Furniture,"Saturday, October 14, 2023",9.46,136438.92220000003,9.46
+Furniture,"Sunday, October 15, 2023",532.96,136971.88220000002,532.96
+Furniture,"Monday, October 16, 2023",2422.558,139394.4402,2422.558
+Furniture,"Tuesday, October 17, 2023",,139394.4402,
+Furniture,"Wednesday, October 18, 2023",,139394.4402,
+Furniture,"Thursday, October 19, 2023",531.1622,139925.6024,531.1622
+Furniture,"Friday, October 20, 2023",328.3,140253.9024,328.3
+Furniture,"Saturday, October 21, 2023",1470.238,141724.1404,1470.238
+Furniture,"Sunday, October 22, 2023",1005.341,142729.4814,1005.341
+Furniture,"Monday, October 23, 2023",1193.4,143922.88139999998,1193.4
+Furniture,"Tuesday, October 24, 2023",517.405,144440.28639999998,517.405
+Furniture,"Wednesday, October 25, 2023",,144440.28639999998,
+Furniture,"Thursday, October 26, 2023",356.85,144797.1364,356.85
+Furniture,"Friday, October 27, 2023",746.241,145543.3774,746.241
+Furniture,"Saturday, October 28, 2023",77.952,145621.3294,77.952
+Furniture,"Sunday, October 29, 2023",,145621.3294,
+Furniture,"Monday, October 30, 2023",1301.758,146923.0874,1301.758
+Furniture,"Tuesday, October 31, 2023",,146923.0874,
+Furniture,"Wednesday, November 01, 2023",2665.62,149588.70739999998,2665.62
+Furniture,"Thursday, November 02, 2023",1159.624,150748.3314,1159.624
+Furniture,"Friday, November 03, 2023",2524.05,153272.38139999998,2524.05
+Furniture,"Saturday, November 04, 2023",523.764,153796.14539999998,523.764
+Furniture,"Sunday, November 05, 2023",396.024,154192.16939999998,396.024
+Furniture,"Monday, November 06, 2023",2681.362,156873.53139999998,2681.362
+Furniture,"Tuesday, November 07, 2023",623.322,157496.85339999996,623.322
+Furniture,"Wednesday, November 08, 2023",274.2,157771.05339999998,274.2
+Furniture,"Thursday, November 09, 2023",883.018,158654.0714,883.018
+Furniture,"Friday, November 10, 2023",1482.52,160136.59139999998,1482.52
+Furniture,"Saturday, November 11, 2023",123.84,160260.43139999997,123.84
+Furniture,"Sunday, November 12, 2023",250.304,160510.73539999998,250.304
+Furniture,"Monday, November 13, 2023",2765.6532,163276.38859999998,2765.6532
+Furniture,"Tuesday, November 14, 2023",321.568,163597.95659999998,321.568
+Furniture,"Wednesday, November 15, 2023",559.2,164157.1566,559.2
+Furniture,"Thursday, November 16, 2023",289.59,164446.74659999998,289.59
+Furniture,"Friday, November 17, 2023",515.4928,164962.2394,515.4928
+Furniture,"Saturday, November 18, 2023",152.966,165115.20539999998,152.966
+Furniture,"Sunday, November 19, 2023",2603.165,167718.37039999999,2603.165
+Furniture,"Monday, November 20, 2023",880.862,168599.23239999998,880.862
+Furniture,"Tuesday, November 21, 2023",98.4,168697.63239999997,98.4
+Furniture,"Wednesday, November 22, 2023",,168697.63239999997,
+Furniture,"Thursday, November 23, 2023",186.697,168884.32939999996,186.697
+Furniture,"Friday, November 24, 2023",1734.028,170618.35739999995,1734.028
+Furniture,"Saturday, November 25, 2023",2639.309,173257.66639999996,2639.309
+Furniture,"Sunday, November 26, 2023",1375.6,174633.26639999996,1375.6
+Furniture,"Monday, November 27, 2023",65.78,174699.04639999996,65.78
+Furniture,"Tuesday, November 28, 2023",4659.14,179358.18639999998,4659.14
+Furniture,"Wednesday, November 29, 2023",491.888,179850.07439999998,491.888
+Furniture,"Thursday, November 30, 2023",4129.728,183979.8024,4129.728
+Furniture,"Friday, December 01, 2023",2542.292,186522.09439999997,2542.292
+Furniture,"Saturday, December 02, 2023",3527.504,190049.59839999996,3527.504
+Furniture,"Sunday, December 03, 2023",591.84,190641.43839999996,591.84
+Furniture,"Monday, December 04, 2023",992.782,191634.22039999996,992.782
+Furniture,"Tuesday, December 05, 2023",321.48,191955.70039999997,321.48
+Furniture,"Wednesday, December 06, 2023",,191955.70039999997,
+Furniture,"Thursday, December 07, 2023",82.38,192038.08039999998,82.38
+Furniture,"Friday, December 08, 2023",3368.265,195406.3454,3368.265
+Furniture,"Saturday, December 09, 2023",1927.233,197333.5784,1927.233
+Furniture,"Sunday, December 10, 2023",2102.264,199435.8424,2102.264
+Furniture,"Monday, December 11, 2023",1448.529,200884.3714,1448.529
+Furniture,"Tuesday, December 12, 2023",,200884.3714,
+Furniture,"Wednesday, December 13, 2023",489.016,201373.3874,489.016
+Furniture,"Thursday, December 14, 2023",1852.532,203225.9194,1852.532
+Furniture,"Friday, December 15, 2023",22.77,203248.6894,22.77
+Furniture,"Saturday, December 16, 2023",197.712,203446.4014,197.712
+Furniture,"Sunday, December 17, 2023",629.26,204075.6614,629.26
+Furniture,"Monday, December 18, 2023",1380.681,205456.34240000002,1380.681
+Furniture,"Tuesday, December 19, 2023",115.378,205571.72040000002,115.378
+Furniture,"Wednesday, December 20, 2023",,205571.72040000002,
+Furniture,"Thursday, December 21, 2023",15.92,205587.64040000003,15.92
+Furniture,"Friday, December 22, 2023",4086.456,209674.09640000004,4086.456
+Furniture,"Saturday, December 23, 2023",282.114,209956.21040000004,282.114
+Furniture,"Sunday, December 24, 2023",1393.494,211349.70440000005,1393.494
+Furniture,"Monday, December 25, 2023",832.454,212182.15840000004,832.454
+Furniture,"Tuesday, December 26, 2023",,212182.15840000004,
+Furniture,"Wednesday, December 27, 2023",,212182.15840000004,
+Furniture,"Thursday, December 28, 2023",551.2568,212733.41520000005,551.2568
+Furniture,"Friday, December 29, 2023",2330.718,215064.13320000004,2330.718
+Furniture,"Saturday, December 30, 2023",323.136,215387.26920000004,323.136
+Office Supplies,"Friday, January 03, 2020",16.448,16.448,16.448
+Office Supplies,"Saturday, January 04, 2020",288.06,304.508,288.06
+Office Supplies,"Sunday, January 05, 2020",19.536,324.044,19.536
+Office Supplies,"Monday, January 06, 2020",685.34,1009.384,685.34
+Office Supplies,"Tuesday, January 07, 2020",10.43,1019.814,10.43
+Office Supplies,"Wednesday, January 08, 2020",,1019.814,
+Office Supplies,"Thursday, January 09, 2020",9.344,1029.158,9.344
+Office Supplies,"Friday, January 10, 2020",2.89,1032.048,2.89
+Office Supplies,"Saturday, January 11, 2020",,1032.048,
+Office Supplies,"Sunday, January 12, 2020",,1032.048,
+Office Supplies,"Monday, January 13, 2020",2027.116,3059.1639999999998,2027.116
+Office Supplies,"Tuesday, January 14, 2020",,3059.1639999999998,
+Office Supplies,"Wednesday, January 15, 2020",,3059.1639999999998,
+Office Supplies,"Thursday, January 16, 2020",48.66,3107.8239999999996,48.66
+Office Supplies,"Friday, January 17, 2020",,3107.8239999999996,
+Office Supplies,"Saturday, January 18, 2020",64.864,3172.6879999999996,64.864
+Office Supplies,"Sunday, January 19, 2020",197.124,3369.8119999999994,197.124
+Office Supplies,"Monday, January 20, 2020",560.43,3930.2419999999993,560.43
+Office Supplies,"Tuesday, January 21, 2020",,3930.2419999999993,
+Office Supplies,"Wednesday, January 22, 2020",,3930.2419999999993,
+Office Supplies,"Thursday, January 23, 2020",46.02,3976.2619999999993,46.02
+Office Supplies,"Friday, January 24, 2020",,3976.2619999999993,
+Office Supplies,"Saturday, January 25, 2020",,3976.2619999999993,
+Office Supplies,"Sunday, January 26, 2020",536.72,4512.981999999999,536.72
+Office Supplies,"Monday, January 27, 2020",93.67,4606.651999999999,93.67
+Office Supplies,"Tuesday, January 28, 2020",3.928,4610.579999999999,3.928
+Office Supplies,"Wednesday, January 29, 2020",,4610.579999999999,
+Office Supplies,"Thursday, January 30, 2020",240.5,4851.079999999999,240.5
+Office Supplies,"Friday, January 31, 2020",,4851.079999999999,
+Office Supplies,"Saturday, February 01, 2020",,4851.079999999999,
+Office Supplies,"Sunday, February 02, 2020",30.686,4881.765999999999,30.686
+Office Supplies,"Monday, February 03, 2020",97.112,4978.877999999999,97.112
+Office Supplies,"Tuesday, February 04, 2020",134.384,5113.261999999999,134.384
+Office Supplies,"Wednesday, February 05, 2020",,5113.261999999999,
+Office Supplies,"Thursday, February 06, 2020",23.952,5137.213999999999,23.952
+Office Supplies,"Friday, February 07, 2020",64.96,5202.173999999999,64.96
+Office Supplies,"Saturday, February 08, 2020",,5202.173999999999,
+Office Supplies,"Sunday, February 09, 2020",,5202.173999999999,
+Office Supplies,"Monday, February 10, 2020",,5202.173999999999,
+Office Supplies,"Tuesday, February 11, 2020",158.9,5361.073999999999,158.9
+Office Supplies,"Wednesday, February 12, 2020",,5361.073999999999,
+Office Supplies,"Thursday, February 13, 2020",,5361.073999999999,
+Office Supplies,"Friday, February 14, 2020",336.756,5697.829999999999,336.756
+Office Supplies,"Saturday, February 15, 2020",21.36,5719.189999999999,21.36
+Office Supplies,"Sunday, February 16, 2020",9.04,5728.229999999999,9.04
+Office Supplies,"Monday, February 17, 2020",54.208,5782.437999999998,54.208
+Office Supplies,"Tuesday, February 18, 2020",12.624,5795.061999999998,12.624
+Office Supplies,"Wednesday, February 19, 2020",,5795.061999999998,
+Office Supplies,"Thursday, February 20, 2020",12.96,5808.021999999998,12.96
+Office Supplies,"Friday, February 21, 2020",8.85,5816.8719999999985,8.85
+Office Supplies,"Saturday, February 22, 2020",19.44,5836.311999999998,19.44
+Office Supplies,"Sunday, February 23, 2020",11.364,5847.675999999998,11.364
+Office Supplies,"Monday, February 24, 2020",55.672,5903.347999999997,55.672
+Office Supplies,"Tuesday, February 25, 2020",,5903.347999999997,
+Office Supplies,"Wednesday, February 26, 2020",,5903.347999999997,
+Office Supplies,"Thursday, February 27, 2020",19.456,5922.803999999997,19.456
+Office Supplies,"Friday, February 28, 2020",,5922.803999999997,
+Office Supplies,"Saturday, February 29, 2020",,5922.803999999997,
+Office Supplies,"Sunday, March 01, 2020",303.216,6226.019999999998,303.216
+Office Supplies,"Monday, March 02, 2020",51.184,6277.203999999998,51.184
+Office Supplies,"Tuesday, March 03, 2020",407.1,6684.303999999998,407.1
+Office Supplies,"Wednesday, March 04, 2020",370.452,7054.7559999999985,370.452
+Office Supplies,"Thursday, March 05, 2020",225.592,7280.347999999998,225.592
+Office Supplies,"Friday, March 06, 2020",,7280.347999999998,
+Office Supplies,"Saturday, March 07, 2020",594.078,7874.425999999998,594.078
+Office Supplies,"Sunday, March 08, 2020",,7874.425999999998,
+Office Supplies,"Monday, March 09, 2020",,7874.425999999998,
+Office Supplies,"Tuesday, March 10, 2020",741.956,8616.381999999998,741.956
+Office Supplies,"Wednesday, March 11, 2020",289.064,8905.445999999998,289.064
+Office Supplies,"Thursday, March 12, 2020",,8905.445999999998,
+Office Supplies,"Friday, March 13, 2020",,8905.445999999998,
+Office Supplies,"Saturday, March 14, 2020",310.92,9216.365999999998,310.92
+Office Supplies,"Sunday, March 15, 2020",325.086,9541.451999999997,325.086
+Office Supplies,"Monday, March 16, 2020",,9541.451999999997,
+Office Supplies,"Tuesday, March 17, 2020",695.128,10236.579999999998,695.128
+Office Supplies,"Wednesday, March 18, 2020",1904.518,12141.097999999998,1904.518
+Office Supplies,"Thursday, March 19, 2020",71.538,12212.635999999999,71.538
+Office Supplies,"Friday, March 20, 2020",,12212.635999999999,
+Office Supplies,"Saturday, March 21, 2020",358.558,12571.194,358.558
+Office Supplies,"Sunday, March 22, 2020",149.741,12720.935,149.741
+Office Supplies,"Monday, March 23, 2020",340.312,13061.247,340.312
+Office Supplies,"Tuesday, March 24, 2020",24.9,13086.146999999999,24.9
+Office Supplies,"Wednesday, March 25, 2020",46.88,13133.026999999998,46.88
+Office Supplies,"Thursday, March 26, 2020",50.046,13183.072999999999,50.046
+Office Supplies,"Friday, March 27, 2020",,13183.072999999999,
+Office Supplies,"Saturday, March 28, 2020",6.12,13189.193,6.12
+Office Supplies,"Sunday, March 29, 2020",,13189.193,
+Office Supplies,"Monday, March 30, 2020",585.41,13774.603,585.41
+Office Supplies,"Tuesday, March 31, 2020",754.08,14528.682999999999,754.08
+Office Supplies,"Wednesday, April 01, 2020",119.888,14648.571,119.888
+Office Supplies,"Thursday, April 02, 2020",230.948,14879.519,230.948
+Office Supplies,"Friday, April 03, 2020",11.16,14890.679,11.16
+Office Supplies,"Saturday, April 04, 2020",370.394,15261.073,370.394
+Office Supplies,"Sunday, April 05, 2020",5266.108,20527.181,5266.108
+Office Supplies,"Monday, April 06, 2020",266.652,20793.833,266.652
+Office Supplies,"Tuesday, April 07, 2020",181.29,20975.123,181.29
+Office Supplies,"Wednesday, April 08, 2020",71.168,21046.291,71.168
+Office Supplies,"Thursday, April 09, 2020",,21046.291,
+Office Supplies,"Friday, April 10, 2020",,21046.291,
+Office Supplies,"Saturday, April 11, 2020",113.944,21160.235,113.944
+Office Supplies,"Sunday, April 12, 2020",90.168,21250.403000000002,90.168
+Office Supplies,"Monday, April 13, 2020",566.648,21817.051000000003,566.648
+Office Supplies,"Tuesday, April 14, 2020",,21817.051000000003,
+Office Supplies,"Wednesday, April 15, 2020",106.96,21924.011000000002,106.96
+Office Supplies,"Thursday, April 16, 2020",39.072,21963.083000000002,39.072
+Office Supplies,"Friday, April 17, 2020",,21963.083000000002,
+Office Supplies,"Saturday, April 18, 2020",187.53,22150.613,187.53
+Office Supplies,"Sunday, April 19, 2020",129.33,22279.943000000003,129.33
+Office Supplies,"Monday, April 20, 2020",44.84,22324.783000000003,44.84
+Office Supplies,"Tuesday, April 21, 2020",845.36,23170.143000000004,845.36
+Office Supplies,"Wednesday, April 22, 2020",257.752,23427.895000000004,257.752
+Office Supplies,"Thursday, April 23, 2020",58.9,23486.795000000006,58.9
+Office Supplies,"Friday, April 24, 2020",,23486.795000000006,
+Office Supplies,"Saturday, April 25, 2020",287.328,23774.123000000007,287.328
+Office Supplies,"Sunday, April 26, 2020",52.288,23826.411000000007,52.288
+Office Supplies,"Monday, April 27, 2020",,23826.411000000007,
+Office Supplies,"Tuesday, April 28, 2020",738.536,24564.947000000007,738.536
+Office Supplies,"Wednesday, April 29, 2020",117.86,24682.807000000008,117.86
+Office Supplies,"Thursday, April 30, 2020",1000.95,25683.75700000001,1000.95
+Office Supplies,"Friday, May 01, 2020",,25683.75700000001,
+Office Supplies,"Saturday, May 02, 2020",26.136,25709.893000000007,26.136
+Office Supplies,"Sunday, May 03, 2020",72.632,25782.52500000001,72.632
+Office Supplies,"Monday, May 04, 2020",147.792,25930.31700000001,147.792
+Office Supplies,"Tuesday, May 05, 2020",133.108,26063.42500000001,133.108
+Office Supplies,"Wednesday, May 06, 2020",254.456,26317.88100000001,254.456
+Office Supplies,"Thursday, May 07, 2020",24.78,26342.661000000007,24.78
+Office Supplies,"Friday, May 08, 2020",,26342.661000000007,
+Office Supplies,"Saturday, May 09, 2020",158.71,26501.371000000006,158.71
+Office Supplies,"Sunday, May 10, 2020",261.45,26762.821000000007,261.45
+Office Supplies,"Monday, May 11, 2020",157.962,26920.783000000007,157.962
+Office Supplies,"Tuesday, May 12, 2020",,26920.783000000007,
+Office Supplies,"Wednesday, May 13, 2020",468.956,27389.739000000005,468.956
+Office Supplies,"Thursday, May 14, 2020",,27389.739000000005,
+Office Supplies,"Friday, May 15, 2020",,27389.739000000005,
+Office Supplies,"Saturday, May 16, 2020",,27389.739000000005,
+Office Supplies,"Sunday, May 17, 2020",91.68,27481.419000000005,91.68
+Office Supplies,"Monday, May 18, 2020",19.92,27501.339000000004,19.92
+Office Supplies,"Tuesday, May 19, 2020",91.62,27592.959000000003,91.62
+Office Supplies,"Wednesday, May 20, 2020",149.128,27742.087000000003,149.128
+Office Supplies,"Thursday, May 21, 2020",3538.586,31280.673000000003,3538.586
+Office Supplies,"Friday, May 22, 2020",,31280.673000000003,
+Office Supplies,"Saturday, May 23, 2020",268.57,31549.243000000002,268.57
+Office Supplies,"Sunday, May 24, 2020",116.28,31665.523,116.28
+Office Supplies,"Monday, May 25, 2020",90.22,31755.743000000002,90.22
+Office Supplies,"Tuesday, May 26, 2020",164.416,31920.159000000003,164.416
+Office Supplies,"Wednesday, May 27, 2020",376.78,32296.939000000002,376.78
+Office Supplies,"Thursday, May 28, 2020",136.96,32433.899,136.96
+Office Supplies,"Friday, May 29, 2020",,32433.899,
+Office Supplies,"Saturday, May 30, 2020",385.482,32819.381,385.482
+Office Supplies,"Sunday, May 31, 2020",,32819.381,
+Office Supplies,"Monday, June 01, 2020",2282.53,35101.911,2282.53
+Office Supplies,"Tuesday, June 02, 2020",425.308,35527.219,425.308
+Office Supplies,"Wednesday, June 03, 2020",163.912,35691.130999999994,163.912
+Office Supplies,"Thursday, June 04, 2020",31.784,35722.91499999999,31.784
+Office Supplies,"Friday, June 05, 2020",,35722.91499999999,
+Office Supplies,"Saturday, June 06, 2020",382.237,36105.151999999995,382.237
+Office Supplies,"Sunday, June 07, 2020",12.462,36117.613999999994,12.462
+Office Supplies,"Monday, June 08, 2020",1745.36,37862.973999999995,1745.36
+Office Supplies,"Tuesday, June 09, 2020",338.712,38201.685999999994,338.712
+Office Supplies,"Wednesday, June 10, 2020",491.55,38693.236,491.55
+Office Supplies,"Thursday, June 11, 2020",,38693.236,
+Office Supplies,"Friday, June 12, 2020",,38693.236,
+Office Supplies,"Saturday, June 13, 2020",14.52,38707.755999999994,14.52
+Office Supplies,"Sunday, June 14, 2020",,38707.755999999994,
+Office Supplies,"Monday, June 15, 2020",45.112,38752.867999999995,45.112
+Office Supplies,"Tuesday, June 16, 2020",115.952,38868.81999999999,115.952
+Office Supplies,"Wednesday, June 17, 2020",3346.292,42215.111999999994,3346.292
+Office Supplies,"Thursday, June 18, 2020",,42215.111999999994,
+Office Supplies,"Friday, June 19, 2020",,42215.111999999994,
+Office Supplies,"Saturday, June 20, 2020",1015.5,43230.611999999994,1015.5
+Office Supplies,"Sunday, June 21, 2020",255.92,43486.53199999999,255.92
+Office Supplies,"Monday, June 22, 2020",671.976,44158.507999999994,671.976
+Office Supplies,"Tuesday, June 23, 2020",23.12,44181.628,23.12
+Office Supplies,"Wednesday, June 24, 2020",,44181.628,
+Office Supplies,"Thursday, June 25, 2020",80.96,44262.587999999996,80.96
+Office Supplies,"Friday, June 26, 2020",,44262.587999999996,
+Office Supplies,"Saturday, June 27, 2020",306.2,44568.78799999999,306.2
+Office Supplies,"Sunday, June 28, 2020",417.326,44986.113999999994,417.326
+Office Supplies,"Monday, June 29, 2020",46.68,45032.793999999994,46.68
+Office Supplies,"Tuesday, June 30, 2020",739.624,45772.418,739.624
+Office Supplies,"Wednesday, July 01, 2020",25.104,45797.522,25.104
+Office Supplies,"Thursday, July 02, 2020",5.58,45803.102,5.58
+Office Supplies,"Friday, July 03, 2020",,45803.102,
+Office Supplies,"Saturday, July 04, 2020",247.408,46050.51,247.408
+Office Supplies,"Sunday, July 05, 2020",731.398,46781.908,731.398
+Office Supplies,"Monday, July 06, 2020",,46781.908,
+Office Supplies,"Tuesday, July 07, 2020",,46781.908,
+Office Supplies,"Wednesday, July 08, 2020",196.704,46978.612,196.704
+Office Supplies,"Thursday, July 09, 2020",145.688,47124.3,145.688
+Office Supplies,"Friday, July 10, 2020",,47124.3,
+Office Supplies,"Saturday, July 11, 2020",269.368,47393.668000000005,269.368
+Office Supplies,"Sunday, July 12, 2020",346.39,47740.058000000005,346.39
+Office Supplies,"Monday, July 13, 2020",,47740.058000000005,
+Office Supplies,"Tuesday, July 14, 2020",184.856,47924.914000000004,184.856
+Office Supplies,"Wednesday, July 15, 2020",6.54,47931.454000000005,6.54
+Office Supplies,"Thursday, July 16, 2020",,47931.454000000005,
+Office Supplies,"Friday, July 17, 2020",,47931.454000000005,
+Office Supplies,"Saturday, July 18, 2020",13.904,47945.35800000001,13.904
+Office Supplies,"Sunday, July 19, 2020",30.786,47976.14400000001,30.786
+Office Supplies,"Monday, July 20, 2020",1202.714,49178.85800000001,1202.714
+Office Supplies,"Tuesday, July 21, 2020",193.156,49372.01400000001,193.156
+Office Supplies,"Wednesday, July 22, 2020",300.292,49672.30600000001,300.292
+Office Supplies,"Thursday, July 23, 2020",58.1,49730.40600000001,58.1
+Office Supplies,"Friday, July 24, 2020",,49730.40600000001,
+Office Supplies,"Saturday, July 25, 2020",8263.37,57993.77600000001,8263.37
+Office Supplies,"Sunday, July 26, 2020",2494.526,60488.30200000001,2494.526
+Office Supplies,"Monday, July 27, 2020",342.06,60830.36200000001,342.06
+Office Supplies,"Tuesday, July 28, 2020",63.264,60893.62600000001,63.264
+Office Supplies,"Wednesday, July 29, 2020",,60893.62600000001,
+Office Supplies,"Thursday, July 30, 2020",,60893.62600000001,
+Office Supplies,"Friday, July 31, 2020",,60893.62600000001,
+Office Supplies,"Saturday, August 01, 2020",184.2,61077.82600000001,184.2
+Office Supplies,"Sunday, August 02, 2020",865.08,61942.90600000001,865.08
+Office Supplies,"Monday, August 03, 2020",259.244,62202.15000000001,259.244
+Office Supplies,"Tuesday, August 04, 2020",2087.774,64289.924000000006,2087.774
+Office Supplies,"Wednesday, August 05, 2020",293.65,64583.57400000001,293.65
+Office Supplies,"Thursday, August 06, 2020",,64583.57400000001,
+Office Supplies,"Friday, August 07, 2020",,64583.57400000001,
+Office Supplies,"Saturday, August 08, 2020",705.275,65288.84900000001,705.275
+Office Supplies,"Sunday, August 09, 2020",2116.965,67405.81400000001,2116.965
+Office Supplies,"Monday, August 10, 2020",,67405.81400000001,
+Office Supplies,"Tuesday, August 11, 2020",439.27,67845.08400000002,439.27
+Office Supplies,"Wednesday, August 12, 2020",509.066,68354.15000000002,509.066
+Office Supplies,"Thursday, August 13, 2020",,68354.15000000002,
+Office Supplies,"Friday, August 14, 2020",,68354.15000000002,
+Office Supplies,"Saturday, August 15, 2020",647.646,69001.79600000002,647.646
+Office Supplies,"Sunday, August 16, 2020",,69001.79600000002,
+Office Supplies,"Monday, August 17, 2020",160.382,69162.17800000001,160.382
+Office Supplies,"Tuesday, August 18, 2020",,69162.17800000001,
+Office Supplies,"Wednesday, August 19, 2020",511.046,69673.22400000002,511.046
+Office Supplies,"Thursday, August 20, 2020",917.11,70590.33400000002,917.11
+Office Supplies,"Friday, August 21, 2020",,70590.33400000002,
+Office Supplies,"Saturday, August 22, 2020",23.104,70613.43800000002,23.104
+Office Supplies,"Sunday, August 23, 2020",417.36,71030.79800000002,417.36
+Office Supplies,"Monday, August 24, 2020",46.46,71077.25800000003,46.46
+Office Supplies,"Tuesday, August 25, 2020",342.326,71419.58400000003,342.326
+Office Supplies,"Wednesday, August 26, 2020",29.36,71448.94400000003,29.36
+Office Supplies,"Thursday, August 27, 2020",44.64,71493.58400000003,44.64
+Office Supplies,"Friday, August 28, 2020",,71493.58400000003,
+Office Supplies,"Saturday, August 29, 2020",658.264,72151.84800000003,658.264
+Office Supplies,"Sunday, August 30, 2020",121.24,72273.08800000003,121.24
+Office Supplies,"Monday, August 31, 2020",,72273.08800000003,
+Office Supplies,"Tuesday, September 01, 2020",112.436,72385.52400000003,112.436
+Office Supplies,"Wednesday, September 02, 2020",1907.81,74293.33400000003,1907.81
+Office Supplies,"Thursday, September 03, 2020",22.08,74315.41400000003,22.08
+Office Supplies,"Friday, September 04, 2020",,74315.41400000003,
+Office Supplies,"Saturday, September 05, 2020",264.32,74579.73400000004,264.32
+Office Supplies,"Sunday, September 06, 2020",58.48,74638.21400000004,58.48
+Office Supplies,"Monday, September 07, 2020",651.076,75289.29000000004,651.076
+Office Supplies,"Tuesday, September 08, 2020",1692.256,76981.54600000003,1692.256
+Office Supplies,"Wednesday, September 09, 2020",1679.354,78660.90000000004,1679.354
+Office Supplies,"Thursday, September 10, 2020",113.288,78774.18800000004,113.288
+Office Supplies,"Friday, September 11, 2020",,78774.18800000004,
+Office Supplies,"Saturday, September 12, 2020",936.202,79710.39000000004,936.202
+Office Supplies,"Sunday, September 13, 2020",206.162,79916.55200000004,206.162
+Office Supplies,"Monday, September 14, 2020",1289.016,81205.56800000004,1289.016
+Office Supplies,"Tuesday, September 15, 2020",14.94,81220.50800000005,14.94
+Office Supplies,"Wednesday, September 16, 2020",33.552,81254.06000000004,33.552
+Office Supplies,"Thursday, September 17, 2020",651.354,81905.41400000005,651.354
+Office Supplies,"Friday, September 18, 2020",,81905.41400000005,
+Office Supplies,"Saturday, September 19, 2020",172.694,82078.10800000005,172.694
+Office Supplies,"Sunday, September 20, 2020",213.368,82291.47600000005,213.368
+Office Supplies,"Monday, September 21, 2020",384.77,82676.24600000006,384.77
+Office Supplies,"Tuesday, September 22, 2020",563.298,83239.54400000005,563.298
+Office Supplies,"Wednesday, September 23, 2020",10142.354,93381.89800000004,10142.354
+Office Supplies,"Thursday, September 24, 2020",211.96,93593.85800000005,211.96
+Office Supplies,"Friday, September 25, 2020",54.356,93648.21400000005,54.356
+Office Supplies,"Saturday, September 26, 2020",571.334,94219.54800000005,571.334
+Office Supplies,"Sunday, September 27, 2020",81.98,94301.52800000005,81.98
+Office Supplies,"Monday, September 28, 2020",153.204,94454.73200000005,153.204
+Office Supplies,"Tuesday, September 29, 2020",4269.362,98724.09400000004,4269.362
+Office Supplies,"Wednesday, September 30, 2020",972.292,99696.38600000004,972.292
+Office Supplies,"Thursday, October 01, 2020",4.71,99701.09600000005,4.71
+Office Supplies,"Friday, October 02, 2020",42.208,99743.30400000005,42.208
+Office Supplies,"Saturday, October 03, 2020",164.356,99907.66000000005,164.356
+Office Supplies,"Sunday, October 04, 2020",139.338,100046.99800000005,139.338
+Office Supplies,"Monday, October 05, 2020",91.92,100138.91800000005,91.92
+Office Supplies,"Tuesday, October 06, 2020",485.62,100624.53800000004,485.62
+Office Supplies,"Wednesday, October 07, 2020",107.44,100731.97800000005,107.44
+Office Supplies,"Thursday, October 08, 2020",123.92,100855.89800000004,123.92
+Office Supplies,"Friday, October 09, 2020",233.368,101089.26600000005,233.368
+Office Supplies,"Saturday, October 10, 2020",302.272,101391.53800000004,302.272
+Office Supplies,"Sunday, October 11, 2020",530.206,101921.74400000005,530.206
+Office Supplies,"Monday, October 12, 2020",58.53,101980.27400000005,58.53
+Office Supplies,"Tuesday, October 13, 2020",618.912,102599.18600000005,618.912
+Office Supplies,"Wednesday, October 14, 2020",719.704,103318.89000000004,719.704
+Office Supplies,"Thursday, October 15, 2020",7.968,103326.85800000004,7.968
+Office Supplies,"Friday, October 16, 2020",14.352,103341.21000000004,14.352
+Office Supplies,"Saturday, October 17, 2020",10.78,103351.99000000003,10.78
+Office Supplies,"Sunday, October 18, 2020",588.746,103940.73600000003,588.746
+Office Supplies,"Monday, October 19, 2020",201.976,104142.71200000003,201.976
+Office Supplies,"Tuesday, October 20, 2020",852.546,104995.25800000003,852.546
+Office Supplies,"Wednesday, October 21, 2020",355.692,105350.95000000003,355.692
+Office Supplies,"Thursday, October 22, 2020",,105350.95000000003,
+Office Supplies,"Friday, October 23, 2020",,105350.95000000003,
+Office Supplies,"Saturday, October 24, 2020",56.49,105407.44000000003,56.49
+Office Supplies,"Sunday, October 25, 2020",63.106,105470.54600000003,63.106
+Office Supplies,"Monday, October 26, 2020",,105470.54600000003,
+Office Supplies,"Tuesday, October 27, 2020",22.32,105492.86600000004,22.32
+Office Supplies,"Wednesday, October 28, 2020",635.604,106128.47000000004,635.604
+Office Supplies,"Thursday, October 29, 2020",75.88,106204.35000000005,75.88
+Office Supplies,"Friday, October 30, 2020",,106204.35000000005,
+Office Supplies,"Saturday, October 31, 2020",703.164,106907.51400000005,703.164
+Office Supplies,"Sunday, November 01, 2020",1512.912,108420.42600000005,1512.912
+Office Supplies,"Monday, November 02, 2020",417.022,108837.44800000005,417.022
+Office Supplies,"Tuesday, November 03, 2020",554.845,109392.29300000005,554.845
+Office Supplies,"Wednesday, November 04, 2020",206.566,109598.85900000005,206.566
+Office Supplies,"Thursday, November 05, 2020",1093.29,110692.14900000005,1093.29
+Office Supplies,"Friday, November 06, 2020",43.68,110735.82900000004,43.68
+Office Supplies,"Saturday, November 07, 2020",765.998,111501.82700000005,765.998
+Office Supplies,"Sunday, November 08, 2020",,111501.82700000005,
+Office Supplies,"Monday, November 09, 2020",590.94,112092.76700000005,590.94
+Office Supplies,"Tuesday, November 10, 2020",733.01,112825.77700000005,733.01
+Office Supplies,"Wednesday, November 11, 2020",4415.426,117241.20300000005,4415.426
+Office Supplies,"Thursday, November 12, 2020",125.08,117366.28300000005,125.08
+Office Supplies,"Friday, November 13, 2020",,117366.28300000005,
+Office Supplies,"Saturday, November 14, 2020",132.536,117498.81900000005,132.536
+Office Supplies,"Sunday, November 15, 2020",998.242,118497.06100000005,998.242
+Office Supplies,"Monday, November 16, 2020",658.73,119155.79100000004,658.73
+Office Supplies,"Tuesday, November 17, 2020",6174.214,125330.00500000003,6174.214
+Office Supplies,"Wednesday, November 18, 2020",665.571,125995.57600000003,665.571
+Office Supplies,"Thursday, November 19, 2020",639.02,126634.59600000003,639.02
+Office Supplies,"Friday, November 20, 2020",73.62,126708.21600000003,73.62
+Office Supplies,"Saturday, November 21, 2020",849.682,127557.89800000003,849.682
+Office Supplies,"Sunday, November 22, 2020",1103.298,128661.19600000003,1103.298
+Office Supplies,"Monday, November 23, 2020",180.646,128841.84200000002,180.646
+Office Supplies,"Tuesday, November 24, 2020",1884.662,130726.50400000002,1884.662
+Office Supplies,"Wednesday, November 25, 2020",1548.136,132274.64,1548.136
+Office Supplies,"Thursday, November 26, 2020",968.394,133243.034,968.394
+Office Supplies,"Friday, November 27, 2020",3.76,133246.79400000002,3.76
+Office Supplies,"Saturday, November 28, 2020",333.118,133579.912,333.118
+Office Supplies,"Sunday, November 29, 2020",73.124,133653.03600000002,73.124
+Office Supplies,"Monday, November 30, 2020",116.914,133769.95,116.914
+Office Supplies,"Tuesday, December 01, 2020",82.928,133852.87800000003,82.928
+Office Supplies,"Wednesday, December 02, 2020",243.298,134096.17600000004,243.298
+Office Supplies,"Thursday, December 03, 2020",25.92,134122.09600000005,25.92
+Office Supplies,"Friday, December 04, 2020",,134122.09600000005,
+Office Supplies,"Saturday, December 05, 2020",2170.252,136292.34800000006,2170.252
+Office Supplies,"Sunday, December 06, 2020",1410.746,137703.09400000007,1410.746
+Office Supplies,"Monday, December 07, 2020",548.4,138251.49400000006,548.4
+Office Supplies,"Tuesday, December 08, 2020",215.28,138466.77400000006,215.28
+Office Supplies,"Wednesday, December 09, 2020",442.676,138909.45000000007,442.676
+Office Supplies,"Thursday, December 10, 2020",234.984,139144.43400000007,234.984
+Office Supplies,"Friday, December 11, 2020",,139144.43400000007,
+Office Supplies,"Saturday, December 12, 2020",242.804,139387.23800000007,242.804
+Office Supplies,"Sunday, December 13, 2020",110.764,139498.00200000007,110.764
+Office Supplies,"Monday, December 14, 2020",19.888,139517.89000000007,19.888
+Office Supplies,"Tuesday, December 15, 2020",,139517.89000000007,
+Office Supplies,"Wednesday, December 16, 2020",153.639,139671.52900000007,153.639
+Office Supplies,"Thursday, December 17, 2020",45.534,139717.06300000008,45.534
+Office Supplies,"Friday, December 18, 2020",,139717.06300000008,
+Office Supplies,"Saturday, December 19, 2020",250.156,139967.21900000007,250.156
+Office Supplies,"Sunday, December 20, 2020",2337.266,142304.48500000007,2337.266
+Office Supplies,"Monday, December 21, 2020",35.52,142340.00500000006,35.52
+Office Supplies,"Tuesday, December 22, 2020",798.968,143138.97300000006,798.968
+Office Supplies,"Wednesday, December 23, 2020",824.008,143962.98100000006,824.008
+Office Supplies,"Thursday, December 24, 2020",548.698,144511.67900000006,548.698
+Office Supplies,"Friday, December 25, 2020",,144511.67900000006,
+Office Supplies,"Saturday, December 26, 2020",688.256,145199.93500000006,688.256
+Office Supplies,"Sunday, December 27, 2020",1255.59,146455.52500000005,1255.59
+Office Supplies,"Monday, December 28, 2020",3732.296,150187.82100000005,3732.296
+Office Supplies,"Tuesday, December 29, 2020",505.252,150693.07300000006,505.252
+Office Supplies,"Wednesday, December 30, 2020",774.611,151467.68400000007,774.611
+Office Supplies,"Thursday, December 31, 2020",308.728,151776.41200000007,308.728
+Office Supplies,"Saturday, January 02, 2021",139.08,139.08,139.08
+Office Supplies,"Sunday, January 03, 2021",17.424,156.50400000000002,17.424
+Office Supplies,"Monday, January 04, 2021",72.24,228.74400000000003,72.24
+Office Supplies,"Tuesday, January 05, 2021",233.688,462.432,233.688
+Office Supplies,"Wednesday, January 06, 2021",31.538,493.97,31.538
+Office Supplies,"Thursday, January 07, 2021",,493.97,
+Office Supplies,"Friday, January 08, 2021",,493.97,
+Office Supplies,"Saturday, January 09, 2021",364.07,858.04,364.07
+Office Supplies,"Sunday, January 10, 2021",,858.04,
+Office Supplies,"Monday, January 11, 2021",,858.04,
+Office Supplies,"Tuesday, January 12, 2021",475.548,1333.588,475.548
+Office Supplies,"Wednesday, January 13, 2021",79.828,1413.416,79.828
+Office Supplies,"Thursday, January 14, 2021",,1413.416,
+Office Supplies,"Friday, January 15, 2021",,1413.416,
+Office Supplies,"Saturday, January 16, 2021",,1413.416,
+Office Supplies,"Sunday, January 17, 2021",95.64,1509.056,95.64
+Office Supplies,"Monday, January 18, 2021",,1509.056,
+Office Supplies,"Tuesday, January 19, 2021",,1509.056,
+Office Supplies,"Wednesday, January 20, 2021",,1509.056,
+Office Supplies,"Thursday, January 21, 2021",,1509.056,
+Office Supplies,"Friday, January 22, 2021",,1509.056,
+Office Supplies,"Saturday, January 23, 2021",43.66,1552.7160000000001,43.66
+Office Supplies,"Sunday, January 24, 2021",13.12,1565.836,13.12
+Office Supplies,"Monday, January 25, 2021",,1565.836,
+Office Supplies,"Tuesday, January 26, 2021",182.72,1748.556,182.72
+Office Supplies,"Wednesday, January 27, 2021",,1748.556,
+Office Supplies,"Thursday, January 28, 2021",,1748.556,
+Office Supplies,"Friday, January 29, 2021",,1748.556,
+Office Supplies,"Saturday, January 30, 2021",14.304,1762.8600000000001,14.304
+Office Supplies,"Sunday, January 31, 2021",45.92,1808.7800000000002,45.92
+Office Supplies,"Monday, February 01, 2021",,1808.7800000000002,
+Office Supplies,"Tuesday, February 02, 2021",,1808.7800000000002,
+Office Supplies,"Wednesday, February 03, 2021",86.664,1895.4440000000002,86.664
+Office Supplies,"Thursday, February 04, 2021",,1895.4440000000002,
+Office Supplies,"Friday, February 05, 2021",,1895.4440000000002,
+Office Supplies,"Saturday, February 06, 2021",861.276,2756.7200000000003,861.276
+Office Supplies,"Sunday, February 07, 2021",324.11,3080.8300000000004,324.11
+Office Supplies,"Monday, February 08, 2021",21.11,3101.9400000000005,21.11
+Office Supplies,"Tuesday, February 09, 2021",40.096,3142.0360000000005,40.096
+Office Supplies,"Wednesday, February 10, 2021",77.24,3219.2760000000003,77.24
+Office Supplies,"Thursday, February 11, 2021",,3219.2760000000003,
+Office Supplies,"Friday, February 12, 2021",,3219.2760000000003,
+Office Supplies,"Saturday, February 13, 2021",,3219.2760000000003,
+Office Supplies,"Sunday, February 14, 2021",58.014,3277.2900000000004,58.014
+Office Supplies,"Monday, February 15, 2021",627.48,3904.7700000000004,627.48
+Office Supplies,"Tuesday, February 16, 2021",160.43,4065.2000000000003,160.43
+Office Supplies,"Wednesday, February 17, 2021",,4065.2000000000003,
+Office Supplies,"Thursday, February 18, 2021",70.3,4135.5,70.3
+Office Supplies,"Friday, February 19, 2021",,4135.5,
+Office Supplies,"Saturday, February 20, 2021",286.79,4422.29,286.79
+Office Supplies,"Sunday, February 21, 2021",2591.1,7013.389999999999,2591.1
+Office Supplies,"Monday, February 22, 2021",79.36,7092.749999999999,79.36
+Office Supplies,"Tuesday, February 23, 2021",37.776,7130.525999999999,37.776
+Office Supplies,"Wednesday, February 24, 2021",,7130.525999999999,
+Office Supplies,"Thursday, February 25, 2021",25.87,7156.395999999999,25.87
+Office Supplies,"Friday, February 26, 2021",,7156.395999999999,
+Office Supplies,"Saturday, February 27, 2021",20.451,7176.846999999999,20.451
+Office Supplies,"Sunday, February 28, 2021",,7176.846999999999,
+Office Supplies,"Monday, March 01, 2021",117.6,7294.446999999999,117.6
+Office Supplies,"Tuesday, March 02, 2021",112.04,7406.486999999999,112.04
+Office Supplies,"Wednesday, March 03, 2021",,7406.486999999999,
+Office Supplies,"Thursday, March 04, 2021",,7406.486999999999,
+Office Supplies,"Friday, March 05, 2021",915.698,8322.185,915.698
+Office Supplies,"Saturday, March 06, 2021",,8322.185,
+Office Supplies,"Sunday, March 07, 2021",99.72,8421.904999999999,99.72
+Office Supplies,"Monday, March 08, 2021",46.396,8468.301,46.396
+Office Supplies,"Tuesday, March 09, 2021",4.608,8472.909,4.608
+Office Supplies,"Wednesday, March 10, 2021",90.932,8563.841,90.932
+Office Supplies,"Thursday, March 11, 2021",,8563.841,
+Office Supplies,"Friday, March 12, 2021",13.728,8577.569,13.728
+Office Supplies,"Saturday, March 13, 2021",,8577.569,
+Office Supplies,"Sunday, March 14, 2021",707.9,9285.469,707.9
+Office Supplies,"Monday, March 15, 2021",,9285.469,
+Office Supplies,"Tuesday, March 16, 2021",6929.22,16214.688999999998,6929.22
+Office Supplies,"Wednesday, March 17, 2021",33.82,16248.508999999998,33.82
+Office Supplies,"Thursday, March 18, 2021",,16248.508999999998,
+Office Supplies,"Friday, March 19, 2021",1665.968,17914.477,1665.968
+Office Supplies,"Saturday, March 20, 2021",1348.214,19262.691,1348.214
+Office Supplies,"Sunday, March 21, 2021",1270.379,20533.07,1270.379
+Office Supplies,"Monday, March 22, 2021",419.168,20952.238,419.168
+Office Supplies,"Tuesday, March 23, 2021",285.56,21237.798000000003,285.56
+Office Supplies,"Wednesday, March 24, 2021",6.992,21244.79,6.992
+Office Supplies,"Thursday, March 25, 2021",,21244.79,
+Office Supplies,"Friday, March 26, 2021",1212.914,22457.704,1212.914
+Office Supplies,"Saturday, March 27, 2021",83.7,22541.404000000002,83.7
+Office Supplies,"Sunday, March 28, 2021",77.104,22618.508,77.104
+Office Supplies,"Monday, March 29, 2021",318.99,22937.498000000003,318.99
+Office Supplies,"Tuesday, March 30, 2021",23.52,22961.018000000004,23.52
+Office Supplies,"Wednesday, March 31, 2021",98.376,23059.394000000004,98.376
+Office Supplies,"Thursday, April 01, 2021",,23059.394000000004,
+Office Supplies,"Friday, April 02, 2021",41.348,23100.742000000006,41.348
+Office Supplies,"Saturday, April 03, 2021",,23100.742000000006,
+Office Supplies,"Sunday, April 04, 2021",765.268,23866.010000000006,765.268
+Office Supplies,"Monday, April 05, 2021",877.886,24743.896000000004,877.886
+Office Supplies,"Tuesday, April 06, 2021",114.516,24858.412000000004,114.516
+Office Supplies,"Wednesday, April 07, 2021",523.484,25381.896000000004,523.484
+Office Supplies,"Thursday, April 08, 2021",,25381.896000000004,
+Office Supplies,"Friday, April 09, 2021",388.08,25769.976000000006,388.08
+Office Supplies,"Saturday, April 10, 2021",169.542,25939.518000000007,169.542
+Office Supplies,"Sunday, April 11, 2021",459.36,26398.878000000008,459.36
+Office Supplies,"Monday, April 12, 2021",40.74,26439.61800000001,40.74
+Office Supplies,"Tuesday, April 13, 2021",202.814,26642.432000000008,202.814
+Office Supplies,"Wednesday, April 14, 2021",35.208,26677.640000000007,35.208
+Office Supplies,"Thursday, April 15, 2021",,26677.640000000007,
+Office Supplies,"Friday, April 16, 2021",142.138,26819.778000000006,142.138
+Office Supplies,"Saturday, April 17, 2021",1538.176,28357.954000000005,1538.176
+Office Supplies,"Sunday, April 18, 2021",1363.464,29721.418000000005,1363.464
+Office Supplies,"Monday, April 19, 2021",329.96,30051.378000000004,329.96
+Office Supplies,"Tuesday, April 20, 2021",311.376,30362.754000000004,311.376
+Office Supplies,"Wednesday, April 21, 2021",21.3,30384.054000000004,21.3
+Office Supplies,"Thursday, April 22, 2021",64.14,30448.194000000003,64.14
+Office Supplies,"Friday, April 23, 2021",,30448.194000000003,
+Office Supplies,"Saturday, April 24, 2021",25.99,30474.184000000005,25.99
+Office Supplies,"Sunday, April 25, 2021",792.888,31267.072000000004,792.888
+Office Supplies,"Monday, April 26, 2021",185.28,31452.352000000003,185.28
+Office Supplies,"Tuesday, April 27, 2021",72.14,31524.492000000002,72.14
+Office Supplies,"Wednesday, April 28, 2021",4044.362,35568.854,4044.362
+Office Supplies,"Thursday, April 29, 2021",7.968,35576.822,7.968
+Office Supplies,"Friday, April 30, 2021",41.13,35617.952,41.13
+Office Supplies,"Saturday, May 01, 2021",298.636,35916.587999999996,298.636
+Office Supplies,"Sunday, May 02, 2021",8.856,35925.443999999996,8.856
+Office Supplies,"Monday, May 03, 2021",321.252,36246.695999999996,321.252
+Office Supplies,"Tuesday, May 04, 2021",125.93,36372.626,125.93
+Office Supplies,"Wednesday, May 05, 2021",,36372.626,
+Office Supplies,"Thursday, May 06, 2021",,36372.626,
+Office Supplies,"Friday, May 07, 2021",61.616,36434.242,61.616
+Office Supplies,"Saturday, May 08, 2021",464.538,36898.78,464.538
+Office Supplies,"Sunday, May 09, 2021",48.81,36947.59,48.81
+Office Supplies,"Monday, May 10, 2021",107.754,37055.344,107.754
+Office Supplies,"Tuesday, May 11, 2021",,37055.344,
+Office Supplies,"Wednesday, May 12, 2021",217.646,37272.99,217.646
+Office Supplies,"Thursday, May 13, 2021",16,37288.99,16
+Office Supplies,"Friday, May 14, 2021",1688.412,38977.401999999995,1688.412
+Office Supplies,"Saturday, May 15, 2021",69.908,39047.31,69.908
+Office Supplies,"Sunday, May 16, 2021",,39047.31,
+Office Supplies,"Monday, May 17, 2021",134.468,39181.778,134.468
+Office Supplies,"Tuesday, May 18, 2021",10.86,39192.638,10.86
+Office Supplies,"Wednesday, May 19, 2021",,39192.638,
+Office Supplies,"Thursday, May 20, 2021",6.408,39199.046,6.408
+Office Supplies,"Friday, May 21, 2021",72.332,39271.378000000004,72.332
+Office Supplies,"Saturday, May 22, 2021",113.05,39384.42800000001,113.05
+Office Supplies,"Sunday, May 23, 2021",1229.626,40614.054000000004,1229.626
+Office Supplies,"Monday, May 24, 2021",7.656,40621.71000000001,7.656
+Office Supplies,"Tuesday, May 25, 2021",1049.664,41671.374,1049.664
+Office Supplies,"Wednesday, May 26, 2021",184.224,41855.598000000005,184.224
+Office Supplies,"Thursday, May 27, 2021",,41855.598000000005,
+Office Supplies,"Friday, May 28, 2021",748.156,42603.75400000001,748.156
+Office Supplies,"Saturday, May 29, 2021",846.216,43449.97000000001,846.216
+Office Supplies,"Sunday, May 30, 2021",160.32,43610.29000000001,160.32
+Office Supplies,"Monday, May 31, 2021",1121.398,44731.68800000001,1121.398
+Office Supplies,"Tuesday, June 01, 2021",492.318,45224.00600000001,492.318
+Office Supplies,"Wednesday, June 02, 2021",,45224.00600000001,
+Office Supplies,"Thursday, June 03, 2021",,45224.00600000001,
+Office Supplies,"Friday, June 04, 2021",47.08,45271.08600000001,47.08
+Office Supplies,"Saturday, June 05, 2021",10.56,45281.64600000001,10.56
+Office Supplies,"Sunday, June 06, 2021",,45281.64600000001,
+Office Supplies,"Monday, June 07, 2021",59.768,45341.414000000004,59.768
+Office Supplies,"Tuesday, June 08, 2021",907.528,46248.942,907.528
+Office Supplies,"Wednesday, June 09, 2021",228.78,46477.722,228.78
+Office Supplies,"Thursday, June 10, 2021",,46477.722,
+Office Supplies,"Friday, June 11, 2021",1868.528,48346.25,1868.528
+Office Supplies,"Saturday, June 12, 2021",75.196,48421.446,75.196
+Office Supplies,"Sunday, June 13, 2021",160.948,48582.394,160.948
+Office Supplies,"Monday, June 14, 2021",,48582.394,
+Office Supplies,"Tuesday, June 15, 2021",91.936,48674.33,91.936
+Office Supplies,"Wednesday, June 16, 2021",3112.552,51786.882000000005,3112.552
+Office Supplies,"Thursday, June 17, 2021",,51786.882000000005,
+Office Supplies,"Friday, June 18, 2021",635.781,52422.66300000001,635.781
+Office Supplies,"Saturday, June 19, 2021",433.786,52856.44900000001,433.786
+Office Supplies,"Sunday, June 20, 2021",,52856.44900000001,
+Office Supplies,"Monday, June 21, 2021",,52856.44900000001,
+Office Supplies,"Tuesday, June 22, 2021",1222.528,54078.977000000006,1222.528
+Office Supplies,"Wednesday, June 23, 2021",171.41,54250.38700000001,171.41
+Office Supplies,"Thursday, June 24, 2021",,54250.38700000001,
+Office Supplies,"Friday, June 25, 2021",576.846,54827.23300000001,576.846
+Office Supplies,"Saturday, June 26, 2021",245.476,55072.70900000001,245.476
+Office Supplies,"Sunday, June 27, 2021",,55072.70900000001,
+Office Supplies,"Monday, June 28, 2021",281.766,55354.47500000001,281.766
+Office Supplies,"Tuesday, June 29, 2021",24.96,55379.43500000001,24.96
+Office Supplies,"Wednesday, June 30, 2021",,55379.43500000001,
+Office Supplies,"Thursday, July 01, 2021",,55379.43500000001,
+Office Supplies,"Friday, July 02, 2021",607.284,55986.71900000001,607.284
+Office Supplies,"Monday, January 02, 2023",712.29,712.29,712.29
+Office Supplies,"Tuesday, January 03, 2023",,712.29,
+Office Supplies,"Wednesday, January 04, 2023",,712.29,
+Office Supplies,"Thursday, January 05, 2023",,712.29,
+Office Supplies,"Friday, January 06, 2023",,712.29,
+Office Supplies,"Saturday, January 07, 2023",3059.982,3772.272,3059.982
+Office Supplies,"Sunday, January 08, 2023",,3772.272,
+Office Supplies,"Monday, January 09, 2023",,3772.272,
+Office Supplies,"Tuesday, January 10, 2023",,3772.272,
+Office Supplies,"Wednesday, January 11, 2023",,3772.272,
+Office Supplies,"Thursday, January 12, 2023",,3772.272,
+Office Supplies,"Friday, January 13, 2023",,3772.272,
+Office Supplies,"Saturday, January 14, 2023",528.688,4300.96,528.688
+Office Supplies,"Sunday, January 15, 2023",110.576,4411.536,110.576
+Office Supplies,"Monday, January 16, 2023",,4411.536,
+Office Supplies,"Tuesday, January 17, 2023",,4411.536,
+Office Supplies,"Wednesday, January 18, 2023",,4411.536,
+Office Supplies,"Thursday, January 19, 2023",429.6,4841.136,429.6
+Office Supplies,"Friday, January 20, 2023",520.752,5361.888000000001,520.752
+Office Supplies,"Saturday, January 21, 2023",1315.883,6677.771000000001,1315.883
+Office Supplies,"Sunday, January 22, 2023",2999.95,9677.721000000001,2999.95
+Office Supplies,"Monday, January 23, 2023",182.336,9860.057,182.336
+Office Supplies,"Tuesday, January 24, 2023",110.352,9970.409000000001,110.352
+Office Supplies,"Wednesday, January 25, 2023",,9970.409000000001,
+Office Supplies,"Thursday, January 26, 2023",2939.93,12910.339000000002,2939.93
+Office Supplies,"Friday, January 27, 2023",317.898,13228.237000000001,317.898
+Office Supplies,"Saturday, January 28, 2023",689.88,13918.117,689.88
+Office Supplies,"Sunday, January 29, 2023",,13918.117,
+Office Supplies,"Monday, January 30, 2023",2814.936,16733.053,2814.936
+Office Supplies,"Tuesday, January 31, 2023",,16733.053,
+Office Supplies,"Wednesday, February 01, 2023",,16733.053,
+Office Supplies,"Thursday, February 02, 2023",299.954,17033.007,299.954
+Office Supplies,"Friday, February 03, 2023",,17033.007,
+Office Supplies,"Saturday, February 04, 2023",,17033.007,
+Office Supplies,"Sunday, February 05, 2023",371.2,17404.207000000002,371.2
+Office Supplies,"Monday, February 06, 2023",227.46,17631.667,227.46
+Office Supplies,"Tuesday, February 07, 2023",,17631.667,
+Office Supplies,"Wednesday, February 08, 2023",,17631.667,
+Office Supplies,"Thursday, February 09, 2023",127.984,17759.651,127.984
+Office Supplies,"Friday, February 10, 2023",,17759.651,
+Office Supplies,"Saturday, February 11, 2023",88.776,17848.427000000003,88.776
+Office Supplies,"Sunday, February 12, 2023",,17848.427000000003,
+Office Supplies,"Monday, February 13, 2023",799.96,18648.387000000002,799.96
+Office Supplies,"Tuesday, February 14, 2023",,18648.387000000002,
+Office Supplies,"Wednesday, February 15, 2023",,18648.387000000002,
+Office Supplies,"Thursday, February 16, 2023",14.99,18663.377000000004,14.99
+Office Supplies,"Friday, February 17, 2023",649.882,19313.259000000005,649.882
+Office Supplies,"Saturday, February 18, 2023",277.506,19590.765000000007,277.506
+Office Supplies,"Sunday, February 19, 2023",,19590.765000000007,
+Office Supplies,"Monday, February 20, 2023",581.536,20172.301000000007,581.536
+Office Supplies,"Tuesday, February 21, 2023",47.904,20220.205000000005,47.904
+Office Supplies,"Wednesday, February 22, 2023",,20220.205000000005,
+Office Supplies,"Thursday, February 23, 2023",71.96,20292.165000000005,71.96
+Office Supplies,"Friday, February 24, 2023",1319.8,21611.965000000004,1319.8
+Office Supplies,"Saturday, February 25, 2023",,21611.965000000004,
+Office Supplies,"Sunday, February 26, 2023",1148.112,22760.077000000005,1148.112
+Office Supplies,"Monday, February 27, 2023",,22760.077000000005,
+Office Supplies,"Tuesday, February 28, 2023",,22760.077000000005,
+Office Supplies,"Wednesday, March 01, 2023",,22760.077000000005,
+Office Supplies,"Thursday, March 02, 2023",676.716,23436.793000000005,676.716
+Office Supplies,"Friday, March 03, 2023",1149.42,24586.213000000003,1149.42
+Office Supplies,"Saturday, March 04, 2023",,24586.213000000003,
+Office Supplies,"Sunday, March 05, 2023",299.97,24886.183000000005,299.97
+Office Supplies,"Monday, March 06, 2023",206.384,25092.567000000003,206.384
+Office Supplies,"Tuesday, March 07, 2023",49.08,25141.647000000004,49.08
+Office Supplies,"Wednesday, March 08, 2023",,25141.647000000004,
+Office Supplies,"Thursday, March 09, 2023",679.964,25821.611000000004,679.964
+Office Supplies,"Friday, March 10, 2023",201.852,26023.463000000003,201.852
+Office Supplies,"Saturday, March 11, 2023",840.73,26864.193000000003,840.73
+Office Supplies,"Sunday, March 12, 2023",69.93,26934.123000000003,69.93
+Office Supplies,"Monday, March 13, 2023",1867.908,28802.031000000003,1867.908
+Office Supplies,"Tuesday, March 14, 2023",49.616,28851.647000000004,49.616
+Office Supplies,"Wednesday, March 15, 2023",,28851.647000000004,
+Office Supplies,"Thursday, March 16, 2023",1309.776,30161.423000000006,1309.776
+Office Supplies,"Friday, March 17, 2023",248.36,30409.783000000007,248.36
+Office Supplies,"Saturday, March 18, 2023",565.36,30975.143000000007,565.36
+Office Supplies,"Sunday, March 19, 2023",957.004,31932.147000000008,957.004
+Office Supplies,"Monday, March 20, 2023",503.93,32436.07700000001,503.93
+Office Supplies,"Tuesday, March 21, 2023",,32436.07700000001,
+Office Supplies,"Wednesday, March 22, 2023",,32436.07700000001,
+Office Supplies,"Thursday, March 23, 2023",13999.96,46436.03700000001,13999.96
+Office Supplies,"Friday, March 24, 2023",495.99,46932.02700000001,495.99
+Office Supplies,"Saturday, March 25, 2023",1161.528,48093.55500000001,1161.528
+Office Supplies,"Sunday, March 26, 2023",2717.13,50810.685000000005,2717.13
+Office Supplies,"Monday, March 27, 2023",246.092,51056.777,246.092
+Office Supplies,"Tuesday, March 28, 2023",532.72,51589.497,532.72
+Office Supplies,"Wednesday, March 29, 2023",,51589.497,
+Office Supplies,"Thursday, March 30, 2023",164.792,51754.289000000004,164.792
+Office Supplies,"Friday, March 31, 2023",4434.41,56188.69900000001,4434.41
+Office Supplies,"Saturday, April 01, 2023",4823.96,61012.65900000001,4823.96
+Office Supplies,"Sunday, April 02, 2023",360,61372.65900000001,360
+Office Supplies,"Monday, April 03, 2023",,61372.65900000001,
+Office Supplies,"Tuesday, April 04, 2023",544.08,61916.73900000001,544.08
+Office Supplies,"Wednesday, April 05, 2023",,61916.73900000001,
+Office Supplies,"Thursday, April 06, 2023",,61916.73900000001,
+Office Supplies,"Friday, April 07, 2023",837.16,62753.89900000001,837.16
+Office Supplies,"Saturday, April 08, 2023",,62753.89900000001,
+Office Supplies,"Sunday, April 09, 2023",,62753.89900000001,
+Office Supplies,"Monday, April 10, 2023",195.726,62949.625000000015,195.726
+Office Supplies,"Tuesday, April 11, 2023",227.07,63176.695000000014,227.07
+Office Supplies,"Wednesday, April 12, 2023",,63176.695000000014,
+Office Supplies,"Thursday, April 13, 2023",,63176.695000000014,
+Office Supplies,"Friday, April 14, 2023",,63176.695000000014,
+Office Supplies,"Saturday, April 15, 2023",,63176.695000000014,
+Office Supplies,"Sunday, April 16, 2023",25.98,63202.67500000002,25.98
+Office Supplies,"Monday, April 17, 2023",2824.875,66027.55000000002,2824.875
+Office Supplies,"Tuesday, April 18, 2023",,66027.55000000002,
+Office Supplies,"Wednesday, April 19, 2023",,66027.55000000002,
+Office Supplies,"Thursday, April 20, 2023",122.382,66149.93200000002,122.382
+Office Supplies,"Friday, April 21, 2023",59.516,66209.44800000002,59.516
+Office Supplies,"Saturday, April 22, 2023",,66209.44800000002,
+Office Supplies,"Sunday, April 23, 2023",200.748,66410.19600000003,200.748
+Office Supplies,"Monday, April 24, 2023",621.98,67032.17600000002,621.98
+Office Supplies,"Tuesday, April 25, 2023",107.97,67140.14600000002,107.97
+Office Supplies,"Wednesday, April 26, 2023",,67140.14600000002,
+Office Supplies,"Thursday, April 27, 2023",,67140.14600000002,
+Office Supplies,"Friday, April 28, 2023",751.984,67892.13000000002,751.984
+Office Supplies,"Saturday, April 29, 2023",,67892.13000000002,
+Office Supplies,"Sunday, April 30, 2023",679.956,68572.08600000002,679.956
+Office Supplies,"Monday, May 01, 2023",48.9,68620.98600000002,48.9
+Office Supplies,"Tuesday, May 02, 2023",159.56,68780.54600000002,159.56
+Office Supplies,"Wednesday, May 03, 2023",,68780.54600000002,
+Office Supplies,"Thursday, May 04, 2023",183.96,68964.50600000002,183.96
+Office Supplies,"Friday, May 05, 2023",,68964.50600000002,
+Office Supplies,"Saturday, May 06, 2023",1227.88,70192.38600000003,1227.88
+Office Supplies,"Sunday, May 07, 2023",499.934,70692.32000000002,499.934
+Office Supplies,"Monday, May 08, 2023",3359.952,74052.27200000003,3359.952
+Office Supplies,"Tuesday, May 09, 2023",199.98,74252.25200000002,199.98
+Office Supplies,"Wednesday, May 10, 2023",,74252.25200000002,
+Office Supplies,"Thursday, May 11, 2023",,74252.25200000002,
+Office Supplies,"Friday, May 12, 2023",87.4,74339.65200000002,87.4
+Office Supplies,"Saturday, May 13, 2023",587.97,74927.62200000002,587.97
+Office Supplies,"Sunday, May 14, 2023",2037.862,76965.48400000001,2037.862
+Office Supplies,"Monday, May 15, 2023",40.712,77006.19600000001,40.712
+Office Supplies,"Tuesday, May 16, 2023",,77006.19600000001,
+Office Supplies,"Wednesday, May 17, 2023",,77006.19600000001,
+Office Supplies,"Thursday, May 18, 2023",586.432,77592.62800000001,586.432
+Office Supplies,"Friday, May 19, 2023",1186.032,78778.66000000002,1186.032
+Office Supplies,"Saturday, May 20, 2023",1466.328,80244.98800000001,1466.328
+Office Supplies,"Sunday, May 21, 2023",,80244.98800000001,
+Office Supplies,"Monday, May 22, 2023",68.46,80313.44800000002,68.46
+Office Supplies,"Tuesday, May 23, 2023",,80313.44800000002,
+Office Supplies,"Wednesday, May 24, 2023",,80313.44800000002,
+Office Supplies,"Thursday, May 25, 2023",120,80433.44800000002,120
+Office Supplies,"Friday, May 26, 2023",23.08,80456.52800000002,23.08
+Office Supplies,"Saturday, May 27, 2023",967.698,81424.22600000002,967.698
+Office Supplies,"Sunday, May 28, 2023",522.296,81946.52200000003,522.296
+Office Supplies,"Monday, May 29, 2023",,81946.52200000003,
+Office Supplies,"Tuesday, May 30, 2023",192.152,82138.67400000003,192.152
+Office Supplies,"Wednesday, May 31, 2023",,82138.67400000003,
+Office Supplies,"Thursday, June 01, 2023",282.236,82420.91000000003,282.236
+Office Supplies,"Friday, June 02, 2023",2.97,82423.88000000003,2.97
+Office Supplies,"Saturday, June 03, 2023",2043.262,84467.14200000004,2043.262
+Office Supplies,"Sunday, June 04, 2023",71.984,84539.12600000003,71.984
+Office Supplies,"Monday, June 05, 2023",470.376,85009.50200000004,470.376
+Office Supplies,"Tuesday, June 06, 2023",,85009.50200000004,
+Office Supplies,"Wednesday, June 07, 2023",,85009.50200000004,
+Office Supplies,"Thursday, June 08, 2023",488.64,85498.14200000004,488.64
+Office Supplies,"Friday, June 09, 2023",,85498.14200000004,
+Office Supplies,"Saturday, June 10, 2023",501.256,85999.39800000003,501.256
+Office Supplies,"Sunday, June 11, 2023",385.8,86385.19800000003,385.8
+Office Supplies,"Monday, June 12, 2023",135.896,86521.09400000003,135.896
+Office Supplies,"Tuesday, June 13, 2023",47.984,86569.07800000002,47.984
+Office Supplies,"Wednesday, June 14, 2023",,86569.07800000002,
+Office Supplies,"Thursday, June 15, 2023",2647.848,89216.92600000002,2647.848
+Office Supplies,"Friday, June 16, 2023",737.922,89954.84800000003,737.922
+Office Supplies,"Saturday, June 17, 2023",3505.84,93460.68800000002,3505.84
+Office Supplies,"Sunday, June 18, 2023",,93460.68800000002,
+Office Supplies,"Monday, June 19, 2023",225.448,93686.13600000003,225.448
+Office Supplies,"Tuesday, June 20, 2023",893.88,94580.01600000003,893.88
+Office Supplies,"Wednesday, June 21, 2023",,94580.01600000003,
+Office Supplies,"Thursday, June 22, 2023",,94580.01600000003,
+Office Supplies,"Friday, June 23, 2023",,94580.01600000003,
+Office Supplies,"Saturday, June 24, 2023",,94580.01600000003,
+Office Supplies,"Sunday, June 25, 2023",148.48,94728.49600000003,148.48
+Office Supplies,"Monday, June 26, 2023",2119.934,96848.43000000002,2119.934
+Office Supplies,"Tuesday, June 27, 2023",1287.45,98135.88000000002,1287.45
+Office Supplies,"Wednesday, June 28, 2023",,98135.88000000002,
+Office Supplies,"Thursday, June 29, 2023",62.31,98198.19000000002,62.31
+Office Supplies,"Friday, June 30, 2023",1001.584,99199.77400000002,1001.584
+Office Supplies,"Saturday, July 01, 2023",,99199.77400000002,
+Office Supplies,"Sunday, July 02, 2023",,99199.77400000002,
+Office Supplies,"Monday, July 03, 2023",5486.942,104686.71600000001,5486.942
+Office Supplies,"Tuesday, July 04, 2023",,104686.71600000001,
+Office Supplies,"Wednesday, July 05, 2023",79.96,104766.67600000002,79.96
+Office Supplies,"Thursday, July 06, 2023",,104766.67600000002,
+Office Supplies,"Friday, July 07, 2023",1480.684,106247.36000000002,1480.684
+Office Supplies,"Saturday, July 08, 2023",191.9,106439.26000000001,191.9
+Office Supplies,"Sunday, July 09, 2023",257.98,106697.24,257.98
+Office Supplies,"Monday, July 10, 2023",,106697.24,
+Office Supplies,"Tuesday, July 11, 2023",1492.002,108189.242,1492.002
+Office Supplies,"Wednesday, July 12, 2023",,108189.242,
+Office Supplies,"Thursday, July 13, 2023",39.594,108228.836,39.594
+Office Supplies,"Friday, July 14, 2023",2501.292,110730.128,2501.292
+Office Supplies,"Saturday, July 15, 2023",41.9,110772.02799999999,41.9
+Office Supplies,"Sunday, July 16, 2023",,110772.02799999999,
+Office Supplies,"Monday, July 17, 2023",749.964,111521.992,749.964
+Office Supplies,"Tuesday, July 18, 2023",599.97,112121.962,599.97
+Office Supplies,"Wednesday, July 19, 2023",,112121.962,
+Office Supplies,"Thursday, July 20, 2023",389.97,112511.932,389.97
+Office Supplies,"Friday, July 21, 2023",2180.644,114692.576,2180.644
+Office Supplies,"Saturday, July 22, 2023",29.97,114722.546,29.97
+Office Supplies,"Sunday, July 23, 2023",559.7,115282.246,559.7
+Office Supplies,"Monday, July 24, 2023",2399.96,117682.206,2399.96
+Office Supplies,"Tuesday, July 25, 2023",,117682.206,
+Office Supplies,"Wednesday, July 26, 2023",1649.95,119332.156,1649.95
+Office Supplies,"Thursday, July 27, 2023",778.87,120111.026,778.87
+Office Supplies,"Friday, July 28, 2023",1145.6,121256.626,1145.6
+Office Supplies,"Saturday, July 29, 2023",699.332,121955.958,699.332
+Office Supplies,"Sunday, July 30, 2023",89.95,122045.908,89.95
+Office Supplies,"Monday, July 31, 2023",363.792,122409.7,363.792
+Office Supplies,"Tuesday, August 01, 2023",1807.926,124217.626,1807.926
+Office Supplies,"Wednesday, August 02, 2023",,124217.626,
+Office Supplies,"Thursday, August 03, 2023",39.816,124257.44200000001,39.816
+Office Supplies,"Friday, August 04, 2023",,124257.44200000001,
+Office Supplies,"Saturday, August 05, 2023",79.78,124337.22200000001,79.78
+Office Supplies,"Sunday, August 06, 2023",824.95,125162.172,824.95
+Office Supplies,"Monday, August 07, 2023",1187,126349.172,1187
+Office Supplies,"Tuesday, August 08, 2023",,126349.172,
+Office Supplies,"Wednesday, August 09, 2023",,126349.172,
+Office Supplies,"Thursday, August 10, 2023",1454.49,127803.66200000001,1454.49
+Office Supplies,"Friday, August 11, 2023",153.584,127957.24600000001,153.584
+Office Supplies,"Saturday, August 12, 2023",717.564,128674.81000000001,717.564
+Office Supplies,"Sunday, August 13, 2023",1.584,128676.39400000001,1.584
+Office Supplies,"Monday, August 14, 2023",,128676.39400000001,
+Office Supplies,"Tuesday, August 15, 2023",,128676.39400000001,
+Office Supplies,"Wednesday, August 16, 2023",,128676.39400000001,
+Office Supplies,"Thursday, August 17, 2023",170.136,128846.53000000001,170.136
+Office Supplies,"Friday, August 18, 2023",2401.15,131247.68000000002,2401.15
+Office Supplies,"Saturday, August 19, 2023",,131247.68000000002,
+Office Supplies,"Sunday, August 20, 2023",143.84,131391.52000000002,143.84
+Office Supplies,"Monday, August 21, 2023",465.148,131856.668,465.148
+Office Supplies,"Tuesday, August 22, 2023",,131856.668,
+Office Supplies,"Wednesday, August 23, 2023",4367.896,136224.564,4367.896
+Office Supplies,"Thursday, August 24, 2023",,136224.564,
+Office Supplies,"Friday, August 25, 2023",,136224.564,
+Office Supplies,"Saturday, August 26, 2023",71.98,136296.54400000002,71.98
+Office Supplies,"Sunday, August 27, 2023",2347.842,138644.38600000003,2347.842
+Office Supplies,"Monday, August 28, 2023",35.168,138679.55400000003,35.168
+Office Supplies,"Tuesday, August 29, 2023",,138679.55400000003,
+Office Supplies,"Wednesday, August 30, 2023",,138679.55400000003,
+Office Supplies,"Thursday, August 31, 2023",1349.308,140028.86200000002,1349.308
+Office Supplies,"Friday, September 01, 2023",19.99,140048.852,19.99
+Office Supplies,"Saturday, September 02, 2023",3974.784,144023.63600000003,3974.784
+Office Supplies,"Sunday, September 03, 2023",385.77,144409.40600000002,385.77
+Office Supplies,"Monday, September 04, 2023",159.736,144569.14200000002,159.736
+Office Supplies,"Tuesday, September 05, 2023",89.568,144658.71000000002,89.568
+Office Supplies,"Wednesday, September 06, 2023",,144658.71000000002,
+Office Supplies,"Thursday, September 07, 2023",989.216,145647.926,989.216
+Office Supplies,"Friday, September 08, 2023",948.016,146595.942,948.016
+Office Supplies,"Saturday, September 09, 2023",2446.494,149042.43600000002,2446.494
+Office Supplies,"Sunday, September 10, 2023",853.77,149896.206,853.77
+Office Supplies,"Monday, September 11, 2023",223.912,150120.11800000002,223.912
+Office Supplies,"Tuesday, September 12, 2023",,150120.11800000002,
+Office Supplies,"Wednesday, September 13, 2023",,150120.11800000002,
+Office Supplies,"Thursday, September 14, 2023",2229.549,152349.66700000002,2229.549
+Office Supplies,"Friday, September 15, 2023",1189.43,153539.097,1189.43
+Office Supplies,"Saturday, September 16, 2023",193.952,153733.049,193.952
+Office Supplies,"Sunday, September 17, 2023",1985.73,155718.779,1985.73
+Office Supplies,"Monday, September 18, 2023",609,156327.779,609
+Office Supplies,"Tuesday, September 19, 2023",903.43,157231.209,903.43
+Office Supplies,"Wednesday, September 20, 2023",1749.92,158981.12900000002,1749.92
+Office Supplies,"Thursday, September 21, 2023",151.96,159133.089,151.96
+Office Supplies,"Friday, September 22, 2023",1763.044,160896.133,1763.044
+Office Supplies,"Saturday, September 23, 2023",579.878,161476.011,579.878
+Office Supplies,"Sunday, September 24, 2023",4584.644,166060.655,4584.644
+Office Supplies,"Monday, September 25, 2023",119.96,166180.615,119.96
+Office Supplies,"Tuesday, September 26, 2023",,166180.615,
+Office Supplies,"Wednesday, September 27, 2023",,166180.615,
+Office Supplies,"Thursday, September 28, 2023",54.384,166234.99899999998,54.384
+Office Supplies,"Friday, September 29, 2023",576.486,166811.485,576.486
+Office Supplies,"Saturday, September 30, 2023",159.98,166971.465,159.98
+Office Supplies,"Sunday, October 01, 2023",1809.64,168781.105,1809.64
+Office Supplies,"Monday, October 02, 2023",519.934,169301.03900000002,519.934
+Office Supplies,"Tuesday, October 03, 2023",371.97,169673.00900000002,371.97
+Office Supplies,"Wednesday, October 04, 2023",,169673.00900000002,
+Office Supplies,"Thursday, October 05, 2023",5520.506,175193.515,5520.506
+Office Supplies,"Friday, October 06, 2023",319.96,175513.475,319.96
+Office Supplies,"Saturday, October 07, 2023",1546.958,177060.43300000002,1546.958
+Office Supplies,"Sunday, October 08, 2023",379.152,177439.58500000002,379.152
+Office Supplies,"Monday, October 09, 2023",,177439.58500000002,
+Office Supplies,"Tuesday, October 10, 2023",,177439.58500000002,
+Office Supplies,"Wednesday, October 11, 2023",,177439.58500000002,
+Office Supplies,"Thursday, October 12, 2023",2278.238,179717.82300000003,2278.238
+Office Supplies,"Friday, October 13, 2023",241.924,179959.74700000003,241.924
+Office Supplies,"Saturday, October 14, 2023",46.36,180006.10700000002,46.36
+Office Supplies,"Sunday, October 15, 2023",,180006.10700000002,
+Office Supplies,"Monday, October 16, 2023",618.513,180624.62000000002,618.513
+Office Supplies,"Tuesday, October 17, 2023",52.792,180677.412,52.792
+Office Supplies,"Wednesday, October 18, 2023",,180677.412,
+Office Supplies,"Thursday, October 19, 2023",326.256,181003.668,326.256
+Office Supplies,"Friday, October 20, 2023",15.984,181019.652,15.984
+Office Supplies,"Saturday, October 21, 2023",1798.308,182817.96,1798.308
+Office Supplies,"Sunday, October 22, 2023",13685.258,196503.218,13685.258
+Office Supplies,"Monday, October 23, 2023",1778.92,198282.138,1778.92
+Office Supplies,"Tuesday, October 24, 2023",,198282.138,
+Office Supplies,"Wednesday, October 25, 2023",,198282.138,
+Office Supplies,"Thursday, October 26, 2023",200.182,198482.32,200.182
+Office Supplies,"Friday, October 27, 2023",194.984,198677.304,194.984
+Office Supplies,"Saturday, October 28, 2023",50.176,198727.48,50.176
+Office Supplies,"Sunday, October 29, 2023",,198727.48,
+Office Supplies,"Monday, October 30, 2023",590.88,199318.36000000002,590.88
+Office Supplies,"Tuesday, October 31, 2023",508.768,199827.12800000003,508.768
+Office Supplies,"Wednesday, November 01, 2023",,199827.12800000003,
+Office Supplies,"Thursday, November 02, 2023",3109.11,202936.238,3109.11
+Office Supplies,"Friday, November 03, 2023",1605.386,204541.624,1605.386
+Office Supplies,"Saturday, November 04, 2023",9670.564,214212.18800000002,9670.564
+Office Supplies,"Sunday, November 05, 2023",1143.488,215355.67600000004,1143.488
+Office Supplies,"Monday, November 06, 2023",125.91,215481.58600000004,125.91
+Office Supplies,"Tuesday, November 07, 2023",1629.164,217110.75000000003,1629.164
+Office Supplies,"Wednesday, November 08, 2023",,217110.75000000003,
+Office Supplies,"Thursday, November 09, 2023",1617.754,218728.50400000002,1617.754
+Office Supplies,"Friday, November 10, 2023",1080.2,219808.70400000003,1080.2
+Office Supplies,"Saturday, November 11, 2023",35.184,219843.88800000004,35.184
+Office Supplies,"Sunday, November 12, 2023",1285.958,221129.84600000005,1285.958
+Office Supplies,"Monday, November 13, 2023",1896.239,223026.08500000005,1896.239
+Office Supplies,"Tuesday, November 14, 2023",287.892,223313.97700000004,287.892
+Office Supplies,"Wednesday, November 15, 2023",,223313.97700000004,
+Office Supplies,"Thursday, November 16, 2023",3240.178,226554.15500000003,3240.178
+Office Supplies,"Friday, November 17, 2023",11457.18,238011.33500000002,11457.18
+Office Supplies,"Saturday, November 18, 2023",207.47,238218.80500000002,207.47
+Office Supplies,"Sunday, November 19, 2023",31.968,238250.77300000002,31.968
+Office Supplies,"Monday, November 20, 2023",1832.93,240083.703,1832.93
+Office Supplies,"Tuesday, November 21, 2023",1755.144,241838.847,1755.144
+Office Supplies,"Wednesday, November 22, 2023",,241838.847,
+Office Supplies,"Thursday, November 23, 2023",520.448,242359.295,520.448
+Office Supplies,"Friday, November 24, 2023",392.668,242751.96300000002,392.668
+Office Supplies,"Saturday, November 25, 2023",339.92,243091.88300000003,339.92
+Office Supplies,"Sunday, November 26, 2023",3208.682,246300.56500000003,3208.682
+Office Supplies,"Monday, November 27, 2023",367.458,246668.02300000004,367.458
+Office Supplies,"Tuesday, November 28, 2023",1979.89,248647.91300000006,1979.89
+Office Supplies,"Wednesday, November 29, 2023",,248647.91300000006,
+Office Supplies,"Thursday, November 30, 2023",1097.988,249745.90100000007,1097.988
+Office Supplies,"Friday, December 01, 2023",1417.436,251163.33700000006,1417.436
+Office Supplies,"Saturday, December 02, 2023",3758.066,254921.40300000005,3758.066
+Office Supplies,"Sunday, December 03, 2023",364.07,255285.47300000006,364.07
+Office Supplies,"Monday, December 04, 2023",1447.718,256733.19100000005,1447.718
+Office Supplies,"Tuesday, December 05, 2023",335.596,257068.78700000004,335.596
+Office Supplies,"Wednesday, December 06, 2023",,257068.78700000004,
+Office Supplies,"Thursday, December 07, 2023",554.36,257623.14700000003,554.36
+Office Supplies,"Friday, December 08, 2023",1642.024,259265.17100000003,1642.024
+Office Supplies,"Saturday, December 09, 2023",2096.078,261361.24900000004,2096.078
+Office Supplies,"Sunday, December 10, 2023",798.06,262159.30900000007,798.06
+Office Supplies,"Monday, December 11, 2023",475.69,262634.99900000007,475.69
+Office Supplies,"Tuesday, December 12, 2023",,262634.99900000007,
+Office Supplies,"Wednesday, December 13, 2023",,262634.99900000007,
+Office Supplies,"Thursday, December 14, 2023",1724.45,264359.4490000001,1724.45
+Office Supplies,"Friday, December 15, 2023",196.776,264556.2250000001,196.776
+Office Supplies,"Saturday, December 16, 2023",339.9,264896.1250000001,339.9
+Office Supplies,"Sunday, December 17, 2023",,264896.1250000001,
+Office Supplies,"Monday, December 18, 2023",149.32,265045.4450000001,149.32
+Office Supplies,"Tuesday, December 19, 2023",,265045.4450000001,
+Office Supplies,"Wednesday, December 20, 2023",,265045.4450000001,
+Office Supplies,"Thursday, December 21, 2023",352.97,265398.4150000001,352.97
+Office Supplies,"Friday, December 22, 2023",1503.752,266902.1670000001,1503.752
+Office Supplies,"Saturday, December 23, 2023",494.97,267397.13700000005,494.97
+Office Supplies,"Sunday, December 24, 2023",3359.922,270757.05900000007,3359.922
+Office Supplies,"Monday, December 25, 2023",401.208,271158.26700000005,401.208
+Office Supplies,"Tuesday, December 26, 2023",,271158.26700000005,
+Office Supplies,"Wednesday, December 27, 2023",164.388,271322.655,164.388
+Office Supplies,"Thursday, December 28, 2023",14.85,271337.505,14.85
+Office Supplies,"Friday, December 29, 2023",302.376,271639.881,302.376
+Office Supplies,"Saturday, December 30, 2023",90.93,271730.811,90.93
