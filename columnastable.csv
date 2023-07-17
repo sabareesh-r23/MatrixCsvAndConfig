@@ -1,0 +1,613 @@
+Orders.Order Date.Variation.Date Hierarchy.Month,Orders.Category,Orders.Sub-Category,Orders.Segment,Sum(Orders.Sales),Sum(Orders.Profit)
+January,Furniture,Bookcases,Consumer,2658.2486,-810.6860000000001
+February,Furniture,Bookcases,Consumer,1116.594,197.42619999999994
+March,Furniture,Bookcases,Consumer,3233.3209999999995,-478.2228000000001
+April,Furniture,Bookcases,Consumer,2771.194,271.6822
+May,Furniture,Bookcases,Consumer,4236.6143999999995,157.48879999999988
+June,Furniture,Bookcases,Consumer,5201.9333,219.5560999999997
+July,Furniture,Bookcases,Consumer,4794.129,-4.008999999999936
+August,Furniture,Bookcases,Consumer,2019.8768,-166.6474
+September,Furniture,Bookcases,Consumer,17067.9386,-1846.4078000000006
+October,Furniture,Bookcases,Consumer,4292.3242,-408.2650000000001
+November,Furniture,Bookcases,Consumer,14907.842800000002,-436.69390000000055
+December,Furniture,Bookcases,Consumer,6332.712299999999,-1130.8596000000005
+January,Furniture,Bookcases,Corporate,2609.13,240.77079999999992
+February,Furniture,Bookcases,Corporate,,
+March,Furniture,Bookcases,Corporate,2177.7412,-170.3190000000002
+April,Furniture,Bookcases,Corporate,1209.7006000000001,-7.299800000000047
+May,Furniture,Bookcases,Corporate,2052.9673000000003,-396.00540000000007
+June,Furniture,Bookcases,Corporate,1121.76,-191.43540000000002
+July,Furniture,Bookcases,Corporate,3373.0609999999997,498.1401999999998
+August,Furniture,Bookcases,Corporate,2914.2682,63.68720000000013
+September,Furniture,Bookcases,Corporate,5362.3193,-166.20920000000004
+October,Furniture,Bookcases,Corporate,2308.465,50.82200000000006
+November,Furniture,Bookcases,Corporate,7254.4557,927.6228
+December,Furniture,Bookcases,Corporate,3622.0559999999996,-211.32400000000015
+January,Furniture,Bookcases,Home Office,84.98,18.6956
+February,Furniture,Bookcases,Home Office,533.0293999999999,52.56679999999995
+March,Furniture,Bookcases,Home Office,1940.8536,-33.08619999999999
+April,Furniture,Bookcases,Home Office,739.586,-225.98760000000004
+May,Furniture,Bookcases,Home Office,,
+June,Furniture,Bookcases,Home Office,2823.9359999999997,203.45060000000007
+July,Furniture,Bookcases,Home Office,421.79299999999995,67.441
+August,Furniture,Bookcases,Home Office,687.4,48.11799999999998
+September,Furniture,Bookcases,Home Office,942.2728,3.1243999999999517
+October,Furniture,Bookcases,Home Office,1646.1540000000002,180.6623999999999
+November,Furniture,Bookcases,Home Office,1398.722,-37.72520000000004
+December,Furniture,Bookcases,Home Office,1022.6161999999999,47.37219999999999
+January,Furniture,Chairs,Consumer,8321.135,173.4170999999999
+February,Furniture,Chairs,Consumer,4432.81,566.8314999999999
+March,Furniture,Chairs,Consumer,8551.483,1131.0379999999998
+April,Furniture,Chairs,Consumer,9416.164,790.3655999999997
+May,Furniture,Chairs,Consumer,13504.409000000001,735.5245999999997
+June,Furniture,Chairs,Consumer,8671.986999999997,647.9569999999997
+July,Furniture,Chairs,Consumer,11327.677,355.6760999999997
+August,Furniture,Chairs,Consumer,9132.76,-530.3962000000004
+September,Furniture,Chairs,Consumer,29694.023,3644.7227000000003
+October,Furniture,Chairs,Consumer,14544.785999999996,540.6427000000001
+November,Furniture,Chairs,Consumer,23714.024,1092.1757000000002
+December,Furniture,Chairs,Consumer,31551.483999999993,4087.377100000001
+January,Furniture,Chairs,Corporate,207.84600000000003,2.3093999999999895
+February,Furniture,Chairs,Corporate,1358.476,120.80159999999987
+March,Furniture,Chairs,Corporate,7508.822000000002,431.75669999999974
+April,Furniture,Chairs,Corporate,5087.116000000001,547.9063999999997
+May,Furniture,Chairs,Corporate,10539.343,1195.8721999999998
+June,Furniture,Chairs,Corporate,8179.254000000001,452.8063999999998
+July,Furniture,Chairs,Corporate,9150.468,460.3518999999995
+August,Furniture,Chairs,Corporate,8290.916,1008.3613999999998
+September,Furniture,Chairs,Corporate,11058.264,1148.6617
+October,Furniture,Chairs,Corporate,7161.407999999999,443.66260000000005
+November,Furniture,Chairs,Corporate,14953.674,1144.5897999999993
+December,Furniture,Chairs,Corporate,15645.291000000001,1387.5763999999995
+January,Furniture,Chairs,Home Office,2756.188,725.8913999999996
+February,Furniture,Chairs,Home Office,1791.654,76.37339999999986
+March,Furniture,Chairs,Home Office,5284.022,189.2366999999998
+April,Furniture,Chairs,Home Office,4023.305,321.2940999999999
+May,Furniture,Chairs,Home Office,1850.078,-162.22180000000003
+June,Furniture,Chairs,Home Office,4672.126000000001,383.0731999999996
+July,Furniture,Chairs,Home Office,2538.206,-50.146199999999894
+August,Furniture,Chairs,Home Office,916.128,50.69679999999998
+September,Furniture,Chairs,Home Office,10824.930999999997,1251.4427
+October,Furniture,Chairs,Home Office,2464.256,76.6229999999998
+November,Furniture,Chairs,Home Office,9092.315,1007.5279999999996
+December,Furniture,Chairs,Home Office,10232.274000000001,1140.3866
+January,Furniture,Furnishings,Consumer,2620.0480000000002,373.8166999999999
+February,Furniture,Furnishings,Consumer,1253.8439999999998,167.93869999999995
+March,Furniture,Furnishings,Consumer,3220.2380000000003,467.80670000000015
+April,Furniture,Furnishings,Consumer,2468.1,369.1000999999999
+May,Furniture,Furnishings,Consumer,2462.786,278.8890999999999
+June,Furniture,Furnishings,Consumer,4047.4199999999996,-11.271500000000195
+July,Furniture,Furnishings,Consumer,4217.200000000001,1071.8353999999997
+August,Furniture,Furnishings,Consumer,2362.1940000000004,413.40290000000005
+September,Furniture,Furnishings,Consumer,7134.091999999995,1671.9316999999996
+October,Furniture,Furnishings,Consumer,1762.092,144.3959999999999
+November,Furniture,Furnishings,Consumer,8732.041999999996,1425.8648999999994
+December,Furniture,Furnishings,Consumer,9339.99,1545.7119999999993
+January,Furniture,Furnishings,Corporate,557.628,196.45520000000002
+February,Furniture,Furnishings,Corporate,862.712,43.76169999999997
+March,Furniture,Furnishings,Corporate,636.0239999999999,167.471
+April,Furniture,Furnishings,Corporate,2561.1639999999993,716.8541
+May,Furniture,Furnishings,Corporate,2447.662,420.1545999999999
+June,Furniture,Furnishings,Corporate,1582.1580000000004,333.43539999999996
+July,Furniture,Furnishings,Corporate,2145.262,-62.83640000000014
+August,Furniture,Furnishings,Corporate,1238.0240000000001,258.02259999999995
+September,Furniture,Furnishings,Corporate,3095.0340000000006,540.5483999999999
+October,Furniture,Furnishings,Corporate,2745.5840000000003,355.7061
+November,Furniture,Furnishings,Corporate,3556.118,342.5701
+December,Furniture,Furnishings,Corporate,3573.896,196.06489999999997
+January,Furniture,Furnishings,Home Office,801.946,-166.16499999999994
+February,Furniture,Furnishings,Home Office,199.118,23.274700000000017
+March,Furniture,Furnishings,Home Office,1302.784,265.96559999999994
+April,Furniture,Furnishings,Home Office,2509.098,114.09469999999988
+May,Furniture,Furnishings,Home Office,1982.9800000000002,448.09189999999995
+June,Furniture,Furnishings,Home Office,293.89599999999996,36.865899999999996
+July,Furniture,Furnishings,Home Office,1246.5900000000001,-223.86660000000012
+August,Furniture,Furnishings,Home Office,433.376,80.01480000000004
+September,Furniture,Furnishings,Home Office,1575.784,187.80299999999994
+October,Furniture,Furnishings,Home Office,939.5099999999998,148.44769999999994
+November,Furniture,Furnishings,Home Office,4494.380000000002,478.03529999999984
+December,Furniture,Furnishings,Home Office,1304.3900000000003,238.95119999999997
+January,Furniture,Tables,Consumer,7541.888000000001,-3036.2784
+February,Furniture,Tables,Consumer,2399.9230000000002,34.27639999999991
+March,Furniture,Tables,Consumer,8572.520999999999,-626.81
+April,Furniture,Tables,Consumer,3996.8995,-608.5104000000001
+May,Furniture,Tables,Consumer,3513.087,-1005.9365000000001
+June,Furniture,Tables,Consumer,8657.240000000002,-234.65230000000054
+July,Furniture,Tables,Consumer,5459.413999999999,-640.9969
+August,Furniture,Tables,Consumer,5412.856499999999,-828.5968000000003
+September,Furniture,Tables,Consumer,11083.132000000001,-850.8806000000004
+October,Furniture,Tables,Consumer,8092.3655,-245.2277000000002
+November,Furniture,Tables,Consumer,14792.085500000001,-1733.4027000000006
+December,Furniture,Tables,Consumer,20412.382999999998,48.97809999999919
+January,Furniture,Tables,Corporate,3410.2040000000006,337.5601999999999
+February,Furniture,Tables,Corporate,493.9199999999999,-28.22399999999999
+March,Furniture,Tables,Corporate,7157.954000000001,-529.5688
+April,Furniture,Tables,Corporate,2917.8199999999997,357.3527
+May,Furniture,Tables,Corporate,5488.354,567.3335999999997
+June,Furniture,Tables,Corporate,5239.0380000000005,-416.08420000000024
+July,Furniture,Tables,Corporate,4189.948,49.34209999999976
+August,Furniture,Tables,Corporate,7690.6715,-56.24880000000016
+September,Furniture,Tables,Corporate,4573.941000000001,-331.557
+October,Furniture,Tables,Corporate,9399.581000000002,-3339.4131
+November,Furniture,Tables,Corporate,10082.07,-202.8085000000002
+December,Furniture,Tables,Corporate,10228.216,-1314.1828
+January,Furniture,Tables,Home Office,,
+February,Furniture,Tables,Home Office,1323.8400000000001,-561.4474
+March,Furniture,Tables,Home Office,1182.5120000000002,-43.28040000000006
+April,Furniture,Tables,Home Office,2998.4365000000003,-1186.5259999999998
+May,Furniture,Tables,Home Office,286.85,63.107
+June,Furniture,Tables,Home Office,2508.715,-441.31650000000025
+July,Furniture,Tables,Home Office,513.264,-108.24700000000001
+August,Furniture,Tables,Home Office,3785.574,-336.3204000000002
+September,Furniture,Tables,Home Office,3968.8590000000004,206.82229999999973
+October,Furniture,Tables,Home Office,2730.99,-975.9888000000001
+November,Furniture,Tables,Home Office,8308.32,-87.7556000000003
+December,Furniture,Tables,Home Office,8552.659,380.0081
+January,NewTechnology,Accessories,Consumer,852.672,190.86110000000002
+February,NewTechnology,Accessories,Consumer,3194.7439999999997,972.3863000000001
+March,NewTechnology,Accessories,Consumer,4955.330000000002,1306.9402999999998
+April,NewTechnology,Accessories,Consumer,4158.374,886.93
+May,NewTechnology,Accessories,Consumer,4699.6179999999995,1101.2270999999998
+June,NewTechnology,Accessories,Consumer,5073.4039999999995,1360.6829
+July,NewTechnology,Accessories,Consumer,9014.753999999999,1957.5744999999997
+August,NewTechnology,Accessories,Consumer,5100.4400000000005,872.5383999999996
+September,NewTechnology,Accessories,Consumer,14419.117999999997,3305.374099999999
+October,NewTechnology,Accessories,Consumer,6414.461999999999,1278.2220999999997
+November,NewTechnology,Accessories,Consumer,11981.041999999994,2691.617400000001
+December,NewTechnology,Accessories,Consumer,17241.28,4811.5683
+January,NewTechnology,Accessories,Corporate,2155.424,492.4795999999999
+February,NewTechnology,Accessories,Corporate,2142.54,504.59869999999984
+March,NewTechnology,Accessories,Corporate,2971.762,717.2840999999999
+April,NewTechnology,Accessories,Corporate,1103.846,373.50640000000004
+May,NewTechnology,Accessories,Corporate,3528.315999999999,1032.2942999999996
+June,NewTechnology,Accessories,Corporate,3161.705999999999,731.0641999999999
+July,NewTechnology,Accessories,Corporate,4962.939999999999,1608.7865000000002
+August,NewTechnology,Accessories,Corporate,5450.112000000001,1468.6568000000002
+September,NewTechnology,Accessories,Corporate,6305.71,1830.1556999999996
+October,NewTechnology,Accessories,Corporate,3015.7619999999997,618.1287999999998
+November,NewTechnology,Accessories,Corporate,9154.864,2504.6463000000003
+December,NewTechnology,Accessories,Corporate,4237.582,825.8791
+January,NewTechnology,Accessories,Home Office,2469.8099999999995,654.4995
+February,NewTechnology,Accessories,Home Office,31.992000000000004,4.798799999999996
+March,NewTechnology,Accessories,Home Office,839.546,279.1856
+April,NewTechnology,Accessories,Home Office,2689.4880000000003,571.5170999999999
+May,NewTechnology,Accessories,Home Office,1385.1659999999997,338.17170000000004
+June,NewTechnology,Accessories,Home Office,673.274,141.84339999999997
+July,NewTechnology,Accessories,Home Office,3148.724,1217.6195999999998
+August,NewTechnology,Accessories,Home Office,1825.592,222.13030000000003
+September,NewTechnology,Accessories,Home Office,4175.526000000001,1222.1365000000005
+October,NewTechnology,Accessories,Home Office,3496.9179999999997,813.3250999999998
+November,NewTechnology,Accessories,Home Office,4820.825999999998,1156.4280999999996
+December,NewTechnology,Accessories,Home Office,6527.6539999999995,1871.577
+January,NewTechnology,Copiers,Consumer,,
+February,NewTechnology,Copiers,Consumer,,
+March,NewTechnology,Copiers,Consumer,16079.912,7217.9713999999985
+April,NewTechnology,Copiers,Consumer,2679.916,911.9713999999999
+May,NewTechnology,Copiers,Consumer,13479.873999999998,2464.9694999999992
+June,NewTechnology,Copiers,Consumer,,
+July,NewTechnology,Copiers,Consumer,5399.898000000001,1381.9772999999998
+August,NewTechnology,Copiers,Consumer,1499.9660000000001,524.9883
+September,NewTechnology,Copiers,Consumer,9999.758000000002,3736.9065
+October,NewTechnology,Copiers,Consumer,2479.936,786.9793999999999
+November,NewTechnology,Copiers,Consumer,12659.93,5531.9768
+December,NewTechnology,Copiers,Consumer,5539.88,1525.9699999999998
+January,NewTechnology,Copiers,Corporate,959.9680000000001,119.99599999999992
+February,NewTechnology,Copiers,Corporate,,
+March,NewTechnology,Copiers,Corporate,8549.84,3490.4336000000003
+April,NewTechnology,Copiers,Corporate,1199.976,374.99249999999995
+May,NewTechnology,Copiers,Corporate,1559.964,204.9944999999999
+June,NewTechnology,Copiers,Corporate,899.97,314.9895
+July,NewTechnology,Copiers,Corporate,2399.96,839.9860000000001
+August,NewTechnology,Copiers,Corporate,3679.9440000000004,1204.9814999999999
+September,NewTechnology,Copiers,Corporate,319.98400000000004,107.99459999999999
+October,NewTechnology,Copiers,Corporate,17939.941999999995,8564.972999999998
+November,NewTechnology,Copiers,Corporate,1939.964,473.99159999999995
+December,NewTechnology,Copiers,Corporate,7379.874000000001,3292.9460999999997
+January,NewTechnology,Copiers,Home Office,2999.95,1379.9769999999999
+February,NewTechnology,Copiers,Home Office,,
+March,NewTechnology,Copiers,Home Office,959.984,335.99440000000004
+April,NewTechnology,Copiers,Home Office,,
+May,NewTechnology,Copiers,Home Office,3359.952,1049.985
+June,NewTechnology,Copiers,Home Office,,
+July,NewTechnology,Copiers,Home Office,1979.9340000000002,539.9819999999999
+August,NewTechnology,Copiers,Home Office,549.99,274.995
+September,NewTechnology,Copiers,Home Office,,
+October,NewTechnology,Copiers,Home Office,16599.878,6511.945599999999
+November,NewTechnology,Copiers,Home Office,549.99,274.995
+December,NewTechnology,Copiers,Home Office,5879.896000000001,2175.9614
+January,NewTechnology,Machines,Consumer,1919.976,215.99729999999977
+February,NewTechnology,Machines,Consumer,8749.95,2799.9839999999995
+March,NewTechnology,Machines,Consumer,5187.84,2434.5552
+April,NewTechnology,Machines,Consumer,1739.864,770.0435
+May,NewTechnology,Machines,Consumer,8528.123,1407.7446999999993
+June,NewTechnology,Machines,Consumer,7599.911,731.2723999999994
+July,NewTechnology,Machines,Consumer,464.97,209.23649999999998
+August,NewTechnology,Machines,Consumer,4581.552,1557.1238
+September,NewTechnology,Machines,Consumer,18933.686999999998,-708.1861000000024
+October,NewTechnology,Machines,Consumer,471.15400000000005,-39.09429999999996
+November,NewTechnology,Machines,Consumer,8288.326000000001,-6700.538800000001
+December,NewTechnology,Machines,Consumer,13077.472000000002,-537.0764000000013
+January,NewTechnology,Machines,Corporate,4943.682,-298.2320000000004
+February,NewTechnology,Machines,Corporate,239.98400000000004,38.99739999999997
+March,NewTechnology,Machines,Corporate,981.82,-590.4379999999999
+April,NewTechnology,Machines,Corporate,13899.914,2725.980599999999
+May,NewTechnology,Machines,Corporate,2396.4,179.73000000000013
+June,NewTechnology,Machines,Corporate,78.66,36.18359999999999
+July,NewTechnology,Machines,Corporate,1204.5980000000002,-380.9301000000001
+August,NewTechnology,Machines,Corporate,1679.958,-183.00480000000027
+September,NewTechnology,Machines,Corporate,7045.469999999999,-1265.4213000000004
+October,NewTechnology,Machines,Corporate,7133.354,1638.1222
+November,NewTechnology,Machines,Corporate,19152.653,-761.3555999999987
+December,NewTechnology,Machines,Corporate,1520.2620000000002,-436.61299999999983
+January,NewTechnology,Machines,Home Office,350.97300000000007,152.08829999999998
+February,NewTechnology,Machines,Home Office,,
+March,NewTechnology,Machines,Home Office,28882.244,-868.7384000000027
+April,NewTechnology,Machines,Home Office,2549.9850000000006,-3399.980000000001
+May,NewTechnology,Machines,Home Office,343.20000000000005,38.60999999999996
+June,NewTechnology,Machines,Home Office,4503.954,1709.5746
+July,NewTechnology,Machines,Home Office,2395.2000000000003,209.58000000000004
+August,NewTechnology,Machines,Home Office,,
+September,NewTechnology,Machines,Home Office,406.5,74.96369999999996
+October,NewTechnology,Machines,Home Office,3008.585,-651.0675
+November,NewTechnology,Machines,Home Office,6366.32,3134.6243999999997
+December,NewTechnology,Machines,Home Office,612.0899999999999,141.02099999999996
+January,NewTechnology,Phones,Consumer,9219.504000000003,1247.5581000000002
+February,NewTechnology,Phones,Consumer,2223.058,168.50379999999993
+March,NewTechnology,Phones,Consumer,8364.467999999999,828.6024
+April,NewTechnology,Phones,Consumer,9213.747999999998,950.7535000000003
+May,NewTechnology,Phones,Consumer,16397.417999999998,1895.5629999999999
+June,NewTechnology,Phones,Consumer,15776.798000000004,2781.8360000000002
+July,NewTechnology,Phones,Consumer,14485.402,1124.2821999999994
+August,NewTechnology,Phones,Consumer,17290.881999999994,2045.5386999999998
+September,NewTechnology,Phones,Consumer,17200.766000000003,3696.4449999999997
+October,NewTechnology,Phones,Consumer,11269.346,1362.6601999999996
+November,NewTechnology,Phones,Consumer,29449.847999999987,4274.576400000001
+December,NewTechnology,Phones,Consumer,19041.52600000001,3460.795400000001
+January,NewTechnology,Phones,Corporate,1685.4200000000003,219.80979999999994
+February,NewTechnology,Phones,Corporate,3199.6600000000003,553.0138000000001
+March,NewTechnology,Phones,Corporate,9348.511999999999,1471.4242000000006
+April,NewTechnology,Phones,Corporate,4877.786,390.47249999999997
+May,NewTechnology,Phones,Corporate,5350.002,1216.2183999999997
+June,NewTechnology,Phones,Corporate,4485.4980000000005,586.1765
+July,NewTechnology,Phones,Corporate,8269.468,1322.2412000000004
+August,NewTechnology,Phones,Corporate,5832.078000000001,436.9662000000001
+September,NewTechnology,Phones,Corporate,12786.76,1123.6711999999998
+October,NewTechnology,Phones,Corporate,8671.050000000003,1489.1581999999999
+November,NewTechnology,Phones,Corporate,14790.813999999997,1559.2848999999994
+December,NewTechnology,Phones,Corporate,11856.366,1397.7826999999993
+January,NewTechnology,Phones,Home Office,2564.3840000000005,459.8589999999999
+February,NewTechnology,Phones,Home Office,3561.4900000000007,284.72929999999974
+March,NewTechnology,Phones,Home Office,10730.312000000002,743.8554000000001
+April,NewTechnology,Phones,Home Office,3517.378,823.2351000000001
+May,NewTechnology,Phones,Home Office,2614.1220000000003,149.45479999999992
+June,NewTechnology,Phones,Home Office,6051.408000000001,836.4971000000002
+July,NewTechnology,Phones,Home Office,1128.178,70.63409999999993
+August,NewTechnology,Phones,Home Office,4535.342000000001,674.5267999999999
+September,NewTechnology,Phones,Home Office,7787.430000000001,974.2237000000001
+October,NewTechnology,Phones,Home Office,6531.557999999999,1509.2124
+November,NewTechnology,Phones,Home Office,11980.264000000001,1900.1665000000003
+December,NewTechnology,Phones,Home Office,7919.009999999998,486.0020999999999
+January,Office Supplies,Appliances,Consumer,2998.1599999999994,561.9973999999999
+February,Office Supplies,Appliances,Consumer,1260.1719999999998,323.91339999999985
+March,Office Supplies,Appliances,Consumer,4096.8859999999995,-126.82940000000008
+April,Office Supplies,Appliances,Consumer,4854.659999999999,-418.1891000000008
+May,Office Supplies,Appliances,Consumer,3950.096,510.5701999999999
+June,Office Supplies,Appliances,Consumer,2227.226,183.4746
+July,Office Supplies,Appliances,Consumer,717.7680000000001,111.19479999999997
+August,Office Supplies,Appliances,Consumer,7354.312000000001,1469.9957999999997
+September,Office Supplies,Appliances,Consumer,4603.488,474.25639999999987
+October,Office Supplies,Appliances,Consumer,3774.504,948.9610999999998
+November,Office Supplies,Appliances,Consumer,7519.6579999999985,1781.5615999999998
+December,Office Supplies,Appliances,Consumer,9462.651,1161.021400000001
+January,Office Supplies,Appliances,Corporate,90.724,13.210000000000004
+February,Office Supplies,Appliances,Corporate,3060.5839999999994,618.0873999999998
+March,Office Supplies,Appliances,Corporate,2318.502,268.59030000000007
+April,Office Supplies,Appliances,Corporate,320.08,-75.51490000000001
+May,Office Supplies,Appliances,Corporate,1282.4239999999998,250.36539999999988
+June,Office Supplies,Appliances,Corporate,3236.9039999999995,936.9613999999999
+July,Office Supplies,Appliances,Corporate,2997.0660000000003,461.34749999999974
+August,Office Supplies,Appliances,Corporate,4604.22,1225.8011000000001
+September,Office Supplies,Appliances,Corporate,4601.184000000001,490.09119999999984
+October,Office Supplies,Appliances,Corporate,448.80100000000004,-18.734000000000037
+November,Office Supplies,Appliances,Corporate,8277.536,1845.6546999999998
+December,Office Supplies,Appliances,Corporate,5350.658000000001,1414.0350999999994
+January,Office Supplies,Appliances,Home Office,87.36,23.587200000000003
+February,Office Supplies,Appliances,Home Office,612.23,169.53660000000005
+March,Office Supplies,Appliances,Home Office,318.24,62.65559999999999
+April,Office Supplies,Appliances,Home Office,867.0459999999999,201.26609999999994
+May,Office Supplies,Appliances,Home Office,2293.43,445.52459999999985
+June,Office Supplies,Appliances,Home Office,2015.33,368.6896999999999
+July,Office Supplies,Appliances,Home Office,108.41999999999999,31.736399999999996
+August,Office Supplies,Appliances,Home Office,1103.1270000000002,146.8207999999999
+September,Office Supplies,Appliances,Home Office,988.3559999999999,67.05839999999998
+October,Office Supplies,Appliances,Home Office,4928.2919999999995,1368.2266
+November,Office Supplies,Appliances,Home Office,3172.7380000000003,375.7823999999997
+December,Office Supplies,Appliances,Home Office,1629.328,465.2975999999999
+January,Office Supplies,Art,Consumer,373.94999999999993,89.54809999999999
+February,Office Supplies,Art,Consumer,822.0020000000001,179.04989999999995
+March,Office Supplies,Art,Consumer,836.0640000000002,194.22059999999993
+April,Office Supplies,Art,Consumer,1629.804,437.03499999999997
+May,Office Supplies,Art,Consumer,1155.708,271.8169999999999
+June,Office Supplies,Art,Consumer,806.9499999999999,212.9715
+July,Office Supplies,Art,Consumer,1278.0780000000002,307.6723999999999
+August,Office Supplies,Art,Consumer,571.1899999999999,134.7278
+September,Office Supplies,Art,Consumer,2120.584,535.4179
+October,Office Supplies,Art,Consumer,939.0820000000001,216.37490000000003
+November,Office Supplies,Art,Consumer,2278.1280000000006,540.0055999999997
+December,Office Supplies,Art,Consumer,1440.3899999999996,335.46040000000005
+January,Office Supplies,Art,Corporate,439.62,113.98620000000001
+February,Office Supplies,Art,Corporate,21.312,3.735599999999998
+March,Office Supplies,Art,Corporate,315.04999999999995,83.21599999999998
+April,Office Supplies,Art,Corporate,473.758,111.06809999999999
+May,Office Supplies,Art,Corporate,480.856,97.82389999999998
+June,Office Supplies,Art,Corporate,743.1079999999998,204.99109999999996
+July,Office Supplies,Art,Corporate,642.1480000000001,148.80190000000002
+August,Office Supplies,Art,Corporate,714.6739999999999,200.62300000000002
+September,Office Supplies,Art,Corporate,1024.5939999999998,247.15379999999996
+October,Office Supplies,Art,Corporate,635.9039999999999,191.67420000000004
+November,Office Supplies,Art,Corporate,1166.3780000000002,307.8161
+December,Office Supplies,Art,Corporate,1933.0460000000003,293.7578
+January,Office Supplies,Art,Home Office,100.8,29.31159999999999
+February,Office Supplies,Art,Home Office,274.2,78.63480000000001
+March,Office Supplies,Art,Home Office,150.86,33.58529999999999
+April,Office Supplies,Art,Home Office,303.59799999999996,60.512499999999996
+May,Office Supplies,Art,Home Office,594.266,120.9097
+June,Office Supplies,Art,Home Office,667.6379999999999,157.86639999999997
+July,Office Supplies,Art,Home Office,145.71400000000003,40.96739999999999
+August,Office Supplies,Art,Home Office,404.2699999999999,107.91959999999996
+September,Office Supplies,Art,Home Office,515.1919999999999,120.32439999999998
+October,Office Supplies,Art,Home Office,348.06999999999994,95.88449999999999
+November,Office Supplies,Art,Home Office,509.52799999999996,149.92659999999998
+December,Office Supplies,Art,Home Office,262.27799999999996,72.9954
+January,Office Supplies,Binders,Consumer,8349.788999999999,2911.1745999999994
+February,Office Supplies,Binders,Consumer,3890.9089999999997,633.5316999999992
+March,Office Supplies,Binders,Consumer,11096.895999999999,4476.1492
+April,Office Supplies,Binders,Consumer,3731.846,-1797.9016000000008
+May,Office Supplies,Binders,Consumer,2205.8969999999995,454.1678999999998
+June,Office Supplies,Binders,Consumer,11214.823,3559.8713999999986
+July,Office Supplies,Binders,Consumer,4847.490999999999,-4292.558400000002
+August,Office Supplies,Binders,Consumer,12183.168999999996,1440.6315
+September,Office Supplies,Binders,Consumer,24264.977000000028,6917.8568000000005
+October,Office Supplies,Binders,Consumer,3946.31,1029.242799999999
+November,Office Supplies,Binders,Consumer,11649.073999999999,-2213.7432000000017
+December,Office Supplies,Binders,Consumer,20779.827999999998,4877.174500000004
+January,Office Supplies,Binders,Corporate,1595.408,-1065.3232
+February,Office Supplies,Binders,Corporate,203.51500000000004,64.79159999999999
+March,Office Supplies,Binders,Corporate,2218.926,501.4381999999999
+April,Office Supplies,Binders,Corporate,5214.9310000000005,1045.2504999999996
+May,Office Supplies,Binders,Corporate,4458.338000000001,1440.3558
+June,Office Supplies,Binders,Corporate,1192.4209999999998,-206.97600000000014
+July,Office Supplies,Binders,Corporate,1762.1290000000001,468.87429999999983
+August,Office Supplies,Binders,Corporate,7219.833999999998,2524.157599999999
+September,Office Supplies,Binders,Corporate,3790.9610000000007,-47.05950000000024
+October,Office Supplies,Binders,Corporate,7015.877,2558.7301999999995
+November,Office Supplies,Binders,Corporate,7653.418999999997,792.6496999999995
+December,Office Supplies,Binders,Corporate,9234.553999999998,-1699.5691
+January,Office Supplies,Binders,Home Office,2269.004,1005.8072
+February,Office Supplies,Binders,Home Office,142.55700000000002,-8.28350000000001
+March,Office Supplies,Binders,Home Office,572.9129999999999,152.48449999999997
+April,Office Supplies,Binders,Home Office,4418.076999999999,1538.6719
+May,Office Supplies,Binders,Home Office,2495.2090000000003,333.04319999999996
+June,Office Supplies,Binders,Home Office,879.517,245.79570000000007
+July,Office Supplies,Binders,Home Office,1947.729,426.5735999999999
+August,Office Supplies,Binders,Home Office,1027.0100000000002,298.11369999999994
+September,Office Supplies,Binders,Home Office,9287.570000000003,570.7030999999989
+October,Office Supplies,Binders,Home Office,7114.442000000001,382.2839999999994
+November,Office Supplies,Binders,Home Office,1555.1579999999997,340.81239999999997
+December,Office Supplies,Binders,Home Office,1982.2250000000004,562.8401999999999
+January,Office Supplies,Envelopes,Consumer,459.276,160.8506
+February,Office Supplies,Envelopes,Consumer,121.24,52.544399999999996
+March,Office Supplies,Envelopes,Consumer,666.316,300.2921999999999
+April,Office Supplies,Envelopes,Consumer,545.5699999999999,232.21189999999999
+May,Office Supplies,Envelopes,Consumer,405.47999999999996,187.07399999999998
+June,Office Supplies,Envelopes,Consumer,498.478,212.21419999999995
+July,Office Supplies,Envelopes,Consumer,367.51400000000007,165.17899999999997
+August,Office Supplies,Envelopes,Consumer,627.7,256.4364
+September,Office Supplies,Envelopes,Consumer,1132.3259999999996,481.0699
+October,Office Supplies,Envelopes,Consumer,687.97,274.0120999999999
+November,Office Supplies,Envelopes,Consumer,1263.31,502.68760000000003
+December,Office Supplies,Envelopes,Consumer,995.966,439.8403
+January,Office Supplies,Envelopes,Corporate,112.92,55.5948
+February,Office Supplies,Envelopes,Corporate,368.726,167.83149999999998
+March,Office Supplies,Envelopes,Corporate,394.89,165.60359999999997
+April,Office Supplies,Envelopes,Corporate,373.85999999999996,180.1444
+May,Office Supplies,Envelopes,Corporate,477.37199999999996,212.7267
+June,Office Supplies,Envelopes,Corporate,,
+July,Office Supplies,Envelopes,Corporate,674.38,309.99999999999994
+August,Office Supplies,Envelopes,Corporate,35.04,15.8416
+September,Office Supplies,Envelopes,Corporate,660.404,274.93169999999986
+October,Office Supplies,Envelopes,Corporate,595.1419999999999,272.4176
+November,Office Supplies,Envelopes,Corporate,1079.482,438.62659999999994
+December,Office Supplies,Envelopes,Corporate,1170.454,477.5104999999999
+January,Office Supplies,Envelopes,Home Office,177.7,83.51899999999999
+February,Office Supplies,Envelopes,Home Office,178.60000000000002,82.7982
+March,Office Supplies,Envelopes,Home Office,595.312,218.9785
+April,Office Supplies,Envelopes,Home Office,25.852,11.7061
+May,Office Supplies,Envelopes,Home Office,213.20800000000003,67.23869999999998
+June,Office Supplies,Envelopes,Home Office,15.28,7.4872
+July,Office Supplies,Envelopes,Home Office,158.186,70.20089999999999
+August,Office Supplies,Envelopes,Home Office,38.339999999999996,17.253
+September,Office Supplies,Envelopes,Home Office,383.82,146.73879999999997
+October,Office Supplies,Envelopes,Home Office,120.044,55.3882
+November,Office Supplies,Envelopes,Home Office,564.336,261.21779999999995
+December,Office Supplies,Envelopes,Home Office,291.908,106.0087
+January,Office Supplies,Fasteners,Consumer,38.9,9.6495
+February,Office Supplies,Fasteners,Consumer,54.768,16.8054
+March,Office Supplies,Fasteners,Consumer,113.92,26.5433
+April,Office Supplies,Fasteners,Consumer,35.272,12.16
+May,Office Supplies,Fasteners,Consumer,31.832,9.893099999999999
+June,Office Supplies,Fasteners,Consumer,35.129999999999995,15.891899999999998
+July,Office Supplies,Fasteners,Consumer,105.49000000000001,37.3117
+August,Office Supplies,Fasteners,Consumer,190.97600000000003,74.07709999999997
+September,Office Supplies,Fasteners,Consumer,208.31999999999996,91.65709999999999
+October,Office Supplies,Fasteners,Consumer,245.214,47.5425
+November,Office Supplies,Fasteners,Consumer,353.692,129.9493
+December,Office Supplies,Fasteners,Consumer,267.428,105.3199
+January,Office Supplies,Fasteners,Corporate,15.120000000000001,4.913999999999999
+February,Office Supplies,Fasteners,Corporate,82.744,30.4458
+March,Office Supplies,Fasteners,Corporate,,
+April,Office Supplies,Fasteners,Corporate,105.32000000000001,27.47029999999999
+May,Office Supplies,Fasteners,Corporate,16.04,5.714499999999999
+June,Office Supplies,Fasteners,Corporate,59.422000000000004,19.8893
+July,Office Supplies,Fasteners,Corporate,40.57,14.296399999999998
+August,Office Supplies,Fasteners,Corporate,23.253999999999998,2.1798
+September,Office Supplies,Fasteners,Corporate,151.344,51.6291
+October,Office Supplies,Fasteners,Corporate,30.912000000000003,13.530399999999998
+November,Office Supplies,Fasteners,Corporate,147.556,39.7282
+December,Office Supplies,Fasteners,Corporate,111.00800000000001,42.105199999999996
+January,Office Supplies,Fasteners,Home Office,33.64,0.4119999999999995
+February,Office Supplies,Fasteners,Home Office,21.8,5.9935
+March,Office Supplies,Fasteners,Home Office,35.716,7.6240999999999985
+April,Office Supplies,Fasteners,Home Office,117.812,15.811499999999995
+May,Office Supplies,Fasteners,Home Office,61.43,11.1913
+June,Office Supplies,Fasteners,Home Office,20.951999999999998,1.3779
+July,Office Supplies,Fasteners,Home Office,35.448,15.179199999999998
+August,Office Supplies,Fasteners,Home Office,29.02,2.1503999999999994
+September,Office Supplies,Fasteners,Home Office,46.03,8.877199999999998
+October,Office Supplies,Fasteners,Home Office,49.636,18.2139
+November,Office Supplies,Fasteners,Home Office,48.76,14.8224
+December,Office Supplies,Fasteners,Home Office,59.804,19.160999999999998
+January,Office Supplies,Labels,Consumer,143.872,62.7502
+February,Office Supplies,Labels,Consumer,189.42000000000002,88.5152
+March,Office Supplies,Labels,Consumer,776.098,365.05559999999997
+April,Office Supplies,Labels,Consumer,227.544,102.7
+May,Office Supplies,Labels,Consumer,451.28200000000004,192.39800000000002
+June,Office Supplies,Labels,Consumer,391.2699999999999,176.8359
+July,Office Supplies,Labels,Consumer,1526.2259999999999,736.2130000000001
+August,Office Supplies,Labels,Consumer,486.49199999999996,220.08399999999997
+September,Office Supplies,Labels,Consumer,1069.864,465.5395
+October,Office Supplies,Labels,Consumer,161.128,73.5393
+November,Office Supplies,Labels,Consumer,476.01,215.81299999999996
+December,Office Supplies,Labels,Consumer,810.0560000000003,376.54470000000003
+January,Office Supplies,Labels,Corporate,36.39,15.050099999999999
+February,Office Supplies,Labels,Corporate,103.52600000000001,43.99029999999999
+March,Office Supplies,Labels,Corporate,116.50800000000001,51.187200000000004
+April,Office Supplies,Labels,Corporate,85.85799999999999,33.277
+May,Office Supplies,Labels,Corporate,180.95999999999998,85.82449999999999
+June,Office Supplies,Labels,Corporate,534.946,257.5553
+July,Office Supplies,Labels,Corporate,122.3,54.413399999999996
+August,Office Supplies,Labels,Corporate,210.40200000000004,84.40759999999999
+September,Office Supplies,Labels,Corporate,267.536,105.49149999999997
+October,Office Supplies,Labels,Corporate,887.5239999999999,387.51930000000004
+November,Office Supplies,Labels,Corporate,1056.382,419.8621999999999
+December,Office Supplies,Labels,Corporate,499.314,222.2489
+January,Office Supplies,Labels,Home Office,26.404,11.143099999999999
+February,Office Supplies,Labels,Home Office,6.936000000000001,2.3409000000000004
+March,Office Supplies,Labels,Home Office,47.501999999999995,21.476200000000002
+April,Office Supplies,Labels,Home Office,116.63000000000001,53.3672
+May,Office Supplies,Labels,Home Office,230.87600000000003,90.06219999999999
+June,Office Supplies,Labels,Home Office,280.79400000000004,112.69359999999999
+July,Office Supplies,Labels,Home Office,43.49,18.731
+August,Office Supplies,Labels,Home Office,179.578,83.41199999999999
+September,Office Supplies,Labels,Home Office,158.89600000000002,67.8017
+October,Office Supplies,Labels,Home Office,199.826,83.66129999999998
+November,Office Supplies,Labels,Home Office,317.81,136.8752
+December,Office Supplies,Labels,Home Office,66.662,27.873899999999995
+January,Office Supplies,Paper,Consumer,1389.058,619.7955999999999
+February,Office Supplies,Paper,Consumer,615.9819999999999,260.06199999999995
+March,Office Supplies,Paper,Consumer,2536.0100000000016,1066.1732
+April,Office Supplies,Paper,Consumer,1398.11,554.8768
+May,Office Supplies,Paper,Consumer,2370.6600000000003,1035.8127999999995
+June,Office Supplies,Paper,Consumer,3415.3380000000016,1414.6576
+July,Office Supplies,Paper,Consumer,1811.0959999999998,816.7654999999999
+August,Office Supplies,Paper,Consumer,4027.8919999999994,1709.8895000000002
+September,Office Supplies,Paper,Consumer,5507.654000000001,2427.3749
+October,Office Supplies,Paper,Consumer,1844.6620000000003,746.5967
+November,Office Supplies,Paper,Consumer,6164.0380000000005,2661.9008999999996
+December,Office Supplies,Paper,Consumer,5243.868000000001,2220.7381000000005
+January,Office Supplies,Paper,Corporate,521.94,218.70600000000002
+February,Office Supplies,Paper,Corporate,409.60800000000006,163.1846
+March,Office Supplies,Paper,Corporate,1947.3540000000005,853.1863
+April,Office Supplies,Paper,Corporate,570.7460000000001,250.82009999999997
+May,Office Supplies,Paper,Corporate,2384.798,1045.9096
+June,Office Supplies,Paper,Corporate,1374.388,554.3105999999999
+July,Office Supplies,Paper,Corporate,1642.3000000000002,644.4305999999998
+August,Office Supplies,Paper,Corporate,1784.292,770.2562000000004
+September,Office Supplies,Paper,Corporate,3686.7560000000003,1638.6582999999998
+October,Office Supplies,Paper,Corporate,2051.2700000000004,884.4639000000001
+November,Office Supplies,Paper,Corporate,4089.502000000001,1811.9983000000009
+December,Office Supplies,Paper,Corporate,3420.176000000001,1525.6223
+January,Office Supplies,Paper,Home Office,352.624,158.7686
+February,Office Supplies,Paper,Home Office,1787.0679999999998,800.4699999999999
+March,Office Supplies,Paper,Home Office,1802.1680000000001,824.0142999999999
+April,Office Supplies,Paper,Home Office,1995.2879999999998,872.8780000000002
+May,Office Supplies,Paper,Home Office,1457.752,639.5672
+June,Office Supplies,Paper,Home Office,1932.4680000000003,854.1842000000001
+July,Office Supplies,Paper,Home Office,726.8040000000001,314.6939
+August,Office Supplies,Paper,Home Office,710.98,306.13379999999995
+September,Office Supplies,Paper,Home Office,1495.146,680.4095000000001
+October,Office Supplies,Paper,Home Office,1100.9519999999998,490.37739999999997
+November,Office Supplies,Paper,Home Office,2324.3799999999997,1046.7191
+December,Office Supplies,Paper,Home Office,2586.078,1169.1628999999998
+January,Office Supplies,Storage,Consumer,3315.4939999999997,361.70459999999986
+February,Office Supplies,Storage,Consumer,3475.74,199.9925999999999
+March,Office Supplies,Storage,Consumer,5572.8560000000025,574.3878999999997
+April,Office Supplies,Storage,Consumer,4863.149999999999,463.03290000000004
+May,Office Supplies,Storage,Consumer,8903.117999999999,968.3835
+June,Office Supplies,Storage,Consumer,8435.454,628.1981999999998
+July,Office Supplies,Storage,Consumer,7455.543999999999,419.77519999999976
+August,Office Supplies,Storage,Consumer,8839.788,1030.4325999999992
+September,Office Supplies,Storage,Consumer,14979.041999999992,1435.2269999999994
+October,Office Supplies,Storage,Consumer,5629.388000000001,-179.00070000000017
+November,Office Supplies,Storage,Consumer,16104.277999999997,422.8860999999998
+December,Office Supplies,Storage,Consumer,12918.549999999997,779.1805000000002
+January,Office Supplies,Storage,Corporate,3284.8739999999993,599.0067999999999
+February,Office Supplies,Storage,Corporate,1763.43,208.9347
+March,Office Supplies,Storage,Corporate,6274.011999999999,664.8770000000001
+April,Office Supplies,Storage,Corporate,4572.2080000000005,123.70309999999995
+May,Office Supplies,Storage,Corporate,4197.812000000001,242.88809999999975
+June,Office Supplies,Storage,Corporate,8576.214,1057.1442
+July,Office Supplies,Storage,Corporate,3169.9339999999997,394.2161999999999
+August,Office Supplies,Storage,Corporate,6067.6,479.24019999999973
+September,Office Supplies,Storage,Corporate,8959.454,313.55249999999995
+October,Office Supplies,Storage,Corporate,7676.6359999999995,465.0729999999999
+November,Office Supplies,Storage,Corporate,14441.29,2941.228099999999
+December,Office Supplies,Storage,Corporate,10807.533999999998,1641.1607999999994
+January,Office Supplies,Storage,Home Office,2617.434,68.38029999999999
+February,Office Supplies,Storage,Home Office,885.494,69.15020000000001
+March,Office Supplies,Storage,Home Office,2945.9000000000005,514.3609999999999
+April,Office Supplies,Storage,Home Office,6370.3060000000005,716.2589000000002
+May,Office Supplies,Storage,Home Office,1569.0459999999998,180.93260000000004
+June,Office Supplies,Storage,Home Office,1593.9940000000001,24.533599999999982
+July,Office Supplies,Storage,Home Office,1865.3180000000002,176.89479999999995
+August,Office Supplies,Storage,Home Office,2835.434,-8.4392
+September,Office Supplies,Storage,Home Office,5548.972000000001,872.8733999999996
+October,Office Supplies,Storage,Home Office,3933.846,442.98019999999985
+November,Office Supplies,Storage,Home Office,6477.58,668.8100999999998
+December,Office Supplies,Storage,Home Office,6916.883999999998,1316.8654000000001
+January,Office Supplies,Supplies,Consumer,239.32000000000002,46.94009999999997
+February,Office Supplies,Supplies,Consumer,25.02,6.5052
+March,Office Supplies,Supplies,Consumer,5314.548000000001,-1071.7526000000003
+April,Office Supplies,Supplies,Consumer,1114.9740000000002,-73.88019999999997
+May,Office Supplies,Supplies,Consumer,636.712,80.51559999999999
+June,Office Supplies,Supplies,Consumer,856.8180000000001,18.038600000000013
+July,Office Supplies,Supplies,Consumer,8497.121999999998,347.2356999999997
+August,Office Supplies,Supplies,Consumer,637.7599999999998,40.19019999999994
+September,Office Supplies,Supplies,Consumer,5637.1500000000015,-1139.941
+October,Office Supplies,Supplies,Consumer,158.364,33.254999999999995
+November,Office Supplies,Supplies,Consumer,625.41,-29.937600000000014
+December,Office Supplies,Supplies,Consumer,1998.2979999999998,85.2797
+January,Office Supplies,Supplies,Corporate,4164.049999999999,83.28100000000006
+February,Office Supplies,Supplies,Corporate,264.33,11.457000000000004
+March,Office Supplies,Supplies,Corporate,5322.196,228.11139999999978
+April,Office Supplies,Supplies,Corporate,4659.079999999999,97.95760000000007
+May,Office Supplies,Supplies,Corporate,447.4239999999999,29.181600000000003
+June,Office Supplies,Supplies,Corporate,393.09,50.29559999999999
+July,Office Supplies,Supplies,Corporate,172.67400000000004,36.933199999999985
+August,Office Supplies,Supplies,Corporate,94.16,15.135999999999997
+September,Office Supplies,Supplies,Corporate,330.506,-3.1165000000000163
+October,Office Supplies,Supplies,Corporate,574.548,15.639800000000031
+November,Office Supplies,Supplies,Corporate,635.238,-118.9476
+December,Office Supplies,Supplies,Corporate,2377.9880000000003,-107.00270000000003
+January,Office Supplies,Supplies,Home Office,,
+February,Office Supplies,Supplies,Home Office,,
+March,Office Supplies,Supplies,Home Office,,
+April,Office Supplies,Supplies,Home Office,441.89,-29.006500000000003
+May,Office Supplies,Supplies,Home Office,69.5,20.154999999999994
+June,Office Supplies,Supplies,Home Office,16.68,4.3368
+July,Office Supplies,Supplies,Home Office,146.12,41.93079999999999
+August,Office Supplies,Supplies,Home Office,133.648,25.93119999999999
+September,Office Supplies,Supplies,Home Office,468.52,4.632300000000004
+October,Office Supplies,Supplies,Home Office,105.18,31.55399999999999
+November,Office Supplies,Supplies,Home Office,89.50999999999999,23.307199999999995
+December,Office Supplies,Supplies,Home Office,25.71,6.6846000000000005
