@@ -1,0 +1,205 @@
+Orders.Segment,Orders.Region,Orders.Category,Orders.Sub-Category,Sum(Orders.Profit),CountNonNull(Orders.Row ID),Sum(Orders.Quantity),Sum(Orders.Sales)
+Consumer,Central,Technology,Phones,6416.019599999999,105,356,37108.78599999998
+Corporate,Central,Technology,Phones,2391.2796999999996,53,210,17180.795999999995
+Home Office,Central,Technology,Phones,3515.7274000000007,42,147,18113.699999999997
+Consumer,East,Technology,Phones,7328.253600000001,140,514,51512.03800000004
+Corporate,East,Technology,Phones,3129.6182999999987,87,304,29865.618
+Home Office,East,Technology,Phones,1856.814099999999,45,164,19237.326
+Consumer,South,Technology,Phones,5623.911800000001,68,269,30846.20399999999
+Corporate,South,Technology,Phones,3680.2119999999995,44,164,19274.232000000007
+Home Office,South,Technology,Phones,1463.1515,28,93,8184.002
+Consumer,West,Technology,Phones,4468.929700000001,138,546,50465.73599999996
+Corporate,West,Technology,Phones,2565.1096000000016,88,325,24832.768
+Home Office,West,Technology,Phones,2076.7033,51,197,23385.848
+Consumer,Central,Technology,Machines,-1667.028000000002,8,28,11999.761999999999
+Corporate,Central,Technology,Machines,-361.50440000000134,7,23,11716.733999999999
+Home Office,Central,Technology,Machines,542.4657999999998,6,15,3080.888
+Consumer,East,Technology,Machines,-1296.0850000000046,19,77,30668.429
+Corporate,East,Technology,Machines,2624.6022999999996,12,63,23892.036
+Home Office,East,Technology,Machines,5600.125599999999,6,25,11545.699999999999
+Consumer,South,Technology,Machines,2910.5588,11,36,18338.550000000007
+Corporate,South,Technology,Machines,-2520.117899999999,4,15,12001.155
+Home Office,South,Technology,Machines,-1829.3339000000021,3,11,23551.254999999997
+Consumer,West,Technology,Machines,2193.6159999999986,19,76,18536.084000000003
+Corporate,West,Technology,Machines,960.0389999999994,12,40,12666.830000000002
+Home Office,West,Technology,Machines,-3772.581400000001,8,31,11241.208000000002
+Consumer,Central,Technology,Accessories,3743.3858999999993,101,392,19062.303999999993
+Corporate,Central,Technology,Accessories,1462.9337,51,195,6195.238
+Home Office,Central,Technology,Accessories,2045.3110000000004,31,129,8698.534
+Consumer,East,Technology,Accessories,5240.0783,107,354,22861.056
+Corporate,East,Technology,Accessories,2933.591099999999,56,222,11747.997999999998
+Home Office,East,Technology,Accessories,3022.1949999999997,43,148,10424.318000000001
+Consumer,South,Technology,Accessories,2788.307200000001,70,265,11651.563999999993
+Corporate,South,Technology,Accessories,3085.4776999999995,34,129,10175.456
+Home Office,South,Technology,Accessories,1130.7574999999997,24,110,5449.7339999999995
+Consumer,West,Technology,Accessories,8964.1511,130,567,33530.31400000001
+Corporate,West,Technology,Accessories,5225.477999999998,86,335,20071.872
+Home Office,West,Technology,Accessories,2294.9692,42,130,7511.9299999999985
+Consumer,Central,Technology,Copiers,1482.9615999999999,4,14,4519.884
+Corporate,Central,Technology,Copiers,12789.904299999998,8,29,29679.741999999995
+Home Office,Central,Technology,Copiers,1335.9754,4,6,3059.944
+Consumer,East,Technology,Copiers,8657.932499999995,12,43,30399.706
+Corporate,East,Technology,Copiers,1134.9764999999998,4,11,4219.914
+Home Office,East,Technology,Copiers,7229.9328,4,17,18599.842
+Consumer,South,Technology,Copiers,1783.9451999999999,4,14,4439.868
+Corporate,South,Technology,Copiers,1874.9615000000001,3,12,4859.888
+Home Office,South,Technology,Copiers,,,,
+Consumer,West,Technology,Copiers,12158.871299999995,15,46,30459.611999999997
+Corporate,West,Technology,Copiers,3190.4365999999995,5,18,8069.842000000001
+Home Office,West,Technology,Copiers,3977.927199999999,5,24,11219.788
+Consumer,Central,Furniture,Chairs,2920.9013000000004,81,307,42933.37499999999
+Corporate,Central,Furniture,Chairs,3206.8836999999976,45,178,27989.551999999992
+Home Office,Central,Furniture,Chairs,464.9370999999995,28,130,14307.719000000003
+Consumer,East,Furniture,Chairs,4917.395199999997,94,387,59645.13300000001
+Corporate,East,Furniture,Chairs,2720.5878,46,189,23505.23
+Home Office,East,Furniture,Chairs,1719.7875999999994,28,100,13110.32
+Consumer,South,Furniture,Chairs,4017.0347,53,195,26804.226
+Corporate,South,Furniture,Chairs,1183.9544999999994,26,102,11366.872000000003
+Home Office,South,Furniture,Chairs,1411.1000999999997,9,34,7005.348
+Consumer,West,Furniture,Chairs,1380.0006999999987,101,345,43480.007999999965
+Corporate,West,Furniture,Chairs,1233.2304999999983,71,250,36279.223999999995
+Home Office,West,Furniture,Chairs,1414.3530999999994,35,139,22022.096
+Consumer,Central,Furniture,Tables,-3964.1571000000004,42,151,20834.999999999996
+Corporate,Central,Furniture,Tables,707.1805999999998,16,66,12562.592999999999
+Home Office,Central,Furniture,Tables,-302.67390000000034,14,45,5757.378000000001
+Consumer,East,Furniture,Tables,-3708.352800000001,33,106,14082.466999999999
+Corporate,East,Furniture,Tables,-5299.655700000001,32,109,17551.558
+Home Office,East,Furniture,Tables,-2017.3716000000002,15,56,7505.782000000001
+Consumer,South,Furniture,Tables,-2577.4996000000006,27,119,24408.842
+Corporate,South,Furniture,Tables,-1388.2239000000009,16,79,12619.6755
+Home Office,South,Furniture,Tables,-657.3344,8,29,6887.6745
+Consumer,West,Furniture,Tables,521.9716999999994,57,226,40607.48600000001
+Corporate,West,Furniture,Tables,1074.2003999999995,42,165,28137.891000000003
+Home Office,West,Furniture,Tables,-113.56480000000028,17,90,16009.185000000001
+Consumer,Central,Furniture,Bookcases,-1497.1260000000002,24,95,12960.854
+Corporate,Central,Furniture,Bookcases,-382.7121000000001,18,74,8389.500799999998
+Home Office,Central,Furniture,Bookcases,-118.06620000000007,8,23,2806.822
+Consumer,East,Furniture,Bookcases,-2192.0672000000013,39,140,27307.134
+Corporate,East,Furniture,Bookcases,964.9629999999996,21,84,13168.932
+Home Office,East,Furniture,Bookcases,59.47239999999985,10,28,3343.2680000000005
+Consumer,South,Furniture,Bookcases,1220.0119999999995,19,85,8716.562
+Corporate,South,Furniture,Bookcases,68.36659999999996,5,20,1153.804
+Home Office,South,Furniture,Bookcases,51.11319999999992,4,13,1028.996
+Consumer,West,Furniture,Bookcases,-1966.457000000001,49,176,19648.17899999999
+Corporate,West,Furniture,Bookcases,-12.167300000000452,20,93,11293.6875
+Home Office,West,Furniture,Bookcases,332.11260000000004,11,37,5062.257
+Consumer,Central,Furniture,Furnishings,-1454.0523999999998,108,399,9499.989999999993
+Corporate,Central,Furniture,Furnishings,-1209.3583,58,224,3143.956000000001
+Home Office,Central,Furniture,Furnishings,-1242.8060999999998,39,135,2610.424
+Consumer,East,Furniture,Furnishings,3021.1370000000006,137,481,13177.067999999994
+Corporate,East,Furniture,Furnishings,1956.2305999999996,99,341,9983.326000000001
+Home Office,East,Furniture,Furnishings,904.0395,47,193,5910.986000000003
+Consumer,South,Furniture,Furnishings,1957.1855000000005,81,296,10870.574
+Corporate,South,Furniture,Furnishings,1087.9331000000002,54,214,4504.680000000001
+Home Office,South,Furniture,Furnishings,397.5642999999999,30,105,1931.4299999999998
+Consumer,West,Furniture,Furnishings,4395.1526,168,658,16072.413999999995
+Corporate,West,Furniture,Furnishings,1673.4023,77,307,7369.304000000001
+Home Office,West,Furniture,Furnishings,1572.7154999999996,59,210,6631.012000000001
+Consumer,Central,Office Supplies,Storage,413.31009999999895,119,394,24671.80999999999
+Corporate,Central,Office Supplies,Storage,1084.5102000000004,54,195,12656.604
+Home Office,Central,Office Supplies,Storage,472.0162,37,135,8601.698000000002
+Consumer,East,Office Supplies,Storage,1973.924199999998,114,398,24994.45799999998
+Corporate,East,Office Supplies,Storage,3836.4565000000002,90,356,30968.37000000001
+Home Office,East,Office Supplies,Storage,2578.990499999999,38,153,15649.755999999998
+Consumer,South,Office Supplies,Storage,888.6696999999998,66,252,16881.745999999996
+Corporate,South,Office Supplies,Storage,718.5710999999998,40,150,11362.257999999998
+Home Office,South,Office Supplies,Storage,667.0556999999999,22,86,7524.056
+Consumer,West,Office Supplies,Storage,3828.2964000000006,151,575,33944.387999999984
+Corporate,West,Office Supplies,Storage,3491.4869,76,299,24803.76600000001
+Home Office,West,Office Supplies,Storage,1325.5388999999993,39,165,11784.698
+Consumer,Central,Office Supplies,Binders,1832.3210000000026,193,769,39693.575999999994
+Corporate,Central,Office Supplies,Binders,-4420.424900000004,104,427,8879.539999999999
+Home Office,Central,Office Supplies,Binders,1544.4669999999992,69,277,8350.165999999997
+Consumer,East,Office Supplies,Binders,6740.669700000001,238,858,31622.609999999982
+Corporate,East,Office Supplies,Binders,2833.003399999999,130,491,12048.381000000007
+Home Office,East,Office Supplies,Binders,1694.2614999999998,72,303,9827.006000000005
+Consumer,South,Office Supplies,Binders,1583.9285000000007,111,429,18617.702999999994
+Corporate,South,Office Supplies,Binders,2496.2000999999987,87,365,11827.631999999996
+Home Office,South,Office Supplies,Binders,-179.46459999999976,48,187,6585.005999999997
+Consumer,West,Office Supplies,Binders,7838.678000000003,238,959,28227.120000000006
+Corporate,West,Office Supplies,Binders,5468.5415,152,565,18804.75999999999
+Home Office,West,Office Supplies,Binders,2789.5821,81,344,8929.233000000006
+Consumer,Central,Office Supplies,Appliances,-3775.6065000000012,66,247,9818.720999999998
+Corporate,Central,Office Supplies,Appliances,-459.2306000000005,36,134,5224.759000000001
+Home Office,Central,Office Supplies,Appliances,1596.2196,21,89,8538.553
+Consumer,East,Office Supplies,Appliances,5008.7579000000005,66,245,19389.75599999999
+Corporate,East,Office Supplies,Appliances,2607.2871999999993,43,162,10981.264000000001
+Home Office,East,Office Supplies,Appliances,775.3682999999995,17,67,3817.446000000001
+Consumer,South,Office Supplies,Appliances,1455.2631999999996,46,178,8287.354
+Corporate,South,Office Supplies,Appliances,2543.821799999999,30,100,10123.635999999997
+Home Office,South,Office Supplies,Appliances,124.85459999999995,5,15,1114.336
+Consumer,West,Office Supplies,Appliances,4293.513599999998,66,238,15323.750000000002
+Corporate,West,Office Supplies,Appliances,2738.0168000000003,46,173,10259.023999999998
+Home Office,West,Office Supplies,Appliances,1229.7395,24,81,4653.562
+Consumer,Central,Office Supplies,Paper,2914.6376999999993,155,586,7564.020000000006
+Corporate,Central,Office Supplies,Paper,2399.2305,112,426,5952.002000000001
+Home Office,Central,Office Supplies,Paper,1658.0322999999999,54,213,3975.88
+Consumer,East,Office Supplies,Paper,3917.330700000003,187,679,8661.268000000002
+Corporate,East,Office Supplies,Paper,2668.9581999999987,102,385,5975.116
+Home Office,East,Office Supplies,Paper,2429.082099999999,89,336,5536.218000000001
+Consumer,South,Office Supplies,Paper,3085.3364,119,443,7603.272000000003
+Corporate,South,Office Supplies,Paper,1410.0632999999998,65,256,3345.321999999999
+Home Office,South,Office Supplies,Paper,1451.6616999999997,37,152,3202.39
+Consumer,West,Office Supplies,Paper,5617.338800000002,232,894,12495.807999999995
+Corporate,West,Office Supplies,Paper,3883.294800000001,129,488,8610.689999999999
+Home Office,West,Office Supplies,Paper,2618.6028000000015,89,320,5557.2199999999975
+Consumer,Central,Office Supplies,Supplies,-782.0922000000003,20,63,4559.912000000001
+Corporate,Central,Office Supplies,Supplies,101.84980000000003,11,38,4382.928
+Home Office,Central,Office Supplies,Supplies,18.354300000000002,5,21,524.532
+Consumer,East,Office Supplies,Supplies,-1171.6356999999998,35,137,8567.826000000003
+Corporate,East,Office Supplies,Supplies,-12.897400000000047,14,43,1849.2580000000003
+Home Office,East,Office Supplies,Supplies,29.397900000000014,7,15,343.03200000000004
+Consumer,South,Office Supplies,Supplies,69.85919999999999,13,39,2123.554
+Corporate,South,Office Supplies,Supplies,-111.63789999999989,11,40,6022.1539999999995
+Home Office,South,Office Supplies,Supplies,43.655999999999985,5,13,173.22
+Consumer,West,Office Supplies,Supplies,226.3173999999996,32,120,10490.203999999996
+Corporate,West,Office Supplies,Supplies,361.6118999999998,25,81,7180.943999999999
+Home Office,West,Office Supplies,Supplies,38.117199999999976,12,37,455.97400000000005
+Consumer,Central,Office Supplies,Art,605.5615,94,374,3272.352
+Corporate,Central,Office Supplies,Art,343.9692999999999,44,177,1478.7420000000002
+Home Office,Central,Office Supplies,Art,245.62829999999997,38,127,1014.2460000000002
+Consumer,East,Office Supplies,Art,989.0641999999997,117,420,3847.198
+Corporate,East,Office Supplies,Art,566.1715999999999,72,287,2278.402
+Home Office,East,Office Supplies,Art,344.7084999999999,39,142,1360.1639999999998
+Consumer,South,Office Supplies,Art,648.4542999999995,81,312,2654.7560000000008
+Corporate,South,Office Supplies,Art,264.25429999999994,40,157,1332.4040000000002
+Home Office,South,Office Supplies,Art,145.87799999999993,21,78,668.462
+Consumer,West,Office Supplies,Art,1211.2211000000002,136,519,4477.6240000000025
+Corporate,West,Office Supplies,Art,830.2524999999998,62,229,3500.9
+Home Office,West,Office Supplies,Art,332.6234,52,178,1233.542
+Consumer,Central,Office Supplies,Envelopes,912.6615999999998,29,99,2365.4500000000003
+Corporate,Central,Office Supplies,Envelopes,483.66419999999994,15,57,1235.9080000000001
+Home Office,Central,Office Supplies,Envelopes,381.20249999999993,15,50,1035.514
+Consumer,East,Office Supplies,Envelopes,881.8797000000001,39,133,2095.522
+Corporate,East,Office Supplies,Envelopes,663.5851999999999,25,97,1579.2660000000003
+Home Office,East,Office Supplies,Envelopes,266.9441,10,37,701.086
+Consumer,South,Office Supplies,Envelopes,503.43069999999994,26,92,1191.5579999999998
+Corporate,South,Office Supplies,Envelopes,643.3798,21,90,1470.904
+Home Office,South,Office Supplies,Envelopes,318.6664999999999,7,24,683.094
+Consumer,West,Office Supplies,Envelopes,966.4405999999999,35,118,2118.616000000001
+Corporate,West,Office Supplies,Envelopes,780.5997999999998,23,79,1656.5919999999999
+Home Office,West,Office Supplies,Envelopes,161.72199999999998,9,30,342.89199999999994
+Consumer,Central,Office Supplies,Labels,334.20230000000004,33,123,743.2059999999999
+Corporate,Central,Office Supplies,Labels,487.17,23,80,1095.108
+Home Office,Central,Office Supplies,Labels,251.7071,20,81,613.1580000000001
+Consumer,East,Office Supplies,Labels,733.5290000000001,63,239,1652.7999999999997
+Corporate,East,Office Supplies,Labels,218.62989999999994,23,98,508.5859999999999
+Home Office,East,Office Supplies,Labels,177.1211,21,83,441.548
+Consumer,South,Office Supplies,Labels,840.9037999999999,30,94,1868.2219999999995
+Corporate,South,Office Supplies,Labels,150.43720000000002,23,87,365.2260000000001
+Home Office,South,Office Supplies,Labels,49.4313,12,35,119.732
+Consumer,West,Office Supplies,Labels,1167.3532999999995,63,259,2445.033999999999
+Corporate,West,Office Supplies,Labels,904.5902000000003,33,133,2132.726
+Home Office,West,Office Supplies,Labels,231.17880000000002,20,88,500.96600000000007
+Consumer,Central,Office Supplies,Fasteners,128.14770000000001,30,122,422.43199999999996
+Corporate,Central,Office Supplies,Fasteners,78.5563,18,71,232.11000000000004
+Home Office,Central,Office Supplies,Fasteners,29.9146,7,34,123.48799999999999
+Consumer,East,Office Supplies,Fasteners,149.17299999999997,29,136,423.698
+Corporate,East,Office Supplies,Fasteners,76.4704,21,116,286.09200000000004
+Home Office,East,Office Supplies,Fasteners,38.34739999999999,11,46,109.928
+Consumer,South,Office Supplies,Fasteners,114.2714,13,60,276.416
+Corporate,South,Office Supplies,Fasteners,27.569899999999997,7,36,80.63400000000001
+Home Office,South,Office Supplies,Fasteners,31.876799999999996,9,30,146.266
+Consumer,West,Office Supplies,Fasteners,185.2087,42,155,558.3960000000002
+Corporate,West,Office Supplies,Fasteners,69.3064,13,50,184.45399999999998
+Home Office,West,Office Supplies,Fasteners,20.675600000000003,17,58,180.36599999999999
