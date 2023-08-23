@@ -1,0 +1,69 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Category,Min(Orders.Ship Mode),Sum(Orders.Profit)
+2014,Furniture,Bookcases,First Class,-346.17070000000064
+2015,Furniture,Bookcases,First Class,-2755.230200000001
+2016,Furniture,Bookcases,First Class,212.47099999999932
+2017,Furniture,Bookcases,First Class,-583.6261000000015
+2014,Furniture,Chairs,First Class,6955.0470000000005
+2015,Furniture,Chairs,First Class,6228.4160999999995
+2016,Furniture,Chairs,First Class,5763.153899999996
+2017,Furniture,Chairs,First Class,7643.549299999999
+2014,Furniture,Furnishings,First Class,1972.8918999999992
+2015,Furniture,Furnishings,First Class,3051.818899999999
+2016,Furniture,Furnishings,First Class,3935.270000000001
+2017,Furniture,Furnishings,First Class,4099.162800000005
+2014,Furniture,Tables,First Class,-3124.0427000000013
+2015,Furniture,Tables,First Class,-3509.8019000000018
+2016,Furniture,Tables,First Class,-2950.941800000002
+2017,Furniture,Tables,First Class,-8140.694700000002
+2014,Office Supplies,Appliances,First Class,2459.499899999998
+2015,Office Supplies,Appliances,First Class,2511.8956999999996
+2016,Office Supplies,Appliances,First Class,5301.341499999998
+2017,Office Supplies,Appliances,First Class,7865.268299999998
+2014,Office Supplies,Art,First Class,1406.8030999999999
+2015,Office Supplies,Art,First Class,1485.0582
+2016,Office Supplies,Art,First Class,1413.962600000001
+2017,Office Supplies,Art,First Class,2221.9631
+2014,Office Supplies,Binders,First Class,4739.716000000011
+2015,Office Supplies,Binders,First Class,7596.6714
+2016,Office Supplies,Binders,First Class,10215.634100000001
+2017,Office Supplies,Binders,First Class,7669.7418
+2014,Office Supplies,Envelopes,First Class,1495.4787999999994
+2015,Office Supplies,Envelopes,First Class,1960.1905999999997
+2016,Office Supplies,Envelopes,First Class,2066.7482999999997
+2017,Office Supplies,Envelopes,First Class,1441.7590000000002
+2014,Office Supplies,Fasteners,First Class,178.55829999999997
+2015,Office Supplies,Fasteners,First Class,171.93759999999997
+2016,Office Supplies,Fasteners,First Class,294.07339999999994
+2017,Office Supplies,Fasteners,First Class,304.94890000000004
+2014,Office Supplies,Labels,First Class,1286.0041999999996
+2015,Office Supplies,Labels,First Class,1323.0285999999996
+2016,Office Supplies,Labels,First Class,1192.6118999999997
+2017,Office Supplies,Labels,First Class,1744.6092999999992
+2014,Office Supplies,Paper,First Class,6371.021400000002
+2015,Office Supplies,Paper,First Class,6570.169999999996
+2016,Office Supplies,Paper,First Class,9071.534499999994
+2017,Office Supplies,Paper,First Class,12040.843399999992
+2014,Office Supplies,Storage,First Class,4166.278799999997
+2015,Office Supplies,Storage,First Class,3505.460099999999
+2016,Office Supplies,Storage,First Class,6204.286800000001
+2017,Office Supplies,Storage,First Class,7402.800700000003
+2014,Office Supplies,Supplies,First Class,490.0555999999999
+2015,Office Supplies,Supplies,First Class,-24.87840000000003
+2016,Office Supplies,Supplies,First Class,-698.9639000000009
+2017,Office Supplies,Supplies,First Class,-955.3127999999999
+2014,Technology,Accessories,First Class,6402.715000000001
+2015,Technology,Accessories,First Class,10197.275200000002
+2016,Technology,Accessories,First Class,9664.288500000002
+2017,Technology,Accessories,First Class,15672.357000000007
+2014,Technology,Copiers,First Class,2912.9433
+2015,Technology,Copiers,First Class,9930.298799999999
+2016,Technology,Copiers,First Class,17742.792599999993
+2017,Technology,Copiers,First Class,25031.7902
+2014,Technology,Machines,First Class,369.1688999999936
+2015,Technology,Machines,First Class,2977.4856000000004
+2016,Technology,Machines,First Class,2907.317999999991
+2017,Technology,Machines,First Class,-2869.2156000000014
+2014,Technology,Phones,First Class,11808.005300000006
+2015,Technology,Phones,First Class,10398.807399999994
+2016,Technology,Phones,First Class,9459.592900000001
+2017,Technology,Phones,First Class,12849.325000000003
