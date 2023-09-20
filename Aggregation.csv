@@ -1,0 +1,67 @@
+Calendar.Dependent Hierarchy.Year,Sales.Brand Name,Sales.Class,DAX.Sales,DAX.Sales Forecast
+2013,Adventure Works,Deluxe,933523,914852.54
+2014,Adventure Works,Deluxe,845384,828476.32
+2013,Adventure Works,Regular,1072538,1136890.28
+2014,Adventure Works,Regular,1094151,1159800.06
+2013,Adventure Works,Economy,174567,118705.56000000001
+2014,Adventure Works,Economy,200553,136376.04
+2013,Contoso,Regular,988925,642801.25
+2014,Contoso,Regular,1896040,1232426
+2013,Contoso,Deluxe,633570,589220.1
+2014,Contoso,Deluxe,1163342,1081908.06
+2013,Contoso,Economy,182018,156535.48
+2014,Contoso,Economy,356467,306561.62
+2013,Wide World Importers,Regular,683964,512973
+2014,Wide World Importers,Regular,654202,490651.5
+2013,Wide World Importers,Deluxe,748124,486280.60000000003
+2014,Wide World Importers,Deluxe,814002,529101.3
+2013,Wide World Importers,Economy,186228,178778.88
+2014,Wide World Importers,Economy,196172,188325.12
+2013,Proseware,Regular,831871,798596.1599999999
+2014,Proseware,Regular,892661,856954.5599999999
+2013,Proseware,Deluxe,707063,912111.27
+2014,Proseware,Deluxe,676675,872910.75
+2013,Proseware,Economy,138144,121566.72
+2014,Proseware,Economy,154507,135966.16
+2013,Fabrikam,Regular,365468,449525.64
+2014,Fabrikam,Regular,1356842,1668915.66
+2013,Fabrikam,Deluxe,60517,88354.81999999999
+2014,Fabrikam,Deluxe,747222,1090944.1199999999
+2013,Fabrikam,Economy,41658,28744.019999999997
+2014,Fabrikam,Economy,168706,116407.13999999998
+2013,Litware,Regular,628076,546426.12
+2014,Litware,Regular,1279516,1113178.92
+2013,Litware,Deluxe,109700,83372
+2014,Litware,Deluxe,666077,506218.52
+2013,Litware,Economy,72806,50964.2
+2014,Litware,Economy,203059,142141.3
+2013,Southridge Video,Regular,308904,379951.92
+2014,Southridge Video,Regular,313743,385903.89
+2013,Southridge Video,Deluxe,128519,84822.54000000001
+2014,Southridge Video,Deluxe,192414,126993.24
+2013,Southridge Video,Economy,161005,202866.3
+2014,Southridge Video,Economy,144897,182570.22
+2013,A. Datum,Regular,225076,164305.48
+2014,A. Datum,Regular,385118,281136.14
+2013,A. Datum,Economy,50846,50337.54
+2014,A. Datum,Economy,91176,90264.24
+2013,A. Datum,Deluxe,70966,56063.14
+2014,A. Datum,Deluxe,78600,62094
+2013,Northwind Traders,Regular,48450,72675
+2014,Northwind Traders,Regular,321656,482484
+2013,Northwind Traders,Deluxe,7959,8834.490000000002
+2014,Northwind Traders,Deluxe,129997,144296.67
+2013,Northwind Traders,Economy,14709,13973.55
+2014,Northwind Traders,Economy,52237,49625.149999999994
+2013,The Phone Company,Regular,24975,18731.25
+2014,The Phone Company,Regular,352082,264061.5
+2013,The Phone Company,Deluxe,5306,4457.04
+2014,The Phone Company,Deluxe,182366,153187.44
+2013,The Phone Company,Economy,3287,2235.1600000000003
+2014,The Phone Company,Economy,29517,20071.56
+2013,Tailspin Toys,Economy,3423,5100.2699999999995
+2014,Tailspin Toys,Economy,38840,57871.6
+2013,Tailspin Toys,Deluxe,2683,2736.66
+2014,Tailspin Toys,Deluxe,22000,22440
+2013,Tailspin Toys,Regular,1247,935.25
+2014,Tailspin Toys,Regular,26944,20208
