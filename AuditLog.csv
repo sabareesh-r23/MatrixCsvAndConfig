@@ -1,37 +1,109 @@
-Country,Group 1,Year,Value Column Name,Value
-"Japan","demo","2017","BU","306000"
-"Japan","demo","2018","BU","408000"
-"Japan","Custom Group All","2019","BU","315000"
-"Australia","demo","2017","BU","316000"
-"Australia","demo","2018","BU","300000"
-"Australia","Custom Group All","2019","BU","390000"
-"Brazil","demo","2017","BU","379000"
-"Brazil","demo","2018","BU","323000"
-"Brazil","Custom Group All","2019","BU","276000"
-"China","demo","2017","BU","317000"
-"China","demo","2018","BU","290000"
-"China","Custom Group All","2019","BU","305000"
-"Other","demo","2017","BU","348000"
-"Other","demo","2018","BU","306000"
-"Other","Custom Group All","2019","BU","246000"
-"USA","demo","2017","BU","362000"
-"USA","demo","2018","BU","317000"
-"USA","Custom Group All","2019","BU","208000"
-"Sweden","demo","2017","BU","328000"
-"Sweden","demo","2018","BU","180000"
-"Sweden","Custom Group All","2019","BU","298000"
-"Canada","demo","2017","BU","242000"
-"Canada","demo","2018","BU","237000"
-"Canada","Custom Group All","2019","BU","277000"
-"France","demo","2017","BU","221000"
-"France","demo","2018","BU","153000"
-"France","Custom Group All","2019","BU","242000"
-"Belgium","demo","2017","BU","176000"
-"Belgium","demo","2018","BU","147000"
-"Belgium","Custom Group All","2019","BU","203000"
-"Germany","demo","2017","BU","194000"
-"Germany","demo","2018","BU","118000"
-"Germany","Custom Group All","2019","BU","199000"
-"Poland","demo","2017","BU","144000"
-"Poland","demo","2018","BU","136000"
-"Poland","Custom Group All","2019","BU","228000"
+Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Quarter,Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Year,Sales Data (Columnar).Category,Sales Data (Columnar).Sales Rep,CountNonNull(Sales Data (Columnar).Sales Budget),Sum(Sales Data (Columnar).Sales Forecast)
+Qtr 1,2019,Consumer,Chris Morris,3,3787743.758696818
+Qtr 2,2019,Consumer,Chris Morris,3,5572712.505036798
+Qtr 3,2019,Consumer,Chris Morris,3,3890177.5489096716
+Qtr 4,2019,Consumer,Chris Morris,3,3301184.0506733283
+Qtr 1,2019,Consumer,John Smith,3,7617510.671287974
+Qtr 2,2019,Consumer,John Smith,3,6413073.325753642
+Qtr 3,2019,Consumer,John Smith,3,4742486.290419307
+Qtr 4,2019,Consumer,John Smith,3,3575512.824018275
+Qtr 1,2019,Consumer,Juan Carlos,3,4797751.908491042
+Qtr 2,2019,Consumer,Juan Carlos,3,6441095.715767238
+Qtr 3,2019,Consumer,Juan Carlos,3,5885595.911162347
+Qtr 4,2019,Consumer,Juan Carlos,3,3866892.90011104
+Qtr 1,2019,Consumer,Lois Mitchell,3,5426025.725796363
+Qtr 2,2019,Consumer,Lois Mitchell,3,4230394.752109344
+Qtr 3,2019,Consumer,Lois Mitchell,3,4273236.517841505
+Qtr 4,2019,Consumer,Lois Mitchell,3,5096872.560615484
+Qtr 1,2019,Consumer,Martha Roberts,3,5141475.9548272155
+Qtr 2,2019,Consumer,Martha Roberts,3,2044069.8272874341
+Qtr 3,2019,Consumer,Martha Roberts,3,6315734.638124242
+Qtr 4,2019,Consumer,Martha Roberts,3,6454242.355985049
+Qtr 1,2019,Consumer,Mike Jones,3,6798832.434669293
+Qtr 2,2019,Consumer,Mike Jones,3,4187006.075286426
+Qtr 3,2019,Consumer,Mike Jones,3,5196570.327266806
+Qtr 4,2019,Consumer,Mike Jones,3,9088462.021136886
+Qtr 1,2019,Consumer,Roy Adams,3,5388574.946216717
+Qtr 2,2019,Consumer,Roy Adams,3,4316840.748166362
+Qtr 3,2019,Consumer,Roy Adams,3,6760180.59173295
+Qtr 4,2019,Consumer,Roy Adams,3,2834292.500196191
+Qtr 1,2019,Consumer,Ryan Smith,3,4414406.129274066
+Qtr 2,2019,Consumer,Ryan Smith,3,4495168.563577604
+Qtr 3,2019,Consumer,Ryan Smith,3,7401476.808275338
+Qtr 4,2019,Consumer,Ryan Smith,3,2982210.5996748284
+Qtr 1,2019,Consumer,Steven Wright,3,2264722.199743123
+Qtr 2,2019,Consumer,Steven Wright,3,6932528.842104709
+Qtr 3,2019,Consumer,Steven Wright,3,3520620.6660930873
+Qtr 4,2019,Consumer,Steven Wright,3,7848884.029718811
+Qtr 1,2019,Industrials,Amanda Henderson,3,6713029.5454152245
+Qtr 2,2019,Industrials,Amanda Henderson,3,5499435.775699357
+Qtr 3,2019,Industrials,Amanda Henderson,3,3721402.798806744
+Qtr 4,2019,Industrials,Amanda Henderson,3,3612727.6604107358
+Qtr 1,2019,Industrials,Andy Scott,3,6616687.772254396
+Qtr 2,2019,Industrials,Andy Scott,3,5076284.976965566
+Qtr 3,2019,Industrials,Andy Scott,3,6444216.98844352
+Qtr 4,2019,Industrials,Andy Scott,3,2399995.1784715573
+Qtr 1,2019,Industrials,Charles Byers,3,5430794.750938168
+Qtr 2,2019,Industrials,Charles Byers,3,2374512.3061128855
+Qtr 3,2019,Industrials,Charles Byers,3,2618428.654141837
+Qtr 4,2019,Industrials,Charles Byers,3,1823814.2282772465
+Qtr 1,2019,Industrials,Chris Morris,3,4269608.968524453
+Qtr 2,2019,Industrials,Chris Morris,3,3084102.374589705
+Qtr 3,2019,Industrials,Chris Morris,3,5800975.85048466
+Qtr 4,2019,Industrials,Chris Morris,3,6010346.312691504
+Qtr 1,2019,Industrials,David Smith,3,4702211.753663368
+Qtr 2,2019,Industrials,David Smith,3,6417481.524036573
+Qtr 3,2019,Industrials,David Smith,3,1360820.4093493493
+Qtr 4,2019,Industrials,David Smith,3,6716185.731331909
+Qtr 1,2019,Industrials,Joe Evans,3,3072537.5543076238
+Qtr 2,2019,Industrials,Joe Evans,3,5542853.342110301
+Qtr 3,2019,Industrials,Joe Evans,3,5481429.843766553
+Qtr 4,2019,Industrials,Joe Evans,3,4036964.2539901314
+Qtr 1,2019,Industrials,Larry Young,3,8779154.415105604
+Qtr 2,2019,Industrials,Larry Young,3,3346533.420044417
+Qtr 3,2019,Industrials,Larry Young,3,8409934.61738831
+Qtr 4,2019,Industrials,Larry Young,3,5283644.339491371
+Qtr 1,2019,Industrials,Martin Hammond,3,4071267.757113827
+Qtr 2,2019,Industrials,Martin Hammond,3,4762408.720446535
+Qtr 3,2019,Industrials,Martin Hammond,3,4545192.646344895
+Qtr 4,2019,Industrials,Martin Hammond,3,5089015.556708661
+Qtr 1,2019,Industrials,William Green,3,6735876.408264873
+Qtr 2,2019,Industrials,William Green,3,6165360.2053617
+Qtr 3,2019,Industrials,William Green,3,6248353.8294901755
+Qtr 4,2019,Industrials,William Green,3,3007769.6876184004
+Qtr 1,2019,Others,Aladdin Hawkins,3,5998292.429804527
+Qtr 2,2019,Others,Aladdin Hawkins,3,6859147.738497767
+Qtr 3,2019,Others,Aladdin Hawkins,3,6523176.536029233
+Qtr 4,2019,Others,Aladdin Hawkins,3,6691177.599651508
+Qtr 1,2019,Others,Billy Brown,3,3322084.6437156987
+Qtr 2,2019,Others,Billy Brown,3,4032700.862798155
+Qtr 3,2019,Others,Billy Brown,3,4368434.679175327
+Qtr 4,2019,Others,Billy Brown,3,3811131.742117835
+Qtr 1,2019,Others,Brandon Harris,3,5021883.608089581
+Qtr 2,2019,Others,Brandon Harris,3,8816857.6840138
+Qtr 3,2019,Others,Brandon Harris,3,6113829.7747383695
+Qtr 4,2019,Others,Brandon Harris,3,4242486.604169156
+Qtr 1,2019,Others,Jesse Schmidt,3,5570155.50870855
+Qtr 2,2019,Others,Jesse Schmidt,3,929888.6647713457
+Qtr 3,2019,Others,Jesse Schmidt,3,7327890.585442962
+Qtr 4,2019,Others,Jesse Schmidt,3,6422869.050999595
+Qtr 1,2019,Others,Kenneth Peterson,3,8353732.636416366
+Qtr 2,2019,Others,Kenneth Peterson,3,4199600.032796765
+Qtr 3,2019,Others,Kenneth Peterson,3,7030389.23725843
+Qtr 4,2019,Others,Kenneth Peterson,3,5615529.514565827
+Qtr 1,2019,Others,Nick Benson,3,3386608.754112142
+Qtr 2,2019,Others,Nick Benson,3,5575809.500377709
+Qtr 3,2019,Others,Nick Benson,3,4963591.0857951855
+Qtr 4,2019,Others,Nick Benson,3,3331933.668203771
+Qtr 1,2019,Others,Roger Lewis,3,5455621.265718836
+Qtr 2,2019,Others,Roger Lewis,3,3211647.0766268848
+Qtr 3,2019,Others,Roger Lewis,3,6768979.068563078
+Qtr 4,2019,Others,Roger Lewis,3,4348939.985174965
+Qtr 1,2019,Others,Ruby White,3,5619722.348373569
+Qtr 2,2019,Others,Ruby White,3,4192722.0173218837
+Qtr 3,2019,Others,Ruby White,3,5395979.691026531
+Qtr 4,2019,Others,Ruby White,3,4041796.3321542656
+Qtr 1,2019,Others,Shawn Cooper,3,7244535.42245486
+Qtr 2,2019,Others,Shawn Cooper,3,4191151.5263892673
+Qtr 3,2019,Others,Shawn Cooper,3,7423887.302876614
+Qtr 4,2019,Others,Shawn Cooper,3,6060088.436860191
