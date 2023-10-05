@@ -1,0 +1,1021 @@
+Orders.Order Date	Orders.Category	Orders.Sub-Category	Sum(Orders.Profit)	Sum(Orders.Sales)
+Friday, January 03, 2014	Furniture	Bookcases		
+Saturday, January 04, 2014	Furniture	Bookcases		
+Sunday, January 05, 2014	Furniture	Bookcases		
+Monday, January 06, 2014	Furniture	Bookcases		
+Tuesday, January 07, 2014	Furniture	Bookcases		
+Thursday, January 09, 2014	Furniture	Bookcases		
+Friday, January 10, 2014	Furniture	Bookcases		
+Saturday, January 11, 2014	Furniture	Bookcases		
+Monday, January 13, 2014	Furniture	Bookcases	3.9294	333.999
+Tuesday, January 14, 2014	Furniture	Bookcases	-53.2856	61.96
+Wednesday, January 15, 2014	Furniture	Bookcases		
+Thursday, January 16, 2014	Furniture	Bookcases		
+Saturday, January 18, 2014	Furniture	Bookcases		
+Sunday, January 19, 2014	Furniture	Bookcases	-320.597	181.47
+Monday, January 20, 2014	Furniture	Bookcases		
+Tuesday, January 21, 2014	Furniture	Bookcases		
+Thursday, January 23, 2014	Furniture	Bookcases		
+Sunday, January 26, 2014	Furniture	Bookcases	39.7488	141.96
+Monday, January 27, 2014	Furniture	Bookcases		
+Tuesday, January 28, 2014	Furniture	Bookcases		
+Thursday, January 30, 2014	Furniture	Bookcases		
+Friday, January 31, 2014	Furniture	Bookcases	3.4196	290.666
+Saturday, February 01, 2014	Furniture	Bookcases		
+Sunday, February 02, 2014	Furniture	Bookcases		
+Monday, February 03, 2014	Furniture	Bookcases		
+Tuesday, February 04, 2014	Furniture	Bookcases		
+Thursday, February 06, 2014	Furniture	Bookcases		
+Friday, February 07, 2014	Furniture	Bookcases		
+Saturday, February 08, 2014	Furniture	Bookcases		
+Tuesday, February 11, 2014	Furniture	Bookcases		
+Wednesday, February 12, 2014	Furniture	Bookcases		
+Friday, February 14, 2014	Furniture	Bookcases		
+Saturday, February 15, 2014	Furniture	Bookcases		
+Sunday, February 16, 2014	Furniture	Bookcases		
+Monday, February 17, 2014	Furniture	Bookcases		
+Tuesday, February 18, 2014	Furniture	Bookcases		
+Thursday, February 20, 2014	Furniture	Bookcases		
+Friday, February 21, 2014	Furniture	Bookcases		
+Saturday, February 22, 2014	Furniture	Bookcases		
+Sunday, February 23, 2014	Furniture	Bookcases		
+Monday, February 24, 2014	Furniture	Bookcases		
+Thursday, February 27, 2014	Furniture	Bookcases		
+Saturday, March 01, 2014	Furniture	Bookcases		
+Sunday, March 02, 2014	Furniture	Bookcases		
+Monday, March 03, 2014	Furniture	Bookcases	-199.617	302.45
+Tuesday, March 04, 2014	Furniture	Bookcases		
+Wednesday, March 05, 2014	Furniture	Bookcases		
+Friday, March 07, 2014	Furniture	Bookcases		
+Monday, March 10, 2014	Furniture	Bookcases		
+Tuesday, March 11, 2014	Furniture	Bookcases		
+Friday, March 14, 2014	Furniture	Bookcases		
+Saturday, March 15, 2014	Furniture	Bookcases		
+Sunday, March 16, 2014	Furniture	Bookcases		
+Monday, March 17, 2014	Furniture	Bookcases		
+Tuesday, March 18, 2014	Furniture	Bookcases	70.49	1198.33
+Wednesday, March 19, 2014	Furniture	Bookcases		
+Friday, March 21, 2014	Furniture	Bookcases		
+Saturday, March 22, 2014	Furniture	Bookcases		
+Sunday, March 23, 2014	Furniture	Bookcases		
+Monday, March 24, 2014	Furniture	Bookcases		
+Friday, January 03, 2014	Furniture	Chairs		
+Saturday, January 04, 2014	Furniture	Chairs		
+Sunday, January 05, 2014	Furniture	Chairs		
+Monday, January 06, 2014	Furniture	Chairs	746.4078	2573.82
+Tuesday, January 07, 2014	Furniture	Chairs		
+Thursday, January 09, 2014	Furniture	Chairs		
+Friday, January 10, 2014	Furniture	Chairs		
+Saturday, January 11, 2014	Furniture	Chairs		
+Monday, January 13, 2014	Furniture	Chairs	87.3504	545.94
+Tuesday, January 14, 2014	Furniture	Chairs		
+Wednesday, January 15, 2014	Furniture	Chairs		
+Thursday, January 16, 2014	Furniture	Chairs		
+Saturday, January 18, 2014	Furniture	Chairs		
+Sunday, January 19, 2014	Furniture	Chairs		
+Monday, January 20, 2014	Furniture	Chairs	224.2674	1067.94
+Tuesday, January 21, 2014	Furniture	Chairs		
+Thursday, January 23, 2014	Furniture	Chairs		
+Sunday, January 26, 2014	Furniture	Chairs		
+Monday, January 27, 2014	Furniture	Chairs		
+Tuesday, January 28, 2014	Furniture	Chairs		
+Thursday, January 30, 2014	Furniture	Chairs		
+Friday, January 31, 2014	Furniture	Chairs		
+Saturday, February 01, 2014	Furniture	Chairs		
+Sunday, February 02, 2014	Furniture	Chairs		
+Monday, February 03, 2014	Furniture	Chairs		
+Tuesday, February 04, 2014	Furniture	Chairs		
+Thursday, February 06, 2014	Furniture	Chairs		
+Friday, February 07, 2014	Furniture	Chairs		
+Saturday, February 08, 2014	Furniture	Chairs		
+Tuesday, February 11, 2014	Furniture	Chairs	15.2225	60.89
+Wednesday, February 12, 2014	Furniture	Chairs	-24.294	129.568
+Friday, February 14, 2014	Furniture	Chairs		
+Saturday, February 15, 2014	Furniture	Chairs		
+Sunday, February 16, 2014	Furniture	Chairs		
+Monday, February 17, 2014	Furniture	Chairs		
+Tuesday, February 18, 2014	Furniture	Chairs		
+Thursday, February 20, 2014	Furniture	Chairs		
+Friday, February 21, 2014	Furniture	Chairs		
+Saturday, February 22, 2014	Furniture	Chairs		
+Sunday, February 23, 2014	Furniture	Chairs		
+Monday, February 24, 2014	Furniture	Chairs		
+Thursday, February 27, 2014	Furniture	Chairs		
+Saturday, March 01, 2014	Furniture	Chairs	-120.6408	1453.934
+Sunday, March 02, 2014	Furniture	Chairs		
+Monday, March 03, 2014	Furniture	Chairs		
+Tuesday, March 04, 2014	Furniture	Chairs		
+Wednesday, March 05, 2014	Furniture	Chairs		
+Friday, March 07, 2014	Furniture	Chairs	81.4917	966.984
+Monday, March 10, 2014	Furniture	Chairs		
+Tuesday, March 11, 2014	Furniture	Chairs		
+Friday, March 14, 2014	Furniture	Chairs	284.98	1139.92
+Saturday, March 15, 2014	Furniture	Chairs		
+Sunday, March 16, 2014	Furniture	Chairs		
+Monday, March 17, 2014	Furniture	Chairs		
+Tuesday, March 18, 2014	Furniture	Chairs		
+Wednesday, March 19, 2014	Furniture	Chairs		
+Friday, March 21, 2014	Furniture	Chairs	-10.9188	218.376
+Saturday, March 22, 2014	Furniture	Chairs	-35.3646	314.352
+Sunday, March 23, 2014	Furniture	Chairs		
+Monday, March 24, 2014	Furniture	Chairs		
+Friday, January 03, 2014	Furniture	Furnishings		
+Saturday, January 04, 2014	Furniture	Furnishings		
+Sunday, January 05, 2014	Furniture	Furnishings		
+Monday, January 06, 2014	Furniture	Furnishings		
+Tuesday, January 07, 2014	Furniture	Furnishings	-53.7096	76.728
+Thursday, January 09, 2014	Furniture	Furnishings		
+Friday, January 10, 2014	Furniture	Furnishings	21.2954	51.94
+Saturday, January 11, 2014	Furniture	Furnishings	3.0814	9.94
+Monday, January 13, 2014	Furniture	Furnishings		
+Tuesday, January 14, 2014	Furniture	Furnishings		
+Wednesday, January 15, 2014	Furniture	Furnishings		
+Thursday, January 16, 2014	Furniture	Furnishings	28.5984	127.104
+Saturday, January 18, 2014	Furniture	Furnishings		
+Sunday, January 19, 2014	Furniture	Furnishings		
+Monday, January 20, 2014	Furniture	Furnishings	52.2543	345.57
+Tuesday, January 21, 2014	Furniture	Furnishings	4.1028	25.248
+Thursday, January 23, 2014	Furniture	Furnishings		
+Sunday, January 26, 2014	Furniture	Furnishings	35.253	75.24
+Monday, January 27, 2014	Furniture	Furnishings		
+Tuesday, January 28, 2014	Furniture	Furnishings		
+Thursday, January 30, 2014	Furniture	Furnishings		
+Friday, January 31, 2014	Furniture	Furnishings		
+Saturday, February 01, 2014	Furniture	Furnishings		
+Sunday, February 02, 2014	Furniture	Furnishings		
+Monday, February 03, 2014	Furniture	Furnishings		
+Tuesday, February 04, 2014	Furniture	Furnishings		
+Thursday, February 06, 2014	Furniture	Furnishings		
+Friday, February 07, 2014	Furniture	Furnishings		
+Saturday, February 08, 2014	Furniture	Furnishings	5.5328	14.56
+Tuesday, February 11, 2014	Furniture	Furnishings	53.2704	332.94
+Wednesday, February 12, 2014	Furniture	Furnishings		
+Friday, February 14, 2014	Furniture	Furnishings		
+Saturday, February 15, 2014	Furniture	Furnishings		
+Sunday, February 16, 2014	Furniture	Furnishings		
+Monday, February 17, 2014	Furniture	Furnishings		
+Tuesday, February 18, 2014	Furniture	Furnishings	-11.322	25.16
+Thursday, February 20, 2014	Furniture	Furnishings	6.9088	20.32
+Friday, February 21, 2014	Furniture	Furnishings		
+Saturday, February 22, 2014	Furniture	Furnishings		
+Sunday, February 23, 2014	Furniture	Furnishings		
+Monday, February 24, 2014	Furniture	Furnishings		
+Thursday, February 27, 2014	Furniture	Furnishings		
+Saturday, March 01, 2014	Furniture	Furnishings	-34.9536	63.552
+Sunday, March 02, 2014	Furniture	Furnishings		
+Monday, March 03, 2014	Furniture	Furnishings		
+Tuesday, March 04, 2014	Furniture	Furnishings		
+Wednesday, March 05, 2014	Furniture	Furnishings		
+Friday, March 07, 2014	Furniture	Furnishings		
+Monday, March 10, 2014	Furniture	Furnishings		
+Tuesday, March 11, 2014	Furniture	Furnishings	2.288	8.32
+Friday, March 14, 2014	Furniture	Furnishings		
+Saturday, March 15, 2014	Furniture	Furnishings	5.1408	45.696
+Sunday, March 16, 2014	Furniture	Furnishings		
+Monday, March 17, 2014	Furniture	Furnishings		
+Tuesday, March 18, 2014	Furniture	Furnishings	37.8006	264.12
+Wednesday, March 19, 2014	Furniture	Furnishings	6.8772	25.008
+Friday, March 21, 2014	Furniture	Furnishings	6.5904	32.952
+Saturday, March 22, 2014	Furniture	Furnishings		
+Sunday, March 23, 2014	Furniture	Furnishings		
+Monday, March 24, 2014	Furniture	Furnishings	14.5728	40.48
+Friday, January 03, 2014	Furniture	Tables		
+Saturday, January 04, 2014	Furniture	Tables		
+Sunday, January 05, 2014	Furniture	Tables		
+Monday, January 06, 2014	Furniture	Tables		
+Tuesday, January 07, 2014	Furniture	Tables		
+Thursday, January 09, 2014	Furniture	Tables		
+Friday, January 10, 2014	Furniture	Tables		
+Saturday, January 11, 2014	Furniture	Tables		
+Monday, January 13, 2014	Furniture	Tables		
+Tuesday, January 14, 2014	Furniture	Tables		
+Wednesday, January 15, 2014	Furniture	Tables		
+Thursday, January 16, 2014	Furniture	Tables		
+Saturday, January 18, 2014	Furniture	Tables		
+Sunday, January 19, 2014	Furniture	Tables		
+Monday, January 20, 2014	Furniture	Tables		
+Tuesday, January 21, 2014	Furniture	Tables		
+Thursday, January 23, 2014	Furniture	Tables		
+Sunday, January 26, 2014	Furniture	Tables		
+Monday, January 27, 2014	Furniture	Tables	-16.65	333
+Tuesday, January 28, 2014	Furniture	Tables		
+Thursday, January 30, 2014	Furniture	Tables		
+Friday, January 31, 2014	Furniture	Tables		
+Saturday, February 01, 2014	Furniture	Tables		
+Sunday, February 02, 2014	Furniture	Tables		
+Monday, February 03, 2014	Furniture	Tables		
+Tuesday, February 04, 2014	Furniture	Tables		
+Thursday, February 06, 2014	Furniture	Tables		
+Friday, February 07, 2014	Furniture	Tables		
+Saturday, February 08, 2014	Furniture	Tables		
+Tuesday, February 11, 2014	Furniture	Tables	75.3732	1256.22
+Wednesday, February 12, 2014	Furniture	Tables		
+Friday, February 14, 2014	Furniture	Tables		
+Saturday, February 15, 2014	Furniture	Tables		
+Sunday, February 16, 2014	Furniture	Tables		
+Monday, February 17, 2014	Furniture	Tables		
+Tuesday, February 18, 2014	Furniture	Tables		
+Thursday, February 20, 2014	Furniture	Tables		
+Friday, February 21, 2014	Furniture	Tables		
+Saturday, February 22, 2014	Furniture	Tables		
+Sunday, February 23, 2014	Furniture	Tables		
+Monday, February 24, 2014	Furniture	Tables		
+Thursday, February 27, 2014	Furniture	Tables		
+Saturday, March 01, 2014	Furniture	Tables	-43.0296	376.509
+Sunday, March 02, 2014	Furniture	Tables		
+Monday, March 03, 2014	Furniture	Tables	-23.4882	626.352
+Tuesday, March 04, 2014	Furniture	Tables		
+Wednesday, March 05, 2014	Furniture	Tables		
+Friday, March 07, 2014	Furniture	Tables		
+Monday, March 10, 2014	Furniture	Tables		
+Tuesday, March 11, 2014	Furniture	Tables		
+Friday, March 14, 2014	Furniture	Tables		
+Saturday, March 15, 2014	Furniture	Tables		
+Sunday, March 16, 2014	Furniture	Tables		
+Monday, March 17, 2014	Furniture	Tables	-1124.0239	3265.23
+Tuesday, March 18, 2014	Furniture	Tables		
+Wednesday, March 19, 2014	Furniture	Tables		
+Friday, March 21, 2014	Furniture	Tables		
+Saturday, March 22, 2014	Furniture	Tables		
+Sunday, March 23, 2014	Furniture	Tables		
+Monday, March 24, 2014	Furniture	Tables		
+Friday, January 03, 2014	Office Supplies	Appliances		
+Saturday, January 04, 2014	Office Supplies	Appliances		
+Sunday, January 05, 2014	Office Supplies	Appliances		
+Monday, January 06, 2014	Office Supplies	Appliances		
+Tuesday, January 07, 2014	Office Supplies	Appliances		
+Thursday, January 09, 2014	Office Supplies	Appliances		
+Friday, January 10, 2014	Office Supplies	Appliances		
+Saturday, January 11, 2014	Office Supplies	Appliances		
+Monday, January 13, 2014	Office Supplies	Appliances		
+Tuesday, January 14, 2014	Office Supplies	Appliances		
+Wednesday, January 15, 2014	Office Supplies	Appliances		
+Thursday, January 16, 2014	Office Supplies	Appliances		
+Saturday, January 18, 2014	Office Supplies	Appliances	6.4864	64.864
+Sunday, January 19, 2014	Office Supplies	Appliances		
+Monday, January 20, 2014	Office Supplies	Appliances	93.5816	247.716
+Tuesday, January 21, 2014	Office Supplies	Appliances		
+Thursday, January 23, 2014	Office Supplies	Appliances		
+Sunday, January 26, 2014	Office Supplies	Appliances		
+Monday, January 27, 2014	Office Supplies	Appliances		
+Tuesday, January 28, 2014	Office Supplies	Appliances		
+Thursday, January 30, 2014	Office Supplies	Appliances		
+Friday, January 31, 2014	Office Supplies	Appliances		
+Saturday, February 01, 2014	Office Supplies	Appliances		
+Sunday, February 02, 2014	Office Supplies	Appliances		
+Monday, February 03, 2014	Office Supplies	Appliances		
+Tuesday, February 04, 2014	Office Supplies	Appliances		
+Thursday, February 06, 2014	Office Supplies	Appliances		
+Friday, February 07, 2014	Office Supplies	Appliances		
+Saturday, February 08, 2014	Office Supplies	Appliances		
+Tuesday, February 11, 2014	Office Supplies	Appliances		
+Wednesday, February 12, 2014	Office Supplies	Appliances		
+Friday, February 14, 2014	Office Supplies	Appliances	22.9488	81.96
+Saturday, February 15, 2014	Office Supplies	Appliances		
+Sunday, February 16, 2014	Office Supplies	Appliances	-13.93	7.96
+Monday, February 17, 2014	Office Supplies	Appliances		
+Tuesday, February 18, 2014	Office Supplies	Appliances		
+Thursday, February 20, 2014	Office Supplies	Appliances		
+Friday, February 21, 2014	Office Supplies	Appliances		
+Saturday, February 22, 2014	Office Supplies	Appliances		
+Sunday, February 23, 2014	Office Supplies	Appliances		
+Monday, February 24, 2014	Office Supplies	Appliances		
+Thursday, February 27, 2014	Office Supplies	Appliances		
+Saturday, March 01, 2014	Office Supplies	Appliances		
+Sunday, March 02, 2014	Office Supplies	Appliances		
+Monday, March 03, 2014	Office Supplies	Appliances	-459.6072	176.772
+Tuesday, March 04, 2014	Office Supplies	Appliances		
+Wednesday, March 05, 2014	Office Supplies	Appliances		
+Friday, March 07, 2014	Office Supplies	Appliances		
+Monday, March 10, 2014	Office Supplies	Appliances		
+Tuesday, March 11, 2014	Office Supplies	Appliances	38.1576	146.76
+Friday, March 14, 2014	Office Supplies	Appliances		
+Saturday, March 15, 2014	Office Supplies	Appliances		
+Sunday, March 16, 2014	Office Supplies	Appliances		
+Monday, March 17, 2014	Office Supplies	Appliances	45.0684	126.45
+Tuesday, March 18, 2014	Office Supplies	Appliances		
+Wednesday, March 19, 2014	Office Supplies	Appliances		
+Friday, March 21, 2014	Office Supplies	Appliances		
+Saturday, March 22, 2014	Office Supplies	Appliances		
+Sunday, March 23, 2014	Office Supplies	Appliances		
+Monday, March 24, 2014	Office Supplies	Appliances		
+Friday, January 03, 2014	Office Supplies	Art		
+Saturday, January 04, 2014	Office Supplies	Art		
+Sunday, January 05, 2014	Office Supplies	Art	4.884	19.536
+Monday, January 06, 2014	Office Supplies	Art	6.7194	18.26
+Tuesday, January 07, 2014	Office Supplies	Art		
+Thursday, January 09, 2014	Office Supplies	Art	1.168	9.344
+Friday, January 10, 2014	Office Supplies	Art		
+Saturday, January 11, 2014	Office Supplies	Art		
+Monday, January 13, 2014	Office Supplies	Art	6.567	19.9
+Tuesday, January 14, 2014	Office Supplies	Art		
+Wednesday, January 15, 2014	Office Supplies	Art		
+Thursday, January 16, 2014	Office Supplies	Art		
+Saturday, January 18, 2014	Office Supplies	Art		
+Sunday, January 19, 2014	Office Supplies	Art		
+Monday, January 20, 2014	Office Supplies	Art	21.1853	73.51
+Tuesday, January 21, 2014	Office Supplies	Art		
+Thursday, January 23, 2014	Office Supplies	Art		
+Sunday, January 26, 2014	Office Supplies	Art		
+Monday, January 27, 2014	Office Supplies	Art	12.0252	36.44
+Tuesday, January 28, 2014	Office Supplies	Art		
+Thursday, January 30, 2014	Office Supplies	Art		
+Friday, January 31, 2014	Office Supplies	Art		
+Saturday, February 01, 2014	Office Supplies	Art		
+Sunday, February 02, 2014	Office Supplies	Art		
+Monday, February 03, 2014	Office Supplies	Art		
+Tuesday, February 04, 2014	Office Supplies	Art		
+Thursday, February 06, 2014	Office Supplies	Art		
+Friday, February 07, 2014	Office Supplies	Art		
+Saturday, February 08, 2014	Office Supplies	Art		
+Tuesday, February 11, 2014	Office Supplies	Art		
+Wednesday, February 12, 2014	Office Supplies	Art		
+Friday, February 14, 2014	Office Supplies	Art		
+Saturday, February 15, 2014	Office Supplies	Art		
+Sunday, February 16, 2014	Office Supplies	Art		
+Monday, February 17, 2014	Office Supplies	Art	8.8088	54.208
+Tuesday, February 18, 2014	Office Supplies	Art		
+Thursday, February 20, 2014	Office Supplies	Art		
+Friday, February 21, 2014	Office Supplies	Art		
+Saturday, February 22, 2014	Office Supplies	Art		
+Sunday, February 23, 2014	Office Supplies	Art		
+Monday, February 24, 2014	Office Supplies	Art		
+Thursday, February 27, 2014	Office Supplies	Art	3.4048	19.456
+Saturday, March 01, 2014	Office Supplies	Art		
+Sunday, March 02, 2014	Office Supplies	Art		
+Monday, March 03, 2014	Office Supplies	Art	3.4048	19.456
+Tuesday, March 04, 2014	Office Supplies	Art	2.3328	15.552
+Wednesday, March 05, 2014	Office Supplies	Art	15.4752	59.52
+Friday, March 07, 2014	Office Supplies	Art	14.1634	38.59
+Monday, March 10, 2014	Office Supplies	Art	9.3564	83.168
+Tuesday, March 11, 2014	Office Supplies	Art	2.0748	7.98
+Friday, March 14, 2014	Office Supplies	Art	1.2506	3.38
+Saturday, March 15, 2014	Office Supplies	Art		
+Sunday, March 16, 2014	Office Supplies	Art		
+Monday, March 17, 2014	Office Supplies	Art	6.0408	24.128
+Tuesday, March 18, 2014	Office Supplies	Art	1.002	8.016
+Wednesday, March 19, 2014	Office Supplies	Art		
+Friday, March 21, 2014	Office Supplies	Art	5.4942	22.776
+Saturday, March 22, 2014	Office Supplies	Art	6.512	16.28
+Sunday, March 23, 2014	Office Supplies	Art		
+Monday, March 24, 2014	Office Supplies	Art		
+Friday, January 03, 2014	Office Supplies	Binders		
+Saturday, January 04, 2014	Office Supplies	Binders	-5.487	3.54
+Sunday, January 05, 2014	Office Supplies	Binders		
+Monday, January 06, 2014	Office Supplies	Binders	274.491	609.98
+Tuesday, January 07, 2014	Office Supplies	Binders	-18.2525	10.43
+Thursday, January 09, 2014	Office Supplies	Binders		
+Friday, January 10, 2014	Office Supplies	Binders		
+Saturday, January 11, 2014	Office Supplies	Binders		
+Monday, January 13, 2014	Office Supplies	Binders	0.186	9.078
+Tuesday, January 14, 2014	Office Supplies	Binders		
+Wednesday, January 15, 2014	Office Supplies	Binders		
+Thursday, January 16, 2014	Office Supplies	Binders	-13.6312	18.588
+Saturday, January 18, 2014	Office Supplies	Binders		
+Sunday, January 19, 2014	Office Supplies	Binders	-23.716	32.34
+Monday, January 20, 2014	Office Supplies	Binders	-29.1969	115.944
+Tuesday, January 21, 2014	Office Supplies	Binders		
+Thursday, January 23, 2014	Office Supplies	Binders		
+Sunday, January 26, 2014	Office Supplies	Binders	5.0196	10.68
+Monday, January 27, 2014	Office Supplies	Binders		
+Tuesday, January 28, 2014	Office Supplies	Binders	1.3257	3.928
+Thursday, January 30, 2014	Office Supplies	Binders		
+Friday, January 31, 2014	Office Supplies	Binders		
+Saturday, February 01, 2014	Office Supplies	Binders		
+Sunday, February 02, 2014	Office Supplies	Binders	-12.224	18.336
+Monday, February 03, 2014	Office Supplies	Binders	31.5614	97.112
+Tuesday, February 04, 2014	Office Supplies	Binders	35.0504	100.144
+Thursday, February 06, 2014	Office Supplies	Binders	-14.7708	8.952
+Friday, February 07, 2014	Office Supplies	Binders		
+Saturday, February 08, 2014	Office Supplies	Binders		
+Tuesday, February 11, 2014	Office Supplies	Binders	37.0336	79
+Wednesday, February 12, 2014	Office Supplies	Binders		
+Friday, February 14, 2014	Office Supplies	Binders		
+Saturday, February 15, 2014	Office Supplies	Binders	7.209	21.36
+Sunday, February 16, 2014	Office Supplies	Binders	-1.728	1.08
+Monday, February 17, 2014	Office Supplies	Binders		
+Tuesday, February 18, 2014	Office Supplies	Binders		
+Thursday, February 20, 2014	Office Supplies	Binders		
+Friday, February 21, 2014	Office Supplies	Binders	-13.7175	8.85
+Saturday, February 22, 2014	Office Supplies	Binders		
+Sunday, February 23, 2014	Office Supplies	Binders	-6.8634	4.428
+Monday, February 24, 2014	Office Supplies	Binders		
+Thursday, February 27, 2014	Office Supplies	Binders		
+Saturday, March 01, 2014	Office Supplies	Binders		
+Sunday, March 02, 2014	Office Supplies	Binders		
+Monday, March 03, 2014	Office Supplies	Binders	50.0505	151.08
+Tuesday, March 04, 2014	Office Supplies	Binders		
+Wednesday, March 05, 2014	Office Supplies	Binders	16.7508	49.632
+Friday, March 07, 2014	Office Supplies	Binders	33.64	107.648
+Monday, March 10, 2014	Office Supplies	Binders		
+Tuesday, March 11, 2014	Office Supplies	Binders		
+Friday, March 14, 2014	Office Supplies	Binders	31.3328	95.136
+Saturday, March 15, 2014	Office Supplies	Binders	-37.205	50.406
+Sunday, March 16, 2014	Office Supplies	Binders		
+Monday, March 17, 2014	Office Supplies	Binders	62.6081	131.15
+Tuesday, March 18, 2014	Office Supplies	Binders		
+Wednesday, March 19, 2014	Office Supplies	Binders	-25.737	33.57
+Friday, March 21, 2014	Office Supplies	Binders	59.0112	122.94
+Saturday, March 22, 2014	Office Supplies	Binders	-45.3169	59.109
+Sunday, March 23, 2014	Office Supplies	Binders		
+Monday, March 24, 2014	Office Supplies	Binders		
+Friday, January 03, 2014	Office Supplies	Envelopes		
+Saturday, January 04, 2014	Office Supplies	Envelopes		
+Sunday, January 05, 2014	Office Supplies	Envelopes		
+Monday, January 06, 2014	Office Supplies	Envelopes		
+Tuesday, January 07, 2014	Office Supplies	Envelopes		
+Thursday, January 09, 2014	Office Supplies	Envelopes		
+Friday, January 10, 2014	Office Supplies	Envelopes		
+Saturday, January 11, 2014	Office Supplies	Envelopes		
+Monday, January 13, 2014	Office Supplies	Envelopes	30.8092	62.3
+Tuesday, January 14, 2014	Office Supplies	Envelopes		
+Wednesday, January 15, 2014	Office Supplies	Envelopes		
+Thursday, January 16, 2014	Office Supplies	Envelopes		
+Saturday, January 18, 2014	Office Supplies	Envelopes		
+Sunday, January 19, 2014	Office Supplies	Envelopes	36.693	108.72
+Monday, January 20, 2014	Office Supplies	Envelopes	10.9698	23.34
+Tuesday, January 21, 2014	Office Supplies	Envelopes		
+Thursday, January 23, 2014	Office Supplies	Envelopes		
+Sunday, January 26, 2014	Office Supplies	Envelopes		
+Monday, January 27, 2014	Office Supplies	Envelopes		
+Tuesday, January 28, 2014	Office Supplies	Envelopes		
+Thursday, January 30, 2014	Office Supplies	Envelopes		
+Friday, January 31, 2014	Office Supplies	Envelopes		
+Saturday, February 01, 2014	Office Supplies	Envelopes		
+Sunday, February 02, 2014	Office Supplies	Envelopes		
+Monday, February 03, 2014	Office Supplies	Envelopes		
+Tuesday, February 04, 2014	Office Supplies	Envelopes		
+Thursday, February 06, 2014	Office Supplies	Envelopes		
+Friday, February 07, 2014	Office Supplies	Envelopes		
+Saturday, February 08, 2014	Office Supplies	Envelopes		
+Tuesday, February 11, 2014	Office Supplies	Envelopes		
+Wednesday, February 12, 2014	Office Supplies	Envelopes		
+Friday, February 14, 2014	Office Supplies	Envelopes		
+Saturday, February 15, 2014	Office Supplies	Envelopes		
+Sunday, February 16, 2014	Office Supplies	Envelopes		
+Monday, February 17, 2014	Office Supplies	Envelopes		
+Tuesday, February 18, 2014	Office Supplies	Envelopes		
+Thursday, February 20, 2014	Office Supplies	Envelopes		
+Friday, February 21, 2014	Office Supplies	Envelopes		
+Saturday, February 22, 2014	Office Supplies	Envelopes		
+Sunday, February 23, 2014	Office Supplies	Envelopes		
+Monday, February 24, 2014	Office Supplies	Envelopes		
+Thursday, February 27, 2014	Office Supplies	Envelopes		
+Saturday, March 01, 2014	Office Supplies	Envelopes		
+Sunday, March 02, 2014	Office Supplies	Envelopes	5.3392	11.36
+Monday, March 03, 2014	Office Supplies	Envelopes		
+Tuesday, March 04, 2014	Office Supplies	Envelopes		
+Wednesday, March 05, 2014	Office Supplies	Envelopes		
+Friday, March 07, 2014	Office Supplies	Envelopes		
+Monday, March 10, 2014	Office Supplies	Envelopes		
+Tuesday, March 11, 2014	Office Supplies	Envelopes		
+Friday, March 14, 2014	Office Supplies	Envelopes		
+Saturday, March 15, 2014	Office Supplies	Envelopes		
+Sunday, March 16, 2014	Office Supplies	Envelopes		
+Monday, March 17, 2014	Office Supplies	Envelopes		
+Tuesday, March 18, 2014	Office Supplies	Envelopes		
+Wednesday, March 19, 2014	Office Supplies	Envelopes		
+Friday, March 21, 2014	Office Supplies	Envelopes		
+Saturday, March 22, 2014	Office Supplies	Envelopes		
+Sunday, March 23, 2014	Office Supplies	Envelopes		
+Monday, March 24, 2014	Office Supplies	Envelopes		
+Friday, January 03, 2014	Office Supplies	Fasteners		
+Saturday, January 04, 2014	Office Supplies	Fasteners		
+Sunday, January 05, 2014	Office Supplies	Fasteners		
+Monday, January 06, 2014	Office Supplies	Fasteners	0.3112	31.12
+Tuesday, January 07, 2014	Office Supplies	Fasteners		
+Thursday, January 09, 2014	Office Supplies	Fasteners		
+Friday, January 10, 2014	Office Supplies	Fasteners		
+Saturday, January 11, 2014	Office Supplies	Fasteners		
+Monday, January 13, 2014	Office Supplies	Fasteners		
+Tuesday, January 14, 2014	Office Supplies	Fasteners		
+Wednesday, January 15, 2014	Office Supplies	Fasteners		
+Thursday, January 16, 2014	Office Supplies	Fasteners		
+Saturday, January 18, 2014	Office Supplies	Fasteners		
+Sunday, January 19, 2014	Office Supplies	Fasteners		
+Monday, January 20, 2014	Office Supplies	Fasteners		
+Tuesday, January 21, 2014	Office Supplies	Fasteners		
+Thursday, January 23, 2014	Office Supplies	Fasteners	0	5.94
+Sunday, January 26, 2014	Office Supplies	Fasteners		
+Monday, January 27, 2014	Office Supplies	Fasteners		
+Tuesday, January 28, 2014	Office Supplies	Fasteners		
+Thursday, January 30, 2014	Office Supplies	Fasteners		
+Friday, January 31, 2014	Office Supplies	Fasteners		
+Saturday, February 01, 2014	Office Supplies	Fasteners		
+Sunday, February 02, 2014	Office Supplies	Fasteners	5.8045	12.35
+Monday, February 03, 2014	Office Supplies	Fasteners		
+Tuesday, February 04, 2014	Office Supplies	Fasteners		
+Thursday, February 06, 2014	Office Supplies	Fasteners		
+Friday, February 07, 2014	Office Supplies	Fasteners		
+Saturday, February 08, 2014	Office Supplies	Fasteners		
+Tuesday, February 11, 2014	Office Supplies	Fasteners		
+Wednesday, February 12, 2014	Office Supplies	Fasteners		
+Friday, February 14, 2014	Office Supplies	Fasteners		
+Saturday, February 15, 2014	Office Supplies	Fasteners		
+Sunday, February 16, 2014	Office Supplies	Fasteners		
+Monday, February 17, 2014	Office Supplies	Fasteners		
+Tuesday, February 18, 2014	Office Supplies	Fasteners		
+Thursday, February 20, 2014	Office Supplies	Fasteners		
+Friday, February 21, 2014	Office Supplies	Fasteners		
+Saturday, February 22, 2014	Office Supplies	Fasteners		
+Sunday, February 23, 2014	Office Supplies	Fasteners		
+Monday, February 24, 2014	Office Supplies	Fasteners		
+Thursday, February 27, 2014	Office Supplies	Fasteners		
+Saturday, March 01, 2014	Office Supplies	Fasteners	-3.5325	18.84
+Sunday, March 02, 2014	Office Supplies	Fasteners		
+Monday, March 03, 2014	Office Supplies	Fasteners		
+Tuesday, March 04, 2014	Office Supplies	Fasteners		
+Wednesday, March 05, 2014	Office Supplies	Fasteners		
+Friday, March 07, 2014	Office Supplies	Fasteners		
+Monday, March 10, 2014	Office Supplies	Fasteners		
+Tuesday, March 11, 2014	Office Supplies	Fasteners	1.7004	10.464
+Friday, March 14, 2014	Office Supplies	Fasteners		
+Saturday, March 15, 2014	Office Supplies	Fasteners		
+Sunday, March 16, 2014	Office Supplies	Fasteners		
+Monday, March 17, 2014	Office Supplies	Fasteners		
+Tuesday, March 18, 2014	Office Supplies	Fasteners	5.9175	18.936
+Wednesday, March 19, 2014	Office Supplies	Fasteners		
+Friday, March 21, 2014	Office Supplies	Fasteners		
+Saturday, March 22, 2014	Office Supplies	Fasteners		
+Sunday, March 23, 2014	Office Supplies	Fasteners		
+Monday, March 24, 2014	Office Supplies	Fasteners		
+Friday, January 03, 2014	Office Supplies	Labels		
+Saturday, January 04, 2014	Office Supplies	Labels	4.2717	11.784
+Sunday, January 05, 2014	Office Supplies	Labels		
+Monday, January 06, 2014	Office Supplies	Labels		
+Tuesday, January 07, 2014	Office Supplies	Labels		
+Thursday, January 09, 2014	Office Supplies	Labels		
+Friday, January 10, 2014	Office Supplies	Labels	1.3583	2.89
+Saturday, January 11, 2014	Office Supplies	Labels		
+Monday, January 13, 2014	Office Supplies	Labels		
+Tuesday, January 14, 2014	Office Supplies	Labels		
+Wednesday, January 15, 2014	Office Supplies	Labels		
+Thursday, January 16, 2014	Office Supplies	Labels	10.1493	30.072
+Saturday, January 18, 2014	Office Supplies	Labels		
+Sunday, January 19, 2014	Office Supplies	Labels		
+Monday, January 20, 2014	Office Supplies	Labels		
+Tuesday, January 21, 2014	Office Supplies	Labels		
+Thursday, January 23, 2014	Office Supplies	Labels		
+Sunday, January 26, 2014	Office Supplies	Labels		
+Monday, January 27, 2014	Office Supplies	Labels		
+Tuesday, January 28, 2014	Office Supplies	Labels		
+Thursday, January 30, 2014	Office Supplies	Labels		
+Friday, January 31, 2014	Office Supplies	Labels		
+Saturday, February 01, 2014	Office Supplies	Labels		
+Sunday, February 02, 2014	Office Supplies	Labels		
+Monday, February 03, 2014	Office Supplies	Labels		
+Tuesday, February 04, 2014	Office Supplies	Labels		
+Thursday, February 06, 2014	Office Supplies	Labels	7.2	15
+Friday, February 07, 2014	Office Supplies	Labels		
+Saturday, February 08, 2014	Office Supplies	Labels		
+Tuesday, February 11, 2014	Office Supplies	Labels	6.8724	14.94
+Wednesday, February 12, 2014	Office Supplies	Labels		
+Friday, February 14, 2014	Office Supplies	Labels		
+Saturday, February 15, 2014	Office Supplies	Labels		
+Sunday, February 16, 2014	Office Supplies	Labels		
+Monday, February 17, 2014	Office Supplies	Labels		
+Tuesday, February 18, 2014	Office Supplies	Labels		
+Thursday, February 20, 2014	Office Supplies	Labels		
+Friday, February 21, 2014	Office Supplies	Labels		
+Saturday, February 22, 2014	Office Supplies	Labels		
+Sunday, February 23, 2014	Office Supplies	Labels	2.3409	6.936
+Monday, February 24, 2014	Office Supplies	Labels		
+Thursday, February 27, 2014	Office Supplies	Labels		
+Saturday, March 01, 2014	Office Supplies	Labels		
+Sunday, March 02, 2014	Office Supplies	Labels		
+Monday, March 03, 2014	Office Supplies	Labels	4.914	15.12
+Tuesday, March 04, 2014	Office Supplies	Labels		
+Wednesday, March 05, 2014	Office Supplies	Labels		
+Friday, March 07, 2014	Office Supplies	Labels		
+Monday, March 10, 2014	Office Supplies	Labels		
+Tuesday, March 11, 2014	Office Supplies	Labels		
+Friday, March 14, 2014	Office Supplies	Labels		
+Saturday, March 15, 2014	Office Supplies	Labels		
+Sunday, March 16, 2014	Office Supplies	Labels		
+Monday, March 17, 2014	Office Supplies	Labels		
+Tuesday, March 18, 2014	Office Supplies	Labels		
+Wednesday, March 19, 2014	Office Supplies	Labels	3.9852	11.808
+Friday, March 21, 2014	Office Supplies	Labels	28.824	73.6
+Saturday, March 22, 2014	Office Supplies	Labels		
+Sunday, March 23, 2014	Office Supplies	Labels	3.2214	9.912
+Monday, March 24, 2014	Office Supplies	Labels		
+Friday, January 03, 2014	Office Supplies	Paper	5.5512	16.448
+Saturday, January 04, 2014	Office Supplies	Paper		
+Sunday, January 05, 2014	Office Supplies	Paper		
+Monday, January 06, 2014	Office Supplies	Paper	12.3396	25.98
+Tuesday, January 07, 2014	Office Supplies	Paper		
+Thursday, January 09, 2014	Office Supplies	Paper		
+Friday, January 10, 2014	Office Supplies	Paper		
+Saturday, January 11, 2014	Office Supplies	Paper		
+Monday, January 13, 2014	Office Supplies	Paper	13.0928	37.408
+Tuesday, January 14, 2014	Office Supplies	Paper		
+Wednesday, January 15, 2014	Office Supplies	Paper		
+Thursday, January 16, 2014	Office Supplies	Paper		
+Saturday, January 18, 2014	Office Supplies	Paper		
+Sunday, January 19, 2014	Office Supplies	Paper	19.6224	56.064
+Monday, January 20, 2014	Office Supplies	Paper	9.2928	19.36
+Tuesday, January 21, 2014	Office Supplies	Paper		
+Thursday, January 23, 2014	Office Supplies	Paper	19.2384	40.08
+Sunday, January 26, 2014	Office Supplies	Paper	17.6712	36.12
+Monday, January 27, 2014	Office Supplies	Paper		
+Tuesday, January 28, 2014	Office Supplies	Paper		
+Thursday, January 30, 2014	Office Supplies	Paper	4.752	10.56
+Friday, January 31, 2014	Office Supplies	Paper		
+Saturday, February 01, 2014	Office Supplies	Paper		
+Sunday, February 02, 2014	Office Supplies	Paper		
+Monday, February 03, 2014	Office Supplies	Paper		
+Tuesday, February 04, 2014	Office Supplies	Paper	16.0928	34.24
+Thursday, February 06, 2014	Office Supplies	Paper		
+Friday, February 07, 2014	Office Supplies	Paper		
+Saturday, February 08, 2014	Office Supplies	Paper		
+Tuesday, February 11, 2014	Office Supplies	Paper		
+Wednesday, February 12, 2014	Office Supplies	Paper		
+Friday, February 14, 2014	Office Supplies	Paper	6.066	16.176
+Saturday, February 15, 2014	Office Supplies	Paper		
+Sunday, February 16, 2014	Office Supplies	Paper		
+Monday, February 17, 2014	Office Supplies	Paper		
+Tuesday, February 18, 2014	Office Supplies	Paper		
+Thursday, February 20, 2014	Office Supplies	Paper	6.2208	12.96
+Friday, February 21, 2014	Office Supplies	Paper		
+Saturday, February 22, 2014	Office Supplies	Paper	9.3312	19.44
+Sunday, February 23, 2014	Office Supplies	Paper		
+Monday, February 24, 2014	Office Supplies	Paper	18.7893	55.672
+Thursday, February 27, 2014	Office Supplies	Paper		
+Saturday, March 01, 2014	Office Supplies	Paper	5.6784	17.472
+Sunday, March 02, 2014	Office Supplies	Paper	18.542	39.824
+Monday, March 03, 2014	Office Supplies	Paper		
+Tuesday, March 04, 2014	Office Supplies	Paper		
+Wednesday, March 05, 2014	Office Supplies	Paper	45.9754	97.82
+Friday, March 07, 2014	Office Supplies	Paper		
+Monday, March 10, 2014	Office Supplies	Paper	10.7424	22.38
+Tuesday, March 11, 2014	Office Supplies	Paper	56.0358	123.86
+Friday, March 14, 2014	Office Supplies	Paper	39.2616	110.064
+Saturday, March 15, 2014	Office Supplies	Paper	47.8152	131.904
+Sunday, March 16, 2014	Office Supplies	Paper		
+Monday, March 17, 2014	Office Supplies	Paper	178.4494	413.4
+Tuesday, March 18, 2014	Office Supplies	Paper	7.4816	21.376
+Wednesday, March 19, 2014	Office Supplies	Paper		
+Friday, March 21, 2014	Office Supplies	Paper	60.2553	122.97
+Saturday, March 22, 2014	Office Supplies	Paper	23.235	74.352
+Sunday, March 23, 2014	Office Supplies	Paper		
+Monday, March 24, 2014	Office Supplies	Paper	11.703	24.9
+Friday, January 03, 2014	Office Supplies	Storage		
+Saturday, January 04, 2014	Office Supplies	Storage	-64.7748	272.736
+Sunday, January 05, 2014	Office Supplies	Storage		
+Monday, January 06, 2014	Office Supplies	Storage		
+Tuesday, January 07, 2014	Office Supplies	Storage		
+Thursday, January 09, 2014	Office Supplies	Storage		
+Friday, January 10, 2014	Office Supplies	Storage		
+Saturday, January 11, 2014	Office Supplies	Storage		
+Monday, January 13, 2014	Office Supplies	Storage	273.0078	1898.43
+Tuesday, January 14, 2014	Office Supplies	Storage		
+Wednesday, January 15, 2014	Office Supplies	Storage		
+Thursday, January 16, 2014	Office Supplies	Storage		
+Saturday, January 18, 2014	Office Supplies	Storage		
+Sunday, January 19, 2014	Office Supplies	Storage		
+Monday, January 20, 2014	Office Supplies	Storage	20.0334	80.56
+Tuesday, January 21, 2014	Office Supplies	Storage		
+Thursday, January 23, 2014	Office Supplies	Storage		
+Sunday, January 26, 2014	Office Supplies	Storage	0	489.92
+Monday, January 27, 2014	Office Supplies	Storage	14.3075	57.23
+Tuesday, January 28, 2014	Office Supplies	Storage		
+Thursday, January 30, 2014	Office Supplies	Storage	6.8982	229.94
+Friday, January 31, 2014	Office Supplies	Storage		
+Saturday, February 01, 2014	Office Supplies	Storage		
+Sunday, February 02, 2014	Office Supplies	Storage		
+Monday, February 03, 2014	Office Supplies	Storage		
+Tuesday, February 04, 2014	Office Supplies	Storage		
+Thursday, February 06, 2014	Office Supplies	Storage		
+Friday, February 07, 2014	Office Supplies	Storage	9.744	64.96
+Saturday, February 08, 2014	Office Supplies	Storage		
+Tuesday, February 11, 2014	Office Supplies	Storage	2.5984	64.96
+Wednesday, February 12, 2014	Office Supplies	Storage		
+Friday, February 14, 2014	Office Supplies	Storage		
+Saturday, February 15, 2014	Office Supplies	Storage		
+Sunday, February 16, 2014	Office Supplies	Storage		
+Monday, February 17, 2014	Office Supplies	Storage		
+Tuesday, February 18, 2014	Office Supplies	Storage	-2.5248	12.624
+Thursday, February 20, 2014	Office Supplies	Storage		
+Friday, February 21, 2014	Office Supplies	Storage		
+Saturday, February 22, 2014	Office Supplies	Storage		
+Sunday, February 23, 2014	Office Supplies	Storage		
+Monday, February 24, 2014	Office Supplies	Storage		
+Thursday, February 27, 2014	Office Supplies	Storage		
+Saturday, March 01, 2014	Office Supplies	Storage	-14.0871	266.904
+Sunday, March 02, 2014	Office Supplies	Storage		
+Monday, March 03, 2014	Office Supplies	Storage	-10.0512	44.672
+Tuesday, March 04, 2014	Office Supplies	Storage	17.745	354.9
+Wednesday, March 05, 2014	Office Supplies	Storage		
+Friday, March 07, 2014	Office Supplies	Storage	4.8588	447.84
+Monday, March 10, 2014	Office Supplies	Storage	-15.9102	636.408
+Tuesday, March 11, 2014	Office Supplies	Storage		
+Friday, March 14, 2014	Office Supplies	Storage	9.0064	102.34
+Saturday, March 15, 2014	Office Supplies	Storage	17.847	142.776
+Sunday, March 16, 2014	Office Supplies	Storage		
+Monday, March 17, 2014	Office Supplies	Storage		
+Tuesday, March 18, 2014	Office Supplies	Storage	334.1142	1856.19
+Wednesday, March 19, 2014	Office Supplies	Storage	1.962	26.16
+Friday, March 21, 2014	Office Supplies	Storage	-3.8646	16.272
+Saturday, March 22, 2014	Office Supplies	Storage		
+Sunday, March 23, 2014	Office Supplies	Storage	85.904	330.4
+Monday, March 24, 2014	Office Supplies	Storage		
+Friday, January 03, 2014	Office Supplies	Supplies		
+Saturday, January 04, 2014	Office Supplies	Supplies		
+Sunday, January 05, 2014	Office Supplies	Supplies		
+Monday, January 06, 2014	Office Supplies	Supplies		
+Tuesday, January 07, 2014	Office Supplies	Supplies		
+Thursday, January 09, 2014	Office Supplies	Supplies		
+Friday, January 10, 2014	Office Supplies	Supplies		
+Saturday, January 11, 2014	Office Supplies	Supplies		
+Monday, January 13, 2014	Office Supplies	Supplies		
+Tuesday, January 14, 2014	Office Supplies	Supplies		
+Wednesday, January 15, 2014	Office Supplies	Supplies		
+Thursday, January 16, 2014	Office Supplies	Supplies		
+Saturday, January 18, 2014	Office Supplies	Supplies		
+Sunday, January 19, 2014	Office Supplies	Supplies		
+Monday, January 20, 2014	Office Supplies	Supplies		
+Tuesday, January 21, 2014	Office Supplies	Supplies		
+Thursday, January 23, 2014	Office Supplies	Supplies		
+Sunday, January 26, 2014	Office Supplies	Supplies		
+Monday, January 27, 2014	Office Supplies	Supplies		
+Tuesday, January 28, 2014	Office Supplies	Supplies		
+Thursday, January 30, 2014	Office Supplies	Supplies		
+Friday, January 31, 2014	Office Supplies	Supplies		
+Saturday, February 01, 2014	Office Supplies	Supplies		
+Sunday, February 02, 2014	Office Supplies	Supplies		
+Monday, February 03, 2014	Office Supplies	Supplies		
+Tuesday, February 04, 2014	Office Supplies	Supplies		
+Thursday, February 06, 2014	Office Supplies	Supplies		
+Friday, February 07, 2014	Office Supplies	Supplies		
+Saturday, February 08, 2014	Office Supplies	Supplies		
+Tuesday, February 11, 2014	Office Supplies	Supplies		
+Wednesday, February 12, 2014	Office Supplies	Supplies		
+Friday, February 14, 2014	Office Supplies	Supplies	4.7724	238.62
+Saturday, February 15, 2014	Office Supplies	Supplies		
+Sunday, February 16, 2014	Office Supplies	Supplies		
+Monday, February 17, 2014	Office Supplies	Supplies		
+Tuesday, February 18, 2014	Office Supplies	Supplies		
+Thursday, February 20, 2014	Office Supplies	Supplies		
+Friday, February 21, 2014	Office Supplies	Supplies		
+Saturday, February 22, 2014	Office Supplies	Supplies		
+Sunday, February 23, 2014	Office Supplies	Supplies		
+Monday, February 24, 2014	Office Supplies	Supplies		
+Thursday, February 27, 2014	Office Supplies	Supplies		
+Saturday, March 01, 2014	Office Supplies	Supplies		
+Sunday, March 02, 2014	Office Supplies	Supplies		
+Monday, March 03, 2014	Office Supplies	Supplies		
+Tuesday, March 04, 2014	Office Supplies	Supplies		
+Wednesday, March 05, 2014	Office Supplies	Supplies	5.3998	18.62
+Friday, March 07, 2014	Office Supplies	Supplies		
+Monday, March 10, 2014	Office Supplies	Supplies		
+Tuesday, March 11, 2014	Office Supplies	Supplies		
+Friday, March 14, 2014	Office Supplies	Supplies		
+Saturday, March 15, 2014	Office Supplies	Supplies		
+Sunday, March 16, 2014	Office Supplies	Supplies		
+Monday, March 17, 2014	Office Supplies	Supplies		
+Tuesday, March 18, 2014	Office Supplies	Supplies		
+Wednesday, March 19, 2014	Office Supplies	Supplies		
+Friday, March 21, 2014	Office Supplies	Supplies		
+Saturday, March 22, 2014	Office Supplies	Supplies		
+Sunday, March 23, 2014	Office Supplies	Supplies		
+Monday, March 24, 2014	Office Supplies	Supplies		
+Friday, January 03, 2014	Technology	Accessories		
+Saturday, January 04, 2014	Technology	Accessories		
+Sunday, January 05, 2014	Technology	Accessories		
+Monday, January 06, 2014	Technology	Accessories		
+Tuesday, January 07, 2014	Technology	Accessories		
+Thursday, January 09, 2014	Technology	Accessories	9.75	31.2
+Friday, January 10, 2014	Technology	Accessories		
+Saturday, January 11, 2014	Technology	Accessories		
+Monday, January 13, 2014	Technology	Accessories	258.696	646.74
+Tuesday, January 14, 2014	Technology	Accessories		
+Wednesday, January 15, 2014	Technology	Accessories	65.978	149.95
+Thursday, January 16, 2014	Technology	Accessories		
+Saturday, January 18, 2014	Technology	Accessories		
+Sunday, January 19, 2014	Technology	Accessories		
+Monday, January 20, 2014	Technology	Accessories		
+Tuesday, January 21, 2014	Technology	Accessories		
+Thursday, January 23, 2014	Technology	Accessories		
+Sunday, January 26, 2014	Technology	Accessories		
+Monday, January 27, 2014	Technology	Accessories		
+Tuesday, January 28, 2014	Technology	Accessories		
+Thursday, January 30, 2014	Technology	Accessories		
+Friday, January 31, 2014	Technology	Accessories		
+Saturday, February 01, 2014	Technology	Accessories	206.316	468.9
+Sunday, February 02, 2014	Technology	Accessories		
+Monday, February 03, 2014	Technology	Accessories		
+Tuesday, February 04, 2014	Technology	Accessories		
+Thursday, February 06, 2014	Technology	Accessories		
+Friday, February 07, 2014	Technology	Accessories	49.6048	115.36
+Saturday, February 08, 2014	Technology	Accessories		
+Tuesday, February 11, 2014	Technology	Accessories	103.158	234.45
+Wednesday, February 12, 2014	Technology	Accessories		
+Friday, February 14, 2014	Technology	Accessories	86.3892	239.97
+Saturday, February 15, 2014	Technology	Accessories		
+Sunday, February 16, 2014	Technology	Accessories		
+Monday, February 17, 2014	Technology	Accessories		
+Tuesday, February 18, 2014	Technology	Accessories		
+Thursday, February 20, 2014	Technology	Accessories	22.4316	62.31
+Friday, February 21, 2014	Technology	Accessories		
+Saturday, February 22, 2014	Technology	Accessories		
+Sunday, February 23, 2014	Technology	Accessories		
+Monday, February 24, 2014	Technology	Accessories		
+Thursday, February 27, 2014	Technology	Accessories		
+Saturday, March 01, 2014	Technology	Accessories		
+Sunday, March 02, 2014	Technology	Accessories	32.13	151.2
+Monday, March 03, 2014	Technology	Accessories		
+Tuesday, March 04, 2014	Technology	Accessories		
+Wednesday, March 05, 2014	Technology	Accessories	177.5889	479.97
+Friday, March 07, 2014	Technology	Accessories		
+Monday, March 10, 2014	Technology	Accessories		
+Tuesday, March 11, 2014	Technology	Accessories	14.1728	32.96
+Friday, March 14, 2014	Technology	Accessories	6.624	82.8
+Saturday, March 15, 2014	Technology	Accessories		
+Sunday, March 16, 2014	Technology	Accessories		
+Monday, March 17, 2014	Technology	Accessories		
+Tuesday, March 18, 2014	Technology	Accessories		
+Wednesday, March 19, 2014	Technology	Accessories	53.2	170.24
+Friday, March 21, 2014	Technology	Accessories		
+Saturday, March 22, 2014	Technology	Accessories		
+Sunday, March 23, 2014	Technology	Accessories		
+Monday, March 24, 2014	Technology	Accessories		
+Friday, January 03, 2014	Technology	Copiers		
+Saturday, January 04, 2014	Technology	Copiers		
+Sunday, January 05, 2014	Technology	Copiers		
+Monday, January 06, 2014	Technology	Copiers		
+Tuesday, January 07, 2014	Technology	Copiers		
+Thursday, January 09, 2014	Technology	Copiers		
+Friday, January 10, 2014	Technology	Copiers		
+Saturday, January 11, 2014	Technology	Copiers		
+Monday, January 13, 2014	Technology	Copiers		
+Tuesday, January 14, 2014	Technology	Copiers		
+Wednesday, January 15, 2014	Technology	Copiers		
+Thursday, January 16, 2014	Technology	Copiers		
+Saturday, January 18, 2014	Technology	Copiers		
+Sunday, January 19, 2014	Technology	Copiers		
+Monday, January 20, 2014	Technology	Copiers		
+Tuesday, January 21, 2014	Technology	Copiers		
+Thursday, January 23, 2014	Technology	Copiers		
+Sunday, January 26, 2014	Technology	Copiers		
+Monday, January 27, 2014	Technology	Copiers		
+Tuesday, January 28, 2014	Technology	Copiers		
+Thursday, January 30, 2014	Technology	Copiers		
+Friday, January 31, 2014	Technology	Copiers		
+Saturday, February 01, 2014	Technology	Copiers		
+Sunday, February 02, 2014	Technology	Copiers		
+Monday, February 03, 2014	Technology	Copiers		
+Tuesday, February 04, 2014	Technology	Copiers		
+Thursday, February 06, 2014	Technology	Copiers		
+Friday, February 07, 2014	Technology	Copiers		
+Saturday, February 08, 2014	Technology	Copiers		
+Tuesday, February 11, 2014	Technology	Copiers		
+Wednesday, February 12, 2014	Technology	Copiers		
+Friday, February 14, 2014	Technology	Copiers		
+Saturday, February 15, 2014	Technology	Copiers		
+Sunday, February 16, 2014	Technology	Copiers		
+Monday, February 17, 2014	Technology	Copiers		
+Tuesday, February 18, 2014	Technology	Copiers		
+Thursday, February 20, 2014	Technology	Copiers		
+Friday, February 21, 2014	Technology	Copiers		
+Saturday, February 22, 2014	Technology	Copiers		
+Sunday, February 23, 2014	Technology	Copiers		
+Monday, February 24, 2014	Technology	Copiers		
+Thursday, February 27, 2014	Technology	Copiers		
+Saturday, March 01, 2014	Technology	Copiers		
+Sunday, March 02, 2014	Technology	Copiers		
+Monday, March 03, 2014	Technology	Copiers		
+Tuesday, March 04, 2014	Technology	Copiers		
+Wednesday, March 05, 2014	Technology	Copiers		
+Friday, March 07, 2014	Technology	Copiers		
+Monday, March 10, 2014	Technology	Copiers		
+Tuesday, March 11, 2014	Technology	Copiers		
+Friday, March 14, 2014	Technology	Copiers		
+Saturday, March 15, 2014	Technology	Copiers		
+Sunday, March 16, 2014	Technology	Copiers		
+Monday, March 17, 2014	Technology	Copiers		
+Tuesday, March 18, 2014	Technology	Copiers		
+Wednesday, March 19, 2014	Technology	Copiers		
+Friday, March 21, 2014	Technology	Copiers		
+Saturday, March 22, 2014	Technology	Copiers		
+Sunday, March 23, 2014	Technology	Copiers		
+Monday, March 24, 2014	Technology	Copiers		
+Friday, January 03, 2014	Technology	Machines		
+Saturday, January 04, 2014	Technology	Machines		
+Sunday, January 05, 2014	Technology	Machines		
+Monday, January 06, 2014	Technology	Machines		
+Tuesday, January 07, 2014	Technology	Machines		
+Thursday, January 09, 2014	Technology	Machines		
+Friday, January 10, 2014	Technology	Machines		
+Saturday, January 11, 2014	Technology	Machines		
+Monday, January 13, 2014	Technology	Machines		
+Tuesday, January 14, 2014	Technology	Machines		
+Wednesday, January 15, 2014	Technology	Machines		
+Thursday, January 16, 2014	Technology	Machines		
+Saturday, January 18, 2014	Technology	Machines		
+Sunday, January 19, 2014	Technology	Machines		
+Monday, January 20, 2014	Technology	Machines		
+Tuesday, January 21, 2014	Technology	Machines		
+Thursday, January 23, 2014	Technology	Machines		
+Sunday, January 26, 2014	Technology	Machines		
+Monday, January 27, 2014	Technology	Machines		
+Tuesday, January 28, 2014	Technology	Machines		
+Thursday, January 30, 2014	Technology	Machines		
+Friday, January 31, 2014	Technology	Machines		
+Saturday, February 01, 2014	Technology	Machines		
+Sunday, February 02, 2014	Technology	Machines		
+Monday, February 03, 2014	Technology	Machines		
+Tuesday, February 04, 2014	Technology	Machines		
+Thursday, February 06, 2014	Technology	Machines		
+Friday, February 07, 2014	Technology	Machines		
+Saturday, February 08, 2014	Technology	Machines		
+Tuesday, February 11, 2014	Technology	Machines		
+Wednesday, February 12, 2014	Technology	Machines		
+Friday, February 14, 2014	Technology	Machines		
+Saturday, February 15, 2014	Technology	Machines		
+Sunday, February 16, 2014	Technology	Machines		
+Monday, February 17, 2014	Technology	Machines		
+Tuesday, February 18, 2014	Technology	Machines		
+Thursday, February 20, 2014	Technology	Machines		
+Friday, February 21, 2014	Technology	Machines		
+Saturday, February 22, 2014	Technology	Machines		
+Sunday, February 23, 2014	Technology	Machines		
+Monday, February 24, 2014	Technology	Machines		
+Thursday, February 27, 2014	Technology	Machines		
+Saturday, March 01, 2014	Technology	Machines		
+Sunday, March 02, 2014	Technology	Machines		
+Monday, March 03, 2014	Technology	Machines		
+Tuesday, March 04, 2014	Technology	Machines		
+Wednesday, March 05, 2014	Technology	Machines		
+Friday, March 07, 2014	Technology	Machines		
+Monday, March 10, 2014	Technology	Machines		
+Tuesday, March 11, 2014	Technology	Machines		
+Friday, March 14, 2014	Technology	Machines	156.047	574.91
+Saturday, March 15, 2014	Technology	Machines		
+Sunday, March 16, 2014	Technology	Machines		
+Monday, March 17, 2014	Technology	Machines		
+Tuesday, March 18, 2014	Technology	Machines	-1411.5148	24739.748
+Wednesday, March 19, 2014	Technology	Machines		
+Friday, March 21, 2014	Technology	Machines		
+Saturday, March 22, 2014	Technology	Machines		
+Sunday, March 23, 2014	Technology	Machines		
+Monday, March 24, 2014	Technology	Machines		
+Friday, January 03, 2014	Technology	Phones		
+Saturday, January 04, 2014	Technology	Phones		
+Sunday, January 05, 2014	Technology	Phones		
+Monday, January 06, 2014	Technology	Phones	317.7834	1147.94
+Tuesday, January 07, 2014	Technology	Phones		
+Thursday, January 09, 2014	Technology	Phones		
+Friday, January 10, 2014	Technology	Phones		
+Saturday, January 11, 2014	Technology	Phones		
+Monday, January 13, 2014	Technology	Phones		
+Tuesday, January 14, 2014	Technology	Phones		
+Wednesday, January 15, 2014	Technology	Phones		
+Thursday, January 16, 2014	Technology	Phones	-31.05	124.2
+Saturday, January 18, 2014	Technology	Phones		
+Sunday, January 19, 2014	Technology	Phones		
+Monday, January 20, 2014	Technology	Phones	181.9818	699.93
+Tuesday, January 21, 2014	Technology	Phones		
+Thursday, January 23, 2014	Technology	Phones		
+Sunday, January 26, 2014	Technology	Phones	52.6344	343.33
+Monday, January 27, 2014	Technology	Phones		
+Tuesday, January 28, 2014	Technology	Phones		
+Thursday, January 30, 2014	Technology	Phones		
+Friday, January 31, 2014	Technology	Phones		
+Saturday, February 01, 2014	Technology	Phones		
+Sunday, February 02, 2014	Technology	Phones	13.572	180.96
+Monday, February 03, 2014	Technology	Phones		
+Tuesday, February 04, 2014	Technology	Phones		
+Thursday, February 06, 2014	Technology	Phones	84.0541	306.56
+Friday, February 07, 2014	Technology	Phones		
+Saturday, February 08, 2014	Technology	Phones		
+Tuesday, February 11, 2014	Technology	Phones		
+Wednesday, February 12, 2014	Technology	Phones		
+Friday, February 14, 2014	Technology	Phones		
+Saturday, February 15, 2014	Technology	Phones		
+Sunday, February 16, 2014	Technology	Phones		
+Monday, February 17, 2014	Technology	Phones		
+Tuesday, February 18, 2014	Technology	Phones		
+Thursday, February 20, 2014	Technology	Phones		
+Friday, February 21, 2014	Technology	Phones		
+Saturday, February 22, 2014	Technology	Phones		
+Sunday, February 23, 2014	Technology	Phones		
+Monday, February 24, 2014	Technology	Phones		
+Thursday, February 27, 2014	Technology	Phones		
+Saturday, March 01, 2014	Technology	Phones	1.6038	5.94
+Sunday, March 02, 2014	Technology	Phones		
+Monday, March 03, 2014	Technology	Phones	4.5954	9.99
+Tuesday, March 04, 2014	Technology	Phones		
+Wednesday, March 05, 2014	Technology	Phones		
+Friday, March 07, 2014	Technology	Phones		
+Monday, March 10, 2014	Technology	Phones		
+Tuesday, March 11, 2014	Technology	Phones	164.6316	587.97
+Friday, March 14, 2014	Technology	Phones		
+Saturday, March 15, 2014	Technology	Phones		
+Sunday, March 16, 2014	Technology	Phones	29.495	471.92
+Monday, March 17, 2014	Technology	Phones		
+Tuesday, March 18, 2014	Technology	Phones		
+Wednesday, March 19, 2014	Technology	Phones	28.3479	323.976
+Friday, March 21, 2014	Technology	Phones	909.9818	3499.93
+Saturday, March 22, 2014	Technology	Phones		
+Sunday, March 23, 2014	Technology	Phones	37.797	604.752
+Monday, March 24, 2014	Technology	Phones		
