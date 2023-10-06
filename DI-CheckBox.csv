@@ -1,0 +1,93 @@
+Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.Region,Orders.State,CountNonNull(Orders.Postal Code),Sum(Orders.Discount),Sum(Orders.Quantity)
+2015,Central,Illinois,94,36.200000000000024,380
+2016,Central,Illinois,123,48.59999999999997,442
+2015,Central,Indiana,36,0,143
+2016,Central,Indiana,35,0,134
+2015,Central,Iowa,4,0,23
+2016,Central,Iowa,8,0,31
+2015,Central,Kansas,5,0,10
+2016,Central,Kansas,5,0,21
+2015,Central,Michigan,65,0.7,240
+2016,Central,Michigan,76,0.5,290
+2015,Central,Minnesota,22,0,68
+2016,Central,Minnesota,8,0,28
+2015,Central,Missouri,14,0,59
+2016,Central,Missouri,14,0,44
+2015,Central,Nebraska,7,0,19
+2016,Central,Nebraska,15,0,73
+2015,Central,Oklahoma,5,0,21
+2016,Central,Oklahoma,32,0,122
+2015,Central,Texas,204,78.23999999999991,767
+2016,Central,Texas,250,86.01999999999978,1003
+2015,Central,Wisconsin,21,0,94
+2016,Central,Wisconsin,43,0,181
+2015,East,Connecticut,11,0,39
+2016,East,Connecticut,22,0.3,84
+2015,East,Delaware,33,0.3,120
+2016,East,Delaware,24,0,90
+2015,East,District of Columbia,3,0,14
+2016,East,District of Columbia,5,0,18
+2015,East,Maine,3,0,6
+2016,East,Maine,2,0,5
+2015,East,Maryland,30,0,130
+2016,East,Maryland,25,0.6,86
+2015,East,Massachusetts,50,0.3,185
+2016,East,Massachusetts,25,0.6,87
+2015,East,New Hampshire,9,0.3,43
+2016,East,New Hampshire,5,0,12
+2015,East,New Jersey,18,0,70
+2016,East,New Jersey,47,0.6,161
+2015,East,New York,267,13.999999999999996,993
+2016,East,New York,321,19.900000000000013,1195
+2015,East,Ohio,85,28.4,307
+2016,East,Ohio,129,40.59999999999997,489
+2015,East,Pennsylvania,140,44.999999999999986,508
+2016,East,Pennsylvania,136,45.69999999999998,508
+2015,East,Rhode Island,12,0.3,39
+2016,East,Rhode Island,15,0,63
+2015,East,Vermont,2,0,8
+2016,East,Vermont,4,0,26
+2015,South,Alabama,15,0,68
+2016,South,Alabama,19,0,80
+2015,South,Arkansas,4,0,7
+2016,South,Arkansas,20,0,73
+2015,South,Florida,85,26.549999999999983,314
+2016,South,Florida,83,27.94999999999999,331
+2015,South,Georgia,40,0,150
+2016,South,Georgia,53,0,199
+2015,South,Kentucky,32,0,136
+2016,South,Kentucky,25,0,93
+2015,South,Louisiana,8,0,35
+2016,South,Louisiana,5,0,19
+2015,South,Mississippi,3,0,10
+2016,South,Mississippi,23,0,111
+2015,South,North Carolina,47,14.099999999999998,190
+2016,South,North Carolina,74,20.899999999999977,290
+2015,South,South Carolina,13,0,51
+2016,South,South Carolina,11,0,42
+2015,South,Tennessee,42,12.899999999999999,168
+2016,South,Tennessee,37,11.8,126
+2015,South,Virginia,50,0,201
+2016,South,Virginia,61,0,254
+2015,West,Arizona,64,18.099999999999987,252
+2016,West,Arizona,38,12.5,146
+2015,West,California,405,29.19999999999998,1546
+2016,West,California,526,40.249999999999986,2005
+2015,West,Colorado,40,12.799999999999999,167
+2016,West,Colorado,51,17.499999999999996,170
+2015,West,Idaho,5,0.6000000000000001,13
+2016,West,Idaho,4,0.4,13
+2015,West,Montana,4,0.2,17
+2016,West,Montana,1,0.2,2
+2015,West,Nevada,12,0.4,49
+2016,West,Nevada,8,0.6000000000000001,37
+2015,West,New Mexico,8,0.6000000000000001,23
+2016,West,New Mexico,4,0.6000000000000001,11
+2015,West,Oregon,27,7.200000000000002,105
+2016,West,Oregon,35,11.1,135
+2015,West,Utah,12,0.6000000000000001,46
+2016,West,Utah,8,0.2,38
+2015,West,Washington,75,4,275
+2016,West,Washington,122,8.600000000000001,451
+2015,West,Wyoming,,,
+2016,West,Wyoming,1,0.2,4
