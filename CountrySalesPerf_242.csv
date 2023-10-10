@@ -1,0 +1,41 @@
+Sheet1.Date.Variation.Date Hierarchy.Year,Sheet1.SalesTerritoryGroup2,Sheet1.SalesPerson,Sum(Sheet1.Quota),Sum(Sheet1.Sales)
+2018,Australia,Lynn Tsoflias,7497724,5619611
+2018,Canada,Garrett Vargas,6616975,7729180
+2018,Canada,José Saraiva,7039068,7013877
+2018,France,Ranjit Varkey Chudukatil,7328935,6332699
+2018,Germany,Rachel Valdez,8844868,6815657
+2018,United Kingdom,Jae Pak,6265469,6416338
+2018,United States,David Campbell,5778592,7378306
+2018,United States,Pamela Ansman-Wolfe,7131643,6134704
+2018,United States,Tete Mensa-Annan,6867468,7768146
+2018,United States,Tsvi Reiter,5781475,7027305
+2019,Australia,Lynn Tsoflias,6549978,6649955
+2019,Canada,Garrett Vargas,5633012,6255487
+2019,Canada,José Saraiva,6757662,6603670
+2019,France,Ranjit Varkey Chudukatil,6195938,6827802
+2019,Germany,Rachel Valdez,5970089,7414663
+2019,United Kingdom,Jae Pak,6154026,7818546
+2019,United States,David Campbell,6646377,6831232
+2019,United States,Pamela Ansman-Wolfe,7044455,6671090
+2019,United States,Tete Mensa-Annan,5700002,7180384
+2019,United States,Tsvi Reiter,7492969,5413187
+2020,Australia,Lynn Tsoflias,12949999.995000001,14218109.252
+2020,Canada,Garrett Vargas,13499999.996999998,14537194.664
+2020,Canada,José Saraiva,25499999.994000003,26045407.187
+2020,France,Ranjit Varkey Chudukatil,31499999.997,31216163.218
+2020,Germany,Rachel Valdez,21749999.997,17906402.310999997
+2020,United Kingdom,Jae Pak,39999999.996,41168712.286
+2020,United States,David Campbell,15000000,15730129.389
+2020,United States,Pamela Ansman-Wolfe,22749999.996,13525771.334000003
+2020,United States,Tete Mensa-Annan,15549999.996,15765621.970999999
+2020,United States,Tsvi Reiter,23249999.994,23151856.115000002
+2021,Australia,Lynn Tsoflias,13772442,13862520
+2021,Canada,Garrett Vargas,11604160,15795807
+2021,Canada,José Saraiva,12667564,19855145
+2021,France,Ranjit Varkey Chudukatil,11964116,16913099
+2021,Germany,Rachel Valdez,12977502,14273437
+2021,United Kingdom,Jae Pak,12844677,12028435
+2021,United States,David Campbell,11568119,11026377
+2021,United States,Pamela Ansman-Wolfe,14785340,15138437
+2021,United States,Tete Mensa-Annan,13136087,18317001
+2021,United States,Tsvi Reiter,12233675,9897728
