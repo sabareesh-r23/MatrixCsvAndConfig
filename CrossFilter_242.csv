@@ -1,0 +1,433 @@
+Date.Month,Product.Products.Category,Product.Products.Subcategory,Product.Products.Model,Sum(Sales.Sales Amount)
+2019 Jul,Accessories,Bike Stands,All-Purpose Bike Stand,
+2019 Aug,Accessories,Bike Stands,All-Purpose Bike Stand,
+2019 Sep,Accessories,Bike Stands,All-Purpose Bike Stand,159
+2019 Oct,Accessories,Bike Stands,All-Purpose Bike Stand,
+2019 Nov,Accessories,Bike Stands,All-Purpose Bike Stand,159
+2019 Dec,Accessories,Bike Stands,All-Purpose Bike Stand,
+2020 Jan,Accessories,Bike Stands,All-Purpose Bike Stand,
+2020 Feb,Accessories,Bike Stands,All-Purpose Bike Stand,
+2020 Mar,Accessories,Bike Stands,All-Purpose Bike Stand,
+2020 Apr,Accessories,Bike Stands,All-Purpose Bike Stand,
+2020 May,Accessories,Bike Stands,All-Purpose Bike Stand,
+2020 Jun,Accessories,Bike Stands,All-Purpose Bike Stand,159
+2019 Jul,Accessories,Bottles and Cages,Mountain Bottle Cage,9.99
+2019 Aug,Accessories,Bottles and Cages,Mountain Bottle Cage,29.97
+2019 Sep,Accessories,Bottles and Cages,Mountain Bottle Cage,19.98
+2019 Oct,Accessories,Bottles and Cages,Mountain Bottle Cage,
+2019 Nov,Accessories,Bottles and Cages,Mountain Bottle Cage,9.99
+2019 Dec,Accessories,Bottles and Cages,Mountain Bottle Cage,29.97
+2020 Jan,Accessories,Bottles and Cages,Mountain Bottle Cage,9.99
+2020 Feb,Accessories,Bottles and Cages,Mountain Bottle Cage,39.96
+2020 Mar,Accessories,Bottles and Cages,Mountain Bottle Cage,9.99
+2020 Apr,Accessories,Bottles and Cages,Mountain Bottle Cage,49.95
+2020 May,Accessories,Bottles and Cages,Mountain Bottle Cage,29.97
+2020 Jun,Accessories,Bottles and Cages,Mountain Bottle Cage,
+2019 Jul,Accessories,Bottles and Cages,Road Bottle Cage,17.98
+2019 Aug,Accessories,Bottles and Cages,Road Bottle Cage,
+2019 Sep,Accessories,Bottles and Cages,Road Bottle Cage,17.98
+2019 Oct,Accessories,Bottles and Cages,Road Bottle Cage,
+2019 Nov,Accessories,Bottles and Cages,Road Bottle Cage,
+2019 Dec,Accessories,Bottles and Cages,Road Bottle Cage,
+2020 Jan,Accessories,Bottles and Cages,Road Bottle Cage,8.99
+2020 Feb,Accessories,Bottles and Cages,Road Bottle Cage,17.98
+2020 Mar,Accessories,Bottles and Cages,Road Bottle Cage,17.98
+2020 Apr,Accessories,Bottles and Cages,Road Bottle Cage,53.94
+2020 May,Accessories,Bottles and Cages,Road Bottle Cage,26.97
+2020 Jun,Accessories,Bottles and Cages,Road Bottle Cage,
+2019 Jul,Accessories,Bottles and Cages,Water Bottle,9.98
+2019 Aug,Accessories,Bottles and Cages,Water Bottle,14.97
+2019 Sep,Accessories,Bottles and Cages,Water Bottle,29.94
+2019 Oct,Accessories,Bottles and Cages,Water Bottle,
+2019 Nov,Accessories,Bottles and Cages,Water Bottle,9.98
+2019 Dec,Accessories,Bottles and Cages,Water Bottle,19.96
+2020 Jan,Accessories,Bottles and Cages,Water Bottle,4.99
+2020 Feb,Accessories,Bottles and Cages,Water Bottle,29.94
+2020 Mar,Accessories,Bottles and Cages,Water Bottle,19.96
+2020 Apr,Accessories,Bottles and Cages,Water Bottle,54.89
+2020 May,Accessories,Bottles and Cages,Water Bottle,24.95
+2020 Jun,Accessories,Bottles and Cages,Water Bottle,4.99
+2019 Jul,Accessories,Cleaners,Bike Wash,7.95
+2019 Aug,Accessories,Cleaners,Bike Wash,7.95
+2019 Sep,Accessories,Cleaners,Bike Wash,
+2019 Oct,Accessories,Cleaners,Bike Wash,
+2019 Nov,Accessories,Cleaners,Bike Wash,23.85
+2019 Dec,Accessories,Cleaners,Bike Wash,7.95
+2020 Jan,Accessories,Cleaners,Bike Wash,7.95
+2020 Feb,Accessories,Cleaners,Bike Wash,7.95
+2020 Mar,Accessories,Cleaners,Bike Wash,23.85
+2020 Apr,Accessories,Cleaners,Bike Wash,15.9
+2020 May,Accessories,Cleaners,Bike Wash,15.9
+2020 Jun,Accessories,Cleaners,Bike Wash,
+2019 Jul,Accessories,Fenders,Fender Set - Mountain,
+2019 Aug,Accessories,Fenders,Fender Set - Mountain,21.98
+2019 Sep,Accessories,Fenders,Fender Set - Mountain,87.92
+2019 Oct,Accessories,Fenders,Fender Set - Mountain,
+2019 Nov,Accessories,Fenders,Fender Set - Mountain,21.98
+2019 Dec,Accessories,Fenders,Fender Set - Mountain,43.96
+2020 Jan,Accessories,Fenders,Fender Set - Mountain,109.9
+2020 Feb,Accessories,Fenders,Fender Set - Mountain,21.98
+2020 Mar,Accessories,Fenders,Fender Set - Mountain,21.98
+2020 Apr,Accessories,Fenders,Fender Set - Mountain,43.96
+2020 May,Accessories,Fenders,Fender Set - Mountain,87.92
+2020 Jun,Accessories,Fenders,Fender Set - Mountain,
+2019 Jul,Accessories,Helmets,Sport-100,209.94
+2019 Aug,Accessories,Helmets,Sport-100,209.94
+2019 Sep,Accessories,Helmets,Sport-100,209.94
+2019 Oct,Accessories,Helmets,Sport-100,104.97
+2019 Nov,Accessories,Helmets,Sport-100,244.93
+2019 Dec,Accessories,Helmets,Sport-100,279.92
+2020 Jan,Accessories,Helmets,Sport-100,279.92
+2020 Feb,Accessories,Helmets,Sport-100,209.94
+2020 Mar,Accessories,Helmets,Sport-100,489.86
+2020 Apr,Accessories,Helmets,Sport-100,349.9
+2020 May,Accessories,Helmets,Sport-100,279.92
+2020 Jun,Accessories,Helmets,Sport-100,
+2019 Jul,Accessories,Hydration Packs,Hydration Pack,
+2019 Aug,Accessories,Hydration Packs,Hydration Pack,
+2019 Sep,Accessories,Hydration Packs,Hydration Pack,54.99
+2019 Oct,Accessories,Hydration Packs,Hydration Pack,
+2019 Nov,Accessories,Hydration Packs,Hydration Pack,
+2019 Dec,Accessories,Hydration Packs,Hydration Pack,109.98
+2020 Jan,Accessories,Hydration Packs,Hydration Pack,
+2020 Feb,Accessories,Hydration Packs,Hydration Pack,54.99
+2020 Mar,Accessories,Hydration Packs,Hydration Pack,
+2020 Apr,Accessories,Hydration Packs,Hydration Pack,54.99
+2020 May,Accessories,Hydration Packs,Hydration Pack,54.99
+2020 Jun,Accessories,Hydration Packs,Hydration Pack,
+2019 Jul,Accessories,Tires and Tubes,HL Mountain Tire,
+2019 Aug,Accessories,Tires and Tubes,HL Mountain Tire,
+2019 Sep,Accessories,Tires and Tubes,HL Mountain Tire,70
+2019 Oct,Accessories,Tires and Tubes,HL Mountain Tire,35
+2019 Nov,Accessories,Tires and Tubes,HL Mountain Tire,
+2019 Dec,Accessories,Tires and Tubes,HL Mountain Tire,35
+2020 Jan,Accessories,Tires and Tubes,HL Mountain Tire,
+2020 Feb,Accessories,Tires and Tubes,HL Mountain Tire,35
+2020 Mar,Accessories,Tires and Tubes,HL Mountain Tire,35
+2020 Apr,Accessories,Tires and Tubes,HL Mountain Tire,35
+2020 May,Accessories,Tires and Tubes,HL Mountain Tire,35
+2020 Jun,Accessories,Tires and Tubes,HL Mountain Tire,
+2019 Jul,Accessories,Tires and Tubes,HL Road Tire,
+2019 Aug,Accessories,Tires and Tubes,HL Road Tire,
+2019 Sep,Accessories,Tires and Tubes,HL Road Tire,32.6
+2019 Oct,Accessories,Tires and Tubes,HL Road Tire,
+2019 Nov,Accessories,Tires and Tubes,HL Road Tire,65.2
+2019 Dec,Accessories,Tires and Tubes,HL Road Tire,
+2020 Jan,Accessories,Tires and Tubes,HL Road Tire,
+2020 Feb,Accessories,Tires and Tubes,HL Road Tire,
+2020 Mar,Accessories,Tires and Tubes,HL Road Tire,32.6
+2020 Apr,Accessories,Tires and Tubes,HL Road Tire,32.6
+2020 May,Accessories,Tires and Tubes,HL Road Tire,
+2020 Jun,Accessories,Tires and Tubes,HL Road Tire,
+2019 Jul,Accessories,Tires and Tubes,LL Mountain Tire,
+2019 Aug,Accessories,Tires and Tubes,LL Mountain Tire,24.99
+2019 Sep,Accessories,Tires and Tubes,LL Mountain Tire,
+2019 Oct,Accessories,Tires and Tubes,LL Mountain Tire,
+2019 Nov,Accessories,Tires and Tubes,LL Mountain Tire,24.99
+2019 Dec,Accessories,Tires and Tubes,LL Mountain Tire,24.99
+2020 Jan,Accessories,Tires and Tubes,LL Mountain Tire,
+2020 Feb,Accessories,Tires and Tubes,LL Mountain Tire,
+2020 Mar,Accessories,Tires and Tubes,LL Mountain Tire,99.96
+2020 Apr,Accessories,Tires and Tubes,LL Mountain Tire,
+2020 May,Accessories,Tires and Tubes,LL Mountain Tire,
+2020 Jun,Accessories,Tires and Tubes,LL Mountain Tire,49.98
+2019 Jul,Accessories,Tires and Tubes,LL Road Tire,42.98
+2019 Aug,Accessories,Tires and Tubes,LL Road Tire,42.98
+2019 Sep,Accessories,Tires and Tubes,LL Road Tire,42.98
+2019 Oct,Accessories,Tires and Tubes,LL Road Tire,21.49
+2019 Nov,Accessories,Tires and Tubes,LL Road Tire,21.49
+2019 Dec,Accessories,Tires and Tubes,LL Road Tire,
+2020 Jan,Accessories,Tires and Tubes,LL Road Tire,42.98
+2020 Feb,Accessories,Tires and Tubes,LL Road Tire,21.49
+2020 Mar,Accessories,Tires and Tubes,LL Road Tire,42.98
+2020 Apr,Accessories,Tires and Tubes,LL Road Tire,21.49
+2020 May,Accessories,Tires and Tubes,LL Road Tire,21.49
+2020 Jun,Accessories,Tires and Tubes,LL Road Tire,
+2019 Jul,Accessories,Tires and Tubes,ML Mountain Tire,59.98
+2019 Aug,Accessories,Tires and Tubes,ML Mountain Tire,
+2019 Sep,Accessories,Tires and Tubes,ML Mountain Tire,
+2019 Oct,Accessories,Tires and Tubes,ML Mountain Tire,29.99
+2019 Nov,Accessories,Tires and Tubes,ML Mountain Tire,
+2019 Dec,Accessories,Tires and Tubes,ML Mountain Tire,59.98
+2020 Jan,Accessories,Tires and Tubes,ML Mountain Tire,29.99
+2020 Feb,Accessories,Tires and Tubes,ML Mountain Tire,29.99
+2020 Mar,Accessories,Tires and Tubes,ML Mountain Tire,
+2020 Apr,Accessories,Tires and Tubes,ML Mountain Tire,119.96
+2020 May,Accessories,Tires and Tubes,ML Mountain Tire,
+2020 Jun,Accessories,Tires and Tubes,ML Mountain Tire,
+2019 Jul,Accessories,Tires and Tubes,ML Road Tire,24.99
+2019 Aug,Accessories,Tires and Tubes,ML Road Tire,74.97
+2019 Sep,Accessories,Tires and Tubes,ML Road Tire,
+2019 Oct,Accessories,Tires and Tubes,ML Road Tire,24.99
+2019 Nov,Accessories,Tires and Tubes,ML Road Tire,74.97
+2019 Dec,Accessories,Tires and Tubes,ML Road Tire,
+2020 Jan,Accessories,Tires and Tubes,ML Road Tire,74.97
+2020 Feb,Accessories,Tires and Tubes,ML Road Tire,24.99
+2020 Mar,Accessories,Tires and Tubes,ML Road Tire,24.99
+2020 Apr,Accessories,Tires and Tubes,ML Road Tire,
+2020 May,Accessories,Tires and Tubes,ML Road Tire,74.97
+2020 Jun,Accessories,Tires and Tubes,ML Road Tire,
+2019 Jul,Accessories,Tires and Tubes,Mountain Tire Tube,14.97
+2019 Aug,Accessories,Tires and Tubes,Mountain Tire Tube,14.97
+2019 Sep,Accessories,Tires and Tubes,Mountain Tire Tube,9.98
+2019 Oct,Accessories,Tires and Tubes,Mountain Tire Tube,9.98
+2019 Nov,Accessories,Tires and Tubes,Mountain Tire Tube,
+2019 Dec,Accessories,Tires and Tubes,Mountain Tire Tube,14.97
+2020 Jan,Accessories,Tires and Tubes,Mountain Tire Tube,4.99
+2020 Feb,Accessories,Tires and Tubes,Mountain Tire Tube,9.98
+2020 Mar,Accessories,Tires and Tubes,Mountain Tire Tube,9.98
+2020 Apr,Accessories,Tires and Tubes,Mountain Tire Tube,14.97
+2020 May,Accessories,Tires and Tubes,Mountain Tire Tube,4.99
+2020 Jun,Accessories,Tires and Tubes,Mountain Tire Tube,14.97
+2019 Jul,Accessories,Tires and Tubes,Patch kit,2.29
+2019 Aug,Accessories,Tires and Tubes,Patch kit,9.16
+2019 Sep,Accessories,Tires and Tubes,Patch kit,4.58
+2019 Oct,Accessories,Tires and Tubes,Patch kit,2.29
+2019 Nov,Accessories,Tires and Tubes,Patch kit,6.87
+2019 Dec,Accessories,Tires and Tubes,Patch kit,9.16
+2020 Jan,Accessories,Tires and Tubes,Patch kit,6.87
+2020 Feb,Accessories,Tires and Tubes,Patch kit,4.58
+2020 Mar,Accessories,Tires and Tubes,Patch kit,4.58
+2020 Apr,Accessories,Tires and Tubes,Patch kit,6.87
+2020 May,Accessories,Tires and Tubes,Patch kit,6.87
+2020 Jun,Accessories,Tires and Tubes,Patch kit,6.87
+2019 Jul,Accessories,Tires and Tubes,Road Tire Tube,
+2019 Aug,Accessories,Tires and Tubes,Road Tire Tube,7.98
+2019 Sep,Accessories,Tires and Tubes,Road Tire Tube,7.98
+2019 Oct,Accessories,Tires and Tubes,Road Tire Tube,7.98
+2019 Nov,Accessories,Tires and Tubes,Road Tire Tube,15.96
+2019 Dec,Accessories,Tires and Tubes,Road Tire Tube,7.98
+2020 Jan,Accessories,Tires and Tubes,Road Tire Tube,11.97
+2020 Feb,Accessories,Tires and Tubes,Road Tire Tube,7.98
+2020 Mar,Accessories,Tires and Tubes,Road Tire Tube,19.95
+2020 Apr,Accessories,Tires and Tubes,Road Tire Tube,7.98
+2020 May,Accessories,Tires and Tubes,Road Tire Tube,11.97
+2020 Jun,Accessories,Tires and Tubes,Road Tire Tube,
+2019 Jul,Accessories,Tires and Tubes,Touring Tire,
+2019 Aug,Accessories,Tires and Tubes,Touring Tire,57.98
+2019 Sep,Accessories,Tires and Tubes,Touring Tire,
+2019 Oct,Accessories,Tires and Tubes,Touring Tire,
+2019 Nov,Accessories,Tires and Tubes,Touring Tire,
+2019 Dec,Accessories,Tires and Tubes,Touring Tire,28.99
+2020 Jan,Accessories,Tires and Tubes,Touring Tire,28.99
+2020 Feb,Accessories,Tires and Tubes,Touring Tire,57.98
+2020 Mar,Accessories,Tires and Tubes,Touring Tire,
+2020 Apr,Accessories,Tires and Tubes,Touring Tire,28.99
+2020 May,Accessories,Tires and Tubes,Touring Tire,
+2020 Jun,Accessories,Tires and Tubes,Touring Tire,
+2019 Jul,Accessories,Tires and Tubes,Touring Tire Tube,4.99
+2019 Aug,Accessories,Tires and Tubes,Touring Tire Tube,9.98
+2019 Sep,Accessories,Tires and Tubes,Touring Tire Tube,
+2019 Oct,Accessories,Tires and Tubes,Touring Tire Tube,
+2019 Nov,Accessories,Tires and Tubes,Touring Tire Tube,
+2019 Dec,Accessories,Tires and Tubes,Touring Tire Tube,4.99
+2020 Jan,Accessories,Tires and Tubes,Touring Tire Tube,14.97
+2020 Feb,Accessories,Tires and Tubes,Touring Tire Tube,9.98
+2020 Mar,Accessories,Tires and Tubes,Touring Tire Tube,4.99
+2020 Apr,Accessories,Tires and Tubes,Touring Tire Tube,9.98
+2020 May,Accessories,Tires and Tubes,Touring Tire Tube,9.98
+2020 Jun,Accessories,Tires and Tubes,Touring Tire Tube,
+2019 Jul,Bikes,Mountain Bikes,Mountain-200,2319.99
+2019 Aug,Bikes,Mountain Bikes,Mountain-200,6959.97
+2019 Sep,Bikes,Mountain Bikes,Mountain-200,16114.93
+2019 Oct,Bikes,Mountain Bikes,Mountain-200,
+2019 Nov,Bikes,Mountain Bikes,Mountain-200,4639.98
+2019 Dec,Bikes,Mountain Bikes,Mountain-200,6909.97
+2020 Jan,Bikes,Mountain Bikes,Mountain-200,6934.97
+2020 Feb,Bikes,Mountain Bikes,Mountain-200,9204.96
+2020 Mar,Bikes,Mountain Bikes,Mountain-200,6934.97
+2020 Apr,Bikes,Mountain Bikes,Mountain-200,11549.95
+2020 May,Bikes,Mountain Bikes,Mountain-200,11524.95
+2020 Jun,Bikes,Mountain Bikes,Mountain-200,
+2019 Jul,Bikes,Mountain Bikes,Mountain-400-W,769.49
+2019 Aug,Bikes,Mountain Bikes,Mountain-400-W,
+2019 Sep,Bikes,Mountain Bikes,Mountain-400-W,
+2019 Oct,Bikes,Mountain Bikes,Mountain-400-W,
+2019 Nov,Bikes,Mountain Bikes,Mountain-400-W,
+2019 Dec,Bikes,Mountain Bikes,Mountain-400-W,769.49
+2020 Jan,Bikes,Mountain Bikes,Mountain-400-W,769.49
+2020 Feb,Bikes,Mountain Bikes,Mountain-400-W,
+2020 Mar,Bikes,Mountain Bikes,Mountain-400-W,
+2020 Apr,Bikes,Mountain Bikes,Mountain-400-W,1538.98
+2020 May,Bikes,Mountain Bikes,Mountain-400-W,
+2020 Jun,Bikes,Mountain Bikes,Mountain-400-W,
+2019 Jul,Bikes,Mountain Bikes,Mountain-500,539.99
+2019 Aug,Bikes,Mountain Bikes,Mountain-500,
+2019 Sep,Bikes,Mountain Bikes,Mountain-500,
+2019 Oct,Bikes,Mountain Bikes,Mountain-500,539.99
+2019 Nov,Bikes,Mountain Bikes,Mountain-500,564.99
+2019 Dec,Bikes,Mountain Bikes,Mountain-500,
+2020 Jan,Bikes,Mountain Bikes,Mountain-500,
+2020 Feb,Bikes,Mountain Bikes,Mountain-500,
+2020 Mar,Bikes,Mountain Bikes,Mountain-500,
+2020 Apr,Bikes,Mountain Bikes,Mountain-500,
+2020 May,Bikes,Mountain Bikes,Mountain-500,539.99
+2020 Jun,Bikes,Mountain Bikes,Mountain-500,
+2019 Jul,Bikes,Road Bikes,Road-250,2443.35
+2019 Aug,Bikes,Road Bikes,Road-250,
+2019 Sep,Bikes,Road Bikes,Road-250,2443.35
+2019 Oct,Bikes,Road Bikes,Road-250,
+2019 Nov,Bikes,Road Bikes,Road-250,9773.4
+2019 Dec,Bikes,Road Bikes,Road-250,
+2020 Jan,Bikes,Road Bikes,Road-250,2443.35
+2020 Feb,Bikes,Road Bikes,Road-250,2443.35
+2020 Mar,Bikes,Road Bikes,Road-250,2443.35
+2020 Apr,Bikes,Road Bikes,Road-250,4886.7
+2020 May,Bikes,Road Bikes,Road-250,4886.7
+2020 Jun,Bikes,Road Bikes,Road-250,
+2019 Jul,Bikes,Road Bikes,Road-350-W,
+2019 Aug,Bikes,Road Bikes,Road-350-W,3401.98
+2019 Sep,Bikes,Road Bikes,Road-350-W,
+2019 Oct,Bikes,Road Bikes,Road-350-W,
+2019 Nov,Bikes,Road Bikes,Road-350-W,3401.98
+2019 Dec,Bikes,Road Bikes,Road-350-W,1700.99
+2020 Jan,Bikes,Road Bikes,Road-350-W,3401.98
+2020 Feb,Bikes,Road Bikes,Road-350-W,
+2020 Mar,Bikes,Road Bikes,Road-350-W,6803.96
+2020 Apr,Bikes,Road Bikes,Road-350-W,1700.99
+2020 May,Bikes,Road Bikes,Road-350-W,10205.94
+2020 Jun,Bikes,Road Bikes,Road-350-W,
+2019 Jul,Bikes,Road Bikes,Road-550-W,
+2019 Aug,Bikes,Road Bikes,Road-550-W,2240.98
+2019 Sep,Bikes,Road Bikes,Road-550-W,
+2019 Oct,Bikes,Road Bikes,Road-550-W,
+2019 Nov,Bikes,Road Bikes,Road-550-W,3361.47
+2019 Dec,Bikes,Road Bikes,Road-550-W,
+2020 Jan,Bikes,Road Bikes,Road-550-W,1120.49
+2020 Feb,Bikes,Road Bikes,Road-550-W,1120.49
+2020 Mar,Bikes,Road Bikes,Road-550-W,1120.49
+2020 Apr,Bikes,Road Bikes,Road-550-W,1120.49
+2020 May,Bikes,Road Bikes,Road-550-W,1120.49
+2020 Jun,Bikes,Road Bikes,Road-550-W,
+2019 Jul,Bikes,Road Bikes,Road-750,
+2019 Aug,Bikes,Road Bikes,Road-750,539.99
+2019 Sep,Bikes,Road Bikes,Road-750,1619.97
+2019 Oct,Bikes,Road Bikes,Road-750,
+2019 Nov,Bikes,Road Bikes,Road-750,1079.98
+2019 Dec,Bikes,Road Bikes,Road-750,1619.97
+2020 Jan,Bikes,Road Bikes,Road-750,
+2020 Feb,Bikes,Road Bikes,Road-750,1079.98
+2020 Mar,Bikes,Road Bikes,Road-750,1619.97
+2020 Apr,Bikes,Road Bikes,Road-750,2699.95
+2020 May,Bikes,Road Bikes,Road-750,
+2020 Jun,Bikes,Road Bikes,Road-750,
+2019 Jul,Bikes,Touring Bikes,Touring-1000,2384.07
+2019 Aug,Bikes,Touring Bikes,Touring-1000,
+2019 Sep,Bikes,Touring Bikes,Touring-1000,4768.14
+2019 Oct,Bikes,Touring Bikes,Touring-1000,
+2019 Nov,Bikes,Touring Bikes,Touring-1000,
+2019 Dec,Bikes,Touring Bikes,Touring-1000,7152.21
+2020 Jan,Bikes,Touring Bikes,Touring-1000,
+2020 Feb,Bikes,Touring Bikes,Touring-1000,9536.28
+2020 Mar,Bikes,Touring Bikes,Touring-1000,4768.14
+2020 Apr,Bikes,Touring Bikes,Touring-1000,14304.42
+2020 May,Bikes,Touring Bikes,Touring-1000,9536.28
+2020 Jun,Bikes,Touring Bikes,Touring-1000,
+2019 Jul,Bikes,Touring Bikes,Touring-2000,
+2019 Aug,Bikes,Touring Bikes,Touring-2000,
+2019 Sep,Bikes,Touring Bikes,Touring-2000,
+2019 Oct,Bikes,Touring Bikes,Touring-2000,1214.85
+2019 Nov,Bikes,Touring Bikes,Touring-2000,1214.85
+2019 Dec,Bikes,Touring Bikes,Touring-2000,
+2020 Jan,Bikes,Touring Bikes,Touring-2000,
+2020 Feb,Bikes,Touring Bikes,Touring-2000,
+2020 Mar,Bikes,Touring Bikes,Touring-2000,
+2020 Apr,Bikes,Touring Bikes,Touring-2000,1214.85
+2020 May,Bikes,Touring Bikes,Touring-2000,
+2020 Jun,Bikes,Touring Bikes,Touring-2000,
+2019 Jul,Bikes,Touring Bikes,Touring-3000,
+2019 Aug,Bikes,Touring Bikes,Touring-3000,742.35
+2019 Sep,Bikes,Touring Bikes,Touring-3000,
+2019 Oct,Bikes,Touring Bikes,Touring-3000,
+2019 Nov,Bikes,Touring Bikes,Touring-3000,742.35
+2019 Dec,Bikes,Touring Bikes,Touring-3000,
+2020 Jan,Bikes,Touring Bikes,Touring-3000,1484.7
+2020 Feb,Bikes,Touring Bikes,Touring-3000,
+2020 Mar,Bikes,Touring Bikes,Touring-3000,1484.7
+2020 Apr,Bikes,Touring Bikes,Touring-3000,
+2020 May,Bikes,Touring Bikes,Touring-3000,742.35
+2020 Jun,Bikes,Touring Bikes,Touring-3000,
+2019 Jul,Clothing,Caps,Cycling Cap,17.98
+2019 Aug,Clothing,Caps,Cycling Cap,35.96
+2019 Sep,Clothing,Caps,Cycling Cap,35.96
+2019 Oct,Clothing,Caps,Cycling Cap,
+2019 Nov,Clothing,Caps,Cycling Cap,26.97
+2019 Dec,Clothing,Caps,Cycling Cap,17.98
+2020 Jan,Clothing,Caps,Cycling Cap,8.99
+2020 Feb,Clothing,Caps,Cycling Cap,17.98
+2020 Mar,Clothing,Caps,Cycling Cap,44.95
+2020 Apr,Clothing,Caps,Cycling Cap,44.95
+2020 May,Clothing,Caps,Cycling Cap,44.95
+2020 Jun,Clothing,Caps,Cycling Cap,
+2019 Jul,Clothing,Gloves,Half-Finger Gloves,
+2019 Aug,Clothing,Gloves,Half-Finger Gloves,24.49
+2019 Sep,Clothing,Gloves,Half-Finger Gloves,48.98
+2019 Oct,Clothing,Gloves,Half-Finger Gloves,
+2019 Nov,Clothing,Gloves,Half-Finger Gloves,24.49
+2019 Dec,Clothing,Gloves,Half-Finger Gloves,
+2020 Jan,Clothing,Gloves,Half-Finger Gloves,24.49
+2020 Feb,Clothing,Gloves,Half-Finger Gloves,
+2020 Mar,Clothing,Gloves,Half-Finger Gloves,73.47
+2020 Apr,Clothing,Gloves,Half-Finger Gloves,24.49
+2020 May,Clothing,Gloves,Half-Finger Gloves,
+2020 Jun,Clothing,Gloves,Half-Finger Gloves,
+2019 Jul,Clothing,Jerseys,Long-Sleeve Logo Jersey,99.98
+2019 Aug,Clothing,Jerseys,Long-Sleeve Logo Jersey,149.97
+2019 Sep,Clothing,Jerseys,Long-Sleeve Logo Jersey,149.97
+2019 Oct,Clothing,Jerseys,Long-Sleeve Logo Jersey,
+2019 Nov,Clothing,Jerseys,Long-Sleeve Logo Jersey,99.98
+2019 Dec,Clothing,Jerseys,Long-Sleeve Logo Jersey,
+2020 Jan,Clothing,Jerseys,Long-Sleeve Logo Jersey,49.99
+2020 Feb,Clothing,Jerseys,Long-Sleeve Logo Jersey,
+2020 Mar,Clothing,Jerseys,Long-Sleeve Logo Jersey,49.99
+2020 Apr,Clothing,Jerseys,Long-Sleeve Logo Jersey,49.99
+2020 May,Clothing,Jerseys,Long-Sleeve Logo Jersey,
+2020 Jun,Clothing,Jerseys,Long-Sleeve Logo Jersey,
+2019 Jul,Clothing,Jerseys,Short-Sleeve Classic Jersey,161.97
+2019 Aug,Clothing,Jerseys,Short-Sleeve Classic Jersey,161.97
+2019 Sep,Clothing,Jerseys,Short-Sleeve Classic Jersey,
+2019 Oct,Clothing,Jerseys,Short-Sleeve Classic Jersey,
+2019 Nov,Clothing,Jerseys,Short-Sleeve Classic Jersey,215.96
+2019 Dec,Clothing,Jerseys,Short-Sleeve Classic Jersey,53.99
+2020 Jan,Clothing,Jerseys,Short-Sleeve Classic Jersey,53.99
+2020 Feb,Clothing,Jerseys,Short-Sleeve Classic Jersey,107.98
+2020 Mar,Clothing,Jerseys,Short-Sleeve Classic Jersey,161.97
+2020 Apr,Clothing,Jerseys,Short-Sleeve Classic Jersey,107.98
+2020 May,Clothing,Jerseys,Short-Sleeve Classic Jersey,215.96
+2020 Jun,Clothing,Jerseys,Short-Sleeve Classic Jersey,53.99
+2019 Jul,Clothing,Shorts,Women's Mountain Shorts,
+2019 Aug,Clothing,Shorts,Women's Mountain Shorts,
+2019 Sep,Clothing,Shorts,Women's Mountain Shorts,
+2019 Oct,Clothing,Shorts,Women's Mountain Shorts,
+2019 Nov,Clothing,Shorts,Women's Mountain Shorts,139.98
+2019 Dec,Clothing,Shorts,Women's Mountain Shorts,
+2020 Jan,Clothing,Shorts,Women's Mountain Shorts,
+2020 Feb,Clothing,Shorts,Women's Mountain Shorts,69.99
+2020 Mar,Clothing,Shorts,Women's Mountain Shorts,
+2020 Apr,Clothing,Shorts,Women's Mountain Shorts,
+2020 May,Clothing,Shorts,Women's Mountain Shorts,
+2020 Jun,Clothing,Shorts,Women's Mountain Shorts,69.99
+2019 Jul,Clothing,Socks,Racing Socks,
+2019 Aug,Clothing,Socks,Racing Socks,8.99
+2019 Sep,Clothing,Socks,Racing Socks,
+2019 Oct,Clothing,Socks,Racing Socks,
+2019 Nov,Clothing,Socks,Racing Socks,
+2019 Dec,Clothing,Socks,Racing Socks,17.98
+2020 Jan,Clothing,Socks,Racing Socks,
+2020 Feb,Clothing,Socks,Racing Socks,8.99
+2020 Mar,Clothing,Socks,Racing Socks,8.99
+2020 Apr,Clothing,Socks,Racing Socks,17.98
+2020 May,Clothing,Socks,Racing Socks,
+2020 Jun,Clothing,Socks,Racing Socks,
+2019 Jul,Clothing,Vests,Classic Vest,
+2019 Aug,Clothing,Vests,Classic Vest,
+2019 Sep,Clothing,Vests,Classic Vest,63.5
+2019 Oct,Clothing,Vests,Classic Vest,63.5
+2019 Nov,Clothing,Vests,Classic Vest,
+2019 Dec,Clothing,Vests,Classic Vest,63.5
+2020 Jan,Clothing,Vests,Classic Vest,
+2020 Feb,Clothing,Vests,Classic Vest,63.5
+2020 Mar,Clothing,Vests,Classic Vest,
+2020 Apr,Clothing,Vests,Classic Vest,190.5
+2020 May,Clothing,Vests,Classic Vest,
+2020 Jun,Clothing,Vests,Classic Vest,
