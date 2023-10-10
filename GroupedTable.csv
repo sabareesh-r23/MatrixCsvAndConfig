@@ -1,0 +1,1105 @@
+Date.Fiscal Year,Sales Territory.Country,Product.Products.Category,Product.Products.Subcategory,Product.Products.Model,Sum(Sales.Order Quantity),Sum(Sales.Sales Amount)
+FY2019,Germany,Clothing,Socks,Racing Socks,1,8.99
+FY2020,Germany,Clothing,Socks,Racing Socks,124,777.1855
+FY2019,Germany,Clothing,Caps,Cycling Cap,6,53.94
+FY2020,Germany,Clothing,Caps,Cycling Cap,549,3866.029
+FY2019,Germany,Clothing,Shorts,Women's Mountain Shorts,,
+FY2020,Germany,Clothing,Shorts,Women's Mountain Shorts,182,7657.368
+FY2019,Germany,Clothing,Gloves,Half-Finger Gloves,3,73.47
+FY2020,Germany,Clothing,Gloves,Half-Finger Gloves,464,7622.2872
+FY2019,Germany,Clothing,Vests,Classic Vest,3,190.5
+FY2020,Germany,Clothing,Vests,Classic Vest,615,22859.924
+FY2019,Germany,Clothing,Jerseys,Long-Sleeve Logo Jersey,9,449.91
+FY2020,Germany,Clothing,Jerseys,Long-Sleeve Logo Jersey,722,24809.9421
+FY2019,Germany,Clothing,Jerseys,Short-Sleeve Classic Jersey,6,323.94
+FY2020,Germany,Clothing,Jerseys,Short-Sleeve Classic Jersey,768,26491.349
+FY2019,Germany,Accessories,Cleaners,Bike Wash,,
+FY2020,Germany,Accessories,Cleaners,Bike Wash,249,1378.689
+FY2019,Germany,Accessories,Bike Stands,All-Purpose Bike Stand,,
+FY2020,Germany,Accessories,Bike Stands,All-Purpose Bike Stand,20,3180
+FY2019,Germany,Accessories,Fenders,Fender Set - Mountain,3,65.94
+FY2020,Germany,Accessories,Fenders,Fender Set - Mountain,158,3472.84
+FY2019,Germany,Accessories,Bottles and Cages,Road Bottle Cage,12,107.88
+FY2020,Germany,Accessories,Bottles and Cages,Road Bottle Cage,164,1474.36
+FY2019,Germany,Accessories,Bottles and Cages,Mountain Bottle Cage,9,89.91
+FY2020,Germany,Accessories,Bottles and Cages,Mountain Bottle Cage,178,1778.22
+FY2019,Germany,Accessories,Bottles and Cages,Water Bottle,18,89.82
+FY2020,Germany,Accessories,Bottles and Cages,Water Bottle,659,2675.9644
+FY2019,Germany,Accessories,Hydration Packs,Hydration Pack,2,109.98
+FY2020,Germany,Accessories,Hydration Packs,Hydration Pack,257,9030.5127
+FY2019,Germany,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,120
+FY2020,Germany,Accessories,Bike Racks,Hitch Rack - 4-Bike,245,17985.984
+FY2019,Germany,Accessories,Tires and Tubes,Patch kit,5,11.45
+FY2020,Germany,Accessories,Tires and Tubes,Patch kit,306,638.4996
+FY2019,Germany,Accessories,Tires and Tubes,Touring Tire Tube,2,9.98
+FY2020,Germany,Accessories,Tires and Tubes,Touring Tire Tube,183,913.17
+FY2019,Germany,Accessories,Tires and Tubes,Mountain Tire Tube,,
+FY2020,Germany,Accessories,Tires and Tubes,Mountain Tire Tube,188,938.12
+FY2019,Germany,Accessories,Tires and Tubes,Road Tire Tube,7,27.93
+FY2020,Germany,Accessories,Tires and Tubes,Road Tire Tube,270,1077.3
+FY2019,Germany,Accessories,Tires and Tubes,HL Road Tire,7,228.2
+FY2020,Germany,Accessories,Tires and Tubes,HL Road Tire,30,978
+FY2019,Germany,Accessories,Tires and Tubes,LL Mountain Tire,,
+FY2020,Germany,Accessories,Tires and Tubes,LL Mountain Tire,72,1799.28
+FY2019,Germany,Accessories,Tires and Tubes,ML Road Tire,,
+FY2020,Germany,Accessories,Tires and Tubes,ML Road Tire,89,2224.11
+FY2019,Germany,Accessories,Tires and Tubes,ML Mountain Tire,,
+FY2020,Germany,Accessories,Tires and Tubes,ML Mountain Tire,87,2609.13
+FY2019,Germany,Accessories,Tires and Tubes,HL Mountain Tire,1,35
+FY2020,Germany,Accessories,Tires and Tubes,HL Mountain Tire,77,2695
+FY2019,Germany,Accessories,Tires and Tubes,LL Road Tire,3,64.47
+FY2020,Germany,Accessories,Tires and Tubes,LL Road Tire,150,3223.5
+FY2019,Germany,Accessories,Tires and Tubes,Touring Tire,2,57.98
+FY2020,Germany,Accessories,Tires and Tubes,Touring Tire,118,3420.82
+FY2019,Germany,Accessories,Helmets,Sport-100,23,804.77
+FY2020,Germany,Accessories,Helmets,Sport-100,1214,33998.8454
+FY2019,Germany,Components,Chains,Chain,,
+FY2020,Germany,Components,Chains,Chain,43,522.192
+FY2019,Germany,Components,Bottom Brackets,LL Bottom Bracket,,
+FY2020,Germany,Components,Bottom Brackets,LL Bottom Bracket,17,550.698
+FY2019,Germany,Components,Bottom Brackets,HL Bottom Bracket,,
+FY2020,Germany,Components,Bottom Brackets,HL Bottom Bracket,28,2041.032
+FY2019,Germany,Components,Brakes,Rear Brakes,,
+FY2020,Germany,Components,Brakes,Rear Brakes,18,1150.2
+FY2019,Germany,Components,Brakes,Front Brakes,,
+FY2020,Germany,Components,Brakes,Front Brakes,28,1789.2
+FY2019,Germany,Components,Saddles,HL Road Seat/Saddle 2,,
+FY2020,Germany,Components,Saddles,HL Road Seat/Saddle 2,2,63.168
+FY2019,Germany,Components,Saddles,LL Mountain Seat/Saddle 2,,
+FY2020,Germany,Components,Saddles,LL Mountain Seat/Saddle 2,9,146.448
+FY2019,Germany,Components,Saddles,LL Touring Seat/Saddle,,
+FY2020,Germany,Components,Saddles,LL Touring Seat/Saddle,9,146.448
+FY2019,Germany,Components,Saddles,ML Mountain Seat/Saddle 2,,
+FY2020,Germany,Components,Saddles,ML Mountain Seat/Saddle 2,11,258.324
+FY2019,Germany,Components,Saddles,ML Touring Seat/Saddle,,
+FY2020,Germany,Components,Saddles,ML Touring Seat/Saddle,13,305.292
+FY2019,Germany,Components,Saddles,HL Mountain Seat/Saddle 2,,
+FY2020,Germany,Components,Saddles,HL Mountain Seat/Saddle 2,13,410.592
+FY2019,Germany,Components,Saddles,HL Touring Seat/Saddle,,
+FY2020,Germany,Components,Saddles,HL Touring Seat/Saddle,61,1926.624
+FY2019,Germany,Components,Derailleurs,Rear Derailleur,,
+FY2020,Germany,Components,Derailleurs,Rear Derailleur,12,874.512
+FY2019,Germany,Components,Derailleurs,Front Derailleur,,
+FY2020,Germany,Components,Derailleurs,Front Derailleur,45,2470.23
+FY2019,Germany,Components,Pedals,LL Road Pedal,,
+FY2020,Germany,Components,Pedals,LL Road Pedal,9,218.646
+FY2019,Germany,Components,Pedals,LL Mountain Pedal,,
+FY2020,Germany,Components,Pedals,LL Mountain Pedal,10,242.94
+FY2019,Germany,Components,Pedals,ML Mountain Pedal,,
+FY2020,Germany,Components,Pedals,ML Mountain Pedal,8,298.032
+FY2019,Germany,Components,Pedals,HL Road Pedal,,
+FY2020,Germany,Components,Pedals,HL Road Pedal,9,437.346
+FY2019,Germany,Components,Pedals,ML Road Pedal,,
+FY2020,Germany,Components,Pedals,ML Road Pedal,12,447.048
+FY2019,Germany,Components,Pedals,Touring Pedal,,
+FY2020,Germany,Components,Pedals,Touring Pedal,25,1214.85
+FY2019,Germany,Components,Pedals,HL Mountain Pedal,,
+FY2020,Germany,Components,Pedals,HL Mountain Pedal,30,1457.82
+FY2019,Germany,Components,Handlebars,LL Touring Handlebars,,
+FY2020,Germany,Components,Handlebars,LL Touring Handlebars,6,165.924
+FY2019,Germany,Components,Handlebars,LL Road Handlebars,,
+FY2020,Germany,Components,Handlebars,LL Road Handlebars,7,187.068
+FY2019,Germany,Components,Handlebars,HL Mountain Handlebars,,
+FY2020,Germany,Components,Handlebars,HL Mountain Handlebars,5,360.81
+FY2019,Germany,Components,Handlebars,LL Mountain Handlebars,,
+FY2020,Germany,Components,Handlebars,LL Mountain Handlebars,14,374.136
+FY2019,Germany,Components,Handlebars,ML Mountain Handlebars,,
+FY2020,Germany,Components,Handlebars,ML Mountain Handlebars,18,668.736
+FY2019,Germany,Components,Handlebars,HL Road Handlebars,,
+FY2020,Germany,Components,Handlebars,HL Road Handlebars,16,1154.592
+FY2019,Germany,Components,Handlebars,HL Touring Handlebars,,
+FY2020,Germany,Components,Handlebars,HL Touring Handlebars,28,1538.376
+FY2019,Germany,Components,Cranksets,ML Crankset,,
+FY2020,Germany,Components,Cranksets,ML Crankset,3,461.682
+FY2019,Germany,Components,Cranksets,LL Crankset,,
+FY2020,Germany,Components,Cranksets,LL Crankset,17,1789.998
+FY2019,Germany,Components,Cranksets,HL Crankset,,
+FY2020,Germany,Components,Cranksets,HL Crankset,36,8747.784
+FY2019,Germany,Components,Road Frames,LL Road Frame,,
+FY2020,Germany,Components,Road Frames,LL Road Frame,15,3034.98
+FY2019,Germany,Components,Road Frames,ML Road Frame-W,,
+FY2020,Germany,Components,Road Frames,ML Road Frame-W,42,14989.716
+FY2019,Germany,Components,Road Frames,HL Road Frame,,
+FY2020,Germany,Components,Road Frames,HL Road Frame,21,18036.9
+FY2019,Germany,Components,Mountain Frames,ML Mountain Frame-W,,
+FY2020,Germany,Components,Mountain Frames,ML Mountain Frame-W,50,10922.7
+FY2019,Germany,Components,Mountain Frames,LL Mountain Frame,,
+FY2020,Germany,Components,Mountain Frames,LL Mountain Frame,76,11741.22
+FY2019,Germany,Components,Mountain Frames,HL Mountain Frame,,
+FY2020,Germany,Components,Mountain Frames,HL Mountain Frame,43,35052.12
+FY2019,Germany,Components,Touring Frames,LL Touring Frame,,
+FY2020,Germany,Components,Touring Frames,LL Touring Frame,191,38209.932
+FY2019,Germany,Components,Touring Frames,HL Touring Frame,,
+FY2020,Germany,Components,Touring Frames,HL Touring Frame,282,169861.572
+FY2019,Germany,Bikes,Mountain Bikes,Mountain-500,2,1079.98
+FY2020,Germany,Bikes,Mountain Bikes,Mountain-500,139,54041.2212
+FY2019,Germany,Bikes,Mountain Bikes,Mountain-400-W,4,3077.96
+FY2020,Germany,Bikes,Mountain Bikes,Mountain-400-W,81,55864.974
+FY2019,Germany,Bikes,Mountain Bikes,Mountain-200,91,191142.563
+FY2020,Germany,Bikes,Mountain Bikes,Mountain-200,386,784646.6
+FY2019,Germany,Bikes,Road Bikes,Road-650,56,43847.44
+FY2020,Germany,Bikes,Road Bikes,Road-650,,
+FY2019,Germany,Bikes,Road Bikes,Road-750,11,5939.89
+FY2020,Germany,Bikes,Road Bikes,Road-750,207,100330.142
+FY2019,Germany,Bikes,Road Bikes,Road-550-W,44,44499.46
+FY2020,Germany,Bikes,Road Bikes,Road-550-W,152,144767.308
+FY2019,Germany,Bikes,Road Bikes,Road-350-W,2,3401.98
+FY2020,Germany,Bikes,Road Bikes,Road-350-W,161,238478.798
+FY2019,Germany,Bikes,Road Bikes,Road-250,149,343116.15
+FY2020,Germany,Bikes,Road Bikes,Road-250,94,185694.6
+FY2019,Germany,Bikes,Touring Bikes,Touring-2000,6,7289.1
+FY2020,Germany,Bikes,Touring Bikes,Touring-2000,263,215092.1081
+FY2019,Germany,Bikes,Touring Bikes,Touring-3000,4,2969.4
+FY2020,Germany,Bikes,Touring Bikes,Touring-3000,714,306503.2507
+FY2019,Germany,Bikes,Touring Bikes,Touring-1000,6,14304.42
+FY2020,Germany,Bikes,Touring Bikes,Touring-1000,698,1052822.477
+FY2019,France,Accessories,Locks,Cable Lock,70,1050
+FY2020,France,Accessories,Locks,Cable Lock,,
+FY2019,France,Accessories,Pumps,Minipump,90,1071.2481
+FY2020,France,Accessories,Pumps,Minipump,,
+FY2019,France,Accessories,Cleaners,Bike Wash,3,23.85
+FY2020,France,Accessories,Cleaners,Bike Wash,278,1435.7255
+FY2019,France,Accessories,Fenders,Fender Set - Mountain,2,43.96
+FY2020,France,Accessories,Fenders,Fender Set - Mountain,100,2198
+FY2019,France,Accessories,Bike Stands,All-Purpose Bike Stand,1,159
+FY2020,France,Accessories,Bike Stands,All-Purpose Bike Stand,18,2862
+FY2019,France,Accessories,Bottles and Cages,Road Bottle Cage,8,71.92
+FY2020,France,Accessories,Bottles and Cages,Road Bottle Cage,168,1510.32
+FY2019,France,Accessories,Bottles and Cages,Mountain Bottle Cage,5,49.95
+FY2020,France,Accessories,Bottles and Cages,Mountain Bottle Cage,162,1618.38
+FY2019,France,Accessories,Bottles and Cages,Water Bottle,12,59.88
+FY2020,France,Accessories,Bottles and Cages,Water Bottle,556,2310.7563
+FY2019,France,Accessories,Hydration Packs,Hydration Pack,3,164.97
+FY2020,France,Accessories,Hydration Packs,Hydration Pack,233,8664.0265
+FY2019,France,Accessories,Tires and Tubes,Patch kit,3,6.87
+FY2020,France,Accessories,Tires and Tubes,Patch kit,357,747.914
+FY2019,France,Accessories,Tires and Tubes,Mountain Tire Tube,,
+FY2020,France,Accessories,Tires and Tubes,Mountain Tire Tube,176,878.24
+FY2019,France,Accessories,Tires and Tubes,Road Tire Tube,5,19.95
+FY2020,France,Accessories,Tires and Tubes,Road Tire Tube,288,1149.12
+FY2019,France,Accessories,Tires and Tubes,LL Mountain Tire,,
+FY2020,France,Accessories,Tires and Tubes,LL Mountain Tire,55,1374.45
+FY2019,France,Accessories,Tires and Tubes,Touring Tire Tube,,
+FY2020,France,Accessories,Tires and Tubes,Touring Tire Tube,280,1397.2
+FY2019,France,Accessories,Tires and Tubes,HL Mountain Tire,1,35
+FY2020,France,Accessories,Tires and Tubes,HL Mountain Tire,64,2240
+FY2019,France,Accessories,Tires and Tubes,HL Road Tire,7,228.2
+FY2020,France,Accessories,Tires and Tubes,HL Road Tire,66,2151.6
+FY2019,France,Accessories,Tires and Tubes,ML Road Tire,2,49.98
+FY2020,France,Accessories,Tires and Tubes,ML Road Tire,106,2648.94
+FY2019,France,Accessories,Tires and Tubes,ML Mountain Tire,,
+FY2020,France,Accessories,Tires and Tubes,ML Mountain Tire,91,2729.09
+FY2019,France,Accessories,Tires and Tubes,LL Road Tire,1,21.49
+FY2020,France,Accessories,Tires and Tubes,LL Road Tire,150,3223.5
+FY2019,France,Accessories,Tires and Tubes,Touring Tire,1,28.99
+FY2020,France,Accessories,Tires and Tubes,Touring Tire,164,4754.36
+FY2019,France,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,120
+FY2020,France,Accessories,Bike Racks,Hitch Rack - 4-Bike,342,24306.624
+FY2019,France,Accessories,Helmets,Sport-100,307,6182.4803
+FY2020,France,Accessories,Helmets,Sport-100,1214,33850.5227
+FY2019,France,Clothing,Socks,Racing Socks,,
+FY2020,France,Clothing,Socks,Racing Socks,136,848.656
+FY2019,France,Clothing,Caps,Cycling Cap,131,685.3954
+FY2020,France,Clothing,Caps,Cycling Cap,456,3248.0412
+FY2019,France,Clothing,Bib-Shorts,Men's Bib-Shorts,201,10758.9525
+FY2020,France,Clothing,Bib-Shorts,Men's Bib-Shorts,,
+FY2019,France,Clothing,Tights,Women's Tights,270,11791.6676
+FY2020,France,Clothing,Tights,Women's Tights,,
+FY2019,France,Clothing,Gloves,Full-Finger Gloves,282,6267.4649
+FY2020,France,Clothing,Gloves,Full-Finger Gloves,,
+FY2019,France,Clothing,Gloves,Half-Finger Gloves,133,1920.5881
+FY2020,France,Clothing,Gloves,Half-Finger Gloves,476,7868.6934
+FY2019,France,Clothing,Vests,Classic Vest,,
+FY2020,France,Clothing,Vests,Classic Vest,628,23613.377
+FY2019,France,Clothing,Shorts,Men's Sports Shorts,166,5975.004
+FY2020,France,Clothing,Shorts,Men's Sports Shorts,,
+FY2019,France,Clothing,Shorts,Women's Mountain Shorts,1,69.99
+FY2020,France,Clothing,Shorts,Women's Mountain Shorts,533,23118.446
+FY2019,France,Clothing,Jerseys,Short-Sleeve Classic Jersey,6,323.94
+FY2020,France,Clothing,Jerseys,Short-Sleeve Classic Jersey,801,27898.3499
+FY2019,France,Clothing,Jerseys,Long-Sleeve Logo Jersey,303,8659.2026
+FY2020,France,Clothing,Jerseys,Long-Sleeve Logo Jersey,630,22079.6731
+FY2019,France,Components,Chains,Chain,,
+FY2020,France,Components,Chains,Chain,102,1231.6526
+FY2019,France,Components,Headsets,LL Headset,2,41.04
+FY2020,France,Components,Headsets,LL Headset,,
+FY2019,France,Components,Headsets,HL Headset,15,1122.57
+FY2020,France,Components,Headsets,HL Headset,,
+FY2019,France,Components,Headsets,ML Headset,28,1718.472
+FY2020,France,Components,Headsets,ML Headset,,
+FY2019,France,Components,Bottom Brackets,LL Bottom Bracket,,
+FY2020,France,Components,Bottom Brackets,LL Bottom Bracket,35,1133.79
+FY2019,France,Components,Bottom Brackets,HL Bottom Bracket,,
+FY2020,France,Components,Bottom Brackets,HL Bottom Bracket,47,3426.018
+FY2019,France,Components,Forks,LL Fork,17,1511.844
+FY2020,France,Components,Forks,LL Fork,,
+FY2019,France,Components,Forks,HL Fork,23,3166.962
+FY2020,France,Components,Forks,HL Fork,,
+FY2019,France,Components,Saddles,LL Touring Seat/Saddle,,
+FY2020,France,Components,Saddles,LL Touring Seat/Saddle,6,97.632
+FY2019,France,Components,Saddles,ML Touring Seat/Saddle,,
+FY2020,France,Components,Saddles,ML Touring Seat/Saddle,7,164.388
+FY2019,France,Components,Saddles,HL Road Seat/Saddle 2,,
+FY2020,France,Components,Saddles,HL Road Seat/Saddle 2,9,284.256
+FY2019,France,Components,Saddles,LL Mountain Seat/Saddle 2,,
+FY2020,France,Components,Saddles,LL Mountain Seat/Saddle 2,26,423.072
+FY2019,France,Components,Saddles,HL Touring Seat/Saddle,,
+FY2020,France,Components,Saddles,HL Touring Seat/Saddle,40,1263.36
+FY2019,France,Components,Saddles,ML Mountain Seat/Saddle 2,,
+FY2020,France,Components,Saddles,ML Mountain Seat/Saddle 2,59,1385.556
+FY2019,France,Components,Saddles,HL Mountain Seat/Saddle 2,,
+FY2020,France,Components,Saddles,HL Mountain Seat/Saddle 2,48,1516.032
+FY2019,France,Components,Brakes,Rear Brakes,,
+FY2020,France,Components,Brakes,Rear Brakes,30,1917
+FY2019,France,Components,Brakes,Front Brakes,,
+FY2020,France,Components,Brakes,Front Brakes,90,5707.2498
+FY2019,France,Components,Derailleurs,Rear Derailleur,,
+FY2020,France,Components,Derailleurs,Rear Derailleur,43,3133.668
+FY2019,France,Components,Derailleurs,Front Derailleur,,
+FY2020,France,Components,Derailleurs,Front Derailleur,101,5472.0169
+FY2019,France,Components,Handlebars,LL Touring Handlebars,,
+FY2020,France,Components,Handlebars,LL Touring Handlebars,5,138.27
+FY2019,France,Components,Handlebars,LL Road Handlebars,3,72.8835
+FY2020,France,Components,Handlebars,LL Road Handlebars,6,160.344
+FY2019,France,Components,Handlebars,HL Mountain Handlebars,6,393.6108
+FY2020,France,Components,Handlebars,HL Mountain Handlebars,10,721.62
+FY2019,France,Components,Handlebars,HL Touring Handlebars,,
+FY2020,France,Components,Handlebars,HL Touring Handlebars,22,1208.724
+FY2019,France,Components,Handlebars,LL Mountain Handlebars,18,437.301
+FY2020,France,Components,Handlebars,LL Mountain Handlebars,51,1362.924
+FY2019,France,Components,Handlebars,HL Road Handlebars,11,721.6198
+FY2020,France,Components,Handlebars,HL Road Handlebars,21,1515.402
+FY2019,France,Components,Handlebars,ML Mountain Handlebars,29,979.4605
+FY2020,France,Components,Handlebars,ML Mountain Handlebars,54,2006.208
+FY2019,France,Components,Pedals,Touring Pedal,,
+FY2020,France,Components,Pedals,Touring Pedal,12,583.128
+FY2019,France,Components,Pedals,ML Mountain Pedal,,
+FY2020,France,Components,Pedals,ML Mountain Pedal,28,1043.112
+FY2019,France,Components,Pedals,LL Mountain Pedal,,
+FY2020,France,Components,Pedals,LL Mountain Pedal,50,1214.7
+FY2019,France,Components,Pedals,LL Road Pedal,,
+FY2020,France,Components,Pedals,LL Road Pedal,76,1846.344
+FY2019,France,Components,Pedals,ML Road Pedal,,
+FY2020,France,Components,Pedals,ML Road Pedal,50,1862.7
+FY2019,France,Components,Pedals,HL Road Pedal,,
+FY2020,France,Components,Pedals,HL Road Pedal,42,2040.948
+FY2019,France,Components,Pedals,HL Mountain Pedal,,
+FY2020,France,Components,Pedals,HL Mountain Pedal,72,3498.768
+FY2019,France,Components,Cranksets,ML Crankset,,
+FY2020,France,Components,Cranksets,ML Crankset,8,1231.152
+FY2019,France,Components,Cranksets,LL Crankset,,
+FY2020,France,Components,Cranksets,LL Crankset,47,4948.818
+FY2019,France,Components,Cranksets,HL Crankset,,
+FY2020,France,Components,Cranksets,HL Crankset,76,18467.544
+FY2019,France,Components,Wheels,ML Road Rear Wheel,2,330.462
+FY2020,France,Components,Wheels,ML Road Rear Wheel,,
+FY2019,France,Components,Wheels,HL Road Rear Wheel,3,642.708
+FY2020,France,Components,Wheels,HL Road Rear Wheel,,
+FY2019,France,Components,Wheels,LL Mountain Front Wheel,28,995.562
+FY2020,France,Components,Wheels,LL Mountain Front Wheel,,
+FY2019,France,Components,Wheels,LL Mountain Rear Wheel,22,1158.234
+FY2020,France,Components,Wheels,LL Mountain Rear Wheel,,
+FY2019,France,Components,Wheels,ML Mountain Front Wheel,11,1379.565
+FY2020,France,Components,Wheels,ML Mountain Front Wheel,,
+FY2019,France,Components,Wheels,HL Mountain Front Wheel,12,2161.548
+FY2020,France,Components,Wheels,HL Mountain Front Wheel,,
+FY2019,France,Components,Wheels,LL Road Rear Wheel,40,2701.56
+FY2020,France,Components,Wheels,LL Road Rear Wheel,,
+FY2019,France,Components,Wheels,ML Road Front Wheel,32,4768.992
+FY2020,France,Components,Wheels,ML Road Front Wheel,,
+FY2019,France,Components,Wheels,ML Mountain Rear Wheel,39,5522.985
+FY2020,France,Components,Wheels,ML Mountain Rear Wheel,,
+FY2019,France,Components,Wheels,HL Road Front Wheel,30,5941.08
+FY2020,France,Components,Wheels,HL Road Front Wheel,,
+FY2019,France,Components,Wheels,HL Mountain Rear Wheel,32,6282.528
+FY2020,France,Components,Wheels,HL Mountain Rear Wheel,,
+FY2019,France,Components,Touring Frames,LL Touring Frame,,
+FY2020,France,Components,Touring Frames,LL Touring Frame,170,34008.84
+FY2019,France,Components,Touring Frames,HL Touring Frame,,
+FY2020,France,Components,Touring Frames,HL Touring Frame,238,142596.9826
+FY2019,France,Components,Road Frames,LL Road Frame,229,44788.9488
+FY2020,France,Components,Road Frames,LL Road Frame,116,23353.2943
+FY2019,France,Components,Road Frames,ML Road Frame-W,134,43476.6618
+FY2020,France,Components,Road Frames,ML Road Frame-W,140,49965.72
+FY2019,France,Components,Road Frames,HL Road Frame,66,51534.0012
+FY2020,France,Components,Road Frames,HL Road Frame,67,57546.3
+FY2019,France,Components,Mountain Frames,ML Mountain Frame,72,15066.432
+FY2020,France,Components,Mountain Frames,ML Mountain Frame,,
+FY2019,France,Components,Mountain Frames,ML Mountain Frame-W,20,4185.12
+FY2020,France,Components,Mountain Frames,ML Mountain Frame-W,131,28617.474
+FY2019,France,Components,Mountain Frames,LL Mountain Frame,,
+FY2020,France,Components,Mountain Frames,LL Mountain Frame,291,45170.526
+FY2019,France,Components,Mountain Frames,HL Mountain Frame,89,65907.0551
+FY2020,France,Components,Mountain Frames,HL Mountain Frame,186,151473.6
+FY2019,France,Bikes,Touring Bikes,Touring-2000,1,1214.85
+FY2020,France,Bikes,Touring Bikes,Touring-2000,303,234567.1255
+FY2019,France,Bikes,Touring Bikes,Touring-3000,2,1484.7
+FY2020,France,Bikes,Touring Bikes,Touring-3000,654,283155.7494
+FY2019,France,Bikes,Touring Bikes,Touring-1000,4,9536.28
+FY2020,France,Bikes,Touring Bikes,Touring-1000,651,967154.9749
+FY2019,France,Bikes,Mountain Bikes,Mountain-400-W,2,1538.98
+FY2020,France,Bikes,Mountain Bikes,Mountain-400-W,85,53402.606
+FY2019,France,Bikes,Mountain Bikes,Mountain-300,113,73223.322
+FY2020,France,Bikes,Mountain Bikes,Mountain-300,,
+FY2019,France,Bikes,Mountain Bikes,Mountain-500,1,539.99
+FY2020,France,Bikes,Mountain Bikes,Mountain-500,247,91006.358
+FY2019,France,Bikes,Mountain Bikes,Mountain-200,372,543594.0665
+FY2020,France,Bikes,Mountain Bikes,Mountain-200,622,1076675.047
+FY2019,France,Bikes,Road Bikes,Road-750,7,3779.93
+FY2020,France,Bikes,Road Bikes,Road-750,370,145853.891
+FY2019,France,Bikes,Road Bikes,Road-550-W,192,135059.0625
+FY2020,France,Bikes,Road Bikes,Road-550-W,230,186897.732
+FY2019,France,Bikes,Road Bikes,Road-650,711,341985.7594
+FY2020,France,Bikes,Road Bikes,Road-650,,
+FY2019,France,Bikes,Road Bikes,Road-350-W,3,5102.97
+FY2020,France,Bikes,Road Bikes,Road-350-W,445,511766.8255
+FY2019,France,Bikes,Road Bikes,Road-250,387,679691.9756
+FY2020,France,Bikes,Road Bikes,Road-250,173,310305.45
+FY2019,United Kingdom,Accessories,Pumps,Minipump,59,707.646
+FY2020,United Kingdom,Accessories,Pumps,Minipump,,
+FY2019,United Kingdom,Accessories,Locks,Cable Lock,49,735
+FY2020,United Kingdom,Accessories,Locks,Cable Lock,,
+FY2019,United Kingdom,Accessories,Cleaners,Bike Wash,5,39.75
+FY2020,United Kingdom,Accessories,Cleaners,Bike Wash,286,1548.2157
+FY2019,United Kingdom,Accessories,Fenders,Fender Set - Mountain,2,43.96
+FY2020,United Kingdom,Accessories,Fenders,Fender Set - Mountain,142,3121.16
+FY2019,United Kingdom,Accessories,Bike Stands,All-Purpose Bike Stand,,
+FY2020,United Kingdom,Accessories,Bike Stands,All-Purpose Bike Stand,28,4452
+FY2019,United Kingdom,Accessories,Bottles and Cages,Road Bottle Cage,6,53.94
+FY2020,United Kingdom,Accessories,Bottles and Cages,Road Bottle Cage,223,2004.77
+FY2019,United Kingdom,Accessories,Bottles and Cages,Mountain Bottle Cage,6,59.94
+FY2020,United Kingdom,Accessories,Bottles and Cages,Mountain Bottle Cage,204,2037.96
+FY2019,United Kingdom,Accessories,Bottles and Cages,Water Bottle,11,54.89
+FY2020,United Kingdom,Accessories,Bottles and Cages,Water Bottle,668,2950.5571
+FY2019,United Kingdom,Accessories,Hydration Packs,Hydration Pack,1,54.99
+FY2020,United Kingdom,Accessories,Hydration Packs,Hydration Pack,260,9852.3219
+FY2019,United Kingdom,Accessories,Bike Racks,Hitch Rack - 4-Bike,,
+FY2020,United Kingdom,Accessories,Bike Racks,Hitch Rack - 4-Bike,268,20340.66
+FY2019,United Kingdom,Accessories,Tires and Tubes,Patch kit,5,11.45
+FY2020,United Kingdom,Accessories,Tires and Tubes,Patch kit,376,809.744
+FY2019,United Kingdom,Accessories,Tires and Tubes,Mountain Tire Tube,3,14.97
+FY2020,United Kingdom,Accessories,Tires and Tubes,Mountain Tire Tube,236,1177.64
+FY2019,United Kingdom,Accessories,Tires and Tubes,Road Tire Tube,11,43.89
+FY2020,United Kingdom,Accessories,Tires and Tubes,Road Tire Tube,315,1256.85
+FY2019,United Kingdom,Accessories,Tires and Tubes,Touring Tire Tube,1,4.99
+FY2020,United Kingdom,Accessories,Tires and Tubes,Touring Tire Tube,300,1497
+FY2019,United Kingdom,Accessories,Tires and Tubes,HL Road Tire,6,195.6
+FY2020,United Kingdom,Accessories,Tires and Tubes,HL Road Tire,56,1825.6
+FY2019,United Kingdom,Accessories,Tires and Tubes,LL Mountain Tire,,
+FY2020,United Kingdom,Accessories,Tires and Tubes,LL Mountain Tire,83,2074.17
+FY2019,United Kingdom,Accessories,Tires and Tubes,HL Mountain Tire,3,105
+FY2020,United Kingdom,Accessories,Tires and Tubes,HL Mountain Tire,71,2485
+FY2019,United Kingdom,Accessories,Tires and Tubes,ML Road Tire,6,149.94
+FY2020,United Kingdom,Accessories,Tires and Tubes,ML Road Tire,111,2773.89
+FY2019,United Kingdom,Accessories,Tires and Tubes,LL Road Tire,3,64.47
+FY2020,United Kingdom,Accessories,Tires and Tubes,LL Road Tire,144,3094.56
+FY2019,United Kingdom,Accessories,Tires and Tubes,ML Mountain Tire,3,89.97
+FY2020,United Kingdom,Accessories,Tires and Tubes,ML Mountain Tire,116,3478.84
+FY2019,United Kingdom,Accessories,Tires and Tubes,Touring Tire,2,57.98
+FY2020,United Kingdom,Accessories,Tires and Tubes,Touring Tire,175,5073.25
+FY2019,United Kingdom,Accessories,Helmets,Sport-100,288,6033.1009
+FY2020,United Kingdom,Accessories,Helmets,Sport-100,1374,38847.4028
+FY2019,United Kingdom,Clothing,Socks,Racing Socks,1,8.99
+FY2020,United Kingdom,Clothing,Socks,Racing Socks,219,1404.238
+FY2019,United Kingdom,Clothing,Caps,Cycling Cap,126,688.5082
+FY2020,United Kingdom,Clothing,Caps,Cycling Cap,562,4140.5306
+FY2019,United Kingdom,Clothing,Bib-Shorts,Men's Bib-Shorts,164,8823.7355
+FY2020,United Kingdom,Clothing,Bib-Shorts,Men's Bib-Shorts,,
+FY2019,United Kingdom,Clothing,Tights,Women's Tights,223,9945.9837
+FY2020,United Kingdom,Clothing,Tights,Women's Tights,,
+FY2019,United Kingdom,Clothing,Gloves,Full-Finger Gloves,374,8083.6984
+FY2020,United Kingdom,Clothing,Gloves,Full-Finger Gloves,,
+FY2019,United Kingdom,Clothing,Gloves,Half-Finger Gloves,112,1592.7979
+FY2020,United Kingdom,Clothing,Gloves,Half-Finger Gloves,479,8208.6342
+FY2019,United Kingdom,Clothing,Vests,Classic Vest,1,63.5
+FY2020,United Kingdom,Clothing,Vests,Classic Vest,573,21972.6958
+FY2019,United Kingdom,Clothing,Shorts,Men's Sports Shorts,108,3887.352
+FY2020,United Kingdom,Clothing,Shorts,Men's Sports Shorts,,
+FY2019,United Kingdom,Clothing,Shorts,Women's Mountain Shorts,,
+FY2020,United Kingdom,Clothing,Shorts,Women's Mountain Shorts,525,22181.5878
+FY2019,United Kingdom,Clothing,Jerseys,Short-Sleeve Classic Jersey,10,539.9
+FY2020,United Kingdom,Clothing,Jerseys,Short-Sleeve Classic Jersey,799,27908.6674
+FY2019,United Kingdom,Clothing,Jerseys,Long-Sleeve Logo Jersey,238,6907.6012
+FY2020,United Kingdom,Clothing,Jerseys,Long-Sleeve Logo Jersey,678,24709.8871
+FY2019,United Kingdom,Components,Chains,Chain,,
+FY2020,United Kingdom,Components,Chains,Chain,55,660.245
+FY2019,United Kingdom,Components,Headsets,LL Headset,7,143.64
+FY2020,United Kingdom,Components,Headsets,LL Headset,,
+FY2019,United Kingdom,Components,Headsets,HL Headset,12,898.056
+FY2020,United Kingdom,Components,Headsets,HL Headset,,
+FY2019,United Kingdom,Components,Headsets,ML Headset,46,2665.5035
+FY2020,United Kingdom,Components,Headsets,ML Headset,,
+FY2019,United Kingdom,Components,Bottom Brackets,LL Bottom Bracket,,
+FY2020,United Kingdom,Components,Bottom Brackets,LL Bottom Bracket,33,1069.002
+FY2019,United Kingdom,Components,Bottom Brackets,HL Bottom Bracket,,
+FY2020,United Kingdom,Components,Bottom Brackets,HL Bottom Bracket,43,3134.442
+FY2019,United Kingdom,Components,Saddles,LL Road Seat/Saddle 1,,
+FY2020,United Kingdom,Components,Saddles,LL Road Seat/Saddle 1,5,81.36
+FY2019,United Kingdom,Components,Saddles,LL Touring Seat/Saddle,,
+FY2020,United Kingdom,Components,Saddles,LL Touring Seat/Saddle,8,130.176
+FY2019,United Kingdom,Components,Saddles,ML Touring Seat/Saddle,,
+FY2020,United Kingdom,Components,Saddles,ML Touring Seat/Saddle,7,164.388
+FY2019,United Kingdom,Components,Saddles,HL Road Seat/Saddle 2,,
+FY2020,United Kingdom,Components,Saddles,HL Road Seat/Saddle 2,9,284.256
+FY2019,United Kingdom,Components,Saddles,LL Mountain Seat/Saddle 2,,
+FY2020,United Kingdom,Components,Saddles,LL Mountain Seat/Saddle 2,25,406.8
+FY2019,United Kingdom,Components,Saddles,ML Mountain Seat/Saddle 2,,
+FY2020,United Kingdom,Components,Saddles,ML Mountain Seat/Saddle 2,36,845.424
+FY2019,United Kingdom,Components,Saddles,HL Mountain Seat/Saddle 2,,
+FY2020,United Kingdom,Components,Saddles,HL Mountain Seat/Saddle 2,32,1010.688
+FY2019,United Kingdom,Components,Saddles,HL Touring Seat/Saddle,,
+FY2020,United Kingdom,Components,Saddles,HL Touring Seat/Saddle,41,1294.944
+FY2019,United Kingdom,Components,Derailleurs,Rear Derailleur,,
+FY2020,United Kingdom,Components,Derailleurs,Rear Derailleur,25,1821.9
+FY2019,United Kingdom,Components,Derailleurs,Front Derailleur,,
+FY2020,United Kingdom,Components,Derailleurs,Front Derailleur,65,3568.11
+FY2019,United Kingdom,Components,Forks,LL Fork,15,1333.98
+FY2020,United Kingdom,Components,Forks,LL Fork,,
+FY2019,United Kingdom,Components,Forks,HL Fork,31,4268.514
+FY2020,United Kingdom,Components,Forks,HL Fork,,
+FY2019,United Kingdom,Components,Brakes,Rear Brakes,,
+FY2020,United Kingdom,Components,Brakes,Rear Brakes,12,766.8
+FY2019,United Kingdom,Components,Brakes,Front Brakes,,
+FY2020,United Kingdom,Components,Brakes,Front Brakes,77,4920.3
+FY2019,United Kingdom,Components,Pedals,Touring Pedal,,
+FY2020,United Kingdom,Components,Pedals,Touring Pedal,9,437.346
+FY2019,United Kingdom,Components,Pedals,LL Mountain Pedal,,
+FY2020,United Kingdom,Components,Pedals,LL Mountain Pedal,41,996.054
+FY2019,United Kingdom,Components,Pedals,LL Road Pedal,,
+FY2020,United Kingdom,Components,Pedals,LL Road Pedal,48,1166.112
+FY2019,United Kingdom,Components,Pedals,ML Mountain Pedal,,
+FY2020,United Kingdom,Components,Pedals,ML Mountain Pedal,34,1266.636
+FY2019,United Kingdom,Components,Pedals,ML Road Pedal,,
+FY2020,United Kingdom,Components,Pedals,ML Road Pedal,38,1415.652
+FY2019,United Kingdom,Components,Pedals,HL Mountain Pedal,,
+FY2020,United Kingdom,Components,Pedals,HL Mountain Pedal,44,2138.136
+FY2019,United Kingdom,Components,Pedals,HL Road Pedal,,
+FY2020,United Kingdom,Components,Pedals,HL Road Pedal,45,2186.73
+FY2019,United Kingdom,Components,Handlebars,LL Touring Handlebars,,
+FY2020,United Kingdom,Components,Handlebars,LL Touring Handlebars,9,248.886
+FY2019,United Kingdom,Components,Handlebars,LL Road Handlebars,3,72.8835
+FY2020,United Kingdom,Components,Handlebars,LL Road Handlebars,7,187.068
+FY2019,United Kingdom,Components,Handlebars,HL Touring Handlebars,,
+FY2020,United Kingdom,Components,Handlebars,HL Touring Handlebars,16,879.072
+FY2019,United Kingdom,Components,Handlebars,LL Mountain Handlebars,39,947.4855
+FY2020,United Kingdom,Components,Handlebars,LL Mountain Handlebars,32,855.168
+FY2019,United Kingdom,Components,Handlebars,HL Mountain Handlebars,16,1049.6288
+FY2020,United Kingdom,Components,Handlebars,HL Mountain Handlebars,13,938.106
+FY2019,United Kingdom,Components,Handlebars,HL Road Handlebars,15,984.027
+FY2020,United Kingdom,Components,Handlebars,HL Road Handlebars,20,1443.24
+FY2019,United Kingdom,Components,Handlebars,ML Mountain Handlebars,63,2106.4482
+FY2020,United Kingdom,Components,Handlebars,ML Mountain Handlebars,49,1820.448
+FY2019,United Kingdom,Components,Cranksets,ML Crankset,,
+FY2020,United Kingdom,Components,Cranksets,ML Crankset,7,1077.258
+FY2019,United Kingdom,Components,Cranksets,LL Crankset,,
+FY2020,United Kingdom,Components,Cranksets,LL Crankset,34,3579.996
+FY2019,United Kingdom,Components,Cranksets,HL Crankset,,
+FY2020,United Kingdom,Components,Cranksets,HL Crankset,45,10934.73
+FY2019,United Kingdom,Components,Wheels,ML Road Rear Wheel,2,330.462
+FY2020,United Kingdom,Components,Wheels,ML Road Rear Wheel,,
+FY2019,United Kingdom,Components,Wheels,LL Mountain Rear Wheel,20,1052.94
+FY2020,United Kingdom,Components,Wheels,LL Mountain Rear Wheel,,
+FY2019,United Kingdom,Components,Wheels,HL Road Rear Wheel,5,1071.18
+FY2020,United Kingdom,Components,Wheels,HL Road Rear Wheel,,
+FY2019,United Kingdom,Components,Wheels,ML Mountain Front Wheel,13,1630.395
+FY2020,United Kingdom,Components,Wheels,ML Mountain Front Wheel,,
+FY2019,United Kingdom,Components,Wheels,LL Mountain Front Wheel,45,1640.115
+FY2020,United Kingdom,Components,Wheels,LL Mountain Front Wheel,,
+FY2019,United Kingdom,Components,Wheels,LL Road Rear Wheel,33,2228.787
+FY2020,United Kingdom,Components,Wheels,LL Road Rear Wheel,,
+FY2019,United Kingdom,Components,Wheels,HL Mountain Front Wheel,13,2341.677
+FY2020,United Kingdom,Components,Wheels,HL Mountain Front Wheel,,
+FY2019,United Kingdom,Components,Wheels,ML Road Front Wheel,18,2682.558
+FY2020,United Kingdom,Components,Wheels,ML Road Front Wheel,,
+FY2019,United Kingdom,Components,Wheels,HL Road Front Wheel,23,4554.828
+FY2020,United Kingdom,Components,Wheels,HL Road Front Wheel,,
+FY2019,United Kingdom,Components,Wheels,ML Mountain Rear Wheel,58,8131.6277
+FY2020,United Kingdom,Components,Wheels,ML Mountain Rear Wheel,,
+FY2019,United Kingdom,Components,Wheels,HL Mountain Rear Wheel,56,10870.3441
+FY2020,United Kingdom,Components,Wheels,HL Mountain Rear Wheel,,
+FY2019,United Kingdom,Components,Touring Frames,LL Touring Frame,,
+FY2020,United Kingdom,Components,Touring Frames,LL Touring Frame,144,28691.5912
+FY2019,United Kingdom,Components,Touring Frames,HL Touring Frame,,
+FY2020,United Kingdom,Components,Touring Frames,HL Touring Frame,179,106646.1624
+FY2019,United Kingdom,Components,Road Frames,LL Road Frame,153,30110.6812
+FY2020,United Kingdom,Components,Road Frames,LL Road Frame,89,17890.3303
+FY2019,United Kingdom,Components,Road Frames,ML Road Frame-W,67,21738.3309
+FY2020,United Kingdom,Components,Road Frames,ML Road Frame-W,96,34262.208
+FY2019,United Kingdom,Components,Road Frames,HL Road Frame,44,34356.0008
+FY2020,United Kingdom,Components,Road Frames,HL Road Frame,60,51534
+FY2019,United Kingdom,Components,Mountain Frames,ML Mountain Frame,101,21134.856
+FY2020,United Kingdom,Components,Mountain Frames,ML Mountain Frame,,
+FY2019,United Kingdom,Components,Mountain Frames,ML Mountain Frame-W,23,4812.888
+FY2020,United Kingdom,Components,Mountain Frames,ML Mountain Frame-W,124,26938.7278
+FY2019,United Kingdom,Components,Mountain Frames,LL Mountain Frame,,
+FY2020,United Kingdom,Components,Mountain Frames,LL Mountain Frame,235,36326.4462
+FY2019,United Kingdom,Components,Mountain Frames,HL Mountain Frame,112,82992.8184
+FY2020,United Kingdom,Components,Mountain Frames,HL Mountain Frame,137,111670.2
+FY2019,United Kingdom,Bikes,Touring Bikes,Touring-2000,3,3644.55
+FY2020,United Kingdom,Bikes,Touring Bikes,Touring-2000,255,209349.7551
+FY2019,United Kingdom,Bikes,Touring Bikes,Touring-3000,7,5196.45
+FY2020,United Kingdom,Bikes,Touring Bikes,Touring-3000,534,234226.1985
+FY2019,United Kingdom,Bikes,Touring Bikes,Touring-1000,4,9536.28
+FY2020,United Kingdom,Bikes,Touring Bikes,Touring-1000,584,942963.1014
+FY2019,United Kingdom,Bikes,Mountain Bikes,Mountain-400-W,3,2308.47
+FY2020,United Kingdom,Bikes,Mountain Bikes,Mountain-400-W,172,104650.64
+FY2019,United Kingdom,Bikes,Mountain Bikes,Mountain-300,185,119878.89
+FY2020,United Kingdom,Bikes,Mountain Bikes,Mountain-300,,
+FY2019,United Kingdom,Bikes,Mountain Bikes,Mountain-500,3,1694.97
+FY2020,United Kingdom,Bikes,Mountain Bikes,Mountain-500,352,120251.6248
+FY2019,United Kingdom,Bikes,Mountain Bikes,Mountain-200,471,672840.2352
+FY2020,United Kingdom,Bikes,Mountain Bikes,Mountain-200,698,1242465.895
+FY2019,United Kingdom,Bikes,Road Bikes,Road-750,6,3239.94
+FY2020,United Kingdom,Bikes,Road Bikes,Road-750,409,168397.1775
+FY2019,United Kingdom,Bikes,Road Bikes,Road-650,551,274095.3586
+FY2020,United Kingdom,Bikes,Road Bikes,Road-650,,
+FY2019,United Kingdom,Bikes,Road Bikes,Road-550-W,162,121933.3225
+FY2020,United Kingdom,Bikes,Road Bikes,Road-550-W,350,289994.0169
+FY2019,United Kingdom,Bikes,Road Bikes,Road-350-W,8,13607.92
+FY2020,United Kingdom,Bikes,Road Bikes,Road-350-W,359,433833.247
+FY2019,United Kingdom,Bikes,Road Bikes,Road-250,370,668378.3925
+FY2020,United Kingdom,Bikes,Road Bikes,Road-250,255,452997.09
+FY2019,Australia,Clothing,Socks,Racing Socks,2,17.98
+FY2020,Australia,Clothing,Socks,Racing Socks,110,988.9
+FY2019,Australia,Clothing,Caps,Cycling Cap,10,89.9
+FY2020,Australia,Clothing,Caps,Cycling Cap,609,4738.8538
+FY2019,Australia,Clothing,Gloves,Half-Finger Gloves,5,122.45
+FY2020,Australia,Clothing,Gloves,Half-Finger Gloves,450,9649.3049
+FY2019,Australia,Clothing,Shorts,Women's Mountain Shorts,,
+FY2020,Australia,Clothing,Shorts,Women's Mountain Shorts,270,15649.764
+FY2019,Australia,Clothing,Vests,Classic Vest,4,254
+FY2020,Australia,Clothing,Vests,Classic Vest,487,20811.6234
+FY2019,Australia,Clothing,Jerseys,Long-Sleeve Logo Jersey,1,49.99
+FY2020,Australia,Clothing,Jerseys,Long-Sleeve Logo Jersey,463,17303.0288
+FY2019,Australia,Clothing,Jerseys,Short-Sleeve Classic Jersey,14,755.86
+FY2020,Australia,Clothing,Jerseys,Short-Sleeve Classic Jersey,954,42744.099
+FY2019,Australia,Accessories,Cleaners,Bike Wash,6,47.7
+FY2020,Australia,Accessories,Cleaners,Bike Wash,330,2238.72
+FY2019,Australia,Accessories,Fenders,Fender Set - Mountain,17,373.66
+FY2020,Australia,Accessories,Fenders,Fender Set - Mountain,308,6769.84
+FY2019,Australia,Accessories,Bike Stands,All-Purpose Bike Stand,1,159
+FY2020,Australia,Accessories,Bike Stands,All-Purpose Bike Stand,64,10176
+FY2019,Australia,Accessories,Bottles and Cages,Mountain Bottle Cage,15,149.85
+FY2020,Australia,Accessories,Bottles and Cages,Mountain Bottle Cage,257,2567.43
+FY2019,Australia,Accessories,Bottles and Cages,Water Bottle,33,164.67
+FY2020,Australia,Accessories,Bottles and Cages,Water Bottle,880,4149.684
+FY2019,Australia,Accessories,Bottles and Cages,Road Bottle Cage,25,224.75
+FY2020,Australia,Accessories,Bottles and Cages,Road Bottle Cage,484,4351.16
+FY2019,Australia,Accessories,Hydration Packs,Hydration Pack,5,274.95
+FY2020,Australia,Accessories,Hydration Packs,Hydration Pack,299,13933.8721
+FY2019,Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,480
+FY2020,Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,219,17926.704
+FY2019,Australia,Accessories,Tires and Tubes,Touring Tire Tube,,
+FY2020,Australia,Accessories,Tires and Tubes,Touring Tire Tube,195,973.05
+FY2019,Australia,Accessories,Tires and Tubes,Patch kit,12,27.48
+FY2020,Australia,Accessories,Tires and Tubes,Patch kit,662,1509.568
+FY2019,Australia,Accessories,Tires and Tubes,Road Tire Tube,11,43.89
+FY2020,Australia,Accessories,Tires and Tubes,Road Tire Tube,500,1995
+FY2019,Australia,Accessories,Tires and Tubes,Mountain Tire Tube,11,54.89
+FY2020,Australia,Accessories,Tires and Tubes,Mountain Tire Tube,503,2509.97
+FY2019,Australia,Accessories,Tires and Tubes,Touring Tire,,
+FY2020,Australia,Accessories,Tires and Tubes,Touring Tire,107,3101.93
+FY2019,Australia,Accessories,Tires and Tubes,LL Road Tire,3,64.47
+FY2020,Australia,Accessories,Tires and Tubes,LL Road Tire,201,4319.49
+FY2019,Australia,Accessories,Tires and Tubes,LL Mountain Tire,2,49.98
+FY2020,Australia,Accessories,Tires and Tubes,LL Mountain Tire,210,5247.9
+FY2019,Australia,Accessories,Tires and Tubes,HL Road Tire,5,163
+FY2020,Australia,Accessories,Tires and Tubes,HL Road Tire,162,5281.2
+FY2019,Australia,Accessories,Tires and Tubes,ML Mountain Tire,1,29.99
+FY2020,Australia,Accessories,Tires and Tubes,ML Mountain Tire,197,5908.03
+FY2019,Australia,Accessories,Tires and Tubes,ML Road Tire,5,124.95
+FY2020,Australia,Accessories,Tires and Tubes,ML Road Tire,280,6997.2
+FY2019,Australia,Accessories,Tires and Tubes,HL Mountain Tire,10,350
+FY2020,Australia,Accessories,Tires and Tubes,HL Mountain Tire,230,8050
+FY2019,Australia,Accessories,Helmets,Sport-100,32,1119.68
+FY2020,Australia,Accessories,Helmets,Sport-100,1581,50728.502
+FY2019,Australia,Components,Road Frames,ML Road Frame-W,,
+FY2020,Australia,Components,Road Frames,ML Road Frame-W,1,356.898
+FY2019,Australia,Components,Chains,Chain,,
+FY2020,Australia,Components,Chains,Chain,70,850.08
+FY2019,Australia,Components,Pedals,ML Mountain Pedal,,
+FY2020,Australia,Components,Pedals,ML Mountain Pedal,2,74.508
+FY2019,Australia,Components,Pedals,LL Mountain Pedal,,
+FY2020,Australia,Components,Pedals,LL Mountain Pedal,7,170.058
+FY2019,Australia,Components,Pedals,Touring Pedal,,
+FY2020,Australia,Components,Pedals,Touring Pedal,14,680.316
+FY2019,Australia,Components,Pedals,HL Mountain Pedal,,
+FY2020,Australia,Components,Pedals,HL Mountain Pedal,16,777.504
+FY2019,Australia,Components,Saddles,LL Mountain Seat/Saddle 2,,
+FY2020,Australia,Components,Saddles,LL Mountain Seat/Saddle 2,2,32.544
+FY2019,Australia,Components,Saddles,ML Touring Seat/Saddle,,
+FY2020,Australia,Components,Saddles,ML Touring Seat/Saddle,5,117.42
+FY2019,Australia,Components,Saddles,LL Touring Seat/Saddle,,
+FY2020,Australia,Components,Saddles,LL Touring Seat/Saddle,11,178.992
+FY2019,Australia,Components,Saddles,HL Mountain Seat/Saddle 2,,
+FY2020,Australia,Components,Saddles,HL Mountain Seat/Saddle 2,6,189.504
+FY2019,Australia,Components,Saddles,ML Mountain Seat/Saddle 2,,
+FY2020,Australia,Components,Saddles,ML Mountain Seat/Saddle 2,13,305.292
+FY2019,Australia,Components,Saddles,HL Touring Seat/Saddle,,
+FY2020,Australia,Components,Saddles,HL Touring Seat/Saddle,46,1452.864
+FY2019,Australia,Components,Handlebars,HL Mountain Handlebars,,
+FY2020,Australia,Components,Handlebars,HL Mountain Handlebars,1,72.162
+FY2019,Australia,Components,Handlebars,LL Touring Handlebars,,
+FY2020,Australia,Components,Handlebars,LL Touring Handlebars,5,138.27
+FY2019,Australia,Components,Handlebars,LL Mountain Handlebars,,
+FY2020,Australia,Components,Handlebars,LL Mountain Handlebars,12,320.688
+FY2019,Australia,Components,Handlebars,ML Mountain Handlebars,,
+FY2020,Australia,Components,Handlebars,ML Mountain Handlebars,17,631.584
+FY2019,Australia,Components,Handlebars,HL Touring Handlebars,,
+FY2020,Australia,Components,Handlebars,HL Touring Handlebars,30,1648.26
+FY2019,Australia,Components,Bottom Brackets,LL Bottom Bracket,,
+FY2020,Australia,Components,Bottom Brackets,LL Bottom Bracket,30,971.82
+FY2019,Australia,Components,Bottom Brackets,HL Bottom Bracket,,
+FY2020,Australia,Components,Bottom Brackets,HL Bottom Bracket,47,3426.018
+FY2019,Australia,Components,Brakes,Rear Brakes,,
+FY2020,Australia,Components,Brakes,Rear Brakes,28,1789.2
+FY2019,Australia,Components,Brakes,Front Brakes,,
+FY2020,Australia,Components,Brakes,Front Brakes,59,3770.1
+FY2019,Australia,Components,Derailleurs,Rear Derailleur,,
+FY2020,Australia,Components,Derailleurs,Rear Derailleur,29,2113.404
+FY2019,Australia,Components,Derailleurs,Front Derailleur,,
+FY2020,Australia,Components,Derailleurs,Front Derailleur,95,5214.93
+FY2019,Australia,Components,Cranksets,LL Crankset,,
+FY2020,Australia,Components,Cranksets,LL Crankset,33,3474.702
+FY2019,Australia,Components,Cranksets,HL Crankset,,
+FY2020,Australia,Components,Cranksets,HL Crankset,55,13364.67
+FY2019,Australia,Components,Mountain Frames,ML Mountain Frame-W,,
+FY2020,Australia,Components,Mountain Frames,ML Mountain Frame-W,27,5898.258
+FY2019,Australia,Components,Mountain Frames,LL Mountain Frame,,
+FY2020,Australia,Components,Mountain Frames,LL Mountain Frame,49,7600.506
+FY2019,Australia,Components,Mountain Frames,HL Mountain Frame,,
+FY2020,Australia,Components,Mountain Frames,HL Mountain Frame,27,21997.62
+FY2019,Australia,Components,Touring Frames,LL Touring Frame,,
+FY2020,Australia,Components,Touring Frames,LL Touring Frame,108,21605.616
+FY2019,Australia,Components,Touring Frames,HL Touring Frame,,
+FY2020,Australia,Components,Touring Frames,HL Touring Frame,174,104427.5213
+FY2019,Australia,Bikes,Touring Bikes,Touring-2000,4,4859.4
+FY2020,Australia,Bikes,Touring Bikes,Touring-2000,322,265809.18
+FY2019,Australia,Bikes,Touring Bikes,Touring-3000,2,1484.7
+FY2020,Australia,Bikes,Touring Bikes,Touring-3000,738,345825.605
+FY2019,Australia,Bikes,Touring Bikes,Touring-1000,7,16688.49
+FY2020,Australia,Bikes,Touring Bikes,Touring-1000,920,1560967.925
+FY2019,Australia,Bikes,Mountain Bikes,Mountain-500,5,2749.95
+FY2020,Australia,Bikes,Mountain Bikes,Mountain-500,106,50427.2872
+FY2019,Australia,Bikes,Mountain Bikes,Mountain-400-W,2,1538.98
+FY2020,Australia,Bikes,Mountain Bikes,Mountain-400-W,99,76179.51
+FY2019,Australia,Bikes,Mountain Bikes,Mountain-200,472,985723.0374
+FY2020,Australia,Bikes,Mountain Bikes,Mountain-200,525,1138308.066
+FY2019,Australia,Bikes,Road Bikes,Road-650,152,119014.48
+FY2020,Australia,Bikes,Road Bikes,Road-650,,
+FY2019,Australia,Bikes,Road Bikes,Road-750,20,10799.8
+FY2020,Australia,Bikes,Road Bikes,Road-750,371,200336.29
+FY2019,Australia,Bikes,Road Bikes,Road-350-W,8,13607.92
+FY2020,Australia,Bikes,Road Bikes,Road-350-W,240,408237.6
+FY2019,Australia,Bikes,Road Bikes,Road-550-W,87,87878.43
+FY2020,Australia,Bikes,Road Bikes,Road-550-W,324,363038.76
+FY2019,Australia,Bikes,Road Bikes,Road-250,425,971929.725
+FY2020,Australia,Bikes,Road Bikes,Road-250,349,850774.47
+FY2019,Canada,Accessories,Pumps,Minipump,262,3135.4795
+FY2020,Canada,Accessories,Pumps,Minipump,,
+FY2019,Canada,Accessories,Cleaners,Bike Wash,1,7.95
+FY2020,Canada,Accessories,Cleaners,Bike Wash,593,3260.6457
+FY2019,Canada,Accessories,Locks,Cable Lock,283,4210.24
+FY2020,Canada,Accessories,Locks,Cable Lock,,
+FY2019,Canada,Accessories,Bike Stands,All-Purpose Bike Stand,,
+FY2020,Canada,Accessories,Bike Stands,All-Purpose Bike Stand,32,5088
+FY2019,Canada,Accessories,Fenders,Fender Set - Mountain,4,87.92
+FY2020,Canada,Accessories,Fenders,Fender Set - Mountain,396,8704.08
+FY2019,Canada,Accessories,Bottles and Cages,Road Bottle Cage,2,17.98
+FY2020,Canada,Accessories,Bottles and Cages,Road Bottle Cage,114,1024.86
+FY2019,Canada,Accessories,Bottles and Cages,Mountain Bottle Cage,2,19.98
+FY2020,Canada,Accessories,Bottles and Cages,Mountain Bottle Cage,360,3596.4
+FY2019,Canada,Accessories,Bottles and Cages,Water Bottle,3,14.97
+FY2020,Canada,Accessories,Bottles and Cages,Water Bottle,1075,4367.6592
+FY2019,Canada,Accessories,Hydration Packs,Hydration Pack,1,54.99
+FY2020,Canada,Accessories,Hydration Packs,Hydration Pack,495,18472.0429
+FY2019,Canada,Accessories,Tires and Tubes,Touring Tire Tube,1,4.99
+FY2020,Canada,Accessories,Tires and Tubes,Touring Tire Tube,164,818.36
+FY2019,Canada,Accessories,Tires and Tubes,Road Tire Tube,1,3.99
+FY2020,Canada,Accessories,Tires and Tubes,Road Tire Tube,302,1204.98
+FY2019,Canada,Accessories,Tires and Tubes,Patch kit,4,9.16
+FY2020,Canada,Accessories,Tires and Tubes,Patch kit,634,1330.948
+FY2019,Canada,Accessories,Tires and Tubes,LL Road Tire,1,21.49
+FY2020,Canada,Accessories,Tires and Tubes,LL Road Tire,102,2191.98
+FY2019,Canada,Accessories,Tires and Tubes,ML Road Tire,,
+FY2020,Canada,Accessories,Tires and Tubes,ML Road Tire,93,2324.07
+FY2019,Canada,Accessories,Tires and Tubes,Touring Tire,1,28.99
+FY2020,Canada,Accessories,Tires and Tubes,Touring Tire,91,2638.09
+FY2019,Canada,Accessories,Tires and Tubes,Mountain Tire Tube,2,9.98
+FY2020,Canada,Accessories,Tires and Tubes,Mountain Tire Tube,647,3228.53
+FY2019,Canada,Accessories,Tires and Tubes,LL Mountain Tire,,
+FY2020,Canada,Accessories,Tires and Tubes,LL Mountain Tire,139,3473.61
+FY2019,Canada,Accessories,Tires and Tubes,HL Road Tire,,
+FY2020,Canada,Accessories,Tires and Tubes,HL Road Tire,176,5737.6
+FY2019,Canada,Accessories,Tires and Tubes,ML Mountain Tire,,
+FY2020,Canada,Accessories,Tires and Tubes,ML Mountain Tire,226,6777.74
+FY2019,Canada,Accessories,Tires and Tubes,HL Mountain Tire,2,70
+FY2020,Canada,Accessories,Tires and Tubes,HL Mountain Tire,275,9625
+FY2019,Canada,Accessories,Bike Racks,Hitch Rack - 4-Bike,,
+FY2020,Canada,Accessories,Bike Racks,Hitch Rack - 4-Bike,594,44575.668
+FY2019,Canada,Accessories,Helmets,Sport-100,1167,22851.0851
+FY2020,Canada,Accessories,Helmets,Sport-100,2077,53627.3152
+FY2019,Canada,Clothing,Socks,Racing Socks,,
+FY2020,Canada,Clothing,Socks,Racing Socks,609,3536.3065
+FY2019,Canada,Clothing,Caps,Cycling Cap,592,3021.5469
+FY2020,Canada,Clothing,Caps,Cycling Cap,787,4982.9871
+FY2019,Canada,Clothing,Bib-Shorts,Men's Bib-Shorts,764,40831.6127
+FY2020,Canada,Clothing,Bib-Shorts,Men's Bib-Shorts,,
+FY2019,Canada,Clothing,Tights,Women's Tights,1073,47733.9172
+FY2020,Canada,Clothing,Tights,Women's Tights,,
+FY2019,Canada,Clothing,Vests,Classic Vest,2,127
+FY2020,Canada,Clothing,Vests,Classic Vest,1257,47975.0951
+FY2019,Canada,Clothing,Gloves,Half-Finger Gloves,449,6356.4126
+FY2020,Canada,Clothing,Gloves,Half-Finger Gloves,968,16458.3845
+FY2019,Canada,Clothing,Gloves,Full-Finger Gloves,1249,27039.4777
+FY2020,Canada,Clothing,Gloves,Full-Finger Gloves,,
+FY2019,Canada,Clothing,Shorts,Men's Sports Shorts,567,20319.5009
+FY2020,Canada,Clothing,Shorts,Men's Sports Shorts,,
+FY2019,Canada,Clothing,Shorts,Women's Mountain Shorts,2,139.98
+FY2020,Canada,Clothing,Shorts,Women's Mountain Shorts,1591,69785.6431
+FY2019,Canada,Clothing,Jerseys,Short-Sleeve Classic Jersey,2,107.98
+FY2020,Canada,Clothing,Jerseys,Short-Sleeve Classic Jersey,1549,52041.0582
+FY2019,Canada,Clothing,Jerseys,Long-Sleeve Logo Jersey,1147,32641.9805
+FY2020,Canada,Clothing,Jerseys,Long-Sleeve Logo Jersey,1306,43683.0418
+FY2019,Canada,Components,Chains,Chain,,
+FY2020,Canada,Components,Chains,Chain,94,1141.536
+FY2019,Canada,Components,Bottom Brackets,LL Bottom Bracket,,
+FY2020,Canada,Components,Bottom Brackets,LL Bottom Bracket,64,2073.216
+FY2019,Canada,Components,Bottom Brackets,HL Bottom Bracket,,
+FY2020,Canada,Components,Bottom Brackets,HL Bottom Bracket,82,5977.308
+FY2019,Canada,Components,Brakes,Rear Brakes,,
+FY2020,Canada,Components,Brakes,Rear Brakes,34,2172.6
+FY2019,Canada,Components,Brakes,Front Brakes,,
+FY2020,Canada,Components,Brakes,Front Brakes,126,8014.3806
+FY2019,Canada,Components,Saddles,LL Road Seat/Saddle 1,,
+FY2020,Canada,Components,Saddles,LL Road Seat/Saddle 1,3,48.816
+FY2019,Canada,Components,Saddles,LL Touring Seat/Saddle,,
+FY2020,Canada,Components,Saddles,LL Touring Seat/Saddle,7,113.904
+FY2019,Canada,Components,Saddles,ML Touring Seat/Saddle,,
+FY2020,Canada,Components,Saddles,ML Touring Seat/Saddle,13,305.292
+FY2019,Canada,Components,Saddles,HL Road Seat/Saddle 2,,
+FY2020,Canada,Components,Saddles,HL Road Seat/Saddle 2,22,694.848
+FY2019,Canada,Components,Saddles,LL Mountain Seat/Saddle 2,,
+FY2020,Canada,Components,Saddles,LL Mountain Seat/Saddle 2,72,1171.584
+FY2019,Canada,Components,Saddles,HL Touring Seat/Saddle,,
+FY2020,Canada,Components,Saddles,HL Touring Seat/Saddle,52,1642.368
+FY2019,Canada,Components,Saddles,ML Mountain Seat/Saddle 2,,
+FY2020,Canada,Components,Saddles,ML Mountain Seat/Saddle 2,132,3056.5991
+FY2019,Canada,Components,Saddles,HL Mountain Seat/Saddle 2,,
+FY2020,Canada,Components,Saddles,HL Mountain Seat/Saddle 2,115,3632.16
+FY2019,Canada,Components,Derailleurs,Rear Derailleur,,
+FY2020,Canada,Components,Derailleurs,Rear Derailleur,53,3862.428
+FY2019,Canada,Components,Derailleurs,Front Derailleur,,
+FY2020,Canada,Components,Derailleurs,Front Derailleur,135,7338.4129
+FY2019,Canada,Components,Headsets,LL Headset,14,287.28
+FY2020,Canada,Components,Headsets,LL Headset,,
+FY2019,Canada,Components,Headsets,HL Headset,54,4041.252
+FY2020,Canada,Components,Headsets,HL Headset,,
+FY2019,Canada,Components,Headsets,ML Headset,164,9868.1618
+FY2020,Canada,Components,Headsets,ML Headset,,
+FY2019,Canada,Components,Forks,LL Fork,39,3468.348
+FY2020,Canada,Components,Forks,LL Fork,,
+FY2019,Canada,Components,Forks,HL Fork,94,12943.236
+FY2020,Canada,Components,Forks,HL Fork,,
+FY2019,Canada,Components,Pedals,Touring Pedal,,
+FY2020,Canada,Components,Pedals,Touring Pedal,20,971.88
+FY2019,Canada,Components,Pedals,LL Mountain Pedal,,
+FY2020,Canada,Components,Pedals,LL Mountain Pedal,87,2113.578
+FY2019,Canada,Components,Pedals,ML Mountain Pedal,,
+FY2020,Canada,Components,Pedals,ML Mountain Pedal,58,2160.732
+FY2019,Canada,Components,Pedals,LL Road Pedal,,
+FY2020,Canada,Components,Pedals,LL Road Pedal,170,4129.98
+FY2019,Canada,Components,Pedals,ML Road Pedal,,
+FY2020,Canada,Components,Pedals,ML Road Pedal,128,4768.512
+FY2019,Canada,Components,Pedals,HL Road Pedal,,
+FY2020,Canada,Components,Pedals,HL Road Pedal,122,5928.468
+FY2019,Canada,Components,Pedals,HL Mountain Pedal,,
+FY2020,Canada,Components,Pedals,HL Mountain Pedal,170,8168.8458
+FY2019,Canada,Components,Handlebars,LL Touring Handlebars,,
+FY2020,Canada,Components,Handlebars,LL Touring Handlebars,7,193.578
+FY2019,Canada,Components,Handlebars,LL Road Handlebars,18,437.301
+FY2020,Canada,Components,Handlebars,LL Road Handlebars,13,347.412
+FY2019,Canada,Components,Handlebars,HL Touring Handlebars,,
+FY2020,Canada,Components,Handlebars,HL Touring Handlebars,22,1208.724
+FY2019,Canada,Components,Handlebars,LL Mountain Handlebars,94,2283.683
+FY2020,Canada,Components,Handlebars,LL Mountain Handlebars,79,2094.3064
+FY2019,Canada,Components,Handlebars,HL Mountain Handlebars,33,2164.8594
+FY2020,Canada,Components,Handlebars,HL Mountain Handlebars,50,3608.1
+FY2019,Canada,Components,Handlebars,HL Road Handlebars,56,3673.7008
+FY2020,Canada,Components,Handlebars,HL Road Handlebars,56,4041.072
+FY2019,Canada,Components,Handlebars,ML Mountain Handlebars,167,5618.9962
+FY2020,Canada,Components,Handlebars,ML Mountain Handlebars,129,4792.608
+FY2019,Canada,Components,Cranksets,ML Crankset,,
+FY2020,Canada,Components,Cranksets,ML Crankset,9,1385.046
+FY2019,Canada,Components,Cranksets,LL Crankset,,
+FY2020,Canada,Components,Cranksets,LL Crankset,59,6212.346
+FY2019,Canada,Components,Cranksets,HL Crankset,,
+FY2020,Canada,Components,Cranksets,HL Crankset,96,23148.2564
+FY2019,Canada,Components,Wheels,ML Road Rear Wheel,13,2148.003
+FY2020,Canada,Components,Wheels,ML Road Rear Wheel,,
+FY2019,Canada,Components,Wheels,LL Mountain Rear Wheel,69,3632.643
+FY2020,Canada,Components,Wheels,LL Mountain Rear Wheel,,
+FY2019,Canada,Components,Wheels,LL Mountain Front Wheel,113,4118.511
+FY2020,Canada,Components,Wheels,LL Mountain Front Wheel,,
+FY2019,Canada,Components,Wheels,HL Road Rear Wheel,24,5141.664
+FY2020,Canada,Components,Wheels,HL Road Rear Wheel,,
+FY2019,Canada,Components,Wheels,ML Mountain Front Wheel,45,5643.675
+FY2020,Canada,Components,Wheels,ML Mountain Front Wheel,,
+FY2019,Canada,Components,Wheels,HL Mountain Front Wheel,34,6124.386
+FY2020,Canada,Components,Wheels,HL Mountain Front Wheel,,
+FY2019,Canada,Components,Wheels,LL Road Rear Wheel,153,10333.467
+FY2020,Canada,Components,Wheels,LL Road Rear Wheel,,
+FY2019,Canada,Components,Wheels,ML Road Front Wheel,108,16095.348
+FY2020,Canada,Components,Wheels,ML Road Front Wheel,,
+FY2019,Canada,Components,Wheels,HL Road Front Wheel,102,20199.672
+FY2020,Canada,Components,Wheels,HL Road Front Wheel,,
+FY2019,Canada,Components,Wheels,ML Mountain Rear Wheel,194,26979.9714
+FY2020,Canada,Components,Wheels,ML Mountain Rear Wheel,,
+FY2019,Canada,Components,Wheels,HL Mountain Rear Wheel,180,34977.3203
+FY2020,Canada,Components,Wheels,HL Mountain Rear Wheel,,
+FY2019,Canada,Components,Touring Frames,LL Touring Frame,,
+FY2020,Canada,Components,Touring Frames,LL Touring Frame,186,37209.672
+FY2019,Canada,Components,Touring Frames,HL Touring Frame,,
+FY2020,Canada,Components,Touring Frames,HL Touring Frame,303,181110.3836
+FY2019,Canada,Components,Road Frames,LL Road Frame,857,167475.7204
+FY2020,Canada,Components,Road Frames,LL Road Frame,217,43906.044
+FY2019,Canada,Components,Road Frames,HL Road Frame,166,129615.8212
+FY2020,Canada,Components,Road Frames,HL Road Frame,134,115092.6
+FY2019,Canada,Components,Road Frames,ML Road Frame-W,424,137345.8027
+FY2020,Canada,Components,Road Frames,ML Road Frame-W,359,127434.8921
+FY2019,Canada,Components,Mountain Frames,ML Mountain Frame,354,73790.0828
+FY2020,Canada,Components,Mountain Frames,ML Mountain Frame,,
+FY2019,Canada,Components,Mountain Frames,ML Mountain Frame-W,94,19670.064
+FY2020,Canada,Components,Mountain Frames,ML Mountain Frame-W,306,66708.8611
+FY2019,Canada,Components,Mountain Frames,LL Mountain Frame,,
+FY2020,Canada,Components,Mountain Frames,LL Mountain Frame,633,97724.9025
+FY2019,Canada,Components,Mountain Frames,HL Mountain Frame,327,242133.7113
+FY2020,Canada,Components,Mountain Frames,HL Mountain Frame,322,261886.5598
+FY2019,Canada,Bikes,Touring Bikes,Touring-2000,,
+FY2020,Canada,Bikes,Touring Bikes,Touring-2000,268,211383.9
+FY2019,Canada,Bikes,Touring Bikes,Touring-3000,1,742.35
+FY2020,Canada,Bikes,Touring Bikes,Touring-3000,678,276280.4006
+FY2019,Canada,Bikes,Touring Bikes,Touring-1000,4,9536.28
+FY2020,Canada,Bikes,Touring Bikes,Touring-1000,669,971675.4099
+FY2019,Canada,Bikes,Mountain Bikes,Mountain-400-W,2,1538.98
+FY2020,Canada,Bikes,Mountain Bikes,Mountain-400-W,251,125426.87
+FY2019,Canada,Bikes,Mountain Bikes,Mountain-500,2,1104.98
+FY2020,Canada,Bikes,Mountain Bikes,Mountain-500,708,228880.2624
+FY2019,Canada,Bikes,Mountain Bikes,Mountain-300,545,353156.73
+FY2020,Canada,Bikes,Mountain Bikes,Mountain-300,,
+FY2019,Canada,Bikes,Mountain Bikes,Mountain-200,1247,1584740.167
+FY2020,Canada,Bikes,Mountain Bikes,Mountain-200,1123,1705109.063
+FY2019,Canada,Bikes,Road Bikes,Road-750,4,2159.96
+FY2020,Canada,Bikes,Road Bikes,Road-750,557,192356.1018
+FY2019,Canada,Bikes,Road Bikes,Road-550-W,644,391469.5943
+FY2020,Canada,Bikes,Road Bikes,Road-550-W,442,323208.0297
+FY2019,Canada,Bikes,Road Bikes,Road-350-W,1,1700.99
+FY2020,Canada,Bikes,Road Bikes,Road-350-W,705,743322.5942
+FY2019,Canada,Bikes,Road Bikes,Road-650,2252,1037514.915
+FY2020,Canada,Bikes,Road Bikes,Road-650,,
+FY2019,Canada,Bikes,Road Bikes,Road-250,956,1365720.955
+FY2020,Canada,Bikes,Road Bikes,Road-250,333,496977.39
+FY2019,United States,Accessories,Cleaners,Bike Wash,5,39.75
+FY2020,United States,Accessories,Cleaners,Bike Wash,1563,8385.9766
+FY2019,United States,Accessories,Pumps,Minipump,719,8600.3137
+FY2020,United States,Accessories,Pumps,Minipump,,
+FY2019,United States,Accessories,Locks,Cable Lock,684,10229.98
+FY2020,United States,Accessories,Locks,Cable Lock,,
+FY2019,United States,Accessories,Bike Stands,All-Purpose Bike Stand,2,318
+FY2020,United States,Accessories,Bike Stands,All-Purpose Bike Stand,83,13197
+FY2019,United States,Accessories,Fenders,Fender Set - Mountain,22,483.56
+FY2020,United States,Accessories,Fenders,Fender Set - Mountain,967,21254.66
+FY2019,United States,Accessories,Bottles and Cages,Road Bottle Cage,23,206.77
+FY2020,United States,Accessories,Bottles and Cages,Road Bottle Cage,483,4342.17
+FY2019,United States,Accessories,Bottles and Cages,Mountain Bottle Cage,16,159.84
+FY2020,United States,Accessories,Bottles and Cages,Mountain Bottle Cage,811,8101.89
+FY2019,United States,Accessories,Bottles and Cages,Water Bottle,34,169.66
+FY2020,United States,Accessories,Bottles and Cages,Water Bottle,2866,11645.6526
+FY2019,United States,Accessories,Hydration Packs,Hydration Pack,7,384.93
+FY2020,United States,Accessories,Hydration Packs,Hydration Pack,1198,44828.8324
+FY2019,United States,Accessories,Tires and Tubes,Touring Tire Tube,4,19.96
+FY2020,United States,Accessories,Tires and Tubes,Touring Tire Tube,358,1786.42
+FY2019,United States,Accessories,Tires and Tubes,Road Tire Tube,5,19.95
+FY2020,United States,Accessories,Tires and Tubes,Road Tire Tube,661,2637.39
+FY2019,United States,Accessories,Tires and Tubes,Patch kit,20,45.8
+FY2020,United States,Accessories,Tires and Tubes,Patch kit,1481,3083.714
+FY2019,United States,Accessories,Tires and Tubes,ML Road Tire,6,149.94
+FY2020,United States,Accessories,Tires and Tubes,ML Road Tire,228,5697.72
+FY2019,United States,Accessories,Tires and Tubes,LL Road Tire,6,128.94
+FY2020,United States,Accessories,Tires and Tubes,LL Road Tire,280,6017.2
+FY2019,United States,Accessories,Tires and Tubes,Mountain Tire Tube,10,49.9
+FY2020,United States,Accessories,Tires and Tubes,Mountain Tire Tube,1319,6581.81
+FY2019,United States,Accessories,Tires and Tubes,LL Mountain Tire,1,24.99
+FY2020,United States,Accessories,Tires and Tubes,LL Mountain Tire,300,7497
+FY2019,United States,Accessories,Tires and Tubes,Touring Tire,4,115.96
+FY2020,United States,Accessories,Tires and Tubes,Touring Tire,270,7827.3
+FY2019,United States,Accessories,Tires and Tubes,HL Road Tire,3,97.8
+FY2020,United States,Accessories,Tires and Tubes,HL Road Tire,340,11084
+FY2019,United States,Accessories,Tires and Tubes,ML Mountain Tire,3,89.97
+FY2020,United States,Accessories,Tires and Tubes,ML Mountain Tire,437,13105.63
+FY2019,United States,Accessories,Tires and Tubes,HL Mountain Tire,10,350
+FY2020,United States,Accessories,Tires and Tubes,HL Mountain Tire,652,22820
+FY2019,United States,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,360
+FY2020,United States,Accessories,Bike Racks,Hitch Rack - 4-Bike,1489,110880.516
+FY2019,United States,Accessories,Helmets,Sport-100,3192,62670.9078
+FY2020,United States,Accessories,Helmets,Sport-100,5247,136519.0737
+FY2019,United States,Clothing,Socks,Racing Socks,2,17.98
+FY2020,United States,Clothing,Socks,Racing Socks,2816,15562.5137
+FY2019,United States,Clothing,Caps,Cycling Cap,1491,7626.9863
+FY2020,United States,Clothing,Caps,Cycling Cap,2007,13005.6804
+FY2019,United States,Clothing,Bib-Shorts,Men's Bib-Shorts,1982,106325.4079
+FY2020,United States,Clothing,Bib-Shorts,Men's Bib-Shorts,,
+FY2019,United States,Clothing,Vests,Classic Vest,5,317.5
+FY2020,United States,Clothing,Vests,Classic Vest,3163,121303.1554
+FY2019,United States,Clothing,Tights,Women's Tights,2996,132361.4375
+FY2020,United States,Clothing,Tights,Women's Tights,,
+FY2019,United States,Clothing,Gloves,Half-Finger Gloves,1197,16892.6689
+FY2020,United States,Clothing,Gloves,Half-Finger Gloves,2192,37182.6063
+FY2019,United States,Clothing,Gloves,Full-Finger Gloves,4150,87456.9352
+FY2020,United States,Clothing,Gloves,Full-Finger Gloves,,
+FY2019,United States,Clothing,Shorts,Men's Sports Shorts,1445,51716.7672
+FY2020,United States,Clothing,Shorts,Men's Sports Shorts,,
+FY2019,United States,Clothing,Shorts,Women's Mountain Shorts,2,139.98
+FY2020,United States,Clothing,Shorts,Women's Mountain Shorts,4573,192881.144
+FY2019,United States,Clothing,Jerseys,Short-Sleeve Classic Jersey,11,593.89
+FY2020,United States,Clothing,Jerseys,Short-Sleeve Classic Jersey,4154,141469.2575
+FY2019,United States,Clothing,Jerseys,Long-Sleeve Logo Jersey,3017,86070.0252
+FY2020,United States,Clothing,Jerseys,Long-Sleeve Logo Jersey,3221,109023.716
+FY2019,United States,Components,Chains,Chain,,
+FY2020,United States,Components,Chains,Chain,410,4972.0046
+FY2019,United States,Components,Bottom Brackets,LL Bottom Bracket,,
+FY2020,United States,Components,Bottom Brackets,LL Bottom Bracket,199,6446.406
+FY2019,United States,Components,Bottom Brackets,HL Bottom Bracket,,
+FY2020,United States,Components,Bottom Brackets,HL Bottom Bracket,296,21576.624
+FY2019,United States,Components,Saddles,LL Road Seat/Saddle 1,,
+FY2020,United States,Components,Saddles,LL Road Seat/Saddle 1,2,32.544
+FY2019,United States,Components,Saddles,LL Touring Seat/Saddle,,
+FY2020,United States,Components,Saddles,LL Touring Seat/Saddle,50,813.6
+FY2019,United States,Components,Saddles,ML Touring Seat/Saddle,,
+FY2020,United States,Components,Saddles,ML Touring Seat/Saddle,39,915.876
+FY2019,United States,Components,Saddles,HL Road Seat/Saddle 2,,
+FY2020,United States,Components,Saddles,HL Road Seat/Saddle 2,92,2905.728
+FY2019,United States,Components,Saddles,LL Mountain Seat/Saddle 2,,
+FY2020,United States,Components,Saddles,LL Mountain Seat/Saddle 2,213,3456.5091
+FY2019,United States,Components,Saddles,HL Touring Seat/Saddle,,
+FY2020,United States,Components,Saddles,HL Touring Seat/Saddle,186,5874.624
+FY2019,United States,Components,Saddles,ML Mountain Seat/Saddle 2,,
+FY2020,United States,Components,Saddles,ML Mountain Seat/Saddle 2,283,6645.972
+FY2019,United States,Components,Saddles,HL Mountain Seat/Saddle 2,,
+FY2020,United States,Components,Saddles,HL Mountain Seat/Saddle 2,305,9633.12
+FY2019,United States,Components,Brakes,Rear Brakes,,
+FY2020,United States,Components,Brakes,Rear Brakes,124,7923.6
+FY2019,United States,Components,Brakes,Front Brakes,,
+FY2020,United States,Components,Brakes,Front Brakes,409,26098.0806
+FY2019,United States,Components,Derailleurs,Rear Derailleur,,
+FY2020,United States,Components,Derailleurs,Rear Derailleur,191,13919.316
+FY2019,United States,Components,Derailleurs,Front Derailleur,,
+FY2020,United States,Components,Derailleurs,Front Derailleur,372,20420.568
+FY2019,United States,Components,Headsets,LL Headset,72,1477.44
+FY2020,United States,Components,Headsets,LL Headset,,
+FY2019,United States,Components,Headsets,HL Headset,174,13021.812
+FY2020,United States,Components,Headsets,HL Headset,,
+FY2019,United States,Components,Headsets,ML Headset,421,25656.9711
+FY2020,United States,Components,Headsets,ML Headset,,
+FY2019,United States,Components,Forks,LL Fork,119,10582.908
+FY2020,United States,Components,Forks,LL Fork,,
+FY2019,United States,Components,Forks,HL Fork,296,40655.8976
+FY2020,United States,Components,Forks,HL Fork,,
+FY2019,United States,Components,Pedals,Touring Pedal,,
+FY2020,United States,Components,Pedals,Touring Pedal,67,3255.798
+FY2019,United States,Components,Pedals,LL Mountain Pedal,,
+FY2020,United States,Components,Pedals,LL Mountain Pedal,254,6170.676
+FY2019,United States,Components,Pedals,ML Mountain Pedal,,
+FY2020,United States,Components,Pedals,ML Mountain Pedal,215,8009.61
+FY2019,United States,Components,Pedals,LL Road Pedal,,
+FY2020,United States,Components,Pedals,LL Road Pedal,565,13726.11
+FY2019,United States,Components,Pedals,ML Road Pedal,,
+FY2020,United States,Components,Pedals,ML Road Pedal,433,16130.982
+FY2019,United States,Components,Pedals,HL Mountain Pedal,,
+FY2020,United States,Components,Pedals,HL Mountain Pedal,453,21977.252
+FY2019,United States,Components,Pedals,HL Road Pedal,,
+FY2020,United States,Components,Pedals,HL Road Pedal,458,22256.052
+FY2019,United States,Components,Cranksets,ML Crankset,,
+FY2020,United States,Components,Cranksets,ML Crankset,41,6309.654
+FY2019,United States,Components,Cranksets,LL Crankset,,
+FY2020,United States,Components,Cranksets,LL Crankset,236,24849.384
+FY2019,United States,Components,Cranksets,HL Crankset,,
+FY2020,United States,Components,Cranksets,HL Crankset,305,73959.5978
+FY2019,United States,Components,Handlebars,LL Touring Handlebars,,
+FY2020,United States,Components,Handlebars,LL Touring Handlebars,24,663.696
+FY2019,United States,Components,Handlebars,LL Road Handlebars,87,2113.6215
+FY2020,United States,Components,Handlebars,LL Road Handlebars,69,1843.956
+FY2019,United States,Components,Handlebars,HL Touring Handlebars,,
+FY2020,United States,Components,Handlebars,HL Touring Handlebars,102,5604.084
+FY2019,United States,Components,Handlebars,LL Mountain Handlebars,269,6535.2205
+FY2020,United States,Components,Handlebars,LL Mountain Handlebars,257,6797.3563
+FY2019,United States,Components,Handlebars,HL Mountain Handlebars,205,13448.369
+FY2020,United States,Components,Handlebars,HL Mountain Handlebars,161,11618.082
+FY2019,United States,Components,Handlebars,HL Road Handlebars,244,16006.8392
+FY2020,United States,Components,Handlebars,HL Road Handlebars,192,13855.104
+FY2019,United States,Components,Handlebars,ML Mountain Handlebars,505,17056.1225
+FY2020,United States,Components,Handlebars,ML Mountain Handlebars,434,16073.0945
+FY2019,United States,Components,Wheels,ML Road Rear Wheel,47,7765.857
+FY2020,United States,Components,Wheels,ML Road Rear Wheel,,
+FY2019,United States,Components,Wheels,LL Mountain Rear Wheel,231,12161.457
+FY2020,United States,Components,Wheels,LL Mountain Rear Wheel,,
+FY2019,United States,Components,Wheels,HL Road Rear Wheel,60,12854.16
+FY2020,United States,Components,Wheels,HL Road Rear Wheel,,
+FY2019,United States,Components,Wheels,LL Mountain Front Wheel,431,15708.657
+FY2020,United States,Components,Wheels,LL Mountain Front Wheel,,
+FY2019,United States,Components,Wheels,ML Mountain Front Wheel,197,24706.755
+FY2020,United States,Components,Wheels,ML Mountain Front Wheel,,
+FY2019,United States,Components,Wheels,HL Mountain Front Wheel,163,29361.027
+FY2020,United States,Components,Wheels,HL Mountain Front Wheel,,
+FY2019,United States,Components,Wheels,LL Road Rear Wheel,640,43224.96
+FY2020,United States,Components,Wheels,LL Road Rear Wheel,,
+FY2019,United States,Components,Wheels,ML Road Front Wheel,372,55439.532
+FY2020,United States,Components,Wheels,ML Road Front Wheel,,
+FY2019,United States,Components,Wheels,ML Mountain Rear Wheel,556,78558.9386
+FY2020,United States,Components,Wheels,ML Mountain Rear Wheel,,
+FY2019,United States,Components,Wheels,HL Road Front Wheel,412,81590.832
+FY2020,United States,Components,Wheels,HL Road Front Wheel,,
+FY2019,United States,Components,Wheels,HL Mountain Rear Wheel,582,113883.0913
+FY2020,United States,Components,Wheels,HL Mountain Rear Wheel,,
+FY2019,United States,Components,Touring Frames,LL Touring Frame,,
+FY2020,United States,Components,Touring Frames,LL Touring Frame,678,135144.2951
+FY2019,United States,Components,Touring Frames,HL Touring Frame,,
+FY2020,United States,Components,Touring Frames,HL Touring Frame,1072,642815.118
+FY2019,United States,Components,Road Frames,LL Road Frame,2501,489616.0364
+FY2020,United States,Components,Road Frames,LL Road Frame,611,123507.6343
+FY2019,United States,Components,Road Frames,ML Road Frame-W,1283,416272.8141
+FY2020,United States,Components,Road Frames,ML Road Frame-W,876,312642.648
+FY2019,United States,Components,Road Frames,HL Road Frame,563,439600.6466
+FY2020,United States,Components,Road Frames,HL Road Frame,470,403683
+FY2019,United States,Components,Mountain Frames,ML Mountain Frame,1118,233793.9166
+FY2020,United States,Components,Mountain Frames,ML Mountain Frame,,
+FY2019,United States,Components,Mountain Frames,ML Mountain Frame-W,377,78889.512
+FY2020,United States,Components,Mountain Frames,ML Mountain Frame-W,1083,236309.5562
+FY2019,United States,Components,Mountain Frames,LL Mountain Frame,,
+FY2020,United States,Components,Mountain Frames,LL Mountain Frame,2093,323300.8237
+FY2019,United States,Components,Mountain Frames,HL Mountain Frame,1196,885745.2068
+FY2020,United States,Components,Mountain Frames,HL Mountain Frame,965,786129.78
+FY2019,United States,Bikes,Touring Bikes,Touring-2000,7,8503.95
+FY2020,United States,Bikes,Touring Bikes,Touring-2000,1258,971397.9476
+FY2019,United States,Bikes,Touring Bikes,Touring-3000,9,6681.15
+FY2020,United States,Bikes,Touring Bikes,Touring-3000,2366,982827.3091
+FY2019,United States,Bikes,Touring Bikes,Touring-1000,13,30992.91
+FY2020,United States,Bikes,Touring Bikes,Touring-1000,2792,4129623.591
+FY2019,United States,Bikes,Mountain Bikes,Mountain-400-W,7,5386.43
+FY2020,United States,Bikes,Mountain Bikes,Mountain-400-W,1120,579368.72
+FY2019,United States,Bikes,Mountain Bikes,Mountain-500,11,6114.89
+FY2020,United States,Bikes,Mountain Bikes,Mountain-500,2423,773766.01
+FY2019,United States,Bikes,Mountain Bikes,Mountain-300,2104,1360990.438
+FY2020,United States,Bikes,Mountain Bikes,Mountain-300,,
+FY2019,United States,Bikes,Mountain Bikes,Mountain-200,4418,5748862.942
+FY2020,United States,Bikes,Mountain Bikes,Mountain-200,4117,6500902.23
+FY2019,United States,Bikes,Road Bikes,Road-750,25,13499.75
+FY2020,United States,Bikes,Road Bikes,Road-750,2455,898592.2832
+FY2019,United States,Bikes,Road Bikes,Road-350-W,11,18710.89
+FY2020,United States,Bikes,Road Bikes,Road-350-W,2636,2854380.289
+FY2019,United States,Bikes,Road Bikes,Road-550-W,2322,1445926.318
+FY2020,United States,Bikes,Road Bikes,Road-550-W,2217,1631326.769
+FY2019,United States,Bikes,Road Bikes,Road-650,8278,3855926.1
+FY2020,United States,Bikes,Road Bikes,Road-650,,
+FY2019,United States,Bikes,Road Bikes,Road-250,3332,4723850.027
+FY2020,United States,Bikes,Road Bikes,Road-250,1608,2429795.272
