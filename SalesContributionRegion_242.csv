@@ -1,0 +1,190 @@
+Sales Territory.Group,Date.Fiscal Year,Product.Products.Subcategory,Sum(Sales.Sales Amount)
+Europe,FY2020,Mountain Bikes,3583004.9662
+North America,FY2020,Mountain Bikes,9913453.1557
+Pacific,FY2020,Mountain Bikes,1264914.8632
+Europe,FY2020,Road Bikes,3169316.2779
+North America,FY2020,Road Bikes,9569958.7291
+Pacific,FY2020,Road Bikes,1822387.12
+Europe,FY2020,Touring Bikes,4445834.741
+North America,FY2020,Touring Bikes,7543188.5586
+Pacific,FY2020,Touring Bikes,2172602.7102
+Europe,FY2020,Mountain Frames,457913.014
+North America,FY2020,Mountain Frames,1772060.4833
+Pacific,FY2020,Mountain Frames,35496.384
+Europe,FY2020,Touring Frames,520015.0802
+North America,FY2020,Touring Frames,996279.4687
+Pacific,FY2020,Touring Frames,126033.1373
+Europe,FY2020,Road Frames,270613.4486
+North America,FY2020,Road Frames,1126266.8184
+Pacific,FY2020,Road Frames,356.898
+Europe,FY2020,Jerseys,153897.8686
+North America,FY2020,Jerseys,346217.0735
+Pacific,FY2020,Jerseys,60047.1278
+Europe,FY2020,Helmets,106696.7709
+North America,FY2020,Helmets,190146.3889
+Pacific,FY2020,Helmets,50728.502
+Europe,FY2020,Shorts,52957.4018
+North America,FY2020,Shorts,262666.7871
+Pacific,FY2020,Shorts,15649.764
+Europe,FY2020,Vests,68445.9968
+North America,FY2020,Vests,169278.2505
+Pacific,FY2020,Vests,20811.6234
+Europe,FY2020,Tires and Tubes,69357.8876
+North America,FY2020,Tires and Tubes,127489.092
+Pacific,FY2020,Tires and Tubes,45893.338
+Europe,FY2020,Bike Racks,62633.268
+North America,FY2020,Bike Racks,155456.184
+Pacific,FY2020,Bike Racks,17926.704
+Europe,FY2020,Cranksets,51238.962
+North America,FY2020,Cranksets,135864.2842
+Pacific,FY2020,Cranksets,16839.372
+Europe,FY2020,Pedals,26013.048
+North America,FY2020,Pedals,119768.4758
+Pacific,FY2020,Pedals,1702.386
+Europe,FY2020,Hydration Packs,27546.8611
+North America,FY2020,Hydration Packs,63300.8753
+Pacific,FY2020,Hydration Packs,13933.8721
+Europe,FY2020,Handlebars,17935.122
+North America,FY2020,Handlebars,72741.1732
+Pacific,FY2020,Handlebars,2810.964
+Europe,FY2020,Gloves,23699.6148
+North America,FY2020,Gloves,53640.9908
+Pacific,FY2020,Gloves,9649.3049
+Europe,FY2020,Derailleurs,17340.4369
+North America,FY2020,Derailleurs,45540.7249
+Pacific,FY2020,Derailleurs,7328.334
+Europe,FY2020,Brakes,16250.7498
+North America,FY2020,Brakes,44208.6612
+Pacific,FY2020,Brakes,5559.3
+Europe,FY2020,Bottles and Cages,18361.2878
+North America,FY2020,Bottles and Cages,33078.6318
+Pacific,FY2020,Bottles and Cages,11068.274
+Europe,FY2020,Saddles,12609.228
+North America,FY2020,Saddles,40943.5442
+Pacific,FY2020,Saddles,2276.616
+Europe,FY2020,Bottom Brackets,11354.982
+North America,FY2020,Bottom Brackets,36073.554
+Pacific,FY2020,Bottom Brackets,4397.838
+Europe,FY2020,Fenders,8792
+North America,FY2020,Fenders,29958.74
+Pacific,FY2020,Fenders,6769.84
+Europe,FY2020,Bike Stands,10494
+North America,FY2020,Bike Stands,18285
+Pacific,FY2020,Bike Stands,10176
+Europe,FY2020,Caps,11254.6008
+North America,FY2020,Caps,17988.6675
+Pacific,FY2020,Caps,4738.8538
+Europe,FY2020,Socks,3030.0795
+North America,FY2020,Socks,19098.8202
+Pacific,FY2020,Socks,988.9
+Europe,FY2020,Cleaners,4362.6302
+North America,FY2020,Cleaners,11646.6223
+Pacific,FY2020,Cleaners,2238.72
+Europe,FY2020,Chains,2414.0896
+North America,FY2020,Chains,6113.5406
+Pacific,FY2020,Chains,850.08
+Europe,FY2019,Road Bikes,2687679.5511
+North America,FY2019,Road Bikes,12856479.4987
+Pacific,FY2019,Road Bikes,1203230.355
+Europe,FY2019,Mountain Bikes,1610919.4267
+North America,FY2019,Mountain Bikes,9061895.5569
+Pacific,FY2019,Mountain Bikes,990011.9674
+Europe,FY2019,Road Frames,226004.6247
+North America,FY2019,Road Frames,1779926.8414
+Pacific,FY2019,Road Frames,
+Europe,FY2019,Mountain Frames,194099.1695
+North America,FY2019,Mountain Frames,1534022.4935
+Pacific,FY2019,Mountain Frames,
+Europe,FY2019,Wheels,68420.1378
+North America,FY2019,Wheels,610649.9276
+Pacific,FY2019,Wheels,
+Europe,FY2019,Tights,21737.6513
+North America,FY2019,Tights,180095.3547
+Pacific,FY2019,Tights,
+Europe,FY2019,Bib-Shorts,19582.688
+North America,FY2019,Bib-Shorts,147157.0206
+Pacific,FY2019,Bib-Shorts,
+Europe,FY2019,Gloves,17938.0193
+North America,FY2019,Gloves,137745.4944
+Pacific,FY2019,Gloves,122.45
+Europe,FY2019,Jerseys,17204.4938
+North America,FY2019,Jerseys,119413.8757
+Pacific,FY2019,Jerseys,805.85
+Europe,FY2019,Touring Bikes,55176.03
+North America,FY2019,Touring Bikes,56456.64
+Pacific,FY2019,Touring Bikes,23032.59
+Europe,FY2019,Helmets,13020.3512
+North America,FY2019,Helmets,85521.9929
+Pacific,FY2019,Helmets,1119.68
+Europe,FY2019,Shorts,9932.346
+North America,FY2019,Shorts,72316.2281
+Pacific,FY2019,Shorts,
+Europe,FY2019,Forks,10281.3
+North America,FY2019,Forks,67650.3896
+Pacific,FY2019,Forks,
+Europe,FY2019,Handlebars,7765.3486
+North America,FY2019,Handlebars,69338.7131
+Pacific,FY2019,Handlebars,
+Europe,FY2019,Headsets,6589.2815
+North America,FY2019,Headsets,54352.9169
+Pacific,FY2019,Headsets,
+Europe,FY2019,Locks,1785
+North America,FY2019,Locks,14440.22
+Pacific,FY2019,Locks,
+Europe,FY2019,Pumps,1778.8941
+North America,FY2019,Pumps,11735.7932
+Pacific,FY2019,Pumps,
+Europe,FY2019,Caps,1427.8436
+North America,FY2019,Caps,10648.5332
+Pacific,FY2019,Caps,89.9
+Europe,FY2019,Tires and Tubes,1563.75
+North America,FY2019,Tires and Tubes,1241.81
+Pacific,FY2019,Tires and Tubes,908.65
+Europe,FY2019,Bottles and Cages,638.13
+North America,FY2019,Bottles and Cages,589.2
+Pacific,FY2019,Bottles and Cages,539.27
+Europe,FY2019,Fenders,153.86
+North America,FY2019,Fenders,571.48
+Pacific,FY2019,Fenders,373.66
+Europe,FY2019,Bike Racks,240
+North America,FY2019,Bike Racks,360
+Pacific,FY2019,Bike Racks,480
+Europe,FY2019,Hydration Packs,329.94
+North America,FY2019,Hydration Packs,439.92
+Pacific,FY2019,Hydration Packs,274.95
+Europe,FY2019,Vests,254
+North America,FY2019,Vests,444.5
+Pacific,FY2019,Vests,254
+Europe,FY2019,Bike Stands,159
+North America,FY2019,Bike Stands,318
+Pacific,FY2019,Bike Stands,159
+Europe,FY2019,Cleaners,63.6
+North America,FY2019,Cleaners,47.7
+Pacific,FY2019,Cleaners,47.7
+Europe,FY2019,Socks,17.98
+North America,FY2019,Socks,17.98
+Pacific,FY2019,Socks,17.98
+Europe,FY2018,Road Bikes,1289802.617
+North America,FY2018,Road Bikes,9298073.8874
+Pacific,FY2018,Road Bikes,1981862.9608
+Europe,FY2018,Mountain Bikes,312627.614
+North America,FY2018,Mountain Bikes,8990788.2196
+Pacific,FY2018,Mountain Bikes,717828.1712
+Europe,FY2018,Mountain Frames,
+North America,FY2018,Mountain Frames,720080.6026
+Pacific,FY2018,Mountain Frames,
+Europe,FY2018,Road Frames,
+North America,FY2018,Road Frames,446684.7127
+Pacific,FY2018,Road Frames,
+Europe,FY2018,Jerseys,
+North America,FY2018,Jerseys,54673.099
+Pacific,FY2018,Jerseys,
+Europe,FY2018,Helmets,
+North America,FY2018,Helmets,36814.8464
+Pacific,FY2018,Helmets,
+Europe,FY2018,Socks,
+North America,FY2018,Socks,6573.3884
+Pacific,FY2018,Socks,
+Europe,FY2018,Caps,
+North America,FY2018,Caps,5081.0472
+Pacific,FY2018,Caps,
