@@ -1,0 +1,4 @@
+Mail.Donor ID,Mail.Date,Mail.Company,Mail.Donor Name,Mail.Address,Mail.City,Mail.Country,Mail.Zipcode,"Mail.Source ",Sum(Mail.Amount),Sum(Mail.Receipt#)
+982726,08-09-2020,Tailwind Traders,Jarred Pierce,910 Hale Place # 101,Chula Vista,NY,91914,Cheque,2500,2348024
+982736,29-08-2020,Fourth Coffee,Janey Lobo,10 Main Street,Seattle,WA,91914,Cheque,2000,2348025
+982756,30-09-2010,Relecloud,Roberto Hilario,50th Wilson Avenue,Chicago,IL,98052,Cheque,3700,2348026
