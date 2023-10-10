@@ -1,0 +1,133 @@
+Model3_Invoice_Table.Tax_Reg_No,Model3_Invoice_Table.Bill To Address,Model3_Invoice_Table.Invoice Number,Model3_Invoice_Table.Item Code,Model3_Invoice_Table.Description,Sum(Model3_Invoice_Table.Discount),Sum(Model3_Invoice_Table.Price),Sum(Model3_Invoice_Table.Quantity),Sum(Model3_Invoice_Table.Unit Price)
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D46217,Invoice-D46217,70,19651,41,481
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D24366,Invoice-D24366,69,16011,40,402
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D11797,Invoice-D11797,67,8213,45,184
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D33314,Invoice-D33314,67,17936,51,353
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D43442,Invoice-D43442,66,12012,33,366
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D12113,Invoice-D12113,65,16090,45,359
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D18652,Invoice-D18652,64,15782,38,417
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D17813,Invoice-D17813,62,9178,35,264
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D21426,Invoice-D21426,59,17193,38,454
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D24221,Invoice-D24221,57,16507,41,404
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D27920,Invoice-D27920,56,23544,50,472
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D30392,Invoice-D30392,56,26564,55,484
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D27458,Invoice-D27458,55,10313,36,288
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D28436,Invoice-D28436,55,12125,42,290
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D46042,Invoice-D46042,54,8922,44,204
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D37304,Invoice-D37304,52,5864,58,102
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D43169,Invoice-D43169,49,7085,41,174
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D22882,Invoice-D22882,47,4153,42,100
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D33589,Invoice-D33589,44,21951,53,415
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D48224,Invoice-D48224,44,18954,46,413
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D32436,Invoice-D32436,43,6436,31,209
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D37183,Invoice-D37183,43,14891,38,393
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D47643,Invoice-D47643,41,6679,32,210
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D49304,Invoice-D49304,41,23767,48,496
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D49806,Invoice-D49806,38,3775,31,123
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D30106,Invoice-D30106,35,15873,41,388
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D42519,Invoice-D42519,35,21195,55,386
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D19600,Invoice-D19600,33,10191,36,284
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D20086,Invoice-D20086,33,19272,45,429
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D24071,Invoice-D24071,33,10047,30,336
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D28967,Invoice-D28967,31,13775,59,234
+TX-100130,2096 Montgomery Montgomery County Alabama United States,100130,D41443,Invoice-D41443,31,6695,57,118
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D31852,Invoice-D31852,68,9219,37,251
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D35869,Invoice-D35869,68,19092,40,479
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D40148,Invoice-D40148,68,16045,41,393
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D34003,Invoice-D34003,66,4692,39,122
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D14490,Invoice-D14490,65,7495,56,135
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D37764,Invoice-D37764,64,12514,38,331
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D13098,Invoice-D13098,63,19717,43,460
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D24527,Invoice-D24527,54,9342,58,162
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D29424,Invoice-D29424,51,10695,54,199
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D29634,Invoice-D29634,50,17851,39,459
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D31251,Invoice-D31251,49,14942,57,263
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D23084,Invoice-D23084,48,21028,44,479
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D43764,Invoice-D43764,47,11433,35,328
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D49846,Invoice-D49846,47,6843,53,130
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D22956,Invoice-D22956,46,9026,36,252
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D23110,Invoice-D23110,46,15929,45,355
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D23662,Invoice-D23662,46,26442,56,473
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D41850,Invoice-D41850,45,12304,53,233
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D19401,Invoice-D19401,42,18498,60,309
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D49666,Invoice-D49666,41,11332,51,223
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D34103,Invoice-D34103,35,5575,33,170
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D26705,Invoice-D26705,32,23439,49,479
+TX-100140,1684 Costa Mesa Orange County California United States,100140,D22668,Invoice-D22668,30,16424,38,433
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D57546,Invoice-D57546,70,6257,57,111
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D60005,Invoice-D60005,70,4809,41,119
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D69389,Invoice-D69389,66,14830,56,266
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D75734,Invoice-D75734,65,14065,45,314
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D63100,Invoice-D63100,57,17331,46,378
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D70030,Invoice-D70030,57,8259,36,231
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D72732,Invoice-D72732,57,7197,39,186
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D76382,Invoice-D76382,54,28389,57,499
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D63752,Invoice-D63752,51,19686,51,387
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D64512,Invoice-D64512,51,18009,60,301
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D62706,Invoice-D62706,50,13418,37,364
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D74485,Invoice-D74485,49,7709,18,431
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D60766,Invoice-D60766,48,18610,38,491
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D66180,Invoice-D66180,43,27097,59,460
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D69709,Invoice-D69709,41,16429,45,366
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D75006,Invoice-D75006,39,10026,55,183
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D76013,Invoice-D76013,36,13986,41,342
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D73081,Invoice-D73081,35,12081,26,466
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D63815,Invoice-D63815,33,20217,45,450
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D69068,Invoice-D69068,31,8711,31,282
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D65194,Invoice-D65194,28,16802,55,306
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D59541,Invoice-D59541,21,5489,38,145
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D71828,Invoice-D71828,21,4425,38,117
+TX-100150,335 Phoenix Maricopa County Arizona United States,100150,D73728,Invoice-D73728,21,8729,35,250
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D522832,Invoice-D522832,70,4809,41,119
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D594760,Invoice-D594760,70,6257,57,111
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D246867,Invoice-D246867,66,14830,56,266
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D658672,Invoice-D658672,65,14065,45,314
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D279791,Invoice-D279791,57,8259,36,231
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D403564,Invoice-D403564,57,17331,46,378
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D512960,Invoice-D512960,57,7197,39,186
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D451183,Invoice-D451183,54,28389,57,499
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D267686,Invoice-D267686,51,19686,51,387
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D674031,Invoice-D674031,51,18009,60,301
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D411858,Invoice-D411858,50,13418,37,364
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D638698,Invoice-D638698,49,7709,18,431
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D574620,Invoice-D574620,48,18610,38,491
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D520661,Invoice-D520661,43,27097,59,460
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D509998,Invoice-D509998,41,16429,45,366
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D597447,Invoice-D597447,39,10026,55,183
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D544201,Invoice-D544201,36,13986,41,342
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D372723,Invoice-D372723,35,12081,26,466
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D346622,Invoice-D346622,33,20217,45,450
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D383814,Invoice-D383814,31,8711,31,282
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D578052,Invoice-D578052,28,16802,55,306
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D294741,Invoice-D294741,21,8729,35,250
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D450299,Invoice-D450299,21,4425,38,117
+TX-100160,335 Phoenix Maricopa County Arizona United States,100160,D576246,Invoice-D576246,21,5489,38,145
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D29879,Invoice - D29879,48,10627,25,427
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D26912,Invoice - D26912,47,5596,27,209
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D27029,Invoice - D27029,47,7345,28,264
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D23929,Invoice - D23929,46,7647,49,157
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D25013,Invoice - D25013,46,8194,20,412
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D29213,Invoice - D29213,46,13022,44,297
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D30239,Invoice - D30239,45,7599,28,273
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D25807,Invoice - D25807,44,4816,36,135
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D29098,Invoice - D29098,44,16752,34,494
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D29328,Invoice - D29328,44,5412,31,176
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D25466,Invoice - D25466,43,14969,36,417
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D23818,Invoice - D23818,41,14145,41,346
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D25705,Invoice - D25705,40,2720,15,184
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D27486,Invoice - D27486,37,10155,26,392
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D25944,Invoice - D25944,32,13436,28,481
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D31557,Invoice - D31557,31,10634,45,237
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D34382,Invoice - D34382,31,3119,15,210
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D26715,Invoice - D26715,30,6824,23,298
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D25114,Invoice - D25114,27,5539,22,253
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D27137,Invoice - D27137,27,13995,41,342
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D27566,Invoice - D27566,26,6112,31,198
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D27500,Invoice - D27500,25,14215,32,445
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D31919,Invoice - D31919,24,12186,37,330
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D31931,Invoice - D31931,22,13370,31,432
+TX-100120,9189 Mesa Maricopa County Arizona United States,100120,D33616,Invoice - D33616,22,9260,26,357
+TX-1001222,335 Phoenix Maricopa County Arizona United States,1001222,D372723,Invoice-D372723,280,96648,208,3728
+TX-1001222,335 Phoenix Maricopa County Arizona United States,1001222,D522832,Invoice-D522832,70,4809,41,119
+TX-1001221,335 Phoenix Maricopa County Arizona United States,1001221,D522832,Invoice-D522832,210,14427,123,357
+TX-1001221,335 Phoenix Maricopa County Arizona United States,1001221,D372723,Invoice-D372723,105,36243,78,1398
