@@ -1,289 +1,69 @@
-Country,City,Year,Value Column Name,Value
-"USA","California","2017","AC","131000"
-"USA","California","2017","Number","131000"
-"USA","California","2017","PY","90000"
-"USA","California","2018","AC","131000"
-"USA","California","2018","Number","131000"
-"USA","California","2018","PY","81000"
-"USA","California","2019","AC","113000"
-"USA","California","2019","Number","113000"
-"USA","California","2019","PY","139000"
-"USA","New York","2017","AC","116000"
-"USA","New York","2017","Number","116000"
-"USA","New York","2017","PY","92000"
-"USA","New York","2018","AC","99000"
-"USA","New York","2018","Number","99000"
-"USA","New York","2018","PY","119000"
-"USA","New York","2019","AC","91000"
-"USA","New York","2019","Number","91000"
-"USA","New York","2019","PY","96000"
-"USA","Texas","2017","AC","112000"
-"USA","Texas","2017","Number","112000"
-"USA","Texas","2017","PY","111000"
-"USA","Texas","2018","AC","45000"
-"USA","Texas","2018","Number","45000"
-"USA","Texas","2018","PY","141000"
-"USA","Texas","2019","AC","117000"
-"USA","Texas","2019","Number","117000"
-"USA","Texas","2019","PY","51000"
-"Brazil","Rio","2017","AC","138000"
-"Brazil","Rio","2017","Number","138000"
-"Brazil","Rio","2017","PY","104000"
-"Brazil","Rio","2018","AC","105000"
-"Brazil","Rio","2018","Number","105000"
-"Brazil","Rio","2018","PY","78000"
-"Brazil","Rio","2019","AC","99000"
-"Brazil","Rio","2019","Number","99000"
-"Brazil","Rio","2019","PY","131000"
-"Brazil","Manaus","2017","AC","56000"
-"Brazil","Manaus","2017","Number","56000"
-"Brazil","Manaus","2017","PY","72000"
-"Brazil","Manaus","2018","AC","129000"
-"Brazil","Manaus","2018","Number","129000"
-"Brazil","Manaus","2018","PY","-122000"
-"Brazil","Manaus","2019","AC","147000"
-"Brazil","Manaus","2019","Number","147000"
-"Brazil","Manaus","2019","PY","55000"
-"Brazil","Salvador","2017","AC","39000"
-"Brazil","Salvador","2017","Number","39000"
-"Brazil","Salvador","2017","PY","121000"
-"Brazil","Salvador","2018","AC","46000"
-"Brazil","Salvador","2018","Number","46000"
-"Brazil","Salvador","2018","PY","0"
-"Brazil","Salvador","2019","AC","121000"
-"Brazil","Salvador","2019","Number","121000"
-"Brazil","Salvador","2019","PY","52000"
-"Canada","Vancouver","2017","AC","110000"
-"Canada","Vancouver","2017","Number","110000"
-"Canada","Vancouver","2017","PY","42000"
-"Canada","Vancouver","2018","AC","134000"
-"Canada","Vancouver","2018","Number","134000"
-"Canada","Vancouver","2018","PY","102000"
-"Canada","Vancouver","2019","AC","150000"
-"Canada","Vancouver","2019","Number","150000"
-"Canada","Vancouver","2019","PY","111000"
-"Canada","Toronto","2017","AC","78000"
-"Canada","Toronto","2017","Number","78000"
-"Canada","Toronto","2017","PY","59000"
-"Canada","Toronto","2018","AC","96000"
-"Canada","Toronto","2018","Number","96000"
-"Canada","Toronto","2018","PY","0"
-"Canada","Toronto","2019","AC","47000"
-"Canada","Toronto","2019","Number","47000"
-"Canada","Toronto","2019","PY","35000"
-"Canada","Montreal","2017","AC","51000"
-"Canada","Montreal","2017","Number","51000"
-"Canada","Montreal","2017","PY","107000"
-"Canada","Montreal","2018","AC","49000"
-"Canada","Montreal","2018","Number","49000"
-"Canada","Montreal","2018","PY","-120000"
-"Canada","Montreal","2019","AC","39000"
-"Canada","Montreal","2019","Number","39000"
-"Canada","Montreal","2019","PY","86000"
-"Other","Chicago","2017","AC","97000"
-"Other","Chicago","2017","Number","97000"
-"Other","Chicago","2017","PY","111000"
-"Other","Chicago","2018","AC","67000"
-"Other","Chicago","2018","Number","67000"
-"Other","Chicago","2018","PY","93000"
-"Other","Chicago","2019","AC","125000"
-"Other","Chicago","2019","Number","125000"
-"Other","Chicago","2019","PY","85000"
-"Other","Finland","2017","AC","142000"
-"Other","Finland","2017","Number","142000"
-"Other","Finland","2017","PY","77000"
-"Other","Finland","2018","AC","41000"
-"Other","Finland","2018","Number","41000"
-"Other","Finland","2018","PY","0"
-"Other","Finland","2019","AC","83000"
-"Other","Finland","2019","Number","83000"
-"Other","Finland","2019","PY","50000"
-"Other","Seoul","2017","AC","50000"
-"Other","Seoul","2017","Number","50000"
-"Other","Seoul","2017","PY","134000"
-"Other","Seoul","2018","AC","78000"
-"Other","Seoul","2018","Number","78000"
-"Other","Seoul","2018","PY","78000"
-"Other","Seoul","2019","AC","69000"
-"Other","Seoul","2019","Number","69000"
-"Other","Seoul","2019","PY","66000"
-"Australia","Brisbane","2017","AC","231000"
-"Australia","Brisbane","2017","Number","231000"
-"Australia","Brisbane","2017","PY","266000"
-"Australia","Brisbane","2018","AC","149000"
-"Australia","Brisbane","2018","Number","149000"
-"Australia","Brisbane","2018","PY","46000"
-"Australia","Brisbane","2019","AC","38000"
-"Australia","Brisbane","2019","Number","38000"
-"Australia","Brisbane","2019","PY","70000"
-"Australia","Sydney","2017","AC","62000"
-"Australia","Sydney","2017","Number","62000"
-"Australia","Sydney","2017","PY","54000"
-"Australia","Sydney","2018","AC","117000"
-"Australia","Sydney","2018","Number","117000"
-"Australia","Sydney","2018","PY","38000"
-"Australia","Sydney","2019","AC","42000"
-"Australia","Sydney","2019","Number","42000"
-"Australia","Sydney","2019","PY","147000"
-"Australia","Melbourne","2017","AC","11000"
-"Australia","Melbourne","2017","Number","11000"
-"Australia","Melbourne","2017","PY","9000"
-"Australia","Melbourne","2018","AC","69000"
-"Australia","Melbourne","2018","Number","69000"
-"Australia","Melbourne","2018","PY","96000"
-"Australia","Melbourne","2019","AC",
-"Australia","Melbourne","2019","Number",
-"Australia","Melbourne","2019","PY",
-"Japan","Tokyo","2017","AC","119000"
-"Japan","Tokyo","2017","Number","119000"
-"Japan","Tokyo","2017","PY","112000"
-"Japan","Tokyo","2018","AC","89000"
-"Japan","Tokyo","2018","Number","89000"
-"Japan","Tokyo","2018","PY","59000"
-"Japan","Tokyo","2019","AC","91000"
-"Japan","Tokyo","2019","Number","91000"
-"Japan","Tokyo","2019","PY","139000"
-"Japan","Hiroshima","2017","AC","40000"
-"Japan","Hiroshima","2017","Number","40000"
-"Japan","Hiroshima","2017","PY","117000"
-"Japan","Hiroshima","2018","AC","92000"
-"Japan","Hiroshima","2018","Number","92000"
-"Japan","Hiroshima","2018","PY","62000"
-"Japan","Hiroshima","2019","AC","102000"
-"Japan","Hiroshima","2019","Number","102000"
-"Japan","Hiroshima","2019","PY","67000"
-"Japan","Yokohoma","2017","AC","47000"
-"Japan","Yokohoma","2017","Number","47000"
-"Japan","Yokohoma","2017","PY","35000"
-"Japan","Yokohoma","2018","AC","68000"
-"Japan","Yokohoma","2018","Number","68000"
-"Japan","Yokohoma","2018","PY","66000"
-"Japan","Yokohoma","2019","AC","36000"
-"Japan","Yokohoma","2019","Number","36000"
-"Japan","Yokohoma","2019","PY","73000"
-"China","Shangai","2017","AC","134000"
-"China","Shangai","2017","Number","134000"
-"China","Shangai","2017","PY","108000"
-"China","Shangai","2018","AC","124000"
-"China","Shangai","2018","Number","124000"
-"China","Shangai","2018","PY","109000"
-"China","Shangai","2019","AC","68000"
-"China","Shangai","2019","Number","68000"
-"China","Shangai","2019","PY","96000"
-"China","Beijing","2017","AC","48000"
-"China","Beijing","2017","Number","48000"
-"China","Beijing","2017","PY","104000"
-"China","Beijing","2018","AC","115000"
-"China","Beijing","2018","Number","115000"
-"China","Beijing","2018","PY","92000"
-"China","Beijing","2019","AC","39000"
-"China","Beijing","2019","Number","39000"
-"China","Beijing","2019","PY","145000"
-"China","Chengdu","2017","AC","62000"
-"China","Chengdu","2017","Number","62000"
-"China","Chengdu","2017","PY","96000"
-"China","Chengdu","2018","AC","48000"
-"China","Chengdu","2018","Number","48000"
-"China","Chengdu","2018","PY","117000"
-"China","Chengdu","2019","AC","38000"
-"China","Chengdu","2019","Number","38000"
-"China","Chengdu","2019","PY","80000"
-"Poland","Warsaw","2017","AC","103000"
-"Poland","Warsaw","2017","Number","103000"
-"Poland","Warsaw","2017","PY","0"
-"Poland","Warsaw","2018","AC","99000"
-"Poland","Warsaw","2018","Number","99000"
-"Poland","Warsaw","2018","PY","103000"
-"Poland","Warsaw","2019","AC","118000"
-"Poland","Warsaw","2019","Number","118000"
-"Poland","Warsaw","2019","PY","144000"
-"Poland","Lublin","2017","AC","0"
-"Poland","Lublin","2017","Number","0"
-"Poland","Lublin","2017","PY","0"
-"Poland","Lublin","2018","AC","81000"
-"Poland","Lublin","2018","Number","81000"
-"Poland","Lublin","2018","PY","79000"
-"Poland","Lublin","2019","AC","121000"
-"Poland","Lublin","2019","Number","121000"
-"Poland","Lublin","2019","PY","128000"
-"Sweden","Stockholm","2017","AC","115000"
-"Sweden","Stockholm","2017","Number","115000"
-"Sweden","Stockholm","2017","PY","84000"
-"Sweden","Stockholm","2018","AC",
-"Sweden","Stockholm","2018","Number",
-"Sweden","Stockholm","2018","PY","131000"
-"Sweden","Stockholm","2019","AC","139000"
-"Sweden","Stockholm","2019","Number","139000"
-"Sweden","Stockholm","2019","PY","117000"
-"Sweden","Gothenburg","2017","AC","0"
-"Sweden","Gothenburg","2017","Number","0"
-"Sweden","Gothenburg","2017","PY","112000"
-"Sweden","Gothenburg","2018","AC",
-"Sweden","Gothenburg","2018","Number",
-"Sweden","Gothenburg","2018","PY","130000"
-"Sweden","Gothenburg","2019","AC","141000"
-"Sweden","Gothenburg","2019","Number","141000"
-"Sweden","Gothenburg","2019","PY","101000"
-"Sweden","Malmo","2017","AC","61000"
-"Sweden","Malmo","2017","Number","61000"
-"Sweden","Malmo","2017","PY","80000"
-"Sweden","Malmo","2018","AC",
-"Sweden","Malmo","2018","Number",
-"Sweden","Malmo","2018","PY","84000"
-"Sweden","Malmo","2019","AC","60000"
-"Sweden","Malmo","2019","Number","60000"
-"Sweden","Malmo","2019","PY","101000"
-"Belgium","Flanders","2017","AC","88000"
-"Belgium","Flanders","2017","Number","88000"
-"Belgium","Flanders","2017","PY","118000"
-"Belgium","Flanders","2018","AC","134000"
-"Belgium","Flanders","2018","Number","134000"
-"Belgium","Flanders","2018","PY","95000"
-"Belgium","Flanders","2019","AC","108000"
-"Belgium","Flanders","2019","Number","108000"
-"Belgium","Flanders","2019","PY","128000"
-"Belgium","Brussels","2017","AC","0"
-"Belgium","Brussels","2017","Number","0"
-"Belgium","Brussels","2017","PY","0"
-"Belgium","Brussels","2018","AC","64000"
-"Belgium","Brussels","2018","Number","64000"
-"Belgium","Brussels","2018","PY","78000"
-"Belgium","Brussels","2019","AC","119000"
-"Belgium","Brussels","2019","Number","119000"
-"Belgium","Brussels","2019","PY","112000"
-"Germany","Frankfurt","2017","AC","107000"
-"Germany","Frankfurt","2017","Number","107000"
-"Germany","Frankfurt","2017","PY","0"
-"Germany","Frankfurt","2018","AC","91000"
-"Germany","Frankfurt","2018","Number","91000"
-"Germany","Frankfurt","2018","PY","100000"
-"Germany","Frankfurt","2019","AC","91000"
-"Germany","Frankfurt","2019","Number","91000"
-"Germany","Frankfurt","2019","PY","142000"
-"Germany","Berlin","2017","AC","0"
-"Germany","Berlin","2017","Number","0"
-"Germany","Berlin","2017","PY","0"
-"Germany","Berlin","2018","AC",
-"Germany","Berlin","2018","Number",
-"Germany","Berlin","2018","PY",
-"Germany","Berlin","2019","AC","128000"
-"Germany","Berlin","2019","Number","128000"
-"Germany","Berlin","2019","PY","48000"
-"France","Marseille","2017","AC","118000"
-"France","Marseille","2017","Number","118000"
-"France","Marseille","2017","PY","107000"
-"France","Marseille","2018","AC","0"
-"France","Marseille","2018","Number","0"
-"France","Marseille","2018","PY","0"
-"France","Marseille","2019","AC","44000"
-"France","Marseille","2019","Number","44000"
-"France","Marseille","2019","PY","101000"
-"France","Paris","2017","AC","0"
-"France","Paris","2017","Number","0"
-"France","Paris","2017","PY","89000"
-"France","Paris","2018","AC","0"
-"France","Paris","2018","Number","0"
-"France","Paris","2018","PY","0"
-"France","Paris","2019","AC","131000"
-"France","Paris","2019","Number","131000"
-"France","Paris","2019","PY","51000"
+Orders.Region,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales)
+Central,Technology,Phones,72403.282
+East,Technology,Phones,100614.9820000001
+South,Technology,Phones,58304.437999999995
+West,Technology,Phones,98684.35199999997
+Central,Technology,Machines,26797.384
+East,Technology,Machines,66106.165
+South,Technology,Machines,53890.95999999999
+West,Technology,Machines,42444.122
+Central,Technology,Accessories,33956.076
+East,Technology,Accessories,45033.371999999974
+South,Technology,Accessories,27276.753999999994
+West,Technology,Accessories,61114.11600000006
+Central,Technology,Copiers,37259.56999999999
+East,Technology,Copiers,53219.46200000001
+South,Technology,Copiers,9299.756
+West,Technology,Copiers,49749.241999999984
+Central,Furniture,Chairs,85230.64599999994
+East,Furniture,Chairs,96260.683
+South,Furniture,Chairs,45176.44599999998
+West,Furniture,Chairs,101781.32799999992
+Central,Furniture,Tables,39154.97100000002
+East,Furniture,Tables,39139.80700000001
+South,Furniture,Tables,43916.192
+West,Furniture,Tables,84754.56200000005
+Central,Furniture,Bookcases,24157.176799999994
+East,Furniture,Bookcases,43819.33399999998
+South,Furniture,Bookcases,10899.362
+West,Furniture,Bookcases,36004.123500000016
+Central,Furniture,Furnishings,15254.369999999977
+East,Furniture,Furnishings,29071.37999999999
+South,Furniture,Furnishings,17306.684
+West,Furniture,Furnishings,30072.72999999999
+Central,Office Supplies,Storage,45930.111999999994
+East,Office Supplies,Storage,71612.58400000003
+South,Office Supplies,Storage,35768.059999999976
+West,Office Supplies,Storage,70532.85199999994
+Central,Office Supplies,Binders,56923.28199999998
+East,Office Supplies,Binders,53497.99699999999
+South,Office Supplies,Binders,37030.34100000001
+West,Office Supplies,Binders,55961.113000000034
+Central,Office Supplies,Appliances,23582.03299999998
+East,Office Supplies,Appliances,34188.46599999999
+South,Office Supplies,Appliances,19525.325999999997
+West,Office Supplies,Appliances,30236.335999999996
+Central,Office Supplies,Paper,17491.902000000002
+East,Office Supplies,Paper,20172.60199999997
+South,Office Supplies,Paper,14150.983999999997
+West,Office Supplies,Paper,26663.71799999998
+Central,Office Supplies,Supplies,9467.372
+East,Office Supplies,Supplies,10760.116
+South,Office Supplies,Supplies,8318.928
+West,Office Supplies,Supplies,18127.121999999996
+Central,Office Supplies,Art,5765.339999999999
+East,Office Supplies,Art,7485.7639999999965
+South,Office Supplies,Art,4655.622000000002
+West,Office Supplies,Art,9212.065999999992
+Central,Office Supplies,Envelopes,4636.872
+East,Office Supplies,Envelopes,4375.874
+South,Office Supplies,Envelopes,3345.5560000000014
+West,Office Supplies,Envelopes,4118.1
+Central,Office Supplies,Labels,2451.472
+East,Office Supplies,Labels,2602.9339999999997
+South,Office Supplies,Labels,2353.1799999999994
+West,Office Supplies,Labels,5078.7260000000015
+Central,Office Supplies,Fasteners,778.0300000000002
+East,Office Supplies,Fasteners,819.7179999999998
+South,Office Supplies,Fasteners,503.31599999999986
+West,Office Supplies,Fasteners,923.216
