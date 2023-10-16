@@ -1,0 +1,37 @@
+Orders.Segment,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Order Date.Variation.Date Hierarchy.Month,Sum(Orders.Profit),Sum(Orders.Quantity)
+Consumer,Qtr 1,January,3179.0966000000008,756
+Corporate,Qtr 1,January,1349.5747000000008,415
+Home Office,Qtr 1,January,4605.774799999998,304
+Consumer,Qtr 1,February,6668.266700000001,528
+Corporate,Qtr 1,February,2545.407699999998,329
+Home Office,Qtr 1,February,1080.9362999999996,210
+Consumer,Qtr 1,March,18086.121199999994,1270
+Corporate,Qtr 1,March,7804.253800000007,796
+Home Office,Qtr 1,March,2704.3121999999976,498
+Consumer,Qtr 2,April,3854.381599999995,1187
+Corporate,Qtr 2,April,7273.941600000001,712
+Home Office,Qtr 2,April,459.11309999999895,548
+Consumer,Qtr 2,May,10746.102400000002,1453
+Corporate,Qtr 2,May,7831.382300000007,876
+Home Office,Qtr 2,May,3833.823100000001,462
+Consumer,Qtr 2,June,11917.534499999994,1443
+Corporate,Qtr 2,June,4721.307499999996,726
+Home Office,Qtr 2,June,4646.9533999999985,511
+Consumer,Qtr 3,July,4104.364999999983,1388
+Corporate,Qtr 3,July,6868.394899999997,860
+Home Office,Qtr 3,July,2859.904899999999,457
+Consumer,Qtr 3,August,10264.416599999993,1480
+Corporate,Qtr 3,August,9519.065199999995,848
+Home Office,Qtr 3,August,1993.4565999999988,456
+Consumer,Qtr 3,September,24338.36400000006,2738
+Corporate,Qtr 3,September,6059.176200000002,1476
+Home Office,Qtr 3,September,6459.935099999999,848
+Consumer,Qtr 4,October,6610.837100000009,1352
+Corporate,Qtr 4,October,14591.47420000001,1101
+Home Office,Qtr 4,October,10581.730000000001,651
+Consumer,Qtr 4,November,10156.699099999989,3022
+Corporate,Qtr 4,November,14467.157699999985,1759
+Home Office,Qtr 4,November,10844.569699999993,994
+Consumer,Qtr 4,December,24193.024400000006,2904
+Corporate,Qtr 4,December,8947.998199999993,1710
+Home Office,Qtr 4,December,10228.16929999999,805
