@@ -1,0 +1,409 @@
+Orders.Order Date.Variation.Date Hierarchy.Month,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Category,Sum(Orders.Profit)
+January,2014,Furniture,Bookcases,-326.78479999999996
+February,2014,Furniture,Bookcases,
+March,2014,Furniture,Bookcases,-141.22500000000002
+April,2014,Furniture,Bookcases,-18.147
+May,2014,Furniture,Bookcases,-189.62150000000003
+June,2014,Furniture,Bookcases,-6.57660000000002
+July,2014,Furniture,Bookcases,266.93859999999995
+August,2014,Furniture,Bookcases,164.70860000000002
+September,2014,Furniture,Bookcases,-120.92920000000008
+October,2014,Furniture,Bookcases,-36.294
+November,2014,Furniture,Bookcases,-115.0854000000003
+December,2014,Furniture,Bookcases,176.8455999999998
+January,2016,Furniture,Bookcases,-681.8634000000003
+February,2016,Furniture,Bookcases,82.33679999999998
+March,2016,Furniture,Bookcases,-2.4864000000001454
+April,2016,Furniture,Bookcases,-85.88759999999999
+May,2016,Furniture,Bookcases,182.68249999999983
+June,2016,Furniture,Bookcases,-376.6932
+July,2016,Furniture,Bookcases,-261.5391999999998
+August,2016,Furniture,Bookcases,-6.493599999999873
+September,2016,Furniture,Bookcases,-1437.2216000000003
+October,2016,Furniture,Bookcases,78.38619999999992
+November,2016,Furniture,Bookcases,747.1600999999999
+December,2016,Furniture,Bookcases,-993.6108000000002
+January,2014,Furniture,Chairs,1058.0255999999997
+February,2014,Furniture,Chairs,-9.071500000000022
+March,2014,Furniture,Chairs,354.1411
+April,2014,Furniture,Chairs,212.6848
+May,2014,Furniture,Chairs,224.4649
+June,2014,Furniture,Chairs,634.9175999999999
+July,2014,Furniture,Chairs,-4.776399999999967
+August,2014,Furniture,Chairs,442.7839999999999
+September,2014,Furniture,Chairs,1433.8841999999995
+October,2014,Furniture,Chairs,854.2198999999999
+November,2014,Furniture,Chairs,173.31159999999983
+December,2014,Furniture,Chairs,1580.4612
+January,2016,Furniture,Chairs,-70.0656
+February,2016,Furniture,Chairs,320.10659999999984
+March,2016,Furniture,Chairs,320.41219999999976
+April,2016,Furniture,Chairs,304.7894999999999
+May,2016,Furniture,Chairs,564.6148999999998
+June,2016,Furniture,Chairs,98.65839999999986
+July,2016,Furniture,Chairs,165.95199999999952
+August,2016,Furniture,Chairs,29.037800000000047
+September,2016,Furniture,Chairs,1935.7314000000001
+October,2016,Furniture,Chairs,-184.35529999999977
+November,2016,Furniture,Chairs,1747.6279999999995
+December,2016,Furniture,Chairs,995.9062000000002
+January,2014,Furniture,Furnishings,90.87570000000002
+February,2014,Furniture,Furnishings,54.389999999999986
+March,2014,Furniture,Furnishings,38.316199999999974
+April,2014,Furniture,Furnishings,288.5029
+May,2014,Furniture,Furnishings,-2.667999999999978
+June,2014,Furniture,Furnishings,66.04260000000002
+July,2014,Furniture,Furnishings,170.6711
+August,2014,Furniture,Furnishings,213.44080000000005
+September,2014,Furniture,Furnishings,721.3684999999999
+October,2014,Furniture,Furnishings,69.52669999999999
+November,2014,Furniture,Furnishings,277.7045
+December,2014,Furniture,Furnishings,-15.279100000000005
+January,2016,Furniture,Furnishings,-13.483199999999954
+February,2016,Furniture,Furnishings,21.563999999999993
+March,2016,Furniture,Furnishings,316.17820000000006
+April,2016,Furniture,Furnishings,481.63959999999975
+May,2016,Furniture,Furnishings,184.65949999999998
+June,2016,Furniture,Furnishings,391.0155999999999
+July,2016,Furniture,Furnishings,263.48299999999995
+August,2016,Furniture,Furnishings,80.9603
+September,2016,Furniture,Furnishings,516.0721999999998
+October,2016,Furniture,Furnishings,-28.777200000000008
+November,2016,Furniture,Furnishings,546.9366000000001
+December,2016,Furniture,Furnishings,291.5702999999999
+January,2014,Furniture,Tables,-16.64999999999999
+February,2014,Furniture,Tables,75.37319999999994
+March,2014,Furniture,Tables,-1379.8873
+April,2014,Furniture,Tables,71.33939999999993
+May,2014,Furniture,Tables,-382.053
+June,2014,Furniture,Tables,-98.06830000000045
+July,2014,Furniture,Tables,-58.58660000000013
+August,2014,Furniture,Tables,-157.46170000000015
+September,2014,Furniture,Tables,-175.72590000000037
+October,2014,Furniture,Tables,-638.2881000000001
+November,2014,Furniture,Tables,-633.8265
+December,2014,Furniture,Tables,269.79209999999995
+January,2016,Furniture,Tables,-2248.7878
+February,2016,Furniture,Tables,-29.112599999999993
+March,2016,Furniture,Tables,820.9532999999999
+April,2016,Furniture,Tables,-361.8913000000001
+May,2016,Furniture,Tables,-31.372200000000007
+June,2016,Furniture,Tables,-525.6405000000002
+July,2016,Furniture,Tables,-492.9896000000001
+August,2016,Furniture,Tables,-590.9754000000001
+September,2016,Furniture,Tables,335.53649999999993
+October,2016,Furniture,Tables,-470.7700000000001
+November,2016,Furniture,Tables,-49.70070000000044
+December,2016,Furniture,Tables,134.94839999999976
+January,2014,Office Supplies,Appliances,100.06800000000001
+February,2014,Office Supplies,Appliances,9.018799999999995
+March,2014,Office Supplies,Appliances,-361.5468
+April,2014,Office Supplies,Appliances,149.80119999999994
+May,2014,Office Supplies,Appliances,76.60179999999991
+June,2014,Office Supplies,Appliances,733.4424999999999
+July,2014,Office Supplies,Appliances,-10.771600000000003
+August,2014,Office Supplies,Appliances,500.5180000000001
+September,2014,Office Supplies,Appliances,-169.12180000000012
+October,2014,Office Supplies,Appliances,78.69639999999995
+November,2014,Office Supplies,Appliances,680.7037999999999
+December,2014,Office Supplies,Appliances,672.0895999999998
+January,2016,Office Supplies,Appliances,69.35040000000001
+February,2016,Office Supplies,Appliances,163.73759999999993
+March,2016,Office Supplies,Appliances,-272.19550000000004
+April,2016,Office Supplies,Appliances,-282.56110000000064
+May,2016,Office Supplies,Appliances,152.8504999999998
+June,2016,Office Supplies,Appliances,-393.6020000000001
+July,2016,Office Supplies,Appliances,-186.13640000000004
+August,2016,Office Supplies,Appliances,243.08399999999995
+September,2016,Office Supplies,Appliances,637.2758999999998
+October,2016,Office Supplies,Appliances,414.98609999999996
+November,2016,Office Supplies,Appliances,1577.0888
+December,2016,Office Supplies,Appliances,388.0173999999999
+January,2014,Office Supplies,Art,52.54889999999999
+February,2014,Office Supplies,Art,12.213599999999996
+March,2014,Office Supplies,Art,108.34239999999997
+April,2014,Office Supplies,Art,157.79719999999998
+May,2014,Office Supplies,Art,70.7806
+June,2014,Office Supplies,Art,178.2599
+July,2014,Office Supplies,Art,59.75559999999999
+August,2014,Office Supplies,Art,48.77279999999999
+September,2014,Office Supplies,Art,203.94889999999998
+October,2014,Office Supplies,Art,189.88120000000004
+November,2014,Office Supplies,Art,131.99179999999996
+December,2014,Office Supplies,Art,192.51019999999997
+January,2016,Office Supplies,Art,35.73459999999999
+February,2016,Office Supplies,Art,103.3204
+March,2016,Office Supplies,Art,30.3924
+April,2016,Office Supplies,Art,111.6217
+May,2016,Office Supplies,Art,110.62869999999998
+June,2016,Office Supplies,Art,101.10699999999997
+July,2016,Office Supplies,Art,69.6865
+August,2016,Office Supplies,Art,91.79679999999998
+September,2016,Office Supplies,Art,246.01919999999998
+October,2016,Office Supplies,Art,72.92269999999998
+November,2016,Office Supplies,Art,297.4232
+December,2016,Office Supplies,Art,214.40500000000006
+January,2014,Office Supplies,Binders,190.73869999999994
+February,2014,Office Supplies,Binders,61.550700000000006
+March,2014,Office Supplies,Binders,381.3023999999999
+April,2014,Office Supplies,Binders,-272.40769999999986
+May,2014,Office Supplies,Binders,1197.6296999999995
+June,2014,Office Supplies,Binders,1236.6153
+July,2014,Office Supplies,Binders,-3593.6804000000016
+August,2014,Office Supplies,Binders,782.8131
+September,2014,Office Supplies,Binders,5129.968500000002
+October,2014,Office Supplies,Binders,70.4692
+November,2014,Office Supplies,Binders,258.9680999999985
+December,2014,Office Supplies,Binders,-704.2516000000003
+January,2016,Office Supplies,Binders,76.9786
+February,2016,Office Supplies,Binders,1283.6806999999997
+March,2016,Office Supplies,Binders,3874.7657999999988
+April,2016,Office Supplies,Binders,1279.5077999999996
+May,2016,Office Supplies,Binders,111.56609999999999
+June,2016,Office Supplies,Binders,1982.4086
+July,2016,Office Supplies,Binders,378.0900999999998
+August,2016,Office Supplies,Binders,715.1883999999998
+September,2016,Office Supplies,Binders,-820.5640000000001
+October,2016,Office Supplies,Binders,145.36759999999995
+November,2016,Office Supplies,Binders,-1394.2944000000002
+December,2016,Office Supplies,Binders,-36.023899999999884
+January,2014,Office Supplies,Envelopes,78.472
+February,2014,Office Supplies,Envelopes,
+March,2014,Office Supplies,Envelopes,121.52109999999999
+April,2014,Office Supplies,Envelopes,177.42789999999997
+May,2014,Office Supplies,Envelopes,98.5077
+June,2014,Office Supplies,Envelopes,40.0672
+July,2014,Office Supplies,Envelopes,46.19160000000001
+August,2014,Office Supplies,Envelopes,73.74199999999999
+September,2014,Office Supplies,Envelopes,175.4097
+October,2014,Office Supplies,Envelopes,125.89349999999999
+November,2014,Office Supplies,Envelopes,400.74289999999996
+December,2014,Office Supplies,Envelopes,157.50319999999996
+January,2016,Office Supplies,Envelopes,8.2156
+February,2016,Office Supplies,Envelopes,181.26489999999995
+March,2016,Office Supplies,Envelopes,95.16279999999999
+April,2016,Office Supplies,Envelopes,91.2484
+May,2016,Office Supplies,Envelopes,163.77359999999993
+June,2016,Office Supplies,Envelopes,99.26149999999997
+July,2016,Office Supplies,Envelopes,240.36419999999995
+August,2016,Office Supplies,Envelopes,
+September,2016,Office Supplies,Envelopes,273.2221999999999
+October,2016,Office Supplies,Envelopes,215.57659999999998
+November,2016,Office Supplies,Envelopes,202.4876
+December,2016,Office Supplies,Envelopes,389.61319999999995
+January,2014,Office Supplies,Fasteners,0.3111999999999995
+February,2014,Office Supplies,Fasteners,5.8045
+March,2014,Office Supplies,Fasteners,4.085399999999998
+April,2014,Office Supplies,Fasteners,5.010599999999995
+May,2014,Office Supplies,Fasteners,4.2444
+June,2014,Office Supplies,Fasteners,19.1828
+July,2014,Office Supplies,Fasteners,8.439200000000001
+August,2014,Office Supplies,Fasteners,30.855599999999995
+September,2014,Office Supplies,Fasteners,35.5715
+October,2014,Office Supplies,Fasteners,7.5691999999999995
+November,2014,Office Supplies,Fasteners,27.4348
+December,2014,Office Supplies,Fasteners,30.049099999999996
+January,2016,Office Supplies,Fasteners,
+February,2016,Office Supplies,Fasteners,1.8011
+March,2016,Office Supplies,Fasteners,26.4162
+April,2016,Office Supplies,Fasteners,4.737099999999999
+May,2016,Office Supplies,Fasteners,8.8169
+June,2016,Office Supplies,Fasteners,4.1231
+July,2016,Office Supplies,Fasteners,14.368999999999998
+August,2016,Office Supplies,Fasteners,7.261499999999999
+September,2016,Office Supplies,Fasteners,23.709299999999995
+October,2016,Office Supplies,Fasteners,8.027
+November,2016,Office Supplies,Fasteners,34.4612
+December,2016,Office Supplies,Fasteners,38.2152
+January,2014,Office Supplies,Labels,15.779299999999996
+February,2014,Office Supplies,Labels,16.4133
+March,2014,Office Supplies,Labels,72.1446
+April,2014,Office Supplies,Labels,37.2874
+May,2014,Office Supplies,Labels,27.100399999999997
+June,2014,Office Supplies,Labels,279.86969999999997
+July,2014,Office Supplies,Labels,91.89689999999999
+August,2014,Office Supplies,Labels,16.522199999999998
+September,2014,Office Supplies,Labels,168.21489999999997
+October,2014,Office Supplies,Labels,42.632600000000004
+November,2014,Office Supplies,Labels,281.7518
+December,2014,Office Supplies,Labels,236.3911
+January,2016,Office Supplies,Labels,20.5632
+February,2016,Office Supplies,Labels,88.7909
+March,2016,Office Supplies,Labels,258.7645
+April,2016,Office Supplies,Labels,53.41049999999999
+May,2016,Office Supplies,Labels,92.6747
+June,2016,Office Supplies,Labels,25.572799999999997
+July,2016,Office Supplies,Labels,156.5226
+August,2016,Office Supplies,Labels,58.42220000000001
+September,2016,Office Supplies,Labels,97.8791
+October,2016,Office Supplies,Labels,261.79359999999997
+November,2016,Office Supplies,Labels,49.6476
+December,2016,Office Supplies,Labels,158.9869
+January,2014,Office Supplies,Paper,101.5604
+February,2014,Office Supplies,Paper,56.5001
+March,2014,Office Supplies,Paper,505.1751
+April,2014,Office Supplies,Paper,286.71999999999997
+May,2014,Office Supplies,Paper,221.4484
+June,2014,Office Supplies,Paper,403.8246
+July,2014,Office Supplies,Paper,346.7495
+August,2014,Office Supplies,Paper,879.6906999999999
+September,2014,Office Supplies,Paper,586.2577999999997
+October,2014,Office Supplies,Paper,390.71969999999993
+November,2014,Office Supplies,Paper,1704.6443000000004
+December,2014,Office Supplies,Paper,887.7307999999997
+January,2016,Office Supplies,Paper,225.8645
+February,2016,Office Supplies,Paper,106.61359999999998
+March,2016,Office Supplies,Paper,667.8484999999998
+April,2016,Office Supplies,Paper,179.93619999999996
+May,2016,Office Supplies,Paper,527.1619999999999
+June,2016,Office Supplies,Paper,249.11059999999992
+July,2016,Office Supplies,Paper,198.32410000000002
+August,2016,Office Supplies,Paper,598.2651999999999
+September,2016,Office Supplies,Paper,997.1315000000002
+October,2016,Office Supplies,Paper,280.1344
+November,2016,Office Supplies,Paper,1250.3564999999999
+December,2016,Office Supplies,Paper,1289.4228999999998
+January,2014,Office Supplies,Storage,249.47209999999984
+February,2014,Office Supplies,Storage,9.817599999999995
+March,2014,Office Supplies,Storage,433.9892999999997
+April,2014,Office Supplies,Storage,377.4806
+May,2014,Office Supplies,Storage,30.42539999999998
+June,2014,Office Supplies,Storage,135.2177999999999
+July,2014,Office Supplies,Storage,225.59219999999982
+August,2014,Office Supplies,Storage,402.6539
+September,2014,Office Supplies,Storage,552.5548999999999
+October,2014,Office Supplies,Storage,198.0557999999999
+November,2014,Office Supplies,Storage,971.7897999999998
+December,2014,Office Supplies,Storage,579.2294000000003
+January,2016,Office Supplies,Storage,143.18200000000002
+February,2016,Office Supplies,Storage,-115.10740000000004
+March,2016,Office Supplies,Storage,718.0199000000001
+April,2016,Office Supplies,Storage,38.342600000000054
+May,2016,Office Supplies,Storage,524.0083999999998
+June,2016,Office Supplies,Storage,127.4048
+July,2016,Office Supplies,Storage,226.78579999999985
+August,2016,Office Supplies,Storage,488.3333999999995
+September,2016,Office Supplies,Storage,719.0585999999998
+October,2016,Office Supplies,Storage,-337.88310000000007
+November,2016,Office Supplies,Storage,783.2648999999997
+December,2016,Office Supplies,Storage,190.05019999999988
+January,2014,Office Supplies,Supplies,
+February,2014,Office Supplies,Supplies,4.772400000000005
+March,2014,Office Supplies,Supplies,5.399799999999999
+April,2014,Office Supplies,Supplies,81.09140000000006
+May,2014,Office Supplies,Supplies,20.465999999999998
+June,2014,Office Supplies,Supplies,4.9528
+July,2014,Office Supplies,Supplies,343.80979999999965
+August,2014,Office Supplies,Supplies,32.032399999999996
+September,2014,Office Supplies,Supplies,16.735800000000005
+October,2014,Office Supplies,Supplies,13.72300000000003
+November,2014,Office Supplies,Supplies,-46.07130000000001
+December,2014,Office Supplies,Supplies,13.143500000000003
+January,2016,Office Supplies,Supplies,10.007999999999988
+February,2016,Office Supplies,Supplies,
+March,2016,Office Supplies,Supplies,8.6736
+April,2016,Office Supplies,Supplies,1.1163999999999996
+May,2016,Office Supplies,Supplies,40.132999999999996
+June,2016,Office Supplies,Supplies,
+July,2016,Office Supplies,Supplies,15.776999999999996
+August,2016,Office Supplies,Supplies,6.401600000000002
+September,2016,Office Supplies,Supplies,-135.84810000000002
+October,2016,Office Supplies,Supplies,30.012599999999992
+November,2016,Office Supplies,Supplies,-0.4065000000000012
+December,2016,Office Supplies,Supplies,-0.7460000000000011
+January,2014,Technology,Accessories,334.42400000000004
+February,2014,Technology,Accessories,467.8996000000001
+March,2014,Technology,Accessories,322.2499
+April,2014,Technology,Accessories,736.1707
+May,2014,Technology,Accessories,151.70069999999996
+June,2014,Technology,Accessories,150.58410000000003
+July,2014,Technology,Accessories,518.593
+August,2014,Technology,Accessories,597.9694
+September,2014,Technology,Accessories,569.0499
+October,2014,Technology,Accessories,323.5639999999999
+November,2014,Technology,Accessories,755.4955999999996
+December,2014,Technology,Accessories,1475.0140999999996
+January,2016,Technology,Accessories,91.34579999999998
+February,2016,Technology,Accessories,263.2083999999999
+March,2016,Technology,Accessories,315.9495999999999
+April,2016,Technology,Accessories,396.0330999999999
+May,2016,Technology,Accessories,274.37
+June,2016,Technology,Accessories,567.7805
+July,2016,Technology,Accessories,1519.9988999999998
+August,2016,Technology,Accessories,214.0675999999999
+September,2016,Technology,Accessories,1365.3952999999997
+October,2016,Technology,Accessories,560.2667999999999
+November,2016,Technology,Accessories,1444.2319
+December,2016,Technology,Accessories,3184.6273000000006
+January,2014,Technology,Copiers,
+February,2014,Technology,Copiers,
+March,2014,Technology,Copiers,
+April,2014,Technology,Copiers,
+May,2014,Technology,Copiers,464.98850000000004
+June,2014,Technology,Copiers,
+July,2014,Technology,Copiers,174.99749999999997
+August,2014,Technology,Copiers,709.9863
+September,2014,Technology,Copiers,701.9883
+October,2014,Technology,Copiers,624.9875
+November,2014,Technology,Copiers,
+December,2014,Technology,Copiers,235.9951999999999
+January,2016,Technology,Copiers,
+February,2016,Technology,Copiers,
+March,2016,Technology,Copiers,1858.4616999999998
+April,2016,Technology,Copiers,911.9713999999999
+May,2016,Technology,Copiers,1014.9797
+June,2016,Technology,Copiers,314.9895
+July,2016,Technology,Copiers,
+August,2016,Technology,Copiers,874.9874999999998
+September,2016,Technology,Copiers,725.9864
+October,2016,Technology,Copiers,326.9889
+November,2016,Technology,Copiers,673.9881
+December,2016,Technology,Copiers,3227.9455999999996
+January,2014,Technology,Machines,
+February,2014,Technology,Machines,
+March,2014,Technology,Machines,-1255.4678000000022
+April,2014,Technology,Machines,97.18919999999999
+May,2014,Technology,Machines,
+June,2014,Technology,Machines,-239.20659999999998
+July,2014,Technology,Machines,
+August,2014,Technology,Machines,
+September,2014,Technology,Machines,-2626.1293000000032
+October,2014,Technology,Machines,-71.39579999999998
+November,2014,Technology,Machines,1936.21
+December,2014,Technology,Machines,2527.9691999999995
+January,2016,Technology,Machines,-734.4027000000003
+February,2016,Technology,Machines,
+March,2016,Technology,Machines,
+April,2016,Technology,Machines,672.8543
+May,2016,Technology,Machines,254.59049999999957
+June,2016,Technology,Machines,
+July,2016,Technology,Machines,209.23649999999998
+August,2016,Technology,Machines,1539.6718999999998
+September,2016,Technology,Machines,296.0671
+October,2016,Technology,Machines,223.31259999999997
+November,2016,Technology,Machines,3453.7979999999993
+December,2016,Technology,Machines,-2937.6426000000006
+January,2014,Technology,Phones,521.3496
+February,2014,Technology,Phones,97.62609999999998
+March,2014,Technology,Phones,1290.1895000000004
+April,2014,Technology,Phones,1100.8866000000003
+May,2014,Technology,Phones,724.6936
+June,2014,Technology,Phones,1437.3990000000001
+July,2014,Technology,Phones,572.6973999999998
+August,2014,Technology,Phones,579.0768999999996
+September,2014,Technology,Phones,1125.0527
+October,2014,Technology,Phones,1204.2964999999997
+November,2014,Technology,Phones,2486.3610999999996
+December,2014,Technology,Phones,668.3762999999998
+January,2016,Technology,Phones,-213.64700000000005
+February,2016,Technology,Phones,341.6458
+March,2016,Technology,Phones,694.7809999999997
+April,2016,Technology,Phones,390.62760000000003
+May,2016,Technology,Phones,491.73019999999985
+June,2016,Technology,Phones,670.0604999999998
+July,2016,Technology,Phones,770.7238
+August,2016,Technology,Phones,1005.7991999999999
+September,2016,Technology,Phones,2433.7116999999994
+October,2016,Technology,Phones,1221.3765
+November,2016,Technology,Phones,1110.7174999999997
+December,2016,Technology,Phones,1481.2805999999996
