@@ -1,0 +1,18 @@
+Orders.State,Orders.Category,Orders.Sub-Category,Sum(Orders.Profit),Sum(Orders.Quantity),Sum(Orders.Sales),Sum(Orders.Discount)
+Alabama,Technology,Copiers,314.9895,3,899.97,0
+Alabama,Technology,Phones,707.1788000000001,18,2706.2799999999997,0
+Alabama,Technology,Accessories,816.4346,24,2322.83,0
+Alabama,Technology,Machines,1459.2,8,3040,0
+Alabama,Office Supplies,Paper,424.21239999999995,29,883.0199999999999,0
+Alabama,Office Supplies,Binders,227.76879999999997,41,466.82000000000005,0
+Alabama,Office Supplies,Storage,147.85639999999998,14,1249.4099999999999,0
+Alabama,Office Supplies,Appliances,56.20320000000001,1,208.16,0
+Alabama,Office Supplies,Envelopes,52.62479999999999,11,105.83999999999999,0
+Alabama,Office Supplies,Art,88.53439999999998,38,301.21,0
+Alabama,Office Supplies,Labels,247.7319,8,506.49,0
+Alabama,Office Supplies,Fasteners,1.1945999999999999,2,3.62,0
+Alabama,Office Supplies,Supplies,11.50770000000001,5,484.51,0
+Alabama,Furniture,Chairs,660.9663999999999,30,3915.54,0
+Alabama,Furniture,Furnishings,14.348799999999999,12,40.480000000000004,0
+Alabama,Furniture,Bookcases,,,,
+Alabama,Furniture,Tables,556.0730000000001,12,2376.46,0
