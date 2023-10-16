@@ -1,0 +1,5 @@
+Region Master.Region,Category Master.Category,Values.2019 Actuals,Values.2020 Plan,Values.2020 Actuals,Min(Returns.Column1)
+International,Beverages,2262804479.11,2210786212.2,2303051349.54,Returned
+United States,Beverages,3792673568.36,3757751170.6500006,3862375538.75,Returned
+International,Water,337897069.95,334005608.75,340004943.43,Returned
+United States,Water,592508972.85,589222683.8299999,590428508.1899999,Returned
