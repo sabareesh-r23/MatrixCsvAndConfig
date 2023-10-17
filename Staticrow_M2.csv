@@ -1,77 +1,77 @@
-Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Country,Orders.Region,Orders.Ship Mode,Sum(Orders.Sales),Sum(Orders.Discount)
-Qtr 1,United States,Central,First Class,10508.174399999996,8.580000000000002
-Qtr 2,United States,Central,First Class,11648.4932,15.920000000000005
-Qtr 3,United States,Central,First Class,12092.177799999996,28.82000000000002
-Qtr 4,United States,Central,First Class,24498.06999999999,26.100000000000012
-Qtr 1,United States,Central,Same Day,3458.9140000000007,4.999999999999999
-Qtr 2,United States,Central,Same Day,2904.592,3.2
-Qtr 3,United States,Central,Same Day,2152.712,6.8999999999999995
-Qtr 4,United States,Central,Same Day,11899.192000000001,11.8
-Qtr 1,United States,Central,Second Class,18199.79559999999,12.920000000000003
-Qtr 2,United States,Central,Second Class,30870.993399999985,29.420000000000027
-Qtr 3,United States,Central,Second Class,27691.379599999997,25.220000000000006
-Qtr 4,United States,Central,Second Class,26787.836799999997,37.04000000000001
-Qtr 1,United States,Central,Standard Class,48943.917799999974,57.73999999999991
-Qtr 2,United States,Central,Standard Class,49660.41500000003,85.7599999999998
-Qtr 3,United States,Central,Standard Class,92569.88679999993,81.25999999999985
-Qtr 4,United States,Central,Standard Class,127353.34040000007,122.65999999999973
-Qtr 1,United States,Central,Third Class,,
-Qtr 2,United States,Central,Third Class,,
-Qtr 3,United States,Central,Third Class,,
-Qtr 4,United States,Central,Third Class,737.2339999999999,1.6
-Qtr 1,United States,East,First Class,9219.731000000002,6.4
-Qtr 2,United States,East,First Class,18986.849000000006,17.1
-Qtr 3,United States,East,First Class,35992.13199999998,27.399999999999988
-Qtr 4,United States,East,First Class,49388.340999999986,25.599999999999984
-Qtr 1,United States,East,Same Day,3830.063,3
-Qtr 2,United States,East,Same Day,6136.9000000000015,2.8
-Qtr 3,United States,East,Same Day,15491.996000000006,9.7
-Qtr 4,United States,East,Same Day,17867.873,10.100000000000001
-Qtr 1,United States,East,Second Class,12596.658,14.200000000000005
-Qtr 2,United States,East,Second Class,11516.304999999997,11.099999999999998
-Qtr 3,United States,East,Second Class,41294.16500000003,22.09999999999999
-Qtr 4,United States,East,Second Class,51138.395999999986,22.6
-Qtr 1,United States,East,Standard Class,40905.28099999997,30.699999999999974
-Qtr 2,United States,East,Standard Class,90805.47599999995,58.7
-Qtr 3,United States,East,Standard Class,94990.54599999997,67.90000000000003
-Qtr 4,United States,East,Standard Class,178620.5280000001,84.60000000000001
-Qtr 1,United States,South,First Class,4760.968000000001,4.8
-Qtr 2,United States,South,First Class,14031.795000000006,12.199999999999998
-Qtr 3,United States,South,First Class,8364.497999999998,6.700000000000002
-Qtr 4,United States,South,First Class,22175.304999999982,10.6
-Qtr 1,United States,South,Same Day,5118.007000000001,1.5
-Qtr 2,United States,South,Same Day,3791.1510000000003,2.0999999999999996
-Qtr 3,United States,South,Same Day,1668.624,2.8999999999999995
-Qtr 4,United States,South,Same Day,10439.390999999998,4.800000000000001
-Qtr 1,United States,South,Second Class,26557.138000000003,2.9999999999999996
-Qtr 2,United States,South,Second Class,13298.94,6.300000000000002
-Qtr 3,United States,South,Second Class,12882.222499999998,11.15
-Qtr 4,United States,South,Second Class,41020.31199999996,15.699999999999996
-Qtr 1,United States,South,Standard Class,61846.41499999999,24.89999999999998
-Qtr 2,United States,South,Standard Class,55363.66399999996,36.19999999999999
-Qtr 3,United States,South,Standard Class,60115.25450000003,35.199999999999974
-Qtr 4,United States,South,Standard Class,50288.22000000001,60.50000000000004
-Qtr 1,United States,South,Third Class,,
-Qtr 2,United States,South,Third Class,15.552000000000003,0.2
-Qtr 3,United States,South,Third Class,,
-Qtr 4,United States,South,Third Class,,
-Qtr 1,United States,West,First Class,39125.44799999999,6.5500000000000025
-Qtr 2,United States,West,First Class,24276.674000000006,12.399999999999999
-Qtr 3,United States,West,First Class,20137.677,13.449999999999998
-Qtr 4,United States,West,First Class,46222.089499999995,30.549999999999944
-Qtr 1,United States,West,Same Day,965.9840000000002,1.3
-Qtr 2,United States,West,Same Day,6546.413,3.8499999999999996
-Qtr 3,United States,West,Same Day,21985.493999999995,7.000000000000003
-Qtr 4,United States,West,Same Day,14105.819000000009,6.800000000000003
-Qtr 1,United States,West,Second Class,23739.482000000004,9.250000000000002
-Qtr 2,United States,West,Second Class,24153.351999999988,8.000000000000004
-Qtr 3,United States,West,Second Class,45189.78499999998,15.549999999999981
-Qtr 4,United States,West,Second Class,52256.808499999956,26.59999999999995
-Qtr 1,United States,West,Standard Class,49905.599,19.04999999999997
-Qtr 2,United States,West,Standard Class,81517.60700000002,42.24999999999997
-Qtr 3,United States,West,Standard Class,121313.5555000001,65.80000000000021
-Qtr 4,United States,West,Standard Class,154016.03699999995,81.8000000000004
-Qtr 1,United States,West,Third Class,,
-Qtr 2,United States,West,Third Class,911.424,0.2
-Qtr 3,United States,West,Third Class,,
-Qtr 4,United States,West,Third Class,407.97600000000006,0.2
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Country,Orders.Region,Orders.Ship Mode,Sum(Orders.Sales),Sum(Orders.Discount)
+2014,United States,Central,First Class,14258.143999999998,18.000000000000007
+2015,United States,Central,First Class,11861.197000000002,10.740000000000002
+2016,United States,Central,First Class,8835.470800000003,17.540000000000006
+2017,United States,Central,First Class,23792.103600000002,33.14000000000002
+2014,United States,Central,Same Day,866.2679999999999,3.5999999999999996
+2015,United States,Central,Same Day,6416.216000000001,9.299999999999999
+2016,United States,Central,Same Day,4980.1900000000005,3.3999999999999995
+2017,United States,Central,Same Day,8152.736000000004,10.600000000000001
+2014,United States,Central,Second Class,20523.795999999995,21.700000000000006
+2015,United States,Central,Second Class,22464.6214,22.14000000000001
+2016,United States,Central,Second Class,28272.813599999998,28.24000000000001
+2017,United States,Central,Second Class,32288.77439999999,32.520000000000024
+2014,United States,Central,Standard Class,68189.95660000003,80.15999999999995
+2015,United States,Central,Standard Class,62132.187600000005,72.35999999999999
+2016,United States,Central,Standard Class,105340.90160000001,84.73999999999995
+2017,United States,Central,Standard Class,82864.51419999998,110.15999999999988
+2014,United States,Central,Third Class,665.88,0
+2015,United States,Central,Third Class,71.35399999999998,1.6
+2016,United States,Central,Third Class,,
+2017,United States,Central,Third Class,,
+2014,United States,East,First Class,14940.817999999996,10.099999999999998
+2015,United States,East,First Class,29348.97800000001,18.299999999999997
+2016,United States,East,First Class,25457.485000000008,17.399999999999995
+2017,United States,East,First Class,43839.771999999975,30.699999999999978
+2014,United States,East,Same Day,9784.053000000002,5.6000000000000005
+2015,United States,East,Same Day,13564.115000000002,5.2
+2016,United States,East,Same Day,10016.957000000004,7.300000000000002
+2017,United States,East,Same Day,9961.706999999999,7.500000000000001
+2014,United States,East,Second Class,24921.157000000003,15.599999999999998
+2015,United States,East,Second Class,27315.500000000004,12.4
+2016,United States,East,Second Class,24284.354000000007,21.9
+2017,United States,East,Second Class,40024.51300000002,20.099999999999998
+2014,United States,East,Standard Class,79034.42899999997,50.40000000000004
+2015,United States,East,Standard Class,86103.46399999999,50.90000000000007
+2016,United States,East,Standard Class,120927.02599999993,62.800000000000026
+2017,United States,East,Standard Class,119256.91199999998,77.80000000000003
+2014,United States,South,First Class,9612.348,6.100000000000001
+2015,United States,South,First Class,9085.404000000002,7.800000000000002
+2016,United States,South,First Class,12409.866,7.800000000000002
+2017,United States,South,First Class,18224.948000000004,12.6
+2014,United States,South,Same Day,2604.127,2.0999999999999996
+2015,United States,South,Same Day,1054.952,2.1999999999999997
+2016,United States,South,Same Day,6807.395000000001,2.8999999999999995
+2017,United States,South,Same Day,10550.698999999999,4.1
+2014,United States,South,Second Class,19074.69649999999,5.950000000000002
+2015,United States,South,Second Class,13127.608000000002,5.1000000000000005
+2016,United States,South,Second Class,30563.462999999985,12.599999999999998
+2017,United States,South,Second Class,30992.844999999983,12.499999999999996
+2014,United States,South,Standard Class,72554.67199999998,27.899999999999967
+2015,United States,South,Standard Class,48092.016499999976,38.25
+2016,United States,South,Standard Class,43829.4995,39.34999999999999
+2017,United States,South,Standard Class,63137.36549999996,51.30000000000002
+2014,United States,South,Third Class,,
+2015,United States,South,Third Class,,
+2016,United States,South,Third Class,,
+2017,United States,South,Third Class,15.552000000000003,0.2
+2014,United States,West,First Class,20957.9545,11.249999999999996
+2015,United States,West,First Class,18963.859999999997,9.45
+2016,United States,West,First Class,35562.520999999986,19.449999999999996
+2017,United States,West,First Class,54277.55299999998,22.799999999999986
+2014,United States,West,Same Day,4215.685999999999,3.6500000000000004
+2015,United States,West,Same Day,6576.206999999999,3.05
+2016,United States,West,Same Day,12701.219000000003,5.950000000000002
+2017,United States,West,Same Day,20110.598,6.3000000000000025
+2014,United States,West,Second Class,36867.1305,12.25
+2015,United States,West,Second Class,26194.99599999999,14.249999999999996
+2016,United States,West,Second Class,36881.810000000005,13.899999999999995
+2017,United States,West,Second Class,45395.49099999997,19
+2014,United States,West,Standard Class,85842.26200000002,41.10000000000002
+2015,United States,West,Standard Class,88231.18650000001,45.65000000000002
+2016,United States,West,Standard Class,102334.6265,55.050000000000104
+2017,United States,West,Standard Class,130344.72349999993,67.10000000000011
+2014,United States,West,Third Class,911.424,0.2
+2015,United States,West,Third Class,,
+2016,United States,West,Third Class,407.97600000000006,0.2
+2017,United States,West,Third Class,,
