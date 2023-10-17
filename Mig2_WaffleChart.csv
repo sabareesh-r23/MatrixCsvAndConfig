@@ -1,0 +1,52 @@
+Orders.Region,Orders.Category,Orders.Sub-Category,CountNonNull(Orders.Postal Code),Sum(Orders.Sales)
+Central,Technology,Phones,200,72403.282
+East,Technology,Phones,272,100614.9820000001
+South,Technology,Phones,140,58304.437999999995
+Central,Technology,Machines,21,26797.384
+East,Technology,Machines,37,66106.165
+South,Technology,Machines,18,53890.95999999999
+Central,Technology,Accessories,183,33956.076
+East,Technology,Accessories,206,45033.371999999974
+South,Technology,Accessories,128,27276.753999999994
+Central,Technology,Copiers,16,37259.56999999999
+East,Technology,Copiers,20,53219.46200000001
+South,Technology,Copiers,7,9299.756
+Central,Furniture,Chairs,154,85230.64599999994
+East,Furniture,Chairs,168,96260.683
+South,Furniture,Chairs,88,45176.44599999998
+Central,Furniture,Tables,72,39154.97100000002
+East,Furniture,Tables,80,39139.80700000001
+South,Furniture,Tables,51,43916.192
+Central,Furniture,Bookcases,50,24157.176799999994
+East,Furniture,Bookcases,70,43819.33399999998
+South,Furniture,Bookcases,28,10899.362
+Central,Furniture,Furnishings,205,15254.369999999977
+East,Furniture,Furnishings,283,29071.37999999999
+South,Furniture,Furnishings,165,17306.684
+Central,Office Supplies,Storage,210,45930.111999999994
+East,Office Supplies,Storage,242,71612.58400000003
+South,Office Supplies,Storage,128,35768.059999999976
+Central,Office Supplies,Binders,366,56923.28199999998
+East,Office Supplies,Binders,440,53497.99699999999
+South,Office Supplies,Binders,246,37030.34100000001
+Central,Office Supplies,Appliances,123,23582.03299999998
+East,Office Supplies,Appliances,126,34188.46599999999
+South,Office Supplies,Appliances,81,19525.325999999997
+Central,Office Supplies,Paper,321,17491.902000000002
+East,Office Supplies,Paper,378,20172.60199999997
+South,Office Supplies,Paper,221,14150.983999999997
+Central,Office Supplies,Supplies,36,9467.372
+East,Office Supplies,Supplies,56,10760.116
+South,Office Supplies,Supplies,29,8318.928
+Central,Office Supplies,Art,176,5765.339999999999
+East,Office Supplies,Art,228,7485.7639999999965
+South,Office Supplies,Art,142,4655.622000000002
+Central,Office Supplies,Envelopes,59,4636.872
+East,Office Supplies,Envelopes,74,4375.874
+South,Office Supplies,Envelopes,54,3345.5560000000014
+Central,Office Supplies,Labels,76,2451.472
+East,Office Supplies,Labels,107,2602.9339999999997
+South,Office Supplies,Labels,65,2353.1799999999994
+Central,Office Supplies,Fasteners,55,778.0300000000002
+East,Office Supplies,Fasteners,61,819.7179999999998
+South,Office Supplies,Fasteners,29,503.31599999999986
