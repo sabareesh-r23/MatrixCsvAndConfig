@@ -1,0 +1,18 @@
+Superstore 2023.Category,Superstore 2023.Sub-Category,Superstore 2023.ProfitM,Sum(Superstore 2023.Sales)
+Technology,Phones,44515.7306,330007.054
+Technology,Machines,3384.7569,189238.631
+Technology,Accessories,41936.6357,167380.318
+Technology,Copiers,55617.8249,149528.03
+Furniture,Chairs,26590.1663,328449.103
+Furniture,Tables,-17725.4811,206965.532
+Furniture,Bookcases,-3472.556,114879.9963
+Furniture,Furnishings,13059.1436,91705.164
+Office Supplies,Storage,21278.8264,223843.608
+Office Supplies,Binders,30221.7633,203412.733
+Office Supplies,Appliances,18138.0054,107532.161
+Office Supplies,Paper,34053.5693,78479.206
+Office Supplies,Supplies,-1189.0995,46673.538
+Office Supplies,Art,6527.787,27118.792
+Office Supplies,Envelopes,6964.1767,16476.402
+Office Supplies,Labels,5546.254,12486.312
+Office Supplies,Fasteners,949.5182,3024.28
