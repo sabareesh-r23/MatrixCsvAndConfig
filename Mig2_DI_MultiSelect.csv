@@ -1,0 +1,205 @@
+Orders.Sub-Category,Orders.Category,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Order Date.Variation.Date Hierarchy.Month,Sum(Orders.Discount),Sum(Orders.Sales)
+Bookcases,Furniture,Qtr 1,January,2.52,5352.3586
+Chairs,Furniture,Qtr 1,January,2.6999999999999997,11285.169000000002
+Furnishings,Furniture,Qtr 1,January,4,3979.6220000000003
+Tables,Furniture,Qtr 1,January,3.4999999999999996,10952.092
+Appliances,Office Supplies,Qtr 1,January,2.5,3176.2439999999997
+Art,Office Supplies,Qtr 1,January,2.8000000000000003,914.3699999999999
+Binders,Office Supplies,Qtr 1,January,21.1,12214.201
+Envelopes,Office Supplies,Qtr 1,January,0.8,749.8960000000001
+Fasteners,Office Supplies,Qtr 1,January,0.2,87.66
+Labels,Office Supplies,Qtr 1,January,1,206.66600000000003
+Paper,Office Supplies,Qtr 1,January,2.8000000000000003,2263.6219999999994
+Storage,Office Supplies,Qtr 1,January,1.2,9217.802000000001
+Supplies,Office Supplies,Qtr 1,January,0.4,4403.37
+Accessories,Technology,Qtr 1,January,2.6,5477.906
+Copiers,Technology,Qtr 1,January,0.2,3959.9179999999997
+Machines,Technology,Qtr 1,January,1.6,7214.631
+Phones,Technology,Qtr 1,January,7.200000000000003,13469.308000000005
+Bookcases,Furniture,Qtr 1,February,0.8700000000000001,1649.6234
+Chairs,Furniture,Qtr 1,February,2.8,7582.9400000000005
+Furnishings,Furniture,Qtr 1,February,5.199999999999999,2315.6739999999995
+Tables,Furniture,Qtr 1,February,2.4,4217.683
+Appliances,Office Supplies,Qtr 1,February,2.4000000000000004,4932.986000000001
+Art,Office Supplies,Qtr 1,February,1.5999999999999999,1117.5140000000001
+Binders,Office Supplies,Qtr 1,February,16.600000000000005,4236.981
+Envelopes,Office Supplies,Qtr 1,February,0.6000000000000001,668.566
+Fasteners,Office Supplies,Qtr 1,February,0.8,159.312
+Labels,Office Supplies,Qtr 1,February,0.4,299.882
+Paper,Office Supplies,Qtr 1,February,2.4,2812.658000000001
+Storage,Office Supplies,Qtr 1,February,1.4,6124.663999999999
+Supplies,Office Supplies,Qtr 1,February,0,289.35
+Accessories,Technology,Qtr 1,February,1.5999999999999999,5369.276000000001
+Copiers,Technology,Qtr 1,February,,
+Machines,Technology,Qtr 1,February,0.2,8989.934000000001
+Phones,Technology,Qtr 1,February,4.6000000000000005,8984.207999999999
+Bookcases,Furniture,Qtr 1,March,4.8,7351.915800000001
+Chairs,Furniture,Qtr 1,March,7.699999999999997,21344.327000000005
+Furnishings,Furniture,Qtr 1,March,6.999999999999999,5159.046
+Tables,Furniture,Qtr 1,March,5.999999999999999,16912.986999999997
+Appliances,Office Supplies,Qtr 1,March,6.299999999999999,6733.628
+Art,Office Supplies,Qtr 1,March,3.800000000000001,1301.9739999999995
+Binders,Office Supplies,Qtr 1,March,35.19999999999999,13888.735
+Envelopes,Office Supplies,Qtr 1,March,1.2,1656.518
+Fasteners,Office Supplies,Qtr 1,March,1.4,149.636
+Labels,Office Supplies,Qtr 1,March,1.9999999999999998,940.108
+Paper,Office Supplies,Qtr 1,March,6.800000000000003,6285.532
+Storage,Office Supplies,Qtr 1,March,4.400000000000001,14792.767999999996
+Supplies,Office Supplies,Qtr 1,March,0.6000000000000001,10636.743999999999
+Accessories,Technology,Qtr 1,March,3.800000000000001,8766.637999999999
+Copiers,Technology,Qtr 1,March,1,25589.736
+Machines,Technology,Qtr 1,March,3.3000000000000003,35051.904
+Phones,Technology,Qtr 1,March,12.600000000000009,28443.292
+Bookcases,Furniture,Qtr 2,April,2.5199999999999996,4720.480599999999
+Chairs,Furniture,Qtr 2,April,6.599999999999998,18526.585
+Furnishings,Furniture,Qtr 2,April,7.999999999999999,7538.361999999999
+Tables,Furniture,Qtr 2,April,5.449999999999999,9913.155999999999
+Appliances,Office Supplies,Qtr 2,April,7.199999999999999,6041.785999999999
+Art,Office Supplies,Qtr 2,April,5.000000000000002,2407.1600000000008
+Binders,Office Supplies,Qtr 2,April,41.89999999999995,13364.853999999998
+Envelopes,Office Supplies,Qtr 2,April,0.6000000000000001,945.282
+Fasteners,Office Supplies,Qtr 2,April,1.9999999999999998,258.404
+Labels,Office Supplies,Qtr 2,April,1.7999999999999998,430.032
+Paper,Office Supplies,Qtr 2,April,6.400000000000003,3964.1439999999993
+Storage,Office Supplies,Qtr 2,April,6.200000000000003,15805.663999999995
+Supplies,Office Supplies,Qtr 2,April,0.8,6215.9439999999995
+Accessories,Technology,Qtr 2,April,4.200000000000001,7951.708
+Copiers,Technology,Qtr 2,April,0.6000000000000001,3879.892
+Machines,Technology,Qtr 2,April,1.3,18189.763
+Phones,Technology,Qtr 2,April,8.400000000000004,17608.912
+Bookcases,Furniture,Qtr 2,May,3.539999999999999,6289.5817
+Chairs,Furniture,Qtr 2,May,9.200000000000001,25893.829999999998
+Furnishings,Furniture,Qtr 2,May,11.199999999999996,6893.428000000003
+Tables,Furniture,Qtr 2,May,4.1499999999999995,9288.291
+Appliances,Office Supplies,Qtr 2,May,6.6,7525.95
+Art,Office Supplies,Qtr 2,May,4.400000000000001,2230.8300000000004
+Binders,Office Supplies,Qtr 2,May,44.999999999999936,9159.443999999996
+Envelopes,Office Supplies,Qtr 2,May,1.4,1096.06
+Fasteners,Office Supplies,Qtr 2,May,1.5999999999999999,109.30199999999999
+Labels,Office Supplies,Qtr 2,May,2.4,863.118
+Paper,Office Supplies,Qtr 2,May,9,6213.21
+Storage,Office Supplies,Qtr 2,May,4.400000000000001,14669.976000000002
+Supplies,Office Supplies,Qtr 2,May,0.8,1153.636
+Accessories,Technology,Qtr 2,May,4.400000000000001,9613.099999999999
+Copiers,Technology,Qtr 2,May,2,18399.79
+Machines,Technology,Qtr 2,May,2.1,11267.722999999998
+Phones,Technology,Qtr 2,May,9.400000000000006,24361.541999999994
+Bookcases,Furniture,Qtr 2,June,3.2399999999999993,9147.6293
+Chairs,Furniture,Qtr 2,June,6.599999999999997,21523.367
+Furnishings,Furniture,Qtr 2,June,11.399999999999997,5923.473999999999
+Tables,Furniture,Qtr 2,June,6.5,16404.992999999995
+Appliances,Office Supplies,Qtr 2,June,7.099999999999999,7479.46
+Art,Office Supplies,Qtr 2,June,4.200000000000001,2217.6960000000004
+Binders,Office Supplies,Qtr 2,June,41.29999999999996,13286.761000000002
+Envelopes,Office Supplies,Qtr 2,June,1.2,513.7579999999999
+Fasteners,Office Supplies,Qtr 2,June,0.6000000000000001,115.50399999999999
+Labels,Office Supplies,Qtr 2,June,1.9999999999999998,1207.01
+Paper,Office Supplies,Qtr 2,June,10.199999999999996,6722.1939999999995
+Storage,Office Supplies,Qtr 2,June,5.000000000000002,18605.662
+Supplies,Office Supplies,Qtr 2,June,0.6000000000000001,1266.5880000000004
+Accessories,Technology,Qtr 2,June,3.800000000000001,8908.384000000002
+Copiers,Technology,Qtr 2,June,0,899.97
+Machines,Technology,Qtr 2,June,2.8,12182.525
+Phones,Technology,Qtr 2,June,10.200000000000005,26313.703999999998
+Bookcases,Furniture,Qtr 3,July,3.3,8588.983
+Chairs,Furniture,Qtr 3,July,10.100000000000003,23016.351000000002
+Furnishings,Furniture,Qtr 3,July,8.999999999999998,7609.052000000002
+Tables,Furniture,Qtr 3,July,4.8999999999999995,10162.625999999998
+Appliances,Office Supplies,Qtr 3,July,5.1,3823.2540000000004
+Art,Office Supplies,Qtr 3,July,4.200000000000001,2065.94
+Binders,Office Supplies,Qtr 3,July,40.09999999999996,8557.349
+Envelopes,Office Supplies,Qtr 3,July,0.6000000000000001,1200.0800000000002
+Fasteners,Office Supplies,Qtr 3,July,1,181.50799999999995
+Labels,Office Supplies,Qtr 3,July,1.4,1692.0159999999998
+Paper,Office Supplies,Qtr 3,July,7.400000000000004,4180.200000000001
+Storage,Office Supplies,Qtr 3,July,6.400000000000003,12490.796000000004
+Supplies,Office Supplies,Qtr 3,July,1.4,8815.916
+Accessories,Technology,Qtr 3,July,1.9999999999999998,17126.417999999998
+Copiers,Technology,Qtr 3,July,1.6,9779.792000000001
+Machines,Technology,Qtr 3,July,1.7999999999999998,4064.768
+Phones,Technology,Qtr 3,July,11.800000000000008,23883.048
+Bookcases,Furniture,Qtr 3,August,3.09,5621.545000000001
+Chairs,Furniture,Qtr 3,August,4.699999999999999,18339.804
+Furnishings,Furniture,Qtr 3,August,7.199999999999998,4033.594000000001
+Tables,Furniture,Qtr 3,August,7.800000000000002,16889.102
+Appliances,Office Supplies,Qtr 3,August,4.9,13061.658999999998
+Art,Office Supplies,Qtr 3,August,3.2000000000000006,1690.1339999999998
+Binders,Office Supplies,Qtr 3,August,41.19999999999995,20430.013
+Envelopes,Office Supplies,Qtr 3,August,1.4,701.08
+Fasteners,Office Supplies,Qtr 3,August,1.5999999999999999,243.25000000000003
+Labels,Office Supplies,Qtr 3,August,2.4,876.472
+Paper,Office Supplies,Qtr 3,August,9.599999999999998,6523.164000000002
+Storage,Office Supplies,Qtr 3,August,4.000000000000001,17742.822000000004
+Supplies,Office Supplies,Qtr 3,August,2.6,865.5679999999999
+Accessories,Technology,Qtr 3,August,3.400000000000001,12376.144
+Copiers,Technology,Qtr 3,August,0.6000000000000001,5729.9000000000015
+Machines,Technology,Qtr 3,August,1.2000000000000002,6261.509999999999
+Phones,Technology,Qtr 3,August,10.000000000000005,27658.301999999985
+Bookcases,Furniture,Qtr 3,September,6.01,23372.530699999996
+Chairs,Furniture,Qtr 3,September,14.300000000000006,51577.218
+Furnishings,Furniture,Qtr 3,September,14.4,11804.909999999996
+Tables,Furniture,Qtr 3,September,8.850000000000005,19625.932
+Appliances,Office Supplies,Qtr 3,September,8.7,10193.027999999998
+Art,Office Supplies,Qtr 3,September,9.2,3660.3699999999994
+Binders,Office Supplies,Qtr 3,September,82.29999999999998,37343.50800000005
+Envelopes,Office Supplies,Qtr 3,September,4.200000000000001,2176.550000000001
+Fasteners,Office Supplies,Qtr 3,September,1.9999999999999998,405.6940000000001
+Labels,Office Supplies,Qtr 3,September,4.200000000000001,1496.2959999999998
+Paper,Office Supplies,Qtr 3,September,13.599999999999984,10689.555999999997
+Storage,Office Supplies,Qtr 3,September,7.600000000000004,29487.467999999993
+Supplies,Office Supplies,Qtr 3,September,1.4,6436.176000000001
+Accessories,Technology,Qtr 3,September,8.600000000000001,24900.353999999992
+Copiers,Technology,Qtr 3,September,1.2,10319.742000000002
+Machines,Technology,Qtr 3,September,6.500000000000002,26385.656999999996
+Phones,Technology,Qtr 3,September,13.000000000000005,37774.956
+Bookcases,Furniture,Qtr 4,October,4.42,8246.9432
+Chairs,Furniture,Qtr 4,October,8.700000000000001,24170.45
+Furnishings,Furniture,Qtr 4,October,11.199999999999998,5447.186000000002
+Tables,Furniture,Qtr 4,October,11.350000000000003,20222.936500000003
+Appliances,Office Supplies,Qtr 4,October,5.199999999999999,9151.597
+Art,Office Supplies,Qtr 4,October,5.000000000000002,1923.0560000000014
+Binders,Office Supplies,Qtr 4,October,45.09999999999994,18076.629000000004
+Envelopes,Office Supplies,Qtr 4,October,2.1999999999999997,1403.156
+Fasteners,Office Supplies,Qtr 4,October,1,325.762
+Labels,Office Supplies,Qtr 4,October,1.4,1248.4779999999998
+Paper,Office Supplies,Qtr 4,October,9.599999999999998,4996.883999999998
+Storage,Office Supplies,Qtr 4,October,5.400000000000002,17239.87
+Supplies,Office Supplies,Qtr 4,October,1.2,838.0920000000001
+Accessories,Technology,Qtr 4,October,5.8000000000000025,12927.141999999996
+Copiers,Technology,Qtr 4,October,0.8,37019.755999999994
+Machines,Technology,Qtr 4,October,3.2,10613.093000000003
+Phones,Technology,Qtr 4,October,11.600000000000003,26471.95399999999
+Bookcases,Furniture,Qtr 4,November,7.170000000000003,23561.0205
+Chairs,Furniture,Qtr 4,November,16.700000000000017,47760.01299999999
+Furnishings,Furniture,Qtr 4,November,20.60000000000001,16782.539999999994
+Tables,Furniture,Qtr 4,November,10.200000000000005,33182.4755
+Appliances,Office Supplies,Qtr 4,November,8.9,18969.931999999997
+Art,Office Supplies,Qtr 4,November,7.200000000000004,3954.034
+Binders,Office Supplies,Qtr 4,November,87.59999999999997,20857.650999999994
+Envelopes,Office Supplies,Qtr 4,November,3.2000000000000006,2907.128
+Fasteners,Office Supplies,Qtr 4,November,3.600000000000001,550.0079999999999
+Labels,Office Supplies,Qtr 4,November,3.800000000000001,1850.202
+Paper,Office Supplies,Qtr 4,November,12.999999999999986,12577.919999999995
+Storage,Office Supplies,Qtr 4,November,9,37023.148
+Supplies,Office Supplies,Qtr 4,November,3.0000000000000004,1350.1580000000001
+Accessories,Technology,Qtr 4,November,10.599999999999994,25956.732000000015
+Copiers,Technology,Qtr 4,November,1.2000000000000002,15149.884
+Machines,Technology,Qtr 4,November,6.500000000000002,33807.299000000006
+Phones,Technology,Qtr 4,November,20.599999999999973,56220.92599999998
+Bookcases,Furniture,Qtr 4,December,6.660000000000002,10977.384499999998
+Chairs,Furniture,Qtr 4,December,14.900000000000015,57429.048999999985
+Furnishings,Furniture,Qtr 4,December,23.200000000000017,14218.275999999996
+Tables,Furniture,Qtr 4,December,12.250000000000004,39193.25799999999
+Appliances,Office Supplies,Qtr 4,December,12.700000000000005,16442.637000000002
+Art,Office Supplies,Qtr 4,December,9,3635.7140000000004
+Binders,Office Supplies,Qtr 4,December,69.59999999999998,31996.60699999998
+Envelopes,Office Supplies,Qtr 4,December,3.0000000000000004,2458.3279999999995
+Fasteners,Office Supplies,Qtr 4,December,1.9999999999999998,438.24000000000007
+Labels,Office Supplies,Qtr 4,December,2.1999999999999997,1376.0319999999997
+Paper,Office Supplies,Qtr 4,December,11.79999999999999,11250.121999999996
+Storage,Office Supplies,Qtr 4,December,8.200000000000003,30642.967999999997
+Supplies,Office Supplies,Qtr 4,December,1.7999999999999998,4401.996000000001
+Accessories,Technology,Qtr 4,December,9.999999999999996,28006.515999999996
+Copiers,Technology,Qtr 4,December,1.7999999999999998,18799.65
+Machines,Technology,Qtr 4,December,4.7,15209.824
+Phones,Technology,Qtr 4,December,17.99999999999998,38816.902
