@@ -1,0 +1,57 @@
+Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Ship Mode,Sum(Orders.Quantity),Sum(Orders.Sales)
+Qtr 1,Furniture,First Class,141,13266.871399999996
+Qtr 2,Furniture,First Class,263,21124.20020000001
+Qtr 3,Furniture,First Class,326,25266.192799999997
+Qtr 4,Furniture,First Class,508,51073.25849999998
+Qtr 1,Furniture,Same Day,62,3748.4999999999995
+Qtr 2,Furniture,Same Day,53,5355.997
+Qtr 3,Furniture,Same Day,151,13050.550999999998
+Qtr 4,Furniture,Same Day,187,16993.731
+Qtr 1,Furniture,Second Class,237,22421.702600000004
+Qtr 2,Furniture,Second Class,315,28300.85739999999
+Qtr 3,Furniture,Second Class,406,45048.749100000015
+Qtr 4,Furniture,Second Class,611,60517.7153
+Qtr 1,Furniture,Standard Class,640,58666.363799999985
+Qtr 2,Furniture,Standard Class,1004,87282.12299999998
+Qtr 3,Furniture,Standard Class,1195,117276.15479999987
+Qtr 4,Furniture,Standard Class,1929,172606.82739999983
+Qtr 1,Office Supplies,First Class,410,12828.407999999998
+Qtr 2,Office Supplies,First Class,813,27221.778000000017
+Qtr 3,Office Supplies,First Class,943,26934.53300000001
+Qtr 4,Office Supplies,First Class,1206,34347.589999999975
+Qtr 1,Office Supplies,Same Day,152,5195.962000000001
+Qtr 2,Office Supplies,Same Day,238,5932.205
+Qtr 3,Office Supplies,Same Day,336,7794.072000000002
+Qtr 4,Office Supplies,Same Day,421,10168.242000000002
+Qtr 1,Office Supplies,Second Class,658,31366.145000000008
+Qtr 2,Office Supplies,Second Class,815,25990.146999999986
+Qtr 3,Office Supplies,Second Class,1292,43976.20699999998
+Qtr 4,Office Supplies,Second Class,1715,59350.5039999999
+Qtr 1,Office Supplies,Standard Class,1825,60870.872
+Qtr 2,Office Supplies,Standard Class,3035,84725.29899999997
+Qtr 3,Office Supplies,Standard Class,3978,128325.055
+Qtr 4,Office Supplies,Standard Class,5069,154020.01300000018
+Qtr 1,Office Supplies,Third Class,,
+Qtr 2,Office Supplies,Third Class,3,15.552000000000003
+Qtr 3,Office Supplies,Third Class,,
+Qtr 4,Office Supplies,Third Class,17,1145.21
+Qtr 1,Technology,First Class,168,37519.042
+Qtr 2,Technology,First Class,186,20597.833000000006
+Qtr 3,Technology,First Class,271,24385.758999999995
+Qtr 4,Technology,First Class,458,56862.95699999999
+Qtr 1,Technology,Same Day,37,4428.506
+Qtr 2,Technology,Same Day,69,8090.853999999999
+Qtr 3,Technology,Same Day,113,20454.203
+Qtr 4,Technology,Same Day,141,27150.302
+Qtr 1,Technology,Second Class,221,27305.225999999995
+Qtr 2,Technology,Second Class,256,25548.586000000003
+Qtr 3,Technology,Second Class,352,38032.59599999999
+Qtr 4,Technology,Second Class,545,51335.13399999997
+Qtr 1,Technology,Standard Class,555,82063.977
+Qtr 2,Technology,Standard Class,871,105339.74
+Qtr 3,Technology,Standard Class,1188,123388.0330000001
+Qtr 4,Technology,Standard Class,1508,183651.28499999997
+Qtr 1,Technology,Third Class,,
+Qtr 2,Technology,Third Class,4,911.424
+Qtr 3,Technology,Third Class,,
+Qtr 4,Technology,Third Class,,
