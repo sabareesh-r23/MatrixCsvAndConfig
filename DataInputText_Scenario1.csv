@@ -1,0 +1,52 @@
+Orders.Segment,Orders.Category,Orders.Sub-Category
+Consumer,Furniture,Bookcases
+Corporate,Furniture,Bookcases
+Home Office,Furniture,Bookcases
+Consumer,Furniture,Chairs
+Corporate,Furniture,Chairs
+Home Office,Furniture,Chairs
+Consumer,Furniture,Furnishings
+Corporate,Furniture,Furnishings
+Home Office,Furniture,Furnishings
+Consumer,Furniture,Tables
+Corporate,Furniture,Tables
+Home Office,Furniture,Tables
+Consumer,Office Supplies,Appliances
+Corporate,Office Supplies,Appliances
+Home Office,Office Supplies,Appliances
+Consumer,Office Supplies,Art
+Corporate,Office Supplies,Art
+Home Office,Office Supplies,Art
+Consumer,Office Supplies,Binders
+Corporate,Office Supplies,Binders
+Home Office,Office Supplies,Binders
+Consumer,Office Supplies,Envelopes
+Corporate,Office Supplies,Envelopes
+Home Office,Office Supplies,Envelopes
+Consumer,Office Supplies,Fasteners
+Corporate,Office Supplies,Fasteners
+Home Office,Office Supplies,Fasteners
+Consumer,Office Supplies,Labels
+Corporate,Office Supplies,Labels
+Home Office,Office Supplies,Labels
+Consumer,Office Supplies,Paper
+Corporate,Office Supplies,Paper
+Home Office,Office Supplies,Paper
+Consumer,Office Supplies,Storage
+Corporate,Office Supplies,Storage
+Home Office,Office Supplies,Storage
+Consumer,Office Supplies,Supplies
+Corporate,Office Supplies,Supplies
+Home Office,Office Supplies,Supplies
+Consumer,Technology,Accessories
+Corporate,Technology,Accessories
+Home Office,Technology,Accessories
+Consumer,Technology,Copiers
+Corporate,Technology,Copiers
+Home Office,Technology,Copiers
+Consumer,Technology,Machines
+Corporate,Technology,Machines
+Home Office,Technology,Machines
+Consumer,Technology,Phones
+Corporate,Technology,Phones
+Home Office,Technology,Phones
