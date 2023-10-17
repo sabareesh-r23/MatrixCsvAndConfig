@@ -1,0 +1,49 @@
+Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Region,Orders.Country,Orders.Segment,Sum(Orders.Discount)
+Qtr 1,Central,United States,Consumer,54.459999999999944
+Qtr 2,Central,United States,Consumer,71.75999999999985
+Qtr 3,Central,United States,Consumer,67.73999999999982
+Qtr 4,Central,United States,Consumer,111.49999999999946
+Qtr 1,Central,United States,Corporate,15.940000000000008
+Qtr 2,Central,United States,Corporate,42.13999999999999
+Qtr 3,Central,United States,Corporate,43.63999999999997
+Qtr 4,Central,United States,Corporate,59.67999999999994
+Qtr 1,Central,United States,Home Office,13.840000000000007
+Qtr 2,Central,United States,Home Office,20.40000000000002
+Qtr 3,Central,United States,Home Office,30.820000000000036
+Qtr 4,Central,United States,Home Office,26.420000000000027
+Qtr 1,East,United States,Consumer,26.899999999999977
+Qtr 2,East,United States,Consumer,42.099999999999916
+Qtr 3,East,United States,Consumer,67
+Qtr 4,East,United States,Consumer,80.60000000000007
+Qtr 1,East,United States,Corporate,17.800000000000004
+Qtr 2,East,United States,Corporate,27.39999999999998
+Qtr 3,East,United States,Corporate,40.09999999999996
+Qtr 4,East,United States,Corporate,41.299999999999926
+Qtr 1,East,United States,Home Office,9.600000000000003
+Qtr 2,East,United States,Home Office,20.199999999999985
+Qtr 3,East,United States,Home Office,19.999999999999993
+Qtr 4,East,United States,Home Office,20.99999999999999
+Qtr 1,South,United States,Consumer,18.19999999999999
+Qtr 2,South,United States,Consumer,23.399999999999977
+Qtr 3,South,United States,Consumer,31.04999999999995
+Qtr 4,South,United States,Consumer,46.449999999999974
+Qtr 1,South,United States,Corporate,10.3
+Qtr 2,South,United States,Corporate,23.799999999999972
+Qtr 3,South,United States,Corporate,17.19999999999999
+Qtr 4,South,United States,Corporate,29.149999999999963
+Qtr 1,South,United States,Home Office,5.7
+Qtr 2,South,United States,Home Office,9.600000000000001
+Qtr 3,South,United States,Home Office,7.700000000000002
+Qtr 4,South,United States,Home Office,15.999999999999996
+Qtr 1,West,United States,Consumer,17.149999999999977
+Qtr 2,West,United States,Consumer,32.84999999999992
+Qtr 3,West,United States,Consumer,55.30000000000008
+Qtr 4,West,United States,Consumer,74.45000000000036
+Qtr 1,West,United States,Corporate,10.899999999999995
+Qtr 2,West,United States,Corporate,17.199999999999974
+Qtr 3,West,United States,Corporate,31.849999999999927
+Qtr 4,West,United States,Corporate,49.45000000000001
+Qtr 1,West,United States,Home Office,8.100000000000005
+Qtr 2,West,United States,Home Office,16.449999999999996
+Qtr 3,West,United States,Home Office,14.649999999999986
+Qtr 4,West,United States,Home Office,21.849999999999966
