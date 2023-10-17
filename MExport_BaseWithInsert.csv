@@ -1,0 +1,21 @@
+zPerformance.Category,zPerformance.Region,zPerformance.Geography,Sum(zPerformance.2018 Shipments),Sum(zPerformance.2019 Shipments),Min(zPerformance.Brand)
+Hair Care,Europe,Italy,9974865,10007250,Care Essentials
+Skin Care,Europe,Italy,10695625,10689162,Care Essentials
+Hair Care,Europe,France,10440868,10460853,Care Essentials
+Skin Care,Europe,France,10148201,10147992,Care Essentials
+Hair Care,Europe,UK,10136999,10053502,Care Essentials
+Skin Care,Europe,UK,10345021,10294257,Care Essentials
+Hair Care,Europe,Germany,10146920,10208477,Care Essentials
+Skin Care,Europe,Germany,10256637,10247585,Care Essentials
+Hair Care,Europe,Rest of Europe,10345694,10336925,Care Essentials
+Skin Care,Europe,Rest of Europe,10053961,10099824,Care Essentials
+Hair Care,MEA/APAC,EMEA,10337822,10285212,Care Essentials
+Skin Care,MEA/APAC,EMEA,10075650,10075871,Care Essentials
+Hair Care,MEA/APAC,Japan,9982449,9956117,Care Essentials
+Skin Care,MEA/APAC,Japan,10358725,10315959,Care Essentials
+Hair Care,MEA/APAC,ANZ,10340283,10266699,Care Essentials
+Skin Care,MEA/APAC,ANZ,9951620,9903838,Care Essentials
+Hair Care,North America,United States,10344339,10392464,Care Essentials
+Skin Care,North America,United States,10178532,10153641,Care Essentials
+Hair Care,North America,Canada,10274420,10256223,Care Essentials
+Skin Care,North America,Canada,10186892,10168539,Care Essentials
