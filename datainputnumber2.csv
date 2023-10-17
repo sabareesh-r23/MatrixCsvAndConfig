@@ -1,0 +1,69 @@
+Orders.Region,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales)
+Central,Technology,Phones,72403.282
+East,Technology,Phones,100614.9820000001
+South,Technology,Phones,58304.437999999995
+West,Technology,Phones,98684.35199999997
+Central,Technology,Machines,26797.384
+East,Technology,Machines,66106.165
+South,Technology,Machines,53890.95999999999
+West,Technology,Machines,42444.122
+Central,Technology,Accessories,33956.076
+East,Technology,Accessories,45033.371999999974
+South,Technology,Accessories,27276.753999999994
+West,Technology,Accessories,61114.11600000006
+Central,Technology,Copiers,37259.56999999999
+East,Technology,Copiers,53219.46200000001
+South,Technology,Copiers,9299.756
+West,Technology,Copiers,49749.241999999984
+Central,Furniture,Chairs,85230.64599999994
+East,Furniture,Chairs,96260.683
+South,Furniture,Chairs,45176.44599999998
+West,Furniture,Chairs,101781.32799999992
+Central,Furniture,Tables,39154.97100000002
+East,Furniture,Tables,39139.80700000001
+South,Furniture,Tables,43916.192
+West,Furniture,Tables,84754.56200000005
+Central,Furniture,Bookcases,24157.176799999994
+East,Furniture,Bookcases,43819.33399999998
+South,Furniture,Bookcases,10899.362
+West,Furniture,Bookcases,36004.123500000016
+Central,Furniture,Furnishings,15254.369999999977
+East,Furniture,Furnishings,29071.37999999999
+South,Furniture,Furnishings,17306.684
+West,Furniture,Furnishings,30072.72999999999
+Central,Office Supplies,Storage,45930.111999999994
+East,Office Supplies,Storage,71612.58400000003
+South,Office Supplies,Storage,35768.059999999976
+West,Office Supplies,Storage,70532.85199999994
+Central,Office Supplies,Binders,56923.28199999998
+East,Office Supplies,Binders,53497.99699999999
+South,Office Supplies,Binders,37030.34100000001
+West,Office Supplies,Binders,55961.113000000034
+Central,Office Supplies,Appliances,23582.03299999998
+East,Office Supplies,Appliances,34188.46599999999
+South,Office Supplies,Appliances,19525.325999999997
+West,Office Supplies,Appliances,30236.335999999996
+Central,Office Supplies,Paper,17491.902000000002
+East,Office Supplies,Paper,20172.60199999997
+South,Office Supplies,Paper,14150.983999999997
+West,Office Supplies,Paper,26663.71799999998
+Central,Office Supplies,Supplies,9467.372
+East,Office Supplies,Supplies,10760.116
+South,Office Supplies,Supplies,8318.928
+West,Office Supplies,Supplies,18127.121999999996
+Central,Office Supplies,Art,5765.339999999999
+East,Office Supplies,Art,7485.7639999999965
+South,Office Supplies,Art,4655.622000000002
+West,Office Supplies,Art,9212.065999999992
+Central,Office Supplies,Envelopes,4636.872
+East,Office Supplies,Envelopes,4375.874
+South,Office Supplies,Envelopes,3345.5560000000014
+West,Office Supplies,Envelopes,4118.1
+Central,Office Supplies,Labels,2451.472
+East,Office Supplies,Labels,2602.9339999999997
+South,Office Supplies,Labels,2353.1799999999994
+West,Office Supplies,Labels,5078.7260000000015
+Central,Office Supplies,Fasteners,778.0300000000002
+East,Office Supplies,Fasteners,819.7179999999998
+South,Office Supplies,Fasteners,503.31599999999986
+West,Office Supplies,Fasteners,923.216
