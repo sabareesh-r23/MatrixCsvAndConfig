@@ -1,0 +1,69 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Category,Sum(Orders.Profit),Sum(Orders.Quantity)
+2014,Furniture,Bookcases,-346.1707000000007,153
+2015,Furniture,Bookcases,-2755.2302000000004,242
+2016,Furniture,Bookcases,212.47099999999952,197
+2017,Furniture,Bookcases,-583.6261000000007,276
+2014,Furniture,Chairs,6955.047,540
+2015,Furniture,Chairs,6228.416100000002,528
+2016,Furniture,Chairs,5763.153899999997,614
+2017,Furniture,Chairs,7643.549299999999,674
+2014,Furniture,Furnishings,1972.8918999999992,660
+2015,Furniture,Furnishings,3051.8188999999993,770
+2016,Furniture,Furnishings,3935.2699999999995,1036
+2017,Furniture,Furnishings,4099.162799999998,1097
+2014,Furniture,Tables,-3124.042700000002,270
+2015,Furniture,Tables,-3509.8019000000018,235
+2016,Furniture,Tables,-2950.9418000000032,346
+2017,Furniture,Tables,-8140.6947,390
+2014,Office Supplies,Appliances,2459.499899999998,314
+2015,Office Supplies,Appliances,2388.0377000000003,370
+2016,Office Supplies,Appliances,5301.341499999997,396
+2017,Office Supplies,Appliances,7865.268299999993,654
+2014,Office Supplies,Art,1406.8031,613
+2015,Office Supplies,Art,1485.0581999999995,608
+2016,Office Supplies,Art,1413.9626000000003,678
+2017,Office Supplies,Art,2221.963100000001,1101
+2014,Office Supplies,Binders,4739.716000000007,1089
+2015,Office Supplies,Binders,7592.85539999999,1218
+2016,Office Supplies,Binders,10348.226299999995,1606
+2017,Office Supplies,Binders,7669.741800000008,2067
+2014,Office Supplies,Envelopes,1495.4787999999999,206
+2015,Office Supplies,Envelopes,1960.1905999999994,237
+2016,Office Supplies,Envelopes,2066.7482999999993,222
+2017,Office Supplies,Envelopes,1441.759,241
+2014,Office Supplies,Fasteners,178.55829999999995,201
+2015,Office Supplies,Fasteners,171.9376,176
+2016,Office Supplies,Fasteners,294.07339999999994,288
+2017,Office Supplies,Fasteners,304.9488999999999,249
+2014,Office Supplies,Labels,1286.0041999999996,326
+2015,Office Supplies,Labels,1323.0285999999996,263
+2016,Office Supplies,Labels,1192.6118999999997,363
+2017,Office Supplies,Labels,1744.6092999999987,448
+2014,Office Supplies,Paper,6371.021399999998,1017
+2015,Office Supplies,Paper,6570.169999999998,1087
+2016,Office Supplies,Paper,9071.534499999992,1372
+2017,Office Supplies,Paper,12046.286599999996,1705
+2014,Office Supplies,Storage,4179.596399999999,679
+2015,Office Supplies,Storage,3505.4600999999975,655
+2016,Office Supplies,Storage,6204.286800000001,808
+2017,Office Supplies,Storage,7402.800699999995,1022
+2014,Office Supplies,Supplies,490.05559999999986,130
+2015,Office Supplies,Supplies,-24.878400000000028,109
+2016,Office Supplies,Supplies,-698.9639000000005,216
+2017,Office Supplies,Supplies,-955.3128000000002,192
+2014,Technology,Accessories,6402.715000000002,580
+2015,Technology,Accessories,10197.275200000002,635
+2016,Technology,Accessories,9664.2885,682
+2017,Technology,Accessories,15672.357000000004,1079
+2014,Technology,Copiers,2912.9433,29
+2015,Technology,Copiers,9930.298799999999,63
+2016,Technology,Copiers,17742.792599999993,69
+2017,Technology,Copiers,25031.790200000003,73
+2014,Technology,Machines,369.1688999999933,96
+2015,Technology,Machines,2977.4855999999995,94
+2016,Technology,Machines,2907.317999999991,129
+2017,Technology,Machines,-2869.2156000000014,121
+2014,Technology,Phones,11876.362100000008,688
+2015,Technology,Phones,10398.8074,697
+2016,Technology,Phones,9459.592900000009,818
+2017,Technology,Phones,12849.324999999997,1090
