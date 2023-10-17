@@ -1,0 +1,69 @@
+Orders.Ship Mode,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales),Sum(Orders.Profit)
+First Class,Technology,Phones,53615.868,8400.27
+Same Day,Technology,Phones,15988.236,1784.4746
+Second Class,Technology,Phones,63255.228,8377.6354
+Standard Class,Technology,Phones,197147.722,25953.3506
+First Class,Technology,Machines,24153.401,-1603.499
+Same Day,Technology,Machines,22798.537,438.7708
+Second Class,Technology,Machines,22493.7,2157.0299
+Standard Class,Technology,Machines,119792.993,2392.4552
+First Class,Technology,Accessories,22226.692,5907.4131
+Same Day,Technology,Accessories,13777.224,3866.691
+Second Class,Technology,Accessories,37572.986,8733.6708
+Standard Class,Technology,Accessories,93803.416,23428.8608
+First Class,Technology,Copiers,39369.63,14798.3793
+Same Day,Technology,Copiers,7559.868,2580.9549
+Second Class,Technology,Copiers,18899.628,6883.8703
+Standard Class,Technology,Copiers,83698.904,31354.6204
+First Class,Furniture,Chairs,47706.472,2645.2149
+Same Day,Furniture,Chairs,21659.716,1135.6435
+Second Class,Furniture,Chairs,74872.058,6766.25
+Standard Class,Furniture,Chairs,184210.857,16043.0579
+First Class,Furniture,Tables,28800.776,-1365.3665
+Same Day,Furniture,Tables,9644.347,-1129.4225
+Second Class,Furniture,Tables,43693.7475,-3320.6799
+Standard Class,Furniture,Tables,124826.6615,-11910.0122
+First Class,Furniture,Bookcases,21065.3189,-305.9975
+Same Day,Furniture,Bookcases,2970.582,392.5656
+Second Class,Furniture,Bookcases,22307.2129,-1028.0213
+Standard Class,Furniture,Bookcases,68536.8825,-2531.1028
+First Class,Furniture,Furnishings,13157.956,2093.0965
+Same Day,Furniture,Furnishings,4874.134,398.5618
+Second Class,Furniture,Furnishings,15416.006,1808.7126
+Standard Class,Furniture,Furnishings,58257.068,8758.7727
+First Class,Office Supplies,Storage,26273.258,3012.1837
+Same Day,Office Supplies,Storage,8850.226,980.2761
+Second Class,Office Supplies,Storage,48469.372,5434.3132
+Standard Class,Office Supplies,Storage,140250.752,11852.0534
+First Class,Office Supplies,Binders,36157.813,4128.1425
+Same Day,Office Supplies,Binders,5819.505,1140.2821
+Second Class,Office Supplies,Binders,27115.342,5461.342
+Standard Class,Office Supplies,Binders,134320.073,19491.9967
+First Class,Office Supplies,Appliances,15726.024,3543.8611
+Same Day,Office Supplies,Appliances,6270.592,1091.6577
+Second Class,Office Supplies,Appliances,26538.239,4906.6957
+Standard Class,Office Supplies,Appliances,58997.306,8595.7909
+First Class,Office Supplies,Paper,11379.798,4919.2991
+Same Day,Office Supplies,Paper,4705.696,2088.4229
+Second Class,Office Supplies,Paper,17233.45,7567.0288
+Standard Class,Office Supplies,Paper,45160.262,19478.8185
+First Class,Office Supplies,Supplies,3568.294,113.1062
+Same Day,Office Supplies,Supplies,510.31,78.9402
+Second Class,Office Supplies,Supplies,29378.41,-505.5624
+Standard Class,Office Supplies,Supplies,13216.524,-875.5835
+First Class,Office Supplies,Art,3470.088,750.35
+Same Day,Office Supplies,Art,1437.476,403.4431
+Second Class,Office Supplies,Art,5270.03,1299.1289
+Standard Class,Office Supplies,Art,16941.198,4074.865
+First Class,Office Supplies,Envelopes,2563.456,1001.5961
+Same Day,Office Supplies,Envelopes,790.476,348.8148
+Second Class,Office Supplies,Envelopes,2847.608,1280.4035
+Standard Class,Office Supplies,Envelopes,10274.862,4333.3623
+First Class,Office Supplies,Labels,1835.98,804.7152
+Same Day,Office Supplies,Labels,566.448,245.5642
+Second Class,Office Supplies,Labels,3352.534,1466.7881
+Standard Class,Office Supplies,Labels,6731.35,3029.1865
+First Class,Office Supplies,Fasteners,357.598,127.0752
+Same Day,Office Supplies,Fasteners,139.752,46.1181
+Second Class,Office Supplies,Fasteners,478.018,158.0298
+Standard Class,Office Supplies,Fasteners,2048.912,618.2951
