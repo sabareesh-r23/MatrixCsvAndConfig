@@ -1,0 +1,4036 @@
+Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.City,Sum(Orders.Sales)
+2014,Aberdeen,
+2015,Aberdeen,
+2016,Aberdeen,
+2017,Aberdeen,25.5
+2018,Aberdeen,
+2014,Abilene,
+2015,Abilene,
+2016,Abilene,
+2017,Abilene,1.3919999999999997
+2018,Abilene,
+2014,Akron,170.91
+2015,Akron,427.54799999999994
+2016,Akron,804.228
+2017,Akron,1305.5559999999998
+2018,Akron,
+2014,Akron,
+2015,Akron,
+2016,Akron,
+2017,Akron,21.744000000000003
+2018,Akron,
+2014,Albuquerque,558.2259999999999
+2015,Albuquerque,57.266000000000005
+2016,Albuquerque,
+2017,Albuquerque,1482.1380000000001
+2018,Albuquerque,122.53
+2014,Alexandria,5221.089999999999
+2015,Alexandria,192.22
+2016,Alexandria,81.19999999999999
+2017,Alexandria,25.060000000000002
+2018,Alexandria,
+2014,Allen,
+2015,Allen,290.20599999999996
+2016,Allen,
+2017,Allen,
+2018,Allen,
+2014,Allentown,
+2015,Allentown,837.444
+2016,Allentown,15.808000000000002
+2017,Allentown,
+2018,Allentown,
+2014,Altoona,
+2015,Altoona,20.451
+2016,Altoona,
+2017,Altoona,
+2018,Altoona,
+2014,Amarillo,
+2015,Amarillo,3024.478
+2016,Amarillo,543.252
+2017,Amarillo,205.33279999999996
+2018,Amarillo,
+2014,Anaheim,
+2015,Anaheim,2386.322
+2016,Anaheim,3231.412
+2017,Anaheim,2268.0159999999996
+2018,Anaheim,101.12
+2014,Andover,
+2015,Andover,
+2016,Andover,435.85
+2017,Andover,
+2018,Andover,
+2014,Ann Arbor,
+2015,Ann Arbor,889.2729999999999
+2016,Ann Arbor,
+2017,Ann Arbor,
+2018,Ann Arbor,
+2014,Antioch,
+2015,Antioch,
+2016,Antioch,19.44
+2017,Antioch,
+2018,Antioch,
+2014,Apopka,193.152
+2015,Apopka,
+2016,Apopka,711.4020000000002
+2017,Apopka,
+2018,Apopka,
+2014,Apple Valley,129.3
+2015,Apple Valley,
+2016,Apple Valley,563.92
+2017,Apple Valley,1359.801
+2018,Apple Valley,
+2014,Appleton,21.560000000000002
+2015,Appleton,
+2016,Appleton,1649.75
+2017,Appleton,
+2018,Appleton,
+2014,Arlington,1510.6869999999997
+2015,Arlington,6070.821000000001
+2016,Arlington,10903.476
+2017,Arlington,1724.6579999999997
+2018,Arlington,
+2014,Arlington,
+2015,Arlington,
+2016,Arlington,
+2017,Arlington,4.89
+2018,Arlington,
+2014,Arlington Heights,
+2015,Arlington Heights,
+2016,Arlington Heights,14.111999999999998
+2017,Arlington Heights,
+2018,Arlington Heights,
+2014,Arvada,
+2015,Arvada,
+2016,Arvada,6.264
+2017,Arvada,
+2018,Arvada,
+2014,Arvada,
+2015,Arvada,
+2016,Arvada,15.136000000000003
+2017,Arvada,
+2018,Arvada,
+2014,Arvada,
+2015,Arvada,
+2016,Arvada,466.76800000000003
+2017,Arvada,
+2018,Arvada,
+2014,Arvada,
+2015,Arvada,
+2016,Arvada,15.232
+2017,Arvada,
+2018,Arvada,
+2014,Asheville,24.144000000000002
+2015,Asheville,
+2016,Asheville,1363.96
+2017,Asheville,87.27200000000002
+2018,Asheville,
+2014,Athens,1233.45
+2015,Athens,
+2016,Athens,201.26999999999998
+2017,Athens,286.09
+2018,Athens,
+2014,Atlanta,266.44
+2015,Atlanta,7755.0599999999995
+2016,Atlanta,3443.6900000000005
+2017,Atlanta,5732.65
+2018,Atlanta,
+2014,Atlantic City,
+2015,Atlantic City,
+2016,Atlantic City,23.36
+2017,Atlantic City,
+2018,Atlantic City,
+2014,Auburn,
+2015,Auburn,692.19
+2016,Auburn,1874.2379999999996
+2017,Auburn,588.7400000000001
+2018,Auburn,
+2014,Aurora,561.683
+2015,Aurora,1771.069
+2016,Aurora,3719.976
+2017,Aurora,5225.612
+2018,Aurora,
+2014,Aurora,
+2015,Aurora,36.882000000000005
+2016,Aurora,
+2017,Aurora,
+2018,Aurora,
+2014,Aurora,
+2015,Aurora,238.89600000000002
+2016,Aurora,
+2017,Aurora,
+2018,Aurora,
+2014,Aurora,
+2015,Aurora,102.35999999999999
+2016,Aurora,
+2017,Aurora,
+2018,Aurora,
+2014,Austin,758.3520000000001
+2015,Austin,544.428
+2016,Austin,1523.6580000000001
+2017,Austin,3142.744
+2018,Austin,
+2014,Austin,
+2015,Austin,88.80000000000001
+2016,Austin,
+2017,Austin,
+2018,Austin,
+2014,Avondale,892.568
+2015,Avondale,54.24
+2016,Avondale,
+2017,Avondale,
+2018,Avondale,
+2014,Bakersfield,
+2015,Bakersfield,214.618
+2016,Bakersfield,87.274
+2017,Bakersfield,1075.3980000000001
+2018,Bakersfield,
+2014,Baltimore,651.0699999999999
+2015,Baltimore,1161.99
+2016,Baltimore,1091.262
+2017,Baltimore,3252.5200000000004
+2018,Baltimore,
+2014,Bangor,617.12
+2015,Bangor,
+2016,Bangor,547.3299999999999
+2017,Bangor,
+2018,Bangor,
+2014,Bartlett,
+2015,Bartlett,88.96000000000001
+2016,Bartlett,
+2017,Bartlett,
+2018,Bartlett,
+2014,Bayonne,
+2015,Bayonne,183.4
+2016,Bayonne,
+2017,Bayonne,
+2018,Bayonne,
+2014,Baytown,
+2015,Baytown,10.368000000000002
+2016,Baytown,
+2017,Baytown,
+2018,Baytown,
+2014,Beaumont,459.348
+2015,Beaumont,
+2016,Beaumont,
+2017,Beaumont,12.768
+2018,Beaumont,
+2014,Bedford,
+2015,Bedford,20.96
+2016,Bedford,
+2017,Bedford,205.29600000000002
+2018,Bedford,
+2014,Belleville,
+2015,Belleville,
+2016,Belleville,227.96
+2017,Belleville,399.96999999999997
+2018,Belleville,
+2014,Belleville,
+2015,Belleville,
+2016,Belleville,32.400000000000006
+2017,Belleville,
+2018,Belleville,
+2014,Belleville,
+2015,Belleville,
+2016,Belleville,56.91
+2017,Belleville,
+2018,Belleville,
+2014,Belleville,
+2015,Belleville,
+2016,Belleville,77.6
+2017,Belleville,
+2018,Belleville,
+2014,Belleville,
+2015,Belleville,
+2016,Belleville,1082.48
+2017,Belleville,
+2018,Belleville,
+2014,Belleville,
+2015,Belleville,
+2016,Belleville,14.28
+2017,Belleville,
+2018,Belleville,
+2014,Bellevue,12.96
+2015,Bellevue,25.52
+2016,Bellevue,25.349999999999998
+2017,Bellevue,39.792
+2018,Bellevue,
+2014,Bellingham,
+2015,Bellingham,
+2016,Bellingham,
+2017,Bellingham,3790.24
+2018,Bellingham,
+2014,Bethlehem,
+2015,Bethlehem,132.94
+2016,Bethlehem,1556.6940000000002
+2017,Bethlehem,
+2018,Bethlehem,
+2014,Beverly,
+2015,Beverly,2583.1899999999996
+2016,Beverly,
+2017,Beverly,
+2018,Beverly,
+2014,Billings,8.288
+2015,Billings,
+2016,Billings,
+2017,Billings,
+2018,Billings,
+2014,Bloomington,341
+2015,Bloomington,252.088
+2016,Bloomington,262.8
+2017,Bloomington,94.15200000000002
+2018,Bloomington,
+2014,Bloomington,617.7
+2015,Bloomington,
+2016,Bloomington,
+2017,Bloomington,
+2018,Bloomington,
+2014,Boca Raton,4.608
+2015,Boca Raton,
+2016,Boca Raton,58.400000000000006
+2017,Boca Raton,
+2018,Boca Raton,
+2014,Boise,
+2015,Boise,1004.4999999999999
+2016,Boise,
+2017,Boise,89.97
+2018,Boise,
+2014,Bolingbrook,9.979999999999997
+2015,Bolingbrook,59.848
+2016,Bolingbrook,
+2017,Bolingbrook,148.48
+2018,Bolingbrook,
+2014,Bossier City,1417.18
+2015,Bossier City,
+2016,Bossier City,
+2017,Bossier City,
+2018,Bossier City,
+2014,Bowling Green,264.32
+2015,Bowling Green,469.398
+2016,Bowling Green,146.363
+2017,Bowling Green,1197.2939999999999
+2018,Bowling Green,
+2014,Boynton Beach,15.552000000000003
+2015,Boynton Beach,
+2016,Boynton Beach,314.39300000000003
+2017,Boynton Beach,139.64000000000001
+2018,Boynton Beach,
+2014,Bozeman,
+2015,Bozeman,43.66
+2016,Bozeman,
+2017,Bozeman,
+2018,Bozeman,
+2014,Brentwood,371.52
+2015,Brentwood,408.76800000000003
+2016,Brentwood,
+2017,Brentwood,4229.9259999999995
+2018,Brentwood,
+2014,Brentwood,
+2015,Brentwood,79.9
+2016,Brentwood,
+2017,Brentwood,
+2018,Brentwood,
+2014,Bridgeton,
+2015,Bridgeton,
+2016,Bridgeton,52.410000000000004
+2017,Bridgeton,
+2018,Bridgeton,
+2014,Bristol,746.822
+2015,Bristol,238.11
+2016,Bristol,67.56
+2017,Bristol,40.896
+2018,Bristol,
+2014,Bristol,
+2015,Bristol,157.79400000000004
+2016,Bristol,
+2017,Bristol,
+2018,Bristol,
+2014,Broken Arrow,
+2015,Broken Arrow,821.94
+2016,Broken Arrow,1617.5900000000004
+2017,Broken Arrow,
+2018,Broken Arrow,
+2014,Broomfield,
+2015,Broomfield,
+2016,Broomfield,793.504
+2017,Broomfield,
+2018,Broomfield,
+2014,Brownsville,962.7500000000001
+2015,Brownsville,
+2016,Brownsville,
+2017,Brownsville,329.47679999999997
+2018,Brownsville,
+2014,Bryan,
+2015,Bryan,
+2016,Bryan,550.8159999999999
+2017,Bryan,65.84
+2018,Bryan,
+2014,Buffalo,6424.398000000001
+2015,Buffalo,1605.378
+2016,Buffalo,835.1700000000001
+2017,Buffalo,198.54999999999998
+2018,Buffalo,
+2014,Buffalo Grove,831.399
+2015,Buffalo Grove,
+2016,Buffalo Grove,
+2017,Buffalo Grove,
+2018,Buffalo Grove,
+2014,Bullhead City,
+2015,Bullhead City,22.288000000000004
+2016,Bullhead City,
+2017,Bullhead City,
+2018,Bullhead City,
+2014,Burbank,3247.1580000000004
+2015,Burbank,
+2016,Burbank,
+2017,Burbank,
+2018,Burbank,
+2014,Burlington,
+2015,Burlington,5120.099999999999
+2016,Burlington,3597.084
+2017,Burlington,12906.148
+2018,Burlington,44.75
+2014,Caldwell,455.63199999999995
+2015,Caldwell,
+2016,Caldwell,
+2017,Caldwell,
+2018,Caldwell,
+2014,Camarillo,
+2015,Camarillo,1452.7875000000001
+2016,Camarillo,
+2017,Camarillo,14.73
+2018,Camarillo,
+2014,Cambridge,
+2015,Cambridge,411.49
+2016,Cambridge,
+2017,Cambridge,90.6
+2018,Cambridge,
+2014,Canton,
+2015,Canton,
+2016,Canton,
+2017,Canton,818.1300000000001
+2018,Canton,
+2014,Carlsbad,
+2015,Carlsbad,
+2016,Carlsbad,35.68000000000001
+2017,Carlsbad,355.26000000000005
+2018,Carlsbad,
+2014,Carlsbad,
+2015,Carlsbad,
+2016,Carlsbad,28.4
+2017,Carlsbad,
+2018,Carlsbad,
+2014,Carol Stream,
+2015,Carol Stream,1305.81
+2016,Carol Stream,
+2017,Carol Stream,
+2018,Carol Stream,
+2014,Carrollton,153.112
+2015,Carrollton,351.33599999999996
+2016,Carrollton,1506.2800000000002
+2017,Carrollton,189.918
+2018,Carrollton,
+2014,Cary,259.04
+2015,Cary,246.168
+2016,Cary,
+2017,Cary,
+2018,Cary,
+2014,Cedar Hill,7.080000000000001
+2015,Cedar Hill,
+2016,Cedar Hill,
+2017,Cedar Hill,115.296
+2018,Cedar Hill,
+2014,Cedar Rapids,
+2015,Cedar Rapids,
+2016,Cedar Rapids,278.4
+2017,Cedar Rapids,
+2018,Cedar Rapids,
+2014,Champaign,
+2015,Champaign,151.96
+2016,Champaign,
+2017,Champaign,
+2018,Champaign,
+2014,Chandler,123.70700000000001
+2015,Chandler,
+2016,Chandler,
+2017,Chandler,953.0400000000001
+2018,Chandler,
+2014,Chapel Hill,
+2015,Chapel Hill,
+2016,Chapel Hill,
+2017,Chapel Hill,14.015999999999998
+2018,Chapel Hill,
+2014,Charlotte,3963.137
+2015,Charlotte,21.752000000000002
+2016,Charlotte,5864.619000000001
+2017,Charlotte,3683.5350000000008
+2018,Charlotte,
+2014,Charlotte,
+2015,Charlotte,
+2016,Charlotte,36.24000000000001
+2017,Charlotte,74.11200000000001
+2018,Charlotte,
+2014,Charlotte,
+2015,Charlotte,
+2016,Charlotte,
+2017,Charlotte,3.3040000000000003
+2018,Charlotte,
+2014,Charlotte,
+2015,Charlotte,
+2016,Charlotte,
+2017,Charlotte,27.992000000000004
+2018,Charlotte,
+2014,Charlotte,18.648000000000003
+2015,Charlotte,
+2016,Charlotte,
+2017,Charlotte,
+2018,Charlotte,
+2014,Charlottesville,
+2015,Charlottesville,67.96
+2016,Charlottesville,
+2017,Charlottesville,34.650000000000006
+2018,Charlottesville,
+2014,Chattanooga,
+2015,Chattanooga,
+2016,Chattanooga,240.419
+2017,Chattanooga,748.384
+2018,Chattanooga,
+2014,Chesapeake,3256.98
+2015,Chesapeake,323.36
+2016,Chesapeake,1911.48
+2017,Chesapeake,504.90000000000003
+2018,Chesapeake,
+2014,Chester,1106.7699999999998
+2015,Chester,570.4920000000001
+2016,Chester,
+2017,Chester,291.21700000000004
+2018,Chester,
+2014,Cheyenne,
+2015,Cheyenne,
+2016,Cheyenne,1603.1360000000002
+2017,Cheyenne,
+2018,Cheyenne,
+2014,Chicago,10723.027999999997
+2015,Chicago,7383.817000000001
+2016,Chicago,11936.477000000003
+2017,Chicago,15796.160000000005
+2018,Chicago,
+2014,Chicago,
+2015,Chicago,
+2016,Chicago,31.983999999999998
+2017,Chicago,219.07500000000002
+2018,Chicago,
+2014,Chicago,
+2015,Chicago,
+2016,Chicago,95.97600000000001
+2017,Chicago,
+2018,Chicago,
+2014,Chicago,
+2015,Chicago,
+2016,Chicago,177.225
+2017,Chicago,
+2018,Chicago,
+2014,Chicago,52.44799999999999
+2015,Chicago,295.48299999999995
+2016,Chicago,354.144
+2017,Chicago,230.376
+2018,Chicago,
+2014,Chicago,
+2015,Chicago,
+2016,Chicago,72.032
+2017,Chicago,
+2018,Chicago,
+2014,Chicago,20.16
+2015,Chicago,53.92
+2016,Chicago,419.68000000000006
+2017,Chicago,
+2018,Chicago,
+2014,Chicago,
+2015,Chicago,
+2016,Chicago,4.0440000000000005
+2017,Chicago,
+2018,Chicago,
+2014,Chicago,
+2015,Chicago,12.132000000000001
+2016,Chicago,1.7879999999999996
+2017,Chicago,
+2018,Chicago,
+2014,Chicago,
+2015,Chicago,647.904
+2016,Chicago,11.688
+2017,Chicago,
+2018,Chicago,
+2014,Chico,
+2015,Chico,1297.066
+2016,Chico,
+2017,Chico,753.1120000000001
+2018,Chico,
+2014,Chula Vista,182.94
+2015,Chula Vista,665.88
+2016,Chula Vista,192.8
+2017,Chula Vista,
+2018,Chula Vista,
+2014,Cincinnati,32.76
+2015,Cincinnati,53.040000000000006
+2016,Cincinnati,1001.5150000000001
+2017,Cincinnati,427.253
+2018,Cincinnati,
+2014,Cincinnati,2.624
+2015,Cincinnati,
+2016,Cincinnati,
+2017,Cincinnati,
+2018,Cincinnati,
+2014,Cincinnati,
+2015,Cincinnati,
+2016,Cincinnati,
+2017,Cincinnati,37.208
+2018,Cincinnati,
+2014,Cincinnati,
+2015,Cincinnati,
+2016,Cincinnati,
+2017,Cincinnati,57.576
+2018,Cincinnati,
+2014,Citrus Heights,
+2015,Citrus Heights,
+2016,Citrus Heights,
+2017,Citrus Heights,129.39000000000001
+2018,Citrus Heights,
+2014,Clarksville,69.21600000000001
+2015,Clarksville,1635.0180000000003
+2016,Clarksville,
+2017,Clarksville,513.4960000000001
+2018,Clarksville,
+2014,Cleveland,810.1560000000001
+2015,Cleveland,1201.1239999999998
+2016,Cleveland,2418.75
+2017,Cleveland,1916.1550000000007
+2018,Cleveland,
+2014,Clifton,336.82
+2015,Clifton,
+2016,Clifton,
+2017,Clifton,
+2018,Clifton,
+2014,Clinton,463.04
+2015,Clinton,4112.320000000001
+2016,Clinton,573.741
+2017,Clinton,365.15
+2018,Clinton,
+2014,Clovis,
+2015,Clovis,
+2016,Clovis,
+2017,Clovis,111.42
+2018,Clovis,
+2014,Coachella,
+2015,Coachella,
+2016,Coachella,
+2017,Coachella,163.55
+2018,Coachella,
+2014,College Station,
+2015,College Station,
+2016,College Station,
+2017,College Station,291.04200000000003
+2018,College Station,
+2014,Colorado Springs,
+2015,Colorado Springs,1442.3540000000003
+2016,Colorado Springs,1396.3829999999998
+2017,Colorado Springs,
+2018,Colorado Springs,
+2014,Colorado Springs,230.35200000000003
+2015,Colorado Springs,
+2016,Colorado Springs,
+2017,Colorado Springs,
+2018,Colorado Springs,
+2014,Colorado Springs,218.35200000000003
+2015,Colorado Springs,
+2016,Colorado Springs,
+2017,Colorado Springs,
+2018,Colorado Springs,
+2014,Colorado Springs,27.552000000000003
+2015,Colorado Springs,
+2016,Colorado Springs,
+2017,Colorado Springs,
+2018,Colorado Springs,
+2014,Colorado Springs,78.60000000000001
+2015,Colorado Springs,
+2016,Colorado Springs,
+2017,Colorado Springs,
+2018,Colorado Springs,
+2014,Colorado Springs,300.416
+2015,Colorado Springs,
+2016,Colorado Springs,
+2017,Colorado Springs,
+2018,Colorado Springs,
+2014,Columbia,3586.032
+2015,Columbia,6904.88
+2016,Columbia,5834.77
+2017,Columbia,8104.418000000002
+2018,Columbia,
+2014,Columbia,
+2015,Columbia,161.568
+2016,Columbia,
+2017,Columbia,
+2018,Columbia,
+2014,Columbia,
+2015,Columbia,389.696
+2016,Columbia,
+2017,Columbia,301.96
+2018,Columbia,
+2014,Columbus,6881.9800000000005
+2015,Columbus,4547.122
+2016,Columbus,9106.25
+2017,Columbus,16553.519
+2018,Columbus,209.3
+2014,Columbus,4.720000000000001
+2015,Columbus,
+2016,Columbus,
+2017,Columbus,21.456
+2018,Columbus,
+2014,Columbus,
+2015,Columbus,
+2016,Columbus,19.096
+2017,Columbus,
+2018,Columbus,
+2014,Columbus,23.976000000000003
+2015,Columbus,
+2016,Columbus,
+2017,Columbus,
+2018,Columbus,
+2014,Columbus,
+2015,Columbus,
+2016,Columbus,255.98400000000004
+2017,Columbus,
+2018,Columbus,
+2014,Columbus,
+2015,Columbus,
+2016,Columbus,
+2017,Columbus,20.7
+2018,Columbus,
+2014,Columbus,
+2015,Columbus,
+2016,Columbus,86.97
+2017,Columbus,59.96999999999999
+2018,Columbus,
+2014,Columbus,130.464
+2015,Columbus,
+2016,Columbus,
+2017,Columbus,647.84
+2018,Columbus,
+2014,Columbus,
+2015,Columbus,
+2016,Columbus,18.496000000000002
+2017,Columbus,
+2018,Columbus,
+2014,Columbus,40.096000000000004
+2015,Columbus,
+2016,Columbus,
+2017,Columbus,78.304
+2018,Columbus,
+2014,Commerce City,
+2015,Commerce City,
+2016,Commerce City,
+2017,Commerce City,146.352
+2018,Commerce City,
+2014,Concord,988.3699999999999
+2015,Concord,4585.3640000000005
+2016,Concord,1589.128
+2017,Concord,3379.5400000000004
+2018,Concord,
+2014,Concord,
+2015,Concord,
+2016,Concord,
+2017,Concord,15.552000000000003
+2018,Concord,
+2014,Conroe,
+2015,Conroe,
+2016,Conroe,111.67200000000001
+2017,Conroe,
+2018,Conroe,
+2014,Conway,
+2015,Conway,301.96
+2016,Conway,
+2017,Conway,
+2018,Conway,
+2014,Coon Rapids,503.13
+2015,Coon Rapids,
+2016,Coon Rapids,
+2017,Coon Rapids,
+2018,Coon Rapids,
+2014,Coppell,
+2015,Coppell,95.84
+2016,Coppell,
+2017,Coppell,40.096000000000004
+2018,Coppell,
+2014,Coral Gables,
+2015,Coral Gables,
+2016,Coral Gables,64.24799999999999
+2017,Coral Gables,
+2018,Coral Gables,
+2014,Coral Springs,
+2015,Coral Springs,506.03200000000004
+2016,Coral Springs,
+2017,Coral Springs,318.96
+2018,Coral Springs,
+2014,Corpus Christi,146.192
+2015,Corpus Christi,
+2016,Corpus Christi,
+2017,Corpus Christi,74.352
+2018,Corpus Christi,
+2014,Costa Mesa,
+2015,Costa Mesa,29.22
+2016,Costa Mesa,686.2439999999999
+2017,Costa Mesa,782.206
+2018,Costa Mesa,
+2014,Cottage Grove,
+2015,Cottage Grove,144.35999999999999
+2016,Cottage Grove,
+2017,Cottage Grove,
+2018,Cottage Grove,
+2014,Covington,
+2015,Covington,46.900000000000006
+2016,Covington,366.78
+2017,Covington,
+2018,Covington,
+2014,Cranston,2116.5060000000003
+2015,Cranston,
+2016,Cranston,
+2017,Cranston,1908.4099999999999
+2018,Cranston,
+2014,Cuyahoga Falls,
+2015,Cuyahoga Falls,8.352
+2016,Cuyahoga Falls,2.2140000000000004
+2017,Cuyahoga Falls,18.528000000000002
+2018,Cuyahoga Falls,
+2014,Dallas,2621.6899999999996
+2015,Dallas,3963.3286000000003
+2016,Dallas,3859.0328
+2017,Dallas,9440.634800000003
+2018,Dallas,160.16199999999998
+2014,Dallas,
+2015,Dallas,20.8
+2016,Dallas,
+2017,Dallas,
+2018,Dallas,
+2014,Dallas,
+2015,Dallas,
+2016,Dallas,
+2017,Dallas,66.28399999999999
+2018,Dallas,
+2014,Danbury,
+2015,Danbury,
+2016,Danbury,
+2017,Danbury,27.46
+2018,Danbury,
+2014,Danville,
+2015,Danville,
+2016,Danville,
+2017,Danville,1202.2540000000001
+2018,Danville,
+2014,Davis,
+2015,Davis,
+2016,Davis,32.400000000000006
+2017,Davis,
+2018,Davis,
+2014,Daytona Beach,
+2015,Daytona Beach,272.3315
+2016,Daytona Beach,
+2017,Daytona Beach,
+2018,Daytona Beach,
+2014,Dearborn,
+2015,Dearborn,1542.47
+2016,Dearborn,
+2017,Dearborn,60.84
+2018,Dearborn,
+2014,Dearborn Heights,770.61
+2015,Dearborn Heights,
+2016,Dearborn Heights,
+2017,Dearborn Heights,280.96
+2018,Dearborn Heights,
+2014,Decatur,1746.0500000000002
+2015,Decatur,1978.1620000000003
+2016,Decatur,1008.4929999999999
+2017,Decatur,1153.128
+2018,Decatur,
+2014,Decatur,408.74399999999997
+2015,Decatur,
+2016,Decatur,
+2017,Decatur,
+2018,Decatur,
+2014,Decatur,
+2015,Decatur,
+2016,Decatur,208.16
+2017,Decatur,
+2018,Decatur,
+2014,Decatur,24.816000000000003
+2015,Decatur,
+2016,Decatur,
+2017,Decatur,
+2018,Decatur,
+2014,Decatur,
+2015,Decatur,
+2016,Decatur,16.740000000000002
+2017,Decatur,
+2018,Decatur,
+2014,Deer Park,
+2015,Deer Park,
+2016,Deer Park,
+2017,Deer Park,6.923999999999998
+2018,Deer Park,
+2014,Delray Beach,9.912
+2015,Delray Beach,
+2016,Delray Beach,232.62400000000002
+2017,Delray Beach,
+2018,Delray Beach,
+2014,Deltona,767.4079999999999
+2015,Deltona,107.97600000000001
+2016,Deltona,
+2017,Deltona,17.856
+2018,Deltona,
+2014,Denver,3171.096
+2015,Denver,1185.77
+2016,Denver,2748.954
+2017,Denver,4871.623
+2018,Denver,
+2014,Denver,218.75
+2015,Denver,
+2016,Denver,
+2017,Denver,
+2018,Denver,
+2014,Denver,2.6
+2015,Denver,
+2016,Denver,
+2017,Denver,
+2018,Denver,
+2014,Des Moines,1298.4879999999998
+2015,Des Moines,44.44
+2016,Des Moines,1733.7760000000003
+2017,Des Moines,340.21999999999997
+2018,Des Moines,
+2014,Des Moines,246.38400000000001
+2015,Des Moines,
+2016,Des Moines,
+2017,Des Moines,
+2018,Des Moines,
+2014,Des Moines,1799.97
+2015,Des Moines,
+2016,Des Moines,
+2017,Des Moines,
+2018,Des Moines,
+2014,Des Plaines,1109.372
+2015,Des Plaines,
+2016,Des Plaines,
+2017,Des Plaines,383.84000000000003
+2018,Des Plaines,
+2014,Detroit,1472.45
+2015,Detroit,6609.677999999999
+2016,Detroit,21569.300000000003
+2017,Detroit,12148.885999999999
+2018,Detroit,
+2014,Detroit,
+2015,Detroit,622.4499999999999
+2016,Detroit,
+2017,Detroit,
+2018,Detroit,
+2014,Detroit,
+2015,Detroit,2.2
+2016,Detroit,
+2017,Detroit,
+2018,Detroit,
+2014,Detroit,
+2015,Detroit,21.98
+2016,Detroit,
+2017,Detroit,
+2018,Detroit,
+2014,Dover,285.92
+2015,Dover,4153.414
+2016,Dover,371.94
+2017,Dover,
+2018,Dover,
+2014,Dover,
+2015,Dover,
+2016,Dover,21.8
+2017,Dover,
+2018,Dover,
+2014,Dover,
+2015,Dover,
+2016,Dover,45
+2017,Dover,
+2018,Dover,
+2014,Draper,111.93
+2015,Draper,
+2016,Draper,
+2017,Draper,151.72
+2018,Draper,
+2014,Dublin,
+2015,Dublin,
+2016,Dublin,
+2017,Dublin,1773.2359999999999
+2018,Dublin,
+2014,Dublin,
+2015,Dublin,72.704
+2016,Dublin,
+2017,Dublin,
+2018,Dublin,
+2014,Dublin,
+2015,Dublin,479.98800000000006
+2016,Dublin,
+2017,Dublin,
+2018,Dublin,
+2014,Dublin,
+2015,Dublin,5.5840000000000005
+2016,Dublin,
+2017,Dublin,
+2018,Dublin,
+2014,Dublin,
+2015,Dublin,22.704000000000004
+2016,Dublin,
+2017,Dublin,
+2018,Dublin,
+2014,Dublin,
+2015,Dublin,27.168000000000003
+2016,Dublin,
+2017,Dublin,
+2018,Dublin,
+2014,Dublin,
+2015,Dublin,19.776000000000003
+2016,Dublin,
+2017,Dublin,
+2018,Dublin,
+2014,Dubuque,
+2015,Dubuque,1687.3
+2016,Dubuque,
+2017,Dubuque,
+2018,Dubuque,
+2014,Durham,67.75999999999999
+2015,Durham,580.88
+2016,Durham,
+2017,Durham,30.336000000000006
+2018,Durham,
+2014,Durham,
+2015,Durham,200.98400000000004
+2016,Durham,
+2017,Durham,
+2018,Durham,
+2014,Eagan,
+2015,Eagan,74.94
+2016,Eagan,
+2017,Eagan,75.9
+2018,Eagan,
+2014,Eagan,
+2015,Eagan,
+2016,Eagan,17.46
+2017,Eagan,
+2018,Eagan,
+2014,Eagan,
+2015,Eagan,
+2016,Eagan,45.98
+2017,Eagan,
+2018,Eagan,
+2014,East Orange,
+2015,East Orange,
+2016,East Orange,345.47
+2017,East Orange,31.799999999999997
+2018,East Orange,
+2014,East Point,
+2015,East Point,268.4
+2016,East Point,
+2017,East Point,
+2018,East Point,
+2014,Eau Claire,91.67999999999999
+2015,Eau Claire,435.53999999999996
+2016,Eau Claire,1085.87
+2017,Eau Claire,32.56
+2018,Eau Claire,
+2014,Edinburg,
+2015,Edinburg,
+2016,Edinburg,85.908
+2017,Edinburg,2.368
+2018,Edinburg,
+2014,Edmond,
+2015,Edmond,
+2016,Edmond,944.9300000000001
+2017,Edmond,
+2018,Edmond,
+2014,Edmond,
+2015,Edmond,
+2016,Edmond,14.62
+2017,Edmond,
+2018,Edmond,
+2014,Edmonds,1549.77
+2015,Edmonds,
+2016,Edmonds,323.21000000000004
+2017,Edmonds,562.652
+2018,Edmonds,88.06
+2014,El Cajon,478.48
+2015,El Cajon,
+2016,El Cajon,387.136
+2017,El Cajon,
+2018,El Cajon,
+2014,El Paso,2012.3980000000001
+2015,El Paso,97.084
+2016,El Paso,17.856
+2017,El Paso,1418.726
+2018,El Paso,
+2014,Elkhart,
+2015,Elkhart,
+2016,Elkhart,
+2017,Elkhart,171.43
+2018,Elkhart,
+2014,Elmhurst,651.588
+2015,Elmhurst,
+2016,Elmhurst,240.04000000000002
+2017,Elmhurst,
+2018,Elmhurst,
+2014,Elyria,
+2015,Elyria,
+2016,Elyria,
+2017,Elyria,1.8240000000000003
+2018,Elyria,
+2014,Encinitas,
+2015,Encinitas,
+2016,Encinitas,305.49600000000004
+2017,Encinitas,286.485
+2018,Encinitas,
+2014,Englewood,
+2015,Englewood,
+2016,Englewood,124.056
+2017,Englewood,
+2018,Englewood,
+2014,Escondido,71.188
+2015,Escondido,
+2016,Escondido,
+2017,Escondido,23.36
+2018,Escondido,
+2014,Eugene,
+2015,Eugene,
+2016,Eugene,1465.032
+2017,Eugene,
+2018,Eugene,
+2014,Evanston,258.279
+2015,Evanston,1483.528
+2016,Evanston,11.992
+2017,Evanston,
+2018,Evanston,
+2014,Everett,1885.27
+2015,Everett,2303.758
+2016,Everett,
+2017,Everett,1476.7060000000001
+2018,Everett,
+2014,Fairfield,2363.42
+2015,Fairfield,470.35999999999996
+2016,Fairfield,2108.3730000000005
+2017,Fairfield,4499.921
+2018,Fairfield,34.623999999999995
+2014,Fairfield,
+2015,Fairfield,
+2016,Fairfield,7.16
+2017,Fairfield,
+2018,Fairfield,
+2014,Fargo,
+2015,Fargo,
+2016,Fargo,
+2017,Fargo,891.53
+2018,Fargo,28.38
+2014,Farmington,
+2015,Farmington,12.88
+2016,Farmington,
+2017,Farmington,705.84
+2018,Farmington,
+2014,Fayetteville,1939.4740000000002
+2015,Fayetteville,134.09
+2016,Fayetteville,2290.1839999999997
+2017,Fayetteville,2562.178
+2018,Fayetteville,
+2014,Florence,1979.89
+2015,Florence,3860.6900000000005
+2016,Florence,196.85999999999999
+2017,Florence,1584.2800000000002
+2018,Florence,
+2014,Fort Collins,
+2015,Fort Collins,
+2016,Fort Collins,98.328
+2017,Fort Collins,836.9240000000001
+2018,Fort Collins,
+2014,Fort Lauderdale,810.2880000000001
+2015,Fort Lauderdale,
+2016,Fort Lauderdale,1049.547
+2017,Fort Lauderdale,2089.752
+2018,Fort Lauderdale,
+2014,Fort Lauderdale,
+2015,Fort Lauderdale,957.5775
+2016,Fort Lauderdale,
+2017,Fort Lauderdale,
+2018,Fort Lauderdale,
+2014,Fort Lauderdale,
+2015,Fort Lauderdale,22.368000000000002
+2016,Fort Lauderdale,
+2017,Fort Lauderdale,
+2018,Fort Lauderdale,
+2014,Fort Worth,2233.12
+2015,Fort Worth,2190.074
+2016,Fort Worth,516.934
+2017,Fort Worth,1662.5784
+2018,Fort Worth,
+2014,Fort Worth,
+2015,Fort Worth,2.5439999999999996
+2016,Fort Worth,
+2017,Fort Worth,
+2018,Fort Worth,
+2014,Fort Worth,
+2015,Fort Worth,68.80999999999999
+2016,Fort Worth,
+2017,Fort Worth,
+2018,Fort Worth,
+2014,Frankfort,
+2015,Frankfort,20.767999999999997
+2016,Frankfort,76.864
+2017,Frankfort,
+2018,Frankfort,
+2014,Franklin,1092.996
+2015,Franklin,2470.3080000000004
+2016,Franklin,3442.489
+2017,Franklin,69.842
+2018,Franklin,
+2014,Franklin,
+2015,Franklin,
+2016,Franklin,171.55
+2017,Franklin,35.168000000000006
+2018,Franklin,
+2014,Franklin,
+2015,Franklin,
+2016,Franklin,384.45000000000005
+2017,Franklin,
+2018,Franklin,
+2014,Franklin,
+2015,Franklin,
+2016,Franklin,149.97
+2017,Franklin,
+2018,Franklin,
+2014,Franklin,
+2015,Franklin,
+2016,Franklin,
+2017,Franklin,1488.4239999999998
+2018,Franklin,
+2014,Franklin,
+2015,Franklin,
+2016,Franklin,1951.84
+2017,Franklin,
+2018,Franklin,
+2014,Freeport,62.49600000000001
+2015,Freeport,506.08200000000005
+2016,Freeport,
+2017,Freeport,170.57199999999997
+2018,Freeport,
+2014,Fremont,
+2015,Fremont,
+2016,Fremont,33.9
+2017,Fremont,1005.31
+2018,Fremont,
+2014,Fremont,
+2015,Fremont,
+2016,Fremont,19.459999999999997
+2017,Fremont,
+2018,Fremont,
+2014,Fremont,
+2015,Fremont,
+2016,Fremont,60.339999999999996
+2017,Fremont,
+2018,Fremont,
+2014,Fresno,4744.0825
+2015,Fresno,
+2016,Fresno,848.5440000000001
+2017,Fresno,2295.902
+2018,Fresno,
+2014,Frisco,
+2015,Frisco,27.168000000000003
+2016,Frisco,
+2017,Frisco,30.336000000000006
+2018,Frisco,
+2014,Gaithersburg,
+2015,Gaithersburg,
+2016,Gaithersburg,405.91999999999996
+2017,Gaithersburg,
+2018,Gaithersburg,
+2014,Garden City,257.98
+2015,Garden City,21.11
+2016,Garden City,
+2017,Garden City,33.29
+2018,Garden City,
+2014,Garland,8.544
+2015,Garland,
+2016,Garland,
+2017,Garland,59.16
+2018,Garland,
+2014,Gastonia,
+2015,Gastonia,
+2016,Gastonia,895.0600000000001
+2017,Gastonia,
+2018,Gastonia,
+2014,Georgetown,
+2015,Georgetown,
+2016,Georgetown,1576.54
+2017,Georgetown,209.88
+2018,Georgetown,
+2014,Gilbert,
+2015,Gilbert,2008.4
+2016,Gilbert,
+2017,Gilbert,882.99
+2018,Gilbert,
+2014,Gilbert,1113.0240000000001
+2015,Gilbert,
+2016,Gilbert,
+2017,Gilbert,
+2018,Gilbert,
+2014,Gilbert,167.96800000000002
+2015,Gilbert,
+2016,Gilbert,
+2017,Gilbert,
+2018,Gilbert,
+2014,Gladstone,
+2015,Gladstone,
+2016,Gladstone,
+2017,Gladstone,164.34
+2018,Gladstone,
+2014,Glendale,331.752
+2015,Glendale,277.096
+2016,Glendale,1124.71
+2017,Glendale,1184.307
+2018,Glendale,
+2014,Glenview,
+2015,Glenview,158.376
+2016,Glenview,
+2017,Glenview,
+2018,Glenview,
+2014,Goldsboro,
+2015,Goldsboro,
+2016,Goldsboro,34.944
+2017,Goldsboro,
+2018,Goldsboro,
+2014,Grand Island,
+2015,Grand Island,
+2016,Grand Island,
+2017,Grand Island,15.96
+2018,Grand Island,
+2014,Grand Prairie,84.87199999999999
+2015,Grand Prairie,253.33999999999997
+2016,Grand Prairie,56.495999999999995
+2017,Grand Prairie,560.538
+2018,Grand Prairie,
+2014,Grand Prairie,
+2015,Grand Prairie,
+2016,Grand Prairie,37.224000000000004
+2017,Grand Prairie,
+2018,Grand Prairie,
+2014,Grand Prairie,
+2015,Grand Prairie,
+2016,Grand Prairie,20.016000000000002
+2017,Grand Prairie,
+2018,Grand Prairie,
+2014,Grand Rapids,19.44
+2015,Grand Rapids,
+2016,Grand Rapids,242.08999999999997
+2017,Grand Rapids,54.900000000000006
+2018,Grand Rapids,209.7
+2014,Grapevine,
+2015,Grapevine,
+2016,Grapevine,41.528000000000006
+2017,Grapevine,
+2018,Grapevine,
+2014,Great Falls,416.2
+2015,Great Falls,
+2016,Great Falls,
+2017,Great Falls,4189.38
+2018,Great Falls,
+2014,Greeley,
+2015,Greeley,
+2016,Greeley,
+2017,Greeley,30.352
+2018,Greeley,
+2014,Green Bay,468.90000000000003
+2015,Green Bay,
+2016,Green Bay,35.7
+2017,Green Bay,22.72
+2018,Green Bay,
+2014,Greensboro,59.109000000000016
+2015,Greensboro,64.68
+2016,Greensboro,327.23900000000003
+2017,Greensboro,1955.752
+2018,Greensboro,
+2014,Greenville,1299.99
+2015,Greenville,
+2016,Greenville,389.136
+2017,Greenville,428.704
+2018,Greenville,
+2014,Greenwood,
+2015,Greenwood,
+2016,Greenwood,1424.9
+2017,Greenwood,240.14999999999998
+2018,Greenwood,
+2014,Gresham,1508.768
+2015,Gresham,
+2016,Gresham,624.656
+2017,Gresham,
+2018,Gresham,
+2014,Grove City,
+2015,Grove City,
+2016,Grove City,
+2017,Grove City,123.58799999999998
+2018,Grove City,
+2014,Gulfport,
+2015,Gulfport,
+2016,Gulfport,117.81
+2017,Gulfport,48.69
+2018,Gulfport,
+2014,Hackensack,1368.6200000000001
+2015,Hackensack,
+2016,Hackensack,
+2017,Hackensack,
+2018,Hackensack,
+2014,Hackensack,87.53999999999999
+2015,Hackensack,
+2016,Hackensack,
+2017,Hackensack,
+2018,Hackensack,
+2014,Hagerstown,
+2015,Hagerstown,
+2016,Hagerstown,
+2017,Hagerstown,43.8
+2018,Hagerstown,
+2014,Haltom City,
+2015,Haltom City,269.32800000000003
+2016,Haltom City,
+2017,Haltom City,
+2018,Haltom City,
+2014,Hamilton,190.848
+2015,Hamilton,
+2016,Hamilton,123.92000000000002
+2017,Hamilton,
+2018,Hamilton,
+2014,Hamilton,7.408
+2015,Hamilton,
+2016,Hamilton,
+2017,Hamilton,
+2018,Hamilton,
+2014,Hamilton,6.048
+2015,Hamilton,
+2016,Hamilton,
+2017,Hamilton,
+2018,Hamilton,
+2014,Hampton,1567.25
+2015,Hampton,864.0299999999999
+2016,Hampton,290.98
+2017,Hampton,
+2018,Hampton,
+2014,Harlingen,
+2015,Harlingen,
+2016,Harlingen,392.06
+2017,Harlingen,
+2018,Harlingen,
+2014,Harlingen,
+2015,Harlingen,
+2016,Harlingen,
+2017,Harlingen,25.920000000000005
+2018,Harlingen,
+2014,Harlingen,
+2015,Harlingen,
+2016,Harlingen,
+2017,Harlingen,53.42400000000001
+2018,Harlingen,
+2014,Harrisonburg,4325.67
+2015,Harrisonburg,39.96
+2016,Harrisonburg,
+2017,Harrisonburg,23.08
+2018,Harrisonburg,
+2014,Hattiesburg,
+2015,Hattiesburg,239.70000000000002
+2016,Hattiesburg,1110.5
+2017,Hattiesburg,372.64
+2018,Hattiesburg,
+2014,Helena,
+2015,Helena,403.94000000000005
+2016,Helena,
+2017,Helena,39.900000000000006
+2018,Helena,
+2014,Hempstead,115.95200000000001
+2015,Hempstead,794.5740000000001
+2016,Hempstead,1671.08
+2017,Hempstead,7.98
+2018,Hempstead,
+2014,Henderson,5374.82
+2015,Henderson,994.8000000000001
+2016,Henderson,3515.7380000000003
+2017,Henderson,6669.8099999999995
+2018,Henderson,
+2014,Henderson,
+2015,Henderson,
+2016,Henderson,731.94
+2017,Henderson,
+2018,Henderson,
+2014,Henderson,
+2015,Henderson,
+2016,Henderson,261.96
+2017,Henderson,
+2018,Henderson,
+2014,Hendersonville,
+2015,Hendersonville,
+2016,Hendersonville,16.218000000000004
+2017,Hendersonville,303.32000000000005
+2018,Hendersonville,
+2014,Hesperia,
+2015,Hesperia,
+2016,Hesperia,424.9574999999999
+2017,Hesperia,436.70400000000006
+2018,Hesperia,
+2014,Hesperia,
+2015,Hesperia,
+2016,Hesperia,99.99
+2017,Hesperia,
+2018,Hesperia,
+2014,Hesperia,
+2015,Hesperia,
+2016,Hesperia,251.52
+2017,Hesperia,
+2018,Hesperia,
+2014,Hialeah,1436.6560000000002
+2015,Hialeah,32.985
+2016,Hialeah,474.7800000000001
+2017,Hialeah,394.528
+2018,Hialeah,
+2014,Hickory,
+2015,Hickory,
+2016,Hickory,36.192
+2017,Hickory,4.572000000000001
+2018,Hickory,
+2014,Highland Park,
+2015,Highland Park,1454.8380000000002
+2016,Highland Park,580.258
+2017,Highland Park,
+2018,Highland Park,
+2014,Hillsboro,
+2015,Hillsboro,64.072
+2016,Hillsboro,
+2017,Hillsboro,23.766000000000002
+2018,Hillsboro,
+2014,Holland,
+2015,Holland,7.5
+2016,Holland,130.36
+2017,Holland,
+2018,Holland,
+2014,Hollywood,580.6880000000001
+2015,Hollywood,37.456
+2016,Hollywood,41.28
+2017,Hollywood,411.05
+2018,Hollywood,
+2014,Holyoke,
+2015,Holyoke,301.96
+2016,Holyoke,
+2017,Holyoke,
+2018,Holyoke,
+2014,Homestead,
+2015,Homestead,
+2016,Homestead,85.224
+2017,Homestead,47.328
+2018,Homestead,
+2014,Hoover,
+2015,Hoover,
+2016,Hoover,
+2017,Hoover,525.85
+2018,Hoover,
+2014,Hot Springs,
+2015,Hot Springs,29.99
+2016,Hot Springs,215.83999999999997
+2017,Hot Springs,
+2018,Hot Springs,
+2014,Houston,11495.662000000002
+2015,Houston,11757.719399999994
+2016,Houston,13669.375799999994
+2017,Houston,16047.874400000002
+2018,Houston,
+2014,Houston,19.3
+2015,Houston,
+2016,Houston,
+2017,Houston,
+2018,Houston,
+2014,Houston,3059.982
+2015,Houston,139.24
+2016,Houston,
+2017,Houston,
+2018,Houston,
+2014,Houston,600.558
+2015,Houston,
+2016,Houston,158.36800000000002
+2017,Houston,29.472
+2018,Houston,
+2014,Houston,
+2015,Houston,212.058
+2016,Houston,2396.2655999999997
+2017,Houston,1.2479999999999998
+2018,Houston,
+2014,Houston,
+2015,Houston,8.651999999999997
+2016,Houston,
+2017,Houston,
+2018,Houston,
+2014,Houston,
+2015,Houston,371.168
+2016,Houston,131.136
+2017,Houston,9.708
+2018,Houston,
+2014,Houston,2519.9579999999996
+2015,Houston,1658.9751999999999
+2016,Houston,35.952000000000005
+2017,Houston,
+2018,Houston,
+2014,Houston,
+2015,Houston,
+2016,Houston,57.584
+2017,Houston,124.50399999999999
+2018,Houston,
+2014,Huntington Beach,19.16
+2015,Huntington Beach,
+2016,Huntington Beach,12.78
+2017,Huntington Beach,2495.88
+2018,Huntington Beach,
+2014,Huntsville,3024.092
+2015,Huntsville,1080.888
+2016,Huntsville,3145.9367999999995
+2017,Huntsville,1944.0700000000002
+2018,Huntsville,
+2014,Independence,
+2015,Independence,
+2016,Independence,
+2017,Independence,1577.94
+2018,Independence,
+2014,Independence,
+2015,Independence,
+2016,Independence,
+2017,Independence,839.4300000000001
+2018,Independence,
+2014,Indianapolis,1494
+2015,Indianapolis,1353.4799999999998
+2016,Indianapolis,54.96
+2017,Indianapolis,6403.98
+2018,Indianapolis,
+2014,Inglewood,
+2015,Inglewood,
+2016,Inglewood,
+2017,Inglewood,3464.5280000000002
+2018,Inglewood,
+2014,Inglewood,
+2015,Inglewood,
+2016,Inglewood,
+2017,Inglewood,8.82
+2018,Inglewood,
+2014,Inglewood,
+2015,Inglewood,
+2016,Inglewood,
+2017,Inglewood,5.98
+2018,Inglewood,
+2014,Iowa City,
+2015,Iowa City,
+2016,Iowa City,9.99
+2017,Iowa City,
+2018,Iowa City,
+2014,Irving,88.77600000000001
+2015,Irving,
+2016,Irving,516.724
+2017,Irving,
+2018,Irving,
+2014,Jackson,1994.4399999999998
+2015,Jackson,1796.982
+2016,Jackson,7510.045
+2017,Jackson,13573.221
+2018,Jackson,
+2014,Jackson,
+2015,Jackson,70.12
+2016,Jackson,
+2017,Jackson,
+2018,Jackson,
+2014,Jackson,
+2015,Jackson,
+2016,Jackson,
+2017,Jackson,19.049999999999997
+2018,Jackson,
+2014,Jacksonville,25808.125000000004
+2015,Jacksonville,6272.972000000002
+2016,Jacksonville,2579.664
+2017,Jacksonville,10052.422000000002
+2018,Jacksonville,
+2014,Jamestown,4708.79
+2015,Jamestown,
+2016,Jamestown,
+2017,Jamestown,
+2018,Jamestown,
+2014,Jefferson City,
+2015,Jefferson City,
+2016,Jefferson City,86.62
+2017,Jefferson City,
+2018,Jefferson City,
+2014,Johnson City,362.17600000000004
+2015,Johnson City,
+2016,Johnson City,228.586
+2017,Johnson City,175.086
+2018,Johnson City,
+2014,Jonesboro,2498.2200000000003
+2015,Jonesboro,
+2016,Jonesboro,299.48
+2017,Jonesboro,117.62
+2018,Jonesboro,
+2014,Jupiter,
+2015,Jupiter,
+2016,Jupiter,
+2017,Jupiter,2.064
+2018,Jupiter,
+2014,Keller,
+2015,Keller,
+2016,Keller,
+2017,Keller,6
+2018,Keller,
+2014,Kenner,
+2015,Kenner,
+2016,Kenner,89.32000000000001
+2017,Kenner,
+2018,Kenner,
+2014,Kenosha,
+2015,Kenosha,3506.7799999999993
+2016,Kenosha,
+2017,Kenosha,399.95
+2018,Kenosha,
+2014,Kent,250.09
+2015,Kent,
+2016,Kent,103.96799999999999
+2017,Kent,1343.4980000000003
+2018,Kent,
+2014,Kirkwood,
+2015,Kirkwood,241.34
+2016,Kirkwood,
+2017,Kirkwood,
+2018,Kirkwood,
+2014,Kissimmee,
+2015,Kissimmee,
+2016,Kissimmee,
+2017,Kissimmee,751.984
+2018,Kissimmee,
+2014,Knoxville,741.838
+2015,Knoxville,
+2016,Knoxville,135.80800000000002
+2017,Knoxville,3050.52
+2018,Knoxville,
+2014,La Crosse,
+2015,La Crosse,
+2016,La Crosse,830.41
+2017,La Crosse,
+2018,La Crosse,
+2014,La Mesa,
+2015,La Mesa,
+2016,La Mesa,
+2017,La Mesa,367.53
+2018,La Mesa,
+2014,La Porte,
+2015,La Porte,
+2016,La Porte,525.2819999999999
+2017,La Porte,526.45
+2018,La Porte,
+2014,La Quinta,
+2015,La Quinta,46.32
+2016,La Quinta,
+2017,La Quinta,
+2018,La Quinta,
+2014,Lafayette,370.86999999999995
+2015,Lafayette,603.48
+2016,Lafayette,18431.339999999997
+2017,Lafayette,5630.509999999999
+2018,Lafayette,
+2014,Laguna Niguel,
+2015,Laguna Niguel,
+2016,Laguna Niguel,12.96
+2017,Laguna Niguel,278.02299999999997
+2018,Laguna Niguel,
+2014,Lake Charles,69.9
+2015,Lake Charles,
+2016,Lake Charles,
+2017,Lake Charles,477.51
+2018,Lake Charles,
+2014,Lake Elsinore,
+2015,Lake Elsinore,283.92
+2016,Lake Elsinore,
+2017,Lake Elsinore,
+2018,Lake Elsinore,
+2014,Lake Forest,
+2015,Lake Forest,
+2016,Lake Forest,1027.6760000000002
+2017,Lake Forest,597.8599999999999
+2018,Lake Forest,
+2014,Lakeland,1070.746
+2015,Lakeland,3244.2000000000003
+2016,Lakeland,562.2925000000001
+2017,Lakeland,729.6480000000001
+2018,Lakeland,
+2014,Lakeville,249.92000000000002
+2015,Lakeville,155.88
+2016,Lakeville,
+2017,Lakeville,109.52000000000001
+2018,Lakeville,
+2014,Lakeville,2001.8600000000001
+2015,Lakeville,
+2016,Lakeville,
+2017,Lakeville,
+2018,Lakeville,
+2014,Lakeville,47.88
+2015,Lakeville,
+2016,Lakeville,
+2017,Lakeville,
+2018,Lakeville,
+2014,Lakeville,1503.25
+2015,Lakeville,
+2016,Lakeville,
+2017,Lakeville,
+2018,Lakeville,
+2014,Lakeville,166.72
+2015,Lakeville,
+2016,Lakeville,
+2017,Lakeville,
+2018,Lakeville,
+2014,Lakeville,25.92
+2015,Lakeville,
+2016,Lakeville,
+2017,Lakeville,
+2018,Lakeville,
+2014,Lakewood,2142.0840000000003
+2015,Lakewood,355.424
+2016,Lakewood,10106.764999999998
+2017,Lakewood,5253.094000000001
+2018,Lakewood,
+2014,Lakewood,289.20000000000005
+2015,Lakewood,
+2016,Lakewood,
+2017,Lakewood,
+2018,Lakewood,
+2014,Lakewood,45.480000000000004
+2015,Lakewood,
+2016,Lakewood,
+2017,Lakewood,
+2018,Lakewood,
+2014,Lancaster,475.4940000000001
+2015,Lancaster,379.9320000000001
+2016,Lancaster,5587.735000000001
+2017,Lancaster,3448.3030000000003
+2018,Lancaster,
+2014,Lansing,
+2015,Lansing,1273.6060000000002
+2016,Lansing,67
+2017,Lansing,269.68
+2018,Lansing,
+2014,Laredo,40.544000000000004
+2015,Laredo,609.6140000000001
+2016,Laredo,374.18199999999996
+2017,Laredo,
+2018,Laredo,
+2014,Las Cruces,
+2015,Las Cruces,57.4
+2016,Las Cruces,
+2017,Las Cruces,41.37
+2018,Las Cruces,
+2014,Las Vegas,40.08
+2015,Las Vegas,521.8320000000001
+2016,Las Vegas,
+2017,Las Vegas,1196.3160000000003
+2018,Las Vegas,
+2014,Las Vegas,
+2015,Las Vegas,
+2016,Las Vegas,
+2017,Las Vegas,75.792
+2018,Las Vegas,
+2014,Laurel,
+2015,Laurel,
+2016,Laurel,
+2017,Laurel,152.59
+2018,Laurel,
+2014,Lawrence,1849.29
+2015,Lawrence,1445.81
+2016,Lawrence,380.22
+2017,Lawrence,3978.8720000000003
+2018,Lawrence,
+2014,Lawton,475.42
+2015,Lawton,
+2016,Lawton,
+2017,Lawton,582.07
+2018,Lawton,
+2014,Layton,
+2015,Layton,4.96
+2016,Layton,
+2017,Layton,
+2018,Layton,
+2014,League City,554.1659999999999
+2015,League City,
+2016,League City,
+2017,League City,321.202
+2018,League City,
+2014,Lebanon,
+2015,Lebanon,84.96000000000001
+2016,Lebanon,239.976
+2017,Lebanon,163.96
+2018,Lebanon,
+2014,Lehi,
+2015,Lehi,16.776000000000003
+2016,Lehi,1499.95
+2017,Lehi,
+2018,Lehi,
+2014,Leominster,
+2015,Leominster,217.49
+2016,Leominster,
+2017,Leominster,
+2018,Leominster,
+2014,Lewiston,9.584000000000001
+2015,Lewiston,106.08000000000001
+2016,Lewiston,
+2017,Lewiston,
+2018,Lewiston,
+2014,Lincoln Park,
+2015,Lincoln Park,220.31
+2016,Lincoln Park,167.292
+2017,Lincoln Park,
+2018,Lincoln Park,
+2014,Linden,115.36
+2015,Linden,
+2016,Linden,
+2017,Linden,
+2018,Linden,
+2014,Lindenhurst,
+2015,Lindenhurst,55.48
+2016,Lindenhurst,
+2017,Lindenhurst,
+2018,Lindenhurst,
+2014,Little Rock,1388.92
+2015,Little Rock,
+2016,Little Rock,819.3899999999999
+2017,Little Rock,1352.0400000000002
+2018,Little Rock,
+2014,Littleton,
+2015,Littleton,
+2016,Littleton,72.29400000000001
+2017,Littleton,
+2018,Littleton,
+2014,Lodi,39.68
+2015,Lodi,
+2016,Lodi,
+2017,Lodi,97.3
+2018,Lodi,
+2014,Logan,280.27600000000007
+2015,Logan,
+2016,Logan,
+2017,Logan,
+2018,Logan,
+2014,Long Beach,4921.588
+2015,Long Beach,2670.214
+2016,Long Beach,2750.8900000000003
+2017,Long Beach,3105.178000000001
+2018,Long Beach,
+2014,Long Beach,7.16
+2015,Long Beach,
+2016,Long Beach,
+2017,Long Beach,
+2018,Long Beach,
+2014,Longmont,
+2015,Longmont,
+2016,Longmont,915.0880000000001
+2017,Longmont,
+2018,Longmont,
+2014,Longview,
+2015,Longview,
+2016,Longview,24.849999999999998
+2017,Longview,94.36000000000001
+2018,Longview,
+2014,Lorain,1421.664
+2015,Lorain,
+2016,Lorain,514.141
+2017,Lorain,79.306
+2018,Lorain,
+2014,Los Angeles,25430.972499999996
+2015,Los Angeles,36158.62599999998
+2016,Los Angeles,58622.573999999964
+2017,Los Angeles,48190.98049999997
+2018,Los Angeles,695.944
+2014,Los Angeles,184.08
+2015,Los Angeles,
+2016,Los Angeles,77.88
+2017,Los Angeles,
+2018,Los Angeles,
+2014,Los Angeles,1817.1440000000002
+2015,Los Angeles,151.482
+2016,Los Angeles,99.54
+2017,Los Angeles,
+2018,Los Angeles,
+2014,Los Angeles,907.152
+2015,Los Angeles,
+2016,Los Angeles,17.628
+2017,Los Angeles,
+2018,Los Angeles,
+2014,Los Angeles,
+2015,Los Angeles,1053.2079999999999
+2016,Los Angeles,238.56
+2017,Los Angeles,
+2018,Los Angeles,
+2014,Los Angeles,135.84
+2015,Los Angeles,25.824
+2016,Los Angeles,73.584
+2017,Los Angeles,
+2018,Los Angeles,
+2014,Los Angeles,18.504
+2015,Los Angeles,13.98
+2016,Los Angeles,110.67000000000002
+2017,Los Angeles,
+2018,Los Angeles,
+2014,Los Angeles,1251.568
+2015,Los Angeles,1039.7440000000001
+2016,Los Angeles,398.41999999999996
+2017,Los Angeles,
+2018,Los Angeles,
+2014,Los Angeles,48.86
+2015,Los Angeles,
+2016,Los Angeles,
+2017,Los Angeles,
+2018,Los Angeles,
+2014,Louisville,2546.786
+2015,Louisville,2124.5999999999995
+2016,Louisville,333.248
+2017,Louisville,5526.492
+2018,Louisville,1814.6799999999998
+2014,Loveland,
+2015,Loveland,
+2016,Loveland,
+2017,Loveland,17.94
+2018,Loveland,3.024
+2014,Lowell,2631.93
+2015,Lowell,
+2016,Lowell,819.82
+2017,Lowell,1341.1
+2018,Lowell,
+2014,Lowell,
+2015,Lowell,
+2016,Lowell,
+2017,Lowell,12.96
+2018,Lowell,
+2014,Lowell,
+2015,Lowell,
+2016,Lowell,
+2017,Lowell,7.5600000000000005
+2018,Lowell,
+2014,Lowell,
+2015,Lowell,
+2016,Lowell,
+2017,Lowell,24.56
+2018,Lowell,
+2014,Lubbock,25.16
+2015,Lubbock,546.7920000000001
+2016,Lubbock,
+2017,Lubbock,20.612
+2018,Lubbock,
+2014,Macon,266.40999999999997
+2015,Macon,97.6
+2016,Macon,
+2017,Macon,
+2018,Macon,
+2014,Madison,3520.36
+2015,Madison,
+2016,Madison,10.07
+2017,Madison,1816.36
+2018,Madison,
+2014,Madison,665.88
+2015,Madison,
+2016,Madison,
+2017,Madison,
+2018,Madison,
+2014,Malden,
+2015,Malden,
+2016,Malden,228.38
+2017,Malden,
+2018,Malden,
+2014,Manchester,
+2015,Manchester,93.78999999999999
+2016,Manchester,
+2017,Manchester,853.22
+2018,Manchester,
+2014,Manchester,
+2015,Manchester,
+2016,Manchester,23.2
+2017,Manchester,
+2018,Manchester,
+2014,Manchester,
+2015,Manchester,
+2016,Manchester,7.36
+2017,Manchester,
+2018,Manchester,
+2014,Manchester,
+2015,Manchester,
+2016,Manchester,1043.92
+2017,Manchester,
+2018,Manchester,
+2014,Manchester,
+2015,Manchester,
+2016,Manchester,104.79
+2017,Manchester,
+2018,Manchester,
+2014,Manhattan,273.96
+2015,Manhattan,
+2016,Manhattan,
+2017,Manhattan,
+2018,Manhattan,
+2014,Mansfield,
+2015,Mansfield,
+2016,Mansfield,
+2017,Mansfield,558.8770000000001
+2018,Mansfield,
+2014,Manteca,137.632
+2015,Manteca,
+2016,Manteca,
+2017,Manteca,314.54999999999995
+2018,Manteca,
+2014,Maple Grove,
+2015,Maple Grove,
+2016,Maple Grove,
+2017,Maple Grove,882.87
+2018,Maple Grove,
+2014,Margate,15.552000000000003
+2015,Margate,
+2016,Margate,
+2017,Margate,
+2018,Margate,
+2014,Marietta,259.28999999999996
+2015,Marietta,5.64
+2016,Marietta,2673.69
+2017,Marietta,
+2018,Marietta,
+2014,Marion,403.11400000000003
+2015,Marion,2368.2400000000002
+2016,Marion,115.84
+2017,Marion,482.152
+2018,Marion,
+2014,Marlborough,
+2015,Marlborough,
+2016,Marlborough,206.64
+2017,Marlborough,
+2018,Marlborough,
+2014,Marysville,
+2015,Marysville,
+2016,Marysville,102.18
+2017,Marysville,
+2018,Marysville,
+2014,Mason,94.26400000000001
+2015,Mason,
+2016,Mason,
+2017,Mason,
+2018,Mason,
+2014,Mcallen,
+2015,Mcallen,645.2700000000001
+2016,Mcallen,203.648
+2017,Mcallen,17.798
+2018,Mcallen,
+2014,Medford,55.672000000000004
+2015,Medford,9.762
+2016,Medford,24.784000000000002
+2017,Medford,
+2018,Medford,
+2014,Medina,609.4379999999999
+2015,Medina,51.588
+2016,Medina,
+2017,Medina,
+2018,Medina,
+2014,Medina,
+2015,Medina,452.45
+2016,Medina,
+2017,Medina,
+2018,Medina,
+2014,Medina,
+2015,Medina,62.982
+2016,Medina,
+2017,Medina,
+2018,Medina,
+2014,Medina,
+2015,Medina,89.584
+2016,Medina,
+2017,Medina,
+2018,Medina,
+2014,Medina,
+2015,Medina,1188.0000000000002
+2016,Medina,
+2017,Medina,
+2018,Medina,
+2014,Medina,
+2015,Medina,23.680000000000003
+2016,Medina,
+2017,Medina,
+2018,Medina,
+2014,Melbourne,
+2015,Melbourne,
+2016,Melbourne,
+2017,Melbourne,95.616
+2018,Melbourne,
+2014,Memphis,703.7120000000001
+2015,Memphis,191.86599999999999
+2016,Memphis,567.228
+2017,Memphis,3477.7750000000005
+2018,Memphis,
+2014,Memphis,
+2015,Memphis,97.04
+2016,Memphis,
+2017,Memphis,
+2018,Memphis,
+2014,Memphis,
+2015,Memphis,831.9360000000001
+2016,Memphis,
+2017,Memphis,
+2018,Memphis,
+2014,Memphis,
+2015,Memphis,72.784
+2016,Memphis,
+2017,Memphis,
+2018,Memphis,
+2014,Mentor,
+2015,Mentor,
+2016,Mentor,
+2017,Mentor,693.13
+2018,Mentor,
+2014,Meriden,1238.78
+2015,Meriden,63.14
+2016,Meriden,
+2017,Meriden,248.76
+2018,Meriden,
+2014,Meridian,
+2015,Meridian,
+2016,Meridian,
+2017,Meridian,329.052
+2018,Meridian,
+2014,Mesa,100.70400000000001
+2015,Mesa,2471.876
+2016,Mesa,59.38999999999999
+2017,Mesa,1405.77
+2018,Mesa,
+2014,Mesquite,46.96399999999999
+2015,Mesquite,
+2016,Mesquite,
+2017,Mesquite,5.184000000000001
+2018,Mesquite,
+2014,Miami,1954.5755000000004
+2015,Miami,2298.0589999999997
+2016,Miami,2408.36
+2017,Miami,2002.5120000000002
+2018,Miami,
+2014,Miami,9.568000000000001
+2015,Miami,
+2016,Miami,
+2017,Miami,
+2018,Miami,
+2014,Middletown,27.46
+2015,Middletown,26.9
+2016,Middletown,600.7199999999999
+2017,Middletown,499.5299999999999
+2018,Middletown,
+2014,Midland,1291.81
+2015,Midland,3999.702
+2016,Midland,
+2017,Midland,
+2018,Midland,
+2014,Milford,
+2015,Milford,
+2016,Milford,267.07
+2017,Milford,694.6700000000001
+2018,Milford,
+2014,Milwaukee,34.79
+2015,Milwaukee,4402.369999999999
+2016,Milwaukee,2926.33
+2017,Milwaukee,4046.73
+2018,Milwaukee,
+2014,Minneapolis,10631.09
+2015,Minneapolis,3113.75
+2016,Minneapolis,711.78
+2017,Minneapolis,2314.6600000000003
+2018,Minneapolis,
+2014,Minneapolis,
+2015,Minneapolis,53.34
+2016,Minneapolis,
+2017,Minneapolis,
+2018,Minneapolis,
+2014,Minneapolis,
+2015,Minneapolis,32.96
+2016,Minneapolis,
+2017,Minneapolis,
+2018,Minneapolis,
+2014,Minneapolis,
+2015,Minneapolis,12.96
+2016,Minneapolis,
+2017,Minneapolis,
+2018,Minneapolis,
+2014,Miramar,
+2015,Miramar,
+2016,Miramar,
+2017,Miramar,1531.192
+2018,Miramar,
+2014,Mishawaka,647.84
+2015,Mishawaka,
+2016,Mishawaka,128.39999999999998
+2017,Mishawaka,
+2018,Mishawaka,
+2014,Mission Viejo,290.666
+2015,Mission Viejo,
+2016,Mission Viejo,128.67
+2017,Mission Viejo,356.65
+2018,Mission Viejo,
+2014,Missoula,
+2015,Missoula,
+2016,Missoula,487.98400000000004
+2017,Missoula,
+2018,Missoula,
+2014,Missouri City,
+2015,Missouri City,
+2016,Missouri City,
+2017,Missouri City,6.369999999999998
+2018,Missouri City,
+2014,Mobile,8.96
+2015,Mobile,1918.79
+2016,Mobile,3535.24
+2017,Mobile,
+2018,Mobile,
+2014,Modesto,
+2015,Modesto,
+2016,Modesto,
+2017,Modesto,326.15
+2018,Modesto,
+2014,Monroe,
+2015,Monroe,539.496
+2016,Monroe,200.11200000000002
+2017,Monroe,1547.916
+2018,Monroe,
+2014,Monroe,149.95
+2015,Monroe,
+2016,Monroe,
+2017,Monroe,
+2018,Monroe,
+2014,Monroe,29
+2015,Monroe,
+2016,Monroe,
+2017,Monroe,
+2018,Monroe,
+2014,Monroe,503.96
+2015,Monroe,
+2016,Monroe,
+2017,Monroe,
+2018,Monroe,
+2014,Montebello,
+2015,Montebello,
+2016,Montebello,27.88
+2017,Montebello,
+2018,Montebello,
+2014,Montgomery,2231.47
+2015,Montgomery,478.4
+2016,Montgomery,1002.7
+2017,Montgomery,10.16
+2018,Montgomery,
+2014,Moorhead,479.90000000000003
+2015,Moorhead,
+2016,Moorhead,
+2017,Moorhead,63.96
+2018,Moorhead,
+2014,Moreno Valley,126.78599999999999
+2015,Moreno Valley,251
+2016,Moreno Valley,884.6800000000001
+2017,Moreno Valley,
+2018,Moreno Valley,
+2014,Morgan Hill,
+2015,Morgan Hill,
+2016,Morgan Hill,545.01
+2017,Morgan Hill,
+2018,Morgan Hill,
+2014,Morristown,
+2015,Morristown,2643.06
+2016,Morristown,1793.98
+2017,Morristown,588.5
+2018,Morristown,
+2014,Morristown,
+2015,Morristown,
+2016,Morristown,7.5600000000000005
+2017,Morristown,
+2018,Morristown,
+2014,Mount Pleasant,545.9399999999999
+2015,Mount Pleasant,17.14
+2016,Mount Pleasant,
+2017,Mount Pleasant,
+2018,Mount Pleasant,
+2014,Mount Vernon,70.032
+2015,Mount Vernon,
+2016,Mount Vernon,
+2017,Mount Vernon,2049.6
+2018,Mount Vernon,
+2014,Murfreesboro,
+2015,Murfreesboro,306.9890000000001
+2016,Murfreesboro,14.352000000000002
+2017,Murfreesboro,
+2018,Murfreesboro,
+2014,Murfreesboro,
+2015,Murfreesboro,
+2016,Murfreesboro,
+2017,Murfreesboro,15.991999999999999
+2018,Murfreesboro,
+2014,Murray,48.4
+2015,Murray,
+2016,Murray,191.82
+2017,Murray,170.71800000000002
+2018,Murray,
+2014,Murrieta,
+2015,Murrieta,484.65000000000003
+2016,Murrieta,
+2017,Murrieta,
+2018,Murrieta,
+2014,Muskogee,
+2015,Muskogee,
+2016,Muskogee,
+2017,Muskogee,1721.7000000000003
+2018,Muskogee,
+2014,Naperville,288.06
+2015,Naperville,613.1149999999999
+2016,Naperville,
+2017,Naperville,239.96000000000004
+2018,Naperville,
+2014,Naperville,
+2015,Naperville,
+2016,Naperville,
+2017,Naperville,147.168
+2018,Naperville,
+2014,Nashua,
+2015,Nashua,
+2016,Nashua,
+2017,Nashua,35.94
+2018,Nashua,
+2014,Nashville,147.34400000000002
+2015,Nashville,1793.5400000000002
+2016,Nashville,281.875
+2017,Nashville,3783.3200000000006
+2018,Nashville,64.784
+2014,New Albany,
+2015,New Albany,6.16
+2016,New Albany,
+2017,New Albany,
+2018,New Albany,
+2014,New Albany,
+2015,New Albany,89.99
+2016,New Albany,
+2017,New Albany,
+2018,New Albany,
+2014,New Albany,
+2015,New Albany,38.22
+2016,New Albany,
+2017,New Albany,
+2018,New Albany,
+2014,New Albany,
+2015,New Albany,75.17999999999999
+2016,New Albany,
+2017,New Albany,
+2018,New Albany,
+2014,New Bedford,
+2015,New Bedford,52.199999999999996
+2016,New Bedford,
+2017,New Bedford,183.77000000000004
+2018,New Bedford,
+2014,New Brunswick,
+2015,New Brunswick,
+2016,New Brunswick,
+2017,New Brunswick,14.77
+2018,New Brunswick,
+2014,New Castle,
+2015,New Castle,84.61
+2016,New Castle,
+2017,New Castle,
+2018,New Castle,
+2014,New Rochelle,361.464
+2015,New Rochelle,
+2016,New Rochelle,692.5020000000001
+2017,New Rochelle,201.262
+2018,New Rochelle,
+2014,New York City,39149.77899999999
+2015,New York City,68941.88299999997
+2016,New York City,48451.04200000004
+2017,New York City,85279.02899999994
+2018,New York City,601.366
+2014,New York City,43.57
+2015,New York City,
+2016,New York City,34.4
+2017,New York City,116.9
+2018,New York City,
+2014,New York City,
+2015,New York City,71.76
+2016,New York City,411.04
+2017,New York City,20.7
+2018,New York City,
+2014,New York City,
+2015,New York City,26.8
+2016,New York City,11.405999999999999
+2017,New York City,221.54999999999998
+2018,New York City,
+2014,New York City,3991.98
+2015,New York City,626.3520000000001
+2016,New York City,388.70400000000006
+2017,New York City,45.54
+2018,New York City,
+2014,New York City,
+2015,New York City,899.1360000000001
+2016,New York City,1113.578
+2017,New York City,
+2018,New York City,
+2014,New York City,275.94
+2015,New York City,19.9
+2016,New York City,8.26
+2017,New York City,47.12
+2018,New York City,
+2014,New York City,
+2015,New York City,3.28
+2016,New York City,39.82
+2017,New York City,53.43000000000001
+2018,New York City,
+2014,New York City,135.882
+2015,New York City,51.84
+2016,New York City,4355.168000000001
+2017,New York City,553.966
+2018,New York City,
+2014,New York City,360
+2015,New York City,
+2016,New York City,17.04
+2017,New York City,
+2018,New York City,
+2014,Newark,3692.7720000000004
+2015,Newark,7090.936000000001
+2016,Newark,3477.373
+2017,Newark,13808.468
+2018,Newark,
+2014,Newark,
+2015,Newark,396.802
+2016,Newark,
+2017,Newark,
+2018,Newark,
+2014,Newark,
+2015,Newark,15.88
+2016,Newark,
+2017,Newark,
+2018,Newark,
+2014,Newark,93.888
+2015,Newark,
+2016,Newark,
+2017,Newark,
+2018,Newark,
+2014,Newport News,788.86
+2015,Newport News,31.12
+2016,Newport News,1872.11
+2017,Newport News,629.86
+2018,Newport News,
+2014,Niagara Falls,164.85000000000002
+2015,Niagara Falls,
+2016,Niagara Falls,34.992000000000004
+2017,Niagara Falls,
+2018,Niagara Falls,
+2014,Noblesville,
+2015,Noblesville,412.23999999999995
+2016,Noblesville,2678.94
+2017,Noblesville,
+2018,Noblesville,
+2014,Norfolk,
+2015,Norfolk,17.43
+2016,Norfolk,
+2017,Norfolk,
+2018,Norfolk,
+2014,Normal,
+2015,Normal,366.74399999999997
+2016,Normal,
+2017,Normal,
+2018,Normal,
+2014,Norman,
+2015,Norman,
+2016,Norman,1351.3300000000002
+2017,Norman,
+2018,Norman,
+2014,North Charleston,
+2015,North Charleston,269.49
+2016,North Charleston,
+2017,North Charleston,14.76
+2018,North Charleston,
+2014,North Las Vegas,2040.476
+2015,North Las Vegas,1347.2700000000002
+2016,North Las Vegas,4743.656000000001
+2017,North Las Vegas,1669.6
+2018,North Las Vegas,
+2014,North Miami,7.6320000000000014
+2015,North Miami,14.496000000000002
+2016,North Miami,
+2017,North Miami,
+2018,North Miami,
+2014,Norwich,
+2015,Norwich,392.34
+2016,Norwich,11.34
+2017,Norwich,10.36
+2018,Norwich,
+2014,Oak Park,
+2015,Oak Park,
+2016,Oak Park,
+2017,Oak Park,591.0519999999999
+2018,Oak Park,
+2014,Oakland,180.69
+2015,Oakland,1273.6660000000002
+2016,Oakland,589.676
+2017,Oakland,3920.386000000001
+2018,Oakland,
+2014,Oceanside,25.951999999999998
+2015,Oceanside,2118.7459999999996
+2016,Oceanside,1618.828
+2017,Oceanside,587.212
+2018,Oceanside,
+2014,Odessa,340.116
+2015,Odessa,
+2016,Odessa,606.2139999999998
+2017,Odessa,13.761999999999997
+2018,Odessa,16.032
+2014,Oklahoma City,479.96
+2015,Oklahoma City,1971.4599999999998
+2016,Oklahoma City,2845.64
+2017,Oklahoma City,1299.7600000000002
+2018,Oklahoma City,
+2014,Olathe,787.8499999999999
+2015,Olathe,
+2016,Olathe,107.94
+2017,Olathe,
+2018,Olathe,
+2014,Olympia,649.5999999999999
+2015,Olympia,201.568
+2016,Olympia,
+2017,Olympia,169.28
+2018,Olympia,
+2014,Omaha,210.01999999999998
+2015,Omaha,576.71
+2016,Omaha,2967.7200000000003
+2017,Omaha,2558.0800000000004
+2018,Omaha,
+2014,Ontario,
+2015,Ontario,
+2016,Ontario,
+2017,Ontario,283.92
+2018,Ontario,
+2014,Orange,81.88000000000001
+2015,Orange,
+2016,Orange,53.370000000000005
+2017,Orange,75.85999999999999
+2018,Orange,
+2014,Orem,133.12800000000001
+2015,Orem,1745.71
+2016,Orem,58.94
+2017,Orem,11.68
+2018,Orem,
+2014,Orem,
+2015,Orem,1044.6299999999999
+2016,Orem,
+2017,Orem,
+2018,Orem,
+2014,Orland Park,
+2015,Orland Park,339.96000000000004
+2016,Orland Park,
+2017,Orland Park,
+2018,Orland Park,
+2014,Orlando,6.642000000000001
+2015,Orlando,87.168
+2016,Orlando,574.056
+2017,Orlando,1072.2140000000004
+2018,Orlando,
+2014,Ormond Beach,
+2015,Ormond Beach,
+2016,Ormond Beach,
+2017,Ormond Beach,2.8080000000000007
+2018,Ormond Beach,
+2014,Oswego,321.97799999999995
+2015,Oswego,
+2016,Oswego,
+2017,Oswego,
+2018,Oswego,
+2014,Overland Park,
+2015,Overland Park,
+2016,Overland Park,186.95
+2017,Overland Park,419.96
+2018,Overland Park,
+2014,Owensboro,25.5
+2015,Owensboro,45.68
+2016,Owensboro,
+2017,Owensboro,
+2018,Owensboro,
+2014,Oxnard,127.94999999999999
+2015,Oxnard,131.48000000000002
+2016,Oxnard,1215.7200000000003
+2017,Oxnard,82.95
+2018,Oxnard,
+2014,Palatine,
+2015,Palatine,
+2016,Palatine,
+2017,Palatine,116.312
+2018,Palatine,
+2014,Palm Coast,242.54600000000002
+2015,Palm Coast,
+2016,Palm Coast,7.434000000000001
+2017,Palm Coast,24.448
+2018,Palm Coast,
+2014,Park Ridge,
+2015,Park Ridge,254.74400000000003
+2016,Park Ridge,286.40000000000003
+2017,Park Ridge,143.85600000000002
+2018,Park Ridge,
+2014,Parker,
+2015,Parker,
+2016,Parker,874.3080000000001
+2017,Parker,193.63400000000001
+2018,Parker,
+2014,Parma,191.33999999999997
+2015,Parma,
+2016,Parma,3652.064
+2017,Parma,36.352000000000004
+2018,Parma,
+2014,Pasadena,493.15200000000004
+2015,Pasadena,170.35200000000003
+2016,Pasadena,2890.852
+2017,Pasadena,2362.236
+2018,Pasadena,
+2014,Pasadena,
+2015,Pasadena,671.93
+2016,Pasadena,
+2017,Pasadena,
+2018,Pasadena,
+2014,Pasadena,
+2015,Pasadena,
+2016,Pasadena,
+2017,Pasadena,1.6239999999999994
+2018,Pasadena,
+2014,Pasco,1771.52
+2015,Pasco,
+2016,Pasco,
+2017,Pasco,429.592
+2018,Pasco,
+2014,Passaic,
+2015,Passaic,
+2016,Passaic,1562.0860000000002
+2017,Passaic,
+2018,Passaic,
+2014,Paterson,
+2015,Paterson,744.75
+2016,Paterson,475.85999999999996
+2017,Paterson,1022.5999999999999
+2018,Paterson,
+2014,Pearland,
+2015,Pearland,
+2016,Pearland,
+2017,Pearland,494.9960000000001
+2018,Pearland,
+2014,Pembroke Pines,
+2015,Pembroke Pines,
+2016,Pembroke Pines,24.066
+2017,Pembroke Pines,1230.8760000000002
+2018,Pembroke Pines,
+2014,Pembroke Pines,
+2015,Pembroke Pines,375.45750000000004
+2016,Pembroke Pines,
+2017,Pembroke Pines,
+2018,Pembroke Pines,
+2014,Pembroke Pines,
+2015,Pembroke Pines,83.97600000000001
+2016,Pembroke Pines,
+2017,Pembroke Pines,
+2018,Pembroke Pines,
+2014,Pensacola,
+2015,Pensacola,
+2016,Pensacola,2.2140000000000004
+2017,Pensacola,
+2018,Pensacola,
+2014,Peoria,
+2015,Peoria,963.806
+2016,Peoria,3.979999999999999
+2017,Peoria,736.604
+2018,Peoria,125.97999999999999
+2014,Peoria,12.461999999999996
+2015,Peoria,
+2016,Peoria,
+2017,Peoria,
+2018,Peoria,
+2014,Perth Amboy,
+2015,Perth Amboy,286.78999999999996
+2016,Perth Amboy,1252.08
+2017,Perth Amboy,178.20999999999998
+2018,Perth Amboy,
+2014,Pharr,
+2015,Pharr,
+2016,Pharr,1416.3039999999999
+2017,Pharr,124.404
+2018,Pharr,
+2014,Philadelphia,16728.618
+2015,Philadelphia,15848.954999999998
+2016,Philadelphia,28827.328000000005
+2017,Philadelphia,41407.272
+2018,Philadelphia,
+2014,Philadelphia,
+2015,Philadelphia,15.76
+2016,Philadelphia,37.76400000000001
+2017,Philadelphia,11.648000000000001
+2018,Philadelphia,
+2014,Philadelphia,171.06400000000002
+2015,Philadelphia,9.618000000000002
+2016,Philadelphia,
+2017,Philadelphia,16.056
+2018,Philadelphia,
+2014,Philadelphia,17.856
+2015,Philadelphia,
+2016,Philadelphia,82.8
+2017,Philadelphia,18.176
+2018,Philadelphia,
+2014,Philadelphia,
+2015,Philadelphia,3.2640000000000002
+2016,Philadelphia,54.224000000000004
+2017,Philadelphia,
+2018,Philadelphia,
+2014,Philadelphia,30.991999999999997
+2015,Philadelphia,3086.3900000000003
+2016,Philadelphia,4.896000000000001
+2017,Philadelphia,27.785999999999998
+2018,Philadelphia,
+2014,Philadelphia,
+2015,Philadelphia,86.304
+2016,Philadelphia,786.744
+2017,Philadelphia,
+2018,Philadelphia,
+2014,Philadelphia,509.9700000000001
+2015,Philadelphia,536.724
+2016,Philadelphia,20.724000000000004
+2017,Philadelphia,59.712
+2018,Philadelphia,
+2014,Philadelphia,
+2015,Philadelphia,124.20000000000002
+2016,Philadelphia,290.898
+2017,Philadelphia,
+2018,Philadelphia,
+2014,Philadelphia,
+2015,Philadelphia,6.858000000000001
+2016,Philadelphia,183.04000000000002
+2017,Philadelphia,71.37199999999999
+2018,Philadelphia,
+2014,Phoenix,1164.7650000000003
+2015,Phoenix,3678.716
+2016,Phoenix,2336.272
+2017,Phoenix,3574.1240000000003
+2018,Phoenix,
+2014,Phoenix,
+2015,Phoenix,
+2016,Phoenix,
+2017,Phoenix,243.99200000000002
+2018,Phoenix,
+2014,Phoenix,
+2015,Phoenix,
+2016,Phoenix,
+2017,Phoenix,2.3880000000000003
+2018,Phoenix,
+2014,Pico Rivera,
+2015,Pico Rivera,
+2016,Pico Rivera,
+2017,Pico Rivera,145.9
+2018,Pico Rivera,
+2014,Pine Bluff,
+2015,Pine Bluff,
+2016,Pine Bluff,
+2017,Pine Bluff,212.91000000000003
+2018,Pine Bluff,
+2014,Plainfield,79.56
+2015,Plainfield,
+2016,Plainfield,910.53
+2017,Plainfield,3536.7599999999998
+2018,Plainfield,
+2014,Plano,2244.3705999999997
+2015,Plano,
+2016,Plano,13.616
+2017,Plano,1272.388
+2018,Plano,
+2014,Plantation,
+2015,Plantation,1436.836
+2016,Plantation,
+2017,Plantation,
+2018,Plantation,
+2014,Pleasant Grove,2126.0340000000006
+2015,Pleasant Grove,12.144
+2016,Pleasant Grove,
+2017,Pleasant Grove,
+2018,Pleasant Grove,
+2014,Pocatello,
+2015,Pocatello,495.736
+2016,Pocatello,34.68
+2017,Pocatello,814.5260000000001
+2018,Pocatello,
+2014,Pomona,118.73
+2015,Pomona,942.3520000000001
+2016,Pomona,
+2017,Pomona,421.42
+2018,Pomona,
+2014,Pompano Beach,
+2015,Pompano Beach,
+2016,Pompano Beach,
+2017,Pompano Beach,90.44
+2018,Pompano Beach,
+2014,Port Arthur,5.184000000000001
+2015,Port Arthur,697.8208
+2016,Port Arthur,
+2017,Port Arthur,34.048
+2018,Port Arthur,
+2014,Port Orange,
+2015,Port Orange,
+2016,Port Orange,
+2017,Port Orange,7.824
+2018,Port Orange,
+2014,Port Saint Lucie,
+2015,Port Saint Lucie,231.92000000000002
+2016,Port Saint Lucie,2.6940000000000004
+2017,Port Saint Lucie,14.336000000000002
+2018,Port Saint Lucie,
+2014,Portage,16.28
+2015,Portage,
+2016,Portage,
+2017,Portage,
+2018,Portage,
+2014,Portland,746.5840000000001
+2015,Portland,1257.3820000000003
+2016,Portland,923.869
+2017,Portland,705.6880000000001
+2018,Portland,
+2014,Portland,
+2015,Portland,31.104000000000006
+2016,Portland,
+2017,Portland,
+2018,Portland,
+2014,Portland,
+2015,Portland,141.76
+2016,Portland,
+2017,Portland,
+2018,Portland,
+2014,Portland,
+2015,Portland,239.80000000000004
+2016,Portland,
+2017,Portland,5.682000000000001
+2018,Portland,
+2014,Providence,
+2015,Providence,3894.33
+2016,Providence,10973.68
+2017,Providence,1112.64
+2018,Providence,
+2014,Provo,21.98
+2015,Provo,912.75
+2016,Provo,44.400000000000006
+2017,Provo,1782.1040000000003
+2018,Provo,
+2014,Pueblo,36.252
+2015,Pueblo,849.136
+2016,Pueblo,801.5500000000001
+2017,Pueblo,
+2018,Pueblo,
+2014,Quincy,
+2015,Quincy,231.824
+2016,Quincy,551.739
+2017,Quincy,393.76
+2018,Quincy,
+2014,Quincy,
+2015,Quincy,
+2016,Quincy,99.13600000000001
+2017,Quincy,
+2018,Quincy,
+2014,Raleigh,524.528
+2015,Raleigh,474.60400000000004
+2016,Raleigh,2234.548
+2017,Raleigh,1273.8600000000004
+2018,Raleigh,
+2014,Rancho Cucamonga,34.272
+2015,Rancho Cucamonga,5.76
+2016,Rancho Cucamonga,
+2017,Rancho Cucamonga,191.82
+2018,Rancho Cucamonga,
+2014,Rapid City,152.64000000000001
+2015,Rapid City,
+2016,Rapid City,
+2017,Rapid City,
+2018,Rapid City,
+2014,Reading,545.928
+2015,Reading,15.008000000000003
+2016,Reading,303.92
+2017,Reading,8.856
+2018,Reading,
+2014,Redding,333.576
+2015,Redding,
+2016,Redding,
+2017,Redding,
+2018,Redding,
+2014,Redlands,
+2015,Redlands,2752.161
+2016,Redlands,124.58
+2017,Redlands,
+2018,Redlands,
+2014,Redlands,
+2015,Redlands,14.280000000000001
+2016,Redlands,
+2017,Redlands,
+2018,Redlands,
+2014,Redmond,
+2015,Redmond,711.7840000000001
+2016,Redmond,78.26400000000001
+2017,Redmond,308.209
+2018,Redmond,
+2014,Redondo Beach,1847.683
+2015,Redondo Beach,
+2016,Redondo Beach,112.12
+2017,Redondo Beach,
+2018,Redondo Beach,
+2014,Redwood City,
+2015,Redwood City,
+2016,Redwood City,41.904
+2017,Redwood City,
+2018,Redwood City,
+2014,Reno,480.654
+2015,Reno,
+2016,Reno,
+2017,Reno,163.408
+2018,Reno,
+2014,Renton,
+2015,Renton,
+2016,Renton,
+2017,Renton,1242.6319999999998
+2018,Renton,
+2014,Revere,73.19999999999999
+2015,Revere,760.06
+2016,Revere,
+2017,Revere,
+2018,Revere,
+2014,Richardson,
+2015,Richardson,
+2016,Richardson,190.92
+2017,Richardson,
+2018,Richardson,
+2014,Richardson,
+2015,Richardson,
+2016,Richardson,1097.5440000000003
+2017,Richardson,
+2018,Richardson,
+2014,Richmond,2673.88
+2015,Richmond,1979.91
+2016,Richmond,4475.29
+2017,Richmond,9008.85
+2018,Richmond,
+2014,Rio Rancho,
+2015,Rio Rancho,1114.192
+2016,Rio Rancho,
+2017,Rio Rancho,
+2018,Rio Rancho,
+2014,Riverside,602.4300000000001
+2015,Riverside,160.4
+2016,Riverside,1173.616
+2017,Riverside,7.800000000000001
+2018,Riverside,
+2014,Rochester,491.03999999999996
+2015,Rochester,3121.99
+2016,Rochester,2164.16
+2017,Rochester,2147.2700000000004
+2018,Rochester,
+2014,Rochester,
+2015,Rochester,
+2016,Rochester,
+2017,Rochester,6.16
+2018,Rochester,
+2014,Rochester,
+2015,Rochester,
+2016,Rochester,23.92
+2017,Rochester,
+2018,Rochester,
+2014,Rochester,
+2015,Rochester,
+2016,Rochester,
+2017,Rochester,19.99
+2018,Rochester,
+2014,Rochester Hills,
+2015,Rochester Hills,
+2016,Rochester Hills,
+2017,Rochester Hills,132.52
+2018,Rochester Hills,
+2014,Rock Hill,11.850000000000001
+2015,Rock Hill,
+2016,Rock Hill,
+2017,Rock Hill,
+2018,Rock Hill,
+2014,Rockford,
+2015,Rockford,128.744
+2016,Rockford,2521.5840000000003
+2017,Rockford,515.9
+2018,Rockford,
+2014,Rockville,
+2015,Rockville,26.82
+2016,Rockville,442.95000000000005
+2017,Rockville,
+2018,Rockville,
+2014,Rogers,
+2015,Rogers,
+2016,Rogers,
+2017,Rogers,40.410000000000004
+2018,Rogers,
+2014,Rome,
+2015,Rome,90.882
+2016,Rome,35.01
+2017,Rome,408.96000000000004
+2018,Rome,
+2014,Romeoville,8.951999999999998
+2015,Romeoville,
+2016,Romeoville,
+2017,Romeoville,
+2018,Romeoville,
+2014,Roseville,7.98
+2015,Roseville,2187.04
+2016,Roseville,1047.86
+2017,Roseville,89.55
+2018,Roseville,
+2014,Roseville,
+2015,Roseville,
+2016,Roseville,4.02
+2017,Roseville,
+2018,Roseville,
+2014,Roseville,
+2015,Roseville,
+2016,Roseville,20.04
+2017,Roseville,
+2018,Roseville,
+2014,Roseville,
+2015,Roseville,
+2016,Roseville,65.88
+2017,Roseville,
+2018,Roseville,
+2014,Roseville,
+2015,Roseville,
+2016,Roseville,11.52
+2017,Roseville,
+2018,Roseville,
+2014,Roseville,
+2015,Roseville,
+2016,Roseville,43.120000000000005
+2017,Roseville,
+2018,Roseville,
+2014,Roseville,
+2015,Roseville,
+2016,Roseville,35.44
+2017,Roseville,
+2018,Roseville,
+2014,Roseville,
+2015,Roseville,
+2016,Roseville,76.176
+2017,Roseville,
+2018,Roseville,
+2014,Roswell,755.4199999999998
+2015,Roswell,1073.55
+2016,Roswell,
+2017,Roswell,4823.35
+2018,Roswell,
+2014,Round Rock,
+2015,Round Rock,
+2016,Round Rock,4406.072
+2017,Round Rock,341.96
+2018,Round Rock,106.0208
+2014,Royal Oak,22.38
+2015,Royal Oak,12.96
+2016,Royal Oak,
+2017,Royal Oak,
+2018,Royal Oak,
+2014,Sacramento,1524.6320000000003
+2015,Sacramento,73.672
+2016,Sacramento,345.1
+2017,Sacramento,5367.874
+2018,Sacramento,
+2014,Saginaw,
+2015,Saginaw,
+2016,Saginaw,
+2017,Saginaw,19.76
+2018,Saginaw,
+2014,Saginaw,
+2015,Saginaw,
+2016,Saginaw,
+2017,Saginaw,15.92
+2018,Saginaw,
+2014,Saginaw,
+2015,Saginaw,
+2016,Saginaw,
+2017,Saginaw,91.99
+2018,Saginaw,
+2014,Saginaw,
+2015,Saginaw,
+2016,Saginaw,
+2017,Saginaw,131.98
+2018,Saginaw,
+2014,Saginaw,
+2015,Saginaw,
+2016,Saginaw,
+2017,Saginaw,83.92
+2018,Saginaw,
+2014,Saginaw,
+2015,Saginaw,
+2016,Saginaw,
+2017,Saginaw,52.29
+2018,Saginaw,
+2014,Saint Charles,11.56
+2015,Saint Charles,1368.9260000000002
+2016,Saint Charles,30.344
+2017,Saint Charles,248.82
+2018,Saint Charles,
+2014,Saint Cloud,
+2015,Saint Cloud,
+2016,Saint Cloud,
+2017,Saint Cloud,1331.8200000000002
+2018,Saint Cloud,
+2014,Saint Louis,137.71
+2015,Saint Louis,52.59
+2016,Saint Louis,
+2017,Saint Louis,95.66000000000001
+2018,Saint Louis,
+2014,Saint Paul,
+2015,Saint Paul,
+2016,Saint Paul,114.94999999999999
+2017,Saint Paul,
+2018,Saint Paul,
+2014,Saint Paul,
+2015,Saint Paul,
+2016,Saint Paul,77.88
+2017,Saint Paul,
+2018,Saint Paul,
+2014,Saint Peters,
+2015,Saint Peters,
+2016,Saint Peters,697.16
+2017,Saint Peters,
+2018,Saint Peters,
+2014,Saint Petersburg,542.1600000000001
+2015,Saint Petersburg,937.6080000000001
+2016,Saint Petersburg,
+2017,Saint Petersburg,17.088
+2018,Saint Petersburg,
+2014,Saint Petersburg,15.552000000000003
+2015,Saint Petersburg,
+2016,Saint Petersburg,
+2017,Saint Petersburg,
+2018,Saint Petersburg,
+2014,Saint Petersburg,178.38400000000001
+2015,Saint Petersburg,
+2016,Saint Petersburg,
+2017,Saint Petersburg,
+2018,Saint Petersburg,
+2014,Salem,610.7040000000001
+2015,Salem,42.432
+2016,Salem,1044.577
+2017,Salem,1746.532
+2018,Salem,
+2014,Salinas,
+2015,Salinas,481.69800000000004
+2016,Salinas,44.040000000000006
+2017,Salinas,203.15300000000002
+2018,Salinas,
+2014,Salt Lake City,166.44
+2015,Salt Lake City,
+2016,Salt Lake City,219.11999999999998
+2017,Salt Lake City,417.216
+2018,Salt Lake City,
+2014,San Angelo,
+2015,San Angelo,
+2016,San Angelo,345.324
+2017,San Angelo,305.312
+2018,San Angelo,
+2014,San Antonio,3951.0389999999998
+2015,San Antonio,3030.7219999999998
+2016,San Antonio,2227.663
+2017,San Antonio,2094.2079999999996
+2018,San Antonio,
+2014,San Antonio,32.064
+2015,San Antonio,
+2016,San Antonio,
+2017,San Antonio,
+2018,San Antonio,
+2014,San Antonio,177.97999999999996
+2015,San Antonio,
+2016,San Antonio,
+2017,San Antonio,
+2018,San Antonio,
+2014,San Antonio,8159.951999999999
+2015,San Antonio,
+2016,San Antonio,
+2017,San Antonio,
+2018,San Antonio,
+2014,San Antonio,275.928
+2015,San Antonio,
+2016,San Antonio,
+2017,San Antonio,
+2018,San Antonio,
+2014,San Antonio,143.976
+2015,San Antonio,
+2016,San Antonio,
+2017,San Antonio,
+2018,San Antonio,
+2014,San Antonio,9.936
+2015,San Antonio,
+2016,San Antonio,
+2017,San Antonio,
+2018,San Antonio,
+2014,San Antonio,1740.0599999999997
+2015,San Antonio,
+2016,San Antonio,
+2017,San Antonio,
+2018,San Antonio,
+2014,San Bernardino,
+2015,San Bernardino,979.3
+2016,San Bernardino,
+2017,San Bernardino,
+2018,San Bernardino,
+2014,San Clemente,
+2015,San Clemente,
+2016,San Clemente,90.05799999999999
+2017,San Clemente,
+2018,San Clemente,
+2014,San Diego,9181.049000000003
+2015,San Diego,14383.430000000002
+2016,San Diego,14966.021999999999
+2017,San Diego,5635.548000000001
+2018,San Diego,
+2014,San Diego,
+2015,San Diego,
+2016,San Diego,7.61
+2017,San Diego,
+2018,San Diego,
+2014,San Diego,
+2015,San Diego,
+2016,San Diego,3347.37
+2017,San Diego,
+2018,San Diego,
+2014,San Francisco,28175.687999999995
+2015,San Francisco,16024.777999999998
+2016,San Francisco,29385.430999999997
+2017,San Francisco,36247.418999999994
+2018,San Francisco,
+2014,San Francisco,
+2015,San Francisco,
+2016,San Francisco,321.568
+2017,San Francisco,8.82
+2018,San Francisco,
+2014,San Francisco,234.87
+2015,San Francisco,209.92999999999998
+2016,San Francisco,
+2017,San Francisco,
+2018,San Francisco,
+2014,San Francisco,
+2015,San Francisco,
+2016,San Francisco,
+2017,San Francisco,62.172
+2018,San Francisco,
+2014,San Francisco,
+2015,San Francisco,10.92
+2016,San Francisco,50.96
+2017,San Francisco,47.976
+2018,San Francisco,
+2014,San Francisco,23.46
+2015,San Francisco,
+2016,San Francisco,
+2017,San Francisco,
+2018,San Francisco,725.84
+2014,San Francisco,7.712000000000001
+2015,San Francisco,
+2016,San Francisco,49.536
+2017,San Francisco,
+2018,San Francisco,
+2014,San Francisco,
+2015,San Francisco,
+2016,San Francisco,
+2017,San Francisco,143.7
+2018,San Francisco,
+2014,San Francisco,22.72
+2015,San Francisco,5.28
+2016,San Francisco,
+2017,San Francisco,
+2018,San Francisco,
+2014,San Francisco,910.3120000000001
+2015,San Francisco,
+2016,San Francisco,
+2017,San Francisco,
+2018,San Francisco,
+2014,San Gabriel,2061.01
+2015,San Gabriel,
+2016,San Gabriel,
+2017,San Gabriel,
+2018,San Gabriel,
+2014,San Jose,2067.8140000000003
+2015,San Jose,540.728
+2016,San Jose,1704.7039999999997
+2017,San Jose,1513.203
+2018,San Jose,
+2014,San Jose,
+2015,San Jose,105.52
+2016,San Jose,
+2017,San Jose,
+2018,San Jose,
+2014,San Jose,
+2015,San Jose,58.379999999999995
+2016,San Jose,
+2017,San Jose,
+2018,San Jose,
+2014,San Jose,
+2015,San Jose,80.88
+2016,San Jose,
+2017,San Jose,
+2018,San Jose,
+2014,San Luis Obispo,
+2015,San Luis Obispo,
+2016,San Luis Obispo,3.62
+2017,San Luis Obispo,
+2018,San Luis Obispo,
+2014,San Marcos,108.44399999999999
+2015,San Marcos,
+2016,San Marcos,
+2017,San Marcos,
+2018,San Marcos,
+2014,San Mateo,
+2015,San Mateo,
+2016,San Mateo,
+2017,San Mateo,75.17999999999999
+2018,San Mateo,
+2014,Sandy Springs,21.19
+2015,Sandy Springs,
+2016,Sandy Springs,1302.83
+2017,Sandy Springs,673.01
+2018,Sandy Springs,
+2014,Sanford,
+2015,Sanford,
+2016,Sanford,
+2017,Sanford,225.54600000000002
+2018,Sanford,
+2014,Santa Ana,
+2015,Santa Ana,56.3
+2016,Santa Ana,1285.3480000000002
+2017,Santa Ana,2024.662
+2018,Santa Ana,
+2014,Santa Barbara,
+2015,Santa Barbara,402.14599999999996
+2016,Santa Barbara,3528.4880000000003
+2017,Santa Barbara,358.59999999999997
+2018,Santa Barbara,
+2014,Santa Clara,131.84000000000003
+2015,Santa Clara,
+2016,Santa Clara,79.792
+2017,Santa Clara,
+2018,Santa Clara,
+2014,Santa Clara,
+2015,Santa Clara,
+2016,Santa Clara,
+2017,Santa Clara,10.56
+2018,Santa Clara,
+2014,Santa Fe,92.52
+2015,Santa Fe,8.4
+2016,Santa Fe,
+2017,Santa Fe,
+2018,Santa Fe,
+2014,Santa Maria,
+2015,Santa Maria,115.44
+2016,Santa Maria,
+2017,Santa Maria,
+2018,Santa Maria,
+2014,Scottsdale,402.06600000000003
+2015,Scottsdale,11.481000000000002
+2016,Scottsdale,383.88
+2017,Scottsdale,307.776
+2018,Scottsdale,
+2014,Scottsdale,
+2015,Scottsdale,
+2016,Scottsdale,157.92
+2017,Scottsdale,
+2018,Scottsdale,
+2014,Scottsdale,
+2015,Scottsdale,
+2016,Scottsdale,203.184
+2017,Scottsdale,
+2018,Scottsdale,
+2014,Seattle,23074.425999999992
+2015,Seattle,22065.045999999995
+2016,Seattle,16131.042000000005
+2017,Seattle,56983.419999999984
+2018,Seattle,7.4
+2014,Seattle,
+2015,Seattle,
+2016,Seattle,27.680000000000003
+2017,Seattle,
+2018,Seattle,
+2014,Seattle,
+2015,Seattle,6.63
+2016,Seattle,
+2017,Seattle,
+2018,Seattle,
+2014,Seattle,
+2015,Seattle,787.53
+2016,Seattle,
+2017,Seattle,
+2018,Seattle,
+2014,Seattle,457.56800000000004
+2015,Seattle,
+2016,Seattle,407.97600000000006
+2017,Seattle,
+2018,Seattle,
+2014,Sheboygan,
+2015,Sheboygan,
+2016,Sheboygan,79.74
+2017,Sheboygan,
+2018,Sheboygan,
+2014,Shelton,
+2015,Shelton,
+2016,Shelton,73.33
+2017,Shelton,
+2018,Shelton,
+2014,Sierra Vista,
+2015,Sierra Vista,
+2016,Sierra Vista,76.072
+2017,Sierra Vista,
+2018,Sierra Vista,
+2014,Sioux Falls,9.510000000000002
+2015,Sioux Falls,
+2016,Sioux Falls,
+2017,Sioux Falls,1127.9099999999999
+2018,Sioux Falls,
+2014,Skokie,75.59200000000001
+2015,Skokie,
+2016,Skokie,
+2017,Skokie,493.23999999999995
+2018,Skokie,
+2014,Smyrna,67.194
+2015,Smyrna,930.3109999999999
+2016,Smyrna,2204.8140000000003
+2017,Smyrna,36.57
+2018,Smyrna,
+2014,South Bend,
+2015,South Bend,1238.3300000000002
+2016,South Bend,
+2017,South Bend,
+2018,South Bend,
+2014,Southaven,616.14
+2015,Southaven,
+2016,Southaven,
+2017,Southaven,839.25
+2018,Southaven,
+2014,Sparks,
+2015,Sparks,79.36
+2016,Sparks,2482.6
+2017,Sparks,
+2018,Sparks,
+2014,Spokane,
+2015,Spokane,263.78
+2016,Spokane,837.5999999999999
+2017,Spokane,926.5380000000001
+2018,Spokane,
+2014,Springdale,
+2015,Springdale,
+2016,Springdale,
+2017,Springdale,4.3
+2018,Springdale,
+2014,Springfield,7812.498999999996
+2015,Springfield,11723.641
+2016,Springfield,13039.05
+2017,Springfield,10403.272
+2018,Springfield,
+2014,Springfield,
+2015,Springfield,
+2016,Springfield,75.88
+2017,Springfield,
+2018,Springfield,
+2014,Sterling Heights,
+2015,Sterling Heights,98.36
+2016,Sterling Heights,11.68
+2017,Sterling Heights,
+2018,Sterling Heights,
+2014,Stockton,
+2015,Stockton,
+2016,Stockton,489.16
+2017,Stockton,738.44
+2018,Stockton,
+2014,Suffolk,
+2015,Suffolk,373.25
+2016,Suffolk,158.81
+2017,Suffolk,1065.8400000000001
+2018,Suffolk,
+2014,Summerville,
+2015,Summerville,
+2016,Summerville,
+2017,Summerville,406.93999999999994
+2018,Summerville,
+2014,Sunnyvale,
+2015,Sunnyvale,
+2016,Sunnyvale,
+2017,Sunnyvale,636.21
+2018,Sunnyvale,
+2014,Superior,
+2015,Superior,17.12
+2016,Superior,1282.61
+2017,Superior,
+2018,Superior,
+2014,Tallahassee,
+2015,Tallahassee,8.226
+2016,Tallahassee,2556.4120000000003
+2017,Tallahassee,4686.031000000001
+2018,Tallahassee,
+2014,Tamarac,
+2015,Tamarac,3.444000000000001
+2016,Tamarac,
+2017,Tamarac,
+2018,Tamarac,
+2014,Tamarac,
+2015,Tamarac,
+2016,Tamarac,254.05800000000002
+2017,Tamarac,
+2018,Tamarac,
+2014,Tamarac,
+2015,Tamarac,
+2016,Tamarac,961.4800000000001
+2017,Tamarac,
+2018,Tamarac,
+2014,Tamarac,
+2015,Tamarac,
+2016,Tamarac,194.52800000000002
+2017,Tamarac,
+2018,Tamarac,
+2014,Tampa,2158.923
+2015,Tampa,411.192
+2016,Tampa,833.6550000000001
+2017,Tampa,56.46000000000001
+2018,Tampa,
+2014,Tampa,
+2015,Tampa,
+2016,Tampa,
+2017,Tampa,233.86
+2018,Tampa,
+2014,Tampa,
+2015,Tampa,
+2016,Tampa,
+2017,Tampa,617.9760000000001
+2018,Tampa,
+2014,Tampa,
+2015,Tampa,
+2016,Tampa,
+2017,Tampa,620.6145000000001
+2018,Tampa,
+2014,Tampa,
+2015,Tampa,
+2016,Tampa,
+2017,Tampa,258.072
+2018,Tampa,
+2014,Tampa,
+2015,Tampa,
+2016,Tampa,
+2017,Tampa,5.328000000000001
+2018,Tampa,
+2014,Taylor,
+2015,Taylor,
+2016,Taylor,301.96
+2017,Taylor,
+2018,Taylor,
+2014,Taylor,
+2015,Taylor,9.84
+2016,Taylor,
+2017,Taylor,
+2018,Taylor,
+2014,Taylor,
+2015,Taylor,41.9
+2016,Taylor,
+2017,Taylor,
+2018,Taylor,
+2014,Temecula,
+2015,Temecula,808.6660000000002
+2016,Temecula,
+2017,Temecula,
+2018,Temecula,
+2014,Tempe,677.544
+2015,Tempe,3.366000000000001
+2016,Tempe,307.92
+2017,Tempe,81.47200000000001
+2018,Tempe,
+2014,Texarkana,605.34
+2015,Texarkana,
+2016,Texarkana,
+2017,Texarkana,48.9
+2018,Texarkana,
+2014,Texas City,489.22999999999996
+2015,Texas City,301.742
+2016,Texas City,
+2017,Texas City,
+2018,Texas City,
+2014,The Colony,
+2015,The Colony,
+2016,The Colony,142.16
+2017,The Colony,
+2018,The Colony,
+2014,Thomasville,
+2015,Thomasville,
+2016,Thomasville,151.292
+2017,Thomasville,
+2018,Thomasville,
+2014,Thornton,447.94399999999996
+2015,Thornton,10.944
+2016,Thornton,
+2017,Thornton,306.36
+2018,Thornton,
+2014,Thousand Oaks,
+2015,Thousand Oaks,48.734
+2016,Thousand Oaks,
+2017,Thousand Oaks,190.07
+2018,Thousand Oaks,
+2014,Tigard,1122.968
+2015,Tigard,
+2016,Tigard,65.07000000000001
+2017,Tigard,205.74400000000003
+2018,Tigard,
+2014,Tinley Park,
+2015,Tinley Park,22.288
+2016,Tinley Park,
+2017,Tinley Park,
+2018,Tinley Park,
+2014,Toledo,1709.654
+2015,Toledo,795.558
+2016,Toledo,372.692
+2017,Toledo,1588.149
+2018,Toledo,
+2014,Torrance,
+2015,Torrance,
+2016,Torrance,1120.368
+2017,Torrance,2011.8999999999999
+2018,Torrance,
+2014,Trenton,1109.7250000000001
+2015,Trenton,
+2016,Trenton,338.53999999999996
+2017,Trenton,316.93000000000006
+2018,Trenton,
+2014,Troy,257.752
+2015,Troy,1656.3900000000003
+2016,Troy,428.8860000000001
+2017,Troy,1508.9729999999997
+2018,Troy,
+2014,Troy,
+2015,Troy,
+2016,Troy,48.480000000000004
+2017,Troy,
+2018,Troy,
+2014,Troy,
+2015,Troy,
+2016,Troy,208.56
+2017,Troy,
+2018,Troy,
+2014,Troy,
+2015,Troy,
+2016,Troy,1.68
+2017,Troy,
+2018,Troy,
+2014,Troy,
+2015,Troy,
+2016,Troy,319.41
+2017,Troy,
+2018,Troy,
+2014,Troy,
+2015,Troy,
+2016,Troy,14.56
+2017,Troy,
+2018,Troy,
+2014,Troy,
+2015,Troy,
+2016,Troy,32.400000000000006
+2017,Troy,
+2018,Troy,
+2014,Troy,
+2015,Troy,
+2016,Troy,30
+2017,Troy,
+2018,Troy,
+2014,Tucson,1248.776
+2015,Tucson,1030.984
+2016,Tucson,852.4880000000002
+2017,Tucson,1660.3919999999998
+2018,Tucson,
+2014,Tucson,479.04
+2015,Tucson,
+2016,Tucson,
+2017,Tucson,
+2018,Tucson,
+2014,Tucson,8.160000000000002
+2015,Tucson,
+2016,Tucson,
+2017,Tucson,
+2018,Tucson,
+2014,Tucson,1023.9360000000001
+2015,Tucson,
+2016,Tucson,
+2017,Tucson,
+2018,Tucson,
+2014,Tucson,9.24
+2015,Tucson,
+2016,Tucson,
+2017,Tucson,
+2018,Tucson,
+2014,Tulsa,1683.9699999999998
+2015,Tulsa,14.940000000000001
+2016,Tulsa,1235.68
+2017,Tulsa,2622.3800000000006
+2018,Tulsa,
+2014,Tuscaloosa,
+2015,Tuscaloosa,
+2016,Tuscaloosa,
+2017,Tuscaloosa,175.70000000000002
+2018,Tuscaloosa,
+2014,Twin Falls,
+2015,Twin Falls,
+2016,Twin Falls,1148.8059999999998
+2017,Twin Falls,
+2018,Twin Falls,
+2014,Tyler,51.18399999999998
+2015,Tyler,
+2016,Tyler,
+2017,Tyler,296.022
+2018,Tyler,
+2014,Urbandale,
+2015,Urbandale,
+2016,Urbandale,
+2017,Urbandale,45.92
+2018,Urbandale,
+2014,Urbandale,
+2015,Urbandale,
+2016,Urbandale,75.96
+2017,Urbandale,
+2018,Urbandale,
+2014,Urbandale,
+2015,Urbandale,
+2016,Urbandale,27.240000000000002
+2017,Urbandale,
+2018,Urbandale,
+2014,Utica,414.62999999999994
+2015,Utica,79.99
+2016,Utica,40.48
+2017,Utica,119.94
+2018,Utica,
+2014,Vacaville,423.28
+2015,Vacaville,
+2016,Vacaville,
+2017,Vacaville,
+2018,Vacaville,
+2014,Vallejo,156.786
+2015,Vallejo,
+2016,Vallejo,1064.624
+2017,Vallejo,
+2018,Vallejo,
+2014,Vancouver,
+2015,Vancouver,
+2016,Vancouver,677.1959999999999
+2017,Vancouver,9.64
+2018,Vancouver,
+2014,Vineland,
+2015,Vineland,11.12
+2016,Vineland,244.00599999999997
+2017,Vineland,392.8400000000001
+2018,Vineland,
+2014,Virginia Beach,3772.09
+2015,Virginia Beach,182.91
+2016,Virginia Beach,1131.69
+2017,Virginia Beach,665.44
+2018,Virginia Beach,
+2014,Visalia,
+2015,Visalia,7.92
+2016,Visalia,310.86
+2017,Visalia,
+2018,Visalia,
+2014,Waco,
+2015,Waco,
+2016,Waco,23.968000000000004
+2017,Waco,582.1392
+2018,Waco,
+2014,Warner Robins,
+2015,Warner Robins,392.93999999999994
+2016,Warner Robins,41.86
+2017,Warner Robins,
+2018,Warner Robins,
+2014,Warwick,
+2015,Warwick,
+2016,Warwick,2111.92
+2017,Warwick,252
+2018,Warwick,
+2014,Warwick,
+2015,Warwick,
+2016,Warwick,
+2017,Warwick,12.96
+2018,Warwick,
+2014,Warwick,
+2015,Warwick,
+2016,Warwick,
+2017,Warwick,49.96
+2018,Warwick,
+2014,Washington,
+2015,Washington,2670.1899999999996
+2016,Washington,117.07000000000001
+2017,Washington,77.75999999999999
+2018,Washington,
+2014,Waterbury,
+2015,Waterbury,
+2016,Waterbury,837.8000000000001
+2017,Waterbury,488.26
+2018,Waterbury,
+2014,Waterloo,
+2015,Waterloo,
+2016,Waterloo,
+2017,Waterloo,30.32
+2018,Waterloo,
+2014,Watertown,126.52000000000001
+2015,Watertown,1573.488
+2016,Watertown,698.5
+2017,Watertown,1646.49
+2018,Watertown,
+2014,Waukesha,
+2015,Waukesha,
+2016,Waukesha,54.5
+2017,Waukesha,
+2018,Waukesha,
+2014,Wausau,317.47999999999996
+2015,Wausau,
+2016,Wausau,
+2017,Wausau,
+2018,Wausau,
+2014,Waynesboro,425.66999999999996
+2015,Waynesboro,2298.9
+2016,Waynesboro,334.2
+2017,Waynesboro,
+2018,Waynesboro,
+2014,West Allis,
+2015,West Allis,
+2016,West Allis,250.48000000000002
+2017,West Allis,
+2018,West Allis,
+2014,West Jordan,
+2015,West Jordan,256.35
+2016,West Jordan,
+2017,West Jordan,
+2018,West Jordan,
+2014,West Jordan,55.5
+2015,West Jordan,
+2016,West Jordan,
+2017,West Jordan,
+2018,West Jordan,
+2014,West Palm Beach,
+2015,West Palm Beach,69.10400000000001
+2016,West Palm Beach,
+2017,West Palm Beach,72.224
+2018,West Palm Beach,
+2014,Westfield,
+2015,Westfield,
+2016,Westfield,343.53
+2017,Westfield,129.93
+2018,Westfield,
+2014,Westfield,
+2015,Westfield,
+2016,Westfield,
+2017,Westfield,46.26
+2018,Westfield,
+2014,Westland,708.616
+2015,Westland,
+2016,Westland,1137.4
+2017,Westland,
+2018,Westland,
+2014,Westland,211.96
+2015,Westland,
+2016,Westland,
+2017,Westland,
+2018,Westland,
+2014,Westminster,
+2015,Westminster,
+2016,Westminster,
+2017,Westminster,3826.646
+2018,Westminster,
+2014,Wheeling,
+2015,Wheeling,
+2016,Wheeling,615.606
+2017,Wheeling,1331.3600000000001
+2018,Wheeling,
+2014,Whittier,
+2015,Whittier,
+2016,Whittier,
+2017,Whittier,444.76800000000003
+2018,Whittier,
+2014,Wichita,
+2015,Wichita,149.2
+2016,Wichita,243.65
+2017,Wichita,432.41999999999996
+2018,Wichita,
+2014,Wilmington,1903.9399999999996
+2015,Wilmington,3206.626
+2016,Wilmington,3.2820000000000005
+2017,Wilmington,1656.6409999999998
+2018,Wilmington,
+2014,Wilmington,
+2015,Wilmington,
+2016,Wilmington,68.04
+2017,Wilmington,
+2018,Wilmington,
+2014,Wilmington,39.072
+2015,Wilmington,
+2016,Wilmington,
+2017,Wilmington,
+2018,Wilmington,
+2014,Wilmington,
+2015,Wilmington,
+2016,Wilmington,30.84
+2017,Wilmington,
+2018,Wilmington,
+2014,Wilmington,
+2015,Wilmington,
+2016,Wilmington,226.56
+2017,Wilmington,
+2018,Wilmington,
+2014,Wilmington,
+2015,Wilmington,
+2016,Wilmington,47.04
+2017,Wilmington,
+2018,Wilmington,
+2014,Wilmington,
+2015,Wilmington,
+2016,Wilmington,115.02
+2017,Wilmington,
+2018,Wilmington,
+2014,Wilson,
+2015,Wilson,176.92399999999998
+2016,Wilson,191.808
+2017,Wilson,
+2018,Wilson,
+2014,Woodbury,
+2015,Woodbury,72.24000000000001
+2016,Woodbury,535.41
+2017,Woodbury,
+2018,Woodbury,
+2014,Woodland,
+2015,Woodland,
+2016,Woodland,239.98400000000004
+2017,Woodland,24.678
+2018,Woodland,
+2014,Woodstock,295.50000000000006
+2015,Woodstock,
+2016,Woodstock,845.4879999999999
+2017,Woodstock,2.9120000000000004
+2018,Woodstock,
+2014,Woonsocket,52.96
+2015,Woonsocket,51.449999999999996
+2016,Woonsocket,
+2017,Woonsocket,91.14
+2018,Woonsocket,
+2014,Yonkers,756.6340000000001
+2015,Yonkers,
+2016,Yonkers,6125.822
+2017,Yonkers,775.2099999999999
+2018,Yonkers,
+2014,York,
+2015,York,
+2016,York,714.4979999999999
+2017,York,103.48
+2018,York,
+2014,Yucaipa,
+2015,Yucaipa,50.8
+2016,Yucaipa,
+2017,Yucaipa,
+2018,Yucaipa,
+2014,Yuma,
+2015,Yuma,
+2016,Yuma,240.88000000000005
+2017,Yuma,599.9850000000001
+2018,Yuma,
