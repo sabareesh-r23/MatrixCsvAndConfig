@@ -1,0 +1,49 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Region,Orders.Category,Sum(Orders.Discount)
+2014,Central,Furniture,31.660000000000043
+2015,Central,Furniture,27.940000000000026
+2016,Central,Furniture,40.22000000000002
+2017,Central,Furniture,43.22000000000001
+2014,Central,Office Supplies,79.49999999999993
+2015,Central,Office Supplies,72.89999999999995
+2016,Central,Office Supplies,80.09999999999991
+2017,Central,Office Supplies,126.89999999999988
+2014,Central,Technology,12.300000000000004
+2015,Central,Technology,13.700000000000003
+2016,Central,Technology,13.600000000000003
+2017,Central,Technology,16.299999999999997
+2014,East,Furniture,19.900000000000002
+2015,East,Furniture,19.60000000000001
+2016,East,Furniture,24.30000000000003
+2017,East,Furniture,28.80000000000003
+2014,East,Office Supplies,48.09999999999998
+2015,East,Office Supplies,50
+2016,East,Office Supplies,64.99999999999997
+2017,East,Office Supplies,81.59999999999997
+2014,East,Technology,13.700000000000006
+2015,East,Technology,17.200000000000003
+2016,East,Technology,20.09999999999999
+2017,East,Technology,25.699999999999978
+2014,South,Furniture,6.450000000000003
+2015,South,Furniture,8.950000000000003
+2016,South,Furniture,9.150000000000004
+2017,South,Furniture,15.799999999999992
+2014,South,Office Supplies,29.99999999999997
+2015,South,Office Supplies,38.9
+2016,South,Office Supplies,44.40000000000002
+2017,South,Office Supplies,53.3
+2014,South,Technology,5.600000000000001
+2015,South,Technology,5.500000000000002
+2016,South,Technology,9.100000000000005
+2017,South,Technology,11.399999999999999
+2014,West,Furniture,18.649999999999977
+2015,West,Furniture,19.79999999999998
+2016,West,Furniture,25.749999999999947
+2017,West,Furniture,28.699999999999935
+2014,West,Office Supplies,32.69999999999998
+2015,West,Office Supplies,37.1
+2016,West,Office Supplies,48.70000000000006
+2017,West,Office Supplies,58.60000000000005
+2014,West,Technology,16.899999999999984
+2015,West,Technology,15.49999999999999
+2016,West,Technology,19.899999999999984
+2017,West,Technology,27.899999999999952
