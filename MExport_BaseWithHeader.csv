@@ -1,0 +1,81 @@
+zPerformance.Category,zPerformance.Brand,zPerformance.Geography,Sum(zPerformance.2019 Shipments),Sum(zPerformance.2018 Shipments)
+Hair Care,Just Natural,Rest of Europe,2663677,2640455
+Skin Care,Just Natural,Rest of Europe,2614171,2650140
+Hair Care,Just Natural,EMEA,2650684,2648738
+Skin Care,Just Natural,EMEA,2593230,2639464
+Hair Care,Just Natural,France,2712428,2723644
+Skin Care,Just Natural,France,2552370,2556761
+Hair Care,Just Natural,UK,2616127,2675792
+Skin Care,Just Natural,UK,2549603,2558319
+Hair Care,Just Natural,Canada,2546580,2559682
+Skin Care,Just Natural,Canada,2689965,2659413
+Hair Care,Just Natural,Italy,2455098,2467815
+Skin Care,Just Natural,Italy,2721441,2706043
+Hair Care,Just Natural,United States,2677760,2642500
+Skin Care,Just Natural,United States,2472720,2477934
+Hair Care,Just Natural,ANZ,2578219,2542142
+Skin Care,Just Natural,ANZ,2479352,2502055
+Hair Care,Just Natural,Germany,2528876,2481466
+Skin Care,Just Natural,Germany,2530619,2548720
+Hair Care,Just Natural,Japan,2404015,2409543
+Skin Care,Just Natural,Japan,2513445,2558553
+Hair Care,Care Essentials,Japan,2682635,2664506
+Skin Care,Care Essentials,Japan,2697818,2704274
+Hair Care,Care Essentials,Italy,2454280,2438662
+Skin Care,Care Essentials,Italy,2776329,2784350
+Hair Care,Care Essentials,Germany,2610421,2586623
+Skin Care,Care Essentials,Germany,2526525,2614647
+Hair Care,Care Essentials,UK,2482724,2506247
+Skin Care,Care Essentials,UK,2637812,2610186
+Hair Care,Care Essentials,ANZ,2613021,2622605
+Skin Care,Care Essentials,ANZ,2482649,2490778
+Hair Care,Care Essentials,Rest of Europe,2580523,2572441
+Skin Care,Care Essentials,Rest of Europe,2581150,2518424
+Hair Care,Care Essentials,EMEA,2501110,2528029
+Skin Care,Care Essentials,EMEA,2572144,2549573
+Hair Care,Care Essentials,United States,2540082,2531580
+Skin Care,Care Essentials,United States,2556858,2540707
+Hair Care,Care Essentials,Canada,2597031,2598199
+Skin Care,Care Essentials,Canada,2400980,2430150
+Hair Care,Care Essentials,France,2509862,2510528
+Skin Care,Care Essentials,France,2498514,2487594
+Hair Care,Prime-o,United States,2648501,2673455
+Skin Care,Prime-o,United States,2652346,2652162
+Hair Care,Prime-o,France,2671153,2605823
+Skin Care,Prime-o,France,2667951,2664236
+Hair Care,Prime-o,Germany,2510253,2531454
+Skin Care,Prime-o,Germany,2757592,2693430
+Hair Care,Prime-o,Italy,2502994,2485242
+Skin Care,Prime-o,Italy,2604104,2639398
+Hair Care,Prime-o,EMEA,2651620,2660137
+Skin Care,Prime-o,EMEA,2434119,2431113
+Hair Care,Prime-o,Canada,2506816,2542473
+Skin Care,Prime-o,Canada,2521886,2546924
+Hair Care,Prime-o,Japan,2349862,2363432
+Skin Care,Prime-o,Japan,2651146,2681605
+Hair Care,Prime-o,ANZ,2592346,2629211
+Skin Care,Prime-o,ANZ,2380046,2389409
+Hair Care,Prime-o,UK,2373349,2349291
+Skin Care,Prime-o,UK,2576824,2621871
+Hair Care,Prime-o,Rest of Europe,2514573,2520495
+Skin Care,Prime-o,Rest of Europe,2459536,2446264
+Hair Care,Glo,UK,2581302,2605669
+Skin Care,Glo,UK,2530018,2554645
+Hair Care,Glo,Italy,2594878,2583146
+Skin Care,Glo,Italy,2587288,2565834
+Hair Care,Glo,Canada,2605796,2574066
+Skin Care,Glo,Canada,2555708,2550405
+Hair Care,Glo,ANZ,2483113,2546325
+Skin Care,Glo,ANZ,2561791,2569378
+Hair Care,Glo,Rest of Europe,2578152,2612303
+Skin Care,Glo,Rest of Europe,2444967,2439133
+Hair Care,Glo,France,2567410,2600873
+Skin Care,Glo,France,2429157,2439610
+Hair Care,Glo,United States,2526121,2496804
+Skin Care,Glo,United States,2471717,2507729
+Hair Care,Glo,Japan,2519605,2544968
+Skin Care,Glo,Japan,2453550,2414293
+Hair Care,Glo,EMEA,2481798,2500918
+Skin Care,Glo,EMEA,2476378,2455500
+Hair Care,Glo,Germany,2558927,2547377
+Skin Care,Glo,Germany,2432849,2399840
