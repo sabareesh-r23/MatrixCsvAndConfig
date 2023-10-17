@@ -1,0 +1,273 @@
+Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Sub-Category,Orders.Region,Sum(Orders.Profit),Sum(Orders.Sales)
+Qtr 1,Furniture,Bookcases,Central,-77.21960000000033,7315.7028
+Qtr 2,Furniture,Bookcases,Central,-226.17200000000003,1864.4016
+Qtr 3,Furniture,Bookcases,Central,-1065.5753999999997,8543.7692
+Qtr 4,Furniture,Bookcases,Central,-628.9373000000002,6433.303199999999
+Qtr 1,Furniture,Bookcases,East,-705.1096000000002,2993.2609999999995
+Qtr 2,Furniture,Bookcases,East,-768.8643000000002,3815.8950000000004
+Qtr 3,Furniture,Bookcases,East,-1525.5414000000005,15179.083999999999
+Qtr 4,Furniture,Bookcases,East,1831.8834999999992,21831.093999999997
+Qtr 1,Furniture,Bookcases,South,70.11659999999998,1283.0059999999999
+Qtr 2,Furniture,Bookcases,South,923.5823999999999,5537.796
+Qtr 3,Furniture,Bookcases,South,394.0634,2041.7360000000003
+Qtr 4,Furniture,Bookcases,South,-48.270600000000016,2036.8240000000003
+Qtr 1,Furniture,Bookcases,West,-270.64199999999994,2761.928
+Qtr 2,Furniture,Bookcases,West,102.9033999999998,8939.599
+Qtr 3,Furniture,Bookcases,West,694.2907999999996,11818.469499999996
+Qtr 4,Furniture,Bookcases,West,-2173.0639,12484.126999999999
+Qtr 1,Furniture,Chairs,Central,650.1833999999996,11577.096
+Qtr 2,Furniture,Chairs,Central,2391.368999999999,24319.143000000007
+Qtr 3,Furniture,Chairs,Central,531.8150999999998,18851.362000000005
+Qtr 4,Furniture,Chairs,Central,3019.3546000000006,30483.045000000006
+Qtr 1,Furniture,Chairs,East,552.0955999999998,6489.792000000001
+Qtr 2,Furniture,Chairs,East,1439.9604999999995,15517.371
+Qtr 3,Furniture,Chairs,East,3500.4154999999996,35064.763
+Qtr 4,Furniture,Chairs,East,3865.298999999999,39188.75700000002
+Qtr 1,Furniture,Chairs,South,1712.4280999999994,9871.988
+Qtr 2,Furniture,Chairs,South,285.77079999999967,10246.523999999998
+Qtr 3,Furniture,Chairs,South,2067.336299999999,9839.496
+Qtr 4,Furniture,Chairs,South,2546.5541,15218.438000000002
+Qtr 1,Furniture,Chairs,West,502.9486999999995,12273.560000000001
+Qtr 2,Furniture,Chairs,West,795.4773999999994,15860.744
+Qtr 3,Furniture,Chairs,West,1239.8039999999987,29177.75199999998
+Qtr 4,Furniture,Chairs,West,1489.3541999999984,44469.27199999997
+Qtr 1,Furniture,Furnishings,Central,-819.9192,2366.162
+Qtr 2,Furniture,Furnishings,Central,-554.9281000000001,3455.014
+Qtr 3,Furniture,Furnishings,Central,-367.62520000000023,5268.389999999998
+Qtr 4,Furniture,Furnishings,Central,-2163.7443,4164.803999999999
+Qtr 1,Furniture,Furnishings,East,771.9949999999999,3005.614
+Qtr 2,Furniture,Furnishings,East,919.0562000000003,5232.674000000001
+Qtr 3,Furniture,Furnishings,East,1492.7006000000003,7046.245999999999
+Qtr 4,Furniture,Furnishings,East,2697.6553,13786.846000000005
+Qtr 1,Furniture,Furnishings,South,432.2597,2072.684
+Qtr 2,Furniture,Furnishings,South,845.4319999999999,4711.9980000000005
+Qtr 3,Furniture,Furnishings,South,499.05009999999993,2438.212
+Qtr 4,Furniture,Furnishings,South,1665.9410999999998,8083.790000000002
+Qtr 1,Furniture,Furnishings,West,1155.9898,4009.882
+Qtr 2,Furniture,Furnishings,West,1496.6542000000004,6955.577999999999
+Qtr 3,Furniture,Furnishings,West,2312.7302999999993,8694.708000000004
+Qtr 4,Furniture,Furnishings,West,2675.896099999999,10412.561999999996
+Qtr 1,Furniture,Tables,Central,-1010.5704000000002,9519.604
+Qtr 2,Furniture,Tables,Central,-1500.0136000000002,5475.67
+Qtr 3,Furniture,Tables,Central,-1168.9767000000002,6432.915999999999
+Qtr 4,Furniture,Tables,Central,119.9102999999995,17726.780999999995
+Qtr 1,Furniture,Tables,East,-2280.0303999999996,7845.123999999999
+Qtr 2,Furniture,Tables,East,-1649.7104,6157.665999999999
+Qtr 3,Furniture,Tables,East,-2529.5720000000006,9251.846
+Qtr 4,Furniture,Tables,East,-4566.0673000000015,15885.171
+Qtr 1,Furniture,Tables,South,-1823.4602000000004,6035.8460000000005
+Qtr 2,Furniture,Tables,South,128.6175999999997,8698.192000000001
+Qtr 3,Furniture,Tables,South,739.7230999999999,8997.726999999999
+Qtr 4,Furniture,Tables,South,-3667.9384,20184.427
+Qtr 1,Furniture,Tables,West,660.2885999999997,8682.188
+Qtr 2,Furniture,Tables,West,115.87379999999928,15274.912
+Qtr 3,Furniture,Tables,West,62.142499999999416,21995.171000000002
+Qtr 4,Furniture,Tables,West,644.3024000000007,38802.29099999999
+Qtr 1,Office Supplies,Appliances,Central,-1211.0787,1820.634
+Qtr 2,Office Supplies,Appliances,Central,-523.6309000000011,9613.714000000002
+Qtr 3,Office Supplies,Appliances,Central,-1063.4756000000002,3563.6790000000005
+Qtr 4,Office Supplies,Appliances,Central,35.70969999999977,8652.816
+Qtr 1,Office Supplies,Appliances,East,955.7744999999998,4115.686
+Qtr 2,Office Supplies,Appliances,East,1438.8111000000004,5451.802000000001
+Qtr 3,Office Supplies,Appliances,East,1659.5391,7310.789999999999
+Qtr 4,Office Supplies,Appliances,East,4337.288699999998,17310.188000000002
+Qtr 1,Office Supplies,Appliances,South,1027.606,4750.834000000001
+Qtr 2,Office Supplies,Appliances,South,287.68049999999994,1149.256
+Qtr 3,Office Supplies,Appliances,South,660.2853999999999,4324.33
+Qtr 4,Office Supplies,Appliances,South,2148.3677000000002,9300.905999999999
+Qtr 1,Office Supplies,Appliances,West,1142.4467000000002,4155.704000000001
+Qtr 2,Office Supplies,Appliances,West,1200.2872999999997,4832.423999999999
+Qtr 3,Office Supplies,Appliances,West,3221.9535000000005,11879.142000000003
+Qtr 4,Office Supplies,Appliances,West,2696.5824000000007,9369.065999999999
+Qtr 1,Office Supplies,Art,Central,243.73509999999993,1160.3280000000007
+Qtr 2,Office Supplies,Art,Central,238.66889999999998,1172.3220000000001
+Qtr 3,Office Supplies,Art,Central,246.84589999999994,1384.08
+Qtr 4,Office Supplies,Art,Central,465.90919999999994,2048.6100000000006
+Qtr 1,Office Supplies,Art,East,254.91379999999998,1039.2939999999999
+Qtr 2,Office Supplies,Art,East,509.97509999999977,2083.95
+Qtr 3,Office Supplies,Art,East,615.3485999999999,2324.116
+Qtr 4,Office Supplies,Art,East,519.7067999999999,2038.404000000001
+Qtr 1,Office Supplies,Art,South,128.155,528.82
+Qtr 2,Office Supplies,Art,South,370.82439999999986,1599.2240000000006
+Qtr 3,Office Supplies,Art,South,288.40600000000006,1289.3560000000002
+Qtr 4,Office Supplies,Art,South,271.20120000000003,1238.222
+Qtr 1,Office Supplies,Art,West,178.4842,605.4159999999999
+Qtr 2,Office Supplies,Art,West,555.5268,2000.1900000000005
+Qtr 3,Office Supplies,Art,West,693.0077000000001,2418.8920000000003
+Qtr 4,Office Supplies,Art,West,947.0783000000005,4187.568
+Qtr 1,Office Supplies,Binders,Central,675.1865999999984,8925.517999999996
+Qtr 2,Office Supplies,Binders,Central,-435.6231000000007,8822.087999999998
+Qtr 3,Office Supplies,Binders,Central,-860.9262000000048,17623.579999999994
+Qtr 4,Office Supplies,Binders,Central,-426.0902000000036,21554.63999999999
+Qtr 1,Office Supplies,Binders,East,2248.1886,6753.896
+Qtr 2,Office Supplies,Binders,East,2075.666699999999,9920.529999999999
+Qtr 3,Office Supplies,Binders,East,3734.5315,21774.609999999997
+Qtr 4,Office Supplies,Binders,East,3209.5478000000003,15048.961000000003
+Qtr 1,Office Supplies,Binders,South,4092.6864000000005,9616.468
+Qtr 2,Office Supplies,Binders,South,2537.6200000000013,8788.093
+Qtr 3,Office Supplies,Binders,South,330.84670000000006,10277.075999999995
+Qtr 4,Office Supplies,Binders,South,-3060.489099999999,8348.704000000002
+Qtr 1,Office Supplies,Binders,West,1655.7087000000004,5044.035
+Qtr 2,Office Supplies,Binders,West,2434.6152000000006,8280.347999999998
+Qtr 3,Office Supplies,Binders,West,5102.840699999998,16655.604000000003
+Qtr 4,Office Supplies,Binders,West,7036.229200000001,26389.10200000001
+Qtr 1,Office Supplies,Envelopes,Central,519.3569999999999,1370.46
+Qtr 2,Office Supplies,Envelopes,Central,271.58029999999997,660.824
+Qtr 3,Office Supplies,Envelopes,Central,297.65409999999997,748.246
+Qtr 4,Office Supplies,Envelopes,Central,688.9368999999997,1857.3419999999996
+Qtr 1,Office Supplies,Envelopes,East,291.06489999999997,646.712
+Qtr 2,Office Supplies,Envelopes,East,326.2854,769.644
+Qtr 3,Office Supplies,Envelopes,East,293.2126,749.66
+Qtr 4,Office Supplies,Envelopes,East,901.8461000000001,2209.8580000000006
+Qtr 1,Office Supplies,Envelopes,South,400.84949999999986,863.458
+Qtr 2,Office Supplies,Envelopes,South,209.63329999999996,476.75399999999996
+Qtr 3,Office Supplies,Envelopes,South,281.27459999999996,729.3739999999999
+Qtr 4,Office Supplies,Envelopes,South,573.7196,1275.9699999999998
+Qtr 1,Office Supplies,Envelopes,West,76.7414,194.34999999999997
+Qtr 2,Office Supplies,Envelopes,West,303.3042,647.8779999999999
+Qtr 3,Office Supplies,Envelopes,West,865.51,1850.4300000000007
+Qtr 4,Office Supplies,Envelopes,West,663.2067999999999,1425.442
+Qtr 1,Office Supplies,Fasteners,Central,23.2366,109.74600000000001
+Qtr 2,Office Supplies,Fasteners,Central,39.97089999999999,132.474
+Qtr 3,Office Supplies,Fasteners,Central,77.24499999999999,246.34199999999996
+Qtr 4,Office Supplies,Fasteners,Central,96.1661,289.468
+Qtr 1,Office Supplies,Fasteners,East,29.4448,90.664
+Qtr 2,Office Supplies,Fasteners,East,32.324799999999996,132.356
+Qtr 3,Office Supplies,Fasteners,East,88.35649999999998,228.478
+Qtr 4,Office Supplies,Fasteners,East,113.86470000000001,368.22
+Qtr 1,Office Supplies,Fasteners,South,22.049099999999996,100.49600000000001
+Qtr 2,Office Supplies,Fasteners,South,19.130399999999998,44.016
+Qtr 3,Office Supplies,Fasteners,South,53.772499999999994,152.43
+Qtr 4,Office Supplies,Fasteners,South,78.7661,206.37400000000002
+Qtr 1,Office Supplies,Fasteners,West,27.657099999999996,95.70200000000001
+Qtr 2,Office Supplies,Fasteners,West,27.97369999999999,174.364
+Qtr 3,Office Supplies,Fasteners,West,77.98400000000001,203.202
+Qtr 4,Office Supplies,Fasteners,West,141.57589999999996,449.94800000000004
+Qtr 1,Office Supplies,Labels,Central,47.65879999999999,123.72800000000001
+Qtr 2,Office Supplies,Labels,Central,405.4438,895.5219999999999
+Qtr 3,Office Supplies,Labels,Central,315.1119,704.924
+Qtr 4,Office Supplies,Labels,Central,304.86490000000003,727.2979999999998
+Qtr 1,Office Supplies,Labels,East,117.33229999999999,269.692
+Qtr 2,Office Supplies,Labels,East,330.84,756.1759999999998
+Qtr 3,Office Supplies,Labels,East,357.0508999999999,859.9139999999999
+Qtr 4,Office Supplies,Labels,East,324.0567999999999,717.1519999999999
+Qtr 1,Office Supplies,Labels,South,316.2304,675.706
+Qtr 2,Office Supplies,Labels,South,121.80090000000001,316.398
+Qtr 3,Office Supplies,Labels,South,441.63,998.1959999999998
+Qtr 4,Office Supplies,Labels,South,161.11099999999996,362.88000000000005
+Qtr 1,Office Supplies,Labels,West,180.2873,377.53000000000003
+Qtr 2,Office Supplies,Labels,West,246.62900000000005,532.0640000000001
+Qtr 3,Office Supplies,Labels,West,722.3009,1501.7500000000002
+Qtr 4,Office Supplies,Labels,West,1153.9050999999997,2667.382
+Qtr 1,Office Supplies,Paper,Central,1077.5797999999998,2690.1240000000007
+Qtr 2,Office Supplies,Paper,Central,1738.3301,4350.158
+Qtr 3,Office Supplies,Paper,Central,1470.0385000000003,3737.5879999999997
+Qtr 4,Office Supplies,Paper,Central,2685.9521,6714.032000000003
+Qtr 1,Office Supplies,Paper,East,1025.4784,2339.3779999999992
+Qtr 2,Office Supplies,Paper,East,1816.3585000000003,4250.680000000001
+Qtr 3,Office Supplies,Paper,East,2659.8738000000008,5826.031999999999
+Qtr 4,Office Supplies,Paper,East,3513.6602999999996,7756.511999999999
+Qtr 1,Office Supplies,Paper,South,1072.9370000000001,2506.768000000001
+Qtr 2,Office Supplies,Paper,South,1466.0370999999998,3557.638
+Qtr 3,Office Supplies,Paper,South,1803.2128,4272.988
+Qtr 4,Office Supplies,Paper,South,1610.3176999999994,3829.1419999999994
+Qtr 1,Office Supplies,Paper,West,1788.3654,3825.5419999999995
+Qtr 2,Office Supplies,Paper,West,2207.7344000000003,4756.624000000001
+Qtr 3,Office Supplies,Paper,West,3375.487100000001,7556.311999999996
+Qtr 4,Office Supplies,Paper,West,4747.649500000002,10525.239999999989
+Qtr 1,Office Supplies,Storage,Central,-201.6177000000001,3425.616
+Qtr 2,Office Supplies,Storage,Central,339.6625999999997,11455.860000000002
+Qtr 3,Office Supplies,Storage,Central,675.0885999999992,13710.899999999998
+Qtr 4,Office Supplies,Storage,Central,1170.0205999999991,18003.61599999999
+Qtr 1,Office Supplies,Storage,East,1221.1290999999999,8039.897999999997
+Qtr 2,Office Supplies,Storage,East,2135.8257,18046.321999999993
+Qtr 3,Office Supplies,Storage,East,1900.537899999998,21542.461999999996
+Qtr 4,Office Supplies,Storage,East,3131.878499999998,23983.902
+Qtr 1,Office Supplies,Storage,South,471.2720999999999,5370.120000000001
+Qtr 2,Office Supplies,Storage,South,974.0226999999998,10209.651999999998
+Qtr 3,Office Supplies,Storage,South,147.5607999999998,6593.3780000000015
+Qtr 4,Office Supplies,Storage,South,681.4409000000002,13594.91
+Qtr 1,Office Supplies,Storage,West,1770.0115999999996,13299.599999999995
+Qtr 2,Office Supplies,Storage,West,955.5640999999999,9369.468
+Qtr 3,Office Supplies,Storage,West,2390.5853999999995,17874.346
+Qtr 4,Office Supplies,Storage,West,3529.1610999999984,29989.438
+Qtr 1,Office Supplies,Supplies,Central,-701.3566000000002,8132.777999999999
+Qtr 2,Office Supplies,Supplies,Central,7.109099999999998,79.656
+Qtr 3,Office Supplies,Supplies,Central,-12.00670000000003,923.014
+Qtr 4,Office Supplies,Supplies,Central,44.36609999999999,331.92400000000004
+Qtr 1,Office Supplies,Supplies,East,35.96859999999998,416.92999999999995
+Qtr 2,Office Supplies,Supplies,East,34.52300000000005,2808.7980000000007
+Qtr 3,Office Supplies,Supplies,East,-1154.6425000000002,5915.510000000001
+Qtr 4,Office Supplies,Supplies,East,-70.98430000000005,1618.8780000000002
+Qtr 1,Office Supplies,Supplies,South,10.007999999999988,88.96000000000001
+Qtr 2,Office Supplies,Supplies,South,128.40760000000006,4818.558
+Qtr 3,Office Supplies,Supplies,South,42.67779999999997,427.44800000000004
+Qtr 4,Office Supplies,Supplies,South,-179.21609999999995,2983.962
+Qtr 1,Office Supplies,Supplies,West,-40.07790000000023,6690.796
+Qtr 2,Office Supplies,Supplies,West,27.554399999999976,929.1560000000001
+Qtr 3,Office Supplies,Supplies,West,492.9032999999996,8851.687999999998
+Qtr 4,Office Supplies,Supplies,West,145.66669999999996,1655.482
+Qtr 1,Technology,Accessories,Central,1099.2083999999998,4970.778000000001
+Qtr 2,Technology,Accessories,Central,588.3111999999999,3589.9999999999995
+Qtr 3,Technology,Accessories,Central,2697.0652999999998,12213.362000000003
+Qtr 4,Technology,Accessories,Central,2867.045699999999,13181.936
+Qtr 1,Technology,Accessories,East,1302.8999,5385.419999999999
+Qtr 2,Technology,Accessories,East,899.8388,4633.949999999999
+Qtr 3,Technology,Accessories,East,4290.783299999999,15785.427999999998
+Qtr 4,Technology,Accessories,East,4702.342400000002,19228.574000000008
+Qtr 1,Technology,Accessories,South,809.8389000000001,2792.9420000000005
+Qtr 2,Technology,Accessories,South,1619.2979999999993,6946.1939999999995
+Qtr 3,Technology,Accessories,South,1853.1881999999998,7311.248
+Qtr 4,Technology,Accessories,South,2722.2173000000007,10226.369999999995
+Qtr 1,Technology,Accessories,West,1911.0868,6464.680000000001
+Qtr 2,Technology,Accessories,West,3429.7891000000004,11303.047999999995
+Qtr 3,Technology,Accessories,West,4863.935600000001,19092.877999999997
+Qtr 4,Technology,Accessories,West,6279.786800000002,24253.510000000006
+Qtr 1,Technology,Copiers,Central,905.9849000000002,3359.944
+Qtr 2,Technology,Copiers,Central,830.9776999999999,2759.924
+Qtr 3,Technology,Copiers,Central,1257.9770999999998,3669.9340000000007
+Qtr 4,Technology,Copiers,Central,12613.901599999997,27469.767999999993
+Qtr 1,Technology,Copiers,East,,
+Qtr 2,Technology,Copiers,East,2444.9714999999987,13839.877999999997
+Qtr 3,Technology,Copiers,East,826.9827999999999,3959.906
+Qtr 4,Technology,Copiers,East,13750.887499999999,35419.678
+Qtr 1,Technology,Copiers,South,1559.972,3959.9179999999997
+Qtr 2,Technology,Copiers,South,404.9865,1379.9540000000002
+Qtr 3,Technology,Copiers,South,751.9624,1599.92
+Qtr 4,Technology,Copiers,South,941.9857999999999,2359.964
+Qtr 1,Technology,Copiers,West,10078.415499999997,22229.792
+Qtr 2,Technology,Copiers,West,1640.9667,5199.896000000001
+Qtr 3,Technology,Copiers,West,5774.888900000001,16599.674000000003
+Qtr 4,Technology,Copiers,West,1832.964,5719.880000000001
+Qtr 1,Technology,Machines,Central,1030.7201999999995,4483.7609999999995
+Qtr 2,Technology,Machines,Central,-134.42889999999994,1826.319
+Qtr 3,Technology,Machines,Central,-2432.093000000003,18036.125999999997
+Qtr 4,Technology,Machines,Central,49.735099999999804,2451.178
+Qtr 1,Technology,Machines,East,806.8556999999998,6537.030000000001
+Qtr 2,Technology,Machines,East,5936.937399999999,19810.708000000002
+Qtr 3,Technology,Machines,East,1067.5746000000004,5440.136
+Qtr 4,Technology,Machines,East,-882.7248000000025,34318.291
+Qtr 1,Technology,Machines,South,944.6515999999974,32905.43
+Qtr 2,Technology,Machines,South,-29.65749999999997,787.1750000000001
+Qtr 3,Technology,Machines,South,68.67739999999912,7876.42
+Qtr 4,Technology,Machines,South,-2422.564499999999,12321.935000000001
+Qtr 1,Technology,Machines,West,1101.9862999999991,7330.248000000001
+Qtr 2,Technology,Machines,West,-1573.691600000002,19215.809
+Qtr 3,Technology,Machines,West,809.2027,5359.253
+Qtr 4,Technology,Machines,West,-956.4238000000005,10538.812
+Qtr 1,Technology,Phones,Central,1314.5845999999997,9758.822000000002
+Qtr 2,Technology,Phones,Central,2349.959599999999,14611.404000000004
+Qtr 3,Technology,Phones,Central,3425.8702000000003,18847.944000000003
+Qtr 4,Technology,Phones,Central,5232.612299999999,29185.112
+Qtr 1,Technology,Phones,East,88.7732000000001,10583.341999999999
+Qtr 2,Technology,Phones,East,1763.9316999999987,14217.129999999996
+Qtr 3,Technology,Phones,East,3403.5957999999973,29509.858
+Qtr 4,Technology,Phones,East,7058.385300000003,46304.651999999995
+Qtr 1,Technology,Phones,South,3217.3527000000004,14859.084000000003
+Qtr 2,Technology,Phones,South,3401.033000000001,17233.680000000004
+Qtr 3,Technology,Phones,South,2277.44,13861.264000000001
+Qtr 4,Technology,Phones,South,1871.4496,12350.41
+Qtr 1,Technology,Phones,West,1356.6453000000004,15695.560000000003
+Qtr 2,Technology,Phones,West,2183.6394,23133.368
+Qtr 3,Technology,Phones,West,2361.6230999999993,27097.24
+Qtr 4,Technology,Phones,West,3277.1915999999987,33669.607999999986
