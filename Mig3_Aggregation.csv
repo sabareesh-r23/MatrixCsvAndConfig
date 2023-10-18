@@ -1,0 +1,69 @@
+Superstore 2023.Region,Superstore 2023.Category,Superstore 2023.Sub-Category,Sum(Superstore 2023.Sales),Superstore 2023.ProfitM
+Central,Technology,Copiers,37259.57,15608.8413
+East,Technology,Copiers,53219.462,17022.8418
+South,Technology,Copiers,9299.756,3658.9067
+West,Technology,Copiers,49749.242,19327.2351
+Central,Technology,Phones,72403.282,12323.0267
+East,Technology,Phones,100614.982,12314.686
+South,Technology,Phones,58304.438,10767.2753
+West,Technology,Phones,98684.352,9110.7426
+Central,Technology,Accessories,33956.076,7251.6306
+East,Technology,Accessories,45033.372,11195.8644
+South,Technology,Accessories,27276.754,7004.5424
+West,Technology,Accessories,61114.116,16484.5983
+Central,Technology,Machines,26797.384,-1486.0666
+East,Technology,Machines,66106.165,6928.6429
+South,Technology,Machines,53890.96,-1438.893
+West,Technology,Machines,42444.122,-618.9264
+Central,Office Supplies,Paper,17491.902,6971.9005
+East,Office Supplies,Paper,20172.602,9015.371
+South,Office Supplies,Paper,14150.984,5947.0614
+West,Office Supplies,Paper,26663.718,12119.2364
+Central,Office Supplies,Binders,56923.282,-1043.6369
+East,Office Supplies,Binders,53497.997,11267.9346
+South,Office Supplies,Binders,37030.341,3900.664
+West,Office Supplies,Binders,55961.113,16096.8016
+Central,Office Supplies,Storage,45930.112,1969.8365
+East,Office Supplies,Storage,71612.584,8389.3712
+South,Office Supplies,Storage,35768.06,2274.2965
+West,Office Supplies,Storage,70532.852,8645.3222
+Central,Office Supplies,Appliances,23582.033,-2638.6175
+East,Office Supplies,Appliances,34188.466,8391.4134
+South,Office Supplies,Appliances,19525.326,4123.9396
+West,Office Supplies,Appliances,30236.336,8261.2699
+Central,Office Supplies,Envelopes,4636.872,1777.5283
+East,Office Supplies,Envelopes,4375.874,1812.409
+South,Office Supplies,Envelopes,3345.556,1465.477
+West,Office Supplies,Envelopes,4118.1,1908.7624
+Central,Office Supplies,Art,5765.34,1195.1591
+East,Office Supplies,Art,7485.764,1899.9443
+South,Office Supplies,Art,4655.622,1058.5866
+West,Office Supplies,Art,9212.066,2374.097
+Central,Office Supplies,Labels,2451.472,1073.0794
+East,Office Supplies,Labels,2602.934,1129.28
+South,Office Supplies,Labels,2353.18,1040.7723
+West,Office Supplies,Labels,5078.726,2303.1223
+Central,Office Supplies,Fasteners,778.03,236.6186
+East,Office Supplies,Fasteners,819.718,263.9908
+South,Office Supplies,Fasteners,503.316,173.7181
+West,Office Supplies,Fasteners,923.216,275.1907
+Central,Office Supplies,Supplies,9467.372,-661.8881
+East,Office Supplies,Supplies,10760.116,-1155.1352
+South,Office Supplies,Supplies,8318.928,1.8773
+West,Office Supplies,Supplies,18127.122,626.0465
+Central,Furniture,Chairs,85230.646,6592.7221
+East,Furniture,Chairs,96260.683,9357.7706
+South,Furniture,Chairs,45176.446,6612.0893
+West,Furniture,Chairs,101781.328,4027.5843
+Central,Furniture,Furnishings,15254.37,-3906.2168
+East,Furniture,Furnishings,29071.38,5881.4071
+South,Furniture,Furnishings,17306.684,3442.6829
+West,Furniture,Furnishings,30072.73,7641.2704
+Central,Furniture,Bookcases,24157.1768,-1997.9043
+East,Furniture,Bookcases,43819.334,-1167.6318
+South,Furniture,Bookcases,10899.362,1339.4918
+West,Furniture,Bookcases,36004.1235,-1646.5117
+Central,Furniture,Tables,39154.971,-3559.6504
+East,Furniture,Tables,39139.807,-11025.3801
+South,Furniture,Tables,43916.192,-4623.0579
+West,Furniture,Tables,84754.562,1482.6073

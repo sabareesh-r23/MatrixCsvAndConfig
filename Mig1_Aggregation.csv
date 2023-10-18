@@ -1,0 +1,197 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Country,Orders.Region,Orders.State,CountNonNull(Orders.Postal Code),Sum(Orders.Profit)
+2014,United States,Central,Illinois,105,-2043.7367000000008
+2015,United States,Central,Illinois,94,-1009.4964000000011
+2016,United States,Central,Illinois,121,-2809.093900000001
+2017,United States,Central,Illinois,172,-6745.560000000002
+2014,United States,Central,Indiana,17,868.1475999999999
+2015,United States,Central,Indiana,36,1990.1290999999997
+2016,United States,Central,Indiana,35,10385.1339
+2017,United States,Central,Indiana,61,5139.525699999998
+2014,United States,Central,Iowa,2,109.50120000000005
+2015,United States,Central,Iowa,4,490.3654
+2016,United States,Central,Iowa,8,308.08149999999995
+2017,United States,Central,Iowa,16,275.86379999999997
+2014,United States,Central,Kansas,6,266.1984
+2015,United States,Central,Kansas,5,76.03450000000001
+2016,United States,Central,Kansas,7,230.84619999999995
+2017,United States,Central,Kansas,6,263.3644
+2014,United States,Central,Michigan,48,1817.1086999999998
+2015,United States,Central,Michigan,69,5165.7983
+2016,United States,Central,Michigan,71,8992.518800000002
+2017,United States,Central,Michigan,67,8487.761799999998
+2014,United States,Central,Minnesota,23,6237.3607
+2015,United States,Central,Minnesota,20,1721.4784000000004
+2016,United States,Central,Minnesota,8,404.46939999999995
+2017,United States,Central,Minnesota,38,2459.8788999999992
+2014,United States,Central,Missouri,14,444.2582
+2015,United States,Central,Missouri,12,2892.6639999999998
+2016,United States,Central,Missouri,14,1365.8578000000002
+2017,United States,Central,Missouri,26,1733.4304999999997
+2014,United States,Central,Nebraska,6,58.167899999999996
+2015,United States,Central,Nebraska,7,203.4658
+2016,United States,Central,Nebraska,15,854.4302
+2017,United States,Central,Nebraska,10,921.0302999999998
+2014,United States,Central,North Dakota,,
+2015,United States,Central,North Dakota,,
+2016,United States,Central,North Dakota,,
+2017,United States,Central,North Dakota,7,230.14969999999997
+2014,United States,Central,Oklahoma,12,762.0691000000002
+2015,United States,Central,Oklahoma,5,660.04
+2016,United States,Central,Oklahoma,32,1677.0952999999993
+2017,United States,Central,Oklahoma,17,1754.7515999999996
+2014,United States,Central,South Dakota,4,48.756600000000006
+2015,United States,Central,South Dakota,,
+2016,United States,Central,South Dakota,,
+2017,United States,Central,South Dakota,8,346.0717000000001
+2014,United States,Central,Texas,217,-9135.014000000014
+2015,United States,Central,Texas,203,-2516.182500000005
+2016,United States,Central,Texas,248,-5239.654900000003
+2017,United States,Central,Texas,317,-8838.504900000004
+2014,United States,Central,Wisconsin,12,1106.7357
+2015,United States,Central,Wisconsin,21,2042.5054
+2016,United States,Central,Wisconsin,44,3729.4786000000004
+2017,United States,Central,Wisconsin,33,1523.0807000000002
+2014,United States,East,Connecticut,15,745.3331999999999
+2015,United States,East,Connecticut,11,427.14509999999996
+2016,United States,East,Connecticut,22,859.2519
+2017,United States,East,Connecticut,34,1479.7616
+2014,United States,East,Delaware,20,1338.5932999999995
+2015,United States,East,Delaware,33,1608.8708
+2016,United States,East,Delaware,24,976.7058000000002
+2017,United States,East,Delaware,19,6053.204900000001
+2014,United States,East,District of Columbia,,
+2015,United States,East,District of Columbia,3,974.3135
+2016,United States,East,District of Columbia,5,50.211800000000004
+2017,United States,East,District of Columbia,2,35.064
+2014,United States,East,Maine,3,256.9266
+2015,United States,East,Maine,3,32.2658
+2016,United States,East,Maine,2,165.29379999999998
+2017,United States,East,Maine,,
+2014,United States,East,Maryland,13,484.9964
+2015,United States,East,Maryland,30,2713.8319
+2016,United States,East,Maryland,25,1051.7434999999996
+2017,United States,East,Maryland,37,2780.6069999999986
+2014,United States,East,Massachusetts,26,2060.9683999999997
+2015,United States,East,Massachusetts,46,1955.6684999999993
+2016,United States,East,Massachusetts,24,1058.2778
+2017,United States,East,Massachusetts,39,1710.5869000000012
+2014,United States,East,New Hampshire,5,108.59499999999998
+2015,United States,East,New Hampshire,9,900.7859
+2016,United States,East,New Hampshire,6,216.90789999999998
+2017,United States,East,New Hampshire,7,480.21399999999994
+2014,United States,East,New Jersey,20,1244.199
+2015,United States,East,New Jersey,18,1315.6196
+2016,United States,East,New Jersey,49,4947.024499999998
+2017,United States,East,New Jersey,43,2266.0707
+2014,United States,East,New York,194,13748.944800000001
+2015,United States,East,New York,262,19277.582600000016
+2016,United States,East,New York,320,16654.94949999999
+2017,United States,East,New York,352,24357.071700000004
+2014,United States,East,Ohio,93,-2131.0641
+2015,United States,East,Ohio,83,-5500.8902
+2016,United States,East,Ohio,132,-7602.895300000003
+2017,United States,East,Ohio,161,-1736.5270000000005
+2014,United States,East,Pennsylvania,115,-2361.8176999999996
+2015,United States,East,Pennsylvania,137,-3900.3451000000014
+2016,United States,East,Pennsylvania,138,-4184.994100000002
+2017,United States,East,Pennsylvania,197,-5112.8034000000025
+2014,United States,East,Rhode Island,13,1563.9346
+2015,United States,East,Rhode Island,7,94.2376
+2016,United States,East,Rhode Island,15,5160.0436
+2017,United States,East,Rhode Island,21,467.41350000000006
+2014,United States,East,Vermont,,
+2015,United States,East,Vermont,2,1191.9270000000001
+2016,United States,East,Vermont,4,789.0754
+2017,United States,East,Vermont,5,263.97589999999997
+2014,United States,East,West Virginia,,
+2015,United States,East,West Virginia,,
+2016,United States,East,West Virginia,,
+2017,United States,East,West Virginia,4,185.9216
+2014,United States,South,Alabama,13,1250.7323999999999
+2015,United States,South,Alabama,13,1199.7853999999998
+2016,United States,South,Alabama,19,2839.9304
+2017,United States,South,Alabama,16,496.3771
+2014,United States,South,Arkansas,17,2031.6858
+2015,United States,South,Arkansas,4,103.00639999999997
+2016,United States,South,Arkansas,20,914.5922
+2017,United States,South,Arkansas,19,959.4027
+2014,United States,South,Florida,86,-1412.7599000000025
+2015,United States,South,Florida,85,-1758.7953000000011
+2016,United States,South,Florida,86,-471.8731000000002
+2017,United States,South,Florida,126,244.12659999999937
+2014,United States,South,Georgia,29,1491.7120999999997
+2015,United States,South,Georgia,40,4763.914699999999
+2016,United States,South,Georgia,53,3546.434599999999
+2017,United States,South,Georgia,62,6447.9819
+2014,United States,South,Kentucky,30,2309.3975000000005
+2015,United States,South,Kentucky,36,2921.9150999999993
+2016,United States,South,Kentucky,22,1216.6625999999997
+2017,United States,South,Kentucky,51,4751.721399999999
+2014,United States,South,Louisiana,15,606.8026
+2015,United States,South,Louisiana,8,288.1276
+2016,United States,South,Louisiana,5,88.268
+2017,United States,South,Louisiana,14,1212.9041000000004
+2014,United States,South,Mississippi,14,545.5311999999999
+2015,United States,South,Mississippi,3,123.20320000000001
+2016,United States,South,Mississippi,23,1475.6798000000001
+2017,United States,South,Mississippi,13,1028.562
+2014,United States,South,North Carolina,43,-1415.0991000000006
+2015,United States,South,North Carolina,47,-1248.1208000000001
+2016,United States,South,North Carolina,74,260.84109999999913
+2017,United States,South,North Carolina,85,-5088.5334
+2014,United States,South,South Carolina,10,466.4175
+2015,United States,South,South Carolina,13,863.8978
+2016,United States,South,South Carolina,11,144.10379999999998
+2017,United States,South,South Carolina,8,294.6374999999999
+2014,United States,South,Tennessee,22,50.02979999999991
+2015,United States,South,Tennessee,41,-1924.1328
+2016,United States,South,Tennessee,39,-163.30399999999997
+2017,United States,South,Tennessee,81,-3304.2866
+2014,United States,South,Virginia,70,5954.670099999998
+2015,United States,South,Virginia,50,2985.7927000000013
+2016,United States,South,Virginia,61,7851.473000000001
+2017,United States,South,Virginia,43,1806.0145999999995
+2014,United States,West,Arizona,48,-903.1981000000005
+2015,United States,West,Arizona,63,236.38349999999937
+2016,United States,West,Arizona,43,-1485.1074999999998
+2017,United States,West,Arizona,70,-1276.0025
+2014,United States,West,California,415,12637.949100000002
+2015,United States,West,California,397,14371.262999999994
+2016,United States,West,California,526,20005.71609999997
+2017,United States,West,California,663,29366.45889999998
+2014,United States,West,Colorado,29,438.1888999999999
+2015,United States,West,Colorado,40,-1141.0659
+2016,United States,West,Colorado,52,-1389.1326000000008
+2017,United States,West,Colorado,61,-4435.8483000000015
+2014,United States,West,Idaho,4,62.050999999999966
+2015,United States,West,Idaho,5,285.317
+2016,United States,West,Idaho,4,280.34650000000005
+2017,United States,West,Idaho,8,199.00859999999992
+2014,United States,West,Montana,5,129.84920000000002
+2015,United States,West,Montana,5,237.5537999999999
+2016,United States,West,Montana,,
+2017,United States,West,Montana,5,1465.9254999999998
+2014,United States,West,Nevada,11,250.27239999999978
+2015,United States,West,Nevada,12,468.0479999999999
+2016,United States,West,Nevada,10,2293.2508
+2017,United States,West,Nevada,6,305.1946999999997
+2014,United States,West,New Mexico,5,156.05150000000003
+2015,United States,West,New Mexico,6,148.72219999999993
+2016,United States,West,New Mexico,4,24.95199999999999
+2017,United States,West,New Mexico,22,827.3904
+2014,United States,West,Oregon,32,-135.40489999999994
+2015,United States,West,Oregon,27,-112.0937000000001
+2016,United States,West,Oregon,35,-565.8461999999998
+2017,United States,West,Oregon,30,-377.1256999999999
+2014,United States,West,Utah,18,822.6555999999999
+2015,United States,West,Utah,12,669.3470999999998
+2016,United States,West,Utah,8,577.3561000000001
+2017,United States,West,Utah,15,477.1747
+2014,United States,West,Washington,94,6607.2765
+2015,United States,West,Washington,75,5328.719700000002
+2016,United States,West,Washington,122,4209.875700000003
+2017,United States,West,Washington,215,17256.779799999993
+2014,United States,West,Wyoming,,
+2015,United States,West,Wyoming,,
+2016,United States,West,Wyoming,1,100.19599999999997
+2017,United States,West,Wyoming,,
