@@ -1,0 +1,781 @@
+Orders.Region,Orders.Category,Orders.Ship Mode,Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.Ship Date.Variation.Date Hierarchy.Quarter,CountNonNull(Orders.Postal Code),Min(Orders.Customer Name)
+Central,Furniture,First Class,2014,Qtr 1,1,Carol Adams
+East,Furniture,First Class,2014,Qtr 1,2,Brendan Sweed
+South,Furniture,First Class,2014,Qtr 1,2,Matt Connell
+West,Furniture,First Class,2014,Qtr 1,4,Aaron Bergman
+Central,Furniture,First Class,2014,Qtr 2,4,Emily Burns
+East,Furniture,First Class,2014,Qtr 2,1,Shirley Daniels
+South,Furniture,First Class,2014,Qtr 2,1,Pauline Johnson
+West,Furniture,First Class,2014,Qtr 2,2,Bill Shonely
+Central,Furniture,First Class,2014,Qtr 3,3,Joni Sundaresam
+East,Furniture,First Class,2014,Qtr 3,7,Jennifer Patt
+South,Furniture,First Class,2014,Qtr 3,5,Corey Catlett
+West,Furniture,First Class,2014,Qtr 3,4,Bruce Stewart
+Central,Furniture,First Class,2014,Qtr 4,5,Joe Kamberova
+East,Furniture,First Class,2014,Qtr 4,9,Anna Andreadi
+South,Furniture,First Class,2014,Qtr 4,3,Fred Hopkins
+West,Furniture,First Class,2014,Qtr 4,15,Carol Triggs
+Central,Furniture,First Class,2015,Qtr 1,4,Allen Armold
+East,Furniture,First Class,2015,Qtr 1,1,Gary Mitchum
+South,Furniture,First Class,2015,Qtr 1,,
+West,Furniture,First Class,2015,Qtr 1,3,Marc Crier
+Central,Furniture,First Class,2015,Qtr 2,3,Laura Armstrong
+East,Furniture,First Class,2015,Qtr 2,2,Victoria Pisteka
+South,Furniture,First Class,2015,Qtr 2,5,Benjamin Venier
+West,Furniture,First Class,2015,Qtr 2,,
+Central,Furniture,First Class,2015,Qtr 3,4,Gary Hansen
+East,Furniture,First Class,2015,Qtr 3,10,Clytie Kelty
+South,Furniture,First Class,2015,Qtr 3,1,Frank Atkinson
+West,Furniture,First Class,2015,Qtr 3,10,Cynthia Arntzen
+Central,Furniture,First Class,2015,Qtr 4,,
+East,Furniture,First Class,2015,Qtr 4,7,Emily Ducich
+South,Furniture,First Class,2015,Qtr 4,4,Ann Blume
+West,Furniture,First Class,2015,Qtr 4,3,Chloris Kastensmidt
+Central,Furniture,First Class,2016,Qtr 1,2,Jason Gross
+East,Furniture,First Class,2016,Qtr 1,4,Dave Kipp
+South,Furniture,First Class,2016,Qtr 1,,
+West,Furniture,First Class,2016,Qtr 1,2,Fred Chung
+Central,Furniture,First Class,2016,Qtr 2,1,Luke Weiss
+East,Furniture,First Class,2016,Qtr 2,4,Arthur Gainer
+South,Furniture,First Class,2016,Qtr 2,2,Herbert Flentye
+West,Furniture,First Class,2016,Qtr 2,8,Darrin Martin
+Central,Furniture,First Class,2016,Qtr 3,5,Elizabeth Moffitt
+East,Furniture,First Class,2016,Qtr 3,6,Anne Pryor
+South,Furniture,First Class,2016,Qtr 3,1,Corey Roper
+West,Furniture,First Class,2016,Qtr 3,6,Aaron Smayling
+Central,Furniture,First Class,2016,Qtr 4,9,Aaron Bergman
+East,Furniture,First Class,2016,Qtr 4,6,Aleksandra Gannaway
+South,Furniture,First Class,2016,Qtr 4,7,Eric Barreto
+West,Furniture,First Class,2016,Qtr 4,10,Adrian Hane
+Central,Furniture,First Class,2017,Qtr 1,2,Cyra Reiten
+East,Furniture,First Class,2017,Qtr 1,7,Brian Dahlen
+South,Furniture,First Class,2017,Qtr 1,1,Mark Van Huff
+West,Furniture,First Class,2017,Qtr 1,6,Bill Eplett
+Central,Furniture,First Class,2017,Qtr 2,5,Greg Tran
+East,Furniture,First Class,2017,Qtr 2,5,Anthony Jacobs
+South,Furniture,First Class,2017,Qtr 2,7,Arthur Gainer
+West,Furniture,First Class,2017,Qtr 2,13,Adam Hart
+Central,Furniture,First Class,2017,Qtr 3,6,Barry Französisch
+East,Furniture,First Class,2017,Qtr 3,10,Adam Shillingsburg
+South,Furniture,First Class,2017,Qtr 3,2,Ricardo Sperren
+West,Furniture,First Class,2017,Qtr 3,9,Erin Creighton
+Central,Furniture,First Class,2017,Qtr 4,10,Brian Moss
+East,Furniture,First Class,2017,Qtr 4,15,Adam Hart
+South,Furniture,First Class,2017,Qtr 4,11,Brian Thompson
+West,Furniture,First Class,2017,Qtr 4,20,Ann Blume
+Central,Furniture,Same Day,2014,Qtr 1,1,Troy Blackwell
+East,Furniture,Same Day,2014,Qtr 1,,
+South,Furniture,Same Day,2014,Qtr 1,1,Trudy Glocke
+West,Furniture,Same Day,2014,Qtr 1,,
+Central,Furniture,Same Day,2014,Qtr 2,,
+East,Furniture,Same Day,2014,Qtr 2,1,Andrew Allen
+South,Furniture,Same Day,2014,Qtr 2,,
+West,Furniture,Same Day,2014,Qtr 2,2,Maya Herman
+Central,Furniture,Same Day,2014,Qtr 3,,
+East,Furniture,Same Day,2014,Qtr 3,2,Bill Shonely
+South,Furniture,Same Day,2014,Qtr 3,1,Chloris Kastensmidt
+West,Furniture,Same Day,2014,Qtr 3,2,Adrian Hane
+Central,Furniture,Same Day,2014,Qtr 4,,
+East,Furniture,Same Day,2014,Qtr 4,1,Muhammed Yedwab
+South,Furniture,Same Day,2014,Qtr 4,1,Barry Gonzalez
+West,Furniture,Same Day,2014,Qtr 4,2,Duane Huffman
+Central,Furniture,Same Day,2015,Qtr 1,,
+East,Furniture,Same Day,2015,Qtr 1,1,Luke Foster
+South,Furniture,Same Day,2015,Qtr 1,,
+West,Furniture,Same Day,2015,Qtr 1,,
+Central,Furniture,Same Day,2015,Qtr 3,2,Mick Crebagga
+East,Furniture,Same Day,2015,Qtr 3,4,Carlos Soltero
+South,Furniture,Same Day,2015,Qtr 3,2,Nat Gilpin
+West,Furniture,Same Day,2015,Qtr 3,5,Daniel Lacy
+Central,Furniture,Same Day,2015,Qtr 4,9,Claire Gute
+East,Furniture,Same Day,2015,Qtr 4,3,Dennis Kane
+South,Furniture,Same Day,2015,Qtr 4,,
+West,Furniture,Same Day,2015,Qtr 4,3,Deirdre Greer
+Central,Furniture,Same Day,2016,Qtr 1,,
+East,Furniture,Same Day,2016,Qtr 1,3,Brad Thomas
+South,Furniture,Same Day,2016,Qtr 1,2,Paul Prost
+West,Furniture,Same Day,2016,Qtr 1,2,Marc Crier
+Central,Furniture,Same Day,2016,Qtr 2,1,Maurice Satty
+East,Furniture,Same Day,2016,Qtr 2,3,Edward Nazzal
+South,Furniture,Same Day,2016,Qtr 2,,
+West,Furniture,Same Day,2016,Qtr 2,3,Ed Braxton
+Central,Furniture,Same Day,2016,Qtr 3,1,Eugene Hildebrand
+East,Furniture,Same Day,2016,Qtr 3,,
+South,Furniture,Same Day,2016,Qtr 3,,
+West,Furniture,Same Day,2016,Qtr 3,5,Edward Becker
+Central,Furniture,Same Day,2016,Qtr 4,1,Mark Hamilton
+East,Furniture,Same Day,2016,Qtr 4,7,Julie Kriz
+South,Furniture,Same Day,2016,Qtr 4,4,Odella Nelson
+West,Furniture,Same Day,2016,Qtr 4,4,Laurel Beltran
+Central,Furniture,Same Day,2017,Qtr 1,1,Stephanie Ulpright
+East,Furniture,Same Day,2017,Qtr 1,1,Susan Pistek
+South,Furniture,Same Day,2017,Qtr 1,,
+West,Furniture,Same Day,2017,Qtr 1,2,Jack O'Briant
+Central,Furniture,Same Day,2017,Qtr 2,,
+East,Furniture,Same Day,2017,Qtr 2,2,Sheri Gordon
+South,Furniture,Same Day,2017,Qtr 2,,
+West,Furniture,Same Day,2017,Qtr 2,1,Pauline Johnson
+Central,Furniture,Same Day,2017,Qtr 3,2,Cynthia Arntzen
+East,Furniture,Same Day,2017,Qtr 3,4,Brenda Bowman
+South,Furniture,Same Day,2017,Qtr 3,1,Angele Hood
+West,Furniture,Same Day,2017,Qtr 3,8,Cassandra Brandow
+Central,Furniture,Same Day,2017,Qtr 4,10,Brian DeCherney
+East,Furniture,Same Day,2017,Qtr 4,3,Anne Pryor
+South,Furniture,Same Day,2017,Qtr 4,1,Pete Takahito
+West,Furniture,Same Day,2017,Qtr 4,4,Beth Paige
+Central,Furniture,Second Class,2014,Qtr 1,2,Guy Armstrong
+East,Furniture,Second Class,2014,Qtr 1,2,Chloris Kastensmidt
+South,Furniture,Second Class,2014,Qtr 1,2,Natalie DeCherney
+West,Furniture,Second Class,2014,Qtr 1,3,Dave Brooks
+Central,Furniture,Second Class,2014,Qtr 2,6,Dianna Wilson
+East,Furniture,Second Class,2014,Qtr 2,3,Art Foster
+South,Furniture,Second Class,2014,Qtr 2,3,Frank Olsen
+West,Furniture,Second Class,2014,Qtr 2,3,Nicole Fjeld
+Central,Furniture,Second Class,2014,Qtr 3,4,Craig Reiter
+East,Furniture,Second Class,2014,Qtr 3,4,Logan Currie
+South,Furniture,Second Class,2014,Qtr 3,3,Cynthia Arntzen
+West,Furniture,Second Class,2014,Qtr 3,4,David Wiener
+Central,Furniture,Second Class,2014,Qtr 4,8,Alan Dominguez
+East,Furniture,Second Class,2014,Qtr 4,15,Andy Reiter
+South,Furniture,Second Class,2014,Qtr 4,6,Alan Schoenberger
+West,Furniture,Second Class,2014,Qtr 4,19,Allen Rosenblatt
+Central,Furniture,Second Class,2015,Qtr 1,4,Amy Hunt
+East,Furniture,Second Class,2015,Qtr 1,6,Alan Haines
+South,Furniture,Second Class,2015,Qtr 1,2,Joseph Holt
+West,Furniture,Second Class,2015,Qtr 1,6,Cathy Prescott
+Central,Furniture,Second Class,2015,Qtr 2,6,Janet Molinari
+East,Furniture,Second Class,2015,Qtr 2,3,Alan Schoenberger
+South,Furniture,Second Class,2015,Qtr 2,,
+West,Furniture,Second Class,2015,Qtr 2,5,Eugene Barchas
+Central,Furniture,Second Class,2015,Qtr 3,4,Arthur Gainer
+East,Furniture,Second Class,2015,Qtr 3,7,Brad Eason
+South,Furniture,Second Class,2015,Qtr 3,5,Barbara Fisher
+West,Furniture,Second Class,2015,Qtr 3,5,Jessica Myrick
+Central,Furniture,Second Class,2015,Qtr 4,5,Carol Adams
+East,Furniture,Second Class,2015,Qtr 4,11,Brian Derr
+South,Furniture,Second Class,2015,Qtr 4,3,Denny Joy
+West,Furniture,Second Class,2015,Qtr 4,13,Darren Budd
+Central,Furniture,Second Class,2016,Qtr 1,,
+East,Furniture,Second Class,2016,Qtr 1,7,Dan Campbell
+South,Furniture,Second Class,2016,Qtr 1,3,Aaron Hawkins
+West,Furniture,Second Class,2016,Qtr 1,8,Bobby Trafton
+Central,Furniture,Second Class,2016,Qtr 2,12,Arthur Wiediger
+East,Furniture,Second Class,2016,Qtr 2,3,Becky Castell
+South,Furniture,Second Class,2016,Qtr 2,2,Ben Ferrer
+West,Furniture,Second Class,2016,Qtr 2,5,Amy Hunt
+Central,Furniture,Second Class,2016,Qtr 3,13,Anna Gayman
+East,Furniture,Second Class,2016,Qtr 3,11,Darren Budd
+South,Furniture,Second Class,2016,Qtr 3,3,Christopher Conant
+West,Furniture,Second Class,2016,Qtr 3,9,Barry Französisch
+Central,Furniture,Second Class,2016,Qtr 4,7,Ashley Jarboe
+East,Furniture,Second Class,2016,Qtr 4,11,Clay Ludtke
+South,Furniture,Second Class,2016,Qtr 4,10,Arthur Prichep
+West,Furniture,Second Class,2016,Qtr 4,10,Alejandro Savely
+Central,Furniture,Second Class,2017,Qtr 1,7,Andy Reiter
+East,Furniture,Second Class,2017,Qtr 1,6,Alejandro Grove
+South,Furniture,Second Class,2017,Qtr 1,1,Lena Cacioppo
+West,Furniture,Second Class,2017,Qtr 1,6,Beth Thompson
+Central,Furniture,Second Class,2017,Qtr 2,5,Erin Mull
+East,Furniture,Second Class,2017,Qtr 2,10,Alan Shonely
+South,Furniture,Second Class,2017,Qtr 2,6,Adam Hart
+West,Furniture,Second Class,2017,Qtr 2,9,Alan Barnes
+Central,Furniture,Second Class,2017,Qtr 3,5,Erica Hernandez
+East,Furniture,Second Class,2017,Qtr 3,15,Bradley Nguyen
+South,Furniture,Second Class,2017,Qtr 3,8,Becky Pak
+West,Furniture,Second Class,2017,Qtr 3,15,Alan Schoenberger
+Central,Furniture,Second Class,2017,Qtr 4,6,Aimee Bixby
+East,Furniture,Second Class,2017,Qtr 4,13,Christina DeMoss
+South,Furniture,Second Class,2017,Qtr 4,7,Brendan Sweed
+West,Furniture,Second Class,2017,Qtr 4,19,Alex Grayson
+Central,Furniture,Second Class,2018,Qtr 1,,
+East,Furniture,Second Class,2018,Qtr 1,,
+South,Furniture,Second Class,2018,Qtr 1,3,Katherine Hughes
+West,Furniture,Second Class,2018,Qtr 1,,
+Central,Furniture,Standard Class,2014,Qtr 1,8,Giulietta Weimer
+East,Furniture,Standard Class,2014,Qtr 1,4,Christine Phan
+South,Furniture,Standard Class,2014,Qtr 1,13,Alan Shonely
+West,Furniture,Standard Class,2014,Qtr 1,9,Beth Fritzler
+Central,Furniture,Standard Class,2014,Qtr 2,14,Christina VanderZanden
+East,Furniture,Standard Class,2014,Qtr 2,17,Anna Andreadi
+South,Furniture,Standard Class,2014,Qtr 2,6,Anna Häberlin
+West,Furniture,Standard Class,2014,Qtr 2,21,Aaron Hawkins
+Central,Furniture,Standard Class,2014,Qtr 3,15,Becky Castell
+East,Furniture,Standard Class,2014,Qtr 3,18,Adam Shillingsburg
+South,Furniture,Standard Class,2014,Qtr 3,7,Barbara Fisher
+West,Furniture,Standard Class,2014,Qtr 3,25,Alyssa Crouse
+Central,Furniture,Standard Class,2014,Qtr 4,21,Alan Barnes
+East,Furniture,Standard Class,2014,Qtr 4,25,Benjamin Farhat
+South,Furniture,Standard Class,2014,Qtr 4,11,Bryan Mills
+West,Furniture,Standard Class,2014,Qtr 4,27,Arthur Prichep
+Central,Furniture,Standard Class,2015,Qtr 1,9,Dana Kaydos
+East,Furniture,Standard Class,2015,Qtr 1,8,Erin Smith
+South,Furniture,Standard Class,2015,Qtr 1,5,Andrew Gjertsen
+West,Furniture,Standard Class,2015,Qtr 1,14,Anthony Johnson
+Central,Furniture,Standard Class,2015,Qtr 2,14,Anna Gayman
+East,Furniture,Standard Class,2015,Qtr 2,17,Alan Dominguez
+South,Furniture,Standard Class,2015,Qtr 2,15,Andrew Gjertsen
+West,Furniture,Standard Class,2015,Qtr 2,17,Bart Watters
+Central,Furniture,Standard Class,2015,Qtr 3,16,Alex Russell
+East,Furniture,Standard Class,2015,Qtr 3,26,Andy Gerbode
+South,Furniture,Standard Class,2015,Qtr 3,12,Barry Weirich
+West,Furniture,Standard Class,2015,Qtr 3,23,Ann Steele
+Central,Furniture,Standard Class,2015,Qtr 4,22,Adam Shillingsburg
+East,Furniture,Standard Class,2015,Qtr 4,26,Brian Moss
+South,Furniture,Standard Class,2015,Qtr 4,19,Anna Häberlin
+West,Furniture,Standard Class,2015,Qtr 4,47,Arthur Wiediger
+Central,Furniture,Standard Class,2016,Qtr 1,19,Bill Overfelt
+East,Furniture,Standard Class,2016,Qtr 1,12,Benjamin Venier
+South,Furniture,Standard Class,2016,Qtr 1,11,Adam Bellavance
+West,Furniture,Standard Class,2016,Qtr 1,5,Annie Zypern
+Central,Furniture,Standard Class,2016,Qtr 2,16,Ben Ferrer
+East,Furniture,Standard Class,2016,Qtr 2,25,Adam Shillingsburg
+South,Furniture,Standard Class,2016,Qtr 2,11,Anna Häberlin
+West,Furniture,Standard Class,2016,Qtr 2,20,Anthony Rawles
+Central,Furniture,Standard Class,2016,Qtr 3,17,Alejandro Grove
+East,Furniture,Standard Class,2016,Qtr 3,24,Anne Pryor
+South,Furniture,Standard Class,2016,Qtr 3,18,Anemone Ratner
+West,Furniture,Standard Class,2016,Qtr 3,29,Adrian Barton
+Central,Furniture,Standard Class,2016,Qtr 4,32,Alejandro Savely
+East,Furniture,Standard Class,2016,Qtr 4,32,Bart Watters
+South,Furniture,Standard Class,2016,Qtr 4,11,Alejandro Ballentine
+West,Furniture,Standard Class,2016,Qtr 4,52,Adrian Shami
+Central,Furniture,Standard Class,2017,Qtr 1,18,Benjamin Venier
+East,Furniture,Standard Class,2017,Qtr 1,10,Brenda Bowman
+South,Furniture,Standard Class,2017,Qtr 1,4,Bradley Drucker
+West,Furniture,Standard Class,2017,Qtr 1,15,Bill Overfelt
+Central,Furniture,Standard Class,2017,Qtr 2,26,Brendan Murry
+East,Furniture,Standard Class,2017,Qtr 2,17,Alice McCarthy
+South,Furniture,Standard Class,2017,Qtr 2,21,Caroline Jumper
+West,Furniture,Standard Class,2017,Qtr 2,19,Charles Sheldon
+Central,Furniture,Standard Class,2017,Qtr 3,16,Arthur Gainer
+East,Furniture,Standard Class,2017,Qtr 3,31,Allen Rosenblatt
+South,Furniture,Standard Class,2017,Qtr 3,13,Anne McFarland
+West,Furniture,Standard Class,2017,Qtr 3,33,Allen Goldenen
+Central,Furniture,Standard Class,2017,Qtr 4,28,Art Ferguson
+East,Furniture,Standard Class,2017,Qtr 4,50,Alan Dominguez
+South,Furniture,Standard Class,2017,Qtr 4,23,Adrian Barton
+West,Furniture,Standard Class,2017,Qtr 4,50,Aaron Smayling
+Central,Furniture,Standard Class,2018,Qtr 1,4,Greg Hansen
+East,Furniture,Standard Class,2018,Qtr 1,1,Patrick O'Donnell
+South,Furniture,Standard Class,2018,Qtr 1,,
+West,Furniture,Standard Class,2018,Qtr 1,4,Ben Peterman
+Central,Office Supplies,First Class,2014,Qtr 1,2,Carol Adams
+East,Office Supplies,First Class,2014,Qtr 1,2,Joy Smith
+South,Office Supplies,First Class,2014,Qtr 1,6,Bruce Geld
+West,Office Supplies,First Class,2014,Qtr 1,6,Aaron Bergman
+Central,Office Supplies,First Class,2014,Qtr 2,11,Dianna Vittorini
+East,Office Supplies,First Class,2014,Qtr 2,10,Bryan Mills
+South,Office Supplies,First Class,2014,Qtr 2,9,Denise Leinenbach
+West,Office Supplies,First Class,2014,Qtr 2,3,Bill Shonely
+Central,Office Supplies,First Class,2014,Qtr 3,12,Brian Moss
+East,Office Supplies,First Class,2014,Qtr 3,17,Christine Sundaresam
+South,Office Supplies,First Class,2014,Qtr 3,6,Christine Sundaresam
+West,Office Supplies,First Class,2014,Qtr 3,14,Bruce Stewart
+Central,Office Supplies,First Class,2014,Qtr 4,15,Adrian Barton
+East,Office Supplies,First Class,2014,Qtr 4,12,Anna Chung
+South,Office Supplies,First Class,2014,Qtr 4,8,Fred Hopkins
+West,Office Supplies,First Class,2014,Qtr 4,31,Aaron Hawkins
+Central,Office Supplies,First Class,2015,Qtr 1,6,Bart Watters
+East,Office Supplies,First Class,2015,Qtr 1,9,Aaron Hawkins
+South,Office Supplies,First Class,2015,Qtr 1,5,Dorothy Dickinson
+West,Office Supplies,First Class,2015,Qtr 1,5,Alice McCarthy
+Central,Office Supplies,First Class,2015,Qtr 2,7,Mark Van Huff
+East,Office Supplies,First Class,2015,Qtr 2,17,Alejandro Ballentine
+South,Office Supplies,First Class,2015,Qtr 2,8,Benjamin Venier
+West,Office Supplies,First Class,2015,Qtr 2,11,Heather Jas
+Central,Office Supplies,First Class,2015,Qtr 3,4,Kelly Williams
+East,Office Supplies,First Class,2015,Qtr 3,18,Alejandro Grove
+South,Office Supplies,First Class,2015,Qtr 3,3,Frank Atkinson
+West,Office Supplies,First Class,2015,Qtr 3,14,Cari Sayre
+Central,Office Supplies,First Class,2015,Qtr 4,7,Anthony Witt
+East,Office Supplies,First Class,2015,Qtr 4,25,Alan Hwang
+South,Office Supplies,First Class,2015,Qtr 4,8,Bradley Drucker
+West,Office Supplies,First Class,2015,Qtr 4,24,Alex Avila
+Central,Office Supplies,First Class,2016,Qtr 1,5,Jason Gross
+East,Office Supplies,First Class,2016,Qtr 1,10,Bill Eplett
+South,Office Supplies,First Class,2016,Qtr 1,5,Aaron Smayling
+West,Office Supplies,First Class,2016,Qtr 1,7,Fred Chung
+Central,Office Supplies,First Class,2016,Qtr 2,6,Bobby Trafton
+East,Office Supplies,First Class,2016,Qtr 2,24,Arthur Gainer
+South,Office Supplies,First Class,2016,Qtr 2,14,Clytie Kelty
+West,Office Supplies,First Class,2016,Qtr 2,21,Chloris Kastensmidt
+Central,Office Supplies,First Class,2016,Qtr 3,10,Bruce Geld
+East,Office Supplies,First Class,2016,Qtr 3,25,Adam Bellavance
+South,Office Supplies,First Class,2016,Qtr 3,10,Craig Yedwab
+West,Office Supplies,First Class,2016,Qtr 3,18,Anna Andreadi
+Central,Office Supplies,First Class,2016,Qtr 4,9,Barry Gonzalez
+East,Office Supplies,First Class,2016,Qtr 4,34,Allen Goldenen
+South,Office Supplies,First Class,2016,Qtr 4,8,Kelly Lampkin
+West,Office Supplies,First Class,2016,Qtr 4,35,Adrian Hane
+Central,Office Supplies,First Class,2017,Qtr 1,8,Claire Gute
+East,Office Supplies,First Class,2017,Qtr 1,14,Bryan Davis
+South,Office Supplies,First Class,2017,Qtr 1,5,Aaron Smayling
+West,Office Supplies,First Class,2017,Qtr 1,14,Christina VanderZanden
+Central,Office Supplies,First Class,2017,Qtr 2,18,Craig Leslie
+East,Office Supplies,First Class,2017,Qtr 2,31,Alan Barnes
+South,Office Supplies,First Class,2017,Qtr 2,18,Arthur Gainer
+West,Office Supplies,First Class,2017,Qtr 2,26,Arthur Prichep
+Central,Office Supplies,First Class,2017,Qtr 3,24,Adrian Hane
+East,Office Supplies,First Class,2017,Qtr 3,29,Adam Hart
+South,Office Supplies,First Class,2017,Qtr 3,12,Anna Gayman
+West,Office Supplies,First Class,2017,Qtr 3,22,Aaron Smayling
+Central,Office Supplies,First Class,2017,Qtr 4,30,Adam Bellavance
+East,Office Supplies,First Class,2017,Qtr 4,26,Adam Hart
+South,Office Supplies,First Class,2017,Qtr 4,15,Adam Shillingsburg
+West,Office Supplies,First Class,2017,Qtr 4,42,Ann Blume
+Central,Office Supplies,Same Day,2014,Qtr 1,4,Annie Zypern
+East,Office Supplies,Same Day,2014,Qtr 1,1,Jas O'Carroll
+South,Office Supplies,Same Day,2014,Qtr 1,3,Clay Ludtke
+West,Office Supplies,Same Day,2014,Qtr 1,,
+Central,Office Supplies,Same Day,2014,Qtr 2,1,Pamela Stobb
+East,Office Supplies,Same Day,2014,Qtr 2,1,Andrew Roberts
+South,Office Supplies,Same Day,2014,Qtr 2,6,Brian DeCherney
+West,Office Supplies,Same Day,2014,Qtr 2,5,Maya Herman
+Central,Office Supplies,Same Day,2014,Qtr 3,3,Dan Campbell
+East,Office Supplies,Same Day,2014,Qtr 3,9,Allen Goldenen
+South,Office Supplies,Same Day,2014,Qtr 3,2,Chloris Kastensmidt
+West,Office Supplies,Same Day,2014,Qtr 3,8,Hilary Holden
+Central,Office Supplies,Same Day,2014,Qtr 4,2,Craig Yedwab
+East,Office Supplies,Same Day,2014,Qtr 4,7,Denny Ordway
+South,Office Supplies,Same Day,2014,Qtr 4,1,Arthur Prichep
+West,Office Supplies,Same Day,2014,Qtr 4,7,Duane Huffman
+Central,Office Supplies,Same Day,2015,Qtr 1,1,Toby Swindell
+East,Office Supplies,Same Day,2015,Qtr 1,3,Ken Black
+South,Office Supplies,Same Day,2015,Qtr 1,1,Debra Catini
+West,Office Supplies,Same Day,2015,Qtr 1,,
+Central,Office Supplies,Same Day,2015,Qtr 2,5,Dennis Pardue
+East,Office Supplies,Same Day,2015,Qtr 2,1,Paul Prost
+South,Office Supplies,Same Day,2015,Qtr 2,1,Muhammed Lee
+West,Office Supplies,Same Day,2015,Qtr 2,3,Jennifer Ferguson
+Central,Office Supplies,Same Day,2015,Qtr 3,7,Darrin Martin
+East,Office Supplies,Same Day,2015,Qtr 3,10,Alan Shonely
+South,Office Supplies,Same Day,2015,Qtr 3,2,Nat Gilpin
+West,Office Supplies,Same Day,2015,Qtr 3,3,Eric Hoffmann
+Central,Office Supplies,Same Day,2015,Qtr 4,6,Andrew Gjertsen
+East,Office Supplies,Same Day,2015,Qtr 4,7,Charlotte Melton
+South,Office Supplies,Same Day,2015,Qtr 4,1,Ralph Arnett
+West,Office Supplies,Same Day,2015,Qtr 4,11,Charlotte Melton
+Central,Office Supplies,Same Day,2016,Qtr 1,,
+East,Office Supplies,Same Day,2016,Qtr 1,3,Gary Zandusky
+South,Office Supplies,Same Day,2016,Qtr 1,8,Christina Anderson
+West,Office Supplies,Same Day,2016,Qtr 1,2,Patrick Gardner
+Central,Office Supplies,Same Day,2016,Qtr 2,6,Maurice Satty
+East,Office Supplies,Same Day,2016,Qtr 2,10,Brian Thompson
+South,Office Supplies,Same Day,2016,Qtr 2,3,Eugene Hildebrand
+West,Office Supplies,Same Day,2016,Qtr 2,6,Adam Hart
+Central,Office Supplies,Same Day,2016,Qtr 3,4,Eugene Hildebrand
+East,Office Supplies,Same Day,2016,Qtr 3,7,Filia McAdams
+South,Office Supplies,Same Day,2016,Qtr 3,5,Hunter Glantz
+West,Office Supplies,Same Day,2016,Qtr 3,7,Becky Castell
+Central,Office Supplies,Same Day,2016,Qtr 4,4,Evan Bailliet
+East,Office Supplies,Same Day,2016,Qtr 4,8,Jim Mitchum
+South,Office Supplies,Same Day,2016,Qtr 4,3,Lena Radford
+West,Office Supplies,Same Day,2016,Qtr 4,18,Bobby Elias
+Central,Office Supplies,Same Day,2017,Qtr 1,12,Ann Chong
+East,Office Supplies,Same Day,2017,Qtr 1,2,Susan Pistek
+South,Office Supplies,Same Day,2017,Qtr 1,3,Claudia Bergmann
+West,Office Supplies,Same Day,2017,Qtr 1,2,Michael Moore
+Central,Office Supplies,Same Day,2017,Qtr 2,2,Allen Rosenblatt
+East,Office Supplies,Same Day,2017,Qtr 2,4,Arianne Irving
+South,Office Supplies,Same Day,2017,Qtr 2,6,Cari Schnelling
+West,Office Supplies,Same Day,2017,Qtr 2,4,Dianna Vittorini
+Central,Office Supplies,Same Day,2017,Qtr 3,,
+East,Office Supplies,Same Day,2017,Qtr 3,9,Ben Peterman
+South,Office Supplies,Same Day,2017,Qtr 3,2,Sarah Jordon
+West,Office Supplies,Same Day,2017,Qtr 3,19,Cassandra Brandow
+Central,Office Supplies,Same Day,2017,Qtr 4,17,Brian DeCherney
+East,Office Supplies,Same Day,2017,Qtr 4,7,Anne Pryor
+South,Office Supplies,Same Day,2017,Qtr 4,5,Grant Thornton
+West,Office Supplies,Same Day,2017,Qtr 4,16,Alice McCarthy
+Central,Office Supplies,Second Class,2014,Qtr 1,6,Delfina Latchford
+East,Office Supplies,Second Class,2014,Qtr 1,10,Aimee Bixby
+South,Office Supplies,Second Class,2014,Qtr 1,7,Ashley Jarboe
+West,Office Supplies,Second Class,2014,Qtr 1,10,Cindy Stewart
+Central,Office Supplies,Second Class,2014,Qtr 2,22,Bart Pistole
+East,Office Supplies,Second Class,2014,Qtr 2,9,Aaron Hawkins
+South,Office Supplies,Second Class,2014,Qtr 2,13,Allen Goldenen
+West,Office Supplies,Second Class,2014,Qtr 2,10,Alejandro Grove
+Central,Office Supplies,Second Class,2014,Qtr 3,12,Carl Ludwig
+East,Office Supplies,Second Class,2014,Qtr 3,16,Barbara Fisher
+South,Office Supplies,Second Class,2014,Qtr 3,7,Cynthia Arntzen
+West,Office Supplies,Second Class,2014,Qtr 3,24,Anthony Rawles
+Central,Office Supplies,Second Class,2014,Qtr 4,11,Alice McCarthy
+East,Office Supplies,Second Class,2014,Qtr 4,21,Alan Dominguez
+South,Office Supplies,Second Class,2014,Qtr 4,16,Alan Schoenberger
+West,Office Supplies,Second Class,2014,Qtr 4,30,Alyssa Tate
+Central,Office Supplies,Second Class,2015,Qtr 1,10,Amy Hunt
+East,Office Supplies,Second Class,2015,Qtr 1,12,Claudia Bergmann
+South,Office Supplies,Second Class,2015,Qtr 1,5,Karen Seio
+West,Office Supplies,Second Class,2015,Qtr 1,11,Bryan Mills
+Central,Office Supplies,Second Class,2015,Qtr 2,13,Ben Ferrer
+East,Office Supplies,Second Class,2015,Qtr 2,8,Annie Zypern
+South,Office Supplies,Second Class,2015,Qtr 2,5,Alan Shonely
+West,Office Supplies,Second Class,2015,Qtr 2,8,Andy Reiter
+Central,Office Supplies,Second Class,2015,Qtr 3,17,Arthur Gainer
+East,Office Supplies,Second Class,2015,Qtr 3,19,Brad Eason
+South,Office Supplies,Second Class,2015,Qtr 3,7,Alyssa Tate
+West,Office Supplies,Second Class,2015,Qtr 3,24,Doug Bickford
+Central,Office Supplies,Second Class,2015,Qtr 4,19,Brian Moss
+East,Office Supplies,Second Class,2015,Qtr 4,33,Adam Hart
+South,Office Supplies,Second Class,2015,Qtr 4,10,Gene McClure
+West,Office Supplies,Second Class,2015,Qtr 4,37,Arianne Irving
+Central,Office Supplies,Second Class,2016,Qtr 1,3,Aimee Bixby
+East,Office Supplies,Second Class,2016,Qtr 1,16,Bruce Degenhardt
+South,Office Supplies,Second Class,2016,Qtr 1,9,Anthony Johnson
+West,Office Supplies,Second Class,2016,Qtr 1,15,Chris Cortes
+Central,Office Supplies,Second Class,2016,Qtr 2,14,Arthur Wiediger
+East,Office Supplies,Second Class,2016,Qtr 2,20,Becky Castell
+South,Office Supplies,Second Class,2016,Qtr 2,8,Cathy Prescott
+West,Office Supplies,Second Class,2016,Qtr 2,18,Bill Donatelli
+Central,Office Supplies,Second Class,2016,Qtr 3,23,Alex Grayson
+East,Office Supplies,Second Class,2016,Qtr 3,26,Clay Rozendal
+South,Office Supplies,Second Class,2016,Qtr 3,19,Catherine Glotzbach
+West,Office Supplies,Second Class,2016,Qtr 3,25,Annie Thurman
+Central,Office Supplies,Second Class,2016,Qtr 4,26,Charles Sheldon
+East,Office Supplies,Second Class,2016,Qtr 4,19,Art Foster
+South,Office Supplies,Second Class,2016,Qtr 4,24,Alan Haines
+West,Office Supplies,Second Class,2016,Qtr 4,25,Arianne Irving
+Central,Office Supplies,Second Class,2017,Qtr 1,22,Andy Reiter
+East,Office Supplies,Second Class,2017,Qtr 1,13,Brian Moss
+South,Office Supplies,Second Class,2017,Qtr 1,7,Carol Adams
+West,Office Supplies,Second Class,2017,Qtr 1,23,Bart Pistole
+Central,Office Supplies,Second Class,2017,Qtr 2,22,Adam Shillingsburg
+East,Office Supplies,Second Class,2017,Qtr 2,12,Alan Shonely
+South,Office Supplies,Second Class,2017,Qtr 2,8,Adam Hart
+West,Office Supplies,Second Class,2017,Qtr 2,22,Becky Castell
+Central,Office Supplies,Second Class,2017,Qtr 3,21,Charles McCrossin
+East,Office Supplies,Second Class,2017,Qtr 3,34,Carl Ludwig
+South,Office Supplies,Second Class,2017,Qtr 3,15,Anna Gayman
+West,Office Supplies,Second Class,2017,Qtr 3,45,Alan Schoenberger
+Central,Office Supplies,Second Class,2017,Qtr 4,30,Aimee Bixby
+East,Office Supplies,Second Class,2017,Qtr 4,41,Anthony Rawles
+South,Office Supplies,Second Class,2017,Qtr 4,40,Brenda Bowman
+West,Office Supplies,Second Class,2017,Qtr 4,42,Alan Schoenberger
+Central,Office Supplies,Second Class,2018,Qtr 1,,
+East,Office Supplies,Second Class,2018,Qtr 1,,
+South,Office Supplies,Second Class,2018,Qtr 1,2,Katherine Hughes
+West,Office Supplies,Second Class,2018,Qtr 1,1,Kristen Hastings
+Central,Office Supplies,Standard Class,2014,Qtr 1,33,Aaron Bergman
+East,Office Supplies,Standard Class,2014,Qtr 1,16,Anne Pryor
+South,Office Supplies,Standard Class,2014,Qtr 1,36,Alan Shonely
+West,Office Supplies,Standard Class,2014,Qtr 1,31,Barry Französisch
+Central,Office Supplies,Standard Class,2014,Qtr 2,30,Christina VanderZanden
+East,Office Supplies,Standard Class,2014,Qtr 2,44,Andrew Roberts
+South,Office Supplies,Standard Class,2014,Qtr 2,17,Dorothy Badders
+West,Office Supplies,Standard Class,2014,Qtr 2,42,Aaron Hawkins
+Central,Office Supplies,Standard Class,2014,Qtr 3,49,Arthur Wiediger
+East,Office Supplies,Standard Class,2014,Qtr 3,60,Aaron Smayling
+South,Office Supplies,Standard Class,2014,Qtr 3,31,Andy Gerbode
+West,Office Supplies,Standard Class,2014,Qtr 3,74,Alejandro Ballentine
+Central,Office Supplies,Standard Class,2014,Qtr 4,80,Ann Blume
+East,Office Supplies,Standard Class,2014,Qtr 4,69,Alyssa Tate
+South,Office Supplies,Standard Class,2014,Qtr 4,46,Annie Thurman
+West,Office Supplies,Standard Class,2014,Qtr 4,84,Adam Hart
+Central,Office Supplies,Standard Class,2015,Qtr 1,20,Candace McMahon
+East,Office Supplies,Standard Class,2015,Qtr 1,31,Anthony Jacobs
+South,Office Supplies,Standard Class,2015,Qtr 1,23,Amy Hunt
+West,Office Supplies,Standard Class,2015,Qtr 1,29,Ann Blume
+Central,Office Supplies,Standard Class,2015,Qtr 2,43,Anna Gayman
+East,Office Supplies,Standard Class,2015,Qtr 2,54,Brad Norvell
+South,Office Supplies,Standard Class,2015,Qtr 2,36,Andrew Gjertsen
+West,Office Supplies,Standard Class,2015,Qtr 2,48,Alan Barnes
+Central,Office Supplies,Standard Class,2015,Qtr 3,35,Aimee Bixby
+East,Office Supplies,Standard Class,2015,Qtr 3,86,Alan Dominguez
+South,Office Supplies,Standard Class,2015,Qtr 3,42,Andy Gerbode
+West,Office Supplies,Standard Class,2015,Qtr 3,57,Adam Bellavance
+Central,Office Supplies,Standard Class,2015,Qtr 4,68,Adam Shillingsburg
+East,Office Supplies,Standard Class,2015,Qtr 4,57,Alejandro Ballentine
+South,Office Supplies,Standard Class,2015,Qtr 4,54,Allen Armold
+West,Office Supplies,Standard Class,2015,Qtr 4,95,Aaron Hawkins
+Central,Office Supplies,Standard Class,2016,Qtr 1,35,Alex Avila
+East,Office Supplies,Standard Class,2016,Qtr 1,31,Adrian Barton
+South,Office Supplies,Standard Class,2016,Qtr 1,20,Adam Bellavance
+West,Office Supplies,Standard Class,2016,Qtr 1,23,Annie Zypern
+Central,Office Supplies,Standard Class,2016,Qtr 2,47,Adam Shillingsburg
+East,Office Supplies,Standard Class,2016,Qtr 2,85,Adam Shillingsburg
+South,Office Supplies,Standard Class,2016,Qtr 2,36,Anna Häberlin
+West,Office Supplies,Standard Class,2016,Qtr 2,59,Alan Shonely
+Central,Office Supplies,Standard Class,2016,Qtr 3,86,Adam Shillingsburg
+East,Office Supplies,Standard Class,2016,Qtr 3,61,Adam Bellavance
+South,Office Supplies,Standard Class,2016,Qtr 3,47,Amy Cox
+West,Office Supplies,Standard Class,2016,Qtr 3,82,Allen Armold
+Central,Office Supplies,Standard Class,2016,Qtr 4,78,Adam Hart
+East,Office Supplies,Standard Class,2016,Qtr 4,96,Anthony Johnson
+South,Office Supplies,Standard Class,2016,Qtr 4,33,Alejandro Ballentine
+West,Office Supplies,Standard Class,2016,Qtr 4,119,Alejandro Ballentine
+Central,Office Supplies,Standard Class,2017,Qtr 1,51,Anna Chung
+East,Office Supplies,Standard Class,2017,Qtr 1,41,Beth Paige
+South,Office Supplies,Standard Class,2017,Qtr 1,23,Ann Steele
+West,Office Supplies,Standard Class,2017,Qtr 1,75,Alan Dominguez
+Central,Office Supplies,Standard Class,2017,Qtr 2,65,Art Ferguson
+East,Office Supplies,Standard Class,2017,Qtr 2,68,Alejandro Ballentine
+South,Office Supplies,Standard Class,2017,Qtr 2,49,Amy Hunt
+West,Office Supplies,Standard Class,2017,Qtr 2,66,Adrian Hane
+Central,Office Supplies,Standard Class,2017,Qtr 3,81,Aaron Smayling
+East,Office Supplies,Standard Class,2017,Qtr 3,81,Adam Bellavance
+South,Office Supplies,Standard Class,2017,Qtr 3,48,Adrian Hane
+West,Office Supplies,Standard Class,2017,Qtr 3,102,Adrian Barton
+Central,Office Supplies,Standard Class,2017,Qtr 4,89,Adrian Hane
+East,Office Supplies,Standard Class,2017,Qtr 4,127,Aaron Hawkins
+South,Office Supplies,Standard Class,2017,Qtr 4,59,Adam Hart
+West,Office Supplies,Standard Class,2017,Qtr 4,131,Alan Barnes
+Central,Office Supplies,Standard Class,2018,Qtr 1,13,Christopher Schild
+East,Office Supplies,Standard Class,2018,Qtr 1,4,Jennifer Ferguson
+South,Office Supplies,Standard Class,2018,Qtr 1,1,Erica Hernandez
+West,Office Supplies,Standard Class,2018,Qtr 1,6,Bruce Stewart
+Central,Technology,First Class,2014,Qtr 1,2,Bradley Drucker
+East,Technology,First Class,2014,Qtr 1,,
+South,Technology,First Class,2014,Qtr 1,5,Erica Hackney
+West,Technology,First Class,2014,Qtr 1,,
+Central,Technology,First Class,2014,Qtr 2,1,Mark Packer
+East,Technology,First Class,2014,Qtr 2,4,Kean Thornton
+South,Technology,First Class,2014,Qtr 2,,
+West,Technology,First Class,2014,Qtr 2,2,Arianne Irving
+Central,Technology,First Class,2014,Qtr 3,4,Michael Nguyen
+East,Technology,First Class,2014,Qtr 3,7,Alejandro Grove
+South,Technology,First Class,2014,Qtr 3,5,Corey Catlett
+West,Technology,First Class,2014,Qtr 3,1,Jonathan Doherty
+Central,Technology,First Class,2014,Qtr 4,2,Mick Crebagga
+East,Technology,First Class,2014,Qtr 4,4,Anna Andreadi
+South,Technology,First Class,2014,Qtr 4,1,Michelle Arnett
+West,Technology,First Class,2014,Qtr 4,16,Bart Pistole
+Central,Technology,First Class,2015,Qtr 1,4,Allen Armold
+East,Technology,First Class,2015,Qtr 1,5,Aaron Hawkins
+South,Technology,First Class,2015,Qtr 1,,
+West,Technology,First Class,2015,Qtr 1,3,Alice McCarthy
+Central,Technology,First Class,2015,Qtr 2,1,Muhammed MacIntyre
+East,Technology,First Class,2015,Qtr 2,3,Edward Nazzal
+South,Technology,First Class,2015,Qtr 2,4,Amy Cox
+West,Technology,First Class,2015,Qtr 2,2,Justin MacKendrick
+Central,Technology,First Class,2015,Qtr 3,3,Steve Carroll
+East,Technology,First Class,2015,Qtr 3,8,Dan Reichenbach
+South,Technology,First Class,2015,Qtr 3,1,Frank Atkinson
+West,Technology,First Class,2015,Qtr 3,4,Helen Andreada
+Central,Technology,First Class,2015,Qtr 4,6,Anthony Witt
+East,Technology,First Class,2015,Qtr 4,10,Alan Hwang
+South,Technology,First Class,2015,Qtr 4,2,Brosina Hoffman
+West,Technology,First Class,2015,Qtr 4,9,Chloris Kastensmidt
+Central,Technology,First Class,2016,Qtr 1,2,Odella Nelson
+East,Technology,First Class,2016,Qtr 1,,
+South,Technology,First Class,2016,Qtr 1,1,Dean Braden
+West,Technology,First Class,2016,Qtr 1,5,Karen Ferguson
+Central,Technology,First Class,2016,Qtr 2,1,Nona Balk
+East,Technology,First Class,2016,Qtr 2,6,Brooke Gillingham
+South,Technology,First Class,2016,Qtr 2,6,Clytie Kelty
+West,Technology,First Class,2016,Qtr 2,4,Logan Haushalter
+Central,Technology,First Class,2016,Qtr 3,5,Dianna Wilson
+East,Technology,First Class,2016,Qtr 3,5,Adam Bellavance
+South,Technology,First Class,2016,Qtr 3,1,Helen Andreada
+West,Technology,First Class,2016,Qtr 3,4,Erin Smith
+Central,Technology,First Class,2016,Qtr 4,5,Aaron Bergman
+East,Technology,First Class,2016,Qtr 4,7,Becky Martin
+South,Technology,First Class,2016,Qtr 4,4,Emily Phan
+West,Technology,First Class,2016,Qtr 4,13,Adrian Hane
+Central,Technology,First Class,2017,Qtr 1,5,Bart Watters
+East,Technology,First Class,2017,Qtr 1,4,Christine Kargatis
+South,Technology,First Class,2017,Qtr 1,2,Aaron Smayling
+West,Technology,First Class,2017,Qtr 1,10,Christina VanderZanden
+Central,Technology,First Class,2017,Qtr 2,5,Adrian Barton
+East,Technology,First Class,2017,Qtr 2,6,Anthony Jacobs
+South,Technology,First Class,2017,Qtr 2,4,Edward Becker
+West,Technology,First Class,2017,Qtr 2,9,Adrian Barton
+Central,Technology,First Class,2017,Qtr 3,7,Annie Thurman
+East,Technology,First Class,2017,Qtr 3,10,Adam Shillingsburg
+South,Technology,First Class,2017,Qtr 3,3,Frank Carlisle
+West,Technology,First Class,2017,Qtr 3,7,Justin MacKendrick
+Central,Technology,First Class,2017,Qtr 4,8,Alejandro Savely
+East,Technology,First Class,2017,Qtr 4,12,Carlos Daly
+South,Technology,First Class,2017,Qtr 4,3,Brian Derr
+West,Technology,First Class,2017,Qtr 4,18,Ann Blume
+Central,Technology,Same Day,2014,Qtr 2,,
+East,Technology,Same Day,2014,Qtr 2,1,James Galang
+South,Technology,Same Day,2014,Qtr 2,1,Valerie Mitchum
+West,Technology,Same Day,2014,Qtr 2,,
+Central,Technology,Same Day,2014,Qtr 3,,
+East,Technology,Same Day,2014,Qtr 3,3,Darrin Martin
+South,Technology,Same Day,2014,Qtr 3,,
+West,Technology,Same Day,2014,Qtr 3,3,Resi Pölking
+Central,Technology,Same Day,2014,Qtr 4,,
+East,Technology,Same Day,2014,Qtr 4,4,Denny Ordway
+South,Technology,Same Day,2014,Qtr 4,1,Jack Garza
+West,Technology,Same Day,2014,Qtr 4,3,James Lanier
+Central,Technology,Same Day,2015,Qtr 1,,
+East,Technology,Same Day,2015,Qtr 1,,
+South,Technology,Same Day,2015,Qtr 1,1,Debra Catini
+West,Technology,Same Day,2015,Qtr 1,,
+Central,Technology,Same Day,2015,Qtr 2,2,Nat Carroll
+East,Technology,Same Day,2015,Qtr 2,,
+South,Technology,Same Day,2015,Qtr 2,1,Tracy Hopkins
+West,Technology,Same Day,2015,Qtr 2,1,Jennifer Ferguson
+Central,Technology,Same Day,2015,Qtr 3,,
+East,Technology,Same Day,2015,Qtr 3,1,Rick Hansen
+South,Technology,Same Day,2015,Qtr 3,,
+West,Technology,Same Day,2015,Qtr 3,,
+Central,Technology,Same Day,2015,Qtr 4,2,Joel Eaton
+East,Technology,Same Day,2015,Qtr 4,6,Barry Französisch
+South,Technology,Same Day,2015,Qtr 4,2,Ralph Arnett
+West,Technology,Same Day,2015,Qtr 4,2,Kelly Collister
+Central,Technology,Same Day,2016,Qtr 1,1,Toby Braunhardt
+East,Technology,Same Day,2016,Qtr 1,1,Vivian Mathis
+South,Technology,Same Day,2016,Qtr 1,3,Christina Anderson
+West,Technology,Same Day,2016,Qtr 1,,
+Central,Technology,Same Day,2016,Qtr 2,3,Annie Thurman
+East,Technology,Same Day,2016,Qtr 2,2,Clay Ludtke
+South,Technology,Same Day,2016,Qtr 2,1,Joe Kamberova
+West,Technology,Same Day,2016,Qtr 2,1,Tiffany House
+Central,Technology,Same Day,2016,Qtr 3,,
+East,Technology,Same Day,2016,Qtr 3,2,Erin Ashbrook
+South,Technology,Same Day,2016,Qtr 3,3,Hunter Glantz
+West,Technology,Same Day,2016,Qtr 3,5,Ionia McGrath
+Central,Technology,Same Day,2016,Qtr 4,1,Hunter Glantz
+East,Technology,Same Day,2016,Qtr 4,1,Jim Mitchum
+South,Technology,Same Day,2016,Qtr 4,2,Dean Braden
+West,Technology,Same Day,2016,Qtr 4,2,Sonia Sunley
+Central,Technology,Same Day,2017,Qtr 1,3,Stephanie Ulpright
+East,Technology,Same Day,2017,Qtr 1,2,Susan Pistek
+South,Technology,Same Day,2017,Qtr 1,1,Claudia Bergmann
+West,Technology,Same Day,2017,Qtr 1,1,Tom Boeckenhauer
+Central,Technology,Same Day,2017,Qtr 2,1,Russell D'Ascenzo
+East,Technology,Same Day,2017,Qtr 2,1,Trudy Brown
+South,Technology,Same Day,2017,Qtr 2,1,Mick Brown
+West,Technology,Same Day,2017,Qtr 2,1,Pauline Johnson
+Central,Technology,Same Day,2017,Qtr 3,2,Katrina Willman
+East,Technology,Same Day,2017,Qtr 3,4,Bart Pistole
+South,Technology,Same Day,2017,Qtr 3,,
+West,Technology,Same Day,2017,Qtr 3,7,Harold Ryan
+Central,Technology,Same Day,2017,Qtr 4,3,Dave Brooks
+East,Technology,Same Day,2017,Qtr 4,3,Charlotte Melton
+South,Technology,Same Day,2017,Qtr 4,1,Grant Thornton
+West,Technology,Same Day,2017,Qtr 4,5,Eugene Moren
+Central,Technology,Second Class,2014,Qtr 1,,
+East,Technology,Second Class,2014,Qtr 1,2,Aimee Bixby
+South,Technology,Second Class,2014,Qtr 1,4,Chris Selesnick
+West,Technology,Second Class,2014,Qtr 1,2,Damala Kotsonis
+Central,Technology,Second Class,2014,Qtr 2,4,Carl Weiss
+East,Technology,Second Class,2014,Qtr 2,1,Jonathan Doherty
+South,Technology,Second Class,2014,Qtr 2,6,Cari Schnelling
+West,Technology,Second Class,2014,Qtr 2,4,Frank Hawley
+Central,Technology,Second Class,2014,Qtr 3,5,Christina VanderZanden
+East,Technology,Second Class,2014,Qtr 3,2,Logan Currie
+South,Technology,Second Class,2014,Qtr 3,1,Roland Fjeld
+West,Technology,Second Class,2014,Qtr 3,5,Giulietta Weimer
+Central,Technology,Second Class,2014,Qtr 4,5,David Kendrick
+East,Technology,Second Class,2014,Qtr 4,3,Joe Kamberova
+South,Technology,Second Class,2014,Qtr 4,5,Alan Schoenberger
+West,Technology,Second Class,2014,Qtr 4,9,Amy Cox
+Central,Technology,Second Class,2015,Qtr 1,6,Amy Hunt
+East,Technology,Second Class,2015,Qtr 1,5,Alex Russell
+South,Technology,Second Class,2015,Qtr 1,,
+West,Technology,Second Class,2015,Qtr 1,4,Dave Hallsten
+Central,Technology,Second Class,2015,Qtr 2,6,Ben Ferrer
+East,Technology,Second Class,2015,Qtr 2,2,Becky Castell
+South,Technology,Second Class,2015,Qtr 2,2,Ben Ferrer
+West,Technology,Second Class,2015,Qtr 2,7,Andy Reiter
+Central,Technology,Second Class,2015,Qtr 3,6,David Smith
+East,Technology,Second Class,2015,Qtr 3,10,Brad Eason
+South,Technology,Second Class,2015,Qtr 3,2,Eudokia Martin
+West,Technology,Second Class,2015,Qtr 3,4,Carlos Meador
+Central,Technology,Second Class,2015,Qtr 4,15,Brian Moss
+East,Technology,Second Class,2015,Qtr 4,15,Bryan Mills
+South,Technology,Second Class,2015,Qtr 4,2,Rob Haberlin
+West,Technology,Second Class,2015,Qtr 4,15,Andrew Gjertsen
+Central,Technology,Second Class,2016,Qtr 1,2,Craig Carreira
+East,Technology,Second Class,2016,Qtr 1,4,Deanra Eno
+South,Technology,Second Class,2016,Qtr 1,4,Anthony Johnson
+West,Technology,Second Class,2016,Qtr 1,4,Anna Chung
+Central,Technology,Second Class,2016,Qtr 2,7,Alejandro Ballentine
+East,Technology,Second Class,2016,Qtr 2,7,Becky Castell
+South,Technology,Second Class,2016,Qtr 2,4,Ben Ferrer
+West,Technology,Second Class,2016,Qtr 2,4,Anna Chung
+Central,Technology,Second Class,2016,Qtr 3,12,Adrian Hane
+East,Technology,Second Class,2016,Qtr 3,4,Giulietta Dortch
+South,Technology,Second Class,2016,Qtr 3,2,Darrin Martin
+West,Technology,Second Class,2016,Qtr 3,6,Barry Französisch
+Central,Technology,Second Class,2016,Qtr 4,11,Denise Monton
+East,Technology,Second Class,2016,Qtr 4,6,Carol Adams
+South,Technology,Second Class,2016,Qtr 4,5,Allen Armold
+West,Technology,Second Class,2016,Qtr 4,9,Anthony Rawles
+Central,Technology,Second Class,2017,Qtr 1,1,Brad Norvell
+East,Technology,Second Class,2017,Qtr 1,8,Brian Moss
+South,Technology,Second Class,2017,Qtr 1,2,Lauren Leatherbury
+West,Technology,Second Class,2017,Qtr 1,10,Benjamin Farhat
+Central,Technology,Second Class,2017,Qtr 2,5,Helen Wasserman
+East,Technology,Second Class,2017,Qtr 2,4,Chad McGuire
+South,Technology,Second Class,2017,Qtr 2,5,Barry Französisch
+West,Technology,Second Class,2017,Qtr 2,9,Becky Castell
+Central,Technology,Second Class,2017,Qtr 3,7,Alex Russell
+East,Technology,Second Class,2017,Qtr 3,10,Carl Ludwig
+South,Technology,Second Class,2017,Qtr 3,6,Anna Gayman
+West,Technology,Second Class,2017,Qtr 3,5,Anthony Rawles
+Central,Technology,Second Class,2017,Qtr 4,8,Bart Pistole
+East,Technology,Second Class,2017,Qtr 4,11,Alan Dominguez
+South,Technology,Second Class,2017,Qtr 4,10,John Lee
+West,Technology,Second Class,2017,Qtr 4,15,Alex Grayson
+Central,Technology,Standard Class,2014,Qtr 1,2,Linda Cazamias
+East,Technology,Standard Class,2014,Qtr 1,4,Anne Pryor
+South,Technology,Standard Class,2014,Qtr 1,10,Eric Barreto
+West,Technology,Standard Class,2014,Qtr 1,5,Christina Anderson
+Central,Technology,Standard Class,2014,Qtr 2,8,Dorothy Dickinson
+East,Technology,Standard Class,2014,Qtr 2,10,Andrew Roberts
+South,Technology,Standard Class,2014,Qtr 2,11,Evan Henry
+West,Technology,Standard Class,2014,Qtr 2,23,Arianne Irving
+Central,Technology,Standard Class,2014,Qtr 3,12,Andy Gerbode
+East,Technology,Standard Class,2014,Qtr 3,16,Christine Abelman
+South,Technology,Standard Class,2014,Qtr 3,10,Andy Gerbode
+West,Technology,Standard Class,2014,Qtr 3,26,Arthur Gainer
+Central,Technology,Standard Class,2014,Qtr 4,23,Berenike Kampe
+East,Technology,Standard Class,2014,Qtr 4,20,Carlos Soltero
+South,Technology,Standard Class,2014,Qtr 4,7,Dave Hallsten
+West,Technology,Standard Class,2014,Qtr 4,25,Alan Hwang
+Central,Technology,Standard Class,2015,Qtr 1,10,Dana Kaydos
+East,Technology,Standard Class,2015,Qtr 1,17,Cindy Schnelling
+South,Technology,Standard Class,2015,Qtr 1,2,Liz MacKendrick
+West,Technology,Standard Class,2015,Qtr 1,8,Anthony Johnson
+Central,Technology,Standard Class,2015,Qtr 2,16,Anna Häberlin
+East,Technology,Standard Class,2015,Qtr 2,12,Greg Tran
+South,Technology,Standard Class,2015,Qtr 2,11,Brendan Dodson
+West,Technology,Standard Class,2015,Qtr 2,18,Alan Barnes
+Central,Technology,Standard Class,2015,Qtr 3,9,Ben Peterman
+East,Technology,Standard Class,2015,Qtr 3,22,Andy Gerbode
+South,Technology,Standard Class,2015,Qtr 3,13,Allen Rosenblatt
+West,Technology,Standard Class,2015,Qtr 3,14,Cassandra Brandow
+Central,Technology,Standard Class,2015,Qtr 4,21,Adrian Barton
+East,Technology,Standard Class,2015,Qtr 4,25,Alejandro Ballentine
+South,Technology,Standard Class,2015,Qtr 4,12,Anna Häberlin
+West,Technology,Standard Class,2015,Qtr 4,27,Aaron Hawkins
+Central,Technology,Standard Class,2016,Qtr 1,10,Alex Avila
+East,Technology,Standard Class,2016,Qtr 1,19,Benjamin Venier
+South,Technology,Standard Class,2016,Qtr 1,4,Dionis Lloyd
+West,Technology,Standard Class,2016,Qtr 1,14,Annie Zypern
+Central,Technology,Standard Class,2016,Qtr 2,12,Art Ferguson
+East,Technology,Standard Class,2016,Qtr 2,17,Art Ferguson
+South,Technology,Standard Class,2016,Qtr 2,8,Anna Häberlin
+West,Technology,Standard Class,2016,Qtr 2,16,Barry Franz
+Central,Technology,Standard Class,2016,Qtr 3,18,Alejandro Grove
+East,Technology,Standard Class,2016,Qtr 3,19,Chad Cunningham
+South,Technology,Standard Class,2016,Qtr 3,11,Anthony Johnson
+West,Technology,Standard Class,2016,Qtr 3,22,Bill Donatelli
+Central,Technology,Standard Class,2016,Qtr 4,27,Adam Hart
+East,Technology,Standard Class,2016,Qtr 4,27,Alejandro Savely
+South,Technology,Standard Class,2016,Qtr 4,15,Anna Häberlin
+West,Technology,Standard Class,2016,Qtr 4,31,Alan Schoenberger
+Central,Technology,Standard Class,2017,Qtr 1,17,Benjamin Venier
+East,Technology,Standard Class,2017,Qtr 1,13,Craig Leslie
+South,Technology,Standard Class,2017,Qtr 1,2,Bradley Drucker
+West,Technology,Standard Class,2017,Qtr 1,25,Alan Dominguez
+Central,Technology,Standard Class,2017,Qtr 2,9,Anne McFarland
+East,Technology,Standard Class,2017,Qtr 2,17,Alejandro Ballentine
+South,Technology,Standard Class,2017,Qtr 2,19,Bart Watters
+West,Technology,Standard Class,2017,Qtr 2,20,Adam Bellavance
+Central,Technology,Standard Class,2017,Qtr 3,23,Aaron Smayling
+East,Technology,Standard Class,2017,Qtr 3,37,Aimee Bixby
+South,Technology,Standard Class,2017,Qtr 3,14,Adrian Hane
+West,Technology,Standard Class,2017,Qtr 3,36,Adrian Barton
+Central,Technology,Standard Class,2017,Qtr 4,24,Alan Hwang
+East,Technology,Standard Class,2017,Qtr 4,42,Allen Armold
+South,Technology,Standard Class,2017,Qtr 4,24,Beth Fritzler
+West,Technology,Standard Class,2017,Qtr 4,38,Adam Bellavance
+Central,Technology,Standard Class,2018,Qtr 1,,
+East,Technology,Standard Class,2018,Qtr 1,2,Jennifer Ferguson
+South,Technology,Standard Class,2018,Qtr 1,,
+West,Technology,Standard Class,2018,Qtr 1,1,James Galang

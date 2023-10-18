@@ -1,0 +1,205 @@
+Orders.Country,Orders.Segment,Orders.Region,Orders.Category,Orders.Sub-Category,Sum(Orders.Profit),Sum(Orders.Sales)
+United States,Consumer,Central,Technology,Phones,6416.019599999999,37108.78599999998
+United States,Corporate,Central,Technology,Phones,2391.2796999999996,17180.795999999995
+United States,Home Office,Central,Technology,Phones,3515.7274000000007,18113.699999999997
+United States,Consumer,East,Technology,Phones,7328.253600000001,51512.03800000004
+United States,Corporate,East,Technology,Phones,3129.6182999999987,29865.618
+United States,Home Office,East,Technology,Phones,1856.814099999999,19237.326
+United States,Consumer,South,Technology,Phones,5623.911800000001,30846.20399999999
+United States,Corporate,South,Technology,Phones,3680.2119999999995,19274.232000000007
+United States,Home Office,South,Technology,Phones,1463.1515,8184.002
+United States,Consumer,West,Technology,Phones,4468.929700000001,50465.73599999996
+United States,Corporate,West,Technology,Phones,2565.1096000000016,24832.768
+United States,Home Office,West,Technology,Phones,2076.7033,23385.848
+United States,Consumer,Central,Technology,Machines,-1667.028000000002,11999.761999999999
+United States,Corporate,Central,Technology,Machines,-361.50440000000134,11716.733999999999
+United States,Home Office,Central,Technology,Machines,542.4657999999998,3080.888
+United States,Consumer,East,Technology,Machines,-1296.0850000000046,30668.429
+United States,Corporate,East,Technology,Machines,2624.6022999999996,23892.036
+United States,Home Office,East,Technology,Machines,5600.125599999999,11545.699999999999
+United States,Consumer,South,Technology,Machines,2910.5588,18338.550000000007
+United States,Corporate,South,Technology,Machines,-2520.117899999999,12001.155
+United States,Home Office,South,Technology,Machines,-1829.3339000000021,23551.254999999997
+United States,Consumer,West,Technology,Machines,2193.6159999999986,18536.084000000003
+United States,Corporate,West,Technology,Machines,960.0389999999994,12666.830000000002
+United States,Home Office,West,Technology,Machines,-3772.581400000001,11241.208000000002
+United States,Consumer,Central,Technology,Accessories,3743.3858999999993,19062.303999999993
+United States,Corporate,Central,Technology,Accessories,1462.9337,6195.238
+United States,Home Office,Central,Technology,Accessories,2045.3110000000004,8698.534
+United States,Consumer,East,Technology,Accessories,5240.0783,22861.056
+United States,Corporate,East,Technology,Accessories,2933.591099999999,11747.997999999998
+United States,Home Office,East,Technology,Accessories,3022.1949999999997,10424.318000000001
+United States,Consumer,South,Technology,Accessories,2788.307200000001,11651.563999999993
+United States,Corporate,South,Technology,Accessories,3085.4776999999995,10175.456
+United States,Home Office,South,Technology,Accessories,1130.7574999999997,5449.7339999999995
+United States,Consumer,West,Technology,Accessories,8964.1511,33530.31400000001
+United States,Corporate,West,Technology,Accessories,5225.477999999998,20071.872
+United States,Home Office,West,Technology,Accessories,2294.9692,7511.9299999999985
+United States,Consumer,Central,Technology,Copiers,1482.9615999999999,4519.884
+United States,Corporate,Central,Technology,Copiers,12789.904299999998,29679.741999999995
+United States,Home Office,Central,Technology,Copiers,1335.9754,3059.944
+United States,Consumer,East,Technology,Copiers,8657.932499999995,30399.706
+United States,Corporate,East,Technology,Copiers,1134.9764999999998,4219.914
+United States,Home Office,East,Technology,Copiers,7229.9328,18599.842
+United States,Consumer,South,Technology,Copiers,1783.9451999999999,4439.868
+United States,Corporate,South,Technology,Copiers,1874.9615000000001,4859.888
+United States,Home Office,South,Technology,Copiers,,
+United States,Consumer,West,Technology,Copiers,12158.871299999995,30459.611999999997
+United States,Corporate,West,Technology,Copiers,3190.4365999999995,8069.842000000001
+United States,Home Office,West,Technology,Copiers,3977.927199999999,11219.788
+United States,Consumer,Central,Furniture,Chairs,2920.9013000000004,42933.37499999999
+United States,Corporate,Central,Furniture,Chairs,3206.8836999999976,27989.551999999992
+United States,Home Office,Central,Furniture,Chairs,464.9370999999995,14307.719000000003
+United States,Consumer,East,Furniture,Chairs,4917.395199999997,59645.13300000001
+United States,Corporate,East,Furniture,Chairs,2720.5878,23505.23
+United States,Home Office,East,Furniture,Chairs,1719.7875999999994,13110.32
+United States,Consumer,South,Furniture,Chairs,4017.0347,26804.226
+United States,Corporate,South,Furniture,Chairs,1183.9544999999994,11366.872000000003
+United States,Home Office,South,Furniture,Chairs,1411.1000999999997,7005.348
+United States,Consumer,West,Furniture,Chairs,1380.0006999999987,43480.007999999965
+United States,Corporate,West,Furniture,Chairs,1233.2304999999983,36279.223999999995
+United States,Home Office,West,Furniture,Chairs,1414.3530999999994,22022.096
+United States,Consumer,Central,Furniture,Tables,-3964.1571000000004,20834.999999999996
+United States,Corporate,Central,Furniture,Tables,707.1805999999998,12562.592999999999
+United States,Home Office,Central,Furniture,Tables,-302.67390000000034,5757.378000000001
+United States,Consumer,East,Furniture,Tables,-3708.352800000001,14082.466999999999
+United States,Corporate,East,Furniture,Tables,-5299.655700000001,17551.558
+United States,Home Office,East,Furniture,Tables,-2017.3716000000002,7505.782000000001
+United States,Consumer,South,Furniture,Tables,-2577.4996000000006,24408.842
+United States,Corporate,South,Furniture,Tables,-1388.2239000000009,12619.6755
+United States,Home Office,South,Furniture,Tables,-657.3344,6887.6745
+United States,Consumer,West,Furniture,Tables,521.9716999999994,40607.48600000001
+United States,Corporate,West,Furniture,Tables,1074.2003999999995,28137.891000000003
+United States,Home Office,West,Furniture,Tables,-113.56480000000028,16009.185000000001
+United States,Consumer,Central,Furniture,Bookcases,-1497.1260000000002,12960.854
+United States,Corporate,Central,Furniture,Bookcases,-382.7121000000001,8389.500799999998
+United States,Home Office,Central,Furniture,Bookcases,-118.06620000000007,2806.822
+United States,Consumer,East,Furniture,Bookcases,-2192.0672000000013,27307.134
+United States,Corporate,East,Furniture,Bookcases,964.9629999999996,13168.932
+United States,Home Office,East,Furniture,Bookcases,59.47239999999985,3343.2680000000005
+United States,Consumer,South,Furniture,Bookcases,1220.0119999999995,8716.562
+United States,Corporate,South,Furniture,Bookcases,68.36659999999996,1153.804
+United States,Home Office,South,Furniture,Bookcases,51.11319999999992,1028.996
+United States,Consumer,West,Furniture,Bookcases,-1966.457000000001,19648.17899999999
+United States,Corporate,West,Furniture,Bookcases,-12.167300000000452,11293.6875
+United States,Home Office,West,Furniture,Bookcases,332.11260000000004,5062.257
+United States,Consumer,Central,Furniture,Furnishings,-1454.0523999999998,9499.989999999993
+United States,Corporate,Central,Furniture,Furnishings,-1209.3583,3143.956000000001
+United States,Home Office,Central,Furniture,Furnishings,-1242.8060999999998,2610.424
+United States,Consumer,East,Furniture,Furnishings,3021.1370000000006,13177.067999999994
+United States,Corporate,East,Furniture,Furnishings,1956.2305999999996,9983.326000000001
+United States,Home Office,East,Furniture,Furnishings,904.0395,5910.986000000003
+United States,Consumer,South,Furniture,Furnishings,1957.1855000000005,10870.574
+United States,Corporate,South,Furniture,Furnishings,1087.9331000000002,4504.680000000001
+United States,Home Office,South,Furniture,Furnishings,397.5642999999999,1931.4299999999998
+United States,Consumer,West,Furniture,Furnishings,4395.1526,16072.413999999995
+United States,Corporate,West,Furniture,Furnishings,1673.4023,7369.304000000001
+United States,Home Office,West,Furniture,Furnishings,1572.7154999999996,6631.012000000001
+United States,Consumer,Central,Office Supplies,Storage,413.31009999999895,24671.80999999999
+United States,Corporate,Central,Office Supplies,Storage,1084.5102000000004,12656.604
+United States,Home Office,Central,Office Supplies,Storage,472.0162,8601.698000000002
+United States,Consumer,East,Office Supplies,Storage,1973.924199999998,24994.45799999998
+United States,Corporate,East,Office Supplies,Storage,3836.4565000000002,30968.37000000001
+United States,Home Office,East,Office Supplies,Storage,2578.990499999999,15649.755999999998
+United States,Consumer,South,Office Supplies,Storage,888.6696999999998,16881.745999999996
+United States,Corporate,South,Office Supplies,Storage,718.5710999999998,11362.257999999998
+United States,Home Office,South,Office Supplies,Storage,667.0556999999999,7524.056
+United States,Consumer,West,Office Supplies,Storage,3828.2964000000006,33944.387999999984
+United States,Corporate,West,Office Supplies,Storage,3491.4869,24803.76600000001
+United States,Home Office,West,Office Supplies,Storage,1325.5388999999993,11784.698
+United States,Consumer,Central,Office Supplies,Binders,1832.3210000000026,39693.575999999994
+United States,Corporate,Central,Office Supplies,Binders,-4420.424900000004,8879.539999999999
+United States,Home Office,Central,Office Supplies,Binders,1544.4669999999992,8350.165999999997
+United States,Consumer,East,Office Supplies,Binders,6740.669700000001,31622.609999999982
+United States,Corporate,East,Office Supplies,Binders,2833.003399999999,12048.381000000007
+United States,Home Office,East,Office Supplies,Binders,1694.2614999999998,9827.006000000005
+United States,Consumer,South,Office Supplies,Binders,1583.9285000000007,18617.702999999994
+United States,Corporate,South,Office Supplies,Binders,2496.2000999999987,11827.631999999996
+United States,Home Office,South,Office Supplies,Binders,-179.46459999999976,6585.005999999997
+United States,Consumer,West,Office Supplies,Binders,7838.678000000003,28227.120000000006
+United States,Corporate,West,Office Supplies,Binders,5468.5415,18804.75999999999
+United States,Home Office,West,Office Supplies,Binders,2789.5821,8929.233000000006
+United States,Consumer,Central,Office Supplies,Appliances,-3775.6065000000012,9818.720999999998
+United States,Corporate,Central,Office Supplies,Appliances,-459.2306000000005,5224.759000000001
+United States,Home Office,Central,Office Supplies,Appliances,1596.2196,8538.553
+United States,Consumer,East,Office Supplies,Appliances,5008.7579000000005,19389.75599999999
+United States,Corporate,East,Office Supplies,Appliances,2607.2871999999993,10981.264000000001
+United States,Home Office,East,Office Supplies,Appliances,775.3682999999995,3817.446000000001
+United States,Consumer,South,Office Supplies,Appliances,1455.2631999999996,8287.354
+United States,Corporate,South,Office Supplies,Appliances,2543.821799999999,10123.635999999997
+United States,Home Office,South,Office Supplies,Appliances,124.85459999999995,1114.336
+United States,Consumer,West,Office Supplies,Appliances,4293.513599999998,15323.750000000002
+United States,Corporate,West,Office Supplies,Appliances,2738.0168000000003,10259.023999999998
+United States,Home Office,West,Office Supplies,Appliances,1229.7395,4653.562
+United States,Consumer,Central,Office Supplies,Paper,2914.6376999999993,7564.020000000006
+United States,Corporate,Central,Office Supplies,Paper,2399.2305,5952.002000000001
+United States,Home Office,Central,Office Supplies,Paper,1658.0322999999999,3975.88
+United States,Consumer,East,Office Supplies,Paper,3917.330700000003,8661.268000000002
+United States,Corporate,East,Office Supplies,Paper,2668.9581999999987,5975.116
+United States,Home Office,East,Office Supplies,Paper,2429.082099999999,5536.218000000001
+United States,Consumer,South,Office Supplies,Paper,3085.3364,7603.272000000003
+United States,Corporate,South,Office Supplies,Paper,1410.0632999999998,3345.321999999999
+United States,Home Office,South,Office Supplies,Paper,1451.6616999999997,3202.39
+United States,Consumer,West,Office Supplies,Paper,5617.338800000002,12495.807999999995
+United States,Corporate,West,Office Supplies,Paper,3883.294800000001,8610.689999999999
+United States,Home Office,West,Office Supplies,Paper,2618.6028000000015,5557.2199999999975
+United States,Consumer,Central,Office Supplies,Supplies,-782.0922000000003,4559.912000000001
+United States,Corporate,Central,Office Supplies,Supplies,101.84980000000003,4382.928
+United States,Home Office,Central,Office Supplies,Supplies,18.354300000000002,524.532
+United States,Consumer,East,Office Supplies,Supplies,-1171.6356999999998,8567.826000000003
+United States,Corporate,East,Office Supplies,Supplies,-12.897400000000047,1849.2580000000003
+United States,Home Office,East,Office Supplies,Supplies,29.397900000000014,343.03200000000004
+United States,Consumer,South,Office Supplies,Supplies,69.85919999999999,2123.554
+United States,Corporate,South,Office Supplies,Supplies,-111.63789999999989,6022.1539999999995
+United States,Home Office,South,Office Supplies,Supplies,43.655999999999985,173.22
+United States,Consumer,West,Office Supplies,Supplies,226.3173999999996,10490.203999999996
+United States,Corporate,West,Office Supplies,Supplies,361.6118999999998,7180.943999999999
+United States,Home Office,West,Office Supplies,Supplies,38.117199999999976,455.97400000000005
+United States,Consumer,Central,Office Supplies,Art,605.5615,3272.352
+United States,Corporate,Central,Office Supplies,Art,343.9692999999999,1478.7420000000002
+United States,Home Office,Central,Office Supplies,Art,245.62829999999997,1014.2460000000002
+United States,Consumer,East,Office Supplies,Art,989.0641999999997,3847.198
+United States,Corporate,East,Office Supplies,Art,566.1715999999999,2278.402
+United States,Home Office,East,Office Supplies,Art,344.7084999999999,1360.1639999999998
+United States,Consumer,South,Office Supplies,Art,648.4542999999995,2654.7560000000008
+United States,Corporate,South,Office Supplies,Art,264.25429999999994,1332.4040000000002
+United States,Home Office,South,Office Supplies,Art,145.87799999999993,668.462
+United States,Consumer,West,Office Supplies,Art,1211.2211000000002,4477.6240000000025
+United States,Corporate,West,Office Supplies,Art,830.2524999999998,3500.9
+United States,Home Office,West,Office Supplies,Art,332.6234,1233.542
+United States,Consumer,Central,Office Supplies,Envelopes,912.6615999999998,2365.4500000000003
+United States,Corporate,Central,Office Supplies,Envelopes,483.66419999999994,1235.9080000000001
+United States,Home Office,Central,Office Supplies,Envelopes,381.20249999999993,1035.514
+United States,Consumer,East,Office Supplies,Envelopes,881.8797000000001,2095.522
+United States,Corporate,East,Office Supplies,Envelopes,663.5851999999999,1579.2660000000003
+United States,Home Office,East,Office Supplies,Envelopes,266.9441,701.086
+United States,Consumer,South,Office Supplies,Envelopes,503.43069999999994,1191.5579999999998
+United States,Corporate,South,Office Supplies,Envelopes,643.3798,1470.904
+United States,Home Office,South,Office Supplies,Envelopes,318.6664999999999,683.094
+United States,Consumer,West,Office Supplies,Envelopes,966.4405999999999,2118.616000000001
+United States,Corporate,West,Office Supplies,Envelopes,780.5997999999998,1656.5919999999999
+United States,Home Office,West,Office Supplies,Envelopes,161.72199999999998,342.89199999999994
+United States,Consumer,Central,Office Supplies,Labels,334.20230000000004,743.2059999999999
+United States,Corporate,Central,Office Supplies,Labels,487.17,1095.108
+United States,Home Office,Central,Office Supplies,Labels,251.7071,613.1580000000001
+United States,Consumer,East,Office Supplies,Labels,733.5290000000001,1652.7999999999997
+United States,Corporate,East,Office Supplies,Labels,218.62989999999994,508.5859999999999
+United States,Home Office,East,Office Supplies,Labels,177.1211,441.548
+United States,Consumer,South,Office Supplies,Labels,840.9037999999999,1868.2219999999995
+United States,Corporate,South,Office Supplies,Labels,150.43720000000002,365.2260000000001
+United States,Home Office,South,Office Supplies,Labels,49.4313,119.732
+United States,Consumer,West,Office Supplies,Labels,1167.3532999999995,2445.033999999999
+United States,Corporate,West,Office Supplies,Labels,904.5902000000003,2132.726
+United States,Home Office,West,Office Supplies,Labels,231.17880000000002,500.96600000000007
+United States,Consumer,Central,Office Supplies,Fasteners,128.14770000000001,422.43199999999996
+United States,Corporate,Central,Office Supplies,Fasteners,78.5563,232.11000000000004
+United States,Home Office,Central,Office Supplies,Fasteners,29.9146,123.48799999999999
+United States,Consumer,East,Office Supplies,Fasteners,149.17299999999997,423.698
+United States,Corporate,East,Office Supplies,Fasteners,76.4704,286.09200000000004
+United States,Home Office,East,Office Supplies,Fasteners,38.34739999999999,109.928
+United States,Consumer,South,Office Supplies,Fasteners,114.2714,276.416
+United States,Corporate,South,Office Supplies,Fasteners,27.569899999999997,80.63400000000001
+United States,Home Office,South,Office Supplies,Fasteners,31.876799999999996,146.266
+United States,Consumer,West,Office Supplies,Fasteners,185.2087,558.3960000000002
+United States,Corporate,West,Office Supplies,Fasteners,69.3064,184.45399999999998
+United States,Home Office,West,Office Supplies,Fasteners,20.675600000000003,180.36599999999999
