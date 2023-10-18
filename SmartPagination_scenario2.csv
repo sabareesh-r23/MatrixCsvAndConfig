@@ -1,0 +1,813 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Region,Orders.Category,Orders.Sub-Category,Orders.Segment,CountNonNull(Orders.Postal Code)
+2014,Central,Furniture,Bookcases,Consumer,3
+2015,Central,Furniture,Bookcases,Consumer,6
+2016,Central,Furniture,Bookcases,Consumer,7
+2017,Central,Furniture,Bookcases,Consumer,8
+2014,Central,Furniture,Bookcases,Corporate,2
+2015,Central,Furniture,Bookcases,Corporate,5
+2016,Central,Furniture,Bookcases,Corporate,5
+2017,Central,Furniture,Bookcases,Corporate,6
+2014,Central,Furniture,Bookcases,Home Office,2
+2015,Central,Furniture,Bookcases,Home Office,4
+2016,Central,Furniture,Bookcases,Home Office,
+2017,Central,Furniture,Bookcases,Home Office,2
+2014,Central,Furniture,Chairs,Consumer,17
+2015,Central,Furniture,Chairs,Consumer,23
+2016,Central,Furniture,Chairs,Consumer,17
+2017,Central,Furniture,Chairs,Consumer,24
+2014,Central,Furniture,Chairs,Corporate,6
+2015,Central,Furniture,Chairs,Corporate,5
+2016,Central,Furniture,Chairs,Corporate,20
+2017,Central,Furniture,Chairs,Corporate,14
+2014,Central,Furniture,Chairs,Home Office,9
+2015,Central,Furniture,Chairs,Home Office,6
+2016,Central,Furniture,Chairs,Home Office,5
+2017,Central,Furniture,Chairs,Home Office,8
+2014,Central,Furniture,Furnishings,Consumer,26
+2015,Central,Furniture,Furnishings,Consumer,22
+2016,Central,Furniture,Furnishings,Consumer,29
+2017,Central,Furniture,Furnishings,Consumer,31
+2014,Central,Furniture,Furnishings,Corporate,9
+2015,Central,Furniture,Furnishings,Corporate,12
+2016,Central,Furniture,Furnishings,Corporate,21
+2017,Central,Furniture,Furnishings,Corporate,16
+2014,Central,Furniture,Furnishings,Home Office,5
+2015,Central,Furniture,Furnishings,Home Office,5
+2016,Central,Furniture,Furnishings,Home Office,15
+2017,Central,Furniture,Furnishings,Home Office,14
+2014,Central,Furniture,Tables,Consumer,11
+2015,Central,Furniture,Tables,Consumer,6
+2016,Central,Furniture,Tables,Consumer,10
+2017,Central,Furniture,Tables,Consumer,15
+2014,Central,Furniture,Tables,Corporate,2
+2015,Central,Furniture,Tables,Corporate,4
+2016,Central,Furniture,Tables,Corporate,5
+2017,Central,Furniture,Tables,Corporate,5
+2014,Central,Furniture,Tables,Home Office,2
+2015,Central,Furniture,Tables,Home Office,4
+2016,Central,Furniture,Tables,Home Office,2
+2017,Central,Furniture,Tables,Home Office,6
+2014,Central,Office Supplies,Appliances,Consumer,14
+2015,Central,Office Supplies,Appliances,Consumer,15
+2016,Central,Office Supplies,Appliances,Consumer,9
+2017,Central,Office Supplies,Appliances,Consumer,28
+2014,Central,Office Supplies,Appliances,Corporate,7
+2015,Central,Office Supplies,Appliances,Corporate,5
+2016,Central,Office Supplies,Appliances,Corporate,12
+2017,Central,Office Supplies,Appliances,Corporate,12
+2014,Central,Office Supplies,Appliances,Home Office,2
+2015,Central,Office Supplies,Appliances,Home Office,6
+2016,Central,Office Supplies,Appliances,Home Office,7
+2017,Central,Office Supplies,Appliances,Home Office,6
+2014,Central,Office Supplies,Art,Consumer,19
+2015,Central,Office Supplies,Art,Consumer,14
+2016,Central,Office Supplies,Art,Consumer,22
+2017,Central,Office Supplies,Art,Consumer,39
+2014,Central,Office Supplies,Art,Corporate,5
+2015,Central,Office Supplies,Art,Corporate,11
+2016,Central,Office Supplies,Art,Corporate,15
+2017,Central,Office Supplies,Art,Corporate,13
+2014,Central,Office Supplies,Art,Home Office,4
+2015,Central,Office Supplies,Art,Home Office,8
+2016,Central,Office Supplies,Art,Home Office,9
+2017,Central,Office Supplies,Art,Home Office,17
+2014,Central,Office Supplies,Binders,Consumer,50
+2015,Central,Office Supplies,Binders,Consumer,41
+2016,Central,Office Supplies,Binders,Consumer,40
+2017,Central,Office Supplies,Binders,Consumer,62
+2014,Central,Office Supplies,Binders,Corporate,15
+2015,Central,Office Supplies,Binders,Corporate,18
+2016,Central,Office Supplies,Binders,Corporate,26
+2017,Central,Office Supplies,Binders,Corporate,45
+2014,Central,Office Supplies,Binders,Home Office,14
+2015,Central,Office Supplies,Binders,Home Office,16
+2016,Central,Office Supplies,Binders,Home Office,14
+2017,Central,Office Supplies,Binders,Home Office,25
+2014,Central,Office Supplies,Envelopes,Consumer,6
+2015,Central,Office Supplies,Envelopes,Consumer,6
+2016,Central,Office Supplies,Envelopes,Consumer,9
+2017,Central,Office Supplies,Envelopes,Consumer,8
+2014,Central,Office Supplies,Envelopes,Corporate,6
+2015,Central,Office Supplies,Envelopes,Corporate,3
+2016,Central,Office Supplies,Envelopes,Corporate,2
+2017,Central,Office Supplies,Envelopes,Corporate,4
+2014,Central,Office Supplies,Envelopes,Home Office,5
+2015,Central,Office Supplies,Envelopes,Home Office,3
+2016,Central,Office Supplies,Envelopes,Home Office,2
+2017,Central,Office Supplies,Envelopes,Home Office,5
+2014,Central,Office Supplies,Fasteners,Consumer,7
+2015,Central,Office Supplies,Fasteners,Consumer,6
+2016,Central,Office Supplies,Fasteners,Consumer,7
+2017,Central,Office Supplies,Fasteners,Consumer,10
+2014,Central,Office Supplies,Fasteners,Corporate,5
+2015,Central,Office Supplies,Fasteners,Corporate,2
+2016,Central,Office Supplies,Fasteners,Corporate,5
+2017,Central,Office Supplies,Fasteners,Corporate,6
+2014,Central,Office Supplies,Fasteners,Home Office,1
+2015,Central,Office Supplies,Fasteners,Home Office,1
+2016,Central,Office Supplies,Fasteners,Home Office,3
+2017,Central,Office Supplies,Fasteners,Home Office,2
+2014,Central,Office Supplies,Labels,Consumer,5
+2015,Central,Office Supplies,Labels,Consumer,6
+2016,Central,Office Supplies,Labels,Consumer,10
+2017,Central,Office Supplies,Labels,Consumer,12
+2014,Central,Office Supplies,Labels,Corporate,5
+2015,Central,Office Supplies,Labels,Corporate,7
+2016,Central,Office Supplies,Labels,Corporate,5
+2017,Central,Office Supplies,Labels,Corporate,6
+2014,Central,Office Supplies,Labels,Home Office,6
+2015,Central,Office Supplies,Labels,Home Office,2
+2016,Central,Office Supplies,Labels,Home Office,7
+2017,Central,Office Supplies,Labels,Home Office,5
+2014,Central,Office Supplies,Paper,Consumer,34
+2015,Central,Office Supplies,Paper,Consumer,26
+2016,Central,Office Supplies,Paper,Consumer,46
+2017,Central,Office Supplies,Paper,Consumer,49
+2014,Central,Office Supplies,Paper,Corporate,19
+2015,Central,Office Supplies,Paper,Corporate,24
+2016,Central,Office Supplies,Paper,Corporate,32
+2017,Central,Office Supplies,Paper,Corporate,37
+2014,Central,Office Supplies,Paper,Home Office,11
+2015,Central,Office Supplies,Paper,Home Office,6
+2016,Central,Office Supplies,Paper,Home Office,14
+2017,Central,Office Supplies,Paper,Home Office,23
+2014,Central,Office Supplies,Storage,Consumer,36
+2015,Central,Office Supplies,Storage,Consumer,20
+2016,Central,Office Supplies,Storage,Consumer,25
+2017,Central,Office Supplies,Storage,Consumer,38
+2014,Central,Office Supplies,Storage,Corporate,11
+2015,Central,Office Supplies,Storage,Corporate,12
+2016,Central,Office Supplies,Storage,Corporate,12
+2017,Central,Office Supplies,Storage,Corporate,19
+2014,Central,Office Supplies,Storage,Home Office,7
+2015,Central,Office Supplies,Storage,Home Office,4
+2016,Central,Office Supplies,Storage,Home Office,10
+2017,Central,Office Supplies,Storage,Home Office,16
+2014,Central,Office Supplies,Supplies,Consumer,2
+2015,Central,Office Supplies,Supplies,Consumer,3
+2016,Central,Office Supplies,Supplies,Consumer,6
+2017,Central,Office Supplies,Supplies,Consumer,9
+2014,Central,Office Supplies,Supplies,Corporate,2
+2015,Central,Office Supplies,Supplies,Corporate,4
+2016,Central,Office Supplies,Supplies,Corporate,2
+2017,Central,Office Supplies,Supplies,Corporate,3
+2014,Central,Office Supplies,Supplies,Home Office,1
+2015,Central,Office Supplies,Supplies,Home Office,2
+2016,Central,Office Supplies,Supplies,Home Office,
+2017,Central,Office Supplies,Supplies,Home Office,2
+2014,Central,Technology,Accessories,Consumer,18
+2015,Central,Technology,Accessories,Consumer,21
+2016,Central,Technology,Accessories,Consumer,25
+2017,Central,Technology,Accessories,Consumer,37
+2014,Central,Technology,Accessories,Corporate,11
+2015,Central,Technology,Accessories,Corporate,9
+2016,Central,Technology,Accessories,Corporate,16
+2017,Central,Technology,Accessories,Corporate,15
+2014,Central,Technology,Accessories,Home Office,5
+2015,Central,Technology,Accessories,Home Office,8
+2016,Central,Technology,Accessories,Home Office,9
+2017,Central,Technology,Accessories,Home Office,9
+2014,Central,Technology,Copiers,Consumer,1
+2015,Central,Technology,Copiers,Consumer,3
+2016,Central,Technology,Copiers,Consumer,
+2017,Central,Technology,Copiers,Consumer,
+2014,Central,Technology,Copiers,Corporate,1
+2015,Central,Technology,Copiers,Corporate,4
+2016,Central,Technology,Copiers,Corporate,1
+2017,Central,Technology,Copiers,Corporate,2
+2014,Central,Technology,Copiers,Home Office,1
+2015,Central,Technology,Copiers,Home Office,2
+2016,Central,Technology,Copiers,Home Office,
+2017,Central,Technology,Copiers,Home Office,1
+2014,Central,Technology,Machines,Consumer,3
+2015,Central,Technology,Machines,Consumer,3
+2016,Central,Technology,Machines,Consumer,2
+2017,Central,Technology,Machines,Consumer,
+2014,Central,Technology,Machines,Corporate,3
+2015,Central,Technology,Machines,Corporate,1
+2016,Central,Technology,Machines,Corporate,
+2017,Central,Technology,Machines,Corporate,3
+2014,Central,Technology,Machines,Home Office,1
+2015,Central,Technology,Machines,Home Office,1
+2016,Central,Technology,Machines,Home Office,1
+2017,Central,Technology,Machines,Home Office,3
+2014,Central,Technology,Phones,Consumer,16
+2015,Central,Technology,Phones,Consumer,26
+2016,Central,Technology,Phones,Consumer,35
+2017,Central,Technology,Phones,Consumer,28
+2014,Central,Technology,Phones,Corporate,6
+2015,Central,Technology,Phones,Corporate,17
+2016,Central,Technology,Phones,Corporate,18
+2017,Central,Technology,Phones,Corporate,12
+2014,Central,Technology,Phones,Home Office,7
+2015,Central,Technology,Phones,Home Office,8
+2016,Central,Technology,Phones,Home Office,9
+2017,Central,Technology,Phones,Home Office,18
+2014,East,Furniture,Bookcases,Consumer,6
+2015,East,Furniture,Bookcases,Consumer,9
+2016,East,Furniture,Bookcases,Consumer,11
+2017,East,Furniture,Bookcases,Consumer,13
+2014,East,Furniture,Bookcases,Corporate,5
+2015,East,Furniture,Bookcases,Corporate,6
+2016,East,Furniture,Bookcases,Corporate,5
+2017,East,Furniture,Bookcases,Corporate,5
+2014,East,Furniture,Bookcases,Home Office,2
+2015,East,Furniture,Bookcases,Home Office,5
+2016,East,Furniture,Bookcases,Home Office,3
+2017,East,Furniture,Bookcases,Home Office,
+2014,East,Furniture,Chairs,Consumer,16
+2015,East,Furniture,Chairs,Consumer,21
+2016,East,Furniture,Chairs,Consumer,30
+2017,East,Furniture,Chairs,Consumer,27
+2014,East,Furniture,Chairs,Corporate,9
+2015,East,Furniture,Chairs,Corporate,11
+2016,East,Furniture,Chairs,Corporate,10
+2017,East,Furniture,Chairs,Corporate,16
+2014,East,Furniture,Chairs,Home Office,7
+2015,East,Furniture,Chairs,Home Office,7
+2016,East,Furniture,Chairs,Home Office,4
+2017,East,Furniture,Chairs,Home Office,10
+2014,East,Furniture,Furnishings,Consumer,33
+2015,East,Furniture,Furnishings,Consumer,20
+2016,East,Furniture,Furnishings,Consumer,39
+2017,East,Furniture,Furnishings,Consumer,45
+2014,East,Furniture,Furnishings,Corporate,13
+2015,East,Furniture,Furnishings,Corporate,20
+2016,East,Furniture,Furnishings,Corporate,28
+2017,East,Furniture,Furnishings,Corporate,38
+2014,East,Furniture,Furnishings,Home Office,6
+2015,East,Furniture,Furnishings,Home Office,12
+2016,East,Furniture,Furnishings,Home Office,9
+2017,East,Furniture,Furnishings,Home Office,20
+2014,East,Furniture,Tables,Consumer,8
+2015,East,Furniture,Tables,Consumer,7
+2016,East,Furniture,Tables,Consumer,11
+2017,East,Furniture,Tables,Consumer,7
+2014,East,Furniture,Tables,Corporate,10
+2015,East,Furniture,Tables,Corporate,5
+2016,East,Furniture,Tables,Corporate,9
+2017,East,Furniture,Tables,Corporate,8
+2014,East,Furniture,Tables,Home Office,2
+2015,East,Furniture,Tables,Home Office,3
+2016,East,Furniture,Tables,Home Office,2
+2017,East,Furniture,Tables,Home Office,8
+2014,East,Office Supplies,Appliances,Consumer,16
+2015,East,Office Supplies,Appliances,Consumer,13
+2016,East,Office Supplies,Appliances,Consumer,18
+2017,East,Office Supplies,Appliances,Consumer,19
+2014,East,Office Supplies,Appliances,Corporate,12
+2015,East,Office Supplies,Appliances,Corporate,6
+2016,East,Office Supplies,Appliances,Corporate,14
+2017,East,Office Supplies,Appliances,Corporate,11
+2014,East,Office Supplies,Appliances,Home Office,3
+2015,East,Office Supplies,Appliances,Home Office,7
+2016,East,Office Supplies,Appliances,Home Office,3
+2017,East,Office Supplies,Appliances,Home Office,4
+2014,East,Office Supplies,Art,Consumer,28
+2015,East,Office Supplies,Art,Consumer,25
+2016,East,Office Supplies,Art,Consumer,29
+2017,East,Office Supplies,Art,Consumer,35
+2014,East,Office Supplies,Art,Corporate,11
+2015,East,Office Supplies,Art,Corporate,14
+2016,East,Office Supplies,Art,Corporate,22
+2017,East,Office Supplies,Art,Corporate,25
+2014,East,Office Supplies,Art,Home Office,6
+2015,East,Office Supplies,Art,Home Office,15
+2016,East,Office Supplies,Art,Home Office,7
+2017,East,Office Supplies,Art,Home Office,11
+2014,East,Office Supplies,Binders,Consumer,51
+2015,East,Office Supplies,Binders,Consumer,44
+2016,East,Office Supplies,Binders,Consumer,71
+2017,East,Office Supplies,Binders,Consumer,72
+2014,East,Office Supplies,Binders,Corporate,27
+2015,East,Office Supplies,Binders,Corporate,29
+2016,East,Office Supplies,Binders,Corporate,38
+2017,East,Office Supplies,Binders,Corporate,36
+2014,East,Office Supplies,Binders,Home Office,10
+2015,East,Office Supplies,Binders,Home Office,20
+2016,East,Office Supplies,Binders,Home Office,18
+2017,East,Office Supplies,Binders,Home Office,24
+2014,East,Office Supplies,Envelopes,Consumer,10
+2015,East,Office Supplies,Envelopes,Consumer,13
+2016,East,Office Supplies,Envelopes,Consumer,10
+2017,East,Office Supplies,Envelopes,Consumer,6
+2014,East,Office Supplies,Envelopes,Corporate,5
+2015,East,Office Supplies,Envelopes,Corporate,6
+2016,East,Office Supplies,Envelopes,Corporate,3
+2017,East,Office Supplies,Envelopes,Corporate,11
+2014,East,Office Supplies,Envelopes,Home Office,1
+2015,East,Office Supplies,Envelopes,Home Office,2
+2016,East,Office Supplies,Envelopes,Home Office,4
+2017,East,Office Supplies,Envelopes,Home Office,3
+2014,East,Office Supplies,Fasteners,Consumer,3
+2015,East,Office Supplies,Fasteners,Consumer,8
+2016,East,Office Supplies,Fasteners,Consumer,10
+2017,East,Office Supplies,Fasteners,Consumer,8
+2014,East,Office Supplies,Fasteners,Corporate,2
+2015,East,Office Supplies,Fasteners,Corporate,6
+2016,East,Office Supplies,Fasteners,Corporate,8
+2017,East,Office Supplies,Fasteners,Corporate,5
+2014,East,Office Supplies,Fasteners,Home Office,1
+2015,East,Office Supplies,Fasteners,Home Office,3
+2016,East,Office Supplies,Fasteners,Home Office,5
+2017,East,Office Supplies,Fasteners,Home Office,2
+2014,East,Office Supplies,Labels,Consumer,10
+2015,East,Office Supplies,Labels,Consumer,13
+2016,East,Office Supplies,Labels,Consumer,16
+2017,East,Office Supplies,Labels,Consumer,24
+2014,East,Office Supplies,Labels,Corporate,9
+2015,East,Office Supplies,Labels,Corporate,2
+2016,East,Office Supplies,Labels,Corporate,4
+2017,East,Office Supplies,Labels,Corporate,8
+2014,East,Office Supplies,Labels,Home Office,2
+2015,East,Office Supplies,Labels,Home Office,5
+2016,East,Office Supplies,Labels,Home Office,9
+2017,East,Office Supplies,Labels,Home Office,5
+2014,East,Office Supplies,Paper,Consumer,32
+2015,East,Office Supplies,Paper,Consumer,37
+2016,East,Office Supplies,Paper,Consumer,43
+2017,East,Office Supplies,Paper,Consumer,75
+2014,East,Office Supplies,Paper,Corporate,18
+2015,East,Office Supplies,Paper,Corporate,24
+2016,East,Office Supplies,Paper,Corporate,24
+2017,East,Office Supplies,Paper,Corporate,36
+2014,East,Office Supplies,Paper,Home Office,14
+2015,East,Office Supplies,Paper,Home Office,25
+2016,East,Office Supplies,Paper,Home Office,24
+2017,East,Office Supplies,Paper,Home Office,26
+2014,East,Office Supplies,Storage,Consumer,16
+2015,East,Office Supplies,Storage,Consumer,26
+2016,East,Office Supplies,Storage,Consumer,41
+2017,East,Office Supplies,Storage,Consumer,31
+2014,East,Office Supplies,Storage,Corporate,15
+2015,East,Office Supplies,Storage,Corporate,25
+2016,East,Office Supplies,Storage,Corporate,26
+2017,East,Office Supplies,Storage,Corporate,24
+2014,East,Office Supplies,Storage,Home Office,3
+2015,East,Office Supplies,Storage,Home Office,6
+2016,East,Office Supplies,Storage,Home Office,10
+2017,East,Office Supplies,Storage,Home Office,19
+2014,East,Office Supplies,Supplies,Consumer,6
+2015,East,Office Supplies,Supplies,Consumer,7
+2016,East,Office Supplies,Supplies,Consumer,12
+2017,East,Office Supplies,Supplies,Consumer,10
+2014,East,Office Supplies,Supplies,Corporate,1
+2015,East,Office Supplies,Supplies,Corporate,
+2016,East,Office Supplies,Supplies,Corporate,7
+2017,East,Office Supplies,Supplies,Corporate,6
+2014,East,Office Supplies,Supplies,Home Office,2
+2015,East,Office Supplies,Supplies,Home Office,1
+2016,East,Office Supplies,Supplies,Home Office,2
+2017,East,Office Supplies,Supplies,Home Office,2
+2014,East,Technology,Accessories,Consumer,19
+2015,East,Technology,Accessories,Consumer,27
+2016,East,Technology,Accessories,Consumer,21
+2017,East,Technology,Accessories,Consumer,40
+2014,East,Technology,Accessories,Corporate,6
+2015,East,Technology,Accessories,Corporate,14
+2016,East,Technology,Accessories,Corporate,11
+2017,East,Technology,Accessories,Corporate,25
+2014,East,Technology,Accessories,Home Office,6
+2015,East,Technology,Accessories,Home Office,12
+2016,East,Technology,Accessories,Home Office,14
+2017,East,Technology,Accessories,Home Office,11
+2014,East,Technology,Copiers,Consumer,4
+2015,East,Technology,Copiers,Consumer,3
+2016,East,Technology,Copiers,Consumer,3
+2017,East,Technology,Copiers,Consumer,2
+2014,East,Technology,Copiers,Corporate,
+2015,East,Technology,Copiers,Corporate,
+2016,East,Technology,Copiers,Corporate,3
+2017,East,Technology,Copiers,Corporate,1
+2014,East,Technology,Copiers,Home Office,
+2015,East,Technology,Copiers,Home Office,1
+2016,East,Technology,Copiers,Home Office,1
+2017,East,Technology,Copiers,Home Office,2
+2014,East,Technology,Machines,Consumer,5
+2015,East,Technology,Machines,Consumer,5
+2016,East,Technology,Machines,Consumer,6
+2017,East,Technology,Machines,Consumer,3
+2014,East,Technology,Machines,Corporate,1
+2015,East,Technology,Machines,Corporate,4
+2016,East,Technology,Machines,Corporate,4
+2017,East,Technology,Machines,Corporate,3
+2014,East,Technology,Machines,Home Office,2
+2015,East,Technology,Machines,Home Office,1
+2016,East,Technology,Machines,Home Office,
+2017,East,Technology,Machines,Home Office,3
+2014,East,Technology,Phones,Consumer,28
+2015,East,Technology,Phones,Consumer,35
+2016,East,Technology,Phones,Consumer,31
+2017,East,Technology,Phones,Consumer,46
+2014,East,Technology,Phones,Corporate,12
+2015,East,Technology,Phones,Corporate,24
+2016,East,Technology,Phones,Corporate,20
+2017,East,Technology,Phones,Corporate,31
+2014,East,Technology,Phones,Home Office,3
+2015,East,Technology,Phones,Home Office,10
+2016,East,Technology,Phones,Home Office,13
+2017,East,Technology,Phones,Home Office,19
+2014,South,Furniture,Bookcases,Consumer,2
+2015,South,Furniture,Bookcases,Consumer,2
+2016,South,Furniture,Bookcases,Consumer,5
+2017,South,Furniture,Bookcases,Consumer,10
+2014,South,Furniture,Bookcases,Corporate,
+2015,South,Furniture,Bookcases,Corporate,2
+2016,South,Furniture,Bookcases,Corporate,1
+2017,South,Furniture,Bookcases,Corporate,2
+2014,South,Furniture,Bookcases,Home Office,
+2015,South,Furniture,Bookcases,Home Office,1
+2016,South,Furniture,Bookcases,Home Office,2
+2017,South,Furniture,Bookcases,Home Office,1
+2014,South,Furniture,Chairs,Consumer,11
+2015,South,Furniture,Chairs,Consumer,11
+2016,South,Furniture,Chairs,Consumer,10
+2017,South,Furniture,Chairs,Consumer,21
+2014,South,Furniture,Chairs,Corporate,6
+2015,South,Furniture,Chairs,Corporate,7
+2016,South,Furniture,Chairs,Corporate,6
+2017,South,Furniture,Chairs,Corporate,7
+2014,South,Furniture,Chairs,Home Office,2
+2015,South,Furniture,Chairs,Home Office,1
+2016,South,Furniture,Chairs,Home Office,1
+2017,South,Furniture,Chairs,Home Office,5
+2014,South,Furniture,Furnishings,Consumer,16
+2015,South,Furniture,Furnishings,Consumer,17
+2016,South,Furniture,Furnishings,Consumer,23
+2017,South,Furniture,Furnishings,Consumer,25
+2014,South,Furniture,Furnishings,Corporate,12
+2015,South,Furniture,Furnishings,Corporate,20
+2016,South,Furniture,Furnishings,Corporate,10
+2017,South,Furniture,Furnishings,Corporate,12
+2014,South,Furniture,Furnishings,Home Office,5
+2015,South,Furniture,Furnishings,Home Office,4
+2016,South,Furniture,Furnishings,Home Office,12
+2017,South,Furniture,Furnishings,Home Office,9
+2014,South,Furniture,Tables,Consumer,5
+2015,South,Furniture,Tables,Consumer,7
+2016,South,Furniture,Tables,Consumer,9
+2017,South,Furniture,Tables,Consumer,6
+2014,South,Furniture,Tables,Corporate,4
+2015,South,Furniture,Tables,Corporate,1
+2016,South,Furniture,Tables,Corporate,6
+2017,South,Furniture,Tables,Corporate,5
+2014,South,Furniture,Tables,Home Office,2
+2015,South,Furniture,Tables,Home Office,
+2016,South,Furniture,Tables,Home Office,
+2017,South,Furniture,Tables,Home Office,6
+2014,South,Office Supplies,Appliances,Consumer,6
+2015,South,Office Supplies,Appliances,Consumer,12
+2016,South,Office Supplies,Appliances,Consumer,8
+2017,South,Office Supplies,Appliances,Consumer,20
+2014,South,Office Supplies,Appliances,Corporate,6
+2015,South,Office Supplies,Appliances,Corporate,2
+2016,South,Office Supplies,Appliances,Corporate,5
+2017,South,Office Supplies,Appliances,Corporate,17
+2014,South,Office Supplies,Appliances,Home Office,1
+2015,South,Office Supplies,Appliances,Home Office,1
+2016,South,Office Supplies,Appliances,Home Office,3
+2017,South,Office Supplies,Appliances,Home Office,
+2014,South,Office Supplies,Art,Consumer,13
+2015,South,Office Supplies,Art,Consumer,16
+2016,South,Office Supplies,Art,Consumer,24
+2017,South,Office Supplies,Art,Consumer,28
+2014,South,Office Supplies,Art,Corporate,13
+2015,South,Office Supplies,Art,Corporate,12
+2016,South,Office Supplies,Art,Corporate,7
+2017,South,Office Supplies,Art,Corporate,8
+2014,South,Office Supplies,Art,Home Office,4
+2015,South,Office Supplies,Art,Home Office,4
+2016,South,Office Supplies,Art,Home Office,3
+2017,South,Office Supplies,Art,Home Office,10
+2014,South,Office Supplies,Binders,Consumer,18
+2015,South,Office Supplies,Binders,Consumer,30
+2016,South,Office Supplies,Binders,Consumer,33
+2017,South,Office Supplies,Binders,Consumer,30
+2014,South,Office Supplies,Binders,Corporate,20
+2015,South,Office Supplies,Binders,Corporate,24
+2016,South,Office Supplies,Binders,Corporate,22
+2017,South,Office Supplies,Binders,Corporate,21
+2014,South,Office Supplies,Binders,Home Office,6
+2015,South,Office Supplies,Binders,Home Office,8
+2016,South,Office Supplies,Binders,Home Office,14
+2017,South,Office Supplies,Binders,Home Office,20
+2014,South,Office Supplies,Envelopes,Consumer,4
+2015,South,Office Supplies,Envelopes,Consumer,8
+2016,South,Office Supplies,Envelopes,Consumer,6
+2017,South,Office Supplies,Envelopes,Consumer,8
+2014,South,Office Supplies,Envelopes,Corporate,4
+2015,South,Office Supplies,Envelopes,Corporate,8
+2016,South,Office Supplies,Envelopes,Corporate,3
+2017,South,Office Supplies,Envelopes,Corporate,6
+2014,South,Office Supplies,Envelopes,Home Office,1
+2015,South,Office Supplies,Envelopes,Home Office,3
+2016,South,Office Supplies,Envelopes,Home Office,3
+2017,South,Office Supplies,Envelopes,Home Office,
+2014,South,Office Supplies,Fasteners,Consumer,4
+2015,South,Office Supplies,Fasteners,Consumer,2
+2016,South,Office Supplies,Fasteners,Consumer,2
+2017,South,Office Supplies,Fasteners,Consumer,5
+2014,South,Office Supplies,Fasteners,Corporate,4
+2015,South,Office Supplies,Fasteners,Corporate,2
+2016,South,Office Supplies,Fasteners,Corporate,1
+2017,South,Office Supplies,Fasteners,Corporate,
+2014,South,Office Supplies,Fasteners,Home Office,3
+2015,South,Office Supplies,Fasteners,Home Office,
+2016,South,Office Supplies,Fasteners,Home Office,3
+2017,South,Office Supplies,Fasteners,Home Office,3
+2014,South,Office Supplies,Labels,Consumer,5
+2015,South,Office Supplies,Labels,Consumer,7
+2016,South,Office Supplies,Labels,Consumer,9
+2017,South,Office Supplies,Labels,Consumer,9
+2014,South,Office Supplies,Labels,Corporate,9
+2015,South,Office Supplies,Labels,Corporate,7
+2016,South,Office Supplies,Labels,Corporate,3
+2017,South,Office Supplies,Labels,Corporate,4
+2014,South,Office Supplies,Labels,Home Office,1
+2015,South,Office Supplies,Labels,Home Office,2
+2016,South,Office Supplies,Labels,Home Office,3
+2017,South,Office Supplies,Labels,Home Office,6
+2014,South,Office Supplies,Paper,Consumer,24
+2015,South,Office Supplies,Paper,Consumer,20
+2016,South,Office Supplies,Paper,Consumer,31
+2017,South,Office Supplies,Paper,Consumer,44
+2014,South,Office Supplies,Paper,Corporate,24
+2015,South,Office Supplies,Paper,Corporate,13
+2016,South,Office Supplies,Paper,Corporate,11
+2017,South,Office Supplies,Paper,Corporate,17
+2014,South,Office Supplies,Paper,Home Office,10
+2015,South,Office Supplies,Paper,Home Office,3
+2016,South,Office Supplies,Paper,Home Office,17
+2017,South,Office Supplies,Paper,Home Office,7
+2014,South,Office Supplies,Storage,Consumer,12
+2015,South,Office Supplies,Storage,Consumer,18
+2016,South,Office Supplies,Storage,Consumer,15
+2017,South,Office Supplies,Storage,Consumer,21
+2014,South,Office Supplies,Storage,Corporate,13
+2015,South,Office Supplies,Storage,Corporate,7
+2016,South,Office Supplies,Storage,Corporate,10
+2017,South,Office Supplies,Storage,Corporate,10
+2014,South,Office Supplies,Storage,Home Office,4
+2015,South,Office Supplies,Storage,Home Office,2
+2016,South,Office Supplies,Storage,Home Office,7
+2017,South,Office Supplies,Storage,Home Office,9
+2014,South,Office Supplies,Supplies,Consumer,4
+2015,South,Office Supplies,Supplies,Consumer,1
+2016,South,Office Supplies,Supplies,Consumer,3
+2017,South,Office Supplies,Supplies,Consumer,5
+2014,South,Office Supplies,Supplies,Corporate,2
+2015,South,Office Supplies,Supplies,Corporate,1
+2016,South,Office Supplies,Supplies,Corporate,5
+2017,South,Office Supplies,Supplies,Corporate,3
+2014,South,Office Supplies,Supplies,Home Office,1
+2015,South,Office Supplies,Supplies,Home Office,
+2016,South,Office Supplies,Supplies,Home Office,3
+2017,South,Office Supplies,Supplies,Home Office,1
+2014,South,Technology,Accessories,Consumer,13
+2015,South,Technology,Accessories,Consumer,14
+2016,South,Technology,Accessories,Consumer,21
+2017,South,Technology,Accessories,Consumer,22
+2014,South,Technology,Accessories,Corporate,10
+2015,South,Technology,Accessories,Corporate,6
+2016,South,Technology,Accessories,Corporate,9
+2017,South,Technology,Accessories,Corporate,9
+2014,South,Technology,Accessories,Home Office,5
+2015,South,Technology,Accessories,Home Office,4
+2016,South,Technology,Accessories,Home Office,4
+2017,South,Technology,Accessories,Home Office,11
+2014,South,Technology,Copiers,Consumer,1
+2015,South,Technology,Copiers,Consumer,
+2016,South,Technology,Copiers,Consumer,1
+2017,South,Technology,Copiers,Consumer,2
+2014,South,Technology,Copiers,Corporate,
+2015,South,Technology,Copiers,Corporate,1
+2016,South,Technology,Copiers,Corporate,1
+2017,South,Technology,Copiers,Corporate,1
+2014,South,Technology,Machines,Consumer,3
+2015,South,Technology,Machines,Consumer,2
+2016,South,Technology,Machines,Consumer,3
+2017,South,Technology,Machines,Consumer,3
+2014,South,Technology,Machines,Corporate,
+2015,South,Technology,Machines,Corporate,
+2016,South,Technology,Machines,Corporate,2
+2017,South,Technology,Machines,Corporate,2
+2014,South,Technology,Machines,Home Office,2
+2015,South,Technology,Machines,Home Office,
+2016,South,Technology,Machines,Home Office,1
+2017,South,Technology,Machines,Home Office,
+2014,South,Technology,Phones,Consumer,12
+2015,South,Technology,Phones,Consumer,19
+2016,South,Technology,Phones,Consumer,17
+2017,South,Technology,Phones,Consumer,20
+2014,South,Technology,Phones,Corporate,14
+2015,South,Technology,Phones,Corporate,8
+2016,South,Technology,Phones,Corporate,7
+2017,South,Technology,Phones,Corporate,15
+2014,South,Technology,Phones,Home Office,8
+2015,South,Technology,Phones,Home Office,
+2016,South,Technology,Phones,Home Office,8
+2017,South,Technology,Phones,Home Office,12
+2014,West,Furniture,Bookcases,Consumer,6
+2015,West,Furniture,Bookcases,Consumer,18
+2016,West,Furniture,Bookcases,Consumer,8
+2017,West,Furniture,Bookcases,Consumer,17
+2014,West,Furniture,Bookcases,Corporate,6
+2015,West,Furniture,Bookcases,Corporate,3
+2016,West,Furniture,Bookcases,Corporate,4
+2017,West,Furniture,Bookcases,Corporate,7
+2014,West,Furniture,Bookcases,Home Office,3
+2015,West,Furniture,Bookcases,Home Office,
+2016,West,Furniture,Bookcases,Home Office,3
+2017,West,Furniture,Bookcases,Home Office,5
+2014,West,Furniture,Chairs,Consumer,27
+2015,West,Furniture,Chairs,Consumer,17
+2016,West,Furniture,Chairs,Consumer,31
+2017,West,Furniture,Chairs,Consumer,26
+2014,West,Furniture,Chairs,Corporate,13
+2015,West,Furniture,Chairs,Corporate,14
+2016,West,Furniture,Chairs,Corporate,24
+2017,West,Furniture,Chairs,Corporate,20
+2014,West,Furniture,Chairs,Home Office,6
+2015,West,Furniture,Chairs,Home Office,10
+2016,West,Furniture,Chairs,Home Office,7
+2017,West,Furniture,Chairs,Home Office,12
+2014,West,Furniture,Furnishings,Consumer,31
+2015,West,Furniture,Furnishings,Consumer,37
+2016,West,Furniture,Furnishings,Consumer,40
+2017,West,Furniture,Furnishings,Consumer,60
+2014,West,Furniture,Furnishings,Corporate,16
+2015,West,Furniture,Furnishings,Corporate,20
+2016,West,Furniture,Furnishings,Corporate,17
+2017,West,Furniture,Furnishings,Corporate,24
+2014,West,Furniture,Furnishings,Home Office,12
+2015,West,Furniture,Furnishings,Home Office,11
+2016,West,Furniture,Furnishings,Home Office,14
+2017,West,Furniture,Furnishings,Home Office,22
+2014,West,Furniture,Tables,Consumer,13
+2015,West,Furniture,Tables,Consumer,15
+2016,West,Furniture,Tables,Consumer,12
+2017,West,Furniture,Tables,Consumer,17
+2014,West,Furniture,Tables,Corporate,10
+2015,West,Furniture,Tables,Corporate,4
+2016,West,Furniture,Tables,Corporate,15
+2017,West,Furniture,Tables,Corporate,13
+2014,West,Furniture,Tables,Home Office,2
+2015,West,Furniture,Tables,Home Office,2
+2016,West,Furniture,Tables,Home Office,5
+2017,West,Furniture,Tables,Home Office,8
+2014,West,Office Supplies,Appliances,Consumer,11
+2015,West,Office Supplies,Appliances,Consumer,11
+2016,West,Office Supplies,Appliances,Consumer,18
+2017,West,Office Supplies,Appliances,Consumer,26
+2014,West,Office Supplies,Appliances,Corporate,8
+2015,West,Office Supplies,Appliances,Corporate,12
+2016,West,Office Supplies,Appliances,Corporate,11
+2017,West,Office Supplies,Appliances,Corporate,15
+2014,West,Office Supplies,Appliances,Home Office,7
+2015,West,Office Supplies,Appliances,Home Office,4
+2016,West,Office Supplies,Appliances,Home Office,6
+2017,West,Office Supplies,Appliances,Home Office,7
+2014,West,Office Supplies,Art,Consumer,38
+2015,West,Office Supplies,Art,Consumer,29
+2016,West,Office Supplies,Art,Consumer,21
+2017,West,Office Supplies,Art,Consumer,48
+2014,West,Office Supplies,Art,Corporate,16
+2015,West,Office Supplies,Art,Corporate,10
+2016,West,Office Supplies,Art,Corporate,14
+2017,West,Office Supplies,Art,Corporate,22
+2014,West,Office Supplies,Art,Home Office,7
+2015,West,Office Supplies,Art,Home Office,9
+2016,West,Office Supplies,Art,Home Office,10
+2017,West,Office Supplies,Art,Home Office,26
+2014,West,Office Supplies,Binders,Consumer,40
+2015,West,Office Supplies,Binders,Consumer,51
+2016,West,Office Supplies,Binders,Consumer,68
+2017,West,Office Supplies,Binders,Consumer,79
+2014,West,Office Supplies,Binders,Corporate,29
+2015,West,Office Supplies,Binders,Corporate,25
+2016,West,Office Supplies,Binders,Corporate,44
+2017,West,Office Supplies,Binders,Corporate,54
+2014,West,Office Supplies,Binders,Home Office,10
+2015,West,Office Supplies,Binders,Home Office,12
+2016,West,Office Supplies,Binders,Home Office,27
+2017,West,Office Supplies,Binders,Home Office,32
+2014,West,Office Supplies,Envelopes,Consumer,9
+2015,West,Office Supplies,Envelopes,Consumer,9
+2016,West,Office Supplies,Envelopes,Consumer,12
+2017,West,Office Supplies,Envelopes,Consumer,5
+2014,West,Office Supplies,Envelopes,Corporate,2
+2015,West,Office Supplies,Envelopes,Corporate,5
+2016,West,Office Supplies,Envelopes,Corporate,6
+2017,West,Office Supplies,Envelopes,Corporate,10
+2014,West,Office Supplies,Envelopes,Home Office,1
+2015,West,Office Supplies,Envelopes,Home Office,1
+2016,West,Office Supplies,Envelopes,Home Office,2
+2017,West,Office Supplies,Envelopes,Home Office,5
+2014,West,Office Supplies,Fasteners,Consumer,8
+2015,West,Office Supplies,Fasteners,Consumer,10
+2016,West,Office Supplies,Fasteners,Consumer,11
+2017,West,Office Supplies,Fasteners,Consumer,13
+2014,West,Office Supplies,Fasteners,Corporate,6
+2015,West,Office Supplies,Fasteners,Corporate,1
+2016,West,Office Supplies,Fasteners,Corporate,2
+2017,West,Office Supplies,Fasteners,Corporate,4
+2014,West,Office Supplies,Fasteners,Home Office,6
+2015,West,Office Supplies,Fasteners,Home Office,3
+2016,West,Office Supplies,Fasteners,Home Office,2
+2017,West,Office Supplies,Fasteners,Home Office,6
+2014,West,Office Supplies,Labels,Consumer,10
+2015,West,Office Supplies,Labels,Consumer,14
+2016,West,Office Supplies,Labels,Consumer,18
+2017,West,Office Supplies,Labels,Consumer,21
+2014,West,Office Supplies,Labels,Corporate,6
+2015,West,Office Supplies,Labels,Corporate,11
+2016,West,Office Supplies,Labels,Corporate,8
+2017,West,Office Supplies,Labels,Corporate,8
+2014,West,Office Supplies,Labels,Home Office,8
+2015,West,Office Supplies,Labels,Home Office,1
+2016,West,Office Supplies,Labels,Home Office,5
+2017,West,Office Supplies,Labels,Home Office,6
+2014,West,Office Supplies,Paper,Consumer,46
+2015,West,Office Supplies,Paper,Consumer,52
+2016,West,Office Supplies,Paper,Consumer,66
+2017,West,Office Supplies,Paper,Consumer,68
+2014,West,Office Supplies,Paper,Corporate,27
+2015,West,Office Supplies,Paper,Corporate,24
+2016,West,Office Supplies,Paper,Corporate,34
+2017,West,Office Supplies,Paper,Corporate,44
+2014,West,Office Supplies,Paper,Home Office,14
+2015,West,Office Supplies,Paper,Home Office,18
+2016,West,Office Supplies,Paper,Home Office,24
+2017,West,Office Supplies,Paper,Home Office,33
+2014,West,Office Supplies,Storage,Consumer,35
+2015,West,Office Supplies,Storage,Consumer,34
+2016,West,Office Supplies,Storage,Consumer,35
+2017,West,Office Supplies,Storage,Consumer,47
+2014,West,Office Supplies,Storage,Corporate,17
+2015,West,Office Supplies,Storage,Corporate,11
+2016,West,Office Supplies,Storage,Corporate,13
+2017,West,Office Supplies,Storage,Corporate,35
+2014,West,Office Supplies,Storage,Home Office,8
+2015,West,Office Supplies,Storage,Home Office,6
+2016,West,Office Supplies,Storage,Home Office,6
+2017,West,Office Supplies,Storage,Home Office,19
+2014,West,Office Supplies,Supplies,Consumer,10
+2015,West,Office Supplies,Supplies,Consumer,9
+2016,West,Office Supplies,Supplies,Consumer,4
+2017,West,Office Supplies,Supplies,Consumer,9
+2014,West,Office Supplies,Supplies,Corporate,7
+2015,West,Office Supplies,Supplies,Corporate,2
+2016,West,Office Supplies,Supplies,Corporate,10
+2017,West,Office Supplies,Supplies,Corporate,6
+2014,West,Office Supplies,Supplies,Home Office,2
+2015,West,Office Supplies,Supplies,Home Office,1
+2016,West,Office Supplies,Supplies,Home Office,6
+2017,West,Office Supplies,Supplies,Home Office,3
+2014,West,Technology,Accessories,Consumer,33
+2015,West,Technology,Accessories,Consumer,33
+2016,West,Technology,Accessories,Consumer,23
+2017,West,Technology,Accessories,Consumer,41
+2014,West,Technology,Accessories,Corporate,16
+2015,West,Technology,Accessories,Corporate,13
+2016,West,Technology,Accessories,Corporate,24
+2017,West,Technology,Accessories,Corporate,33
+2014,West,Technology,Accessories,Home Office,6
+2015,West,Technology,Accessories,Home Office,5
+2016,West,Technology,Accessories,Home Office,9
+2017,West,Technology,Accessories,Home Office,22
+2014,West,Technology,Copiers,Consumer,2
+2015,West,Technology,Copiers,Consumer,4
+2016,West,Technology,Copiers,Consumer,4
+2017,West,Technology,Copiers,Consumer,5
+2014,West,Technology,Copiers,Corporate,
+2015,West,Technology,Copiers,Corporate,2
+2016,West,Technology,Copiers,Corporate,1
+2017,West,Technology,Copiers,Corporate,2
+2014,West,Technology,Copiers,Home Office,
+2015,West,Technology,Copiers,Home Office,
+2016,West,Technology,Copiers,Home Office,1
+2017,West,Technology,Copiers,Home Office,4
+2014,West,Technology,Machines,Consumer,4
+2015,West,Technology,Machines,Consumer,5
+2016,West,Technology,Machines,Consumer,7
+2017,West,Technology,Machines,Consumer,3
+2014,West,Technology,Machines,Corporate,1
+2015,West,Technology,Machines,Corporate,2
+2016,West,Technology,Machines,Corporate,3
+2017,West,Technology,Machines,Corporate,6
+2014,West,Technology,Machines,Home Office,1
+2015,West,Technology,Machines,Home Office,
+2016,West,Technology,Machines,Home Office,3
+2017,West,Technology,Machines,Home Office,4
+2014,West,Technology,Phones,Consumer,35
+2015,West,Technology,Phones,Consumer,31
+2016,West,Technology,Phones,Consumer,29
+2017,West,Technology,Phones,Consumer,43
+2014,West,Technology,Phones,Corporate,19
+2015,West,Technology,Phones,Corporate,17
+2016,West,Technology,Phones,Corporate,21
+2017,West,Technology,Phones,Corporate,31
+2014,West,Technology,Phones,Home Office,11
+2015,West,Technology,Phones,Home Office,4
+2016,West,Technology,Phones,Home Office,17
+2017,West,Technology,Phones,Home Office,19
