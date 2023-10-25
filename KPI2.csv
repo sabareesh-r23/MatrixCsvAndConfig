@@ -1,601 +1,205 @@
-Orders.Order Date.Variation.Date Hierarchy.Month,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Category,Orders.Product Name,Sum(Orders.Profit),Sum(Orders.Sales),Sum(Orders.Quantity)
-March,2015,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-August,2015,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-September,2015,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-October,2015,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-November,2015,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-December,2015,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-January,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,-38.361599999999996,63.93600000000001,8
-March,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-April,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-June,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-July,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-August,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,14.3856,39.96,2
-September,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,28.7712,79.92,4
-October,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,43.156800000000004,119.88,6
-November,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-December,2017,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,22.3776,111.888,7
-January,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-February,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-March,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-April,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-May,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-June,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-July,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,22.3776,111.888,7
-August,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,6.393599999999999,31.968000000000004,2
-September,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-October,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-November,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,-14.385599999999997,23.976000000000003,3
-December,2018,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-January,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,71.928,199.8,10
-February,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-March,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-April,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-May,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,63.93599999999999,255.74400000000003,15
-June,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,91.10879999999999,551.4480000000001,36
-July,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-August,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-September,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-October,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-November,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-December,2019,Furniture,Furnishings,12-1/2 Diameter Round Wall Clock,,,
-March,2015,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-August,2015,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-September,2015,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-October,2015,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-November,2015,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-December,2015,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-January,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-March,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,-5.454800000000004,33.568000000000005,2
-April,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-June,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-July,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-August,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-September,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-October,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,-5.454800000000004,33.568000000000005,2
-November,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-December,2017,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-January,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-February,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-March,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-April,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-May,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-June,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-July,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,-21.609400000000008,193.01600000000002,11
-August,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-September,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-October,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-November,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-December,2018,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,5.874399999999994,83.92,4
-January,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-February,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,2.937199999999997,41.96,2
-March,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-April,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-May,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,-13.42720000000001,142.664,8
-June,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,-40.49140000000003,369.248,21
-July,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-August,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-September,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-October,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-November,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-December,2019,Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,,,
-March,2015,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-August,2015,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-September,2015,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-October,2015,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-November,2015,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-December,2015,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-January,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-March,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-April,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-June,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-July,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-August,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-September,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-October,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-November,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-December,2017,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-January,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-February,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-March,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",20.386799999999994,82.518,12
-April,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-May,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-June,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-July,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",20.386799999999994,82.518,12
-August,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-September,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-October,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-November,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-December,2018,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-January,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",11.6496,32.36,4
-February,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-March,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-April,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",-5.8248000000000015,9.708,3
-May,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",5.824799999999998,42.068,7
-June,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",26.21159999999999,124.586,19
-July,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-August,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-September,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-October,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-November,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-December,2019,Furniture,Furnishings,"6"" Cubicle Wall Clock, Black",,,
-March,2015,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-August,2015,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,-459.60720000000003,176.77199999999996,3
-September,2015,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-October,2015,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-November,2015,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-December,2015,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-January,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,-459.60720000000003,176.77199999999996,3
-March,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-April,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-June,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-July,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-August,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-September,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-October,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-November,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-December,2017,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-January,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-February,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,-153.2024,58.923999999999985,1
-March,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-April,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-May,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-June,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-July,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,-153.2024,58.923999999999985,1
-August,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-September,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-October,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-November,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-December,2018,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-January,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,94.27840000000003,942.7840000000001,4
-February,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-March,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-April,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,-766.012,294.61999999999995,5
-May,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,-259.26559999999984,2710.504,14
-June,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,-872.0751999999999,2946.2,18
-July,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-August,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-September,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-October,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-November,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-December,2019,Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,,,
-March,2015,Office Supplies,Appliances,3M Office Air Cleaner,,,
-August,2015,Office Supplies,Appliances,3M Office Air Cleaner,,,
-September,2015,Office Supplies,Appliances,3M Office Air Cleaner,,,
-October,2015,Office Supplies,Appliances,3M Office Air Cleaner,,,
-November,2015,Office Supplies,Appliances,3M Office Air Cleaner,,,
-December,2015,Office Supplies,Appliances,3M Office Air Cleaner,,,
-January,2017,Office Supplies,Appliances,3M Office Air Cleaner,,,
-March,2017,Office Supplies,Appliances,3M Office Air Cleaner,,,
-April,2017,Office Supplies,Appliances,3M Office Air Cleaner,,,
-June,2017,Office Supplies,Appliances,3M Office Air Cleaner,,,
-July,2017,Office Supplies,Appliances,3M Office Air Cleaner,,,
-August,2017,Office Supplies,Appliances,3M Office Air Cleaner,,,
-September,2017,Office Supplies,Appliances,3M Office Air Cleaner,36.372,103.92,4
-October,2017,Office Supplies,Appliances,3M Office Air Cleaner,36.372,103.92,4
-November,2017,Office Supplies,Appliances,3M Office Air Cleaner,,,
-December,2017,Office Supplies,Appliances,3M Office Air Cleaner,,,
-January,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-February,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-March,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-April,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-May,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-June,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-July,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-August,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-September,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-October,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-November,2018,Office Supplies,Appliances,3M Office Air Cleaner,,,
-December,2018,Office Supplies,Appliances,3M Office Air Cleaner,54.558,155.88,6
-January,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-February,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-March,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-April,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-May,2019,Office Supplies,Appliances,3M Office Air Cleaner,54.558,155.88,6
-June,2019,Office Supplies,Appliances,3M Office Air Cleaner,90.93,259.8,10
-July,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-August,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-September,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-October,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-November,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-December,2019,Office Supplies,Appliances,3M Office Air Cleaner,,,
-March,2015,Office Supplies,Art,12 Colored Short Pencils,,,
-August,2015,Office Supplies,Art,12 Colored Short Pencils,,,
-September,2015,Office Supplies,Art,12 Colored Short Pencils,0.5460000000000007,6.24,3
-October,2015,Office Supplies,Art,12 Colored Short Pencils,,,
-November,2015,Office Supplies,Art,12 Colored Short Pencils,,,
-December,2015,Office Supplies,Art,12 Colored Short Pencils,,,
-January,2017,Office Supplies,Art,12 Colored Short Pencils,0.5460000000000007,6.24,3
-March,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-April,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-June,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-July,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-August,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-September,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-October,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-November,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-December,2017,Office Supplies,Art,12 Colored Short Pencils,,,
-January,2018,Office Supplies,Art,12 Colored Short Pencils,0.3640000000000003,4.16,2
-February,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-March,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-April,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-May,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-June,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-July,2018,Office Supplies,Art,12 Colored Short Pencils,0.3640000000000003,4.16,2
-August,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-September,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-October,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-November,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-December,2018,Office Supplies,Art,12 Colored Short Pencils,,,
-January,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-February,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-March,2019,Office Supplies,Art,12 Colored Short Pencils,2.1060000000000008,7.800000000000001,3
-April,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-May,2019,Office Supplies,Art,12 Colored Short Pencils,2.1060000000000008,7.800000000000001,3
-June,2019,Office Supplies,Art,12 Colored Short Pencils,3.016000000000002,18.200000000000003,8
-July,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-August,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-September,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-October,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-November,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-December,2019,Office Supplies,Art,12 Colored Short Pencils,,,
-March,2015,Office Supplies,Art,4009 Highlighters,,,
-August,2015,Office Supplies,Art,4009 Highlighters,,,
-September,2015,Office Supplies,Art,4009 Highlighters,,,
-October,2015,Office Supplies,Art,4009 Highlighters,,,
-November,2015,Office Supplies,Art,4009 Highlighters,,,
-December,2015,Office Supplies,Art,4009 Highlighters,,,
-January,2017,Office Supplies,Art,4009 Highlighters,,,
-March,2017,Office Supplies,Art,4009 Highlighters,,,
-April,2017,Office Supplies,Art,4009 Highlighters,,,
-June,2017,Office Supplies,Art,4009 Highlighters,,,
-July,2017,Office Supplies,Art,4009 Highlighters,,,
-August,2017,Office Supplies,Art,4009 Highlighters,,,
-September,2017,Office Supplies,Art,4009 Highlighters,,,
-October,2017,Office Supplies,Art,4009 Highlighters,,,
-November,2017,Office Supplies,Art,4009 Highlighters,2.7336,8.040000000000001,6
-December,2017,Office Supplies,Art,4009 Highlighters,,,
-January,2018,Office Supplies,Art,4009 Highlighters,,,
-February,2018,Office Supplies,Art,4009 Highlighters,,,
-March,2018,Office Supplies,Art,4009 Highlighters,,,
-April,2018,Office Supplies,Art,4009 Highlighters,,,
-May,2018,Office Supplies,Art,4009 Highlighters,,,
-June,2018,Office Supplies,Art,4009 Highlighters,,,
-July,2018,Office Supplies,Art,4009 Highlighters,2.7336,8.040000000000001,6
-August,2018,Office Supplies,Art,4009 Highlighters,,,
-September,2018,Office Supplies,Art,4009 Highlighters,,,
-October,2018,Office Supplies,Art,4009 Highlighters,,,
-November,2018,Office Supplies,Art,4009 Highlighters,,,
-December,2018,Office Supplies,Art,4009 Highlighters,,,
-January,2019,Office Supplies,Art,4009 Highlighters,,,
-February,2019,Office Supplies,Art,4009 Highlighters,,,
-March,2019,Office Supplies,Art,4009 Highlighters,,,
-April,2019,Office Supplies,Art,4009 Highlighters,,,
-May,2019,Office Supplies,Art,4009 Highlighters,,,
-June,2019,Office Supplies,Art,4009 Highlighters,2.7336,8.040000000000001,6
-July,2019,Office Supplies,Art,4009 Highlighters,,,
-August,2019,Office Supplies,Art,4009 Highlighters,,,
-September,2019,Office Supplies,Art,4009 Highlighters,,,
-October,2019,Office Supplies,Art,4009 Highlighters,,,
-November,2019,Office Supplies,Art,4009 Highlighters,,,
-December,2019,Office Supplies,Art,4009 Highlighters,,,
-March,2015,Office Supplies,Art,4009 Highlighters by Sanford,6.566999999999998,19.9,5
-August,2015,Office Supplies,Art,4009 Highlighters by Sanford,,,
-September,2015,Office Supplies,Art,4009 Highlighters by Sanford,,,
-October,2015,Office Supplies,Art,4009 Highlighters by Sanford,10.507199999999997,31.84,8
-November,2015,Office Supplies,Art,4009 Highlighters by Sanford,,,
-December,2015,Office Supplies,Art,4009 Highlighters by Sanford,,,
-January,2017,Office Supplies,Art,4009 Highlighters by Sanford,17.074199999999998,51.739999999999995,13
-March,2017,Office Supplies,Art,4009 Highlighters by Sanford,,,
-April,2017,Office Supplies,Art,4009 Highlighters by Sanford,,,
-June,2017,Office Supplies,Art,4009 Highlighters by Sanford,,,
-July,2017,Office Supplies,Art,4009 Highlighters by Sanford,6.566999999999998,19.9,5
-August,2017,Office Supplies,Art,4009 Highlighters by Sanford,,,
-September,2017,Office Supplies,Art,4009 Highlighters by Sanford,,,
-October,2017,Office Supplies,Art,4009 Highlighters by Sanford,6.566999999999998,19.9,5
-November,2017,Office Supplies,Art,4009 Highlighters by Sanford,,,
-December,2017,Office Supplies,Art,4009 Highlighters by Sanford,,,
-January,2018,Office Supplies,Art,4009 Highlighters by Sanford,,,
-February,2018,Office Supplies,Art,4009 Highlighters by Sanford,,,
-March,2018,Office Supplies,Art,4009 Highlighters by Sanford,,,
-April,2018,Office Supplies,Art,4009 Highlighters by Sanford,,,
-May,2018,Office Supplies,Art,4009 Highlighters by Sanford,1.0347999999999993,6.368,2
-June,2018,Office Supplies,Art,4009 Highlighters by Sanford,,,
-July,2018,Office Supplies,Art,4009 Highlighters by Sanford,10.228599999999997,34.228,9
-August,2018,Office Supplies,Art,4009 Highlighters by Sanford,,,
-September,2018,Office Supplies,Art,4009 Highlighters by Sanford,,,
-October,2018,Office Supplies,Art,4009 Highlighters by Sanford,,,
-November,2018,Office Supplies,Art,4009 Highlighters by Sanford,11.820599999999997,35.82,9
-December,2018,Office Supplies,Art,4009 Highlighters by Sanford,1.5521999999999991,9.552,3
-January,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-February,2019,Office Supplies,Art,4009 Highlighters by Sanford,6.566999999999998,19.9,5
-March,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-April,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-May,2019,Office Supplies,Art,4009 Highlighters by Sanford,19.939799999999995,65.27199999999999,17
-June,2019,Office Supplies,Art,4009 Highlighters by Sanford,53.809599999999996,171.14,44
-July,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-August,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-September,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-October,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-November,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-December,2019,Office Supplies,Art,4009 Highlighters by Sanford,,,
-March,2015,Office Supplies,Art,50 Colored Long Pencils,,,
-August,2015,Office Supplies,Art,50 Colored Long Pencils,,,
-September,2015,Office Supplies,Art,50 Colored Long Pencils,,,
-October,2015,Office Supplies,Art,50 Colored Long Pencils,,,
-November,2015,Office Supplies,Art,50 Colored Long Pencils,,,
-December,2015,Office Supplies,Art,50 Colored Long Pencils,7.924800000000001,30.48,3
-January,2017,Office Supplies,Art,50 Colored Long Pencils,7.924800000000001,30.48,3
-March,2017,Office Supplies,Art,50 Colored Long Pencils,2.6416000000000004,10.16,1
-April,2017,Office Supplies,Art,50 Colored Long Pencils,13.208000000000002,50.8,5
-June,2017,Office Supplies,Art,50 Colored Long Pencils,,,
-July,2017,Office Supplies,Art,50 Colored Long Pencils,,,
-August,2017,Office Supplies,Art,50 Colored Long Pencils,,,
-September,2017,Office Supplies,Art,50 Colored Long Pencils,,,
-October,2017,Office Supplies,Art,50 Colored Long Pencils,15.849600000000002,60.959999999999994,6
-November,2017,Office Supplies,Art,50 Colored Long Pencils,,,
-December,2017,Office Supplies,Art,50 Colored Long Pencils,7.924800000000001,30.48,3
-January,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-February,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-March,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-April,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-May,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-June,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-July,2018,Office Supplies,Art,50 Colored Long Pencils,7.924800000000001,30.48,3
-August,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-September,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-October,2018,Office Supplies,Art,50 Colored Long Pencils,1.2192000000000007,16.256,2
-November,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-December,2018,Office Supplies,Art,50 Colored Long Pencils,,,
-January,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-February,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-March,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-April,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-May,2019,Office Supplies,Art,50 Colored Long Pencils,1.2192000000000007,16.256,2
-June,2019,Office Supplies,Art,50 Colored Long Pencils,32.918400000000005,138.176,14
-July,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-August,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-September,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-October,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-November,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-December,2019,Office Supplies,Art,50 Colored Long Pencils,,,
-March,2015,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-August,2015,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-September,2015,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-October,2015,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-November,2015,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-December,2015,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-January,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-March,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-April,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-June,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-July,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-August,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-September,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-October,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-November,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-December,2017,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,3.2161,8.872,1
-January,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-February,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-March,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,5.4341,11.09,1
-April,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,32.6046,66.53999999999999,6
-May,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-June,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-July,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,41.254799999999996,86.502,8
-August,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-September,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-October,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-November,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-December,2018,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-January,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,10.8682,22.18,2
-February,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-March,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-April,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-May,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,10.8682,22.18,2
-June,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,52.123,108.68199999999999,10
-July,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-August,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-September,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-October,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-November,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-December,2019,Office Supplies,Envelopes,#10 Self-Seal White Envelopes,,,
-March,2015,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-August,2015,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-September,2015,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-October,2015,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-November,2015,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",36.82449999999999,78.35,5
-December,2015,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",36.82449999999999,78.35,5
-January,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",73.64899999999999,156.7,10
-March,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-April,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-June,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",4.230899999999998,12.536000000000001,1
-July,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-August,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-September,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-October,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",4.230899999999998,12.536000000000001,1
-November,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",58.91919999999999,125.36,8
-December,2017,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-January,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-February,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-March,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-April,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-May,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-June,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",51.55429999999999,109.69,7
-July,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",110.47349999999997,235.05,15
-August,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-September,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",22.094699999999996,47.01,3
-October,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-November,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",12.692699999999995,37.608000000000004,3
-December,2018,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-January,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-February,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-March,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-April,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-May,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",34.78739999999999,84.618,6
-June,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",223.14079999999993,488.904,32
-July,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-August,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-September,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-October,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-November,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-December,2019,Office Supplies,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",,,
-March,2015,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-August,2015,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-September,2015,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-October,2015,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-November,2015,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-December,2015,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-January,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-March,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-April,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-June,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-July,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-August,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-September,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",35.415,113.328,9
-October,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",35.415,113.328,9
-November,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-December,2017,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-January,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-February,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-March,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-April,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-May,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-June,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-July,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-August,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-September,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-October,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",28.332,62.96,4
-November,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-December,2018,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-January,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-February,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-March,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-April,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-May,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",28.332,62.96,4
-June,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",63.747,176.288,13
-July,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-August,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-September,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-October,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-November,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-December,2019,Office Supplies,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",,,
-March,2015,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-August,2015,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-September,2015,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-October,2015,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-November,2015,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-December,2015,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-January,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-March,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-April,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-June,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-July,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-August,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-September,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-October,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-November,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-December,2017,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-January,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-February,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-March,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-April,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-May,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-June,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-July,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-August,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-September,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-October,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-November,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-December,2018,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-January,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",3.3389999999999995,8.904,3
-February,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",3.71,7.42,2
-March,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",3.3389999999999995,8.904,3
-April,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-May,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",10.387999999999998,25.227999999999998,8
-June,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",10.387999999999998,25.227999999999998,8
-July,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-August,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-September,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-October,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-November,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-December,2019,Office Supplies,Paper,"""While you Were Out"" Message Book, One Form per Page",,,
-March,2015,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-August,2015,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-September,2015,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,-1.249000000000013,99.92000000000002,5
-October,2015,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-November,2015,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-December,2015,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-January,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,-1.249000000000013,99.92000000000002,5
-March,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-April,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-June,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,-1.4988000000000135,119.90400000000001,6
-July,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-August,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-September,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,14.238599999999995,74.94,3
-October,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,12.739799999999981,194.844,9
-November,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-December,2017,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-January,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-February,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-March,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-April,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-May,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-June,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-July,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-August,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-September,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-October,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-November,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-December,2018,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-January,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-February,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,9.492399999999996,49.96,2
-March,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-April,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-May,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,9.492399999999996,49.96,2
-June,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,20.983199999999965,344.72400000000005,16
-July,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-August,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-September,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-October,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-November,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-December,2019,Office Supplies,Storage,2300 Heavy-Duty Transfer File Systems by Perma,,,
-March,2015,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-August,2015,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-September,2015,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-October,2015,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-November,2015,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-December,2015,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-January,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-March,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-April,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-June,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-July,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-August,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-September,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-October,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-November,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-December,2017,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",2365.9817999999996,9099.93,7
-January,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-February,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-March,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-April,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-May,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-June,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-July,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",2365.9817999999996,9099.93,7
-August,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-September,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-October,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-November,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-December,2018,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-January,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-February,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",1351.9895999999999,5199.96,4
-March,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-April,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-May,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",1351.9895999999999,5199.96,4
-June,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",3717.9713999999994,14299.89,11
-July,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-August,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-September,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-October,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-November,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
-December,2019,Technology,Machines,"3D Systems Cube Printer, 2nd Generation, Magenta",,,
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.Category,Orders.Sub-Category,Sum(Orders.Profit),Sum(Orders.Quantity),Sum(Orders.Sales)
+2014,Consumer,Furniture,Bookcases,-654.3065,74,10154.1301
+2015,Consumer,Furniture,Bookcases,-3301.0421,146,23022.8888
+2016,Consumer,Furniture,Bookcases,-159.8028,116,17150.0812
+2017,Consumer,Furniture,Bookcases,-320.4868,160,18305.6289
+2014,Consumer,Furniture,Chairs,3488.9716,280,44205.439
+2015,Consumer,Furniture,Chairs,3873.0676,289,37882.881
+2016,Consumer,Furniture,Chairs,2673.3309,332,40157.441
+2017,Consumer,Furniture,Chairs,3199.9618,333,50616.981
+2014,Consumer,Furniture,Furnishings,820.8868,360,7778.208
+2015,Consumer,Furniture,Furnishings,1560.1336,369,10762.532
+2016,Consumer,Furniture,Furnishings,3375.1844,542,17460.06
+2017,Consumer,Furniture,Furnishings,2163.2179,563,13619.246
+2014,Consumer,Furniture,Tables,-2019.7348,148,23923.1965
+2015,Consumer,Furniture,Tables,-3454.2743,139,22741.6265
+2016,Consumer,Furniture,Tables,-1283.6556,152,25593.3
+2017,Consumer,Furniture,Tables,-2970.3731,163,27675.672
+2014,Consumer,Office Supplies,Appliances,454.4117,161,6671.572
+2015,Consumer,Office Supplies,Appliances,527.7272,205,13426.144
+2016,Consumer,Office Supplies,Appliances,2556.5046,167,10840.815
+2017,Consumer,Office Supplies,Appliances,3443.2847,375,21881.05
+2014,Consumer,Office Supplies,Art,698.2742,342,2829.398
+2015,Consumer,Office Supplies,Art,726.6954,311,3006.248
+2016,Consumer,Office Supplies,Art,807.6007,356,3586.424
+2017,Consumer,Office Supplies,Art,1221.7308,616,4829.86
+2014,Consumer,Office Supplies,Binders,2320.7134,598,30153.234
+2015,Consumer,Office Supplies,Binders,5387.5955,634,24886.48
+2016,Consumer,Office Supplies,Binders,5297.0996,807,25712.32
+2017,Consumer,Office Supplies,Binders,4990.1887,976,37408.975
+2014,Consumer,Office Supplies,Envelopes,828.2824,115,2171.074
+2015,Consumer,Office Supplies,Envelopes,813.601,100,1794.222
+2016,Consumer,Office Supplies,Envelopes,960.4106,130,2241.792
+2017,Consumer,Office Supplies,Envelopes,662.1186,97,1564.058
+2014,Consumer,Office Supplies,Fasteners,100.8166,99,314.89
+2015,Consumer,Office Supplies,Fasteners,128.3949,98,358.76
+2016,Consumer,Office Supplies,Fasteners,140.9618,130,486.604
+2017,Consumer,Office Supplies,Fasteners,206.6275,146,520.688
+2014,Consumer,Office Supplies,Labels,466.3034,136,1020.884
+2015,Consumer,Office Supplies,Labels,807.2525,140,1707.088
+2016,Consumer,Office Supplies,Labels,621.8903,193,1374.804
+2017,Consumer,Office Supplies,Labels,1180.5422,246,2606.486
+2014,Consumer,Office Supplies,Paper,2886.0968,527,7114.968
+2015,Consumer,Office Supplies,Paper,3191.0959,544,7455.252
+2016,Consumer,Office Supplies,Paper,4097.7945,634,9267.642
+2017,Consumer,Office Supplies,Paper,5359.6564,897,12486.506
+2014,Consumer,Office Supplies,Storage,1492.5353,361,25226.216
+2015,Consumer,Office Supplies,Storage,1275.6261,374,25509.884
+2016,Consumer,Office Supplies,Storage,2735.2196,430,26422.486
+2017,Consumer,Office Supplies,Storage,1600.8194,454,23333.816
+2014,Consumer,Office Supplies,Supplies,347.0746,78,8924.508
+2015,Consumer,Office Supplies,Supplies,-65.4833,71,1591.73
+2016,Consumer,Office Supplies,Supplies,-867.6264,95,6336.442
+2017,Consumer,Office Supplies,Supplies,-1071.5162,115,8888.816
+2014,Consumer,Technology,Accessories,3056.8097,336,14298.612
+2015,Consumer,Technology,Accessories,6609.3057,367,26398.866
+2016,Consumer,Technology,Accessories,5305.1464,327,23461.296
+2017,Consumer,Technology,Accessories,5764.6607,548,22946.464
+2014,Consumer,Technology,Copiers,2502.9528,25,9579.816
+2015,Consumer,Technology,Copiers,3417.9165,33,10599.732
+2016,Consumer,Technology,Copiers,4745.9083,35,19719.724
+2017,Consumer,Technology,Copiers,13416.933,24,29919.798
+2014,Consumer,Technology,Machines,753.1883,54,25339.603
+2015,Consumer,Technology,Machines,424.4205,62,16711.369
+2016,Consumer,Technology,Machines,697.9973,70,33714.176
+2017,Consumer,Technology,Machines,265.4557,31,3777.677
+2014,Consumer,Technology,Phones,6776.5741,359,46391.064
+2015,Consumer,Technology,Phones,6538.1338,390,38680.23
+2016,Consumer,Technology,Phones,4066.989,398,33338.492
+2017,Consumer,Technology,Phones,6455.4178,538,51522.978
+2014,Corporate,Furniture,Bookcases,234.466,54,7021.6677
+2015,Corporate,Furniture,Bookcases,603.1327,64,11145.5229
+2016,Corporate,Furniture,Bookcases,235.4828,57,7287.2963
+2017,Corporate,Furniture,Bookcases,-434.6313,96,8551.4374
+2014,Corporate,Furniture,Chairs,1464.3076,158,17994.979
+2015,Corporate,Furniture,Chairs,821.2735,136,18331.227
+2016,Corporate,Furniture,Chairs,2501.274,218,34446.231
+2017,Corporate,Furniture,Chairs,3557.8014,207,28368.441
+2014,Corporate,Furniture,Furnishings,671.9907,182,4182.498
+2015,Corporate,Furniture,Furnishings,1204.1292,277,6708.414
+2016,Corporate,Furniture,Furnishings,642.9664,300,6100.132
+2017,Corporate,Furniture,Furnishings,989.1214,327,8010.222
+2014,Corporate,Furniture,Tables,-2009.4643,93,15901.13
+2015,Corporate,Furniture,Tables,337.7725,56,9775.922
+2016,Corporate,Furniture,Tables,-210.1193,157,29427.6815
+2017,Corporate,Furniture,Tables,-3024.6875,113,15766.984
+2014,Corporate,Office Supplies,Appliances,1122.7072,107,5598.986
+2015,Corporate,Office Supplies,Appliances,1049.8988,85,4343.767
+2016,Corporate,Office Supplies,Appliances,1328.3422,163,8396.302
+2017,Corporate,Office Supplies,Appliances,3928.947,214,18249.628
+2014,Corporate,Office Supplies,Art,516.8922,186,2430.342
+2015,Corporate,Office Supplies,Art,476.2578,180,2096.928
+2016,Corporate,Office Supplies,Art,392.1102,205,1533.258
+2017,Corporate,Office Supplies,Art,619.3875,279,2529.92
+2014,Corporate,Office Supplies,Binders,1849.1155,323,9812.921
+2015,Corporate,Office Supplies,Binders,-198.659,381,6643.09
+2016,Corporate,Office Supplies,Binders,1798.7978,498,9719.207
+2017,Corporate,Office Supplies,Binders,2928.0658,646,25385.095
+2014,Corporate,Office Supplies,Envelopes,460.9262,65,1150.682
+2015,Corporate,Office Supplies,Envelopes,829.1291,97,1934.016
+2016,Corporate,Office Supplies,Envelopes,713.6066,63,1574.068
+2017,Corporate,Office Supplies,Envelopes,567.5671,98,1283.904
+2014,Corporate,Office Supplies,Fasteners,66.9539,67,195.708
+2015,Corporate,Office Supplies,Fasteners,26.8451,57,132.836
+2016,Corporate,Office Supplies,Fasteners,87.9109,87,244.34
+2017,Corporate,Office Supplies,Fasteners,70.1931,62,210.406
+2014,Corporate,Office Supplies,Labels,664.364,121,1441.896
+2015,Corporate,Office Supplies,Labels,409.2418,96,976.588
+2016,Corporate,Office Supplies,Labels,361.1175,74,952.462
+2017,Corporate,Office Supplies,Labels,326.104,107,730.7
+2014,Corporate,Office Supplies,Paper,2540.9588,319,5617.796
+2015,Corporate,Office Supplies,Paper,2107.482,331,4869.076
+2016,Corporate,Office Supplies,Paper,2237.9754,412,5213.752
+2017,Corporate,Office Supplies,Paper,3475.1306,493,8182.506
+2014,Corporate,Office Supplies,Storage,1663.9596,233,17624.338
+2015,Corporate,Office Supplies,Storage,1830.0293,207,13692.678
+2016,Corporate,Office Supplies,Storage,1724.5605,236,19242.26
+2017,Corporate,Office Supplies,Storage,3912.4753,324,29231.722
+2014,Corporate,Office Supplies,Supplies,132.215,38,5065.596
+2015,Corporate,Office Supplies,Supplies,34.2245,21,212.184
+2016,Corporate,Office Supplies,Supplies,92.7701,83,7355.6
+2017,Corporate,Office Supplies,Supplies,79.7168,60,6801.904
+2014,Corporate,Technology,Accessories,1659.5959,159,5241.546
+2015,Corporate,Technology,Accessories,1653.4917,149,6159.01
+2016,Corporate,Technology,Accessories,3473.833,219,12668.638
+2017,Corporate,Technology,Accessories,5920.5599,354,24121.37
+2014,Corporate,Technology,Copiers,134.9955,3,719.976
+2015,Corporate,Technology,Copiers,5537.4013,25,13229.764
+2016,Corporate,Technology,Copiers,9954.9425,20,22979.826
+2017,Corporate,Technology,Copiers,3362.9396,22,9899.82
+2014,Corporate,Technology,Machines,-1154.6373,23,7307.142
+2015,Corporate,Technology,Machines,1301.2891,28,8129.898
+2016,Corporate,Technology,Machines,2724.7441,45,17020.386
+2017,Corporate,Technology,Machines,-2168.3769,45,27819.329
+2014,Corporate,Technology,Phones,3493.9304,200,21127.67
+2015,Corporate,Technology,Phones,2665.3854,223,20376.386
+2016,Corporate,Technology,Phones,2934.8543,269,22944.922
+2017,Corporate,Technology,Phones,2672.0495,311,26704.436
+2014,Home Office,Furniture,Bookcases,73.6698,25,2860.8798
+2015,Home Office,Furniture,Bookcases,-57.3208,32,4375.1608
+2016,Home Office,Furniture,Bookcases,136.791,24,1838.089
+2017,Home Office,Furniture,Bookcases,171.492,20,3167.2134
+2014,Home Office,Furniture,Chairs,2001.7678,102,15041.158
+2015,Home Office,Furniture,Chairs,1534.075,103,15520.421
+2016,Home Office,Furniture,Chairs,588.549,64,9314.973
+2017,Home Office,Furniture,Chairs,885.7861,134,16568.931
+2014,Home Office,Furniture,Furnishings,480.0144,118,1865.528
+2015,Home Office,Furniture,Furnishings,287.5561,124,3618.766
+2016,Home Office,Furniture,Furnishings,-82.8808,194,4313.932
+2017,Home Office,Furniture,Furnishings,946.8235,207,7285.626
+2014,Home Office,Furniture,Tables,905.1564,29,6264.039
+2015,Home Office,Furniture,Tables,-393.3001,40,6632.875
+2016,Home Office,Furniture,Tables,-1457.1669,37,5812.219
+2017,Home Office,Furniture,Tables,-2145.6341,114,17450.8865
+2014,Home Office,Office Supplies,Appliances,882.381,46,3043.067
+2015,Home Office,Office Supplies,Appliances,934.2697,75,5471.378
+2016,Home Office,Office Supplies,Appliances,1416.4947,66,6813.198
+2017,Home Office,Office Supplies,Appliances,493.0366,65,2796.254
+2014,Home Office,Office Supplies,Art,191.6367,85,798.242
+2015,Home Office,Office Supplies,Art,282.105,117,1133.658
+2016,Home Office,Office Supplies,Art,214.2517,117,841.226
+2017,Home Office,Office Supplies,Art,380.8448,206,1503.288
+2014,Home Office,Office Supplies,Binders,569.8871,168,3522.11
+2015,Home Office,Office Supplies,Binders,2407.7349,200,5923.528
+2016,Home Office,Office Supplies,Binders,3119.7367,298,14251.798
+2017,Home Office,Office Supplies,Binders,-248.5127,445,9993.975
+2014,Home Office,Office Supplies,Envelopes,206.2702,26,533.994
+2015,Home Office,Office Supplies,Envelopes,317.4605,40,783.95
+2016,Home Office,Office Supplies,Envelopes,392.7311,29,914.03
+2017,Home Office,Office Supplies,Envelopes,212.0733,46,530.612
+2014,Home Office,Office Supplies,Fasteners,10.7878,35,150.73
+2015,Home Office,Office Supplies,Fasteners,16.6976,21,53.628
+2016,Home Office,Office Supplies,Fasteners,65.2007,71,229.19
+2017,Home Office,Office Supplies,Fasteners,28.1283,41,126.5
+2014,Home Office,Office Supplies,Labels,155.3368,69,378.614
+2015,Home Office,Office Supplies,Labels,106.5343,27,272.786
+2016,Home Office,Office Supplies,Labels,209.6041,96,499.974
+2017,Home Office,Office Supplies,Labels,237.9631,95,524.03
+2014,Home Office,Office Supplies,Paper,943.9658,171,2102.192
+2015,Home Office,Office Supplies,Paper,1271.5921,212,2963.31
+2016,Home Office,Office Supplies,Paper,2735.7646,326,6180.5
+2017,Home Office,Office Supplies,Paper,3206.0564,312,7025.706
+2014,Home Office,Office Supplies,Storage,1009.7839,79,7478.488
+2015,Home Office,Office Supplies,Storage,399.8047,74,5845.686
+2016,Home Office,Office Supplies,Storage,1744.5067,142,13123.954
+2017,Home Office,Office Supplies,Storage,1889.506,244,17112.08
+2014,Home Office,Office Supplies,Supplies,10.766,14,403.966
+2015,Home Office,Office Supplies,Supplies,6.3804,17,148.568
+2016,Home Office,Office Supplies,Supplies,75.8924,38,585.534
+2017,Home Office,Office Supplies,Supplies,36.4866,17,358.69
+2014,Home Office,Technology,Accessories,1686.3094,85,5474.114
+2015,Home Office,Technology,Accessories,1934.4778,119,7966.084
+2016,Home Office,Technology,Accessories,885.3091,136,5765.92
+2017,Home Office,Technology,Accessories,3987.1364,177,12878.398
+2014,Home Office,Technology,Copiers,274.995,1,549.99
+2015,Home Office,Technology,Copiers,974.981,5,2349.954
+2016,Home Office,Technology,Copiers,3041.9418,14,6899.86
+2017,Home Office,Technology,Copiers,8251.9176,27,23079.77
+2014,Home Office,Technology,Machines,770.6179,19,29376.628
+2015,Home Office,Technology,Machines,1251.776,4,2922.43
+2016,Home Office,Technology,Machines,-515.4234,14,5172.324
+2017,Home Office,Technology,Machines,-966.2944,45,11947.669
+2014,Home Office,Technology,Phones,1537.5008,125,9872.072
+2015,Home Office,Technology,Phones,1195.2882,84,9257.086
+2016,Home Office,Technology,Phones,2457.7496,151,22678.616
+2017,Home Office,Technology,Phones,3721.8577,241,27113.102
