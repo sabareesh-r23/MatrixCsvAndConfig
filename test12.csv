@@ -1,0 +1,37 @@
+Orders.Category,Orders.Ship Mode,Orders.Segment,Sum(Orders.Quantity),Sum(Orders.Profit)
+Furniture,Standard Class,Consumer,2453,4109.99960000002
+Office Supplies,Standard Class,Consumer,7145,35269.81029999991
+Technology,Standard Class,Consumer,2154,38544.23909999996
+Furniture,Standard Class,Corporate,1538,4555.785900000001
+Office Supplies,Standard Class,Corporate,4187,22796.60850000001
+Technology,Standard Class,Corporate,1269,30118.4123
+Furniture,Standard Class,Home Office,777,1694.9301000000069
+Office Supplies,Standard Class,Home Office,2575,12532.366100000008
+Technology,Standard Class,Home Office,699,14466.635599999996
+Furniture,Second Class,Consumer,868,763.8168000000022
+Office Supplies,Second Class,Consumer,2308,9752.91789999998
+Technology,Second Class,Consumer,697,14430.176500000003
+Furniture,Second Class,Corporate,415,1596.6040999999989
+Office Supplies,Second Class,Corporate,1484,9809.122199999989
+Technology,Second Class,Corporate,418,6819.986800000001
+Furniture,Second Class,Home Office,286,1865.8404999999998
+Office Supplies,Second Class,Home Office,688,7506.1275
+Technology,Second Class,Home Office,259,4902.043099999999
+Furniture,First Class,Consumer,594,2078.7389999999973
+Office Supplies,First Class,Consumer,1641,7734.555199999992
+Technology,First Class,Consumer,530,11560.749400000008
+Furniture,First Class,Corporate,415,929.9260999999983
+Office Supplies,First Class,Corporate,1110,6299.312099999991
+Technology,First Class,Corporate,336,7235.234200000002
+Furniture,First Class,Home Office,229,58.28229999999919
+Office Supplies,First Class,Home Office,621,4366.461800000001
+Technology,First Class,Home Office,217,8706.579799999998
+Furniture,Same Day,Consumer,251,38.52319999999965
+Office Supplies,Same Day,Consumer,664,3573.0376000000006
+Technology,Same Day,Consumer,216,6262.6446
+Furniture,Same Day,Home Office,75,256.32549999999964
+Office Supplies,Same Day,Home Office,246,1528.2042000000001
+Technology,Same Day,Home Office,72,2414.8819999999996
+Furniture,Same Day,Corporate,127,502.4996999999994
+Office Supplies,Same Day,Corporate,237,1322.2773999999995
+Technology,Same Day,Corporate,72,-6.635299999998324
