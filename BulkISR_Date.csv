@@ -1,0 +1,18 @@
+Orders.Sub-Category,Orders.Category,Orders.Country,Sum(Orders.Sales),Sum(Orders.Profit),Sum(Orders.Quantity)
+Bookcases,Furniture,United States,114879.9963,-3472.5560000000046,868
+Chairs,Furniture,United States,328449.10300000064,26590.16630000003,2356
+Furnishings,Furniture,United States,91705.16399999989,13059.143600000005,3563
+Tables,Furniture,United States,206965.53199999995,-17725.481100000015,1241
+Appliances,Office Supplies,United States,107532.1610000001,18138.00540000003,1729
+Art,Office Supplies,United States,27118.791999999998,6527.786999999998,3000
+Binders,Office Supplies,United States,203412.73300000004,30221.76329999999,5974
+Envelopes,Office Supplies,United States,16476.402,6964.176699999995,906
+Fasteners,Office Supplies,United States,3024.2799999999997,949.5181999999995,914
+Labels,Office Supplies,United States,12486.312000000005,5546.253999999996,1400
+Paper,Office Supplies,United States,78479.20599999995,34053.56929999999,5178
+Storage,Office Supplies,United States,223843.60799999998,21278.82639999999,3158
+Supplies,Office Supplies,United States,46673.53799999997,-1189.0994999999998,647
+Accessories,Technology,United States,167380.318,41936.635699999955,2976
+Copiers,Technology,United States,149528.02999999994,55617.824900000036,234
+Machines,Technology,United States,189238.631,3384.756899999995,440
+Phones,Technology,United States,330007.0539999998,44515.73059999999,3289
