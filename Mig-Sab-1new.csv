@@ -1,0 +1,61 @@
+Orders.Region,Orders.Category,Orders.Ship Mode,Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.Ship Date.Variation.Date Hierarchy.Quarter,CountNonNull(Orders.Postal Code),Min(Orders.Customer Name)
+Central,Furniture,First Class,2014,Qtr 1,1,Carol Adams
+East,Furniture,First Class,2014,Qtr 1,2,Brendan Sweed
+South,Furniture,First Class,2014,Qtr 1,2,Matt Connell
+West,Furniture,First Class,2014,Qtr 1,4,Aaron Bergman
+Central,Furniture,First Class,2014,Qtr 2,4,Emily Burns
+East,Furniture,First Class,2014,Qtr 2,1,Shirley Daniels
+South,Furniture,First Class,2014,Qtr 2,1,Pauline Johnson
+West,Furniture,First Class,2014,Qtr 2,2,Bill Shonely
+Central,Furniture,First Class,2015,Qtr 1,4,Allen Armold
+East,Furniture,First Class,2015,Qtr 1,1,Gary Mitchum
+South,Furniture,First Class,2015,Qtr 1,,
+West,Furniture,First Class,2015,Qtr 1,3,Marc Crier
+Central,Furniture,First Class,2015,Qtr 2,3,Laura Armstrong
+East,Furniture,First Class,2015,Qtr 2,2,Victoria Pisteka
+South,Furniture,First Class,2015,Qtr 2,5,Benjamin Venier
+West,Furniture,First Class,2015,Qtr 2,,
+Central,Furniture,Same Day,2014,Qtr 1,1,Troy Blackwell
+East,Furniture,Same Day,2014,Qtr 1,,
+South,Furniture,Same Day,2014,Qtr 1,1,Trudy Glocke
+West,Furniture,Same Day,2014,Qtr 1,,
+Central,Furniture,Same Day,2014,Qtr 2,,
+East,Furniture,Same Day,2014,Qtr 2,1,Andrew Allen
+South,Furniture,Same Day,2014,Qtr 2,,
+West,Furniture,Same Day,2014,Qtr 2,2,Maya Herman
+Central,Furniture,Same Day,2015,Qtr 1,,
+East,Furniture,Same Day,2015,Qtr 1,1,Luke Foster
+South,Furniture,Same Day,2015,Qtr 1,,
+West,Furniture,Same Day,2015,Qtr 1,,
+Central,Furniture,Second Class,2014,Qtr 1,2,Guy Armstrong
+East,Furniture,Second Class,2014,Qtr 1,2,Chloris Kastensmidt
+South,Furniture,Second Class,2014,Qtr 1,2,Natalie DeCherney
+West,Furniture,Second Class,2014,Qtr 1,3,Dave Brooks
+Central,Furniture,Second Class,2014,Qtr 2,6,Dianna Wilson
+East,Furniture,Second Class,2014,Qtr 2,3,Art Foster
+South,Furniture,Second Class,2014,Qtr 2,3,Frank Olsen
+West,Furniture,Second Class,2014,Qtr 2,3,Nicole Fjeld
+Central,Furniture,Second Class,2015,Qtr 1,4,Amy Hunt
+East,Furniture,Second Class,2015,Qtr 1,6,Alan Haines
+South,Furniture,Second Class,2015,Qtr 1,2,Joseph Holt
+West,Furniture,Second Class,2015,Qtr 1,6,Cathy Prescott
+Central,Furniture,Second Class,2015,Qtr 2,6,Janet Molinari
+East,Furniture,Second Class,2015,Qtr 2,3,Alan Schoenberger
+South,Furniture,Second Class,2015,Qtr 2,,
+West,Furniture,Second Class,2015,Qtr 2,5,Eugene Barchas
+Central,Furniture,Standard Class,2014,Qtr 1,8,Giulietta Weimer
+East,Furniture,Standard Class,2014,Qtr 1,4,Christine Phan
+South,Furniture,Standard Class,2014,Qtr 1,13,Alan Shonely
+West,Furniture,Standard Class,2014,Qtr 1,9,Beth Fritzler
+Central,Furniture,Standard Class,2014,Qtr 2,14,Christina VanderZanden
+East,Furniture,Standard Class,2014,Qtr 2,17,Anna Andreadi
+South,Furniture,Standard Class,2014,Qtr 2,6,Anna Häberlin
+West,Furniture,Standard Class,2014,Qtr 2,21,Aaron Hawkins
+Central,Furniture,Standard Class,2015,Qtr 1,9,Dana Kaydos
+East,Furniture,Standard Class,2015,Qtr 1,8,Erin Smith
+South,Furniture,Standard Class,2015,Qtr 1,5,Andrew Gjertsen
+West,Furniture,Standard Class,2015,Qtr 1,14,Anthony Johnson
+Central,Furniture,Standard Class,2015,Qtr 2,14,Anna Gayman
+East,Furniture,Standard Class,2015,Qtr 2,17,Alan Dominguez
+South,Furniture,Standard Class,2015,Qtr 2,15,Andrew Gjertsen
+West,Furniture,Standard Class,2015,Qtr 2,17,Bart Watters
