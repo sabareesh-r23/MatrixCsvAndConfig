@@ -1,0 +1,3261 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orders.Country,Orders.City,Sum(Orders.Quantity),Sum(Orders.Sales)
+2014,Consumer,California,United States,Apple Valley,,
+2015,Consumer,California,United States,Apple Valley,,
+2016,Consumer,California,United States,Apple Valley,5,563.92
+2017,Consumer,California,United States,Apple Valley,,
+2014,Consumer,California,United States,Brentwood,10,408.76800000000003
+2015,Consumer,California,United States,Brentwood,2,79.9
+2016,Consumer,California,United States,Brentwood,,
+2017,Consumer,California,United States,Brentwood,,
+2014,Consumer,California,United States,Camarillo,,
+2015,Consumer,California,United States,Camarillo,,
+2016,Consumer,California,United States,Camarillo,,
+2017,Consumer,California,United States,Camarillo,3,14.73
+2014,Consumer,California,United States,Chico,,
+2015,Consumer,California,United States,Chico,9,54.17
+2016,Consumer,California,United States,Chico,,
+2017,Consumer,California,United States,Chico,,
+2014,Consumer,California,United States,Chula Vista,3,182.94
+2015,Consumer,California,United States,Chula Vista,,
+2016,Consumer,California,United States,Chula Vista,4,192.8
+2017,Consumer,California,United States,Chula Vista,,
+2014,Consumer,California,United States,Citrus Heights,,
+2015,Consumer,California,United States,Citrus Heights,,
+2016,Consumer,California,United States,Citrus Heights,,
+2017,Consumer,California,United States,Citrus Heights,3,129.39000000000001
+2014,Consumer,California,United States,Concord,3,172.87800000000001
+2015,Consumer,California,United States,Concord,,
+2016,Consumer,California,United States,Concord,5,61.120000000000005
+2017,Consumer,California,United States,Concord,2,239.66599999999997
+2014,Consumer,California,United States,Costa Mesa,,
+2015,Consumer,California,United States,Costa Mesa,3,29.22
+2016,Consumer,California,United States,Costa Mesa,23,686.2439999999999
+2017,Consumer,California,United States,Costa Mesa,10,504.496
+2014,Consumer,California,United States,Davis,,
+2015,Consumer,California,United States,Davis,,
+2016,Consumer,California,United States,Davis,5,32.400000000000006
+2017,Consumer,California,United States,Davis,,
+2014,Consumer,California,United States,Encinitas,,
+2015,Consumer,California,United States,Encinitas,,
+2016,Consumer,California,United States,Encinitas,8,305.49600000000004
+2017,Consumer,California,United States,Encinitas,5,286.485
+2014,Consumer,California,United States,Escondido,3,53.94
+2015,Consumer,California,United States,Escondido,,
+2016,Consumer,California,United States,Escondido,,
+2017,Consumer,California,United States,Escondido,,
+2014,Consumer,California,United States,Huntington Beach,,
+2015,Consumer,California,United States,Huntington Beach,,
+2016,Consumer,California,United States,Huntington Beach,,
+2017,Consumer,California,United States,Huntington Beach,8,95.92
+2014,Consumer,California,United States,Inglewood,,
+2015,Consumer,California,United States,Inglewood,,
+2016,Consumer,California,United States,Inglewood,,
+2017,Consumer,California,United States,Inglewood,24,492.736
+2014,Consumer,California,United States,Lake Elsinore,,
+2015,Consumer,California,United States,Lake Elsinore,5,283.92
+2016,Consumer,California,United States,Lake Elsinore,,
+2017,Consumer,California,United States,Lake Elsinore,,
+2014,Consumer,California,United States,Lake Forest,,
+2015,Consumer,California,United States,Lake Forest,,
+2016,Consumer,California,United States,Lake Forest,,
+2017,Consumer,California,United States,Lake Forest,7,597.8599999999999
+2014,Consumer,California,United States,Lakewood,,
+2015,Consumer,California,United States,Lakewood,11,41.98
+2016,Consumer,California,United States,Lakewood,3,257.499
+2017,Consumer,California,United States,Lakewood,5,94.2
+2014,Consumer,California,United States,Lancaster,,
+2015,Consumer,California,United States,Lancaster,7,359.82800000000003
+2016,Consumer,California,United States,Lancaster,,
+2017,Consumer,California,United States,Lancaster,2,17.456
+2014,Consumer,California,United States,Lodi,,
+2015,Consumer,California,United States,Lodi,,
+2016,Consumer,California,United States,Lodi,,
+2017,Consumer,California,United States,Lodi,7,97.3
+2014,Consumer,California,United States,Long Beach,,
+2015,Consumer,California,United States,Long Beach,34,1021.4460000000001
+2016,Consumer,California,United States,Long Beach,25,1059.088
+2017,Consumer,California,United States,Long Beach,22,332.8
+2014,Consumer,California,United States,Los Angeles,222,13886.478000000005
+2015,Consumer,California,United States,Los Angeles,370,28752.404
+2016,Consumer,California,United States,Los Angeles,435,26854.938999999995
+2017,Consumer,California,United States,Los Angeles,485,20182.819500000005
+2014,Consumer,California,United States,Mission Viejo,2,290.666
+2015,Consumer,California,United States,Mission Viejo,,
+2016,Consumer,California,United States,Mission Viejo,7,128.67
+2017,Consumer,California,United States,Mission Viejo,9,356.65
+2014,Consumer,California,United States,Modesto,,
+2015,Consumer,California,United States,Modesto,,
+2016,Consumer,California,United States,Modesto,,
+2017,Consumer,California,United States,Modesto,9,273.358
+2014,Consumer,California,United States,Moreno Valley,3,19.44
+2015,Consumer,California,United States,Moreno Valley,11,68.28
+2016,Consumer,California,United States,Moreno Valley,10,884.6800000000001
+2017,Consumer,California,United States,Moreno Valley,,
+2014,Consumer,California,United States,Morgan Hill,,
+2015,Consumer,California,United States,Morgan Hill,,
+2016,Consumer,California,United States,Morgan Hill,16,545.01
+2017,Consumer,California,United States,Morgan Hill,,
+2014,Consumer,California,United States,Murrieta,,
+2015,Consumer,California,United States,Murrieta,3,484.65000000000003
+2016,Consumer,California,United States,Murrieta,,
+2017,Consumer,California,United States,Murrieta,,
+2014,Consumer,California,United States,Oakland,12,180.69
+2015,Consumer,California,United States,Oakland,20,819.3940000000001
+2016,Consumer,California,United States,Oakland,3,479.97
+2017,Consumer,California,United States,Oakland,34,1529.6100000000001
+2014,Consumer,California,United States,Oceanside,,
+2015,Consumer,California,United States,Oceanside,2,204.6
+2016,Consumer,California,United States,Oceanside,,
+2017,Consumer,California,United States,Oceanside,10,60.08
+2014,Consumer,California,United States,Ontario,,
+2015,Consumer,California,United States,Ontario,,
+2016,Consumer,California,United States,Ontario,,
+2017,Consumer,California,United States,Ontario,5,283.92
+2014,Consumer,California,United States,Oxnard,3,127.94999999999999
+2015,Consumer,California,United States,Oxnard,,
+2016,Consumer,California,United States,Oxnard,,
+2017,Consumer,California,United States,Oxnard,5,82.95
+2014,Consumer,California,United States,Pasadena,6,465.48800000000006
+2015,Consumer,California,United States,Pasadena,10,842.2819999999999
+2016,Consumer,California,United States,Pasadena,26,849.9199999999998
+2017,Consumer,California,United States,Pasadena,34,845.1339999999999
+2014,Consumer,California,United States,Pomona,7,118.73
+2015,Consumer,California,United States,Pomona,10,942.3520000000001
+2016,Consumer,California,United States,Pomona,,
+2017,Consumer,California,United States,Pomona,,
+2014,Consumer,California,United States,Rancho Cucamonga,3,34.272
+2015,Consumer,California,United States,Rancho Cucamonga,,
+2016,Consumer,California,United States,Rancho Cucamonga,,
+2017,Consumer,California,United States,Rancho Cucamonga,9,191.82
+2014,Consumer,California,United States,Redding,3,333.576
+2015,Consumer,California,United States,Redding,,
+2016,Consumer,California,United States,Redding,,
+2017,Consumer,California,United States,Redding,,
+2014,Consumer,California,United States,Redlands,,
+2015,Consumer,California,United States,Redlands,38,2752.161
+2016,Consumer,California,United States,Redlands,16,124.58
+2017,Consumer,California,United States,Redlands,,
+2014,Consumer,California,United States,Redondo Beach,1,7.64
+2015,Consumer,California,United States,Redondo Beach,,
+2016,Consumer,California,United States,Redondo Beach,6,112.12
+2017,Consumer,California,United States,Redondo Beach,,
+2014,Consumer,California,United States,Riverside,,
+2015,Consumer,California,United States,Riverside,,
+2016,Consumer,California,United States,Riverside,7,36.744
+2017,Consumer,California,United States,Riverside,,
+2014,Consumer,California,United States,Roseville,3,7.98
+2015,Consumer,California,United States,Roseville,3,19.44
+2016,Consumer,California,United States,Roseville,38,264.51599999999996
+2017,Consumer,California,United States,Roseville,3,17.31
+2014,Consumer,California,United States,Sacramento,1,120.71199999999999
+2015,Consumer,California,United States,Sacramento,,
+2016,Consumer,California,United States,Sacramento,3,41.99
+2017,Consumer,California,United States,Sacramento,,
+2014,Consumer,California,United States,San Bernardino,,
+2015,Consumer,California,United States,San Bernardino,29,868.772
+2016,Consumer,California,United States,San Bernardino,,
+2017,Consumer,California,United States,San Bernardino,,
+2014,Consumer,California,United States,San Clemente,,
+2015,Consumer,California,United States,San Clemente,,
+2016,Consumer,California,United States,San Clemente,10,90.05799999999999
+2017,Consumer,California,United States,San Clemente,,
+2014,Consumer,California,United States,San Diego,104,6902.508000000001
+2015,Consumer,California,United States,San Diego,150,7864.5700000000015
+2016,Consumer,California,United States,San Diego,81,12885.052
+2017,Consumer,California,United States,San Diego,57,1741.4780000000003
+2014,Consumer,California,United States,San Francisco,276,21752.008999999995
+2015,Consumer,California,United States,San Francisco,110,6588.7210000000005
+2016,Consumer,California,United States,San Francisco,209,12813.023000000001
+2017,Consumer,California,United States,San Francisco,409,18041.346000000005
+2014,Consumer,California,United States,San Jose,25,1991.6740000000004
+2015,Consumer,California,United States,San Jose,5,526.88
+2016,Consumer,California,United States,San Jose,41,1181.33
+2017,Consumer,California,United States,San Jose,35,1100.207
+2014,Consumer,California,United States,San Luis Obispo,,
+2015,Consumer,California,United States,San Luis Obispo,,
+2016,Consumer,California,United States,San Luis Obispo,2,3.62
+2017,Consumer,California,United States,San Luis Obispo,,
+2014,Consumer,California,United States,San Mateo,,
+2015,Consumer,California,United States,San Mateo,,
+2016,Consumer,California,United States,San Mateo,,
+2017,Consumer,California,United States,San Mateo,6,75.17999999999999
+2014,Consumer,California,United States,Santa Ana,,
+2015,Consumer,California,United States,Santa Ana,,
+2016,Consumer,California,United States,Santa Ana,24,1265.188
+2017,Consumer,California,United States,Santa Ana,13,1861.27
+2014,Consumer,California,United States,Santa Barbara,,
+2015,Consumer,California,United States,Santa Barbara,,
+2016,Consumer,California,United States,Santa Barbara,,
+2017,Consumer,California,United States,Santa Barbara,7,356.78999999999996
+2014,Consumer,California,United States,Santa Clara,,
+2015,Consumer,California,United States,Santa Clara,,
+2016,Consumer,California,United States,Santa Clara,10,79.792
+2017,Consumer,California,United States,Santa Clara,,
+2014,Consumer,California,United States,Santa Maria,,
+2015,Consumer,California,United States,Santa Maria,3,115.44
+2016,Consumer,California,United States,Santa Maria,,
+2017,Consumer,California,United States,Santa Maria,,
+2014,Consumer,California,United States,Stockton,,
+2015,Consumer,California,United States,Stockton,,
+2016,Consumer,California,United States,Stockton,11,215.24
+2017,Consumer,California,United States,Stockton,6,108.80000000000001
+2014,Consumer,California,United States,Temecula,,
+2015,Consumer,California,United States,Temecula,14,808.6660000000002
+2016,Consumer,California,United States,Temecula,,
+2017,Consumer,California,United States,Temecula,,
+2014,Consumer,California,United States,Thousand Oaks,,
+2015,Consumer,California,United States,Thousand Oaks,2,15.984000000000002
+2016,Consumer,California,United States,Thousand Oaks,,
+2017,Consumer,California,United States,Thousand Oaks,,
+2014,Consumer,California,United States,Vacaville,11,423.28
+2015,Consumer,California,United States,Vacaville,,
+2016,Consumer,California,United States,Vacaville,,
+2017,Consumer,California,United States,Vacaville,,
+2014,Consumer,California,United States,Vallejo,13,156.786
+2015,Consumer,California,United States,Vallejo,,
+2016,Consumer,California,United States,Vallejo,,
+2017,Consumer,California,United States,Vallejo,,
+2014,Consumer,California,United States,Visalia,,
+2015,Consumer,California,United States,Visalia,,
+2016,Consumer,California,United States,Visalia,12,310.86
+2017,Consumer,California,United States,Visalia,,
+2014,Consumer,California,United States,Westminster,,
+2015,Consumer,California,United States,Westminster,,
+2016,Consumer,California,United States,Westminster,,
+2017,Consumer,California,United States,Westminster,50,3826.646
+2014,Consumer,California,United States,Whittier,,
+2015,Consumer,California,United States,Whittier,,
+2016,Consumer,California,United States,Whittier,,
+2017,Consumer,California,United States,Whittier,4,444.76800000000003
+2014,Consumer,California,United States,Woodland,,
+2015,Consumer,California,United States,Woodland,,
+2016,Consumer,California,United States,Woodland,2,239.98400000000004
+2017,Consumer,California,United States,Woodland,,
+2014,Consumer,Connecticut,United States,Bristol,8,121.24
+2015,Consumer,Connecticut,United States,Bristol,,
+2016,Consumer,Connecticut,United States,Bristol,,
+2017,Consumer,Connecticut,United States,Bristol,,
+2014,Consumer,Connecticut,United States,Fairfield,23,951.31
+2015,Consumer,Connecticut,United States,Fairfield,,
+2016,Consumer,Connecticut,United States,Fairfield,13,1028.9569999999999
+2017,Consumer,Connecticut,United States,Fairfield,18,960.8100000000001
+2014,Consumer,Connecticut,United States,Manchester,,
+2015,Consumer,Connecticut,United States,Manchester,6,93.78999999999999
+2016,Consumer,Connecticut,United States,Manchester,,
+2017,Consumer,Connecticut,United States,Manchester,19,853.22
+2014,Consumer,Connecticut,United States,Meriden,5,21.400000000000002
+2015,Consumer,Connecticut,United States,Meriden,5,63.14
+2016,Consumer,Connecticut,United States,Meriden,,
+2017,Consumer,Connecticut,United States,Meriden,8,237.64
+2014,Consumer,Connecticut,United States,Middletown,2,27.46
+2015,Consumer,Connecticut,United States,Middletown,,
+2016,Consumer,Connecticut,United States,Middletown,4,552.56
+2017,Consumer,Connecticut,United States,Middletown,7,317.58
+2014,Consumer,Connecticut,United States,Norwich,,
+2015,Consumer,Connecticut,United States,Norwich,3,370.14
+2016,Consumer,Connecticut,United States,Norwich,,
+2017,Consumer,Connecticut,United States,Norwich,2,10.36
+2014,Consumer,Connecticut,United States,Waterbury,,
+2015,Consumer,Connecticut,United States,Waterbury,,
+2016,Consumer,Connecticut,United States,Waterbury,13,253.03000000000003
+2017,Consumer,Connecticut,United States,Waterbury,2,3.52
+2014,Consumer,Florida,United States,Apopka,18,193.152
+2015,Consumer,Florida,United States,Apopka,,
+2016,Consumer,Florida,United States,Apopka,,
+2017,Consumer,Florida,United States,Apopka,,
+2014,Consumer,Florida,United States,Boca Raton,2,4.608
+2015,Consumer,Florida,United States,Boca Raton,,
+2016,Consumer,Florida,United States,Boca Raton,6,58.400000000000006
+2017,Consumer,Florida,United States,Boca Raton,,
+2014,Consumer,Florida,United States,Boynton Beach,3,15.552000000000003
+2015,Consumer,Florida,United States,Boynton Beach,,
+2016,Consumer,Florida,United States,Boynton Beach,13,314.39300000000003
+2017,Consumer,Florida,United States,Boynton Beach,4,107.55200000000002
+2014,Consumer,Florida,United States,Delray Beach,3,9.912
+2015,Consumer,Florida,United States,Delray Beach,,
+2016,Consumer,Florida,United States,Delray Beach,,
+2017,Consumer,Florida,United States,Delray Beach,,
+2014,Consumer,Florida,United States,Deltona,4,186.304
+2015,Consumer,Florida,United States,Deltona,3,107.97600000000001
+2016,Consumer,Florida,United States,Deltona,,
+2017,Consumer,Florida,United States,Deltona,,
+2014,Consumer,Florida,United States,Fort Lauderdale,,
+2015,Consumer,Florida,United States,Fort Lauderdale,7,979.9455
+2016,Consumer,Florida,United States,Fort Lauderdale,12,455.5470000000001
+2017,Consumer,Florida,United States,Fort Lauderdale,8,743.024
+2014,Consumer,Florida,United States,Homestead,,
+2015,Consumer,Florida,United States,Homestead,,
+2016,Consumer,Florida,United States,Homestead,3,85.224
+2017,Consumer,Florida,United States,Homestead,2,47.328
+2014,Consumer,Florida,United States,Jacksonville,14,471.44900000000007
+2015,Consumer,Florida,United States,Jacksonville,8,1814.46
+2016,Consumer,Florida,United States,Jacksonville,16,914.0400000000002
+2017,Consumer,Florida,United States,Jacksonville,35,5121.932
+2014,Consumer,Florida,United States,Jupiter,,
+2015,Consumer,Florida,United States,Jupiter,,
+2016,Consumer,Florida,United States,Jupiter,,
+2017,Consumer,Florida,United States,Jupiter,1,2.064
+2014,Consumer,Florida,United States,Kissimmee,,
+2015,Consumer,Florida,United States,Kissimmee,,
+2016,Consumer,Florida,United States,Kissimmee,,
+2017,Consumer,Florida,United States,Kissimmee,2,751.984
+2014,Consumer,Florida,United States,Lakeland,2,479.98400000000004
+2015,Consumer,Florida,United States,Lakeland,11,78.456
+2016,Consumer,Florida,United States,Lakeland,,
+2017,Consumer,Florida,United States,Lakeland,,
+2014,Consumer,Florida,United States,Margate,3,15.552000000000003
+2015,Consumer,Florida,United States,Margate,,
+2016,Consumer,Florida,United States,Margate,,
+2017,Consumer,Florida,United States,Margate,,
+2014,Consumer,Florida,United States,Miami,32,1504.5305000000003
+2015,Consumer,Florida,United States,Miami,50,836.748
+2016,Consumer,Florida,United States,Miami,8,1466.32
+2017,Consumer,Florida,United States,Miami,19,1218.2060000000001
+2014,Consumer,Florida,United States,Miramar,,
+2015,Consumer,Florida,United States,Miramar,,
+2016,Consumer,Florida,United States,Miramar,,
+2017,Consumer,Florida,United States,Miramar,8,559.2
+2014,Consumer,Florida,United States,North Miami,3,7.6320000000000014
+2015,Consumer,Florida,United States,North Miami,3,14.496000000000002
+2016,Consumer,Florida,United States,North Miami,,
+2017,Consumer,Florida,United States,North Miami,,
+2014,Consumer,Florida,United States,Orlando,,
+2015,Consumer,Florida,United States,Orlando,3,87.168
+2016,Consumer,Florida,United States,Orlando,,
+2017,Consumer,Florida,United States,Orlando,12,1051.4780000000003
+2014,Consumer,Florida,United States,Ormond Beach,,
+2015,Consumer,Florida,United States,Ormond Beach,,
+2016,Consumer,Florida,United States,Ormond Beach,,
+2017,Consumer,Florida,United States,Ormond Beach,3,2.8080000000000007
+2014,Consumer,Florida,United States,Palm Coast,,
+2015,Consumer,Florida,United States,Palm Coast,,
+2016,Consumer,Florida,United States,Palm Coast,,
+2017,Consumer,Florida,United States,Palm Coast,4,24.448
+2014,Consumer,Florida,United States,Pembroke Pines,,
+2015,Consumer,Florida,United States,Pembroke Pines,6,459.43350000000004
+2016,Consumer,Florida,United States,Pembroke Pines,11,24.066
+2017,Consumer,Florida,United States,Pembroke Pines,30,1230.8760000000002
+2014,Consumer,Florida,United States,Pensacola,,
+2015,Consumer,Florida,United States,Pensacola,,
+2016,Consumer,Florida,United States,Pensacola,3,2.2140000000000004
+2017,Consumer,Florida,United States,Pensacola,,
+2014,Consumer,Florida,United States,Plantation,,
+2015,Consumer,Florida,United States,Plantation,16,598.352
+2016,Consumer,Florida,United States,Plantation,,
+2017,Consumer,Florida,United States,Plantation,,
+2014,Consumer,Florida,United States,Port Orange,,
+2015,Consumer,Florida,United States,Port Orange,,
+2016,Consumer,Florida,United States,Port Orange,,
+2017,Consumer,Florida,United States,Port Orange,1,7.824
+2014,Consumer,Florida,United States,Port Saint Lucie,,
+2015,Consumer,Florida,United States,Port Saint Lucie,,
+2016,Consumer,Florida,United States,Port Saint Lucie,2,2.6940000000000004
+2017,Consumer,Florida,United States,Port Saint Lucie,4,14.336000000000002
+2014,Consumer,Florida,United States,Saint Petersburg,9,231.28000000000003
+2015,Consumer,Florida,United States,Saint Petersburg,,
+2016,Consumer,Florida,United States,Saint Petersburg,,
+2017,Consumer,Florida,United States,Saint Petersburg,2,17.088
+2014,Consumer,Florida,United States,Tallahassee,,
+2015,Consumer,Florida,United States,Tallahassee,3,8.226
+2016,Consumer,Florida,United States,Tallahassee,9,1401.2440000000001
+2017,Consumer,Florida,United States,Tallahassee,33,4617.064000000001
+2014,Consumer,Florida,United States,Tampa,48,2158.923
+2015,Consumer,Florida,United States,Tampa,6,133.56
+2016,Consumer,Florida,United States,Tampa,5,38.19000000000001
+2017,Consumer,Florida,United States,Tampa,2,7.904000000000001
+2014,Consumer,Florida,United States,West Palm Beach,,
+2015,Consumer,Florida,United States,West Palm Beach,2,55.98400000000001
+2016,Consumer,Florida,United States,West Palm Beach,4,72.224
+2017,Consumer,Florida,United States,West Palm Beach,,
+2014,Consumer,Georgia,United States,Columbus,9,83.72999999999999
+2015,Consumer,Georgia,United States,Columbus,20,508.29999999999995
+2016,Consumer,Georgia,United States,Columbus,42,1893.17
+2017,Consumer,Georgia,United States,Columbus,32,4167.99
+2014,Consumer,Georgia,United States,Macon,7,149.56
+2015,Consumer,Georgia,United States,Macon,4,58.72
+2016,Consumer,Georgia,United States,Macon,,
+2017,Consumer,Georgia,United States,Macon,,
+2014,Consumer,Georgia,United States,Marietta,,
+2015,Consumer,Georgia,United States,Marietta,3,5.64
+2016,Consumer,Georgia,United States,Marietta,,
+2017,Consumer,Georgia,United States,Marietta,,
+2014,Consumer,Georgia,United States,Roswell,12,755.4199999999998
+2015,Consumer,Georgia,United States,Roswell,25,1049.1299999999999
+2016,Consumer,Georgia,United States,Roswell,,
+2017,Consumer,Georgia,United States,Roswell,,
+2014,Consumer,Georgia,United States,Sandy Springs,,
+2015,Consumer,Georgia,United States,Sandy Springs,,
+2016,Consumer,Georgia,United States,Sandy Springs,10,1302.83
+2017,Consumer,Georgia,United States,Sandy Springs,,
+2014,Consumer,Georgia,United States,Smyrna,,
+2015,Consumer,Georgia,United States,Smyrna,,
+2016,Consumer,Georgia,United States,Smyrna,4,17.92
+2017,Consumer,Georgia,United States,Smyrna,8,36.57
+2014,Consumer,Georgia,United States,Warner Robins,,
+2015,Consumer,Georgia,United States,Warner Robins,,
+2016,Consumer,Georgia,United States,Warner Robins,7,41.86
+2017,Consumer,Georgia,United States,Warner Robins,,
+2014,Consumer,Georgia,United States,Woodstock,16,286.65000000000003
+2015,Consumer,Georgia,United States,Woodstock,,
+2016,Consumer,Georgia,United States,Woodstock,,
+2017,Consumer,Georgia,United States,Woodstock,,
+2014,Consumer,Illinois,United States,Arlington Heights,,
+2015,Consumer,Illinois,United States,Arlington Heights,,
+2016,Consumer,Illinois,United States,Arlington Heights,6,14.111999999999998
+2017,Consumer,Illinois,United States,Arlington Heights,,
+2014,Consumer,Illinois,United States,Aurora,3,268.935
+2015,Consumer,Illinois,United States,Aurora,5,349.082
+2016,Consumer,Illinois,United States,Aurora,6,186.048
+2017,Consumer,Illinois,United States,Aurora,23,3230.053
+2014,Consumer,Illinois,United States,Bloomington,6,617.7
+2015,Consumer,Illinois,United States,Bloomington,14,252.088
+2016,Consumer,Illinois,United States,Bloomington,,
+2017,Consumer,Illinois,United States,Bloomington,3,39.816
+2014,Consumer,Illinois,United States,Bolingbrook,,
+2015,Consumer,Illinois,United States,Bolingbrook,16,59.848000000000006
+2016,Consumer,Illinois,United States,Bolingbrook,,
+2017,Consumer,Illinois,United States,Bolingbrook,2,148.48
+2014,Consumer,Illinois,United States,Buffalo Grove,10,831.399
+2015,Consumer,Illinois,United States,Buffalo Grove,,
+2016,Consumer,Illinois,United States,Buffalo Grove,,
+2017,Consumer,Illinois,United States,Buffalo Grove,,
+2014,Consumer,Illinois,United States,Carol Stream,,
+2015,Consumer,Illinois,United States,Carol Stream,18,1305.81
+2016,Consumer,Illinois,United States,Carol Stream,,
+2017,Consumer,Illinois,United States,Carol Stream,,
+2014,Consumer,Illinois,United States,Champaign,,
+2015,Consumer,Illinois,United States,Champaign,5,151.96
+2016,Consumer,Illinois,United States,Champaign,,
+2017,Consumer,Illinois,United States,Champaign,,
+2014,Consumer,Illinois,United States,Chicago,189,7949.391999999998
+2015,Consumer,Illinois,United States,Chicago,98,3300.505000000001
+2016,Consumer,Illinois,United States,Chicago,161,8643.927000000001
+2017,Consumer,Illinois,United States,Chicago,179,5239.979
+2014,Consumer,Illinois,United States,Des Plaines,20,1109.3719999999998
+2015,Consumer,Illinois,United States,Des Plaines,,
+2016,Consumer,Illinois,United States,Des Plaines,,
+2017,Consumer,Illinois,United States,Des Plaines,4,383.84000000000003
+2014,Consumer,Illinois,United States,Evanston,3,258.279
+2015,Consumer,Illinois,United States,Evanston,7,1483.528
+2016,Consumer,Illinois,United States,Evanston,1,11.992
+2017,Consumer,Illinois,United States,Evanston,,
+2014,Consumer,Illinois,United States,Frankfort,,
+2015,Consumer,Illinois,United States,Frankfort,8,20.767999999999997
+2016,Consumer,Illinois,United States,Frankfort,2,76.864
+2017,Consumer,Illinois,United States,Frankfort,,
+2014,Consumer,Illinois,United States,Glenview,,
+2015,Consumer,Illinois,United States,Glenview,3,158.376
+2016,Consumer,Illinois,United States,Glenview,,
+2017,Consumer,Illinois,United States,Glenview,,
+2014,Consumer,Illinois,United States,Highland Park,,
+2015,Consumer,Illinois,United States,Highland Park,16,1454.838
+2016,Consumer,Illinois,United States,Highland Park,,
+2017,Consumer,Illinois,United States,Highland Park,,
+2014,Consumer,Illinois,United States,Naperville,,
+2015,Consumer,Illinois,United States,Naperville,16,613.115
+2016,Consumer,Illinois,United States,Naperville,,
+2017,Consumer,Illinois,United States,Naperville,5,239.96000000000004
+2014,Consumer,Illinois,United States,Oswego,13,321.97799999999995
+2015,Consumer,Illinois,United States,Oswego,,
+2016,Consumer,Illinois,United States,Oswego,,
+2017,Consumer,Illinois,United States,Oswego,,
+2014,Consumer,Illinois,United States,Park Ridge,,
+2015,Consumer,Illinois,United States,Park Ridge,,
+2016,Consumer,Illinois,United States,Park Ridge,,
+2017,Consumer,Illinois,United States,Park Ridge,9,143.85600000000002
+2014,Consumer,Illinois,United States,Peoria,,
+2015,Consumer,Illinois,United States,Peoria,,
+2016,Consumer,Illinois,United States,Peoria,5,3.979999999999999
+2017,Consumer,Illinois,United States,Peoria,,
+2014,Consumer,Illinois,United States,Quincy,,
+2015,Consumer,Illinois,United States,Quincy,14,131.584
+2016,Consumer,Illinois,United States,Quincy,2,1.9639999999999995
+2017,Consumer,Illinois,United States,Quincy,5,19.56
+2014,Consumer,Illinois,United States,Rockford,,
+2015,Consumer,Illinois,United States,Rockford,7,128.744
+2016,Consumer,Illinois,United States,Rockford,10,2067.7960000000003
+2017,Consumer,Illinois,United States,Rockford,8,33.56799999999999
+2014,Consumer,Illinois,United States,Romeoville,2,8.951999999999998
+2015,Consumer,Illinois,United States,Romeoville,,
+2016,Consumer,Illinois,United States,Romeoville,,
+2017,Consumer,Illinois,United States,Romeoville,,
+2014,Consumer,Illinois,United States,Saint Charles,,
+2015,Consumer,Illinois,United States,Saint Charles,,
+2016,Consumer,Illinois,United States,Saint Charles,2,30.344
+2017,Consumer,Illinois,United States,Saint Charles,,
+2014,Consumer,Illinois,United States,Skokie,10,62.96800000000001
+2015,Consumer,Illinois,United States,Skokie,,
+2016,Consumer,Illinois,United States,Skokie,,
+2017,Consumer,Illinois,United States,Skokie,22,469.352
+2014,Consumer,Illinois,United States,Wheeling,,
+2015,Consumer,Illinois,United States,Wheeling,,
+2016,Consumer,Illinois,United States,Wheeling,5,615.606
+2017,Consumer,Illinois,United States,Wheeling,4,121.536
+2014,Consumer,Illinois,United States,Woodstock,5,8.849999999999998
+2015,Consumer,Illinois,United States,Woodstock,,
+2016,Consumer,Illinois,United States,Woodstock,,
+2017,Consumer,Illinois,United States,Woodstock,,
+2014,Consumer,Indiana,United States,Bloomington,5,32.400000000000006
+2015,Consumer,Indiana,United States,Bloomington,,
+2016,Consumer,Indiana,United States,Bloomington,6,262.8
+2017,Consumer,Indiana,United States,Bloomington,,
+2014,Consumer,Indiana,United States,Columbus,,
+2015,Consumer,Indiana,United States,Columbus,23,1926.98
+2016,Consumer,Indiana,United States,Columbus,,
+2017,Consumer,Indiana,United States,Columbus,36,2371.3
+2014,Consumer,Indiana,United States,Elkhart,,
+2015,Consumer,Indiana,United States,Elkhart,,
+2016,Consumer,Indiana,United States,Elkhart,,
+2017,Consumer,Indiana,United States,Elkhart,7,171.43
+2014,Consumer,Indiana,United States,Greenwood,,
+2015,Consumer,Indiana,United States,Greenwood,,
+2016,Consumer,Indiana,United States,Greenwood,5,1424.9
+2017,Consumer,Indiana,United States,Greenwood,,
+2014,Consumer,Indiana,United States,Indianapolis,4,1107.66
+2015,Consumer,Indiana,United States,Indianapolis,13,227.57
+2016,Consumer,Indiana,United States,Indianapolis,,
+2017,Consumer,Indiana,United States,Indianapolis,27,382.71
+2014,Consumer,Indiana,United States,La Porte,,
+2015,Consumer,Indiana,United States,La Porte,,
+2016,Consumer,Indiana,United States,La Porte,7,111.75
+2017,Consumer,Indiana,United States,La Porte,5,526.45
+2014,Consumer,Indiana,United States,Lafayette,3,5.9399999999999995
+2015,Consumer,Indiana,United States,Lafayette,,
+2016,Consumer,Indiana,United States,Lafayette,,
+2017,Consumer,Indiana,United States,Lafayette,12,739.92
+2014,Consumer,Indiana,United States,Mishawaka,8,647.84
+2015,Consumer,Indiana,United States,Mishawaka,,
+2016,Consumer,Indiana,United States,Mishawaka,3,128.39999999999998
+2017,Consumer,Indiana,United States,Mishawaka,,
+2014,Consumer,Indiana,United States,New Castle,,
+2015,Consumer,Indiana,United States,New Castle,9,84.61
+2016,Consumer,Indiana,United States,New Castle,,
+2017,Consumer,Indiana,United States,New Castle,,
+2014,Consumer,Indiana,United States,Noblesville,,
+2015,Consumer,Indiana,United States,Noblesville,9,412.23999999999995
+2016,Consumer,Indiana,United States,Noblesville,,
+2017,Consumer,Indiana,United States,Noblesville,,
+2014,Consumer,Indiana,United States,Portage,2,16.28
+2015,Consumer,Indiana,United States,Portage,,
+2016,Consumer,Indiana,United States,Portage,,
+2017,Consumer,Indiana,United States,Portage,,
+2014,Consumer,Indiana,United States,Richmond,11,207.24
+2015,Consumer,Indiana,United States,Richmond,4,11.36
+2016,Consumer,Indiana,United States,Richmond,23,1401.2400000000002
+2017,Consumer,Indiana,United States,Richmond,,
+2014,Consumer,Indiana,United States,South Bend,,
+2015,Consumer,Indiana,United States,South Bend,25,1238.3300000000002
+2016,Consumer,Indiana,United States,South Bend,,
+2017,Consumer,Indiana,United States,South Bend,,
+2014,Consumer,Iowa,United States,Cedar Rapids,,
+2015,Consumer,Iowa,United States,Cedar Rapids,,
+2016,Consumer,Iowa,United States,Cedar Rapids,3,278.4
+2017,Consumer,Iowa,United States,Cedar Rapids,,
+2014,Consumer,Iowa,United States,Dubuque,,
+2015,Consumer,Iowa,United States,Dubuque,4,263.96
+2016,Consumer,Iowa,United States,Dubuque,,
+2017,Consumer,Iowa,United States,Dubuque,,
+2014,Consumer,Iowa,United States,Marion,,
+2015,Consumer,Iowa,United States,Marion,,
+2016,Consumer,Iowa,United States,Marion,,
+2017,Consumer,Iowa,United States,Marion,11,136.2
+2014,Consumer,Iowa,United States,Urbandale,,
+2015,Consumer,Iowa,United States,Urbandale,,
+2016,Consumer,Iowa,United States,Urbandale,8,103.19999999999999
+2017,Consumer,Iowa,United States,Urbandale,4,45.92
+2014,Consumer,Iowa,United States,Waterloo,,
+2015,Consumer,Iowa,United States,Waterloo,,
+2016,Consumer,Iowa,United States,Waterloo,,
+2017,Consumer,Iowa,United States,Waterloo,4,30.32
+2014,Consumer,Louisiana,United States,Kenner,,
+2015,Consumer,Louisiana,United States,Kenner,,
+2016,Consumer,Louisiana,United States,Kenner,4,89.32000000000001
+2017,Consumer,Louisiana,United States,Kenner,,
+2014,Consumer,Louisiana,United States,Lafayette,,
+2015,Consumer,Louisiana,United States,Lafayette,7,603.48
+2016,Consumer,Louisiana,United States,Lafayette,5,73.2
+2017,Consumer,Louisiana,United States,Lafayette,37,4364.14
+2014,Consumer,Louisiana,United States,Lake Charles,5,69.9
+2015,Consumer,Louisiana,United States,Lake Charles,,
+2016,Consumer,Louisiana,United States,Lake Charles,,
+2017,Consumer,Louisiana,United States,Lake Charles,,
+2014,Consumer,Louisiana,United States,Monroe,,
+2015,Consumer,Louisiana,United States,Monroe,28,314.31999999999994
+2016,Consumer,Louisiana,United States,Monroe,,
+2017,Consumer,Louisiana,United States,Monroe,2,659.9
+2014,Consumer,Michigan,United States,Detroit,19,443.6
+2015,Consumer,Michigan,United States,Detroit,67,3237.89
+2016,Consumer,Michigan,United States,Detroit,103,14715.08
+2017,Consumer,Michigan,United States,Detroit,72,4794.889999999999
+2014,Consumer,Michigan,United States,Grand Rapids,,
+2015,Consumer,Michigan,United States,Grand Rapids,,
+2016,Consumer,Michigan,United States,Grand Rapids,14,217.24
+2017,Consumer,Michigan,United States,Grand Rapids,5,54.900000000000006
+2014,Consumer,Michigan,United States,Holland,,
+2015,Consumer,Michigan,United States,Holland,2,7.5
+2016,Consumer,Michigan,United States,Holland,,
+2017,Consumer,Michigan,United States,Holland,,
+2014,Consumer,Michigan,United States,Jackson,4,46.8
+2015,Consumer,Michigan,United States,Jackson,,
+2016,Consumer,Michigan,United States,Jackson,4,132.809
+2017,Consumer,Michigan,United States,Jackson,17,5821.75
+2014,Consumer,Michigan,United States,Lansing,,
+2015,Consumer,Michigan,United States,Lansing,9,1273.6060000000002
+2016,Consumer,Michigan,United States,Lansing,5,67
+2017,Consumer,Michigan,United States,Lansing,,
+2014,Consumer,Michigan,United States,Midland,33,1276.53
+2015,Consumer,Michigan,United States,Midland,,
+2016,Consumer,Michigan,United States,Midland,,
+2017,Consumer,Michigan,United States,Midland,,
+2014,Consumer,Michigan,United States,Mount Pleasant,,
+2015,Consumer,Michigan,United States,Mount Pleasant,2,17.14
+2016,Consumer,Michigan,United States,Mount Pleasant,,
+2017,Consumer,Michigan,United States,Mount Pleasant,,
+2014,Consumer,Michigan,United States,Rochester Hills,,
+2015,Consumer,Michigan,United States,Rochester Hills,,
+2016,Consumer,Michigan,United States,Rochester Hills,,
+2017,Consumer,Michigan,United States,Rochester Hills,4,132.52
+2014,Consumer,Michigan,United States,Roseville,,
+2015,Consumer,Michigan,United States,Roseville,,
+2016,Consumer,Michigan,United States,Roseville,,
+2017,Consumer,Michigan,United States,Roseville,4,21.84
+2014,Consumer,Michigan,United States,Royal Oak,2,22.38
+2015,Consumer,Michigan,United States,Royal Oak,2,12.96
+2016,Consumer,Michigan,United States,Royal Oak,,
+2017,Consumer,Michigan,United States,Royal Oak,,
+2014,Consumer,Michigan,United States,Saginaw,,
+2015,Consumer,Michigan,United States,Saginaw,,
+2016,Consumer,Michigan,United States,Saginaw,,
+2017,Consumer,Michigan,United States,Saginaw,20,376.1
+2014,Consumer,Michigan,United States,Sterling Heights,,
+2015,Consumer,Michigan,United States,Sterling Heights,,
+2016,Consumer,Michigan,United States,Sterling Heights,2,11.68
+2017,Consumer,Michigan,United States,Sterling Heights,,
+2014,Consumer,Michigan,United States,Taylor,,
+2015,Consumer,Michigan,United States,Taylor,,
+2016,Consumer,Michigan,United States,Taylor,2,301.96
+2017,Consumer,Michigan,United States,Taylor,,
+2014,Consumer,Michigan,United States,Trenton,,
+2015,Consumer,Michigan,United States,Trenton,,
+2016,Consumer,Michigan,United States,Trenton,15,338.53999999999996
+2017,Consumer,Michigan,United States,Trenton,22,275.65000000000003
+2014,Consumer,Michigan,United States,Westland,30,920.576
+2015,Consumer,Michigan,United States,Westland,,
+2016,Consumer,Michigan,United States,Westland,16,1137.4
+2017,Consumer,Michigan,United States,Westland,,
+2014,Consumer,Minnesota,United States,Apple Valley,2,129.3
+2015,Consumer,Minnesota,United States,Apple Valley,,
+2016,Consumer,Minnesota,United States,Apple Valley,,
+2017,Consumer,Minnesota,United States,Apple Valley,3,8.64
+2014,Consumer,Minnesota,United States,Coon Rapids,7,503.13
+2015,Consumer,Minnesota,United States,Coon Rapids,,
+2016,Consumer,Minnesota,United States,Coon Rapids,,
+2017,Consumer,Minnesota,United States,Coon Rapids,,
+2014,Consumer,Minnesota,United States,Cottage Grove,6,144.35999999999999
+2015,Consumer,Minnesota,United States,Cottage Grove,,
+2016,Consumer,Minnesota,United States,Cottage Grove,,
+2017,Consumer,Minnesota,United States,Cottage Grove,,
+2014,Consumer,Minnesota,United States,Eagan,,
+2015,Consumer,Minnesota,United States,Eagan,,
+2016,Consumer,Minnesota,United States,Eagan,,
+2017,Consumer,Minnesota,United States,Eagan,10,75.9
+2014,Consumer,Minnesota,United States,Lakeville,31,249.92000000000002
+2015,Consumer,Minnesota,United States,Lakeville,,
+2016,Consumer,Minnesota,United States,Lakeville,,
+2017,Consumer,Minnesota,United States,Lakeville,23,109.52000000000001
+2014,Consumer,Minnesota,United States,Moorhead,,
+2015,Consumer,Minnesota,United States,Moorhead,,
+2016,Consumer,Minnesota,United States,Moorhead,,
+2017,Consumer,Minnesota,United States,Moorhead,4,63.96
+2014,Consumer,Minnesota,United States,Rochester,,
+2015,Consumer,Minnesota,United States,Rochester,,
+2016,Consumer,Minnesota,United States,Rochester,4,23.92
+2017,Consumer,Minnesota,United States,Rochester,41,1890.4800000000005
+2014,Consumer,Mississippi,United States,Gulfport,,
+2015,Consumer,Mississippi,United States,Gulfport,,
+2016,Consumer,Mississippi,United States,Gulfport,,
+2017,Consumer,Mississippi,United States,Gulfport,9,48.69
+2014,Consumer,Mississippi,United States,Jackson,17,1335.52
+2015,Consumer,Mississippi,United States,Jackson,,
+2016,Consumer,Mississippi,United States,Jackson,36,3153.21
+2017,Consumer,Mississippi,United States,Jackson,13,1051.88
+2014,Consumer,Mississippi,United States,Southaven,10,616.14
+2015,Consumer,Mississippi,United States,Southaven,,
+2016,Consumer,Mississippi,United States,Southaven,,
+2017,Consumer,Mississippi,United States,Southaven,,
+2014,Consumer,Nebraska,United States,Fremont,,
+2015,Consumer,Nebraska,United States,Fremont,,
+2016,Consumer,Nebraska,United States,Fremont,5,33.9
+2017,Consumer,Nebraska,United States,Fremont,1,104.85
+2014,Consumer,Nebraska,United States,Grand Island,,
+2015,Consumer,Nebraska,United States,Grand Island,,
+2016,Consumer,Nebraska,United States,Grand Island,,
+2017,Consumer,Nebraska,United States,Grand Island,2,15.96
+2014,Consumer,Nebraska,United States,Norfolk,,
+2015,Consumer,Nebraska,United States,Norfolk,3,17.43
+2016,Consumer,Nebraska,United States,Norfolk,,
+2017,Consumer,Nebraska,United States,Norfolk,,
+2014,Consumer,Nebraska,United States,Omaha,2,35.98
+2015,Consumer,Nebraska,United States,Omaha,5,178.37
+2016,Consumer,Nebraska,United States,Omaha,46,2374.73
+2017,Consumer,Nebraska,United States,Omaha,7,2500.03
+2014,Consumer,Nevada,United States,North Las Vegas,17,1891.3160000000003
+2015,Consumer,Nevada,United States,North Las Vegas,9,1347.2700000000002
+2016,Consumer,Nevada,United States,North Las Vegas,,
+2017,Consumer,Nevada,United States,North Las Vegas,4,1669.6
+2014,Consumer,Nevada,United States,Sparks,,
+2015,Consumer,Nevada,United States,Sparks,4,79.36
+2016,Consumer,Nevada,United States,Sparks,,
+2017,Consumer,Nevada,United States,Sparks,,
+2014,Consumer,New Hampshire,United States,Concord,,
+2015,Consumer,New Hampshire,United States,Concord,5,103.06
+2016,Consumer,New Hampshire,United States,Concord,,
+2017,Consumer,New Hampshire,United States,Concord,1,102.3
+2014,Consumer,New Jersey,United States,East Orange,,
+2015,Consumer,New Jersey,United States,East Orange,,
+2016,Consumer,New Jersey,United States,East Orange,17,345.47
+2017,Consumer,New Jersey,United States,East Orange,3,31.799999999999997
+2014,Consumer,New Jersey,United States,Lakewood,9,1326.69
+2015,Consumer,New Jersey,United States,Lakewood,,
+2016,Consumer,New Jersey,United States,Lakewood,4,14.96
+2017,Consumer,New Jersey,United States,Lakewood,15,2258.28
+2014,Consumer,New Jersey,United States,Morristown,,
+2015,Consumer,New Jersey,United States,Morristown,11,2643.06
+2016,Consumer,New Jersey,United States,Morristown,6,7.5600000000000005
+2017,Consumer,New Jersey,United States,Morristown,7,514.05
+2014,Consumer,New Jersey,United States,Orange,,
+2015,Consumer,New Jersey,United States,Orange,,
+2016,Consumer,New Jersey,United States,Orange,,
+2017,Consumer,New Jersey,United States,Orange,4,75.85999999999999
+2014,Consumer,New Jersey,United States,Passaic,,
+2015,Consumer,New Jersey,United States,Passaic,,
+2016,Consumer,New Jersey,United States,Passaic,24,1562.0860000000002
+2017,Consumer,New Jersey,United States,Passaic,,
+2014,Consumer,New Jersey,United States,Paterson,,
+2015,Consumer,New Jersey,United States,Paterson,,
+2016,Consumer,New Jersey,United States,Paterson,12,475.85999999999996
+2017,Consumer,New Jersey,United States,Paterson,18,1016.06
+2014,Consumer,New Jersey,United States,Perth Amboy,,
+2015,Consumer,New Jersey,United States,Perth Amboy,7,286.78999999999996
+2016,Consumer,New Jersey,United States,Perth Amboy,2,436.96000000000004
+2017,Consumer,New Jersey,United States,Perth Amboy,,
+2014,Consumer,New Jersey,United States,Plainfield,3,79.56
+2015,Consumer,New Jersey,United States,Plainfield,,
+2016,Consumer,New Jersey,United States,Plainfield,,
+2017,Consumer,New Jersey,United States,Plainfield,16,896.77
+2014,Consumer,New Jersey,United States,Vineland,,
+2015,Consumer,New Jersey,United States,Vineland,,
+2016,Consumer,New Jersey,United States,Vineland,2,244.00599999999997
+2017,Consumer,New Jersey,United States,Vineland,14,153.41
+2014,Consumer,New York,United States,Auburn,,
+2015,Consumer,New York,United States,Auburn,13,193.26000000000002
+2016,Consumer,New York,United States,Auburn,34,605.9180000000001
+2017,Consumer,New York,United States,Auburn,,
+2014,Consumer,New York,United States,Buffalo,14,6224.4980000000005
+2015,Consumer,New York,United States,Buffalo,4,82.74
+2016,Consumer,New York,United States,Buffalo,7,835.1700000000001
+2017,Consumer,New York,United States,Buffalo,,
+2014,Consumer,New York,United States,Hempstead,12,115.95200000000001
+2015,Consumer,New York,United States,Hempstead,14,794.5740000000001
+2016,Consumer,New York,United States,Hempstead,,
+2017,Consumer,New York,United States,Hempstead,,
+2014,Consumer,New York,United States,Jamestown,7,4548.81
+2015,Consumer,New York,United States,Jamestown,,
+2016,Consumer,New York,United States,Jamestown,,
+2017,Consumer,New York,United States,Jamestown,,
+2014,Consumer,New York,United States,Long Beach,28,3743.42
+2015,Consumer,New York,United States,Long Beach,14,87.1
+2016,Consumer,New York,United States,Long Beach,24,1577.142
+2017,Consumer,New York,United States,Long Beach,24,300.86199999999997
+2014,Consumer,New York,United States,Mount Vernon,4,62.28
+2015,Consumer,New York,United States,Mount Vernon,,
+2016,Consumer,New York,United States,Mount Vernon,,
+2017,Consumer,New York,United States,Mount Vernon,8,74.89
+2014,Consumer,New York,United States,New Rochelle,2,13.904
+2015,Consumer,New York,United States,New Rochelle,,
+2016,Consumer,New York,United States,New Rochelle,5,692.5020000000001
+2017,Consumer,New York,United States,New Rochelle,8,201.262
+2014,Consumer,New York,United States,New York City,327,29227.86199999998
+2015,Consumer,New York,United States,New York City,428,42312.99299999999
+2016,Consumer,New York,United States,New York City,527,30099.197999999986
+2017,Consumer,New York,United States,New York City,614,35229.77
+2014,Consumer,New York,United States,Niagara Falls,3,164.85000000000002
+2015,Consumer,New York,United States,Niagara Falls,,
+2016,Consumer,New York,United States,Niagara Falls,,
+2017,Consumer,New York,United States,Niagara Falls,,
+2014,Consumer,New York,United States,Oceanside,,
+2015,Consumer,New York,United States,Oceanside,37,1914.1460000000002
+2016,Consumer,New York,United States,Oceanside,23,1200.628
+2017,Consumer,New York,United States,Oceanside,7,305.1
+2014,Consumer,New York,United States,Rochester,12,491.03999999999996
+2015,Consumer,New York,United States,Rochester,30,2754.9700000000003
+2016,Consumer,New York,United States,Rochester,14,1030.4940000000001
+2017,Consumer,New York,United States,Rochester,5,55.25
+2014,Consumer,New York,United States,Rome,,
+2015,Consumer,New York,United States,Rome,,
+2016,Consumer,New York,United States,Rome,10,35.01
+2017,Consumer,New York,United States,Rome,,
+2014,Consumer,New York,United States,Troy,,
+2015,Consumer,New York,United States,Troy,2,109.764
+2016,Consumer,New York,United States,Troy,28,695.2900000000001
+2017,Consumer,New York,United States,Troy,9,60.12
+2014,Consumer,New York,United States,Utica,24,414.62999999999994
+2015,Consumer,New York,United States,Utica,1,79.99
+2016,Consumer,New York,United States,Utica,,
+2017,Consumer,New York,United States,Utica,6,119.94
+2014,Consumer,New York,United States,Watertown,2,90.60999999999999
+2015,Consumer,New York,United States,Watertown,,
+2016,Consumer,New York,United States,Watertown,7,698.5
+2017,Consumer,New York,United States,Watertown,,
+2014,Consumer,New York,United States,Yonkers,22,756.634
+2015,Consumer,New York,United States,Yonkers,,
+2016,Consumer,New York,United States,Yonkers,18,6125.822
+2017,Consumer,New York,United States,Yonkers,9,558.81
+2014,Consumer,North Carolina,United States,Asheville,,
+2015,Consumer,North Carolina,United States,Asheville,,
+2016,Consumer,North Carolina,United States,Asheville,5,1363.96
+2017,Consumer,North Carolina,United States,Asheville,11,68.26400000000001
+2014,Consumer,North Carolina,United States,Charlotte,12,2715.801
+2015,Consumer,North Carolina,United States,Charlotte,2,5.04
+2016,Consumer,North Carolina,United States,Charlotte,44,2974.117
+2017,Consumer,North Carolina,United States,Charlotte,64,2341.781000000001
+2014,Consumer,North Carolina,United States,Concord,10,23.119999999999997
+2015,Consumer,North Carolina,United States,Concord,13,4297.644
+2016,Consumer,North Carolina,United States,Concord,18,775.5280000000001
+2017,Consumer,North Carolina,United States,Concord,3,15.552000000000003
+2014,Consumer,North Carolina,United States,Durham,,
+2015,Consumer,North Carolina,United States,Durham,12,440.144
+2016,Consumer,North Carolina,United States,Durham,,
+2017,Consumer,North Carolina,United States,Durham,,
+2014,Consumer,North Carolina,United States,Fayetteville,,
+2015,Consumer,North Carolina,United States,Fayetteville,3,10.272000000000002
+2016,Consumer,North Carolina,United States,Fayetteville,33,1400.704
+2017,Consumer,North Carolina,United States,Fayetteville,51,1432.4460000000001
+2014,Consumer,North Carolina,United States,Goldsboro,,
+2015,Consumer,North Carolina,United States,Goldsboro,,
+2016,Consumer,North Carolina,United States,Goldsboro,3,34.944
+2017,Consumer,North Carolina,United States,Goldsboro,,
+2014,Consumer,North Carolina,United States,Greensboro,9,59.109000000000016
+2015,Consumer,North Carolina,United States,Greensboro,,
+2016,Consumer,North Carolina,United States,Greensboro,9,187.056
+2017,Consumer,North Carolina,United States,Greensboro,1,32.776
+2014,Consumer,North Carolina,United States,Greenville,2,1299.99
+2015,Consumer,North Carolina,United States,Greenville,,
+2016,Consumer,North Carolina,United States,Greenville,8,334.25600000000003
+2017,Consumer,North Carolina,United States,Greenville,7,428.704
+2014,Consumer,North Carolina,United States,Hickory,,
+2015,Consumer,North Carolina,United States,Hickory,,
+2016,Consumer,North Carolina,United States,Hickory,1,36.192
+2017,Consumer,North Carolina,United States,Hickory,4,4.572000000000001
+2014,Consumer,North Carolina,United States,Jacksonville,22,1491.641
+2015,Consumer,North Carolina,United States,Jacksonville,46,1783.545
+2016,Consumer,North Carolina,United States,Jacksonville,33,532.8480000000001
+2017,Consumer,North Carolina,United States,Jacksonville,23,220.216
+2014,Consumer,North Carolina,United States,Monroe,,
+2015,Consumer,North Carolina,United States,Monroe,1,18.176
+2016,Consumer,North Carolina,United States,Monroe,7,99.87200000000001
+2017,Consumer,North Carolina,United States,Monroe,5,776.0800000000002
+2014,Consumer,North Carolina,United States,Raleigh,3,52.608000000000004
+2015,Consumer,North Carolina,United States,Raleigh,8,228.24
+2016,Consumer,North Carolina,United States,Raleigh,21,1051.156
+2017,Consumer,North Carolina,United States,Raleigh,4,194.848
+2014,Consumer,North Carolina,United States,Thomasville,,
+2015,Consumer,North Carolina,United States,Thomasville,,
+2016,Consumer,North Carolina,United States,Thomasville,12,151.292
+2017,Consumer,North Carolina,United States,Thomasville,,
+2014,Consumer,North Carolina,United States,Wilmington,14,632.52
+2015,Consumer,North Carolina,United States,Wilmington,5,13.120000000000001
+2016,Consumer,North Carolina,United States,Wilmington,2,3.2820000000000005
+2017,Consumer,North Carolina,United States,Wilmington,10,55.168000000000006
+2014,Consumer,North Carolina,United States,Wilson,,
+2015,Consumer,North Carolina,United States,Wilson,8,169.54399999999998
+2016,Consumer,North Carolina,United States,Wilson,,
+2017,Consumer,North Carolina,United States,Wilson,,
+2014,Consumer,Ohio,United States,Bowling Green,2,264.32
+2015,Consumer,Ohio,United States,Bowling Green,9,469.398
+2016,Consumer,Ohio,United States,Bowling Green,3,5.553000000000001
+2017,Consumer,Ohio,United States,Bowling Green,,
+2014,Consumer,Ohio,United States,Cincinnati,8,35.384
+2015,Consumer,Ohio,United States,Cincinnati,3,53.040000000000006
+2016,Consumer,Ohio,United States,Cincinnati,9,112.13500000000002
+2017,Consumer,Ohio,United States,Cincinnati,18,427.25300000000004
+2014,Consumer,Ohio,United States,Columbus,94,2407.5519999999997
+2015,Consumer,Ohio,United States,Columbus,40,707.338
+2016,Consumer,Ohio,United States,Columbus,48,2466.401
+2017,Consumer,Ohio,United States,Columbus,83,3609.6049999999996
+2014,Consumer,Ohio,United States,Cuyahoga Falls,,
+2015,Consumer,Ohio,United States,Cuyahoga Falls,,
+2016,Consumer,Ohio,United States,Cuyahoga Falls,3,2.2140000000000004
+2017,Consumer,Ohio,United States,Cuyahoga Falls,4,18.528000000000002
+2014,Consumer,Ohio,United States,Fairfield,24,616.702
+2015,Consumer,Ohio,United States,Fairfield,,
+2016,Consumer,Ohio,United States,Fairfield,5,548.96
+2017,Consumer,Ohio,United States,Fairfield,32,579.011
+2014,Consumer,Ohio,United States,Grove City,,
+2015,Consumer,Ohio,United States,Grove City,,
+2016,Consumer,Ohio,United States,Grove City,,
+2017,Consumer,Ohio,United States,Grove City,12,123.58799999999998
+2014,Consumer,Ohio,United States,Hamilton,8,204.304
+2015,Consumer,Ohio,United States,Hamilton,,
+2016,Consumer,Ohio,United States,Hamilton,5,123.92000000000002
+2017,Consumer,Ohio,United States,Hamilton,,
+2014,Consumer,Ohio,United States,Kent,5,48.36
+2015,Consumer,Ohio,United States,Kent,,
+2016,Consumer,Ohio,United States,Kent,,
+2017,Consumer,Ohio,United States,Kent,9,193.974
+2014,Consumer,Ohio,United States,Lakewood,,
+2015,Consumer,Ohio,United States,Lakewood,7,34.418000000000006
+2016,Consumer,Ohio,United States,Lakewood,,
+2017,Consumer,Ohio,United States,Lakewood,3,10.782000000000002
+2014,Consumer,Ohio,United States,Lancaster,,
+2015,Consumer,Ohio,United States,Lancaster,,
+2016,Consumer,Ohio,United States,Lancaster,41,5589.027000000001
+2017,Consumer,Ohio,United States,Lancaster,14,700.5280000000001
+2014,Consumer,Ohio,United States,Lorain,,
+2015,Consumer,Ohio,United States,Lorain,,
+2016,Consumer,Ohio,United States,Lorain,,
+2017,Consumer,Ohio,United States,Lorain,4,48.896
+2014,Consumer,Ohio,United States,Marion,3,403.11400000000003
+2015,Consumer,Ohio,United States,Marion,16,799.3779999999999
+2016,Consumer,Ohio,United States,Marion,,
+2017,Consumer,Ohio,United States,Marion,2,63.92000000000001
+2014,Consumer,Ohio,United States,Medina,16,609.4379999999999
+2015,Consumer,Ohio,United States,Medina,1,51.588
+2016,Consumer,Ohio,United States,Medina,,
+2017,Consumer,Ohio,United States,Medina,,
+2014,Consumer,Ohio,United States,Newark,9,40.846000000000004
+2015,Consumer,Ohio,United States,Newark,29,4602.888000000001
+2016,Consumer,Ohio,United States,Newark,35,1208.0170000000003
+2017,Consumer,Ohio,United States,Newark,10,185.31199999999998
+2014,Consumer,Ohio,United States,Parma,4,191.33999999999997
+2015,Consumer,Ohio,United States,Parma,,
+2016,Consumer,Ohio,United States,Parma,26,3588.096
+2017,Consumer,Ohio,United States,Parma,8,36.352000000000004
+2014,Consumer,Ohio,United States,Springfield,4,53.344
+2015,Consumer,Ohio,United States,Springfield,9,646.7760000000001
+2016,Consumer,Ohio,United States,Springfield,18,768.983
+2017,Consumer,Ohio,United States,Springfield,7,299.26500000000004
+2014,Consumer,Ohio,United States,Toledo,12,1709.654
+2015,Consumer,Ohio,United States,Toledo,,
+2016,Consumer,Ohio,United States,Toledo,8,53.696
+2017,Consumer,Ohio,United States,Toledo,30,906.733
+2014,Consumer,Ohio,United States,Troy,,
+2015,Consumer,Ohio,United States,Troy,8,1033.3020000000001
+2016,Consumer,Ohio,United States,Troy,6,31.104000000000006
+2017,Consumer,Ohio,United States,Troy,,
+2014,Consumer,Oklahoma,United States,Broken Arrow,,
+2015,Consumer,Oklahoma,United States,Broken Arrow,,
+2016,Consumer,Oklahoma,United States,Broken Arrow,2,12.86
+2017,Consumer,Oklahoma,United States,Broken Arrow,,
+2014,Consumer,Oklahoma,United States,Edmond,,
+2015,Consumer,Oklahoma,United States,Edmond,,
+2016,Consumer,Oklahoma,United States,Edmond,9,959.5500000000001
+2017,Consumer,Oklahoma,United States,Edmond,,
+2014,Consumer,Oklahoma,United States,Lawton,8,475.42
+2015,Consumer,Oklahoma,United States,Lawton,,
+2016,Consumer,Oklahoma,United States,Lawton,,
+2017,Consumer,Oklahoma,United States,Lawton,5,582.07
+2014,Consumer,Oklahoma,United States,Norman,,
+2015,Consumer,Oklahoma,United States,Norman,,
+2016,Consumer,Oklahoma,United States,Norman,5,1287.45
+2017,Consumer,Oklahoma,United States,Norman,,
+2014,Consumer,Oklahoma,United States,Oklahoma City,4,479.96
+2015,Consumer,Oklahoma,United States,Oklahoma City,12,1971.4599999999998
+2016,Consumer,Oklahoma,United States,Oklahoma City,6,574.4999999999999
+2017,Consumer,Oklahoma,United States,Oklahoma City,21,1299.7600000000002
+2014,Consumer,Oklahoma,United States,Tulsa,17,1040.1899999999998
+2015,Consumer,Oklahoma,United States,Tulsa,3,14.940000000000001
+2016,Consumer,Oklahoma,United States,Tulsa,20,277.67
+2017,Consumer,Oklahoma,United States,Tulsa,20,2585.9400000000005
+2014,Consumer,Oregon,United States,Gresham,12,1508.768
+2015,Consumer,Oregon,United States,Gresham,,
+2016,Consumer,Oregon,United States,Gresham,12,221.488
+2017,Consumer,Oregon,United States,Gresham,,
+2014,Consumer,Oregon,United States,Hillsboro,,
+2015,Consumer,Oregon,United States,Hillsboro,4,64.072
+2016,Consumer,Oregon,United States,Hillsboro,,
+2017,Consumer,Oregon,United States,Hillsboro,,
+2014,Consumer,Oregon,United States,Medford,7,55.672000000000004
+2015,Consumer,Oregon,United States,Medford,,
+2016,Consumer,Oregon,United States,Medford,1,24.784000000000002
+2017,Consumer,Oregon,United States,Medford,,
+2014,Consumer,Oregon,United States,Portland,17,746.584
+2015,Consumer,Oregon,United States,Portland,30,1670.0460000000003
+2016,Consumer,Oregon,United States,Portland,10,184.14900000000003
+2017,Consumer,Oregon,United States,Portland,14,663.408
+2014,Consumer,Oregon,United States,Redmond,,
+2015,Consumer,Oregon,United States,Redmond,15,711.7840000000001
+2016,Consumer,Oregon,United States,Redmond,15,65.944
+2017,Consumer,Oregon,United States,Redmond,,
+2014,Consumer,Oregon,United States,Salem,39,265.78400000000005
+2015,Consumer,Oregon,United States,Salem,6,42.432
+2016,Consumer,Oregon,United States,Salem,11,132.709
+2017,Consumer,Oregon,United States,Salem,,
+2014,Consumer,Oregon,United States,Springfield,42,698.223
+2015,Consumer,Oregon,United States,Springfield,5,312.70799999999997
+2016,Consumer,Oregon,United States,Springfield,3,27.792
+2017,Consumer,Oregon,United States,Springfield,26,374.61800000000005
+2014,Consumer,Oregon,United States,Tigard,12,1122.968
+2015,Consumer,Oregon,United States,Tigard,,
+2016,Consumer,Oregon,United States,Tigard,,
+2017,Consumer,Oregon,United States,Tigard,,
+2014,Consumer,Pennsylvania,United States,Allentown,,
+2015,Consumer,Pennsylvania,United States,Allentown,,
+2016,Consumer,Pennsylvania,United States,Allentown,4,15.808000000000002
+2017,Consumer,Pennsylvania,United States,Allentown,,
+2014,Consumer,Pennsylvania,United States,Bethlehem,,
+2015,Consumer,Pennsylvania,United States,Bethlehem,,
+2016,Consumer,Pennsylvania,United States,Bethlehem,14,1556.6940000000002
+2017,Consumer,Pennsylvania,United States,Bethlehem,,
+2014,Consumer,Pennsylvania,United States,Lancaster,3,286.34400000000005
+2015,Consumer,Pennsylvania,United States,Lancaster,1,20.104
+2016,Consumer,Pennsylvania,United States,Lancaster,1,170.78599999999997
+2017,Consumer,Pennsylvania,United States,Lancaster,7,226.739
+2014,Consumer,Pennsylvania,United States,Philadelphia,208,11448.006000000001
+2015,Consumer,Pennsylvania,United States,Philadelphia,237,10955.407
+2016,Consumer,Pennsylvania,United States,Philadelphia,164,16385.775999999998
+2017,Consumer,Pennsylvania,United States,Philadelphia,349,24414.083000000002
+2014,Consumer,Pennsylvania,United States,Reading,,
+2015,Consumer,Pennsylvania,United States,Reading,,
+2016,Consumer,Pennsylvania,United States,Reading,5,303.92
+2017,Consumer,Pennsylvania,United States,Reading,3,8.856
+2014,Consumer,Rhode Island,United States,Providence,,
+2015,Consumer,Rhode Island,United States,Providence,,
+2016,Consumer,Rhode Island,United States,Providence,7,84.42
+2017,Consumer,Rhode Island,United States,Providence,16,126.52000000000001
+2014,Consumer,Rhode Island,United States,Woonsocket,2,52.96
+2015,Consumer,Rhode Island,United States,Woonsocket,,
+2016,Consumer,Rhode Island,United States,Woonsocket,,
+2017,Consumer,Rhode Island,United States,Woonsocket,,
+2014,Consumer,South Carolina,United States,Florence,,
+2015,Consumer,South Carolina,United States,Florence,8,59.480000000000004
+2016,Consumer,South Carolina,United States,Florence,6,191.88
+2017,Consumer,South Carolina,United States,Florence,,
+2014,Consumer,South Carolina,United States,Mount Pleasant,6,545.9399999999999
+2015,Consumer,South Carolina,United States,Mount Pleasant,,
+2016,Consumer,South Carolina,United States,Mount Pleasant,,
+2017,Consumer,South Carolina,United States,Mount Pleasant,,
+2014,Consumer,South Carolina,United States,North Charleston,,
+2015,Consumer,South Carolina,United States,North Charleston,3,269.49
+2016,Consumer,South Carolina,United States,North Charleston,,
+2017,Consumer,South Carolina,United States,North Charleston,,
+2014,Consumer,South Carolina,United States,Rock Hill,3,11.850000000000001
+2015,Consumer,South Carolina,United States,Rock Hill,,
+2016,Consumer,South Carolina,United States,Rock Hill,,
+2017,Consumer,South Carolina,United States,Rock Hill,,
+2014,Consumer,South Dakota,United States,Aberdeen,,
+2015,Consumer,South Dakota,United States,Aberdeen,,
+2016,Consumer,South Dakota,United States,Aberdeen,,
+2017,Consumer,South Dakota,United States,Aberdeen,3,25.5
+2014,Consumer,South Dakota,United States,Sioux Falls,,
+2015,Consumer,South Dakota,United States,Sioux Falls,,
+2016,Consumer,South Dakota,United States,Sioux Falls,,
+2017,Consumer,South Dakota,United States,Sioux Falls,7,20.23
+2014,Consumer,Tennessee,United States,Bartlett,,
+2015,Consumer,Tennessee,United States,Bartlett,8,88.96000000000001
+2016,Consumer,Tennessee,United States,Bartlett,,
+2017,Consumer,Tennessee,United States,Bartlett,,
+2014,Consumer,Tennessee,United States,Chattanooga,,
+2015,Consumer,Tennessee,United States,Chattanooga,,
+2016,Consumer,Tennessee,United States,Chattanooga,5,16.72
+2017,Consumer,Tennessee,United States,Chattanooga,23,740.284
+2014,Consumer,Tennessee,United States,Hendersonville,,
+2015,Consumer,Tennessee,United States,Hendersonville,,
+2016,Consumer,Tennessee,United States,Hendersonville,,
+2017,Consumer,Tennessee,United States,Hendersonville,14,303.32000000000005
+2014,Consumer,Tennessee,United States,Jackson,,
+2015,Consumer,Tennessee,United States,Jackson,,
+2016,Consumer,Tennessee,United States,Jackson,9,111.67200000000001
+2017,Consumer,Tennessee,United States,Jackson,28,1313.068
+2014,Consumer,Tennessee,United States,Knoxville,11,310.528
+2015,Consumer,Tennessee,United States,Knoxville,,
+2016,Consumer,Tennessee,United States,Knoxville,9,135.808
+2017,Consumer,Tennessee,United States,Knoxville,17,266
+2014,Consumer,Tennessee,United States,Lebanon,,
+2015,Consumer,Tennessee,United States,Lebanon,6,84.96000000000001
+2016,Consumer,Tennessee,United States,Lebanon,,
+2017,Consumer,Tennessee,United States,Lebanon,5,163.96
+2014,Consumer,Tennessee,United States,Smyrna,,
+2015,Consumer,Tennessee,United States,Smyrna,,
+2016,Consumer,Tennessee,United States,Smyrna,3,6.671999999999999
+2017,Consumer,Tennessee,United States,Smyrna,,
+2014,Consumer,Texas,United States,Abilene,,
+2015,Consumer,Texas,United States,Abilene,,
+2016,Consumer,Texas,United States,Abilene,,
+2017,Consumer,Texas,United States,Abilene,2,1.3919999999999997
+2014,Consumer,Texas,United States,Allen,,
+2015,Consumer,Texas,United States,Allen,13,290.20599999999996
+2016,Consumer,Texas,United States,Allen,,
+2017,Consumer,Texas,United States,Allen,,
+2014,Consumer,Texas,United States,Beaumont,19,459.348
+2015,Consumer,Texas,United States,Beaumont,,
+2016,Consumer,Texas,United States,Beaumont,,
+2017,Consumer,Texas,United States,Beaumont,,
+2014,Consumer,Texas,United States,Brownsville,,
+2015,Consumer,Texas,United States,Brownsville,,
+2016,Consumer,Texas,United States,Brownsville,,
+2017,Consumer,Texas,United States,Brownsville,3,329.47679999999997
+2014,Consumer,Texas,United States,Cedar Hill,3,7.080000000000001
+2015,Consumer,Texas,United States,Cedar Hill,,
+2016,Consumer,Texas,United States,Cedar Hill,,
+2017,Consumer,Texas,United States,Cedar Hill,,
+2014,Consumer,Texas,United States,Coppell,,
+2015,Consumer,Texas,United States,Coppell,,
+2016,Consumer,Texas,United States,Coppell,,
+2017,Consumer,Texas,United States,Coppell,13,40.096000000000004
+2014,Consumer,Texas,United States,Dallas,35,127.076
+2015,Consumer,Texas,United States,Dallas,39,2071.6216
+2016,Consumer,Texas,United States,Dallas,79,2426.2288
+2017,Consumer,Texas,United States,Dallas,112,3839.6916
+2014,Consumer,Texas,United States,Edinburg,,
+2015,Consumer,Texas,United States,Edinburg,,
+2016,Consumer,Texas,United States,Edinburg,9,85.908
+2017,Consumer,Texas,United States,Edinburg,2,2.368
+2014,Consumer,Texas,United States,Fort Worth,17,2233.12
+2015,Consumer,Texas,United States,Fort Worth,,
+2016,Consumer,Texas,United States,Fort Worth,11,477.14199999999994
+2017,Consumer,Texas,United States,Fort Worth,1,1.988
+2014,Consumer,Texas,United States,Frisco,,
+2015,Consumer,Texas,United States,Frisco,,
+2016,Consumer,Texas,United States,Frisco,,
+2017,Consumer,Texas,United States,Frisco,6,30.336000000000006
+2014,Consumer,Texas,United States,Houston,185,8741.538999999999
+2015,Consumer,Texas,United States,Houston,190,6519.227200000001
+2016,Consumer,Texas,United States,Houston,212,9731.7644
+2017,Consumer,Texas,United States,Houston,214,9053.534
+2014,Consumer,Texas,United States,Huntsville,19,180.014
+2015,Consumer,Texas,United States,Huntsville,9,1061.328
+2016,Consumer,Texas,United States,Huntsville,,
+2017,Consumer,Texas,United States,Huntsville,41,1098.6299999999999
+2014,Consumer,Texas,United States,Irving,3,88.77600000000001
+2015,Consumer,Texas,United States,Irving,,
+2016,Consumer,Texas,United States,Irving,16,500.788
+2017,Consumer,Texas,United States,Irving,,
+2014,Consumer,Texas,United States,Keller,,
+2015,Consumer,Texas,United States,Keller,,
+2016,Consumer,Texas,United States,Keller,,
+2017,Consumer,Texas,United States,Keller,2,6
+2014,Consumer,Texas,United States,La Porte,,
+2015,Consumer,Texas,United States,La Porte,,
+2016,Consumer,Texas,United States,La Porte,6,30.391999999999996
+2017,Consumer,Texas,United States,La Porte,,
+2014,Consumer,Texas,United States,Laredo,5,40.544000000000004
+2015,Consumer,Texas,United States,Laredo,,
+2016,Consumer,Texas,United States,Laredo,19,374.182
+2017,Consumer,Texas,United States,Laredo,,
+2014,Consumer,Texas,United States,League City,,
+2015,Consumer,Texas,United States,League City,,
+2016,Consumer,Texas,United States,League City,,
+2017,Consumer,Texas,United States,League City,10,321.202
+2014,Consumer,Texas,United States,Lubbock,5,25.16
+2015,Consumer,Texas,United States,Lubbock,12,546.7920000000001
+2016,Consumer,Texas,United States,Lubbock,,
+2017,Consumer,Texas,United States,Lubbock,,
+2014,Consumer,Texas,United States,Mansfield,,
+2015,Consumer,Texas,United States,Mansfield,,
+2016,Consumer,Texas,United States,Mansfield,,
+2017,Consumer,Texas,United States,Mansfield,5,517.4050000000001
+2014,Consumer,Texas,United States,Mcallen,,
+2015,Consumer,Texas,United States,Mcallen,,
+2016,Consumer,Texas,United States,Mcallen,14,203.648
+2017,Consumer,Texas,United States,Mcallen,,
+2014,Consumer,Texas,United States,Pasadena,1,6.927999999999998
+2015,Consumer,Texas,United States,Pasadena,,
+2016,Consumer,Texas,United States,Pasadena,,
+2017,Consumer,Texas,United States,Pasadena,8,212.99200000000002
+2014,Consumer,Texas,United States,Pearland,,
+2015,Consumer,Texas,United States,Pearland,,
+2016,Consumer,Texas,United States,Pearland,,
+2017,Consumer,Texas,United States,Pearland,3,470.3760000000001
+2014,Consumer,Texas,United States,Pharr,,
+2015,Consumer,Texas,United States,Pharr,,
+2016,Consumer,Texas,United States,Pharr,,
+2017,Consumer,Texas,United States,Pharr,4,124.404
+2014,Consumer,Texas,United States,Plano,27,2244.3706
+2015,Consumer,Texas,United States,Plano,,
+2016,Consumer,Texas,United States,Plano,,
+2017,Consumer,Texas,United States,Plano,15,1262.532
+2014,Consumer,Texas,United States,Port Arthur,,
+2015,Consumer,Texas,United States,Port Arthur,,
+2016,Consumer,Texas,United States,Port Arthur,6,34.048
+2017,Consumer,Texas,United States,Port Arthur,,
+2014,Consumer,Texas,United States,Round Rock,,
+2015,Consumer,Texas,United States,Round Rock,,
+2016,Consumer,Texas,United States,Round Rock,14,4406.072
+2017,Consumer,Texas,United States,Round Rock,4,106.0208
+2014,Consumer,Texas,United States,San Angelo,,
+2015,Consumer,Texas,United States,San Angelo,,
+2016,Consumer,Texas,United States,San Angelo,11,345.324
+2017,Consumer,Texas,United States,San Angelo,,
+2014,Consumer,Texas,United States,San Antonio,75,13374.112999999998
+2015,Consumer,Texas,United States,San Antonio,22,1457.356
+2016,Consumer,Texas,United States,San Antonio,30,1790.879
+2017,Consumer,Texas,United States,San Antonio,14,1308.1720000000003
+2014,Consumer,Texas,United States,Texas City,2,489.22999999999996
+2015,Consumer,Texas,United States,Texas City,5,301.742
+2016,Consumer,Texas,United States,Texas City,,
+2017,Consumer,Texas,United States,Texas City,,
+2014,Consumer,Texas,United States,The Colony,,
+2015,Consumer,Texas,United States,The Colony,,
+2016,Consumer,Texas,United States,The Colony,14,142.16
+2017,Consumer,Texas,United States,The Colony,,
+2014,Consumer,Texas,United States,Tyler,4,51.18399999999998
+2015,Consumer,Texas,United States,Tyler,,
+2016,Consumer,Texas,United States,Tyler,,
+2017,Consumer,Texas,United States,Tyler,12,296.02199999999993
+2014,Consumer,Texas,United States,Waco,,
+2015,Consumer,Texas,United States,Waco,,
+2016,Consumer,Texas,United States,Waco,2,23.968000000000004
+2017,Consumer,Texas,United States,Waco,14,581.5831999999999
+2014,Consumer,Utah,United States,Layton,,
+2015,Consumer,Utah,United States,Layton,4,4.96
+2016,Consumer,Utah,United States,Layton,,
+2017,Consumer,Utah,United States,Layton,,
+2014,Consumer,Utah,United States,Logan,21,280.27600000000007
+2015,Consumer,Utah,United States,Logan,,
+2016,Consumer,Utah,United States,Logan,,
+2017,Consumer,Utah,United States,Logan,,
+2014,Consumer,Utah,United States,Murray,,
+2015,Consumer,Utah,United States,Murray,,
+2016,Consumer,Utah,United States,Murray,,
+2017,Consumer,Utah,United States,Murray,10,97.918
+2014,Consumer,Utah,United States,Orem,,
+2015,Consumer,Utah,United States,Orem,17,2790.3399999999997
+2016,Consumer,Utah,United States,Orem,4,58.94
+2017,Consumer,Utah,United States,Orem,,
+2014,Consumer,Utah,United States,Pleasant Grove,27,2126.034
+2015,Consumer,Utah,United States,Pleasant Grove,,
+2016,Consumer,Utah,United States,Pleasant Grove,,
+2017,Consumer,Utah,United States,Pleasant Grove,,
+2014,Consumer,Utah,United States,Provo,,
+2015,Consumer,Utah,United States,Provo,5,912.75
+2016,Consumer,Utah,United States,Provo,,
+2017,Consumer,Utah,United States,Provo,,
+2014,Consumer,Utah,United States,Salt Lake City,,
+2015,Consumer,Utah,United States,Salt Lake City,,
+2016,Consumer,Utah,United States,Salt Lake City,,
+2017,Consumer,Utah,United States,Salt Lake City,15,417.216
+2014,Consumer,Utah,United States,West Jordan,2,55.5
+2015,Consumer,Utah,United States,West Jordan,14,256.35
+2016,Consumer,Utah,United States,West Jordan,,
+2017,Consumer,Utah,United States,West Jordan,,
+2014,Consumer,Virginia,United States,Charlottesville,,
+2015,Consumer,Virginia,United States,Charlottesville,,
+2016,Consumer,Virginia,United States,Charlottesville,,
+2017,Consumer,Virginia,United States,Charlottesville,3,34.650000000000006
+2014,Consumer,Virginia,United States,Chesapeake,28,1795.5000000000002
+2015,Consumer,Virginia,United States,Chesapeake,4,197.72
+2016,Consumer,Virginia,United States,Chesapeake,13,1911.48
+2017,Consumer,Virginia,United States,Chesapeake,5,504.90000000000003
+2014,Consumer,Virginia,United States,Newport News,,
+2015,Consumer,Virginia,United States,Newport News,4,31.12
+2016,Consumer,Virginia,United States,Newport News,9,1611.01
+2017,Consumer,Virginia,United States,Newport News,11,629.86
+2014,Consumer,Virginia,United States,Richmond,8,37.44
+2015,Consumer,Virginia,United States,Richmond,20,729.6800000000001
+2016,Consumer,Virginia,United States,Richmond,4,39.92
+2017,Consumer,Virginia,United States,Richmond,43,1738.9900000000002
+2014,Consumer,Virginia,United States,Salem,,
+2015,Consumer,Virginia,United States,Salem,,
+2016,Consumer,Virginia,United States,Salem,7,27.86
+2017,Consumer,Virginia,United States,Salem,37,1738.1000000000001
+2014,Consumer,Virginia,United States,Springfield,10,142.8
+2015,Consumer,Virginia,United States,Springfield,4,36.4
+2016,Consumer,Virginia,United States,Springfield,46,2674.44
+2017,Consumer,Virginia,United States,Springfield,16,210.38000000000002
+2014,Consumer,Virginia,United States,Suffolk,,
+2015,Consumer,Virginia,United States,Suffolk,2,196.62
+2016,Consumer,Virginia,United States,Suffolk,,
+2017,Consumer,Virginia,United States,Suffolk,,
+2014,Consumer,Virginia,United States,Virginia Beach,9,139.72
+2015,Consumer,Virginia,United States,Virginia Beach,3,182.91
+2016,Consumer,Virginia,United States,Virginia Beach,10,1120.73
+2017,Consumer,Virginia,United States,Virginia Beach,12,608.4300000000001
+2014,Consumer,Virginia,United States,Waynesboro,5,425.66999999999996
+2015,Consumer,Virginia,United States,Waynesboro,19,2298.9
+2016,Consumer,Virginia,United States,Waynesboro,,
+2017,Consumer,Virginia,United States,Waynesboro,,
+2014,Consumer,Washington,United States,Bellevue,2,12.96
+2015,Consumer,Washington,United States,Bellevue,1,20.24
+2016,Consumer,Washington,United States,Bellevue,,
+2017,Consumer,Washington,United States,Bellevue,9,39.792
+2014,Consumer,Washington,United States,Bellingham,,
+2015,Consumer,Washington,United States,Bellingham,,
+2016,Consumer,Washington,United States,Bellingham,,
+2017,Consumer,Washington,United States,Bellingham,14,2690.74
+2014,Consumer,Washington,United States,Edmonds,15,1549.77
+2015,Consumer,Washington,United States,Edmonds,,
+2016,Consumer,Washington,United States,Edmonds,10,143.24
+2017,Consumer,Washington,United States,Edmonds,14,650.712
+2014,Consumer,Washington,United States,Kent,8,201.73
+2015,Consumer,Washington,United States,Kent,,
+2016,Consumer,Washington,United States,Kent,,
+2017,Consumer,Washington,United States,Kent,20,1149.5240000000001
+2014,Consumer,Washington,United States,Longview,,
+2015,Consumer,Washington,United States,Longview,,
+2016,Consumer,Washington,United States,Longview,5,24.849999999999998
+2017,Consumer,Washington,United States,Longview,5,94.36000000000001
+2014,Consumer,Washington,United States,Marysville,,
+2015,Consumer,Washington,United States,Marysville,,
+2016,Consumer,Washington,United States,Marysville,15,102.18
+2017,Consumer,Washington,United States,Marysville,,
+2014,Consumer,Washington,United States,Olympia,7,649.5999999999999
+2015,Consumer,Washington,United States,Olympia,4,201.568
+2016,Consumer,Washington,United States,Olympia,,
+2017,Consumer,Washington,United States,Olympia,4,169.28
+2014,Consumer,Washington,United States,Pasco,21,1771.52
+2015,Consumer,Washington,United States,Pasco,,
+2016,Consumer,Washington,United States,Pasco,,
+2017,Consumer,Washington,United States,Pasco,6,429.592
+2014,Consumer,Washington,United States,Redmond,,
+2015,Consumer,Washington,United States,Redmond,,
+2016,Consumer,Washington,United States,Redmond,,
+2017,Consumer,Washington,United States,Redmond,6,42.91
+2014,Consumer,Washington,United States,Renton,,
+2015,Consumer,Washington,United States,Renton,,
+2016,Consumer,Washington,United States,Renton,,
+2017,Consumer,Washington,United States,Renton,14,1242.6319999999998
+2014,Consumer,Washington,United States,Seattle,130,10927.516000000001
+2015,Consumer,Washington,United States,Seattle,145,8941.624000000002
+2016,Consumer,Washington,United States,Seattle,229,11274.072000000004
+2017,Consumer,Washington,United States,Seattle,278,27873.09799999999
+2014,Consumer,Washington,United States,Spokane,,
+2015,Consumer,Washington,United States,Spokane,14,263.78
+2016,Consumer,Washington,United States,Spokane,,
+2017,Consumer,Washington,United States,Spokane,1,70.98
+2014,Consumer,West Virginia,United States,Wheeling,,
+2015,Consumer,West Virginia,United States,Wheeling,,
+2016,Consumer,West Virginia,United States,Wheeling,,
+2017,Consumer,West Virginia,United States,Wheeling,3,673.3439999999999
+2014,Consumer,Wisconsin,United States,Appleton,,
+2015,Consumer,Wisconsin,United States,Appleton,,
+2016,Consumer,Wisconsin,United States,Appleton,5,1649.75
+2017,Consumer,Wisconsin,United States,Appleton,,
+2014,Consumer,Wisconsin,United States,Eau Claire,,
+2015,Consumer,Wisconsin,United States,Eau Claire,6,435.53999999999996
+2016,Consumer,Wisconsin,United States,Eau Claire,10,1085.87
+2017,Consumer,Wisconsin,United States,Eau Claire,,
+2014,Consumer,Wisconsin,United States,Green Bay,6,468.90000000000003
+2015,Consumer,Wisconsin,United States,Green Bay,,
+2016,Consumer,Wisconsin,United States,Green Bay,,
+2017,Consumer,Wisconsin,United States,Green Bay,,
+2014,Consumer,Wisconsin,United States,Kenosha,,
+2015,Consumer,Wisconsin,United States,Kenosha,22,2531.8799999999997
+2016,Consumer,Wisconsin,United States,Kenosha,,
+2017,Consumer,Wisconsin,United States,Kenosha,,
+2014,Consumer,Wisconsin,United States,La Crosse,,
+2015,Consumer,Wisconsin,United States,La Crosse,,
+2016,Consumer,Wisconsin,United States,La Crosse,3,56.82000000000001
+2017,Consumer,Wisconsin,United States,La Crosse,,
+2014,Consumer,Wisconsin,United States,Madison,18,3520.36
+2015,Consumer,Wisconsin,United States,Madison,,
+2016,Consumer,Wisconsin,United States,Madison,3,10.07
+2017,Consumer,Wisconsin,United States,Madison,16,1816.36
+2014,Consumer,Wisconsin,United States,Waukesha,,
+2015,Consumer,Wisconsin,United States,Waukesha,,
+2016,Consumer,Wisconsin,United States,Waukesha,5,54.5
+2017,Consumer,Wisconsin,United States,Waukesha,,
+2014,Consumer,Wisconsin,United States,Wausau,14,317.47999999999996
+2015,Consumer,Wisconsin,United States,Wausau,,
+2016,Consumer,Wisconsin,United States,Wausau,,
+2017,Consumer,Wisconsin,United States,Wausau,,
+2014,Corporate,California,United States,Antioch,,
+2015,Corporate,California,United States,Antioch,,
+2016,Corporate,California,United States,Antioch,3,19.44
+2017,Corporate,California,United States,Antioch,,
+2014,Corporate,California,United States,Apple Valley,,
+2015,Corporate,California,United States,Apple Valley,,
+2016,Corporate,California,United States,Apple Valley,,
+2017,Corporate,California,United States,Apple Valley,17,1295.0249999999999
+2014,Corporate,California,United States,Brentwood,13,371.52
+2015,Corporate,California,United States,Brentwood,,
+2016,Corporate,California,United States,Brentwood,,
+2017,Corporate,California,United States,Brentwood,31,3408.412
+2014,Corporate,California,United States,Camarillo,,
+2015,Corporate,California,United States,Camarillo,13,1452.7875000000001
+2016,Corporate,California,United States,Camarillo,,
+2017,Corporate,California,United States,Camarillo,,
+2014,Corporate,California,United States,Chico,,
+2015,Corporate,California,United States,Chico,,
+2016,Corporate,California,United States,Chico,,
+2017,Corporate,California,United States,Chico,22,753.1120000000001
+2014,Corporate,California,United States,Concord,,
+2015,Corporate,California,United States,Concord,,
+2016,Corporate,California,United States,Concord,,
+2017,Corporate,California,United States,Concord,11,1629.7120000000002
+2014,Corporate,California,United States,El Cajon,,
+2015,Corporate,California,United States,El Cajon,,
+2016,Corporate,California,United States,El Cajon,4,387.136
+2017,Corporate,California,United States,El Cajon,,
+2014,Corporate,California,United States,Escondido,2,17.248
+2015,Corporate,California,United States,Escondido,,
+2016,Corporate,California,United States,Escondido,,
+2017,Corporate,California,United States,Escondido,,
+2014,Corporate,California,United States,Fairfield,,
+2015,Corporate,California,United States,Fairfield,,
+2016,Corporate,California,United States,Fairfield,,
+2017,Corporate,California,United States,Fairfield,30,1470.584
+2014,Corporate,California,United States,Hesperia,,
+2015,Corporate,California,United States,Hesperia,,
+2016,Corporate,California,United States,Hesperia,12,776.4675
+2017,Corporate,California,United States,Hesperia,6,436.70400000000006
+2014,Corporate,California,United States,Huntington Beach,5,19.16
+2015,Corporate,California,United States,Huntington Beach,,
+2016,Corporate,California,United States,Huntington Beach,,
+2017,Corporate,California,United States,Huntington Beach,5,2399.96
+2014,Corporate,California,United States,Inglewood,,
+2015,Corporate,California,United States,Inglewood,,
+2016,Corporate,California,United States,Inglewood,,
+2017,Corporate,California,United States,Inglewood,29,2986.5920000000006
+2014,Corporate,California,United States,La Quinta,,
+2015,Corporate,California,United States,La Quinta,4,46.32
+2016,Corporate,California,United States,La Quinta,,
+2017,Corporate,California,United States,La Quinta,,
+2014,Corporate,California,United States,Laguna Niguel,,
+2015,Corporate,California,United States,Laguna Niguel,,
+2016,Corporate,California,United States,Laguna Niguel,,
+2017,Corporate,California,United States,Laguna Niguel,11,74.04
+2014,Corporate,California,United States,Lodi,2,39.68
+2015,Corporate,California,United States,Lodi,,
+2016,Corporate,California,United States,Lodi,,
+2017,Corporate,California,United States,Lodi,,
+2014,Corporate,California,United States,Long Beach,3,10.1
+2015,Corporate,California,United States,Long Beach,,
+2016,Corporate,California,United States,Long Beach,,
+2017,Corporate,California,United States,Long Beach,6,340.70400000000006
+2014,Corporate,California,United States,Los Angeles,210,9780.984499999997
+2015,Corporate,California,United States,Los Angeles,141,6266.322000000001
+2016,Corporate,California,United States,Los Angeles,276,17594.858
+2017,Corporate,California,United States,Los Angeles,226,13144.073999999997
+2014,Corporate,California,United States,Modesto,,
+2015,Corporate,California,United States,Modesto,,
+2016,Corporate,California,United States,Modesto,,
+2017,Corporate,California,United States,Modesto,1,52.792
+2014,Corporate,California,United States,Montebello,,
+2015,Corporate,California,United States,Montebello,,
+2016,Corporate,California,United States,Montebello,2,27.88
+2017,Corporate,California,United States,Montebello,,
+2014,Corporate,California,United States,Moreno Valley,,
+2015,Corporate,California,United States,Moreno Valley,8,182.72
+2016,Corporate,California,United States,Moreno Valley,,
+2017,Corporate,California,United States,Moreno Valley,,
+2014,Corporate,California,United States,Oakland,,
+2015,Corporate,California,United States,Oakland,,
+2016,Corporate,California,United States,Oakland,4,75.126
+2017,Corporate,California,United States,Oakland,25,2390.776
+2014,Corporate,California,United States,Oceanside,,
+2015,Corporate,California,United States,Oceanside,,
+2016,Corporate,California,United States,Oceanside,,
+2017,Corporate,California,United States,Oceanside,11,222.03199999999998
+2014,Corporate,California,United States,Oxnard,,
+2015,Corporate,California,United States,Oxnard,14,131.48000000000002
+2016,Corporate,California,United States,Oxnard,,
+2017,Corporate,California,United States,Oxnard,,
+2014,Corporate,California,United States,Pasadena,,
+2015,Corporate,California,United States,Pasadena,,
+2016,Corporate,California,United States,Pasadena,8,198.84
+2017,Corporate,California,United States,Pasadena,3,171.288
+2014,Corporate,California,United States,Pomona,,
+2015,Corporate,California,United States,Pomona,,
+2016,Corporate,California,United States,Pomona,,
+2017,Corporate,California,United States,Pomona,17,421.42
+2014,Corporate,California,United States,Rancho Cucamonga,,
+2015,Corporate,California,United States,Rancho Cucamonga,2,5.76
+2016,Corporate,California,United States,Rancho Cucamonga,,
+2017,Corporate,California,United States,Rancho Cucamonga,,
+2014,Corporate,California,United States,Redlands,,
+2015,Corporate,California,United States,Redlands,7,14.280000000000001
+2016,Corporate,California,United States,Redlands,,
+2017,Corporate,California,United States,Redlands,,
+2014,Corporate,California,United States,Redondo Beach,28,1840.0430000000001
+2015,Corporate,California,United States,Redondo Beach,,
+2016,Corporate,California,United States,Redondo Beach,,
+2017,Corporate,California,United States,Redondo Beach,,
+2014,Corporate,California,United States,Redwood City,,
+2015,Corporate,California,United States,Redwood City,,
+2016,Corporate,California,United States,Redwood City,6,41.904
+2017,Corporate,California,United States,Redwood City,,
+2014,Corporate,California,United States,Riverside,11,602.43
+2015,Corporate,California,United States,Riverside,8,160.4
+2016,Corporate,California,United States,Riverside,4,1085.688
+2017,Corporate,California,United States,Riverside,,
+2014,Corporate,California,United States,Roseville,,
+2015,Corporate,California,United States,Roseville,,
+2016,Corporate,California,United States,Roseville,6,423.05
+2017,Corporate,California,United States,Roseville,,
+2014,Corporate,California,United States,Sacramento,5,1403.9200000000003
+2015,Corporate,California,United States,Sacramento,2,12.832
+2016,Corporate,California,United States,Sacramento,8,335.12
+2017,Corporate,California,United States,Sacramento,13,5325.884
+2014,Corporate,California,United States,Salinas,,
+2015,Corporate,California,United States,Salinas,26,481.69800000000004
+2016,Corporate,California,United States,Salinas,8,44.040000000000006
+2017,Corporate,California,United States,Salinas,2,54.89600000000001
+2014,Corporate,California,United States,San Diego,24,1491.343
+2015,Corporate,California,United States,San Diego,47,2697.7799999999997
+2016,Corporate,California,United States,San Diego,51,4375.722000000001
+2017,Corporate,California,United States,San Diego,41,1886.2259999999999
+2014,Corporate,California,United States,San Francisco,151,6829.850000000001
+2015,Corporate,California,United States,San Francisco,100,6923.317000000001
+2016,Corporate,California,United States,San Francisco,148,15820.890000000003
+2017,Corporate,California,United States,San Francisco,190,15029.783
+2014,Corporate,California,United States,San Jose,,
+2015,Corporate,California,United States,San Jose,17,244.77999999999997
+2016,Corporate,California,United States,San Jose,17,494.254
+2017,Corporate,California,United States,San Jose,8,412.99600000000004
+2014,Corporate,California,United States,Santa Ana,,
+2015,Corporate,California,United States,Santa Ana,,
+2016,Corporate,California,United States,Santa Ana,,
+2017,Corporate,California,United States,Santa Ana,9,163.392
+2014,Corporate,California,United States,Santa Barbara,,
+2015,Corporate,California,United States,Santa Barbara,8,402.14599999999996
+2016,Corporate,California,United States,Santa Barbara,,
+2017,Corporate,California,United States,Santa Barbara,,
+2014,Corporate,California,United States,Santa Clara,11,131.84000000000003
+2015,Corporate,California,United States,Santa Clara,,
+2016,Corporate,California,United States,Santa Clara,,
+2017,Corporate,California,United States,Santa Clara,2,10.56
+2014,Corporate,California,United States,Stockton,,
+2015,Corporate,California,United States,Stockton,,
+2016,Corporate,California,United States,Stockton,8,273.92
+2017,Corporate,California,United States,Stockton,,
+2014,Corporate,California,United States,Sunnyvale,,
+2015,Corporate,California,United States,Sunnyvale,,
+2016,Corporate,California,United States,Sunnyvale,,
+2017,Corporate,California,United States,Sunnyvale,23,636.21
+2014,Corporate,California,United States,Thousand Oaks,,
+2015,Corporate,California,United States,Thousand Oaks,,
+2016,Corporate,California,United States,Thousand Oaks,,
+2017,Corporate,California,United States,Thousand Oaks,13,190.07
+2014,Corporate,California,United States,Torrance,,
+2015,Corporate,California,United States,Torrance,,
+2016,Corporate,California,United States,Torrance,6,1120.368
+2017,Corporate,California,United States,Torrance,10,2011.8999999999999
+2014,Corporate,California,United States,Visalia,,
+2015,Corporate,California,United States,Visalia,8,7.92
+2016,Corporate,California,United States,Visalia,,
+2017,Corporate,California,United States,Visalia,,
+2014,Corporate,California,United States,Woodland,,
+2015,Corporate,California,United States,Woodland,,
+2016,Corporate,California,United States,Woodland,,
+2017,Corporate,California,United States,Woodland,5,24.678
+2014,Corporate,California,United States,Yucaipa,,
+2015,Corporate,California,United States,Yucaipa,5,50.8
+2016,Corporate,California,United States,Yucaipa,,
+2017,Corporate,California,United States,Yucaipa,,
+2014,Corporate,Connecticut,United States,Bristol,6,455.23
+2015,Corporate,Connecticut,United States,Bristol,3,238.11
+2016,Corporate,Connecticut,United States,Bristol,,
+2017,Corporate,Connecticut,United States,Bristol,,
+2014,Corporate,Connecticut,United States,Fairfield,,
+2015,Corporate,Connecticut,United States,Fairfield,11,470.35999999999996
+2016,Corporate,Connecticut,United States,Fairfield,,
+2017,Corporate,Connecticut,United States,Fairfield,9,607.55
+2014,Corporate,Connecticut,United States,Manchester,,
+2015,Corporate,Connecticut,United States,Manchester,,
+2016,Corporate,Connecticut,United States,Manchester,17,1179.27
+2017,Corporate,Connecticut,United States,Manchester,,
+2014,Corporate,Connecticut,United States,Meriden,10,1217.3799999999999
+2015,Corporate,Connecticut,United States,Meriden,,
+2016,Corporate,Connecticut,United States,Meriden,,
+2017,Corporate,Connecticut,United States,Meriden,,
+2014,Corporate,Connecticut,United States,Middletown,,
+2015,Corporate,Connecticut,United States,Middletown,5,26.9
+2016,Corporate,Connecticut,United States,Middletown,7,48.16
+2017,Corporate,Connecticut,United States,Middletown,3,181.95
+2014,Corporate,Connecticut,United States,Norwich,,
+2015,Corporate,Connecticut,United States,Norwich,,
+2016,Corporate,Connecticut,United States,Norwich,1,11.34
+2017,Corporate,Connecticut,United States,Norwich,,
+2014,Corporate,Connecticut,United States,Waterbury,,
+2015,Corporate,Connecticut,United States,Waterbury,,
+2016,Corporate,Connecticut,United States,Waterbury,8,584.7700000000001
+2017,Corporate,Connecticut,United States,Waterbury,,
+2014,Corporate,Florida,United States,Apopka,,
+2015,Corporate,Florida,United States,Apopka,,
+2016,Corporate,Florida,United States,Apopka,8,29.97000000000001
+2017,Corporate,Florida,United States,Apopka,,
+2014,Corporate,Florida,United States,Coral Gables,,
+2015,Corporate,Florida,United States,Coral Gables,,
+2016,Corporate,Florida,United States,Coral Gables,6,64.24799999999999
+2017,Corporate,Florida,United States,Coral Gables,,
+2014,Corporate,Florida,United States,Delray Beach,,
+2015,Corporate,Florida,United States,Delray Beach,,
+2016,Corporate,Florida,United States,Delray Beach,8,232.62400000000002
+2017,Corporate,Florida,United States,Delray Beach,,
+2014,Corporate,Florida,United States,Deltona,8,581.1039999999999
+2015,Corporate,Florida,United States,Deltona,,
+2016,Corporate,Florida,United States,Deltona,,
+2017,Corporate,Florida,United States,Deltona,,
+2014,Corporate,Florida,United States,Fort Lauderdale,,
+2015,Corporate,Florida,United States,Fort Lauderdale,,
+2016,Corporate,Florida,United States,Fort Lauderdale,7,519.68
+2017,Corporate,Florida,United States,Fort Lauderdale,5,1158.12
+2014,Corporate,Florida,United States,Jacksonville,3,3.9830000000000005
+2015,Corporate,Florida,United States,Jacksonville,16,801.6880000000001
+2016,Corporate,Florida,United States,Jacksonville,51,1198.7920000000004
+2017,Corporate,Florida,United States,Jacksonville,53,2700.1480000000006
+2014,Corporate,Florida,United States,Lakeland,23,590.7620000000001
+2015,Corporate,Florida,United States,Lakeland,25,3165.744
+2016,Corporate,Florida,United States,Lakeland,7,562.2925000000001
+2017,Corporate,Florida,United States,Lakeland,,
+2014,Corporate,Florida,United States,Melbourne,,
+2015,Corporate,Florida,United States,Melbourne,,
+2016,Corporate,Florida,United States,Melbourne,,
+2017,Corporate,Florida,United States,Melbourne,2,95.616
+2014,Corporate,Florida,United States,Miami,1,1.8690000000000004
+2015,Corporate,Florida,United States,Miami,21,1449.6150000000002
+2016,Corporate,Florida,United States,Miami,16,875.5440000000002
+2017,Corporate,Florida,United States,Miami,19,712.3300000000002
+2014,Corporate,Florida,United States,Miramar,,
+2015,Corporate,Florida,United States,Miramar,,
+2016,Corporate,Florida,United States,Miramar,,
+2017,Corporate,Florida,United States,Miramar,29,552.856
+2014,Corporate,Florida,United States,Orlando,9,6.642000000000001
+2015,Corporate,Florida,United States,Orlando,,
+2016,Corporate,Florida,United States,Orlando,11,574.056
+2017,Corporate,Florida,United States,Orlando,4,20.736000000000004
+2014,Corporate,Florida,United States,Palm Coast,10,242.54600000000002
+2015,Corporate,Florida,United States,Palm Coast,,
+2016,Corporate,Florida,United States,Palm Coast,6,7.434000000000001
+2017,Corporate,Florida,United States,Palm Coast,,
+2014,Corporate,Florida,United States,Plantation,,
+2015,Corporate,Florida,United States,Plantation,29,838.4840000000002
+2016,Corporate,Florida,United States,Plantation,,
+2017,Corporate,Florida,United States,Plantation,,
+2014,Corporate,Florida,United States,Pompano Beach,,
+2015,Corporate,Florida,United States,Pompano Beach,,
+2016,Corporate,Florida,United States,Pompano Beach,,
+2017,Corporate,Florida,United States,Pompano Beach,12,90.44
+2014,Corporate,Florida,United States,Port Saint Lucie,,
+2015,Corporate,Florida,United States,Port Saint Lucie,5,231.92000000000002
+2016,Corporate,Florida,United States,Port Saint Lucie,,
+2017,Corporate,Florida,United States,Port Saint Lucie,,
+2014,Corporate,Florida,United States,Saint Petersburg,7,504.8160000000001
+2015,Corporate,Florida,United States,Saint Petersburg,35,937.6080000000001
+2016,Corporate,Florida,United States,Saint Petersburg,,
+2017,Corporate,Florida,United States,Saint Petersburg,,
+2014,Corporate,Florida,United States,Tallahassee,,
+2015,Corporate,Florida,United States,Tallahassee,,
+2016,Corporate,Florida,United States,Tallahassee,21,452.464
+2017,Corporate,Florida,United States,Tallahassee,13,68.967
+2014,Corporate,Florida,United States,Tamarac,,
+2015,Corporate,Florida,United States,Tamarac,,
+2016,Corporate,Florida,United States,Tamarac,14,1410.0660000000003
+2017,Corporate,Florida,United States,Tamarac,,
+2014,Corporate,Florida,United States,Tampa,,
+2015,Corporate,Florida,United States,Tampa,12,277.632
+2016,Corporate,Florida,United States,Tampa,5,324.38700000000006
+2017,Corporate,Florida,United States,Tampa,1,2.8960000000000004
+2014,Corporate,Georgia,United States,Columbus,16,1367.52
+2015,Corporate,Georgia,United States,Columbus,19,976.2500000000001
+2016,Corporate,Georgia,United States,Columbus,11,408.70000000000005
+2017,Corporate,Georgia,United States,Columbus,51,1742.7800000000002
+2014,Corporate,Georgia,United States,East Point,,
+2015,Corporate,Georgia,United States,East Point,7,268.4
+2016,Corporate,Georgia,United States,East Point,,
+2017,Corporate,Georgia,United States,East Point,,
+2014,Corporate,Georgia,United States,Macon,7,116.85
+2015,Corporate,Georgia,United States,Macon,6,38.88
+2016,Corporate,Georgia,United States,Macon,,
+2017,Corporate,Georgia,United States,Macon,,
+2014,Corporate,Georgia,United States,Marietta,,
+2015,Corporate,Georgia,United States,Marietta,,
+2016,Corporate,Georgia,United States,Marietta,18,2673.69
+2017,Corporate,Georgia,United States,Marietta,,
+2014,Corporate,Georgia,United States,Roswell,,
+2015,Corporate,Georgia,United States,Roswell,4,24.42
+2016,Corporate,Georgia,United States,Roswell,,
+2017,Corporate,Georgia,United States,Roswell,16,3993.11
+2014,Corporate,Georgia,United States,Sandy Springs,4,21.19
+2015,Corporate,Georgia,United States,Sandy Springs,,
+2016,Corporate,Georgia,United States,Sandy Springs,,
+2017,Corporate,Georgia,United States,Sandy Springs,18,524.85
+2014,Corporate,Georgia,United States,Warner Robins,,
+2015,Corporate,Georgia,United States,Warner Robins,3,392.93999999999994
+2016,Corporate,Georgia,United States,Warner Robins,,
+2017,Corporate,Georgia,United States,Warner Robins,,
+2014,Corporate,Illinois,United States,Aurora,,
+2015,Corporate,Illinois,United States,Aurora,,
+2016,Corporate,Illinois,United States,Aurora,20,339.97999999999996
+2017,Corporate,Illinois,United States,Aurora,20,824.143
+2014,Corporate,Illinois,United States,Bloomington,,
+2015,Corporate,Illinois,United States,Bloomington,,
+2016,Corporate,Illinois,United States,Bloomington,,
+2017,Corporate,Illinois,United States,Bloomington,4,54.336000000000006
+2014,Corporate,Illinois,United States,Chicago,34,1317.608
+2015,Corporate,Illinois,United States,Chicago,75,4601.604000000001
+2016,Corporate,Illinois,United States,Chicago,93,1140.3319999999999
+2017,Corporate,Illinois,United States,Chicago,98,4191.674999999999
+2014,Corporate,Illinois,United States,Highland Park,,
+2015,Corporate,Illinois,United States,Highland Park,,
+2016,Corporate,Illinois,United States,Highland Park,10,577.1220000000001
+2017,Corporate,Illinois,United States,Highland Park,,
+2014,Corporate,Illinois,United States,Naperville,,
+2015,Corporate,Illinois,United States,Naperville,,
+2016,Corporate,Illinois,United States,Naperville,,
+2017,Corporate,Illinois,United States,Naperville,4,147.168
+2014,Corporate,Illinois,United States,Oak Park,,
+2015,Corporate,Illinois,United States,Oak Park,,
+2016,Corporate,Illinois,United States,Oak Park,,
+2017,Corporate,Illinois,United States,Oak Park,7,10.192000000000002
+2014,Corporate,Illinois,United States,Palatine,,
+2015,Corporate,Illinois,United States,Palatine,,
+2016,Corporate,Illinois,United States,Palatine,,
+2017,Corporate,Illinois,United States,Palatine,7,116.312
+2014,Corporate,Illinois,United States,Peoria,3,12.461999999999996
+2015,Corporate,Illinois,United States,Peoria,,
+2016,Corporate,Illinois,United States,Peoria,,
+2017,Corporate,Illinois,United States,Peoria,12,125.97999999999999
+2014,Corporate,Illinois,United States,Quincy,,
+2015,Corporate,Illinois,United States,Quincy,,
+2016,Corporate,Illinois,United States,Quincy,4,99.13600000000001
+2017,Corporate,Illinois,United States,Quincy,15,78.04
+2014,Corporate,Illinois,United States,Rockford,,
+2015,Corporate,Illinois,United States,Rockford,,
+2016,Corporate,Illinois,United States,Rockford,7,442.37199999999996
+2017,Corporate,Illinois,United States,Rockford,14,227.72800000000004
+2014,Corporate,Illinois,United States,Skokie,2,12.624
+2015,Corporate,Illinois,United States,Skokie,,
+2016,Corporate,Illinois,United States,Skokie,,
+2017,Corporate,Illinois,United States,Skokie,10,23.887999999999998
+2014,Corporate,Illinois,United States,Tinley Park,,
+2015,Corporate,Illinois,United States,Tinley Park,7,22.288
+2016,Corporate,Illinois,United States,Tinley Park,,
+2017,Corporate,Illinois,United States,Tinley Park,,
+2014,Corporate,Illinois,United States,Woodstock,,
+2015,Corporate,Illinois,United States,Woodstock,,
+2016,Corporate,Illinois,United States,Woodstock,8,845.4879999999999
+2017,Corporate,Illinois,United States,Woodstock,,
+2014,Corporate,Indiana,United States,Columbus,4,77.86
+2015,Corporate,Indiana,United States,Columbus,3,34.019999999999996
+2016,Corporate,Indiana,United States,Columbus,11,361.93999999999994
+2017,Corporate,Indiana,United States,Columbus,22,2885.4
+2014,Corporate,Indiana,United States,Indianapolis,2,386.34
+2015,Corporate,Indiana,United States,Indianapolis,7,125.92999999999999
+2016,Corporate,Indiana,United States,Indianapolis,3,54.96
+2017,Corporate,Indiana,United States,Indianapolis,28,5381.44
+2014,Corporate,Indiana,United States,La Porte,,
+2015,Corporate,Indiana,United States,La Porte,,
+2016,Corporate,Indiana,United States,La Porte,21,383.14
+2017,Corporate,Indiana,United States,La Porte,,
+2014,Corporate,Indiana,United States,Lafayette,,
+2015,Corporate,Indiana,United States,Lafayette,,
+2016,Corporate,Indiana,United States,Lafayette,23,18358.139999999996
+2017,Corporate,Indiana,United States,Lafayette,,
+2014,Corporate,Indiana,United States,Noblesville,,
+2015,Corporate,Indiana,United States,Noblesville,,
+2016,Corporate,Indiana,United States,Noblesville,6,2678.94
+2017,Corporate,Indiana,United States,Noblesville,,
+2014,Corporate,Indiana,United States,Richmond,13,146.64999999999998
+2015,Corporate,Indiana,United States,Richmond,5,714.3000000000001
+2016,Corporate,Indiana,United States,Richmond,1,22.48
+2017,Corporate,Indiana,United States,Richmond,5,177.2
+2014,Corporate,Iowa,United States,Iowa City,,
+2015,Corporate,Iowa,United States,Iowa City,,
+2016,Corporate,Iowa,United States,Iowa City,1,9.99
+2017,Corporate,Iowa,United States,Iowa City,,
+2014,Corporate,Iowa,United States,Marion,,
+2015,Corporate,Iowa,United States,Marion,,
+2016,Corporate,Iowa,United States,Marion,8,115.84
+2017,Corporate,Iowa,United States,Marion,,
+2014,Corporate,Louisiana,United States,Bossier City,24,1417.18
+2015,Corporate,Louisiana,United States,Bossier City,,
+2016,Corporate,Louisiana,United States,Bossier City,,
+2017,Corporate,Louisiana,United States,Bossier City,,
+2014,Corporate,Louisiana,United States,Lafayette,12,364.92999999999995
+2015,Corporate,Louisiana,United States,Lafayette,,
+2016,Corporate,Louisiana,United States,Lafayette,,
+2017,Corporate,Louisiana,United States,Lafayette,,
+2014,Corporate,Louisiana,United States,Monroe,,
+2015,Corporate,Louisiana,United States,Monroe,,
+2016,Corporate,Louisiana,United States,Monroe,10,100.24000000000001
+2017,Corporate,Louisiana,United States,Monroe,,
+2014,Corporate,Michigan,United States,Canton,,
+2015,Corporate,Michigan,United States,Canton,,
+2016,Corporate,Michigan,United States,Canton,,
+2017,Corporate,Michigan,United States,Canton,10,316.32
+2014,Corporate,Michigan,United States,Detroit,20,815.9100000000001
+2015,Corporate,Michigan,United States,Detroit,64,2918.1680000000006
+2016,Corporate,Michigan,United States,Detroit,17,5912.88
+2017,Corporate,Michigan,United States,Detroit,21,6247.936000000001
+2014,Corporate,Michigan,United States,Grand Rapids,,
+2015,Corporate,Michigan,United States,Grand Rapids,,
+2016,Corporate,Michigan,United States,Grand Rapids,7,24.849999999999998
+2017,Corporate,Michigan,United States,Grand Rapids,2,209.7
+2014,Corporate,Michigan,United States,Jackson,11,508.61999999999995
+2015,Corporate,Michigan,United States,Jackson,7,1000.4300000000001
+2016,Corporate,Michigan,United States,Jackson,26,1966.954
+2017,Corporate,Michigan,United States,Jackson,,
+2014,Corporate,Michigan,United States,Lincoln Park,,
+2015,Corporate,Michigan,United States,Lincoln Park,5,220.31
+2016,Corporate,Michigan,United States,Lincoln Park,6,167.292
+2017,Corporate,Michigan,United States,Lincoln Park,,
+2014,Corporate,Michigan,United States,Oak Park,,
+2015,Corporate,Michigan,United States,Oak Park,,
+2016,Corporate,Michigan,United States,Oak Park,,
+2017,Corporate,Michigan,United States,Oak Park,5,580.8599999999999
+2014,Corporate,Michigan,United States,Roseville,,
+2015,Corporate,Michigan,United States,Roseville,,
+2016,Corporate,Michigan,United States,Roseville,3,68.52
+2017,Corporate,Michigan,United States,Roseville,,
+2014,Corporate,Michigan,United States,Taylor,3,9.84
+2015,Corporate,Michigan,United States,Taylor,2,41.9
+2016,Corporate,Michigan,United States,Taylor,,
+2017,Corporate,Michigan,United States,Taylor,,
+2014,Corporate,Michigan,United States,Trenton,,
+2015,Corporate,Michigan,United States,Trenton,,
+2016,Corporate,Michigan,United States,Trenton,,
+2017,Corporate,Michigan,United States,Trenton,2,41.28
+2014,Corporate,Minnesota,United States,Eagan,,
+2015,Corporate,Minnesota,United States,Eagan,,
+2016,Corporate,Minnesota,United States,Eagan,4,63.44
+2017,Corporate,Minnesota,United States,Eagan,,
+2014,Corporate,Minnesota,United States,Maple Grove,,
+2015,Corporate,Minnesota,United States,Maple Grove,,
+2016,Corporate,Minnesota,United States,Maple Grove,,
+2017,Corporate,Minnesota,United States,Maple Grove,2,735.98
+2014,Corporate,Minnesota,United States,Rochester,,
+2015,Corporate,Minnesota,United States,Rochester,5,43
+2016,Corporate,Minnesota,United States,Rochester,,
+2017,Corporate,Minnesota,United States,Rochester,,
+2014,Corporate,Minnesota,United States,Roseville,,
+2015,Corporate,Minnesota,United States,Roseville,,
+2016,Corporate,Minnesota,United States,Roseville,,
+2017,Corporate,Minnesota,United States,Roseville,8,50.4
+2014,Corporate,Minnesota,United States,Saint Cloud,,
+2015,Corporate,Minnesota,United States,Saint Cloud,,
+2016,Corporate,Minnesota,United States,Saint Cloud,,
+2017,Corporate,Minnesota,United States,Saint Cloud,13,1331.8200000000002
+2014,Corporate,Minnesota,United States,Saint Paul,,
+2015,Corporate,Minnesota,United States,Saint Paul,,
+2016,Corporate,Minnesota,United States,Saint Paul,11,192.82999999999998
+2017,Corporate,Minnesota,United States,Saint Paul,,
+2014,Corporate,Minnesota,United States,Woodbury,,
+2015,Corporate,Minnesota,United States,Woodbury,8,72.24000000000001
+2016,Corporate,Minnesota,United States,Woodbury,3,535.41
+2017,Corporate,Minnesota,United States,Woodbury,,
+2014,Corporate,Mississippi,United States,Gulfport,,
+2015,Corporate,Mississippi,United States,Gulfport,,
+2016,Corporate,Mississippi,United States,Gulfport,11,117.81
+2017,Corporate,Mississippi,United States,Gulfport,,
+2014,Corporate,Mississippi,United States,Jackson,14,103.5
+2015,Corporate,Mississippi,United States,Jackson,4,62.459999999999994
+2016,Corporate,Mississippi,United States,Jackson,,
+2017,Corporate,Mississippi,United States,Jackson,,
+2014,Corporate,Mississippi,United States,Southaven,,
+2015,Corporate,Mississippi,United States,Southaven,,
+2016,Corporate,Mississippi,United States,Southaven,,
+2017,Corporate,Mississippi,United States,Southaven,15,839.25
+2014,Corporate,Nebraska,United States,Fremont,,
+2015,Corporate,Nebraska,United States,Fremont,,
+2016,Corporate,Nebraska,United States,Fremont,14,79.8
+2017,Corporate,Nebraska,United States,Fremont,11,884.54
+2014,Corporate,Nebraska,United States,Omaha,11,174.04
+2015,Corporate,Nebraska,United States,Omaha,9,128.36
+2016,Corporate,Nebraska,United States,Omaha,,
+2017,Corporate,Nebraska,United States,Omaha,,
+2014,Corporate,Nevada,United States,Henderson,,
+2015,Corporate,Nevada,United States,Henderson,,
+2016,Corporate,Nevada,United States,Henderson,8,1691.6080000000002
+2017,Corporate,Nevada,United States,Henderson,5,196.45
+2014,Corporate,Nevada,United States,North Las Vegas,12,134.6
+2015,Corporate,Nevada,United States,North Las Vegas,,
+2016,Corporate,Nevada,United States,North Las Vegas,2,58.58
+2017,Corporate,Nevada,United States,North Las Vegas,,
+2014,Corporate,Nevada,United States,Reno,,
+2015,Corporate,Nevada,United States,Reno,,
+2016,Corporate,Nevada,United States,Reno,9,163.408
+2017,Corporate,Nevada,United States,Reno,,
+2014,Corporate,Nevada,United States,Sparks,,
+2015,Corporate,Nevada,United States,Sparks,,
+2016,Corporate,Nevada,United States,Sparks,10,2396.4
+2017,Corporate,Nevada,United States,Sparks,,
+2014,Corporate,New Hampshire,United States,Concord,9,292.82
+2015,Corporate,New Hampshire,United States,Concord,,
+2016,Corporate,New Hampshire,United States,Concord,,
+2017,Corporate,New Hampshire,United States,Concord,8,247.44
+2014,Corporate,New Jersey,United States,Atlantic City,,
+2015,Corporate,New Jersey,United States,Atlantic City,,
+2016,Corporate,New Jersey,United States,Atlantic City,2,23.36
+2017,Corporate,New Jersey,United States,Atlantic City,,
+2014,Corporate,New Jersey,United States,Bridgeton,,
+2015,Corporate,New Jersey,United States,Bridgeton,,
+2016,Corporate,New Jersey,United States,Bridgeton,6,52.410000000000004
+2017,Corporate,New Jersey,United States,Bridgeton,,
+2014,Corporate,New Jersey,United States,Hackensack,28,1456.16
+2015,Corporate,New Jersey,United States,Hackensack,,
+2016,Corporate,New Jersey,United States,Hackensack,,
+2017,Corporate,New Jersey,United States,Hackensack,,
+2014,Corporate,New Jersey,United States,Lakewood,10,461.13
+2015,Corporate,New Jersey,United States,Lakewood,10,235.97
+2016,Corporate,New Jersey,United States,Lakewood,16,9173.13
+2017,Corporate,New Jersey,United States,Lakewood,20,1047.2
+2014,Corporate,New Jersey,United States,Linden,7,115.36
+2015,Corporate,New Jersey,United States,Linden,,
+2016,Corporate,New Jersey,United States,Linden,,
+2017,Corporate,New Jersey,United States,Linden,,
+2014,Corporate,New Jersey,United States,Morristown,,
+2015,Corporate,New Jersey,United States,Morristown,,
+2016,Corporate,New Jersey,United States,Morristown,2,1793.98
+2017,Corporate,New Jersey,United States,Morristown,5,74.45
+2014,Corporate,New Jersey,United States,Orange,4,81.88000000000001
+2015,Corporate,New Jersey,United States,Orange,,
+2016,Corporate,New Jersey,United States,Orange,,
+2017,Corporate,New Jersey,United States,Orange,,
+2014,Corporate,New Jersey,United States,Paterson,,
+2015,Corporate,New Jersey,United States,Paterson,8,345.26
+2016,Corporate,New Jersey,United States,Paterson,,
+2017,Corporate,New Jersey,United States,Paterson,3,6.540000000000001
+2014,Corporate,New Jersey,United States,Perth Amboy,,
+2015,Corporate,New Jersey,United States,Perth Amboy,,
+2016,Corporate,New Jersey,United States,Perth Amboy,6,815.12
+2017,Corporate,New Jersey,United States,Perth Amboy,,
+2014,Corporate,New Jersey,United States,Plainfield,,
+2015,Corporate,New Jersey,United States,Plainfield,,
+2016,Corporate,New Jersey,United States,Plainfield,20,910.53
+2017,Corporate,New Jersey,United States,Plainfield,,
+2014,Corporate,New Jersey,United States,Vineland,,
+2015,Corporate,New Jersey,United States,Vineland,4,11.12
+2016,Corporate,New Jersey,United States,Vineland,4,239.43
+2017,Corporate,New Jersey,United States,Vineland,,
+2014,Corporate,New Jersey,United States,Westfield,,
+2015,Corporate,New Jersey,United States,Westfield,,
+2016,Corporate,New Jersey,United States,Westfield,3,31.56
+2017,Corporate,New Jersey,United States,Westfield,3,129.93
+2014,Corporate,New York,United States,Auburn,,
+2015,Corporate,New York,United States,Auburn,,
+2016,Corporate,New York,United States,Auburn,,
+2017,Corporate,New York,United States,Auburn,16,584.9800000000001
+2014,Corporate,New York,United States,Buffalo,5,199.89999999999998
+2015,Corporate,New York,United States,Buffalo,9,1522.638
+2016,Corporate,New York,United States,Buffalo,,
+2017,Corporate,New York,United States,Buffalo,7,198.54999999999998
+2014,Corporate,New York,United States,Hempstead,,
+2015,Corporate,New York,United States,Hempstead,,
+2016,Corporate,New York,United States,Hempstead,22,1671.08
+2017,Corporate,New York,United States,Hempstead,3,7.98
+2014,Corporate,New York,United States,Jamestown,2,159.98
+2015,Corporate,New York,United States,Jamestown,,
+2016,Corporate,New York,United States,Jamestown,,
+2017,Corporate,New York,United States,Jamestown,,
+2014,Corporate,New York,United States,Long Beach,16,1175.228
+2015,Corporate,New York,United States,Long Beach,20,1554.1080000000002
+2016,Corporate,New York,United States,Long Beach,6,34.38
+2017,Corporate,New York,United States,Long Beach,4,41.4
+2014,Corporate,New York,United States,Mount Vernon,3,7.752000000000001
+2015,Corporate,New York,United States,Mount Vernon,,
+2016,Corporate,New York,United States,Mount Vernon,,
+2017,Corporate,New York,United States,Mount Vernon,18,1974.71
+2014,Corporate,New York,United States,New York City,120,6896.981000000001
+2015,Corporate,New York,United States,New York City,215,17343.742
+2016,Corporate,New York,United States,New York City,337,15183.775999999996
+2017,Corporate,New York,United States,New York City,291,23958.749999999993
+2014,Corporate,New York,United States,Oceanside,5,25.951999999999998
+2015,Corporate,New York,United States,Oceanside,,
+2016,Corporate,New York,United States,Oceanside,10,405.29999999999995
+2017,Corporate,New York,United States,Oceanside,,
+2014,Corporate,New York,United States,Rochester,,
+2015,Corporate,New York,United States,Rochester,16,167.31
+2016,Corporate,New York,United States,Rochester,8,1133.6660000000002
+2017,Corporate,New York,United States,Rochester,24,194.31400000000002
+2014,Corporate,New York,United States,Rome,,
+2015,Corporate,New York,United States,Rome,1,90.882
+2016,Corporate,New York,United States,Rome,,
+2017,Corporate,New York,United States,Rome,,
+2014,Corporate,New York,United States,Troy,11,257.752
+2015,Corporate,New York,United States,Troy,,
+2016,Corporate,New York,United States,Troy,,
+2017,Corporate,New York,United States,Troy,,
+2014,Corporate,New York,United States,Utica,,
+2015,Corporate,New York,United States,Utica,,
+2016,Corporate,New York,United States,Utica,2,40.48
+2017,Corporate,New York,United States,Utica,,
+2014,Corporate,New York,United States,Watertown,10,1609.3980000000001
+2015,Corporate,New York,United States,Watertown,,
+2016,Corporate,New York,United States,Watertown,,
+2017,Corporate,New York,United States,Watertown,13,1454.844
+2014,Corporate,North Carolina,United States,Asheville,4,24.144000000000002
+2015,Corporate,North Carolina,United States,Asheville,,
+2016,Corporate,North Carolina,United States,Asheville,,
+2017,Corporate,North Carolina,United States,Asheville,8,19.008000000000003
+2014,Corporate,North Carolina,United States,Cary,16,259.04
+2015,Corporate,North Carolina,United States,Cary,3,246.168
+2016,Corporate,North Carolina,United States,Cary,,
+2017,Corporate,North Carolina,United States,Cary,,
+2014,Corporate,North Carolina,United States,Chapel Hill,,
+2015,Corporate,North Carolina,United States,Chapel Hill,,
+2016,Corporate,North Carolina,United States,Chapel Hill,,
+2017,Corporate,North Carolina,United States,Chapel Hill,3,14.015999999999998
+2014,Corporate,North Carolina,United States,Charlotte,46,1265.9840000000002
+2015,Corporate,North Carolina,United States,Charlotte,5,16.712000000000003
+2016,Corporate,North Carolina,United States,Charlotte,23,2103.132
+2017,Corporate,North Carolina,United States,Charlotte,,
+2014,Corporate,North Carolina,United States,Durham,,
+2015,Corporate,North Carolina,United States,Durham,11,341.72
+2016,Corporate,North Carolina,United States,Durham,,
+2017,Corporate,North Carolina,United States,Durham,5,30.336000000000006
+2014,Corporate,North Carolina,United States,Fayetteville,10,106.944
+2015,Corporate,North Carolina,United States,Fayetteville,7,12.158000000000003
+2016,Corporate,North Carolina,United States,Fayetteville,,
+2017,Corporate,North Carolina,United States,Fayetteville,8,198.27200000000002
+2014,Corporate,North Carolina,United States,Greensboro,,
+2015,Corporate,North Carolina,United States,Greensboro,7,64.68
+2016,Corporate,North Carolina,United States,Greensboro,8,140.183
+2017,Corporate,North Carolina,United States,Greensboro,16,1922.976
+2014,Corporate,North Carolina,United States,Greenville,,
+2015,Corporate,North Carolina,United States,Greenville,,
+2016,Corporate,North Carolina,United States,Greenville,4,17.616000000000003
+2017,Corporate,North Carolina,United States,Greenville,,
+2014,Corporate,North Carolina,United States,Jacksonville,2,88.768
+2015,Corporate,North Carolina,United States,Jacksonville,22,98.223
+2016,Corporate,North Carolina,United States,Jacksonville,,
+2017,Corporate,North Carolina,United States,Jacksonville,19,1012.446
+2014,Corporate,North Carolina,United States,Monroe,,
+2015,Corporate,North Carolina,United States,Monroe,3,207
+2016,Corporate,North Carolina,United States,Monroe,,
+2017,Corporate,North Carolina,United States,Monroe,4,103.968
+2014,Corporate,North Carolina,United States,Raleigh,,
+2015,Corporate,North Carolina,United States,Raleigh,15,246.36400000000003
+2016,Corporate,North Carolina,United States,Raleigh,,
+2017,Corporate,North Carolina,United States,Raleigh,12,1079.0120000000002
+2014,Corporate,North Carolina,United States,Wilmington,6,39.072
+2015,Corporate,North Carolina,United States,Wilmington,,
+2016,Corporate,North Carolina,United States,Wilmington,,
+2017,Corporate,North Carolina,United States,Wilmington,,
+2014,Corporate,North Carolina,United States,Wilson,,
+2015,Corporate,North Carolina,United States,Wilson,,
+2016,Corporate,North Carolina,United States,Wilson,7,191.808
+2017,Corporate,North Carolina,United States,Wilson,,
+2014,Corporate,Ohio,United States,Bowling Green,,
+2015,Corporate,Ohio,United States,Bowling Green,,
+2016,Corporate,Ohio,United States,Bowling Green,,
+2017,Corporate,Ohio,United States,Bowling Green,11,1126.294
+2014,Corporate,Ohio,United States,Cincinnati,,
+2015,Corporate,Ohio,United States,Cincinnati,,
+2016,Corporate,Ohio,United States,Cincinnati,16,889.38
+2017,Corporate,Ohio,United States,Cincinnati,4,94.78399999999999
+2014,Corporate,Ohio,United States,Columbus,57,2535.782
+2015,Corporate,Ohio,United States,Columbus,14,369.674
+2016,Corporate,Ohio,United States,Columbus,19,1252.636
+2017,Corporate,Ohio,United States,Columbus,38,856.226
+2014,Corporate,Ohio,United States,Cuyahoga Falls,,
+2015,Corporate,Ohio,United States,Cuyahoga Falls,6,8.352
+2016,Corporate,Ohio,United States,Cuyahoga Falls,,
+2017,Corporate,Ohio,United States,Cuyahoga Falls,,
+2014,Corporate,Ohio,United States,Elyria,,
+2015,Corporate,Ohio,United States,Elyria,,
+2016,Corporate,Ohio,United States,Elyria,,
+2017,Corporate,Ohio,United States,Elyria,1,1.8240000000000003
+2014,Corporate,Ohio,United States,Fairfield,6,795.4080000000001
+2015,Corporate,Ohio,United States,Fairfield,,
+2016,Corporate,Ohio,United States,Fairfield,8,537.6160000000001
+2017,Corporate,Ohio,United States,Fairfield,,
+2014,Corporate,Ohio,United States,Kent,,
+2015,Corporate,Ohio,United States,Kent,,
+2016,Corporate,Ohio,United States,Kent,6,103.96799999999999
+2017,Corporate,Ohio,United States,Kent,,
+2014,Corporate,Ohio,United States,Lakewood,,
+2015,Corporate,Ohio,United States,Lakewood,,
+2016,Corporate,Ohio,United States,Lakewood,2,661.176
+2017,Corporate,Ohio,United States,Lakewood,26,280.116
+2014,Corporate,Ohio,United States,Lancaster,,
+2015,Corporate,Ohio,United States,Lancaster,,
+2016,Corporate,Ohio,United States,Lancaster,3,2.907
+2017,Corporate,Ohio,United States,Lancaster,7,265.07200000000006
+2014,Corporate,Ohio,United States,Lorain,8,1421.664
+2015,Corporate,Ohio,United States,Lorain,,
+2016,Corporate,Ohio,United States,Lorain,9,402.645
+2017,Corporate,Ohio,United States,Lorain,,
+2014,Corporate,Ohio,United States,Marion,,
+2015,Corporate,Ohio,United States,Marion,12,1568.8620000000003
+2016,Corporate,Ohio,United States,Marion,,
+2017,Corporate,Ohio,United States,Marion,6,168
+2014,Corporate,Ohio,United States,Mason,7,94.26400000000001
+2015,Corporate,Ohio,United States,Mason,,
+2016,Corporate,Ohio,United States,Mason,,
+2017,Corporate,Ohio,United States,Mason,,
+2014,Corporate,Ohio,United States,Medina,,
+2015,Corporate,Ohio,United States,Medina,21,1816.6960000000001
+2016,Corporate,Ohio,United States,Medina,,
+2017,Corporate,Ohio,United States,Medina,,
+2014,Corporate,Ohio,United States,Newark,8,211.57600000000002
+2015,Corporate,Ohio,United States,Newark,,
+2016,Corporate,Ohio,United States,Newark,15,315.8960000000001
+2017,Corporate,Ohio,United States,Newark,27,1469.6459999999997
+2014,Corporate,Ohio,United States,Springfield,,
+2015,Corporate,Ohio,United States,Springfield,6,637.27
+2016,Corporate,Ohio,United States,Springfield,6,82.44
+2017,Corporate,Ohio,United States,Springfield,28,1621.0230000000004
+2014,Corporate,Ohio,United States,Toledo,,
+2015,Corporate,Ohio,United States,Toledo,48,795.558
+2016,Corporate,Ohio,United States,Toledo,7,259.048
+2017,Corporate,Ohio,United States,Toledo,5,17.480000000000004
+2014,Corporate,Ohio,United States,Troy,,
+2015,Corporate,Ohio,United States,Troy,9,498.49199999999996
+2016,Corporate,Ohio,United States,Troy,4,23.976
+2017,Corporate,Ohio,United States,Troy,,
+2014,Corporate,Oklahoma,United States,Broken Arrow,,
+2015,Corporate,Oklahoma,United States,Broken Arrow,,
+2016,Corporate,Oklahoma,United States,Broken Arrow,9,1604.7300000000002
+2017,Corporate,Oklahoma,United States,Broken Arrow,,
+2014,Corporate,Oklahoma,United States,Norman,,
+2015,Corporate,Oklahoma,United States,Norman,,
+2016,Corporate,Oklahoma,United States,Norman,4,63.88
+2017,Corporate,Oklahoma,United States,Norman,,
+2014,Corporate,Oklahoma,United States,Oklahoma City,,
+2015,Corporate,Oklahoma,United States,Oklahoma City,,
+2016,Corporate,Oklahoma,United States,Oklahoma City,8,94.94999999999999
+2017,Corporate,Oklahoma,United States,Oklahoma City,,
+2014,Corporate,Oklahoma,United States,Tulsa,,
+2015,Corporate,Oklahoma,United States,Tulsa,,
+2016,Corporate,Oklahoma,United States,Tulsa,18,806.1899999999999
+2017,Corporate,Oklahoma,United States,Tulsa,,
+2014,Corporate,Oregon,United States,Eugene,,
+2015,Corporate,Oregon,United States,Eugene,,
+2016,Corporate,Oregon,United States,Eugene,23,1465.032
+2017,Corporate,Oregon,United States,Eugene,,
+2014,Corporate,Oregon,United States,Gresham,,
+2015,Corporate,Oregon,United States,Gresham,,
+2016,Corporate,Oregon,United States,Gresham,4,403.168
+2017,Corporate,Oregon,United States,Gresham,,
+2014,Corporate,Oregon,United States,Hillsboro,,
+2015,Corporate,Oregon,United States,Hillsboro,,
+2016,Corporate,Oregon,United States,Hillsboro,,
+2017,Corporate,Oregon,United States,Hillsboro,10,23.766000000000002
+2014,Corporate,Oregon,United States,Medford,,
+2015,Corporate,Oregon,United States,Medford,2,9.762
+2016,Corporate,Oregon,United States,Medford,,
+2017,Corporate,Oregon,United States,Medford,,
+2014,Corporate,Oregon,United States,Portland,,
+2015,Corporate,Oregon,United States,Portland,,
+2016,Corporate,Oregon,United States,Portland,8,335.8
+2017,Corporate,Oregon,United States,Portland,7,42.28000000000001
+2014,Corporate,Oregon,United States,Redmond,,
+2015,Corporate,Oregon,United States,Redmond,,
+2016,Corporate,Oregon,United States,Redmond,,
+2017,Corporate,Oregon,United States,Redmond,12,265.299
+2014,Corporate,Oregon,United States,Salem,17,344.92
+2015,Corporate,Oregon,United States,Salem,,
+2016,Corporate,Oregon,United States,Salem,,
+2017,Corporate,Oregon,United States,Salem,,
+2014,Corporate,Oregon,United States,Springfield,4,64.864
+2015,Corporate,Oregon,United States,Springfield,43,1475.133
+2016,Corporate,Oregon,United States,Springfield,3,859.2
+2017,Corporate,Oregon,United States,Springfield,21,1209.6760000000002
+2014,Corporate,Oregon,United States,Tigard,,
+2015,Corporate,Oregon,United States,Tigard,,
+2016,Corporate,Oregon,United States,Tigard,10,65.07000000000001
+2017,Corporate,Oregon,United States,Tigard,,
+2014,Corporate,Pennsylvania,United States,Altoona,,
+2015,Corporate,Pennsylvania,United States,Altoona,9,20.451
+2016,Corporate,Pennsylvania,United States,Altoona,,
+2017,Corporate,Pennsylvania,United States,Altoona,,
+2014,Corporate,Pennsylvania,United States,Bethlehem,,
+2015,Corporate,Pennsylvania,United States,Bethlehem,4,132.94
+2016,Corporate,Pennsylvania,United States,Bethlehem,,
+2017,Corporate,Pennsylvania,United States,Bethlehem,,
+2014,Corporate,Pennsylvania,United States,Lancaster,6,44.91000000000001
+2015,Corporate,Pennsylvania,United States,Lancaster,,
+2016,Corporate,Pennsylvania,United States,Lancaster,,
+2017,Corporate,Pennsylvania,United States,Lancaster,17,462.512
+2014,Corporate,Pennsylvania,United States,Philadelphia,165,6352.806
+2015,Corporate,Pennsylvania,United States,Philadelphia,99,4420.6179999999995
+2016,Corporate,Pennsylvania,United States,Philadelphia,172,6869.597000000001
+2017,Corporate,Pennsylvania,United States,Philadelphia,230,11247.822
+2014,Corporate,Pennsylvania,United States,Reading,6,545.928
+2015,Corporate,Pennsylvania,United States,Reading,2,15.008000000000003
+2016,Corporate,Pennsylvania,United States,Reading,,
+2017,Corporate,Pennsylvania,United States,Reading,,
+2014,Corporate,Pennsylvania,United States,York,,
+2015,Corporate,Pennsylvania,United States,York,,
+2016,Corporate,Pennsylvania,United States,York,13,714.498
+2017,Corporate,Pennsylvania,United States,York,6,103.48
+2014,Corporate,Rhode Island,United States,Providence,,
+2015,Corporate,Rhode Island,United States,Providence,9,599.8999999999999
+2016,Corporate,Rhode Island,United States,Providence,2,12.96
+2017,Corporate,Rhode Island,United States,Providence,9,986.1199999999999
+2014,Corporate,Rhode Island,United States,Warwick,,
+2015,Corporate,Rhode Island,United States,Warwick,,
+2016,Corporate,Rhode Island,United States,Warwick,6,2111.92
+2017,Corporate,Rhode Island,United States,Warwick,8,314.91999999999996
+2014,Corporate,Rhode Island,United States,Woonsocket,,
+2015,Corporate,Rhode Island,United States,Woonsocket,3,51.449999999999996
+2016,Corporate,Rhode Island,United States,Woonsocket,,
+2017,Corporate,Rhode Island,United States,Woonsocket,10,91.14
+2014,Corporate,South Carolina,United States,Florence,,
+2015,Corporate,South Carolina,United States,Florence,,
+2016,Corporate,South Carolina,United States,Florence,,
+2017,Corporate,South Carolina,United States,Florence,15,813.21
+2014,Corporate,South Carolina,United States,North Charleston,,
+2015,Corporate,South Carolina,United States,North Charleston,,
+2016,Corporate,South Carolina,United States,North Charleston,,
+2017,Corporate,South Carolina,United States,North Charleston,2,14.76
+2014,Corporate,South Carolina,United States,Summerville,,
+2015,Corporate,South Carolina,United States,Summerville,,
+2016,Corporate,South Carolina,United States,Summerville,,
+2017,Corporate,South Carolina,United States,Summerville,10,406.93999999999994
+2014,Corporate,South Dakota,United States,Rapid City,4,152.64000000000001
+2015,Corporate,South Dakota,United States,Rapid City,,
+2016,Corporate,South Dakota,United States,Rapid City,,
+2017,Corporate,South Dakota,United States,Rapid City,,
+2014,Corporate,South Dakota,United States,Sioux Falls,6,9.510000000000002
+2015,Corporate,South Dakota,United States,Sioux Falls,,
+2016,Corporate,South Dakota,United States,Sioux Falls,,
+2017,Corporate,South Dakota,United States,Sioux Falls,22,1107.6799999999998
+2014,Corporate,Tennessee,United States,Bristol,3,170.35200000000003
+2015,Corporate,Tennessee,United States,Bristol,1,157.79400000000004
+2016,Corporate,Tennessee,United States,Bristol,7,40.896
+2017,Corporate,Tennessee,United States,Bristol,,
+2014,Corporate,Tennessee,United States,Chattanooga,,
+2015,Corporate,Tennessee,United States,Chattanooga,,
+2016,Corporate,Tennessee,United States,Chattanooga,4,132.22400000000002
+2017,Corporate,Tennessee,United States,Chattanooga,5,8.100000000000001
+2014,Corporate,Tennessee,United States,Jackson,,
+2015,Corporate,Tennessee,United States,Jackson,11,692.472
+2016,Corporate,Tennessee,United States,Jackson,,
+2017,Corporate,Tennessee,United States,Jackson,,
+2014,Corporate,Tennessee,United States,Knoxville,9,431.31000000000006
+2015,Corporate,Tennessee,United States,Knoxville,,
+2016,Corporate,Tennessee,United States,Knoxville,,
+2017,Corporate,Tennessee,United States,Knoxville,10,342.23999999999995
+2014,Corporate,Tennessee,United States,Murfreesboro,,
+2015,Corporate,Tennessee,United States,Murfreesboro,26,306.9890000000001
+2016,Corporate,Tennessee,United States,Murfreesboro,3,14.352000000000002
+2017,Corporate,Tennessee,United States,Murfreesboro,1,15.991999999999999
+2014,Corporate,Tennessee,United States,Smyrna,1,67.194
+2015,Corporate,Tennessee,United States,Smyrna,11,670.001
+2016,Corporate,Tennessee,United States,Smyrna,11,104.712
+2017,Corporate,Tennessee,United States,Smyrna,,
+2014,Corporate,Texas,United States,Baytown,,
+2015,Corporate,Texas,United States,Baytown,2,10.368000000000002
+2016,Corporate,Texas,United States,Baytown,,
+2017,Corporate,Texas,United States,Baytown,,
+2014,Corporate,Texas,United States,Beaumont,,
+2015,Corporate,Texas,United States,Beaumont,,
+2016,Corporate,Texas,United States,Beaumont,,
+2017,Corporate,Texas,United States,Beaumont,2,12.768
+2014,Corporate,Texas,United States,Brownsville,5,247.78400000000002
+2015,Corporate,Texas,United States,Brownsville,,
+2016,Corporate,Texas,United States,Brownsville,,
+2017,Corporate,Texas,United States,Brownsville,,
+2014,Corporate,Texas,United States,Bryan,,
+2015,Corporate,Texas,United States,Bryan,,
+2016,Corporate,Texas,United States,Bryan,12,550.8159999999999
+2017,Corporate,Texas,United States,Bryan,,
+2014,Corporate,Texas,United States,Cedar Hill,,
+2015,Corporate,Texas,United States,Cedar Hill,,
+2016,Corporate,Texas,United States,Cedar Hill,,
+2017,Corporate,Texas,United States,Cedar Hill,3,115.296
+2014,Corporate,Texas,United States,Coppell,,
+2015,Corporate,Texas,United States,Coppell,4,95.84
+2016,Corporate,Texas,United States,Coppell,,
+2017,Corporate,Texas,United States,Coppell,,
+2014,Corporate,Texas,United States,Dallas,35,1153.638
+2015,Corporate,Texas,United States,Dallas,31,1898.2910000000002
+2016,Corporate,Texas,United States,Dallas,39,1201.748
+2017,Corporate,Texas,United States,Dallas,87,3461.0361999999996
+2014,Corporate,Texas,United States,Deer Park,,
+2015,Corporate,Texas,United States,Deer Park,,
+2016,Corporate,Texas,United States,Deer Park,6,6.923999999999998
+2017,Corporate,Texas,United States,Deer Park,,
+2014,Corporate,Texas,United States,Fort Worth,,
+2015,Corporate,Texas,United States,Fort Worth,12,39.60799999999999
+2016,Corporate,Texas,United States,Fort Worth,6,39.792
+2017,Corporate,Texas,United States,Fort Worth,30,1660.5904
+2014,Corporate,Texas,United States,Grapevine,,
+2015,Corporate,Texas,United States,Grapevine,,
+2016,Corporate,Texas,United States,Grapevine,12,41.528000000000006
+2017,Corporate,Texas,United States,Grapevine,,
+2014,Corporate,Texas,United States,Haltom City,,
+2015,Corporate,Texas,United States,Haltom City,13,269.32800000000003
+2016,Corporate,Texas,United States,Haltom City,,
+2017,Corporate,Texas,United States,Haltom City,,
+2014,Corporate,Texas,United States,Houston,58,7395.7991999999995
+2015,Corporate,Texas,United States,Houston,110,5094.416600000001
+2016,Corporate,Texas,United States,Houston,128,5448.743
+2017,Corporate,Texas,United States,Houston,86,4044.2079999999996
+2014,Corporate,Texas,United States,Huntsville,27,2701.734
+2015,Corporate,Texas,United States,Huntsville,,
+2016,Corporate,Texas,United States,Huntsville,20,1526.5667999999998
+2017,Corporate,Texas,United States,Huntsville,,
+2014,Corporate,Texas,United States,Irving,,
+2015,Corporate,Texas,United States,Irving,,
+2016,Corporate,Texas,United States,Irving,4,15.936000000000002
+2017,Corporate,Texas,United States,Irving,,
+2014,Corporate,Texas,United States,Laredo,13,609.6140000000001
+2015,Corporate,Texas,United States,Laredo,,
+2016,Corporate,Texas,United States,Laredo,,
+2017,Corporate,Texas,United States,Laredo,,
+2014,Corporate,Texas,United States,Lubbock,,
+2015,Corporate,Texas,United States,Lubbock,,
+2016,Corporate,Texas,United States,Lubbock,,
+2017,Corporate,Texas,United States,Lubbock,2,9.248000000000001
+2014,Corporate,Texas,United States,Mansfield,,
+2015,Corporate,Texas,United States,Mansfield,,
+2016,Corporate,Texas,United States,Mansfield,,
+2017,Corporate,Texas,United States,Mansfield,8,41.47200000000001
+2014,Corporate,Texas,United States,Mcallen,,
+2015,Corporate,Texas,United States,Mcallen,21,544.41
+2016,Corporate,Texas,United States,Mcallen,,
+2017,Corporate,Texas,United States,Mcallen,10,17.798
+2014,Corporate,Texas,United States,Mesquite,13,46.964
+2015,Corporate,Texas,United States,Mesquite,,
+2016,Corporate,Texas,United States,Mesquite,,
+2017,Corporate,Texas,United States,Mesquite,1,5.184000000000001
+2014,Corporate,Texas,United States,Missouri City,,
+2015,Corporate,Texas,United States,Missouri City,,
+2016,Corporate,Texas,United States,Missouri City,,
+2017,Corporate,Texas,United States,Missouri City,7,6.369999999999998
+2014,Corporate,Texas,United States,Odessa,,
+2015,Corporate,Texas,United States,Odessa,,
+2016,Corporate,Texas,United States,Odessa,12,606.2139999999998
+2017,Corporate,Texas,United States,Odessa,4,29.793999999999997
+2014,Corporate,Texas,United States,Pasadena,4,20.736000000000004
+2015,Corporate,Texas,United States,Pasadena,,
+2016,Corporate,Texas,United States,Pasadena,8,1184.6999999999998
+2017,Corporate,Texas,United States,Pasadena,7,22.264
+2014,Corporate,Texas,United States,Pearland,,
+2015,Corporate,Texas,United States,Pearland,,
+2016,Corporate,Texas,United States,Pearland,,
+2017,Corporate,Texas,United States,Pearland,10,24.619999999999997
+2014,Corporate,Texas,United States,Plano,,
+2015,Corporate,Texas,United States,Plano,,
+2016,Corporate,Texas,United States,Plano,,
+2017,Corporate,Texas,United States,Plano,4,9.856000000000002
+2014,Corporate,Texas,United States,Port Arthur,1,5.184000000000001
+2015,Corporate,Texas,United States,Port Arthur,5,697.8208
+2016,Corporate,Texas,United States,Port Arthur,,
+2017,Corporate,Texas,United States,Port Arthur,,
+2014,Corporate,Texas,United States,Richardson,,
+2015,Corporate,Texas,United States,Richardson,,
+2016,Corporate,Texas,United States,Richardson,12,1288.4640000000004
+2017,Corporate,Texas,United States,Richardson,,
+2014,Corporate,Texas,United States,Round Rock,,
+2015,Corporate,Texas,United States,Round Rock,,
+2016,Corporate,Texas,United States,Round Rock,,
+2017,Corporate,Texas,United States,Round Rock,5,341.96
+2014,Corporate,Texas,United States,San Angelo,,
+2015,Corporate,Texas,United States,San Angelo,,
+2016,Corporate,Texas,United States,San Angelo,,
+2017,Corporate,Texas,United States,San Angelo,2,305.312
+2014,Corporate,Texas,United States,San Antonio,11,1116.822
+2015,Corporate,Texas,United States,San Antonio,49,1362.8120000000004
+2016,Corporate,Texas,United States,San Antonio,10,376.64000000000004
+2017,Corporate,Texas,United States,San Antonio,24,786.0359999999998
+2014,Corporate,Texas,United States,San Marcos,12,108.44399999999999
+2015,Corporate,Texas,United States,San Marcos,,
+2016,Corporate,Texas,United States,San Marcos,,
+2017,Corporate,Texas,United States,San Marcos,,
+2014,Corporate,Texas,United States,Waco,,
+2015,Corporate,Texas,United States,Waco,,
+2016,Corporate,Texas,United States,Waco,,
+2017,Corporate,Texas,United States,Waco,1,0.5559999999999998
+2014,Corporate,Utah,United States,Lehi,,
+2015,Corporate,Utah,United States,Lehi,3,16.776000000000003
+2016,Corporate,Utah,United States,Lehi,,
+2017,Corporate,Utah,United States,Lehi,,
+2014,Corporate,Utah,United States,Orem,,
+2015,Corporate,Utah,United States,Orem,,
+2016,Corporate,Utah,United States,Orem,,
+2017,Corporate,Utah,United States,Orem,2,11.68
+2014,Corporate,Utah,United States,Pleasant Grove,,
+2015,Corporate,Utah,United States,Pleasant Grove,3,12.144
+2016,Corporate,Utah,United States,Pleasant Grove,,
+2017,Corporate,Utah,United States,Pleasant Grove,,
+2014,Corporate,Utah,United States,Provo,7,21.98
+2015,Corporate,Utah,United States,Provo,,
+2016,Corporate,Utah,United States,Provo,,
+2017,Corporate,Utah,United States,Provo,21,1782.1040000000003
+2014,Corporate,Virginia,United States,Chesapeake,10,321.56
+2015,Corporate,Virginia,United States,Chesapeake,8,125.64
+2016,Corporate,Virginia,United States,Chesapeake,,
+2017,Corporate,Virginia,United States,Chesapeake,,
+2014,Corporate,Virginia,United States,Newport News,10,788.86
+2015,Corporate,Virginia,United States,Newport News,,
+2016,Corporate,Virginia,United States,Newport News,,
+2017,Corporate,Virginia,United States,Newport News,,
+2014,Corporate,Virginia,United States,Richmond,3,13.620000000000001
+2015,Corporate,Virginia,United States,Richmond,9,46.62
+2016,Corporate,Virginia,United States,Richmond,12,2145.2499999999995
+2017,Corporate,Virginia,United States,Richmond,,
+2014,Corporate,Virginia,United States,Springfield,36,5636.399999999999
+2015,Corporate,Virginia,United States,Springfield,17,1704.21
+2016,Corporate,Virginia,United States,Springfield,53,5819.12
+2017,Corporate,Virginia,United States,Springfield,,
+2014,Corporate,Virginia,United States,Suffolk,,
+2015,Corporate,Virginia,United States,Suffolk,8,176.63
+2016,Corporate,Virginia,United States,Suffolk,,
+2017,Corporate,Virginia,United States,Suffolk,8,1065.8400000000001
+2014,Corporate,Virginia,United States,Virginia Beach,12,3511.5800000000004
+2015,Corporate,Virginia,United States,Virginia Beach,,
+2016,Corporate,Virginia,United States,Virginia Beach,4,10.96
+2017,Corporate,Virginia,United States,Virginia Beach,,
+2014,Corporate,Washington,United States,Bellevue,,
+2015,Corporate,Washington,United States,Bellevue,3,5.28
+2016,Corporate,Washington,United States,Bellevue,,
+2017,Corporate,Washington,United States,Bellevue,,
+2014,Corporate,Washington,United States,Bellingham,,
+2015,Corporate,Washington,United States,Bellingham,,
+2016,Corporate,Washington,United States,Bellingham,,
+2017,Corporate,Washington,United States,Bellingham,10,1099.5
+2014,Corporate,Washington,United States,Covington,,
+2015,Corporate,Washington,United States,Covington,5,46.900000000000006
+2016,Corporate,Washington,United States,Covington,,
+2017,Corporate,Washington,United States,Covington,,
+2014,Corporate,Washington,United States,Edmonds,,
+2015,Corporate,Washington,United States,Edmonds,,
+2016,Corporate,Washington,United States,Edmonds,3,179.97
+2017,Corporate,Washington,United States,Edmonds,,
+2014,Corporate,Washington,United States,Everett,,
+2015,Corporate,Washington,United States,Everett,,
+2016,Corporate,Washington,United States,Everett,,
+2017,Corporate,Washington,United States,Everett,1,3.8560000000000003
+2014,Corporate,Washington,United States,Seattle,119,7951.211999999999
+2015,Corporate,Washington,United States,Seattle,41,8635.466
+2016,Corporate,Washington,United States,Seattle,106,3991.646
+2017,Corporate,Washington,United States,Seattle,223,15613.566000000006
+2014,Corporate,Washington,United States,Spokane,,
+2015,Corporate,Washington,United States,Spokane,,
+2016,Corporate,Washington,United States,Spokane,3,837.5999999999999
+2017,Corporate,Washington,United States,Spokane,9,719.2980000000001
+2014,Corporate,Washington,United States,Vancouver,,
+2015,Corporate,Washington,United States,Vancouver,,
+2016,Corporate,Washington,United States,Vancouver,11,633.1759999999999
+2017,Corporate,Washington,United States,Vancouver,2,9.64
+2014,Corporate,Wisconsin,United States,Eau Claire,,
+2015,Corporate,Wisconsin,United States,Eau Claire,,
+2016,Corporate,Wisconsin,United States,Eau Claire,,
+2017,Corporate,Wisconsin,United States,Eau Claire,2,32.56
+2014,Corporate,Wisconsin,United States,Green Bay,,
+2015,Corporate,Wisconsin,United States,Green Bay,,
+2016,Corporate,Wisconsin,United States,Green Bay,4,35.7
+2017,Corporate,Wisconsin,United States,Green Bay,4,22.72
+2014,Corporate,Wisconsin,United States,Kenosha,,
+2015,Corporate,Wisconsin,United States,Kenosha,10,974.9000000000001
+2016,Corporate,Wisconsin,United States,Kenosha,,
+2017,Corporate,Wisconsin,United States,Kenosha,,
+2014,Corporate,Wisconsin,United States,La Crosse,,
+2015,Corporate,Wisconsin,United States,La Crosse,,
+2016,Corporate,Wisconsin,United States,La Crosse,19,773.5899999999999
+2017,Corporate,Wisconsin,United States,La Crosse,,
+2014,Corporate,Wisconsin,United States,West Allis,,
+2015,Corporate,Wisconsin,United States,West Allis,,
+2016,Corporate,Wisconsin,United States,West Allis,5,250.48000000000002
+2017,Corporate,Wisconsin,United States,West Allis,,
+2014,Home Office,California,United States,Apple Valley,,
+2015,Home Office,California,United States,Apple Valley,,
+2016,Home Office,California,United States,Apple Valley,,
+2017,Home Office,California,United States,Apple Valley,5,56.136
+2014,Home Office,California,United States,Brentwood,,
+2015,Home Office,California,United States,Brentwood,,
+2016,Home Office,California,United States,Brentwood,,
+2017,Home Office,California,United States,Brentwood,10,821.5140000000001
+2014,Home Office,California,United States,Burbank,13,3247.1580000000004
+2015,Home Office,California,United States,Burbank,,
+2016,Home Office,California,United States,Burbank,,
+2017,Home Office,California,United States,Burbank,,
+2014,Home Office,California,United States,Chico,,
+2015,Home Office,California,United States,Chico,12,1242.8960000000002
+2016,Home Office,California,United States,Chico,,
+2017,Home Office,California,United States,Chico,,
+2014,Home Office,California,United States,Chula Vista,,
+2015,Home Office,California,United States,Chula Vista,6,665.88
+2016,Home Office,California,United States,Chula Vista,,
+2017,Home Office,California,United States,Chula Vista,,
+2014,Home Office,California,United States,Concord,5,499.55199999999996
+2015,Home Office,California,United States,Concord,,
+2016,Home Office,California,United States,Concord,,
+2017,Home Office,California,United States,Concord,,
+2014,Home Office,California,United States,Costa Mesa,,
+2015,Home Office,California,United States,Costa Mesa,,
+2016,Home Office,California,United States,Costa Mesa,,
+2017,Home Office,California,United States,Costa Mesa,6,277.71
+2014,Home Office,California,United States,Danville,,
+2015,Home Office,California,United States,Danville,,
+2016,Home Office,California,United States,Danville,,
+2017,Home Office,California,United States,Danville,31,1158.882
+2014,Home Office,California,United States,El Cajon,2,478.48
+2015,Home Office,California,United States,El Cajon,,
+2016,Home Office,California,United States,El Cajon,,
+2017,Home Office,California,United States,El Cajon,,
+2014,Home Office,California,United States,Escondido,,
+2015,Home Office,California,United States,Escondido,,
+2016,Home Office,California,United States,Escondido,,
+2017,Home Office,California,United States,Escondido,4,23.36
+2014,Home Office,California,United States,Huntington Beach,,
+2015,Home Office,California,United States,Huntington Beach,,
+2016,Home Office,California,United States,Huntington Beach,1,12.78
+2017,Home Office,California,United States,Huntington Beach,,
+2014,Home Office,California,United States,La Mesa,,
+2015,Home Office,California,United States,La Mesa,,
+2016,Home Office,California,United States,La Mesa,,
+2017,Home Office,California,United States,La Mesa,8,367.53
+2014,Home Office,California,United States,Laguna Niguel,,
+2015,Home Office,California,United States,Laguna Niguel,,
+2016,Home Office,California,United States,Laguna Niguel,2,12.96
+2017,Home Office,California,United States,Laguna Niguel,2,203.98299999999998
+2014,Home Office,California,United States,Lake Forest,,
+2015,Home Office,California,United States,Lake Forest,,
+2016,Home Office,California,United States,Lake Forest,10,1027.6760000000002
+2017,Home Office,California,United States,Lake Forest,,
+2014,Home Office,California,United States,Lakewood,6,321.552
+2015,Home Office,California,United States,Lakewood,,
+2016,Home Office,California,United States,Lakewood,,
+2017,Home Office,California,United States,Lakewood,10,868.4520000000001
+2014,Home Office,California,United States,Lancaster,,
+2015,Home Office,California,United States,Lancaster,,
+2016,Home Office,California,United States,Lancaster,6,100.16000000000001
+2017,Home Office,California,United States,Lancaster,,
+2014,Home Office,California,United States,Long Beach,,
+2015,Home Office,California,United States,Long Beach,,
+2016,Home Office,California,United States,Long Beach,12,80.28
+2017,Home Office,California,United States,Long Beach,12,2089.4120000000003
+2014,Home Office,California,United States,Los Angeles,158,5215.234
+2015,Home Office,California,United States,Los Angeles,93,6675.478
+2016,Home Office,California,United States,Los Angeles,134,11948.950999999997
+2017,Home Office,California,United States,Los Angeles,129,15548.798999999997
+2014,Home Office,California,United States,Manteca,5,137.632
+2015,Home Office,California,United States,Manteca,,
+2016,Home Office,California,United States,Manteca,,
+2017,Home Office,California,United States,Manteca,3,314.54999999999995
+2014,Home Office,California,United States,Moreno Valley,10,107.34599999999999
+2015,Home Office,California,United States,Moreno Valley,,
+2016,Home Office,California,United States,Moreno Valley,,
+2017,Home Office,California,United States,Moreno Valley,,
+2014,Home Office,California,United States,Oakland,,
+2015,Home Office,California,United States,Oakland,8,454.27200000000005
+2016,Home Office,California,United States,Oakland,1,34.58
+2017,Home Office,California,United States,Oakland,,
+2014,Home Office,California,United States,Oceanside,,
+2015,Home Office,California,United States,Oceanside,,
+2016,Home Office,California,United States,Oceanside,2,12.9
+2017,Home Office,California,United States,Oceanside,,
+2014,Home Office,California,United States,Oxnard,,
+2015,Home Office,California,United States,Oxnard,,
+2016,Home Office,California,United States,Oxnard,9,1215.7200000000003
+2017,Home Office,California,United States,Oxnard,,
+2014,Home Office,California,United States,Pasadena,,
+2015,Home Office,California,United States,Pasadena,,
+2016,Home Office,California,United States,Pasadena,,
+2017,Home Office,California,United States,Pasadena,10,739.7360000000001
+2014,Home Office,California,United States,Pico Rivera,,
+2015,Home Office,California,United States,Pico Rivera,,
+2016,Home Office,California,United States,Pico Rivera,,
+2017,Home Office,California,United States,Pico Rivera,5,145.9
+2014,Home Office,California,United States,Riverside,,
+2015,Home Office,California,United States,Riverside,,
+2016,Home Office,California,United States,Riverside,7,51.18400000000001
+2017,Home Office,California,United States,Riverside,3,7.800000000000001
+2014,Home Office,California,United States,Roseville,,
+2015,Home Office,California,United States,Roseville,2,2.48
+2016,Home Office,California,United States,Roseville,,
+2017,Home Office,California,United States,Roseville,,
+2014,Home Office,California,United States,Sacramento,,
+2015,Home Office,California,United States,Sacramento,3,60.84
+2016,Home Office,California,United States,Sacramento,1,9.98
+2017,Home Office,California,United States,Sacramento,,
+2014,Home Office,California,United States,Salinas,,
+2015,Home Office,California,United States,Salinas,,
+2016,Home Office,California,United States,Salinas,,
+2017,Home Office,California,United States,Salinas,3,148.257
+2014,Home Office,California,United States,San Bernardino,,
+2015,Home Office,California,United States,San Bernardino,4,110.528
+2016,Home Office,California,United States,San Bernardino,,
+2017,Home Office,California,United States,San Bernardino,,
+2014,Home Office,California,United States,San Diego,34,787.198
+2015,Home Office,California,United States,San Diego,25,3821.08
+2016,Home Office,California,United States,San Diego,17,1060.228
+2017,Home Office,California,United States,San Diego,39,2007.8439999999998
+2014,Home Office,California,United States,San Francisco,62,2401.653
+2015,Home Office,California,United States,San Francisco,46,1130.1200000000001
+2016,Home Office,California,United States,San Francisco,62,1211.9579999999996
+2017,Home Office,California,United States,San Francisco,172,4126.422
+2014,Home Office,California,United States,San Gabriel,13,2061.01
+2015,Home Office,California,United States,San Gabriel,,
+2016,Home Office,California,United States,San Gabriel,,
+2017,Home Office,California,United States,San Gabriel,,
+2014,Home Office,California,United States,San Jose,3,76.14
+2015,Home Office,California,United States,San Jose,3,13.847999999999999
+2016,Home Office,California,United States,San Jose,5,29.120000000000005
+2017,Home Office,California,United States,San Jose,,
+2014,Home Office,California,United States,Santa Ana,,
+2015,Home Office,California,United States,Santa Ana,2,56.3
+2016,Home Office,California,United States,Santa Ana,7,20.16
+2017,Home Office,California,United States,Santa Ana,,
+2014,Home Office,California,United States,Santa Barbara,,
+2015,Home Office,California,United States,Santa Barbara,,
+2016,Home Office,California,United States,Santa Barbara,14,3528.4880000000003
+2017,Home Office,California,United States,Santa Barbara,1,1.81
+2014,Home Office,California,United States,Stockton,,
+2015,Home Office,California,United States,Stockton,,
+2016,Home Office,California,United States,Stockton,,
+2017,Home Office,California,United States,Stockton,9,629.64
+2014,Home Office,California,United States,Thousand Oaks,,
+2015,Home Office,California,United States,Thousand Oaks,5,32.75
+2016,Home Office,California,United States,Thousand Oaks,,
+2017,Home Office,California,United States,Thousand Oaks,,
+2014,Home Office,California,United States,Vallejo,,
+2015,Home Office,California,United States,Vallejo,,
+2016,Home Office,California,United States,Vallejo,9,1064.624
+2017,Home Office,California,United States,Vallejo,,
+2014,Home Office,Connecticut,United States,Danbury,,
+2015,Home Office,Connecticut,United States,Danbury,,
+2016,Home Office,Connecticut,United States,Danbury,,
+2017,Home Office,Connecticut,United States,Danbury,2,27.46
+2014,Home Office,Connecticut,United States,Fairfield,,
+2015,Home Office,Connecticut,United States,Fairfield,,
+2016,Home Office,Connecticut,United States,Fairfield,,
+2017,Home Office,Connecticut,United States,Fairfield,6,916.5900000000001
+2014,Home Office,Connecticut,United States,Meriden,,
+2015,Home Office,Connecticut,United States,Meriden,,
+2016,Home Office,Connecticut,United States,Meriden,,
+2017,Home Office,Connecticut,United States,Meriden,4,11.12
+2014,Home Office,Connecticut,United States,Norwich,,
+2015,Home Office,Connecticut,United States,Norwich,6,22.200000000000003
+2016,Home Office,Connecticut,United States,Norwich,,
+2017,Home Office,Connecticut,United States,Norwich,,
+2014,Home Office,Connecticut,United States,Shelton,,
+2015,Home Office,Connecticut,United States,Shelton,,
+2016,Home Office,Connecticut,United States,Shelton,5,73.33
+2017,Home Office,Connecticut,United States,Shelton,,
+2014,Home Office,Connecticut,United States,Waterbury,,
+2015,Home Office,Connecticut,United States,Waterbury,,
+2016,Home Office,Connecticut,United States,Waterbury,,
+2017,Home Office,Connecticut,United States,Waterbury,10,484.74
+2014,Home Office,Florida,United States,Apopka,,
+2015,Home Office,Florida,United States,Apopka,,
+2016,Home Office,Florida,United States,Apopka,5,681.4320000000001
+2017,Home Office,Florida,United States,Apopka,,
+2014,Home Office,Florida,United States,Boynton Beach,,
+2015,Home Office,Florida,United States,Boynton Beach,,
+2016,Home Office,Florida,United States,Boynton Beach,,
+2017,Home Office,Florida,United States,Boynton Beach,8,32.088
+2014,Home Office,Florida,United States,Deltona,,
+2015,Home Office,Florida,United States,Deltona,,
+2016,Home Office,Florida,United States,Deltona,,
+2017,Home Office,Florida,United States,Deltona,4,17.856
+2014,Home Office,Florida,United States,Fort Lauderdale,12,810.2880000000001
+2015,Home Office,Florida,United States,Fort Lauderdale,,
+2016,Home Office,Florida,United States,Fort Lauderdale,10,74.32000000000001
+2017,Home Office,Florida,United States,Fort Lauderdale,4,188.608
+2014,Home Office,Florida,United States,Jacksonville,31,23752.284
+2015,Home Office,Florida,United States,Jacksonville,9,1422.8880000000001
+2016,Home Office,Florida,United States,Jacksonville,1,5.08
+2017,Home Office,Florida,United States,Jacksonville,11,926.5840000000001
+2014,Home Office,Florida,United States,Lakeland,,
+2015,Home Office,Florida,United States,Lakeland,,
+2016,Home Office,Florida,United States,Lakeland,,
+2017,Home Office,Florida,United States,Lakeland,6,729.6480000000001
+2014,Home Office,Florida,United States,Miami,27,457.7439999999999
+2015,Home Office,Florida,United States,Miami,2,11.696
+2016,Home Office,Florida,United States,Miami,17,66.49600000000001
+2017,Home Office,Florida,United States,Miami,3,71.976
+2014,Home Office,Florida,United States,Miramar,,
+2015,Home Office,Florida,United States,Miramar,,
+2016,Home Office,Florida,United States,Miramar,,
+2017,Home Office,Florida,United States,Miramar,4,419.13599999999997
+2014,Home Office,Florida,United States,Sanford,,
+2015,Home Office,Florida,United States,Sanford,,
+2016,Home Office,Florida,United States,Sanford,,
+2017,Home Office,Florida,United States,Sanford,9,225.54600000000002
+2014,Home Office,Florida,United States,Tallahassee,,
+2015,Home Office,Florida,United States,Tallahassee,,
+2016,Home Office,Florida,United States,Tallahassee,10,702.7040000000002
+2017,Home Office,Florida,United States,Tallahassee,,
+2014,Home Office,Florida,United States,Tamarac,,
+2015,Home Office,Florida,United States,Tamarac,1,3.444000000000001
+2016,Home Office,Florida,United States,Tamarac,,
+2017,Home Office,Florida,United States,Tamarac,,
+2014,Home Office,Florida,United States,Tampa,,
+2015,Home Office,Florida,United States,Tampa,,
+2016,Home Office,Florida,United States,Tampa,8,471.07800000000003
+2017,Home Office,Florida,United States,Tampa,18,1781.5105000000003
+2014,Home Office,Florida,United States,West Palm Beach,,
+2015,Home Office,Florida,United States,West Palm Beach,5,13.120000000000001
+2016,Home Office,Florida,United States,West Palm Beach,,
+2017,Home Office,Florida,United States,West Palm Beach,,
+2014,Home Office,Georgia,United States,Columbus,,
+2015,Home Office,Georgia,United States,Columbus,,
+2016,Home Office,Georgia,United States,Columbus,29,1999.0299999999997
+2017,Home Office,Georgia,United States,Columbus,29,1697.5800000000002
+2014,Home Office,Georgia,United States,Marietta,12,259.28999999999996
+2015,Home Office,Georgia,United States,Marietta,,
+2016,Home Office,Georgia,United States,Marietta,,
+2017,Home Office,Georgia,United States,Marietta,,
+2014,Home Office,Georgia,United States,Roswell,,
+2015,Home Office,Georgia,United States,Roswell,,
+2016,Home Office,Georgia,United States,Roswell,,
+2017,Home Office,Georgia,United States,Roswell,7,830.24
+2014,Home Office,Georgia,United States,Sandy Springs,,
+2015,Home Office,Georgia,United States,Sandy Springs,,
+2016,Home Office,Georgia,United States,Sandy Springs,,
+2017,Home Office,Georgia,United States,Sandy Springs,15,148.16000000000003
+2014,Home Office,Georgia,United States,Smyrna,,
+2015,Home Office,Georgia,United States,Smyrna,7,260.31
+2016,Home Office,Georgia,United States,Smyrna,41,2075.51
+2017,Home Office,Georgia,United States,Smyrna,,
+2014,Home Office,Illinois,United States,Aurora,11,68.204
+2015,Home Office,Illinois,United States,Aurora,14,904.1790000000001
+2016,Home Office,Illinois,United States,Aurora,20,1103.88
+2017,Home Office,Illinois,United States,Aurora,6,298.464
+2014,Home Office,Illinois,United States,Bolingbrook,5,9.979999999999997
+2015,Home Office,Illinois,United States,Bolingbrook,,
+2016,Home Office,Illinois,United States,Bolingbrook,,
+2017,Home Office,Illinois,United States,Bolingbrook,,
+2014,Home Office,Illinois,United States,Chicago,26,1567.612
+2015,Home Office,Illinois,United States,Chicago,16,489.659
+2016,Home Office,Illinois,United States,Chicago,46,3283.291
+2017,Home Office,Illinois,United States,Chicago,117,6813.956999999999
+2014,Home Office,Illinois,United States,Danville,,
+2015,Home Office,Illinois,United States,Danville,,
+2016,Home Office,Illinois,United States,Danville,,
+2017,Home Office,Illinois,United States,Danville,7,43.37199999999999
+2014,Home Office,Illinois,United States,Elmhurst,9,651.588
+2015,Home Office,Illinois,United States,Elmhurst,,
+2016,Home Office,Illinois,United States,Elmhurst,5,240.04000000000002
+2017,Home Office,Illinois,United States,Elmhurst,,
+2014,Home Office,Illinois,United States,Highland Park,,
+2015,Home Office,Illinois,United States,Highland Park,,
+2016,Home Office,Illinois,United States,Highland Park,2,3.1359999999999992
+2017,Home Office,Illinois,United States,Highland Park,,
+2014,Home Office,Illinois,United States,Naperville,8,288.06
+2015,Home Office,Illinois,United States,Naperville,,
+2016,Home Office,Illinois,United States,Naperville,,
+2017,Home Office,Illinois,United States,Naperville,,
+2014,Home Office,Illinois,United States,Normal,,
+2015,Home Office,Illinois,United States,Normal,4,366.74399999999997
+2016,Home Office,Illinois,United States,Normal,,
+2017,Home Office,Illinois,United States,Normal,,
+2014,Home Office,Illinois,United States,Orland Park,,
+2015,Home Office,Illinois,United States,Orland Park,5,339.96000000000004
+2016,Home Office,Illinois,United States,Orland Park,,
+2017,Home Office,Illinois,United States,Orland Park,,
+2014,Home Office,Illinois,United States,Park Ridge,,
+2015,Home Office,Illinois,United States,Park Ridge,7,254.74400000000003
+2016,Home Office,Illinois,United States,Park Ridge,1,286.40000000000003
+2017,Home Office,Illinois,United States,Park Ridge,,
+2014,Home Office,Illinois,United States,Peoria,,
+2015,Home Office,Illinois,United States,Peoria,3,359.05799999999994
+2016,Home Office,Illinois,United States,Peoria,,
+2017,Home Office,Illinois,United States,Peoria,,
+2014,Home Office,Illinois,United States,Rockford,,
+2015,Home Office,Illinois,United States,Rockford,,
+2016,Home Office,Illinois,United States,Rockford,4,11.415999999999997
+2017,Home Office,Illinois,United States,Rockford,14,254.60399999999998
+2014,Home Office,Illinois,United States,Saint Charles,3,8.736
+2015,Home Office,Illinois,United States,Saint Charles,15,1349.63
+2016,Home Office,Illinois,United States,Saint Charles,,
+2017,Home Office,Illinois,United States,Saint Charles,,
+2014,Home Office,Illinois,United States,Woodstock,,
+2015,Home Office,Illinois,United States,Woodstock,,
+2016,Home Office,Illinois,United States,Woodstock,,
+2017,Home Office,Illinois,United States,Woodstock,2,2.9120000000000004
+2014,Home Office,Indiana,United States,Bloomington,20,308.59999999999997
+2015,Home Office,Indiana,United States,Bloomington,,
+2016,Home Office,Indiana,United States,Bloomington,,
+2017,Home Office,Indiana,United States,Bloomington,,
+2014,Home Office,Indiana,United States,Columbus,,
+2015,Home Office,Indiana,United States,Columbus,2,24.56
+2016,Home Office,Indiana,United States,Columbus,7,40.879999999999995
+2017,Home Office,Indiana,United States,Columbus,6,237.46
+2014,Home Office,Indiana,United States,Greenwood,,
+2015,Home Office,Indiana,United States,Greenwood,,
+2016,Home Office,Indiana,United States,Greenwood,,
+2017,Home Office,Indiana,United States,Greenwood,14,240.14999999999998
+2014,Home Office,Indiana,United States,Indianapolis,,
+2015,Home Office,Indiana,United States,Indianapolis,2,999.98
+2016,Home Office,Indiana,United States,Indianapolis,,
+2017,Home Office,Indiana,United States,Indianapolis,9,639.83
+2014,Home Office,Indiana,United States,Lafayette,,
+2015,Home Office,Indiana,United States,Lafayette,,
+2016,Home Office,Indiana,United States,Lafayette,,
+2017,Home Office,Indiana,United States,Lafayette,5,526.45
+2014,Home Office,Indiana,United States,Richmond,,
+2015,Home Office,Indiana,United States,Richmond,7,112.03999999999999
+2016,Home Office,Indiana,United States,Richmond,,
+2017,Home Office,Indiana,United States,Richmond,38,3442.640000000001
+2014,Home Office,Iowa,United States,Dubuque,,
+2015,Home Office,Iowa,United States,Dubuque,14,1423.34
+2016,Home Office,Iowa,United States,Dubuque,,
+2017,Home Office,Iowa,United States,Dubuque,,
+2014,Home Office,Iowa,United States,Marion,,
+2015,Home Office,Iowa,United States,Marion,,
+2016,Home Office,Iowa,United States,Marion,,
+2017,Home Office,Iowa,United States,Marion,3,106.32
+2014,Home Office,Louisiana,United States,Lake Charles,,
+2015,Home Office,Louisiana,United States,Lake Charles,,
+2016,Home Office,Louisiana,United States,Lake Charles,,
+2017,Home Office,Louisiana,United States,Lake Charles,11,477.51
+2014,Home Office,Louisiana,United States,Monroe,11,682.91
+2015,Home Office,Louisiana,United States,Monroe,,
+2016,Home Office,Louisiana,United States,Monroe,,
+2017,Home Office,Louisiana,United States,Monroe,,
+2014,Home Office,Maine,United States,Lewiston,,
+2015,Home Office,Maine,United States,Lewiston,6,106.08000000000001
+2016,Home Office,Maine,United States,Lewiston,,
+2017,Home Office,Maine,United States,Lewiston,,
+2014,Home Office,Michigan,United States,Canton,,
+2015,Home Office,Michigan,United States,Canton,,
+2016,Home Office,Michigan,United States,Canton,,
+2017,Home Office,Michigan,United States,Canton,3,501.81000000000006
+2014,Home Office,Michigan,United States,Detroit,3,212.94
+2015,Home Office,Michigan,United States,Detroit,25,1472.23
+2016,Home Office,Michigan,United States,Detroit,11,569.3599999999999
+2017,Home Office,Michigan,United States,Detroit,19,1106.06
+2014,Home Office,Michigan,United States,Grand Rapids,3,19.44
+2015,Home Office,Michigan,United States,Grand Rapids,,
+2016,Home Office,Michigan,United States,Grand Rapids,,
+2017,Home Office,Michigan,United States,Grand Rapids,,
+2014,Home Office,Michigan,United States,Holland,,
+2015,Home Office,Michigan,United States,Holland,,
+2016,Home Office,Michigan,United States,Holland,9,130.36
+2017,Home Office,Michigan,United States,Holland,,
+2014,Home Office,Michigan,United States,Jackson,,
+2015,Home Office,Michigan,United States,Jackson,11,111.74000000000001
+2016,Home Office,Michigan,United States,Jackson,21,1110.1399999999999
+2017,Home Office,Michigan,United States,Jackson,31,4720.793
+2014,Home Office,Michigan,United States,Lansing,,
+2015,Home Office,Michigan,United States,Lansing,,
+2016,Home Office,Michigan,United States,Lansing,,
+2017,Home Office,Michigan,United States,Lansing,11,269.68
+2014,Home Office,Michigan,United States,Midland,2,15.28
+2015,Home Office,Michigan,United States,Midland,4,3999.702
+2016,Home Office,Michigan,United States,Midland,,
+2017,Home Office,Michigan,United States,Midland,,
+2014,Home Office,Michigan,United States,Roseville,,
+2015,Home Office,Michigan,United States,Roseville,,
+2016,Home Office,Michigan,United States,Roseville,14,547.97
+2017,Home Office,Michigan,United States,Roseville,,
+2014,Home Office,Michigan,United States,Saginaw,,
+2015,Home Office,Michigan,United States,Saginaw,,
+2016,Home Office,Michigan,United States,Saginaw,,
+2017,Home Office,Michigan,United States,Saginaw,4,19.76
+2014,Home Office,Michigan,United States,Sterling Heights,,
+2015,Home Office,Michigan,United States,Sterling Heights,9,98.36
+2016,Home Office,Michigan,United States,Sterling Heights,,
+2017,Home Office,Michigan,United States,Sterling Heights,,
+2014,Home Office,Michigan,United States,Trenton,15,1109.7250000000001
+2015,Home Office,Michigan,United States,Trenton,,
+2016,Home Office,Michigan,United States,Trenton,,
+2017,Home Office,Michigan,United States,Trenton,,
+2014,Home Office,Minnesota,United States,Eagan,,
+2015,Home Office,Minnesota,United States,Eagan,8,74.94
+2016,Home Office,Minnesota,United States,Eagan,,
+2017,Home Office,Minnesota,United States,Eagan,,
+2014,Home Office,Minnesota,United States,Lakeville,24,3745.63
+2015,Home Office,Minnesota,United States,Lakeville,6,155.88
+2016,Home Office,Minnesota,United States,Lakeville,,
+2017,Home Office,Minnesota,United States,Lakeville,,
+2014,Home Office,Minnesota,United States,Maple Grove,,
+2015,Home Office,Minnesota,United States,Maple Grove,,
+2016,Home Office,Minnesota,United States,Maple Grove,,
+2017,Home Office,Minnesota,United States,Maple Grove,11,146.89
+2014,Home Office,Minnesota,United States,Moorhead,5,479.90000000000003
+2015,Home Office,Minnesota,United States,Moorhead,,
+2016,Home Office,Minnesota,United States,Moorhead,,
+2017,Home Office,Minnesota,United States,Moorhead,,
+2014,Home Office,Minnesota,United States,Roseville,,
+2015,Home Office,Minnesota,United States,Roseville,12,2165.1200000000003
+2016,Home Office,Minnesota,United States,Roseville,,
+2017,Home Office,Minnesota,United States,Roseville,,
+2014,Home Office,Mississippi,United States,Jackson,,
+2015,Home Office,Mississippi,United States,Jackson,,
+2016,Home Office,Mississippi,United States,Jackson,40,1035.26
+2017,Home Office,Mississippi,United States,Jackson,14,684.7800000000001
+2014,Home Office,Nebraska,United States,Fremont,,
+2015,Home Office,Nebraska,United States,Fremont,,
+2016,Home Office,Nebraska,United States,Fremont,,
+2017,Home Office,Nebraska,United States,Fremont,2,15.92
+2014,Home Office,Nebraska,United States,Omaha,,
+2015,Home Office,Nebraska,United States,Omaha,2,269.98
+2016,Home Office,Nebraska,United States,Omaha,8,592.9899999999999
+2017,Home Office,Nebraska,United States,Omaha,8,58.05
+2014,Home Office,Nevada,United States,North Las Vegas,2,14.56
+2015,Home Office,Nevada,United States,North Las Vegas,,
+2016,Home Office,Nevada,United States,North Las Vegas,12,4685.076000000001
+2017,Home Office,Nevada,United States,North Las Vegas,,
+2014,Home Office,Nevada,United States,Reno,8,480.654
+2015,Home Office,Nevada,United States,Reno,,
+2016,Home Office,Nevada,United States,Reno,,
+2017,Home Office,Nevada,United States,Reno,,
+2014,Home Office,Nevada,United States,Sparks,,
+2015,Home Office,Nevada,United States,Sparks,,
+2016,Home Office,Nevada,United States,Sparks,5,86.19999999999999
+2017,Home Office,Nevada,United States,Sparks,,
+2014,Home Office,New Hampshire,United States,Concord,,
+2015,Home Office,New Hampshire,United States,Concord,7,184.66
+2016,Home Office,New Hampshire,United States,Concord,10,752.4799999999999
+2017,Home Office,New Hampshire,United States,Concord,24,1144.8700000000001
+2014,Home Office,New Jersey,United States,Bayonne,,
+2015,Home Office,New Jersey,United States,Bayonne,9,183.4
+2016,Home Office,New Jersey,United States,Bayonne,,
+2017,Home Office,New Jersey,United States,Bayonne,,
+2014,Home Office,New Jersey,United States,Lakewood,9,334.68000000000006
+2015,Home Office,New Jersey,United States,Lakewood,,
+2016,Home Office,New Jersey,United States,Lakewood,,
+2017,Home Office,New Jersey,United States,Lakewood,,
+2014,Home Office,New Jersey,United States,Orange,,
+2015,Home Office,New Jersey,United States,Orange,,
+2016,Home Office,New Jersey,United States,Orange,9,53.370000000000005
+2017,Home Office,New Jersey,United States,Orange,,
+2014,Home Office,New Jersey,United States,Paterson,,
+2015,Home Office,New Jersey,United States,Paterson,21,399.49
+2016,Home Office,New Jersey,United States,Paterson,,
+2017,Home Office,New Jersey,United States,Paterson,,
+2014,Home Office,New Jersey,United States,Perth Amboy,,
+2015,Home Office,New Jersey,United States,Perth Amboy,,
+2016,Home Office,New Jersey,United States,Perth Amboy,,
+2017,Home Office,New Jersey,United States,Perth Amboy,7,178.20999999999998
+2014,Home Office,New Jersey,United States,Plainfield,,
+2015,Home Office,New Jersey,United States,Plainfield,,
+2016,Home Office,New Jersey,United States,Plainfield,,
+2017,Home Office,New Jersey,United States,Plainfield,10,2639.99
+2014,Home Office,New Jersey,United States,Westfield,,
+2015,Home Office,New Jersey,United States,Westfield,,
+2016,Home Office,New Jersey,United States,Westfield,7,311.97
+2017,Home Office,New Jersey,United States,Westfield,3,46.26
+2014,Home Office,New York,United States,Long Beach,,
+2015,Home Office,New York,United States,Long Beach,6,7.5600000000000005
+2016,Home Office,New York,United States,Long Beach,,
+2017,Home Office,New York,United States,Long Beach,,
+2014,Home Office,New York,United States,New Rochelle,12,347.55999999999995
+2015,Home Office,New York,United States,New Rochelle,,
+2016,Home Office,New York,United States,New Rochelle,,
+2017,Home Office,New York,United States,New Rochelle,,
+2014,Home Office,New York,United States,New York City,103,8236.245999999997
+2015,Home Office,New York,United States,New York City,133,10586.638000000003
+2016,Home Office,New York,United States,New York City,95,9541.124000000002
+2017,Home Office,New York,United States,New York City,227,27751.081
+2014,Home Office,New York,United States,Niagara Falls,,
+2015,Home Office,New York,United States,Niagara Falls,,
+2016,Home Office,New York,United States,Niagara Falls,9,34.992000000000004
+2017,Home Office,New York,United States,Niagara Falls,,
+2014,Home Office,New York,United States,Rochester,,
+2015,Home Office,New York,United States,Rochester,7,156.70999999999998
+2016,Home Office,New York,United States,Rochester,,
+2017,Home Office,New York,United States,Rochester,4,33.376
+2014,Home Office,New York,United States,Rome,,
+2015,Home Office,New York,United States,Rome,,
+2016,Home Office,New York,United States,Rome,,
+2017,Home Office,New York,United States,Rome,11,408.96000000000004
+2014,Home Office,New York,United States,Troy,,
+2015,Home Office,New York,United States,Troy,,
+2016,Home Office,New York,United States,Troy,7,203.63000000000002
+2017,Home Office,New York,United States,Troy,,
+2014,Home Office,New York,United States,Watertown,,
+2015,Home Office,New York,United States,Watertown,,
+2016,Home Office,New York,United States,Watertown,,
+2017,Home Office,New York,United States,Watertown,3,191.64600000000002
+2014,Home Office,New York,United States,Yonkers,,
+2015,Home Office,New York,United States,Yonkers,,
+2016,Home Office,New York,United States,Yonkers,,
+2017,Home Office,New York,United States,Yonkers,8,216.4
+2014,Home Office,North Carolina,United States,Charlotte,,
+2015,Home Office,North Carolina,United States,Charlotte,,
+2016,Home Office,North Carolina,United States,Charlotte,14,823.6100000000001
+2017,Home Office,North Carolina,United States,Charlotte,33,1447.1619999999998
+2014,Home Office,North Carolina,United States,Durham,5,67.75999999999999
+2015,Home Office,North Carolina,United States,Durham,,
+2016,Home Office,North Carolina,United States,Durham,,
+2017,Home Office,North Carolina,United States,Durham,,
+2014,Home Office,North Carolina,United States,Fayetteville,5,22.320000000000004
+2015,Home Office,North Carolina,United States,Fayetteville,,
+2016,Home Office,North Carolina,United States,Fayetteville,,
+2017,Home Office,North Carolina,United States,Fayetteville,,
+2014,Home Office,North Carolina,United States,Greenville,,
+2015,Home Office,North Carolina,United States,Greenville,,
+2016,Home Office,North Carolina,United States,Greenville,6,37.264
+2017,Home Office,North Carolina,United States,Greenville,,
+2014,Home Office,North Carolina,United States,Jacksonville,,
+2015,Home Office,North Carolina,United States,Jacksonville,14,352.168
+2016,Home Office,North Carolina,United States,Jacksonville,,
+2017,Home Office,North Carolina,United States,Jacksonville,,
+2014,Home Office,North Carolina,United States,Monroe,,
+2015,Home Office,North Carolina,United States,Monroe,,
+2016,Home Office,North Carolina,United States,Monroe,,
+2017,Home Office,North Carolina,United States,Monroe,2,7.968000000000001
+2014,Home Office,North Carolina,United States,Raleigh,2,471.92
+2015,Home Office,North Carolina,United States,Raleigh,,
+2016,Home Office,North Carolina,United States,Raleigh,12,1183.392
+2017,Home Office,North Carolina,United States,Raleigh,,
+2014,Home Office,North Carolina,United States,Wilson,,
+2015,Home Office,North Carolina,United States,Wilson,5,7.380000000000001
+2016,Home Office,North Carolina,United States,Wilson,,
+2017,Home Office,North Carolina,United States,Wilson,,
+2014,Home Office,Ohio,United States,Columbus,18,608.7919999999999
+2015,Home Office,Ohio,United States,Columbus,,
+2016,Home Office,Ohio,United States,Columbus,51,1083.655
+2017,Home Office,Ohio,United States,Columbus,2,3.132
+2014,Home Office,Ohio,United States,Lakewood,10,32.712
+2015,Home Office,Ohio,United States,Lakewood,9,43.056000000000004
+2016,Home Office,Ohio,United States,Lakewood,,
+2017,Home Office,Ohio,United States,Lakewood,19,694.0640000000001
+2014,Home Office,Ohio,United States,Lancaster,27,144.24
+2015,Home Office,Ohio,United States,Lancaster,,
+2016,Home Office,Ohio,United States,Lancaster,14,52.153
+2017,Home Office,Ohio,United States,Lancaster,15,1448.6979999999999
+2014,Home Office,Ohio,United States,Lorain,,
+2015,Home Office,Ohio,United States,Lorain,,
+2016,Home Office,Ohio,United States,Lorain,11,111.49600000000001
+2017,Home Office,Ohio,United States,Lorain,3,30.409999999999997
+2014,Home Office,Ohio,United States,Marion,,
+2015,Home Office,Ohio,United States,Marion,,
+2016,Home Office,Ohio,United States,Marion,,
+2017,Home Office,Ohio,United States,Marion,2,7.712000000000001
+2014,Home Office,Ohio,United States,Newark,4,93.888
+2015,Home Office,Ohio,United States,Newark,,
+2016,Home Office,Ohio,United States,Newark,,
+2017,Home Office,Ohio,United States,Newark,,
+2014,Home Office,Ohio,United States,Parma,,
+2015,Home Office,Ohio,United States,Parma,,
+2016,Home Office,Ohio,United States,Parma,2,63.967999999999996
+2017,Home Office,Ohio,United States,Parma,,
+2014,Home Office,Ohio,United States,Springfield,1,330.588
+2015,Home Office,Ohio,United States,Springfield,1,3.4240000000000004
+2016,Home Office,Ohio,United States,Springfield,50,994.0420000000001
+2017,Home Office,Ohio,United States,Springfield,7,176.012
+2014,Home Office,Ohio,United States,Toledo,,
+2015,Home Office,Ohio,United States,Toledo,,
+2016,Home Office,Ohio,United States,Toledo,8,59.948000000000015
+2017,Home Office,Ohio,United States,Toledo,4,663.936
+2014,Home Office,Ohio,United States,Troy,,
+2015,Home Office,Ohio,United States,Troy,3,14.832000000000003
+2016,Home Office,Ohio,United States,Troy,7,129.97600000000003
+2017,Home Office,Ohio,United States,Troy,18,1448.853
+2014,Home Office,Oklahoma,United States,Broken Arrow,,
+2015,Home Office,Oklahoma,United States,Broken Arrow,6,821.94
+2016,Home Office,Oklahoma,United States,Broken Arrow,,
+2017,Home Office,Oklahoma,United States,Broken Arrow,,
+2014,Home Office,Oklahoma,United States,Muskogee,,
+2015,Home Office,Oklahoma,United States,Muskogee,,
+2016,Home Office,Oklahoma,United States,Muskogee,,
+2017,Home Office,Oklahoma,United States,Muskogee,14,1721.7
+2014,Home Office,Oklahoma,United States,Oklahoma City,,
+2015,Home Office,Oklahoma,United States,Oklahoma City,,
+2016,Home Office,Oklahoma,United States,Oklahoma City,27,2176.19
+2017,Home Office,Oklahoma,United States,Oklahoma City,,
+2014,Home Office,Oklahoma,United States,Tulsa,11,643.78
+2015,Home Office,Oklahoma,United States,Tulsa,,
+2016,Home Office,Oklahoma,United States,Tulsa,14,151.82
+2017,Home Office,Oklahoma,United States,Tulsa,4,36.44
+2014,Home Office,Oregon,United States,Portland,,
+2015,Home Office,Oregon,United States,Portland,,
+2016,Home Office,Oregon,United States,Portland,5,403.92
+2017,Home Office,Oregon,United States,Portland,1,5.682000000000001
+2014,Home Office,Oregon,United States,Salem,,
+2015,Home Office,Oregon,United States,Salem,,
+2016,Home Office,Oregon,United States,Salem,25,610.418
+2017,Home Office,Oregon,United States,Salem,3,8.432
+2014,Home Office,Oregon,United States,Springfield,,
+2015,Home Office,Oregon,United States,Springfield,,
+2016,Home Office,Oregon,United States,Springfield,5,651.3629999999999
+2017,Home Office,Oregon,United States,Springfield,11,87.688
+2014,Home Office,Oregon,United States,Tigard,,
+2015,Home Office,Oregon,United States,Tigard,,
+2016,Home Office,Oregon,United States,Tigard,,
+2017,Home Office,Oregon,United States,Tigard,4,205.74400000000003
+2014,Home Office,Pennsylvania,United States,Allentown,,
+2015,Home Office,Pennsylvania,United States,Allentown,16,837.444
+2016,Home Office,Pennsylvania,United States,Allentown,,
+2017,Home Office,Pennsylvania,United States,Allentown,,
+2014,Home Office,Pennsylvania,United States,Philadelphia,30,461.38399999999996
+2015,Home Office,Pennsylvania,United States,Philadelphia,100,3538.352
+2016,Home Office,Pennsylvania,United States,Philadelphia,141,7049.5650000000005
+2017,Home Office,Pennsylvania,United States,Philadelphia,86,5933.597000000001
+2014,Home Office,Rhode Island,United States,Providence,19,2846.22
+2015,Home Office,Rhode Island,United States,Providence,8,448.21000000000004
+2016,Home Office,Rhode Island,United States,Providence,48,10876.300000000001
+2017,Home Office,Rhode Island,United States,Providence,,
+2014,Home Office,Tennessee,United States,Bristol,,
+2015,Home Office,Tennessee,United States,Bristol,,
+2016,Home Office,Tennessee,United States,Bristol,3,67.56
+2017,Home Office,Tennessee,United States,Bristol,,
+2014,Home Office,Tennessee,United States,Chattanooga,,
+2015,Home Office,Tennessee,United States,Chattanooga,,
+2016,Home Office,Tennessee,United States,Chattanooga,1,91.475
+2017,Home Office,Tennessee,United States,Chattanooga,,
+2014,Home Office,Tennessee,United States,Hendersonville,,
+2015,Home Office,Tennessee,United States,Hendersonville,,
+2016,Home Office,Tennessee,United States,Hendersonville,8,16.218000000000004
+2017,Home Office,Tennessee,United States,Hendersonville,,
+2014,Home Office,Tennessee,United States,Knoxville,,
+2015,Home Office,Tennessee,United States,Knoxville,,
+2016,Home Office,Tennessee,United States,Knoxville,,
+2017,Home Office,Tennessee,United States,Knoxville,25,2442.28
+2014,Home Office,Tennessee,United States,Lebanon,,
+2015,Home Office,Tennessee,United States,Lebanon,,
+2016,Home Office,Tennessee,United States,Lebanon,3,239.976
+2017,Home Office,Tennessee,United States,Lebanon,,
+2014,Home Office,Texas,United States,Brownsville,19,714.966
+2015,Home Office,Texas,United States,Brownsville,,
+2016,Home Office,Texas,United States,Brownsville,,
+2017,Home Office,Texas,United States,Brownsville,,
+2014,Home Office,Texas,United States,Bryan,,
+2015,Home Office,Texas,United States,Bryan,,
+2016,Home Office,Texas,United States,Bryan,,
+2017,Home Office,Texas,United States,Bryan,15,65.84
+2014,Home Office,Texas,United States,Dallas,10,1340.976
+2015,Home Office,Texas,United States,Dallas,13,14.216
+2016,Home Office,Texas,United States,Dallas,27,231.056
+2017,Home Office,Texas,United States,Dallas,48,2366.352999999999
+2014,Home Office,Texas,United States,Fort Worth,,
+2015,Home Office,Texas,United States,Fort Worth,25,2150.466
+2016,Home Office,Texas,United States,Fort Worth,,
+2017,Home Office,Texas,United States,Fort Worth,,
+2014,Home Office,Texas,United States,Frisco,,
+2015,Home Office,Texas,United States,Frisco,4,27.168000000000003
+2016,Home Office,Texas,United States,Frisco,,
+2017,Home Office,Texas,United States,Frisco,,
+2014,Home Office,Texas,United States,Houston,52,1558.1218000000001
+2015,Home Office,Texas,United States,Houston,63,2534.1688
+2016,Home Office,Texas,United States,Houston,76,1268.1740000000002
+2017,Home Office,Texas,United States,Houston,92,3115.0644
+2014,Home Office,Texas,United States,Huntsville,5,142.344
+2015,Home Office,Texas,United States,Huntsville,,
+2016,Home Office,Texas,United States,Huntsville,,
+2017,Home Office,Texas,United States,Huntsville,,
+2014,Home Office,Texas,United States,League City,15,554.1659999999999
+2015,Home Office,Texas,United States,League City,,
+2016,Home Office,Texas,United States,League City,,
+2017,Home Office,Texas,United States,League City,,
+2014,Home Office,Texas,United States,Lubbock,,
+2015,Home Office,Texas,United States,Lubbock,,
+2016,Home Office,Texas,United States,Lubbock,,
+2017,Home Office,Texas,United States,Lubbock,3,11.363999999999997
+2014,Home Office,Texas,United States,Mcallen,,
+2015,Home Office,Texas,United States,Mcallen,9,100.85999999999999
+2016,Home Office,Texas,United States,Mcallen,,
+2017,Home Office,Texas,United States,Mcallen,,
+2014,Home Office,Texas,United States,Odessa,6,340.116
+2015,Home Office,Texas,United States,Odessa,,
+2016,Home Office,Texas,United States,Odessa,,
+2017,Home Office,Texas,United States,Odessa,,
+2014,Home Office,Texas,United States,Pasadena,,
+2015,Home Office,Texas,United States,Pasadena,,
+2016,Home Office,Texas,United States,Pasadena,22,657.392
+2017,Home Office,Texas,United States,Pasadena,9,372.446
+2014,Home Office,Texas,United States,Pharr,,
+2015,Home Office,Texas,United States,Pharr,,
+2016,Home Office,Texas,United States,Pharr,18,1416.3039999999999
+2017,Home Office,Texas,United States,Pharr,,
+2014,Home Office,Texas,United States,Plano,,
+2015,Home Office,Texas,United States,Plano,,
+2016,Home Office,Texas,United States,Plano,2,13.616
+2017,Home Office,Texas,United States,Plano,,
+2014,Home Office,Texas,United States,San Antonio,,
+2015,Home Office,Texas,United States,San Antonio,6,210.55400000000003
+2016,Home Office,Texas,United States,San Antonio,6,60.144000000000005
+2017,Home Office,Texas,United States,San Antonio,,
+2014,Home Office,Utah,United States,Lehi,,
+2015,Home Office,Utah,United States,Lehi,,
+2016,Home Office,Utah,United States,Lehi,5,1499.95
+2017,Home Office,Utah,United States,Lehi,,
+2014,Home Office,Utah,United States,Murray,5,48.4
+2015,Home Office,Utah,United States,Murray,,
+2016,Home Office,Utah,United States,Murray,,
+2017,Home Office,Utah,United States,Murray,,
+2014,Home Office,Utah,United States,Orem,9,133.12800000000001
+2015,Home Office,Utah,United States,Orem,,
+2016,Home Office,Utah,United States,Orem,,
+2017,Home Office,Utah,United States,Orem,,
+2014,Home Office,Utah,United States,Provo,,
+2015,Home Office,Utah,United States,Provo,,
+2016,Home Office,Utah,United States,Provo,5,44.400000000000006
+2017,Home Office,Utah,United States,Provo,,
+2014,Home Office,Utah,United States,Salt Lake City,3,166.44
+2015,Home Office,Utah,United States,Salt Lake City,,
+2016,Home Office,Utah,United States,Salt Lake City,24,219.11999999999998
+2017,Home Office,Utah,United States,Salt Lake City,,
+2014,Home Office,Virginia,United States,Charlottesville,,
+2015,Home Office,Virginia,United States,Charlottesville,4,67.96
+2016,Home Office,Virginia,United States,Charlottesville,,
+2017,Home Office,Virginia,United States,Charlottesville,,
+2014,Home Office,Virginia,United States,Chesapeake,4,1139.92
+2015,Home Office,Virginia,United States,Chesapeake,,
+2016,Home Office,Virginia,United States,Chesapeake,,
+2017,Home Office,Virginia,United States,Chesapeake,,
+2014,Home Office,Virginia,United States,Newport News,,
+2015,Home Office,Virginia,United States,Newport News,,
+2016,Home Office,Virginia,United States,Newport News,9,261.1
+2017,Home Office,Virginia,United States,Newport News,,
+2014,Home Office,Virginia,United States,Richmond,14,389.73999999999995
+2015,Home Office,Virginia,United States,Richmond,,
+2016,Home Office,Virginia,United States,Richmond,,
+2017,Home Office,Virginia,United States,Richmond,,
+2014,Home Office,Virginia,United States,Salem,,
+2015,Home Office,Virginia,United States,Salem,,
+2016,Home Office,Virginia,United States,Salem,5,273.59000000000003
+2017,Home Office,Virginia,United States,Salem,,
+2014,Home Office,Virginia,United States,Springfield,,
+2015,Home Office,Virginia,United States,Springfield,10,227.00000000000003
+2016,Home Office,Virginia,United States,Springfield,6,177.78
+2017,Home Office,Virginia,United States,Springfield,,
+2014,Home Office,Virginia,United States,Suffolk,,
+2015,Home Office,Virginia,United States,Suffolk,,
+2016,Home Office,Virginia,United States,Suffolk,14,158.81
+2017,Home Office,Virginia,United States,Suffolk,,
+2014,Home Office,Virginia,United States,Virginia Beach,7,120.79
+2015,Home Office,Virginia,United States,Virginia Beach,,
+2016,Home Office,Virginia,United States,Virginia Beach,,
+2017,Home Office,Virginia,United States,Virginia Beach,5,57.01
+2014,Home Office,Virginia,United States,Waynesboro,,
+2015,Home Office,Virginia,United States,Waynesboro,,
+2016,Home Office,Virginia,United States,Waynesboro,8,334.2
+2017,Home Office,Virginia,United States,Waynesboro,,
+2014,Home Office,Washington,United States,Auburn,,
+2015,Home Office,Washington,United States,Auburn,,
+2016,Home Office,Washington,United States,Auburn,1,4.18
+2017,Home Office,Washington,United States,Auburn,,
+2014,Home Office,Washington,United States,Bellevue,,
+2015,Home Office,Washington,United States,Bellevue,,
+2016,Home Office,Washington,United States,Bellevue,3,25.349999999999998
+2017,Home Office,Washington,United States,Bellevue,,
+2014,Home Office,Washington,United States,Covington,,
+2015,Home Office,Washington,United States,Covington,,
+2016,Home Office,Washington,United States,Covington,15,366.78
+2017,Home Office,Washington,United States,Covington,,
+2014,Home Office,Washington,United States,Redmond,,
+2015,Home Office,Washington,United States,Redmond,,
+2016,Home Office,Washington,United States,Redmond,4,12.32
+2017,Home Office,Washington,United States,Redmond,,
+2014,Home Office,Washington,United States,Seattle,42,4653.266
+2015,Home Office,Washington,United States,Seattle,60,5282.115999999999
+2016,Home Office,Washington,United States,Seattle,36,893.004
+2017,Home Office,Washington,United States,Seattle,181,13504.155999999999
+2014,Home Office,Washington,United States,Spokane,,
+2015,Home Office,Washington,United States,Spokane,,
+2016,Home Office,Washington,United States,Spokane,,
+2017,Home Office,Washington,United States,Spokane,9,136.26
+2014,Home Office,Washington,United States,Vancouver,,
+2015,Home Office,Washington,United States,Vancouver,,
+2016,Home Office,Washington,United States,Vancouver,2,44.02
+2017,Home Office,Washington,United States,Vancouver,,
+2014,Home Office,West Virginia,United States,Wheeling,,
+2015,Home Office,West Virginia,United States,Wheeling,,
+2016,Home Office,West Virginia,United States,Wheeling,,
+2017,Home Office,West Virginia,United States,Wheeling,15,536.48
+2014,Home Office,Wisconsin,United States,Appleton,7,21.560000000000002
+2015,Home Office,Wisconsin,United States,Appleton,,
+2016,Home Office,Wisconsin,United States,Appleton,,
+2017,Home Office,Wisconsin,United States,Appleton,,
+2014,Home Office,Wisconsin,United States,Eau Claire,3,91.67999999999999
+2015,Home Office,Wisconsin,United States,Eau Claire,,
+2016,Home Office,Wisconsin,United States,Eau Claire,,
+2017,Home Office,Wisconsin,United States,Eau Claire,,
+2014,Home Office,Wisconsin,United States,Kenosha,,
+2015,Home Office,Wisconsin,United States,Kenosha,,
+2016,Home Office,Wisconsin,United States,Kenosha,,
+2017,Home Office,Wisconsin,United States,Kenosha,5,399.95
+2014,Home Office,Wisconsin,United States,Sheboygan,,
+2015,Home Office,Wisconsin,United States,Sheboygan,,
+2016,Home Office,Wisconsin,United States,Sheboygan,10,79.74
+2017,Home Office,Wisconsin,United States,Sheboygan,,
+2014,Home Office,Wisconsin,United States,Superior,,
+2015,Home Office,Wisconsin,United States,Superior,4,17.12
+2016,Home Office,Wisconsin,United States,Superior,33,1282.61
+2017,Home Office,Wisconsin,United States,Superior,,
+2014,Home Office,Wyoming,United States,Cheyenne,,
+2015,Home Office,Wyoming,United States,Cheyenne,,
+2016,Home Office,Wyoming,United States,Cheyenne,4,1603.1360000000002
+2017,Home Office,Wyoming,United States,Cheyenne,,
