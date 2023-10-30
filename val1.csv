@@ -1,0 +1,13 @@
+Superstore - Orders.Segment,Superstore - Orders.Region,Sum(Superstore - Orders.Quantity),Sum(Superstore - Orders.Profit)
+Consumer,West,6477,57450.604
+Corporate,West,3630,34437.4299
+Home Office,West,2159,16530.415
+Consumer,East,5347,41190.9843
+Corporate,East,3358,23622.5789
+Home Office,East,1913,26709.2168
+Consumer,South,3178,26913.5728
+Corporate,South,2016,15215.2232
+Home Office,South,1015,4620.6343
+Consumer,Central,4519,8564.0481
+Corporate,Central,2604,18703.902
+Home Office,Central,1657,12438.4124
