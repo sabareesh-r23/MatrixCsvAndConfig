@@ -1,4 +1,56 @@
 Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orders.Country,Orders.City,Sum(Orders.Quantity),Sum(Orders.Sales)
+2014,Consumer,Alabama,United States,Auburn,,
+2015,Consumer,Alabama,United States,Auburn,7,498.93
+2016,Consumer,Alabama,United States,Auburn,7,1264.1399999999999
+2017,Consumer,Alabama,United States,Auburn,,
+2014,Consumer,Alabama,United States,Florence,21,1979.89
+2015,Consumer,Alabama,United States,Florence,,
+2016,Consumer,Alabama,United States,Florence,,
+2017,Consumer,Alabama,United States,Florence,2,12.48
+2014,Consumer,Alabama,United States,Huntsville,,
+2015,Consumer,Alabama,United States,Huntsville,,
+2016,Consumer,Alabama,United States,Huntsville,9,102.36
+2017,Consumer,Alabama,United States,Huntsville,,
+2014,Consumer,Alabama,United States,Mobile,2,8.96
+2015,Consumer,Alabama,United States,Mobile,12,1918.79
+2016,Consumer,Alabama,United States,Mobile,15,298.8299999999999
+2017,Consumer,Alabama,United States,Mobile,,
+2014,Consumer,Alabama,United States,Montgomery,3,14.669999999999998
+2015,Consumer,Alabama,United States,Montgomery,,
+2016,Consumer,Alabama,United States,Montgomery,10,1002.7
+2017,Consumer,Alabama,United States,Montgomery,,
+2014,Consumer,Arkansas,United States,Conway,,
+2015,Consumer,Arkansas,United States,Conway,2,301.96
+2016,Consumer,Arkansas,United States,Conway,,
+2017,Consumer,Arkansas,United States,Conway,,
+2014,Consumer,Arkansas,United States,Fayetteville,2,1793.98
+2015,Consumer,Arkansas,United States,Fayetteville,2,105.42
+2016,Consumer,Arkansas,United States,Fayetteville,19,870.04
+2017,Consumer,Arkansas,United States,Fayetteville,9,726.9100000000001
+2014,Consumer,Arkansas,United States,Hot Springs,,
+2015,Consumer,Arkansas,United States,Hot Springs,1,29.99
+2016,Consumer,Arkansas,United States,Hot Springs,,
+2017,Consumer,Arkansas,United States,Hot Springs,,
+2014,Consumer,Arkansas,United States,Jonesboro,36,2498.2200000000003
+2015,Consumer,Arkansas,United States,Jonesboro,,
+2016,Consumer,Arkansas,United States,Jonesboro,7,299.48
+2017,Consumer,Arkansas,United States,Jonesboro,,
+2014,Consumer,Arkansas,United States,Little Rock,13,904.13
+2015,Consumer,Arkansas,United States,Little Rock,,
+2016,Consumer,Arkansas,United States,Little Rock,30,819.39
+2017,Consumer,Arkansas,United States,Little Rock,11,199.17000000000004
+2014,Consumer,Arkansas,United States,Pine Bluff,,
+2015,Consumer,Arkansas,United States,Pine Bluff,,
+2016,Consumer,Arkansas,United States,Pine Bluff,,
+2017,Consumer,Arkansas,United States,Pine Bluff,7,212.91000000000003
+2014,Consumer,Arkansas,United States,Rogers,,
+2015,Consumer,Arkansas,United States,Rogers,,
+2016,Consumer,Arkansas,United States,Rogers,,
+2017,Consumer,Arkansas,United States,Rogers,9,40.410000000000004
+2014,Consumer,California,United States,Anaheim,14,1049.97
+2015,Consumer,California,United States,Anaheim,,
+2016,Consumer,California,United States,Anaheim,46,2240.3
+2017,Consumer,California,United States,Anaheim,7,174.56000000000003
 2014,Consumer,California,United States,Apple Valley,,
 2015,Consumer,California,United States,Apple Valley,,
 2016,Consumer,California,United States,Apple Valley,5,563.92
@@ -35,6 +87,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,California,United States,Davis,,
 2016,Consumer,California,United States,Davis,5,32.400000000000006
 2017,Consumer,California,United States,Davis,,
+2014,Consumer,California,United States,Dublin,,
+2015,Consumer,California,United States,Dublin,,
+2016,Consumer,California,United States,Dublin,,
+2017,Consumer,California,United States,Dublin,5,22
 2014,Consumer,California,United States,Encinitas,,
 2015,Consumer,California,United States,Encinitas,,
 2016,Consumer,California,United States,Encinitas,8,305.49600000000004
@@ -251,6 +307,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Connecticut,United States,Middletown,,
 2016,Consumer,Connecticut,United States,Middletown,4,552.56
 2017,Consumer,Connecticut,United States,Middletown,7,317.58
+2014,Consumer,Connecticut,United States,Milford,,
+2015,Consumer,Connecticut,United States,Milford,,
+2016,Consumer,Connecticut,United States,Milford,11,67.32000000000001
+2017,Consumer,Connecticut,United States,Milford,,
 2014,Consumer,Connecticut,United States,Norwich,,
 2015,Consumer,Connecticut,United States,Norwich,3,370.14
 2016,Consumer,Connecticut,United States,Norwich,,
@@ -259,6 +319,22 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Connecticut,United States,Waterbury,,
 2016,Consumer,Connecticut,United States,Waterbury,13,253.03000000000003
 2017,Consumer,Connecticut,United States,Waterbury,2,3.52
+2014,Consumer,Delaware,United States,Dover,10,74.26
+2015,Consumer,Delaware,United States,Dover,5,96.1
+2016,Consumer,Delaware,United States,Dover,5,66.8
+2017,Consumer,Delaware,United States,Dover,,
+2014,Consumer,Delaware,United States,Newark,17,114.65
+2015,Consumer,Delaware,United States,Newark,20,840.0999999999999
+2016,Consumer,Delaware,United States,Newark,41,1817.47
+2017,Consumer,Delaware,United States,Newark,16,10756.85
+2014,Consumer,Delaware,United States,Wilmington,,
+2015,Consumer,Delaware,United States,Wilmington,35,1979.06
+2016,Consumer,Delaware,United States,Wilmington,29,487.49999999999994
+2017,Consumer,Delaware,United States,Wilmington,8,728.9730000000001
+2014,Consumer,District of Columbia,United States,Washington,,
+2015,Consumer,District of Columbia,United States,Washington,14,2670.1899999999996
+2016,Consumer,District of Columbia,United States,Washington,10,83.15
+2017,Consumer,District of Columbia,United States,Washington,,
 2014,Consumer,Florida,United States,Apopka,18,193.152
 2015,Consumer,Florida,United States,Apopka,,
 2016,Consumer,Florida,United States,Apopka,,
@@ -271,6 +347,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Florida,United States,Boynton Beach,,
 2016,Consumer,Florida,United States,Boynton Beach,13,314.39300000000003
 2017,Consumer,Florida,United States,Boynton Beach,4,107.55200000000002
+2014,Consumer,Florida,United States,Daytona Beach,,
+2015,Consumer,Florida,United States,Daytona Beach,10,272.3315
+2016,Consumer,Florida,United States,Daytona Beach,,
+2017,Consumer,Florida,United States,Daytona Beach,,
 2014,Consumer,Florida,United States,Delray Beach,3,9.912
 2015,Consumer,Florida,United States,Delray Beach,,
 2016,Consumer,Florida,United States,Delray Beach,,
@@ -283,6 +363,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Florida,United States,Fort Lauderdale,7,979.9455
 2016,Consumer,Florida,United States,Fort Lauderdale,12,455.5470000000001
 2017,Consumer,Florida,United States,Fort Lauderdale,8,743.024
+2014,Consumer,Florida,United States,Hollywood,14,580.6880000000001
+2015,Consumer,Florida,United States,Hollywood,7,37.456
+2016,Consumer,Florida,United States,Hollywood,6,32.064
+2017,Consumer,Florida,United States,Hollywood,,
 2014,Consumer,Florida,United States,Homestead,,
 2015,Consumer,Florida,United States,Homestead,,
 2016,Consumer,Florida,United States,Homestead,3,85.224
@@ -367,6 +451,14 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Florida,United States,West Palm Beach,2,55.98400000000001
 2016,Consumer,Florida,United States,West Palm Beach,4,72.224
 2017,Consumer,Florida,United States,West Palm Beach,,
+2014,Consumer,Georgia,United States,Athens,15,1220.67
+2015,Consumer,Georgia,United States,Athens,,
+2016,Consumer,Georgia,United States,Athens,6,201.26999999999998
+2017,Consumer,Georgia,United States,Athens,,
+2014,Consumer,Georgia,United States,Atlanta,18,256.48
+2015,Consumer,Georgia,United States,Atlanta,52,7755.0599999999995
+2016,Consumer,Georgia,United States,Atlanta,22,2047.3400000000004
+2017,Consumer,Georgia,United States,Atlanta,37,2608.81
 2014,Consumer,Georgia,United States,Columbus,9,83.72999999999999
 2015,Consumer,Georgia,United States,Columbus,20,508.29999999999995
 2016,Consumer,Georgia,United States,Columbus,42,1893.17
@@ -399,6 +491,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Georgia,United States,Woodstock,,
 2016,Consumer,Georgia,United States,Woodstock,,
 2017,Consumer,Georgia,United States,Woodstock,,
+2014,Consumer,Idaho,United States,Boise,,
+2015,Consumer,Idaho,United States,Boise,,
+2016,Consumer,Idaho,United States,Boise,,
+2017,Consumer,Idaho,United States,Boise,3,89.97
+2014,Consumer,Idaho,United States,Lewiston,1,9.584000000000001
+2015,Consumer,Idaho,United States,Lewiston,,
+2016,Consumer,Idaho,United States,Lewiston,,
+2017,Consumer,Idaho,United States,Lewiston,,
+2014,Consumer,Idaho,United States,Pocatello,,
+2015,Consumer,Idaho,United States,Pocatello,7,495.736
+2016,Consumer,Idaho,United States,Pocatello,6,34.68
+2017,Consumer,Idaho,United States,Pocatello,12,814.5260000000001
 2014,Consumer,Illinois,United States,Arlington Heights,,
 2015,Consumer,Illinois,United States,Arlington Heights,,
 2016,Consumer,Illinois,United States,Arlington Heights,6,14.111999999999998
@@ -547,6 +651,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Indiana,United States,South Bend,25,1238.3300000000002
 2016,Consumer,Indiana,United States,South Bend,,
 2017,Consumer,Indiana,United States,South Bend,,
+2014,Consumer,Iowa,United States,Burlington,,
+2015,Consumer,Iowa,United States,Burlington,,
+2016,Consumer,Iowa,United States,Burlington,,
+2017,Consumer,Iowa,United States,Burlington,5,44.75
 2014,Consumer,Iowa,United States,Cedar Rapids,,
 2015,Consumer,Iowa,United States,Cedar Rapids,,
 2016,Consumer,Iowa,United States,Cedar Rapids,3,278.4
@@ -567,6 +675,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Iowa,United States,Waterloo,,
 2016,Consumer,Iowa,United States,Waterloo,,
 2017,Consumer,Iowa,United States,Waterloo,4,30.32
+2014,Consumer,Kansas,United States,Wichita,,
+2015,Consumer,Kansas,United States,Wichita,,
+2016,Consumer,Kansas,United States,Wichita,16,396.16999999999996
+2017,Consumer,Kansas,United States,Wichita,5,279.9
 2014,Consumer,Louisiana,United States,Kenner,,
 2015,Consumer,Louisiana,United States,Kenner,,
 2016,Consumer,Louisiana,United States,Kenner,4,89.32000000000001
@@ -583,6 +695,58 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Louisiana,United States,Monroe,28,314.31999999999994
 2016,Consumer,Louisiana,United States,Monroe,,
 2017,Consumer,Louisiana,United States,Monroe,2,659.9
+2014,Consumer,Maryland,United States,Baltimore,3,116.28
+2015,Consumer,Maryland,United States,Baltimore,3,8.22
+2016,Consumer,Maryland,United States,Baltimore,28,883.5019999999998
+2017,Consumer,Maryland,United States,Baltimore,40,1424.9899999999998
+2014,Consumer,Maryland,United States,Clinton,,
+2015,Consumer,Maryland,United States,Clinton,41,1133.8200000000002
+2016,Consumer,Maryland,United States,Clinton,13,573.741
+2017,Consumer,Maryland,United States,Clinton,4,23.12
+2014,Consumer,Maryland,United States,Columbia,8,587.14
+2015,Consumer,Maryland,United States,Columbia,2,2541.98
+2016,Consumer,Maryland,United States,Columbia,13,2073.35
+2017,Consumer,Maryland,United States,Columbia,3,174.3
+2014,Consumer,Maryland,United States,Hagerstown,,
+2015,Consumer,Maryland,United States,Hagerstown,,
+2016,Consumer,Maryland,United States,Hagerstown,,
+2017,Consumer,Maryland,United States,Hagerstown,6,43.8
+2014,Consumer,Maryland,United States,Rockville,,
+2015,Consumer,Maryland,United States,Rockville,4,26.82
+2016,Consumer,Maryland,United States,Rockville,7,442.95000000000005
+2017,Consumer,Maryland,United States,Rockville,,
+2014,Consumer,Massachusetts,United States,Andover,,
+2015,Consumer,Massachusetts,United States,Andover,,
+2016,Consumer,Massachusetts,United States,Andover,13,435.85
+2017,Consumer,Massachusetts,United States,Andover,,
+2014,Consumer,Massachusetts,United States,Everett,19,1885.27
+2015,Consumer,Massachusetts,United States,Everett,,
+2016,Consumer,Massachusetts,United States,Everett,,
+2017,Consumer,Massachusetts,United States,Everett,35,1472.85
+2014,Consumer,Massachusetts,United States,Leominster,,
+2015,Consumer,Massachusetts,United States,Leominster,5,25.869999999999997
+2016,Consumer,Massachusetts,United States,Leominster,,
+2017,Consumer,Massachusetts,United States,Leominster,,
+2014,Consumer,Massachusetts,United States,Lowell,7,327.55999999999995
+2015,Consumer,Massachusetts,United States,Lowell,,
+2016,Consumer,Massachusetts,United States,Lowell,5,714.3000000000001
+2017,Consumer,Massachusetts,United States,Lowell,21,1316.2499999999998
+2014,Consumer,Massachusetts,United States,Malden,,
+2015,Consumer,Massachusetts,United States,Malden,,
+2016,Consumer,Massachusetts,United States,Malden,2,39.68
+2017,Consumer,Massachusetts,United States,Malden,,
+2014,Consumer,Massachusetts,United States,Marlborough,,
+2015,Consumer,Massachusetts,United States,Marlborough,,
+2016,Consumer,Massachusetts,United States,Marlborough,6,206.64
+2017,Consumer,Massachusetts,United States,Marlborough,,
+2014,Consumer,Massachusetts,United States,Quincy,,
+2015,Consumer,Massachusetts,United States,Quincy,3,14.940000000000001
+2016,Consumer,Massachusetts,United States,Quincy,25,549.775
+2017,Consumer,Massachusetts,United States,Quincy,2,12.7
+2014,Consumer,Michigan,United States,Dearborn Heights,16,770.61
+2015,Consumer,Michigan,United States,Dearborn Heights,,
+2016,Consumer,Michigan,United States,Dearborn Heights,,
+2017,Consumer,Michigan,United States,Dearborn Heights,3,280.96
 2014,Consumer,Michigan,United States,Detroit,19,443.6
 2015,Consumer,Michigan,United States,Detroit,67,3237.89
 2016,Consumer,Michigan,United States,Detroit,103,14715.08
@@ -683,6 +847,42 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Mississippi,United States,Southaven,,
 2016,Consumer,Mississippi,United States,Southaven,,
 2017,Consumer,Mississippi,United States,Southaven,,
+2014,Consumer,Missouri,United States,Columbia,14,535.27
+2015,Consumer,Missouri,United States,Columbia,,
+2016,Consumer,Missouri,United States,Columbia,,
+2017,Consumer,Missouri,United States,Columbia,,
+2014,Consumer,Missouri,United States,Gladstone,,
+2015,Consumer,Missouri,United States,Gladstone,,
+2016,Consumer,Missouri,United States,Gladstone,,
+2017,Consumer,Missouri,United States,Gladstone,5,164.34
+2014,Consumer,Missouri,United States,Independence,,
+2015,Consumer,Missouri,United States,Independence,,
+2016,Consumer,Missouri,United States,Independence,,
+2017,Consumer,Missouri,United States,Independence,3,839.4300000000001
+2014,Consumer,Missouri,United States,Kirkwood,,
+2015,Consumer,Missouri,United States,Kirkwood,7,241.34
+2016,Consumer,Missouri,United States,Kirkwood,,
+2017,Consumer,Missouri,United States,Kirkwood,,
+2014,Consumer,Missouri,United States,Saint Charles,2,11.56
+2015,Consumer,Missouri,United States,Saint Charles,,
+2016,Consumer,Missouri,United States,Saint Charles,,
+2017,Consumer,Missouri,United States,Saint Charles,9,248.82
+2014,Consumer,Missouri,United States,Saint Louis,7,111.79
+2015,Consumer,Missouri,United States,Saint Louis,,
+2016,Consumer,Missouri,United States,Saint Louis,,
+2017,Consumer,Missouri,United States,Saint Louis,12,95.66000000000001
+2014,Consumer,Missouri,United States,Springfield,,
+2015,Consumer,Missouri,United States,Springfield,16,1085.16
+2016,Consumer,Missouri,United States,Springfield,23,886.0299999999999
+2017,Consumer,Missouri,United States,Springfield,41,931.5200000000001
+2014,Consumer,Montana,United States,Great Falls,15,410.104
+2015,Consumer,Montana,United States,Great Falls,,
+2016,Consumer,Montana,United States,Great Falls,,
+2017,Consumer,Montana,United States,Great Falls,,
+2014,Consumer,Montana,United States,Missoula,,
+2015,Consumer,Montana,United States,Missoula,2,487.98400000000004
+2016,Consumer,Montana,United States,Missoula,,
+2017,Consumer,Montana,United States,Missoula,,
 2014,Consumer,Nebraska,United States,Fremont,,
 2015,Consumer,Nebraska,United States,Fremont,,
 2016,Consumer,Nebraska,United States,Fremont,5,33.9
@@ -711,6 +911,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,New Hampshire,United States,Concord,5,103.06
 2016,Consumer,New Hampshire,United States,Concord,,
 2017,Consumer,New Hampshire,United States,Concord,1,102.3
+2014,Consumer,New Hampshire,United States,Dover,,
+2015,Consumer,New Hampshire,United States,Dover,7,688.4599999999999
+2016,Consumer,New Hampshire,United States,Dover,,
+2017,Consumer,New Hampshire,United States,Dover,,
+2014,Consumer,New Hampshire,United States,Nashua,,
+2015,Consumer,New Hampshire,United States,Nashua,,
+2016,Consumer,New Hampshire,United States,Nashua,,
+2017,Consumer,New Hampshire,United States,Nashua,6,14.82
+2014,Consumer,New Jersey,United States,Clifton,9,336.82
+2015,Consumer,New Jersey,United States,Clifton,,
+2016,Consumer,New Jersey,United States,Clifton,,
+2017,Consumer,New Jersey,United States,Clifton,,
 2014,Consumer,New Jersey,United States,East Orange,,
 2015,Consumer,New Jersey,United States,East Orange,,
 2016,Consumer,New Jersey,United States,East Orange,17,345.47
@@ -747,6 +959,30 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,New Jersey,United States,Vineland,,
 2016,Consumer,New Jersey,United States,Vineland,2,244.00599999999997
 2017,Consumer,New Jersey,United States,Vineland,14,153.41
+2014,Consumer,New Mexico,United States,Albuquerque,4,57.266000000000005
+2015,Consumer,New Mexico,United States,Albuquerque,,
+2016,Consumer,New Mexico,United States,Albuquerque,,
+2017,Consumer,New Mexico,United States,Albuquerque,6,122.53
+2014,Consumer,New Mexico,United States,Carlsbad,,
+2015,Consumer,New Mexico,United States,Carlsbad,,
+2016,Consumer,New Mexico,United States,Carlsbad,8,39.176
+2017,Consumer,New Mexico,United States,Carlsbad,,
+2014,Consumer,New Mexico,United States,Farmington,,
+2015,Consumer,New Mexico,United States,Farmington,1,12.88
+2016,Consumer,New Mexico,United States,Farmington,,
+2017,Consumer,New Mexico,United States,Farmington,9,545.85
+2014,Consumer,New Mexico,United States,Las Cruces,,
+2015,Consumer,New Mexico,United States,Las Cruces,4,49.12
+2016,Consumer,New Mexico,United States,Las Cruces,,
+2017,Consumer,New Mexico,United States,Las Cruces,3,41.37
+2014,Consumer,New Mexico,United States,Rio Rancho,,
+2015,Consumer,New Mexico,United States,Rio Rancho,7,1114.192
+2016,Consumer,New Mexico,United States,Rio Rancho,,
+2017,Consumer,New Mexico,United States,Rio Rancho,,
+2014,Consumer,New Mexico,United States,Santa Fe,9,92.52
+2015,Consumer,New Mexico,United States,Santa Fe,,
+2016,Consumer,New Mexico,United States,Santa Fe,,
+2017,Consumer,New Mexico,United States,Santa Fe,,
 2014,Consumer,New York,United States,Auburn,,
 2015,Consumer,New York,United States,Auburn,13,193.26000000000002
 2016,Consumer,New York,United States,Auburn,34,605.9180000000001
@@ -815,6 +1051,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,North Carolina,United States,Asheville,,
 2016,Consumer,North Carolina,United States,Asheville,5,1363.96
 2017,Consumer,North Carolina,United States,Asheville,11,68.26400000000001
+2014,Consumer,North Carolina,United States,Burlington,,
+2015,Consumer,North Carolina,United States,Burlington,,
+2016,Consumer,North Carolina,United States,Burlington,,
+2017,Consumer,North Carolina,United States,Burlington,29,2241.098
 2014,Consumer,North Carolina,United States,Charlotte,12,2715.801
 2015,Consumer,North Carolina,United States,Charlotte,2,5.04
 2016,Consumer,North Carolina,United States,Charlotte,44,2974.117
@@ -871,6 +1111,14 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,North Carolina,United States,Wilson,8,169.54399999999998
 2016,Consumer,North Carolina,United States,Wilson,,
 2017,Consumer,North Carolina,United States,Wilson,,
+2014,Consumer,North Dakota,United States,Fargo,,
+2015,Consumer,North Dakota,United States,Fargo,,
+2016,Consumer,North Dakota,United States,Fargo,,
+2017,Consumer,North Dakota,United States,Fargo,24,891.53
+2014,Consumer,Ohio,United States,Akron,7,165.168
+2015,Consumer,Ohio,United States,Akron,13,427.548
+2016,Consumer,Ohio,United States,Akron,,
+2017,Consumer,Ohio,United States,Akron,20,292.472
 2014,Consumer,Ohio,United States,Bowling Green,2,264.32
 2015,Consumer,Ohio,United States,Bowling Green,9,469.398
 2016,Consumer,Ohio,United States,Bowling Green,3,5.553000000000001
@@ -879,6 +1127,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Ohio,United States,Cincinnati,3,53.040000000000006
 2016,Consumer,Ohio,United States,Cincinnati,9,112.13500000000002
 2017,Consumer,Ohio,United States,Cincinnati,18,427.25300000000004
+2014,Consumer,Ohio,United States,Cleveland,12,1110.6680000000001
+2015,Consumer,Ohio,United States,Cleveland,9,794.82
+2016,Consumer,Ohio,United States,Cleveland,22,2072.486
+2017,Consumer,Ohio,United States,Cleveland,35,324.81100000000004
 2014,Consumer,Ohio,United States,Columbus,94,2407.5519999999997
 2015,Consumer,Ohio,United States,Columbus,40,707.338
 2016,Consumer,Ohio,United States,Columbus,48,2466.401
@@ -887,6 +1139,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Ohio,United States,Cuyahoga Falls,,
 2016,Consumer,Ohio,United States,Cuyahoga Falls,3,2.2140000000000004
 2017,Consumer,Ohio,United States,Cuyahoga Falls,4,18.528000000000002
+2014,Consumer,Ohio,United States,Dublin,,
+2015,Consumer,Ohio,United States,Dublin,22,627.9240000000001
+2016,Consumer,Ohio,United States,Dublin,,
+2017,Consumer,Ohio,United States,Dublin,23,693.79
 2014,Consumer,Ohio,United States,Fairfield,24,616.702
 2015,Consumer,Ohio,United States,Fairfield,,
 2016,Consumer,Ohio,United States,Fairfield,5,548.96
@@ -1027,6 +1283,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Rhode Island,United States,Woonsocket,,
 2016,Consumer,Rhode Island,United States,Woonsocket,,
 2017,Consumer,Rhode Island,United States,Woonsocket,,
+2014,Consumer,South Carolina,United States,Columbia,8,417.81000000000006
+2015,Consumer,South Carolina,United States,Columbia,37,3631.96
+2016,Consumer,South Carolina,United States,Columbia,6,85.5
+2017,Consumer,South Carolina,United States,Columbia,8,325.84
 2014,Consumer,South Carolina,United States,Florence,,
 2015,Consumer,South Carolina,United States,Florence,8,59.480000000000004
 2016,Consumer,South Carolina,United States,Florence,6,191.88
@@ -1059,6 +1319,14 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Tennessee,United States,Chattanooga,,
 2016,Consumer,Tennessee,United States,Chattanooga,5,16.72
 2017,Consumer,Tennessee,United States,Chattanooga,23,740.284
+2014,Consumer,Tennessee,United States,Clarksville,6,69.21600000000001
+2015,Consumer,Tennessee,United States,Clarksville,11,1635.0180000000003
+2016,Consumer,Tennessee,United States,Clarksville,,
+2017,Consumer,Tennessee,United States,Clarksville,,
+2014,Consumer,Tennessee,United States,Columbia,15,732.312
+2015,Consumer,Tennessee,United States,Columbia,10,551.264
+2016,Consumer,Tennessee,United States,Columbia,3,871.8000000000001
+2017,Consumer,Tennessee,United States,Columbia,19,539.5480000000001
 2014,Consumer,Tennessee,United States,Hendersonville,,
 2015,Consumer,Tennessee,United States,Hendersonville,,
 2016,Consumer,Tennessee,United States,Hendersonville,,
@@ -1087,6 +1355,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Texas,United States,Allen,13,290.20599999999996
 2016,Consumer,Texas,United States,Allen,,
 2017,Consumer,Texas,United States,Allen,,
+2014,Consumer,Texas,United States,Amarillo,,
+2015,Consumer,Texas,United States,Amarillo,12,3024.478
+2016,Consumer,Texas,United States,Amarillo,16,523.604
+2017,Consumer,Texas,United States,Amarillo,,
 2014,Consumer,Texas,United States,Beaumont,19,459.348
 2015,Consumer,Texas,United States,Beaumont,,
 2016,Consumer,Texas,United States,Beaumont,,
@@ -1099,6 +1371,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Texas,United States,Cedar Hill,,
 2016,Consumer,Texas,United States,Cedar Hill,,
 2017,Consumer,Texas,United States,Cedar Hill,,
+2014,Consumer,Texas,United States,College Station,,
+2015,Consumer,Texas,United States,College Station,,
+2016,Consumer,Texas,United States,College Station,,
+2017,Consumer,Texas,United States,College Station,19,291.04200000000003
 2014,Consumer,Texas,United States,Coppell,,
 2015,Consumer,Texas,United States,Coppell,,
 2016,Consumer,Texas,United States,Coppell,,
@@ -1111,6 +1387,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Texas,United States,Edinburg,,
 2016,Consumer,Texas,United States,Edinburg,9,85.908
 2017,Consumer,Texas,United States,Edinburg,2,2.368
+2014,Consumer,Texas,United States,El Paso,36,2001.0339999999999
+2015,Consumer,Texas,United States,El Paso,2,47.51599999999999
+2016,Consumer,Texas,United States,El Paso,4,17.856
+2017,Consumer,Texas,United States,El Paso,12,1322.75
 2014,Consumer,Texas,United States,Fort Worth,17,2233.12
 2015,Consumer,Texas,United States,Fort Worth,,
 2016,Consumer,Texas,United States,Fort Worth,11,477.14199999999994
@@ -1119,6 +1399,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Texas,United States,Frisco,,
 2016,Consumer,Texas,United States,Frisco,,
 2017,Consumer,Texas,United States,Frisco,6,30.336000000000006
+2014,Consumer,Texas,United States,Harlingen,,
+2015,Consumer,Texas,United States,Harlingen,,
+2016,Consumer,Texas,United States,Harlingen,13,392.06
+2017,Consumer,Texas,United States,Harlingen,8,79.34400000000001
 2014,Consumer,Texas,United States,Houston,185,8741.538999999999
 2015,Consumer,Texas,United States,Houston,190,6519.227200000001
 2016,Consumer,Texas,United States,Houston,212,9731.7644
@@ -1207,6 +1491,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Texas,United States,Waco,,
 2016,Consumer,Texas,United States,Waco,2,23.968000000000004
 2017,Consumer,Texas,United States,Waco,14,581.5831999999999
+2014,Consumer,Utah,United States,Draper,,
+2015,Consumer,Utah,United States,Draper,,
+2016,Consumer,Utah,United States,Draper,,
+2017,Consumer,Utah,United States,Draper,6,151.72
 2014,Consumer,Utah,United States,Layton,,
 2015,Consumer,Utah,United States,Layton,4,4.96
 2016,Consumer,Utah,United States,Layton,,
@@ -1239,6 +1527,14 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Utah,United States,West Jordan,14,256.35
 2016,Consumer,Utah,United States,West Jordan,,
 2017,Consumer,Utah,United States,West Jordan,,
+2014,Consumer,Vermont,United States,Burlington,,
+2015,Consumer,Vermont,United States,Burlington,3,715.2
+2016,Consumer,Vermont,United States,Burlington,,
+2017,Consumer,Vermont,United States,Burlington,9,637.1799999999998
+2014,Consumer,Virginia,United States,Alexandria,2,24.56
+2015,Consumer,Virginia,United States,Alexandria,,
+2016,Consumer,Virginia,United States,Alexandria,5,81.19999999999999
+2017,Consumer,Virginia,United States,Alexandria,7,25.060000000000002
 2014,Consumer,Virginia,United States,Charlottesville,,
 2015,Consumer,Virginia,United States,Charlottesville,,
 2016,Consumer,Virginia,United States,Charlottesville,,
@@ -1247,6 +1543,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Virginia,United States,Chesapeake,4,197.72
 2016,Consumer,Virginia,United States,Chesapeake,13,1911.48
 2017,Consumer,Virginia,United States,Chesapeake,5,504.90000000000003
+2014,Consumer,Virginia,United States,Hampton,5,149.9
+2015,Consumer,Virginia,United States,Hampton,23,750.9299999999998
+2016,Consumer,Virginia,United States,Hampton,1,290.98
+2017,Consumer,Virginia,United States,Hampton,,
 2014,Consumer,Virginia,United States,Newport News,,
 2015,Consumer,Virginia,United States,Newport News,4,31.12
 2016,Consumer,Virginia,United States,Newport News,9,1611.01
@@ -1359,6 +1659,38 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Consumer,Wisconsin,United States,Wausau,,
 2016,Consumer,Wisconsin,United States,Wausau,,
 2017,Consumer,Wisconsin,United States,Wausau,,
+2014,Corporate,Alabama,United States,Hoover,,
+2015,Corporate,Alabama,United States,Hoover,,
+2016,Corporate,Alabama,United States,Hoover,,
+2017,Corporate,Alabama,United States,Hoover,15,525.85
+2014,Corporate,Alabama,United States,Huntsville,,
+2015,Corporate,Alabama,United States,Huntsville,4,19.56
+2016,Corporate,Alabama,United States,Huntsville,11,1517.01
+2017,Corporate,Alabama,United States,Huntsville,4,26.16
+2014,Corporate,Alabama,United States,Mobile,,
+2015,Corporate,Alabama,United States,Mobile,,
+2016,Corporate,Alabama,United States,Mobile,23,3236.41
+2017,Corporate,Alabama,United States,Mobile,,
+2014,Corporate,Alabama,United States,Montgomery,14,2216.7999999999997
+2015,Corporate,Alabama,United States,Montgomery,19,478.4
+2016,Corporate,Alabama,United States,Montgomery,,
+2017,Corporate,Alabama,United States,Montgomery,2,10.16
+2014,Corporate,Arkansas,United States,Fayetteville,5,16.23
+2015,Corporate,Arkansas,United States,Fayetteville,,
+2016,Corporate,Arkansas,United States,Fayetteville,,
+2017,Corporate,Arkansas,United States,Fayetteville,9,204.55
+2014,Corporate,Arkansas,United States,Little Rock,20,484.78999999999996
+2015,Corporate,Arkansas,United States,Little Rock,,
+2016,Corporate,Arkansas,United States,Little Rock,,
+2017,Corporate,Arkansas,United States,Little Rock,16,1152.8700000000001
+2014,Corporate,Arkansas,United States,Texarkana,6,605.34
+2015,Corporate,Arkansas,United States,Texarkana,,
+2016,Corporate,Arkansas,United States,Texarkana,,
+2017,Corporate,Arkansas,United States,Texarkana,,
+2014,Corporate,California,United States,Anaheim,,
+2015,Corporate,California,United States,Anaheim,23,1336.352
+2016,Corporate,California,United States,Anaheim,7,1293.4879999999998
+2017,Corporate,California,United States,Anaheim,15,1892.2
 2014,Corporate,California,United States,Antioch,,
 2015,Corporate,California,United States,Antioch,,
 2016,Corporate,California,United States,Antioch,3,19.44
@@ -1563,6 +1895,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Connecticut,United States,Middletown,5,26.9
 2016,Corporate,Connecticut,United States,Middletown,7,48.16
 2017,Corporate,Connecticut,United States,Middletown,3,181.95
+2014,Corporate,Connecticut,United States,Milford,,
+2015,Corporate,Connecticut,United States,Milford,,
+2016,Corporate,Connecticut,United States,Milford,,
+2017,Corporate,Connecticut,United States,Milford,14,694.6700000000001
 2014,Corporate,Connecticut,United States,Norwich,,
 2015,Corporate,Connecticut,United States,Norwich,,
 2016,Corporate,Connecticut,United States,Norwich,1,11.34
@@ -1571,6 +1907,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Connecticut,United States,Waterbury,,
 2016,Corporate,Connecticut,United States,Waterbury,8,584.7700000000001
 2017,Corporate,Connecticut,United States,Waterbury,,
+2014,Corporate,Delaware,United States,Dover,,
+2015,Corporate,Delaware,United States,Dover,,
+2016,Corporate,Delaware,United States,Dover,2,211.96
+2017,Corporate,Delaware,United States,Dover,,
+2014,Corporate,Delaware,United States,Newark,19,3127.6099999999997
+2015,Corporate,Delaware,United States,Newark,32,1253.09
+2016,Corporate,Delaware,United States,Newark,13,135.98999999999998
+2017,Corporate,Delaware,United States,Newark,41,1097.1399999999999
+2014,Corporate,Delaware,United States,Wilmington,21,1271.4199999999998
+2015,Corporate,Delaware,United States,Wilmington,18,1214.446
+2016,Corporate,Delaware,United States,Wilmington,,
+2017,Corporate,Delaware,United States,Wilmington,,
 2014,Corporate,Florida,United States,Apopka,,
 2015,Corporate,Florida,United States,Apopka,,
 2016,Corporate,Florida,United States,Apopka,8,29.97000000000001
@@ -1591,6 +1939,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Florida,United States,Fort Lauderdale,,
 2016,Corporate,Florida,United States,Fort Lauderdale,7,519.68
 2017,Corporate,Florida,United States,Fort Lauderdale,5,1158.12
+2014,Corporate,Florida,United States,Hollywood,,
+2015,Corporate,Florida,United States,Hollywood,,
+2016,Corporate,Florida,United States,Hollywood,4,9.216
+2017,Corporate,Florida,United States,Hollywood,,
 2014,Corporate,Florida,United States,Jacksonville,3,3.9830000000000005
 2015,Corporate,Florida,United States,Jacksonville,16,801.6880000000001
 2016,Corporate,Florida,United States,Jacksonville,51,1198.7920000000004
@@ -1647,6 +1999,14 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Florida,United States,Tampa,12,277.632
 2016,Corporate,Florida,United States,Tampa,5,324.38700000000006
 2017,Corporate,Florida,United States,Tampa,1,2.8960000000000004
+2014,Corporate,Georgia,United States,Athens,3,12.78
+2015,Corporate,Georgia,United States,Athens,,
+2016,Corporate,Georgia,United States,Athens,,
+2017,Corporate,Georgia,United States,Athens,6,286.09
+2014,Corporate,Georgia,United States,Atlanta,2,9.96
+2015,Corporate,Georgia,United States,Atlanta,,
+2016,Corporate,Georgia,United States,Atlanta,,
+2017,Corporate,Georgia,United States,Atlanta,16,3123.8399999999997
 2014,Corporate,Georgia,United States,Columbus,16,1367.52
 2015,Corporate,Georgia,United States,Columbus,19,976.2500000000001
 2016,Corporate,Georgia,United States,Columbus,11,408.70000000000005
@@ -1675,6 +2035,22 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Georgia,United States,Warner Robins,3,392.93999999999994
 2016,Corporate,Georgia,United States,Warner Robins,,
 2017,Corporate,Georgia,United States,Warner Robins,,
+2014,Corporate,Idaho,United States,Boise,,
+2015,Corporate,Idaho,United States,Boise,6,1004.4999999999999
+2016,Corporate,Idaho,United States,Boise,,
+2017,Corporate,Idaho,United States,Boise,,
+2014,Corporate,Idaho,United States,Caldwell,11,455.63199999999995
+2015,Corporate,Idaho,United States,Caldwell,,
+2016,Corporate,Idaho,United States,Caldwell,,
+2017,Corporate,Idaho,United States,Caldwell,,
+2014,Corporate,Idaho,United States,Meridian,,
+2015,Corporate,Idaho,United States,Meridian,,
+2016,Corporate,Idaho,United States,Meridian,,
+2017,Corporate,Idaho,United States,Meridian,3,21.312000000000005
+2014,Corporate,Idaho,United States,Twin Falls,,
+2015,Corporate,Idaho,United States,Twin Falls,,
+2016,Corporate,Idaho,United States,Twin Falls,7,1148.8059999999998
+2017,Corporate,Idaho,United States,Twin Falls,,
 2014,Corporate,Illinois,United States,Aurora,,
 2015,Corporate,Illinois,United States,Aurora,,
 2016,Corporate,Illinois,United States,Aurora,20,339.97999999999996
@@ -1759,6 +2135,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Iowa,United States,Marion,,
 2016,Corporate,Iowa,United States,Marion,8,115.84
 2017,Corporate,Iowa,United States,Marion,,
+2014,Corporate,Kansas,United States,Overland Park,,
+2015,Corporate,Kansas,United States,Overland Park,,
+2016,Corporate,Kansas,United States,Overland Park,10,186.95
+2017,Corporate,Kansas,United States,Overland Park,13,419.96
 2014,Corporate,Louisiana,United States,Bossier City,24,1417.18
 2015,Corporate,Louisiana,United States,Bossier City,,
 2016,Corporate,Louisiana,United States,Bossier City,,
@@ -1771,6 +2151,46 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Louisiana,United States,Monroe,,
 2016,Corporate,Louisiana,United States,Monroe,10,100.24000000000001
 2017,Corporate,Louisiana,United States,Monroe,,
+2014,Corporate,Maryland,United States,Baltimore,14,526.9599999999999
+2015,Corporate,Maryland,United States,Baltimore,32,854.02
+2016,Corporate,Maryland,United States,Baltimore,4,207.76
+2017,Corporate,Maryland,United States,Baltimore,32,755.7900000000001
+2014,Corporate,Maryland,United States,Clinton,20,463.04
+2015,Corporate,Maryland,United States,Clinton,27,2593.6400000000003
+2016,Corporate,Maryland,United States,Clinton,,
+2017,Corporate,Maryland,United States,Clinton,3,272.96999999999997
+2014,Corporate,Maryland,United States,Columbia,,
+2015,Corporate,Maryland,United States,Columbia,,
+2016,Corporate,Maryland,United States,Columbia,16,122.34
+2017,Corporate,Maryland,United States,Columbia,30,5031.100000000001
+2014,Corporate,Maryland,United States,Gaithersburg,,
+2015,Corporate,Maryland,United States,Gaithersburg,,
+2016,Corporate,Maryland,United States,Gaithersburg,5,405.91999999999996
+2017,Corporate,Maryland,United States,Gaithersburg,,
+2014,Corporate,Maryland,United States,Laurel,,
+2015,Corporate,Maryland,United States,Laurel,,
+2016,Corporate,Maryland,United States,Laurel,,
+2017,Corporate,Maryland,United States,Laurel,5,152.59
+2014,Corporate,Massachusetts,United States,Beverly,15,2583.1899999999996
+2015,Corporate,Massachusetts,United States,Beverly,,
+2016,Corporate,Massachusetts,United States,Beverly,,
+2017,Corporate,Massachusetts,United States,Beverly,,
+2014,Corporate,Massachusetts,United States,Leominster,,
+2015,Corporate,Massachusetts,United States,Leominster,15,191.62
+2016,Corporate,Massachusetts,United States,Leominster,,
+2017,Corporate,Massachusetts,United States,Leominster,,
+2014,Corporate,Massachusetts,United States,Lowell,16,2304.37
+2015,Corporate,Massachusetts,United States,Lowell,,
+2016,Corporate,Massachusetts,United States,Lowell,4,105.52
+2017,Corporate,Massachusetts,United States,Lowell,7,69.93
+2014,Corporate,Massachusetts,United States,Revere,6,73.19999999999999
+2015,Corporate,Massachusetts,United States,Revere,13,702.74
+2016,Corporate,Massachusetts,United States,Revere,,
+2017,Corporate,Massachusetts,United States,Revere,,
+2014,Corporate,Michigan,United States,Ann Arbor,,
+2015,Corporate,Michigan,United States,Ann Arbor,18,736.473
+2016,Corporate,Michigan,United States,Ann Arbor,,
+2017,Corporate,Michigan,United States,Ann Arbor,,
 2014,Corporate,Michigan,United States,Canton,,
 2015,Corporate,Michigan,United States,Canton,,
 2016,Corporate,Michigan,United States,Canton,,
@@ -1847,6 +2267,30 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Mississippi,United States,Southaven,,
 2016,Corporate,Mississippi,United States,Southaven,,
 2017,Corporate,Mississippi,United States,Southaven,15,839.25
+2014,Corporate,Missouri,United States,Columbia,14,77.21000000000001
+2015,Corporate,Missouri,United States,Columbia,,
+2016,Corporate,Missouri,United States,Columbia,,
+2017,Corporate,Missouri,United States,Columbia,,
+2014,Corporate,Missouri,United States,Saint Charles,,
+2015,Corporate,Missouri,United States,Saint Charles,2,10.56
+2016,Corporate,Missouri,United States,Saint Charles,,
+2017,Corporate,Missouri,United States,Saint Charles,,
+2014,Corporate,Missouri,United States,Saint Louis,4,25.92
+2015,Corporate,Missouri,United States,Saint Louis,3,52.59
+2016,Corporate,Missouri,United States,Saint Louis,,
+2017,Corporate,Missouri,United States,Saint Louis,,
+2014,Corporate,Missouri,United States,Springfield,,
+2015,Corporate,Missouri,United States,Springfield,17,5595.56
+2016,Corporate,Missouri,United States,Springfield,4,119.25999999999999
+2017,Corporate,Missouri,United States,Springfield,19,4619.329999999999
+2014,Corporate,Montana,United States,Billings,2,8.288
+2015,Corporate,Montana,United States,Billings,,
+2016,Corporate,Montana,United States,Billings,,
+2017,Corporate,Montana,United States,Billings,,
+2014,Corporate,Montana,United States,Helena,,
+2015,Corporate,Montana,United States,Helena,,
+2016,Corporate,Montana,United States,Helena,,
+2017,Corporate,Montana,United States,Helena,5,39.900000000000006
 2014,Corporate,Nebraska,United States,Fremont,,
 2015,Corporate,Nebraska,United States,Fremont,,
 2016,Corporate,Nebraska,United States,Fremont,14,79.8
@@ -1875,6 +2319,14 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,New Hampshire,United States,Concord,,
 2016,Corporate,New Hampshire,United States,Concord,,
 2017,Corporate,New Hampshire,United States,Concord,8,247.44
+2014,Corporate,New Hampshire,United States,Dover,20,211.66000000000003
+2015,Corporate,New Hampshire,United States,Dover,6,35.88
+2016,Corporate,New Hampshire,United States,Dover,2,159.98
+2017,Corporate,New Hampshire,United States,Dover,,
+2014,Corporate,New Hampshire,United States,Nashua,,
+2015,Corporate,New Hampshire,United States,Nashua,,
+2016,Corporate,New Hampshire,United States,Nashua,4,21.12
+2017,Corporate,New Hampshire,United States,Nashua,,
 2014,Corporate,New Jersey,United States,Atlantic City,,
 2015,Corporate,New Jersey,United States,Atlantic City,,
 2016,Corporate,New Jersey,United States,Atlantic City,2,23.36
@@ -1923,6 +2375,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,New Jersey,United States,Westfield,,
 2016,Corporate,New Jersey,United States,Westfield,3,31.56
 2017,Corporate,New Jersey,United States,Westfield,3,129.93
+2014,Corporate,New Mexico,United States,Albuquerque,7,255.84999999999997
+2015,Corporate,New Mexico,United States,Albuquerque,,
+2016,Corporate,New Mexico,United States,Albuquerque,,
+2017,Corporate,New Mexico,United States,Albuquerque,11,702.0519999999999
+2014,Corporate,New Mexico,United States,Carlsbad,,
+2015,Corporate,New Mexico,United States,Carlsbad,,
+2016,Corporate,New Mexico,United States,Carlsbad,3,24.904
+2017,Corporate,New Mexico,United States,Carlsbad,15,126.98
+2014,Corporate,New Mexico,United States,Farmington,,
+2015,Corporate,New Mexico,United States,Farmington,,
+2016,Corporate,New Mexico,United States,Farmington,,
+2017,Corporate,New Mexico,United States,Farmington,1,159.99
 2014,Corporate,New York,United States,Auburn,,
 2015,Corporate,New York,United States,Auburn,,
 2016,Corporate,New York,United States,Auburn,,
@@ -1979,6 +2443,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,North Carolina,United States,Asheville,,
 2016,Corporate,North Carolina,United States,Asheville,,
 2017,Corporate,North Carolina,United States,Asheville,8,19.008000000000003
+2014,Corporate,North Carolina,United States,Burlington,,
+2015,Corporate,North Carolina,United States,Burlington,,
+2016,Corporate,North Carolina,United States,Burlington,4,630.024
+2017,Corporate,North Carolina,United States,Burlington,9,8176.972
 2014,Corporate,North Carolina,United States,Cary,16,259.04
 2015,Corporate,North Carolina,United States,Cary,3,246.168
 2016,Corporate,North Carolina,United States,Cary,,
@@ -2027,6 +2495,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,North Carolina,United States,Wilson,,
 2016,Corporate,North Carolina,United States,Wilson,7,191.808
 2017,Corporate,North Carolina,United States,Wilson,,
+2014,Corporate,Ohio,United States,Akron,,
+2015,Corporate,Ohio,United States,Akron,,
+2016,Corporate,Ohio,United States,Akron,9,787.044
+2017,Corporate,Ohio,United States,Akron,7,1034.828
 2014,Corporate,Ohio,United States,Bowling Green,,
 2015,Corporate,Ohio,United States,Bowling Green,,
 2016,Corporate,Ohio,United States,Bowling Green,,
@@ -2035,6 +2507,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Ohio,United States,Cincinnati,,
 2016,Corporate,Ohio,United States,Cincinnati,16,889.38
 2017,Corporate,Ohio,United States,Cincinnati,4,94.78399999999999
+2014,Corporate,Ohio,United States,Cleveland,,
+2015,Corporate,Ohio,United States,Cleveland,,
+2016,Corporate,Ohio,United States,Cleveland,,
+2017,Corporate,Ohio,United States,Cleveland,10,144.904
 2014,Corporate,Ohio,United States,Columbus,57,2535.782
 2015,Corporate,Ohio,United States,Columbus,14,369.674
 2016,Corporate,Ohio,United States,Columbus,19,1252.636
@@ -2043,6 +2519,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Ohio,United States,Cuyahoga Falls,6,8.352
 2016,Corporate,Ohio,United States,Cuyahoga Falls,,
 2017,Corporate,Ohio,United States,Cuyahoga Falls,,
+2014,Corporate,Ohio,United States,Dublin,,
+2015,Corporate,Ohio,United States,Dublin,,
+2016,Corporate,Ohio,United States,Dublin,,
+2017,Corporate,Ohio,United States,Dublin,6,1057.446
 2014,Corporate,Ohio,United States,Elyria,,
 2015,Corporate,Ohio,United States,Elyria,,
 2016,Corporate,Ohio,United States,Elyria,,
@@ -2183,6 +2663,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Rhode Island,United States,Woonsocket,3,51.449999999999996
 2016,Corporate,Rhode Island,United States,Woonsocket,,
 2017,Corporate,Rhode Island,United States,Woonsocket,10,91.14
+2014,Corporate,South Carolina,United States,Columbia,27,1295.26
+2015,Corporate,South Carolina,United States,Columbia,3,186.69
+2016,Corporate,South Carolina,United States,Columbia,26,199.18000000000004
+2017,Corporate,South Carolina,United States,Columbia,,
 2014,Corporate,South Carolina,United States,Florence,,
 2015,Corporate,South Carolina,United States,Florence,,
 2016,Corporate,South Carolina,United States,Florence,,
@@ -2211,6 +2695,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Tennessee,United States,Chattanooga,,
 2016,Corporate,Tennessee,United States,Chattanooga,4,132.22400000000002
 2017,Corporate,Tennessee,United States,Chattanooga,5,8.100000000000001
+2014,Corporate,Tennessee,United States,Columbia,,
+2015,Corporate,Tennessee,United States,Columbia,4,467.03999999999996
+2016,Corporate,Tennessee,United States,Columbia,5,79.12
+2017,Corporate,Tennessee,United States,Columbia,9,1893.786
 2014,Corporate,Tennessee,United States,Jackson,,
 2015,Corporate,Tennessee,United States,Jackson,11,692.472
 2016,Corporate,Tennessee,United States,Jackson,,
@@ -2227,6 +2715,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Tennessee,United States,Smyrna,11,670.001
 2016,Corporate,Tennessee,United States,Smyrna,11,104.712
 2017,Corporate,Tennessee,United States,Smyrna,,
+2014,Corporate,Texas,United States,Amarillo,,
+2015,Corporate,Texas,United States,Amarillo,,
+2016,Corporate,Texas,United States,Amarillo,2,19.648
+2017,Corporate,Texas,United States,Amarillo,2,205.33279999999996
 2014,Corporate,Texas,United States,Baytown,,
 2015,Corporate,Texas,United States,Baytown,2,10.368000000000002
 2016,Corporate,Texas,United States,Baytown,,
@@ -2247,10 +2739,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Texas,United States,Cedar Hill,,
 2016,Corporate,Texas,United States,Cedar Hill,,
 2017,Corporate,Texas,United States,Cedar Hill,3,115.296
+2014,Corporate,Texas,United States,Conroe,,
+2015,Corporate,Texas,United States,Conroe,,
+2016,Corporate,Texas,United States,Conroe,9,111.67200000000001
+2017,Corporate,Texas,United States,Conroe,,
 2014,Corporate,Texas,United States,Coppell,,
 2015,Corporate,Texas,United States,Coppell,4,95.84
 2016,Corporate,Texas,United States,Coppell,,
 2017,Corporate,Texas,United States,Coppell,,
+2014,Corporate,Texas,United States,Corpus Christi,30,146.192
+2015,Corporate,Texas,United States,Corpus Christi,,
+2016,Corporate,Texas,United States,Corpus Christi,,
+2017,Corporate,Texas,United States,Corpus Christi,,
 2014,Corporate,Texas,United States,Dallas,35,1153.638
 2015,Corporate,Texas,United States,Dallas,31,1898.2910000000002
 2016,Corporate,Texas,United States,Dallas,39,1201.748
@@ -2259,6 +2759,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Texas,United States,Deer Park,,
 2016,Corporate,Texas,United States,Deer Park,6,6.923999999999998
 2017,Corporate,Texas,United States,Deer Park,,
+2014,Corporate,Texas,United States,El Paso,2,49.568000000000005
+2015,Corporate,Texas,United States,El Paso,,
+2016,Corporate,Texas,United States,El Paso,,
+2017,Corporate,Texas,United States,El Paso,3,95.97600000000001
 2014,Corporate,Texas,United States,Fort Worth,,
 2015,Corporate,Texas,United States,Fort Worth,12,39.60799999999999
 2016,Corporate,Texas,United States,Fort Worth,6,39.792
@@ -2351,6 +2855,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Texas,United States,Waco,,
 2016,Corporate,Texas,United States,Waco,,
 2017,Corporate,Texas,United States,Waco,1,0.5559999999999998
+2014,Corporate,Utah,United States,Draper,7,111.93
+2015,Corporate,Utah,United States,Draper,,
+2016,Corporate,Utah,United States,Draper,,
+2017,Corporate,Utah,United States,Draper,,
 2014,Corporate,Utah,United States,Lehi,,
 2015,Corporate,Utah,United States,Lehi,3,16.776000000000003
 2016,Corporate,Utah,United States,Lehi,,
@@ -2367,10 +2875,22 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Utah,United States,Provo,,
 2016,Corporate,Utah,United States,Provo,,
 2017,Corporate,Utah,United States,Provo,21,1782.1040000000003
+2014,Corporate,Vermont,United States,Burlington,,
+2015,Corporate,Vermont,United States,Burlington,5,4404.9
+2016,Corporate,Vermont,United States,Burlington,21,1672.31
+2017,Corporate,Vermont,United States,Burlington,7,205.03
+2014,Corporate,Virginia,United States,Alexandria,22,4251.919999999999
+2015,Corporate,Virginia,United States,Alexandria,14,192.22
+2016,Corporate,Virginia,United States,Alexandria,,
+2017,Corporate,Virginia,United States,Alexandria,,
 2014,Corporate,Virginia,United States,Chesapeake,10,321.56
 2015,Corporate,Virginia,United States,Chesapeake,8,125.64
 2016,Corporate,Virginia,United States,Chesapeake,,
 2017,Corporate,Virginia,United States,Chesapeake,,
+2014,Corporate,Virginia,United States,Hampton,16,1417.35
+2015,Corporate,Virginia,United States,Hampton,,
+2016,Corporate,Virginia,United States,Hampton,,
+2017,Corporate,Virginia,United States,Hampton,,
 2014,Corporate,Virginia,United States,Newport News,10,788.86
 2015,Corporate,Virginia,United States,Newport News,,
 2016,Corporate,Virginia,United States,Newport News,,
@@ -2443,6 +2963,42 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Corporate,Wisconsin,United States,West Allis,,
 2016,Corporate,Wisconsin,United States,West Allis,5,250.48000000000002
 2017,Corporate,Wisconsin,United States,West Allis,,
+2014,Home Office,Alabama,United States,Auburn,,
+2015,Home Office,Alabama,United States,Auburn,,
+2016,Home Office,Alabama,United States,Auburn,,
+2017,Home Office,Alabama,United States,Auburn,2,3.76
+2014,Home Office,Alabama,United States,Florence,,
+2015,Home Office,Alabama,United States,Florence,,
+2016,Home Office,Alabama,United States,Florence,1,4.98
+2017,Home Office,Alabama,United States,Florence,,
+2014,Home Office,Alabama,United States,Huntsville,,
+2015,Home Office,Alabama,United States,Huntsville,,
+2016,Home Office,Alabama,United States,Huntsville,,
+2017,Home Office,Alabama,United States,Huntsville,12,819.28
+2014,Home Office,Alabama,United States,Tuscaloosa,,
+2015,Home Office,Alabama,United States,Tuscaloosa,,
+2016,Home Office,Alabama,United States,Tuscaloosa,,
+2017,Home Office,Alabama,United States,Tuscaloosa,9,175.70000000000002
+2014,Home Office,Arkansas,United States,Fayetteville,,
+2015,Home Office,Arkansas,United States,Fayetteville,2,6.24
+2016,Home Office,Arkansas,United States,Fayetteville,3,19.44
+2017,Home Office,Arkansas,United States,Fayetteville,,
+2014,Home Office,Arkansas,United States,Hot Springs,,
+2015,Home Office,Arkansas,United States,Hot Springs,,
+2016,Home Office,Arkansas,United States,Hot Springs,14,215.83999999999997
+2017,Home Office,Arkansas,United States,Hot Springs,,
+2014,Home Office,Arkansas,United States,Jonesboro,,
+2015,Home Office,Arkansas,United States,Jonesboro,,
+2016,Home Office,Arkansas,United States,Jonesboro,,
+2017,Home Office,Arkansas,United States,Jonesboro,10,117.62
+2014,Home Office,Arkansas,United States,Springdale,,
+2015,Home Office,Arkansas,United States,Springdale,,
+2016,Home Office,Arkansas,United States,Springdale,,
+2017,Home Office,Arkansas,United States,Springdale,2,4.3
+2014,Home Office,Arkansas,United States,Texarkana,,
+2015,Home Office,Arkansas,United States,Texarkana,,
+2016,Home Office,Arkansas,United States,Texarkana,,
+2017,Home Office,Arkansas,United States,Texarkana,5,48.9
 2014,Home Office,California,United States,Apple Valley,,
 2015,Home Office,California,United States,Apple Valley,,
 2016,Home Office,California,United States,Apple Valley,,
@@ -2611,6 +3167,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Connecticut,United States,Meriden,,
 2016,Home Office,Connecticut,United States,Meriden,,
 2017,Home Office,Connecticut,United States,Meriden,4,11.12
+2014,Home Office,Connecticut,United States,Milford,,
+2015,Home Office,Connecticut,United States,Milford,,
+2016,Home Office,Connecticut,United States,Milford,5,199.75
+2017,Home Office,Connecticut,United States,Milford,,
 2014,Home Office,Connecticut,United States,Norwich,,
 2015,Home Office,Connecticut,United States,Norwich,6,22.200000000000003
 2016,Home Office,Connecticut,United States,Norwich,,
@@ -2623,6 +3183,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Connecticut,United States,Waterbury,,
 2016,Home Office,Connecticut,United States,Waterbury,,
 2017,Home Office,Connecticut,United States,Waterbury,10,484.74
+2014,Home Office,Delaware,United States,Newark,7,198.09
+2015,Home Office,Delaware,United States,Newark,10,807.5400000000001
+2016,Home Office,Delaware,United States,Newark,,
+2017,Home Office,Delaware,United States,Newark,9,299.52
+2014,Home Office,Delaware,United States,Wilmington,,
+2015,Home Office,Delaware,United States,Wilmington,,
+2016,Home Office,Delaware,United States,Wilmington,,
+2017,Home Office,Delaware,United States,Wilmington,9,872.5
+2014,Home Office,District of Columbia,United States,Washington,,
+2015,Home Office,District of Columbia,United States,Washington,,
+2016,Home Office,District of Columbia,United States,Washington,8,33.92
+2017,Home Office,District of Columbia,United States,Washington,8,77.75999999999999
 2014,Home Office,Florida,United States,Apopka,,
 2015,Home Office,Florida,United States,Apopka,,
 2016,Home Office,Florida,United States,Apopka,5,681.4320000000001
@@ -2639,6 +3211,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Florida,United States,Fort Lauderdale,,
 2016,Home Office,Florida,United States,Fort Lauderdale,10,74.32000000000001
 2017,Home Office,Florida,United States,Fort Lauderdale,4,188.608
+2014,Home Office,Florida,United States,Hollywood,,
+2015,Home Office,Florida,United States,Hollywood,,
+2016,Home Office,Florida,United States,Hollywood,,
+2017,Home Office,Florida,United States,Hollywood,13,411.05
 2014,Home Office,Florida,United States,Jacksonville,31,23752.284
 2015,Home Office,Florida,United States,Jacksonville,9,1422.8880000000001
 2016,Home Office,Florida,United States,Jacksonville,1,5.08
@@ -2675,6 +3251,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Florida,United States,West Palm Beach,5,13.120000000000001
 2016,Home Office,Florida,United States,West Palm Beach,,
 2017,Home Office,Florida,United States,West Palm Beach,,
+2014,Home Office,Georgia,United States,Atlanta,,
+2015,Home Office,Georgia,United States,Atlanta,,
+2016,Home Office,Georgia,United States,Atlanta,9,1396.35
+2017,Home Office,Georgia,United States,Atlanta,,
 2014,Home Office,Georgia,United States,Columbus,,
 2015,Home Office,Georgia,United States,Columbus,,
 2016,Home Office,Georgia,United States,Columbus,29,1999.0299999999997
@@ -2695,6 +3275,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Georgia,United States,Smyrna,7,260.31
 2016,Home Office,Georgia,United States,Smyrna,41,2075.51
 2017,Home Office,Georgia,United States,Smyrna,,
+2014,Home Office,Idaho,United States,Meridian,,
+2015,Home Office,Idaho,United States,Meridian,,
+2016,Home Office,Idaho,United States,Meridian,,
+2017,Home Office,Idaho,United States,Meridian,8,307.74
 2014,Home Office,Illinois,United States,Aurora,11,68.204
 2015,Home Office,Illinois,United States,Aurora,14,904.1790000000001
 2016,Home Office,Illinois,United States,Aurora,20,1103.88
@@ -2775,6 +3359,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Indiana,United States,Richmond,7,112.03999999999999
 2016,Home Office,Indiana,United States,Richmond,,
 2017,Home Office,Indiana,United States,Richmond,38,3442.640000000001
+2014,Home Office,Iowa,United States,Burlington,,
+2015,Home Office,Iowa,United States,Burlington,,
+2016,Home Office,Iowa,United States,Burlington,,
+2017,Home Office,Iowa,United States,Burlington,4,12.68
 2014,Home Office,Iowa,United States,Dubuque,,
 2015,Home Office,Iowa,United States,Dubuque,14,1423.34
 2016,Home Office,Iowa,United States,Dubuque,,
@@ -2783,6 +3371,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Iowa,United States,Marion,,
 2016,Home Office,Iowa,United States,Marion,,
 2017,Home Office,Iowa,United States,Marion,3,106.32
+2014,Home Office,Kansas,United States,Manhattan,2,273.96
+2015,Home Office,Kansas,United States,Manhattan,,
+2016,Home Office,Kansas,United States,Manhattan,,
+2017,Home Office,Kansas,United States,Manhattan,,
+2014,Home Office,Kansas,United States,Olathe,12,787.8499999999999
+2015,Home Office,Kansas,United States,Olathe,,
+2016,Home Office,Kansas,United States,Olathe,3,107.94
+2017,Home Office,Kansas,United States,Olathe,,
+2014,Home Office,Kansas,United States,Wichita,,
+2015,Home Office,Kansas,United States,Wichita,5,149.2
+2016,Home Office,Kansas,United States,Wichita,,
+2017,Home Office,Kansas,United States,Wichita,,
 2014,Home Office,Louisiana,United States,Lake Charles,,
 2015,Home Office,Louisiana,United States,Lake Charles,,
 2016,Home Office,Louisiana,United States,Lake Charles,,
@@ -2795,6 +3395,46 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Maine,United States,Lewiston,6,106.08000000000001
 2016,Home Office,Maine,United States,Lewiston,,
 2017,Home Office,Maine,United States,Lewiston,,
+2014,Home Office,Maryland,United States,Baltimore,3,7.83
+2015,Home Office,Maryland,United States,Baltimore,14,299.75
+2016,Home Office,Maryland,United States,Baltimore,,
+2017,Home Office,Maryland,United States,Baltimore,11,1071.7400000000002
+2014,Home Office,Maryland,United States,Clinton,,
+2015,Home Office,Maryland,United States,Clinton,7,384.85999999999996
+2016,Home Office,Maryland,United States,Clinton,,
+2017,Home Office,Maryland,United States,Clinton,4,69.06
+2014,Home Office,Maryland,United States,Columbia,,
+2015,Home Office,Maryland,United States,Columbia,,
+2016,Home Office,Maryland,United States,Columbia,,
+2017,Home Office,Maryland,United States,Columbia,18,432.14
+2014,Home Office,Massachusetts,United States,Cambridge,,
+2015,Home Office,Massachusetts,United States,Cambridge,14,411.49
+2016,Home Office,Massachusetts,United States,Cambridge,,
+2017,Home Office,Massachusetts,United States,Cambridge,5,90.6
+2014,Home Office,Massachusetts,United States,Everett,,
+2015,Home Office,Massachusetts,United States,Everett,29,2303.758
+2016,Home Office,Massachusetts,United States,Everett,,
+2017,Home Office,Massachusetts,United States,Everett,,
+2014,Home Office,Massachusetts,United States,Holyoke,,
+2015,Home Office,Massachusetts,United States,Holyoke,2,301.96
+2016,Home Office,Massachusetts,United States,Holyoke,,
+2017,Home Office,Massachusetts,United States,Holyoke,,
+2014,Home Office,Massachusetts,United States,Malden,,
+2015,Home Office,Massachusetts,United States,Malden,,
+2016,Home Office,Massachusetts,United States,Malden,7,188.7
+2017,Home Office,Massachusetts,United States,Malden,,
+2014,Home Office,Massachusetts,United States,Quincy,,
+2015,Home Office,Massachusetts,United States,Quincy,2,85.3
+2016,Home Office,Massachusetts,United States,Quincy,,
+2017,Home Office,Massachusetts,United States,Quincy,12,283.46
+2014,Home Office,Massachusetts,United States,Revere,,
+2015,Home Office,Massachusetts,United States,Revere,5,57.32000000000001
+2016,Home Office,Massachusetts,United States,Revere,,
+2017,Home Office,Massachusetts,United States,Revere,,
+2014,Home Office,Michigan,United States,Ann Arbor,,
+2015,Home Office,Michigan,United States,Ann Arbor,5,152.79999999999998
+2016,Home Office,Michigan,United States,Ann Arbor,,
+2017,Home Office,Michigan,United States,Ann Arbor,,
 2014,Home Office,Michigan,United States,Canton,,
 2015,Home Office,Michigan,United States,Canton,,
 2016,Home Office,Michigan,United States,Canton,,
@@ -2863,6 +3503,38 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Mississippi,United States,Jackson,,
 2016,Home Office,Mississippi,United States,Jackson,40,1035.26
 2017,Home Office,Mississippi,United States,Jackson,14,684.7800000000001
+2014,Home Office,Missouri,United States,Columbia,,
+2015,Home Office,Missouri,United States,Columbia,,
+2016,Home Office,Missouri,United States,Columbia,10,2377.5600000000004
+2017,Home Office,Missouri,United States,Columbia,,
+2014,Home Office,Missouri,United States,Independence,,
+2015,Home Office,Missouri,United States,Independence,,
+2016,Home Office,Missouri,United States,Independence,,
+2017,Home Office,Missouri,United States,Independence,3,1577.94
+2014,Home Office,Missouri,United States,Jefferson City,,
+2015,Home Office,Missouri,United States,Jefferson City,,
+2016,Home Office,Missouri,United States,Jefferson City,2,86.62
+2017,Home Office,Missouri,United States,Jefferson City,,
+2014,Home Office,Missouri,United States,Saint Peters,,
+2015,Home Office,Missouri,United States,Saint Peters,,
+2016,Home Office,Missouri,United States,Saint Peters,4,697.16
+2017,Home Office,Missouri,United States,Saint Peters,,
+2014,Home Office,Missouri,United States,Springfield,9,886.2800000000001
+2015,Home Office,Missouri,United States,Springfield,,
+2016,Home Office,Missouri,United States,Springfield,1,54.48
+2017,Home Office,Missouri,United States,Springfield,21,873.76
+2014,Home Office,Montana,United States,Bozeman,,
+2015,Home Office,Montana,United States,Bozeman,5,43.66
+2016,Home Office,Montana,United States,Bozeman,,
+2017,Home Office,Montana,United States,Bozeman,,
+2014,Home Office,Montana,United States,Great Falls,2,6.096
+2015,Home Office,Montana,United States,Great Falls,,
+2016,Home Office,Montana,United States,Great Falls,,
+2017,Home Office,Montana,United States,Great Falls,13,4189.38
+2014,Home Office,Montana,United States,Helena,,
+2015,Home Office,Montana,United States,Helena,12,403.94000000000005
+2016,Home Office,Montana,United States,Helena,,
+2017,Home Office,Montana,United States,Helena,,
 2014,Home Office,Nebraska,United States,Fremont,,
 2015,Home Office,Nebraska,United States,Fremont,,
 2016,Home Office,Nebraska,United States,Fremont,,
@@ -2887,6 +3559,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,New Hampshire,United States,Concord,7,184.66
 2016,Home Office,New Hampshire,United States,Concord,10,752.4799999999999
 2017,Home Office,New Hampshire,United States,Concord,24,1144.8700000000001
+2014,Home Office,New Hampshire,United States,Dover,,
+2015,Home Office,New Hampshire,United States,Dover,18,3332.974
+2016,Home Office,New Hampshire,United States,Dover,,
+2017,Home Office,New Hampshire,United States,Dover,,
 2014,Home Office,New Jersey,United States,Bayonne,,
 2015,Home Office,New Jersey,United States,Bayonne,9,183.4
 2016,Home Office,New Jersey,United States,Bayonne,,
@@ -2915,6 +3591,22 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,New Jersey,United States,Westfield,,
 2016,Home Office,New Jersey,United States,Westfield,7,311.97
 2017,Home Office,New Jersey,United States,Westfield,3,46.26
+2014,Home Office,New Mexico,United States,Albuquerque,3,302.376
+2015,Home Office,New Mexico,United States,Albuquerque,,
+2016,Home Office,New Mexico,United States,Albuquerque,,
+2017,Home Office,New Mexico,United States,Albuquerque,34,780.086
+2014,Home Office,New Mexico,United States,Carlsbad,,
+2015,Home Office,New Mexico,United States,Carlsbad,,
+2016,Home Office,New Mexico,United States,Carlsbad,,
+2017,Home Office,New Mexico,United States,Carlsbad,9,228.28
+2014,Home Office,New Mexico,United States,Las Cruces,,
+2015,Home Office,New Mexico,United States,Las Cruces,2,8.28
+2016,Home Office,New Mexico,United States,Las Cruces,,
+2017,Home Office,New Mexico,United States,Las Cruces,,
+2014,Home Office,New Mexico,United States,Santa Fe,,
+2015,Home Office,New Mexico,United States,Santa Fe,5,8.4
+2016,Home Office,New Mexico,United States,Santa Fe,,
+2017,Home Office,New Mexico,United States,Santa Fe,,
 2014,Home Office,New York,United States,Long Beach,,
 2015,Home Office,New York,United States,Long Beach,6,7.5600000000000005
 2016,Home Office,New York,United States,Long Beach,,
@@ -2951,6 +3643,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,New York,United States,Yonkers,,
 2016,Home Office,New York,United States,Yonkers,,
 2017,Home Office,New York,United States,Yonkers,8,216.4
+2014,Home Office,North Carolina,United States,Burlington,,
+2015,Home Office,North Carolina,United States,Burlington,,
+2016,Home Office,North Carolina,United States,Burlington,,
+2017,Home Office,North Carolina,United States,Burlington,4,1633.1880000000003
 2014,Home Office,North Carolina,United States,Charlotte,,
 2015,Home Office,North Carolina,United States,Charlotte,,
 2016,Home Office,North Carolina,United States,Charlotte,14,823.6100000000001
@@ -2983,6 +3679,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,North Carolina,United States,Wilson,5,7.380000000000001
 2016,Home Office,North Carolina,United States,Wilson,,
 2017,Home Office,North Carolina,United States,Wilson,,
+2014,Home Office,North Dakota,United States,Fargo,,
+2015,Home Office,North Dakota,United States,Fargo,,
+2016,Home Office,North Dakota,United States,Fargo,,
+2017,Home Office,North Dakota,United States,Fargo,6,28.38
+2014,Home Office,Ohio,United States,Akron,3,5.742000000000001
+2015,Home Office,Ohio,United States,Akron,,
+2016,Home Office,Ohio,United States,Akron,6,17.184
+2017,Home Office,Ohio,United States,Akron,,
+2014,Home Office,Ohio,United States,Cleveland,,
+2015,Home Office,Ohio,United States,Cleveland,7,105.792
+2016,Home Office,Ohio,United States,Cleveland,15,346.264
+2017,Home Office,Ohio,United States,Cleveland,28,1446.4400000000003
 2014,Home Office,Ohio,United States,Columbus,18,608.7919999999999
 2015,Home Office,Ohio,United States,Columbus,,
 2016,Home Office,Ohio,United States,Columbus,51,1083.655
@@ -3067,6 +3775,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Rhode Island,United States,Providence,8,448.21000000000004
 2016,Home Office,Rhode Island,United States,Providence,48,10876.300000000001
 2017,Home Office,Rhode Island,United States,Providence,,
+2014,Home Office,South Carolina,United States,Columbia,,
+2015,Home Office,South Carolina,United States,Columbia,,
+2016,Home Office,South Carolina,United States,Columbia,4,25.92
+2017,Home Office,South Carolina,United States,Columbia,,
 2014,Home Office,Tennessee,United States,Bristol,,
 2015,Home Office,Tennessee,United States,Bristol,,
 2016,Home Office,Tennessee,United States,Bristol,3,67.56
@@ -3075,6 +3787,14 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Tennessee,United States,Chattanooga,,
 2016,Home Office,Tennessee,United States,Chattanooga,1,91.475
 2017,Home Office,Tennessee,United States,Chattanooga,,
+2014,Home Office,Tennessee,United States,Clarksville,,
+2015,Home Office,Tennessee,United States,Clarksville,,
+2016,Home Office,Tennessee,United States,Clarksville,,
+2017,Home Office,Tennessee,United States,Clarksville,10,513.4960000000001
+2014,Home Office,Tennessee,United States,Columbia,2,18.240000000000002
+2015,Home Office,Tennessee,United States,Columbia,,
+2016,Home Office,Tennessee,United States,Columbia,,
+2017,Home Office,Tennessee,United States,Columbia,2,9.664000000000001
 2014,Home Office,Tennessee,United States,Hendersonville,,
 2015,Home Office,Tennessee,United States,Hendersonville,,
 2016,Home Office,Tennessee,United States,Hendersonville,8,16.218000000000004
@@ -3095,10 +3815,18 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Texas,United States,Bryan,,
 2016,Home Office,Texas,United States,Bryan,,
 2017,Home Office,Texas,United States,Bryan,15,65.84
+2014,Home Office,Texas,United States,Corpus Christi,,
+2015,Home Office,Texas,United States,Corpus Christi,,
+2016,Home Office,Texas,United States,Corpus Christi,,
+2017,Home Office,Texas,United States,Corpus Christi,3,74.352
 2014,Home Office,Texas,United States,Dallas,10,1340.976
 2015,Home Office,Texas,United States,Dallas,13,14.216
 2016,Home Office,Texas,United States,Dallas,27,231.056
 2017,Home Office,Texas,United States,Dallas,48,2366.352999999999
+2014,Home Office,Texas,United States,El Paso,6,11.364
+2015,Home Office,Texas,United States,El Paso,,
+2016,Home Office,Texas,United States,El Paso,,
+2017,Home Office,Texas,United States,El Paso,,
 2014,Home Office,Texas,United States,Fort Worth,,
 2015,Home Office,Texas,United States,Fort Worth,25,2150.466
 2016,Home Office,Texas,United States,Fort Worth,,
@@ -3167,6 +3895,14 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Utah,United States,Salt Lake City,,
 2016,Home Office,Utah,United States,Salt Lake City,24,219.11999999999998
 2017,Home Office,Utah,United States,Salt Lake City,,
+2014,Home Office,Vermont,United States,Burlington,,
+2015,Home Office,Vermont,United States,Burlington,,
+2016,Home Office,Vermont,United States,Burlington,5,1294.75
+2017,Home Office,Vermont,United States,Burlington,,
+2014,Home Office,Virginia,United States,Alexandria,34,944.61
+2015,Home Office,Virginia,United States,Alexandria,,
+2016,Home Office,Virginia,United States,Alexandria,,
+2017,Home Office,Virginia,United States,Alexandria,,
 2014,Home Office,Virginia,United States,Charlottesville,,
 2015,Home Office,Virginia,United States,Charlottesville,4,67.96
 2016,Home Office,Virginia,United States,Charlottesville,,
@@ -3175,6 +3911,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.State,Orde
 2015,Home Office,Virginia,United States,Chesapeake,,
 2016,Home Office,Virginia,United States,Chesapeake,,
 2017,Home Office,Virginia,United States,Chesapeake,,
+2014,Home Office,Virginia,United States,Hampton,,
+2015,Home Office,Virginia,United States,Hampton,3,113.10000000000001
+2016,Home Office,Virginia,United States,Hampton,,
+2017,Home Office,Virginia,United States,Hampton,,
 2014,Home Office,Virginia,United States,Newport News,,
 2015,Home Office,Virginia,United States,Newport News,,
 2016,Home Office,Virginia,United States,Newport News,9,261.1
