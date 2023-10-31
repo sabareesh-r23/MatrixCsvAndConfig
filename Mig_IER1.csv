@@ -1,0 +1,273 @@
+With Actual budget.Period_MON,With Actual budget.Product,With Actual budget.Account,Sum(With Actual budget.Additional 2),Sum(With Actual budget.Additional 1)
+APR,Not assigned,Other Expenses,38244658.356,63741097
+AUG,Not assigned,Other Expenses,27253161.498,45421936
+DEC,Not assigned,Other Expenses,20392176.191999998,33986960
+NOV,Not assigned,Other Expenses,16931281.116,28218802
+APR,Not assigned,Wages,17343014.597999997,28905024
+AUG,Not assigned,Wages,13471090.962,22451818
+DEC,Not assigned,Wages,12985969.877999999,21643283
+NOV,Not assigned,Wages,13075408.661999999,21792348
+APR,Not assigned,Benefits,14181543.707999999,23635906
+AUG,Not assigned,Benefits,10960914.81,18268191
+DEC,Not assigned,Benefits,12438065.334,20730109
+NOV,Not assigned,Benefits,12843177.288,21405295
+APR,Not assigned,Salaries,11724957.114,19541595
+AUG,Not assigned,Salaries,9457606.362,15762677
+DEC,Not assigned,Salaries,9949482.719999999,16582471
+NOV,Not assigned,Salaries,9296467.104,15494112
+APR,Not assigned,Bonus,8831925.923999999,14719877
+AUG,Not assigned,Bonus,7024247.664,11707079
+DEC,Not assigned,Bonus,7781609.856,12969350
+NOV,Not assigned,Bonus,8091314.771999999,13485525
+APR,Not assigned,IT Expenses,6479353.115999999,10798922
+AUG,Not assigned,IT Expenses,8464551.095999999,14107585
+DEC,Not assigned,IT Expenses,8573729.988,14289550
+NOV,Not assigned,IT Expenses,7241027.01,12068378
+APR,Not assigned,Marketing Expenses,6712892.424,11188154
+AUG,Not assigned,Marketing Expenses,6509415.576,10849026
+DEC,Not assigned,Marketing Expenses,5723016.588,9538361
+NOV,Not assigned,Marketing Expenses,5672439.882,9454066
+APR,Not assigned,Training,2314430.094,3857383
+AUG,Not assigned,Training,1847888.1779999998,3079814
+DEC,Not assigned,Training,2049529.8299999998,3415883
+NOV,Not assigned,Training,2155349.484,3592249
+APR,Not assigned,Equipment,1729244.064,2882073
+AUG,Not assigned,Equipment,1397148.99,2328582
+DEC,Not assigned,Equipment,1598459.496,2664099
+NOV,Not assigned,Equipment,1637455.848,2729093
+APR,Not assigned,Computer,1182521.3939999999,1970869
+AUG,Not assigned,Computer,933191.088,1555318
+DEC,Not assigned,Computer,1070932.656,1784888
+NOV,Not assigned,Computer,1081003.638,1801673
+APR,Not assigned,Sales Expenses,672251.574,1120419
+AUG,Not assigned,Sales Expenses,497071.93799999997,828453
+DEC,Not assigned,Sales Expenses,669308.07,1115513
+NOV,Not assigned,Sales Expenses,597748.7999999999,996248
+APR,Not assigned,Recruiting,593544.8219999999,989241
+AUG,Not assigned,Recruiting,452987.388,754979
+DEC,Not assigned,Recruiting,515350.41599999997,858917
+NOV,Not assigned,Recruiting,535734.222,892890
+APR,Not assigned,Tuition,285484.89,475808
+AUG,Not assigned,Tuition,229665.912,382777
+DEC,Not assigned,Tuition,261453.55199999997,435756
+NOV,Not assigned,Tuition,262332.642,437221
+APR,Juices,Gross Sales,62197738.85999999,103662898
+AUG,Juices,Gross Sales,37225440.192,62042400
+DEC,Juices,Gross Sales,39116852.124,65194754
+NOV,Juices,Gross Sales,46398397.956,77330663
+APR,Juices,Raw Materials,17047228.566,28412048
+AUG,Juices,Raw Materials,5096027.021999999,8493378
+DEC,Juices,Raw Materials,14295845.814000001,23826410
+NOV,Juices,Raw Materials,16621982.465999998,27703304
+APR,Juices,Pricing Adjustments,2839158.582,4731931
+AUG,Juices,Pricing Adjustments,989692.572,1649488
+DEC,Juices,Pricing Adjustments,13840344.45,23067241
+NOV,Juices,Pricing Adjustments,17234470.77,28724118
+APR,Juices,Labor,9179276.916,15298795
+AUG,Juices,Labor,2744014.542,4573358
+DEC,Juices,Labor,7697763.119999999,12829605
+NOV,Juices,Labor,8950298.256,14917164
+APR,Juices,Sales Discounts - Other,77873.238,129789
+AUG,Juices,Sales Discounts - Other,7901087.736,13168480
+DEC,Juices,Sales Discounts - Other,409155.56399999995,681926
+NOV,Juices,Sales Discounts - Other,720553.2839999999,1200922
+APR,Juices,Sales Markdowns,192.35399999999998,321
+AUG,Juices,Sales Markdowns,7576091.13,12626819
+DEC,Juices,Sales Markdowns,99193.81199999999,165323
+NOV,Juices,Sales Markdowns,2875.9199999999996,4793
+APR,Juices,Freight,195057.33599999998,325096
+AUG,Juices,Freight,13387.116,22312
+DEC,Juices,Freight,109675.818,182793
+NOV,Juices,Freight,602562.534,1004271
+APR,Juices,Merchandise Returns,187597.338,312662
+AUG,Juices,Merchandise Returns,177150.39,295251
+DEC,Juices,Merchandise Returns,209422.71,349038
+NOV,Juices,Merchandise Returns,298221.012,497035
+APR,Juices,Purchase Price Variance,622089.5939999999,1036816
+AUG,Juices,Purchase Price Variance,-567514.674,-945858
+DEC,Juices,Purchase Price Variance,111623.232,186039
+NOV,Juices,Purchase Price Variance,541091.046,901818
+APR,Juices,Other Direct Costs,83595.996,139327
+AUG,Juices,Other Direct Costs,5737.331999999999,9562
+DEC,Juices,Other Direct Costs,47003.916,78340
+NOV,Juices,Other Direct Costs,258241.08599999998,430402
+APR,Juices,Sale Allowances,511.72799999999995,853
+AUG,Juices,Sale Allowances,51.702,86
+DEC,Juices,Sale Allowances,3012.828,5021
+NOV,Juices,Sale Allowances,9396,15660
+APR,Soda,Raw Materials,1189639.26,1982732
+AUG,Soda,Raw Materials,702115.512,1170193
+DEC,Soda,Raw Materials,458963.964,764940
+NOV,Soda,Raw Materials,686992.47,1144987
+APR,Soda,Labor,640574.982,1067625
+AUG,Soda,Labor,378062.20800000004,630104
+DEC,Soda,Labor,247134.444,411891
+NOV,Soda,Labor,369919.01999999996,616532
+APR,Soda,Purchase Price Variance,-5790.138,-9650
+AUG,Soda,Purchase Price Variance,-1607.526,-2679
+DEC,Soda,Purchase Price Variance,-37741.085999999996,-62902
+NOV,Soda,Purchase Price Variance,171887.628,286479
+APR,Soda,Freight,2415.276,4025
+AUG,Soda,Freight,7667.495999999999,12779
+DEC,Soda,Freight,18645.396,31076
+NOV,Soda,Freight,4353.33,7256
+APR,Soda,Other Direct Costs,1035.12,1725
+AUG,Soda,Other Direct Costs,3286.0679999999998,5477
+DEC,Soda,Other Direct Costs,7990.883999999999,13318
+NOV,Soda,Other Direct Costs,1865.7060000000001,3110
+APR,Soda,Gross Sales,4002705.792,923
+AUG,Soda,Gross Sales,2059868.0999999999,718
+DEC,Soda,Gross Sales,2763833.964,983
+NOV,Soda,Gross Sales,2604477.8099999996,898
+APR,Soda,Sales Discounts - Other,156922.686,876
+AUG,Soda,Sales Discounts - Other,12275.028,976
+DEC,Soda,Sales Discounts - Other,101422.23,612
+NOV,Soda,Sales Discounts - Other,51625.728,628
+APR,Soda,Sale Allowances,6174.7919999999995,534
+AUG,Soda,Sale Allowances,15100.086,954
+DEC,Soda,Sale Allowances,19763.393999999997,643
+NOV,Soda,Sale Allowances,48557.507999999994,831
+APR,Soda,Merchandise Returns,18313.242,824
+AUG,Soda,Merchandise Returns,20257.5,505
+DEC,Soda,Merchandise Returns,19785.69,812
+NOV,Soda,Merchandise Returns,28175.609999999997,819
+APR,Soda,Pricing Adjustments,54153.468,609
+AUG,Soda,Pricing Adjustments,67184.334,592
+DEC,Soda,Pricing Adjustments,443956.29600000003,530
+NOV,Soda,Pricing Adjustments,590603.0939999999,893
+APR,Soda,Sales Markdowns,,
+AUG,Soda,Sales Markdowns,,
+DEC,Soda,Sales Markdowns,0,
+NOV,Soda,Sales Markdowns,,
+APR,Sparking Water,Purchase Price Variance,331379.23199999996,917
+AUG,Sparking Water,Purchase Price Variance,-242594.94599999997,986
+DEC,Sparking Water,Purchase Price Variance,992812.8839999998,962
+NOV,Sparking Water,Purchase Price Variance,-252401.98799999998,878
+APR,Sparking Water,Other Direct Costs,26691.257999999998,884
+AUG,Sparking Water,Other Direct Costs,30219.816,869
+DEC,Sparking Water,Other Direct Costs,17408.304,839
+NOV,Sparking Water,Other Direct Costs,6910.643999999999,990
+APR,Sparking Water,Sales Markdowns,4888.728,790
+AUG,Sparking Water,Sales Markdowns,1021000.6379999999,837
+DEC,Sparking Water,Sales Markdowns,65198.328,936
+NOV,Sparking Water,Sales Markdowns,1309.314,874
+APR,Sparking Water,Pricing Adjustments,1408556.0999999999,828
+AUG,Sparking Water,Pricing Adjustments,3783972.9119999995,874
+DEC,Sparking Water,Pricing Adjustments,3950151.408,844
+NOV,Sparking Water,Pricing Adjustments,4563573.648,848
+APR,Sparking Water,Gross Sales,38774166.066,702
+AUG,Sparking Water,Gross Sales,72257258.75999999,861
+DEC,Sparking Water,Gross Sales,59231550.402,829
+NOV,Sparking Water,Gross Sales,50643871.265999995,957
+APR,Sparking Water,Sale Allowances,609096.978,746
+AUG,Sparking Water,Sale Allowances,357974.14199999993,516
+DEC,Sparking Water,Sale Allowances,961231.8839999998,837
+NOV,Sparking Water,Sale Allowances,339370.71599999996,862
+APR,Sparking Water,Merchandise Returns,404924.28,841
+AUG,Sparking Water,Merchandise Returns,468559.47599999997,510
+DEC,Sparking Water,Merchandise Returns,434635.038,594
+NOV,Sparking Water,Merchandise Returns,419473.836,878
+APR,Sparking Water,Labor,4219658.172,850
+AUG,Sparking Water,Labor,10073587.865999999,589
+DEC,Sparking Water,Labor,9923640.42,555
+NOV,Sparking Water,Labor,8581745.447999999,825
+APR,Sparking Water,Freight,62279.592000000004,785
+AUG,Sparking Water,Freight,70512.912,507
+DEC,Sparking Water,Freight,40619.382,681
+NOV,Sparking Water,Freight,16124.832,826
+APR,Sparking Water,Sales Discounts - Other,518584.338,574
+AUG,Sparking Water,Sales Discounts - Other,2324129.682,600
+DEC,Sparking Water,Sales Discounts - Other,1335064.446,799
+NOV,Sparking Water,Sales Discounts - Other,1086221.802,746
+APR,Sparking Water,Raw Materials,7836508.05,536
+AUG,Sparking Water,Raw Materials,18708091.74,594
+DEC,Sparking Water,Raw Materials,18429677.934,886
+NOV,Sparking Water,Raw Materials,15937527.27,572
+APR,Tea & Coffee,Raw Materials,17140684.968,949
+AUG,Tea & Coffee,Raw Materials,40340287.968,883
+DEC,Tea & Coffee,Raw Materials,41508970.272,740
+NOV,Tea & Coffee,Raw Materials,31976323.266,898
+APR,Tea & Coffee,Sales Markdowns,10650.432,746
+AUG,Tea & Coffee,Sales Markdowns,2476165.536,993
+DEC,Tea & Coffee,Sales Markdowns,151292.87999999998,985
+NOV,Tea & Coffee,Sales Markdowns,2775.0179999999996,571
+APR,Tea & Coffee,Purchase Price Variance,692428.368,844
+AUG,Tea & Coffee,Purchase Price Variance,-361903.64999999997,577
+DEC,Tea & Coffee,Purchase Price Variance,2013676.3499999999,698
+NOV,Tea & Coffee,Purchase Price Variance,-920799.15,938
+APR,Tea & Coffee,Labor,9229599.588,733
+AUG,Tea & Coffee,Labor,21721693.529999997,933
+DEC,Tea & Coffee,Labor,22350983.981999997,508
+NOV,Tea & Coffee,Labor,17218020.222,879
+APR,Tea & Coffee,Merchandise Returns,710905.632,519
+AUG,Tea & Coffee,Merchandise Returns,790950.8579999999,717
+DEC,Tea & Coffee,Merchandise Returns,902542.338,788
+NOV,Tea & Coffee,Merchandise Returns,826847.574,981
+APR,Tea & Coffee,Pricing Adjustments,2742029.9579999996,869
+AUG,Tea & Coffee,Pricing Adjustments,7686185.423999999,990
+DEC,Tea & Coffee,Pricing Adjustments,43120135.116,572
+NOV,Tea & Coffee,Pricing Adjustments,32719171.121999998,558
+APR,Tea & Coffee,Freight,143134.674,826
+AUG,Tea & Coffee,Freight,154462.092,655
+DEC,Tea & Coffee,Freight,84762.64799999999,695
+NOV,Tea & Coffee,Freight,34207.146,799
+APR,Tea & Coffee,Gross Sales,73856259.47999999,896
+AUG,Tea & Coffee,Gross Sales,140088486.42,643
+DEC,Tea & Coffee,Gross Sales,91939350.66,631
+NOV,Tea & Coffee,Gross Sales,80007199.67999999,716
+APR,Tea & Coffee,Sales Discounts - Other,810787.038,767
+AUG,Tea & Coffee,Sales Discounts - Other,4169123.4239999996,745
+DEC,Tea & Coffee,Sales Discounts - Other,1649241.726,786
+NOV,Tea & Coffee,Sales Discounts - Other,1710163.284,511
+APR,Tea & Coffee,Sale Allowances,1030303.8899999999,636
+AUG,Tea & Coffee,Sale Allowances,470291.496,565
+DEC,Tea & Coffee,Sale Allowances,1437862.11,586
+NOV,Tea & Coffee,Sale Allowances,437685.54600000003,973
+APR,Tea & Coffee,Other Direct Costs,61343.43,803
+AUG,Tea & Coffee,Other Direct Costs,66198.042,541
+DEC,Tea & Coffee,Other Direct Costs,36326.844,673
+NOV,Tea & Coffee,Other Direct Costs,14660.208,589
+APR,Mineral Water,Sales Markdowns,98.568,921
+AUG,Mineral Water,Sales Markdowns,3802419.642,626
+DEC,Mineral Water,Sales Markdowns,45830.784,943
+NOV,Mineral Water,Sales Markdowns,1457.7359999999999,982
+APR,Mineral Water,Sale Allowances,11176.967999999999,878
+AUG,Mineral Water,Sale Allowances,30276.408,831
+DEC,Mineral Water,Sale Allowances,29086.488,896
+NOV,Mineral Water,Sale Allowances,56372.13,553
+APR,Mineral Water,Merchandise Returns,85855.692,998
+AUG,Mineral Water,Merchandise Returns,84322.632,703
+DEC,Mineral Water,Merchandise Returns,104162.382,591
+NOV,Mineral Water,Merchandise Returns,139663.31399999998,725
+APR,Mineral Water,Freight,98885.97,924
+AUG,Mineral Water,Freight,21811.728,708
+DEC,Mineral Water,Freight,92427.96,729
+NOV,Mineral Water,Freight,297460.25999999995,652
+APR,Mineral Water,Raw Materials,8599840.932,673
+AUG,Mineral Water,Raw Materials,3134714.4599999995,809
+DEC,Mineral Water,Raw Materials,8102411.069999999,885
+NOV,Mineral Water,Raw Materials,8343605.423999999,547
+APR,Mineral Water,Gross Sales,32208741.179999996,927
+AUG,Mineral Water,Gross Sales,19041953.478,599
+DEC,Mineral Water,Gross Sales,26460009.066,839
+NOV,Mineral Water,Gross Sales,28128272.58,520
+APR,Mineral Water,Sales Discounts - Other,59.568,886
+AUG,Mineral Water,Sales Discounts - Other,3738936.696,525
+DEC,Mineral Water,Sales Discounts - Other,178321.68,530
+NOV,Mineral Water,Sales Discounts - Other,340580.346,900
+APR,Mineral Water,Labor,4630683.575999999,944
+AUG,Mineral Water,Labor,1687923.162,787
+DEC,Mineral Water,Labor,4362836.718,578
+NOV,Mineral Water,Labor,4492710.618,503
+APR,Mineral Water,Purchase Price Variance,286976.682,593
+AUG,Mineral Water,Purchase Price Variance,-293158.18799999997,613
+DEC,Mineral Water,Purchase Price Variance,-29015.802,713
+NOV,Mineral Water,Purchase Price Variance,634894.656,881
+APR,Mineral Water,Other Direct Costs,42379.698,567
+AUG,Mineral Water,Other Direct Costs,9347.88,903
+DEC,Mineral Water,Other Direct Costs,39611.988,589
+NOV,Mineral Water,Other Direct Costs,127482.972,729
+APR,Mineral Water,Pricing Adjustments,1430244.2519999999,929
+AUG,Mineral Water,Pricing Adjustments,505070.502,559
+DEC,Mineral Water,Pricing Adjustments,2400459.678,623
+NOV,Mineral Water,Pricing Adjustments,1786144.0080000001,517
