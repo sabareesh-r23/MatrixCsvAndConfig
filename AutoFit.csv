@@ -1,0 +1,49 @@
+Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Region,Orders.Category,CountNonNull(Orders.Postal Code),Sum(Orders.Sales)
+Qtr 1,Central,Furniture,83,30778.56479999999
+Qtr 2,Central,Furniture,106,35114.2286
+Qtr 3,Central,Furniture,111,39096.437200000015
+Qtr 4,Central,Furniture,181,58807.93319999995
+Qtr 1,Central,Office Supplies,209,27758.931999999986
+Qtr 2,Central,Office Supplies,311,37182.61799999999
+Qtr 3,Central,Office Supplies,388,42642.353000000025
+Qtr 4,Central,Office Supplies,514,59442.51200000002
+Qtr 1,Central,Technology,64,22573.305
+Qtr 2,Central,Technology,81,22787.646999999997
+Qtr 3,Central,Technology,110,52767.36599999998
+Qtr 4,Central,Technology,165,72287.99400000002
+Qtr 1,East,Furniture,71,20333.791
+Qtr 2,East,Furniture,116,30723.60599999999
+Qtr 3,East,Furniture,179,66541.93900000004
+Qtr 4,East,Furniture,235,90691.86799999997
+Qtr 1,East,Office Supplies,207,23712.149999999987
+Qtr 2,East,Office Supplies,407,44220.25800000003
+Qtr 3,East,Office Supplies,512,66531.57200000003
+Qtr 4,East,Office Supplies,586,71052.07500000001
+Qtr 1,East,Technology,84,22505.791999999987
+Qtr 2,East,Technology,92,52501.66599999999
+Qtr 3,East,Technology,158,54695.328000000016
+Qtr 4,East,Technology,201,135271.195
+Qtr 1,South,Furniture,48,19263.523999999998
+Qtr 2,South,Furniture,82,29194.509999999995
+Qtr 3,South,Furniture,79,23317.170999999988
+Qtr 4,South,Furniture,123,45523.47899999998
+Qtr 1,South,Office Supplies,161,24501.629999999983
+Qtr 2,South,Office Supplies,236,30944.036999999997
+Qtr 3,South,Office Supplies,265,29064.575999999997
+Qtr 4,South,Office Supplies,333,41141.06999999997
+Qtr 1,South,Technology,44,54517.374
+Qtr 2,South,Technology,82,26347.002999999986
+Qtr 3,South,Technology,73,30648.851999999995
+Qtr 4,South,Technology,94,37258.67899999999
+Qtr 1,West,Furniture,82,27727.557999999986
+Qtr 2,West,Furniture,129,47030.832999999984
+Qtr 3,West,Furniture,201,71686.10049999994
+Qtr 4,West,Furniture,295,106168.25199999989
+Qtr 1,West,Office Supplies,241,34288.67500000001
+Qtr 2,West,Office Supplies,359,31522.515999999992
+Qtr 3,West,Office Supplies,564,68791.36599999992
+Qtr 4,West,Office Supplies,733,86250.6920000001
+Qtr 1,West,Technology,83,51720.27999999999
+Qtr 2,West,Technology,119,57940.696999999986
+Qtr 3,West,Technology,159,68149.04500000003
+Qtr 4,West,Technology,238,74181.81000000006
