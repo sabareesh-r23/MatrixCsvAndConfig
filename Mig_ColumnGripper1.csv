@@ -1,0 +1,5 @@
+Sheet1.Time Period.Variation.Date Hierarchy.Quarter,Sales Data (Columnar).Category,Sales Data (Columnar).Region,Sales Data (Columnar).Sales Rep,Sum(Sales Data (Columnar).Sales Forecast),Sum(Sheet1.Sales Forecast)
+Qtr 1,Consumer,West,John Smith,22348583.111479193,45239834.40042147
+Qtr 2,Consumer,West,John Smith,22348583.111479193,40422085.01828413
+Qtr 3,Consumer,West,John Smith,22348583.111479193,33739736.87694679
+Qtr 4,Consumer,West,John Smith,22348583.111479193,33338421.824384384
