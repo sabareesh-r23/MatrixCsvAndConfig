@@ -1,0 +1,148 @@
+Orders.Segment,Orders.State,Sum(Orders.Profit),Sum(Orders.Quantity)
+Consumer,California,38374.039199999985,4081
+Corporate,California,24367.844099999988,2291
+Home Office,California,13639.503799999995,1295
+Consumer,New York,39640.518300000054,2404
+Corporate,New York,16524.548099999996,1195
+Home Office,New York,17873.482200000006,625
+Consumer,Washington,19817.305199999973,990
+Corporate,Washington,9295.911299999996,536
+Home Office,Washington,4289.435200000002,357
+Consumer,Michigan,12950.523199999998,494
+Corporate,Michigan,5816.526499999998,252
+Home Office,Michigan,5696.1379000000015,200
+Consumer,Virginia,9526.862799999997,473
+Corporate,Virginia,7308.477399999996,263
+Home Office,Virginia,1762.6101999999996,157
+Consumer,Indiana,4026.2123000000006,299
+Corporate,Indiana,12293.720799999997,154
+Home Office,Indiana,2063.0031999999997,125
+Consumer,Georgia,8035.225399999998,349
+Corporate,Georgia,5561.712199999999,207
+Home Office,Georgia,2653.1057,149
+Consumer,Kentucky,6663.839800000002,261
+Corporate,Kentucky,2106.4954000000007,140
+Home Office,Kentucky,2429.3614,122
+Consumer,Minnesota,7503.108900000001,192
+Corporate,Minnesota,1116.0349,62
+Home Office,Minnesota,2204.0435999999995,77
+Consumer,Delaware,6894.900600000002,186
+Corporate,Delaware,2193.3383000000003,146
+Home Office,Delaware,889.1358999999999,35
+Consumer,New Jersey,3415.253600000001,194
+Corporate,New Jersey,5170.488499999998,182
+Home Office,New Jersey,1187.1717,78
+Consumer,Wisconsin,3451.8645000000006,140
+Corporate,Wisconsin,3420.2129999999993,206
+Home Office,Wisconsin,1529.7229,117
+Consumer,Rhode Island,616.9114999999999,48
+Corporate,Rhode Island,1148.8849000000005,70
+Home Office,Rhode Island,5519.832899999999,81
+Consumer,Maryland,3271.5449,175
+Corporate,Maryland,3040.3431,188
+Home Office,Maryland,719.2908,57
+Consumer,Massachusetts,2691.9009000000005,209
+Corporate,Massachusetts,1969.7634,154
+Home Office,Massachusetts,2123.8373000000006,128
+Consumer,Missouri,1158.0537,139
+Corporate,Missouri,2904.9968,63
+Home Office,Missouri,2373.16,50
+Consumer,Alabama,1711.0938999999998,102
+Corporate,Alabama,3648.384599999999,130
+Home Office,Alabama,427.3468,24
+Consumer,Oklahoma,3021.8161,132
+Corporate,Oklahoma,519.4248000000001,39
+Home Office,Oklahoma,1312.7151,76
+Consumer,Arkansas,3152.8321,148
+Corporate,Arkansas,706.441,56
+Home Office,Arkansas,149.41399999999996,36
+Consumer,Connecticut,1510.3508000000006,149
+Corporate,Connecticut,1474.2904,94
+Home Office,Connecticut,526.8506000000001,38
+Consumer,Nevada,733.6678999999996,81
+Corporate,Nevada,776.1847000000001,57
+Home Office,Nevada,1806.9132999999997,30
+Consumer,Mississippi,1884.5524,117
+Corporate,Mississippi,556.5185,50
+Home Office,Mississippi,731.9053,54
+Consumer,Utah,1541.5586000000003,125
+Corporate,Utah,302.15719999999993,43
+Home Office,Utah,702.8177,51
+Consumer,Vermont,375.11599999999993,12
+Corporate,Vermont,1533.2273,33
+Home Office,Vermont,336.635,5
+Consumer,Louisiana,1344.0039,88
+Corporate,Louisiana,452.1782,46
+Home Office,Louisiana,399.9202,22
+Consumer,Nebraska,1603.5748999999998,71
+Corporate,Nebraska,215.1239,45
+Home Office,Nebraska,218.39540000000002,20
+Consumer,Montana,277.44079999999997,17
+Corporate,Montana,13.067599999999999,7
+Home Office,Montana,1542.8201,32
+Consumer,South Carolina,1012.0717000000002,85
+Corporate,South Carolina,744.5432999999999,83
+Home Office,South Carolina,12.441600000000001,4
+Consumer,New Hampshire,406.44579999999996,19
+Corporate,New Hampshire,290.33140000000003,49
+Home Office,New Hampshire,1009.7256,59
+Consumer,Iowa,419.8995,47
+Corporate,Iowa,294.03860000000003,39
+Home Office,Iowa,469.87379999999996,26
+Consumer,New Mexico,360.43299999999994,61
+Corporate,New Mexico,339.49940000000004,37
+Home Office,New Mexico,457.1837,53
+Consumer,District of Columbia,1011.2964999999999,24
+Corporate,District of Columbia,,
+Home Office,District of Columbia,48.2928,16
+Consumer,Kansas,263.5363,26
+Corporate,Kansas,286.32559999999995,26
+Home Office,Kansas,286.5816,22
+Consumer,Idaho,222.49769999999995,29
+Corporate,Idaho,517.0034,27
+Home Office,Idaho,87.22199999999995,8
+Consumer,Maine,,
+Corporate,Maine,422.2204,29
+Home Office,Maine,32.2658,6
+Consumer,South Dakota,16.1381,10
+Corporate,South Dakota,378.69020000000006,32
+Home Office,South Dakota,,
+Consumer,North Dakota,216.59069999999997,24
+Corporate,North Dakota,,
+Home Office,North Dakota,13.559,6
+Consumer,West Virginia,-76.9536,3
+Corporate,West Virginia,,
+Home Office,West Virginia,262.8752,15
+Consumer,Wyoming,,
+Corporate,Wyoming,,
+Home Office,Wyoming,100.19599999999997,4
+Consumer,Oregon,-838.7355,281
+Corporate,Oregon,180.7439000000001,164
+Home Office,Oregon,-532.4788999999998,54
+Consumer,Florida,-137.28290000000158,596
+Corporate,Florida,-1417.7920000000013,536
+Home Office,Florida,-1844.2268000000026,247
+Consumer,Arizona,-1423.0527000000006,430
+Corporate,Arizona,-788.9158000000003,268
+Home Office,Arizona,-1215.9560999999997,164
+Consumer,Tennessee,-3590.8477999999996,381
+Corporate,Tennessee,-640.0381999999995,218
+Home Office,Tennessee,-1110.8076,82
+Consumer,Colorado,-1614.5502000000008,382
+Corporate,Colorado,-566.0659000000002,200
+Home Office,Colorado,-4347.241800000001,111
+Consumer,North Carolina,-2688.7785000000003,578
+Corporate,North Carolina,-3811.6971999999987,287
+Home Office,North Carolina,-990.4365000000005,118
+Consumer,Illinois,-5470.893400000001,1016
+Corporate,Illinois,-4492.881700000001,479
+Home Office,Illinois,-2644.111900000001,350
+Consumer,Pennsylvania,-7291.467600000002,1007
+Corporate,Pennsylvania,-5197.4417,736
+Home Office,Pennsylvania,-3071.0510000000004,410
+Consumer,Ohio,-11274.833400000005,917
+Corporate,Ohio,-4947.415200000002,482
+Home Office,Ohio,-749.1280000000005,360
+Consumer,Texas,-20596.376700000008,1929
+Corporate,Texas,-4048.3114,1207
+Home Office,Texas,-1084.6682000000005,588
