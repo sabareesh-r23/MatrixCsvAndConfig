@@ -1,0 +1,494 @@
+Superstore 2023.Order Date,Superstore 2023.Category,Superstore 2023.Sub-Category,Sum(Superstore 2023.Sales)
+01 December 2023,Furniture,Bookcases,141.96
+02 December 2023,Furniture,Bookcases,242.352
+03 December 2023,Furniture,Bookcases,
+04 December 2023,Furniture,Bookcases,
+05 December 2023,Furniture,Bookcases,
+06 December 2023,Furniture,Bookcases,
+07 December 2023,Furniture,Bookcases,
+08 December 2023,Furniture,Bookcases,1796.749
+09 December 2023,Furniture,Bookcases,148.257
+10 December 2023,Furniture,Bookcases,
+11 December 2023,Furniture,Bookcases,
+13 December 2023,Furniture,Bookcases,287.976
+14 December 2023,Furniture,Bookcases,
+15 December 2023,Furniture,Bookcases,
+16 December 2023,Furniture,Bookcases,
+17 December 2023,Furniture,Bookcases,
+18 December 2023,Furniture,Bookcases,119.833
+19 December 2023,Furniture,Bookcases,102.018
+20 December 2023,Furniture,Bookcases,
+21 December 2023,Furniture,Bookcases,
+22 December 2023,Furniture,Bookcases,220.98
+23 December 2023,Furniture,Bookcases,
+24 December 2023,Furniture,Bookcases,
+25 December 2023,Furniture,Bookcases,191.984
+26 December 2023,Furniture,Bookcases,
+27 December 2023,Furniture,Bookcases,
+28 December 2023,Furniture,Bookcases,78.8528
+29 December 2023,Furniture,Bookcases,
+30 December 2023,Furniture,Bookcases,323.136
+01 December 2023,Furniture,Chairs,1613.18
+02 December 2023,Furniture,Chairs,2767.696
+03 December 2023,Furniture,Chairs,
+04 December 2023,Furniture,Chairs,913.672
+05 December 2023,Furniture,Chairs,
+06 December 2023,Furniture,Chairs,
+07 December 2023,Furniture,Chairs,
+08 December 2023,Furniture,Chairs,329.112
+09 December 2023,Furniture,Chairs,872.94
+10 December 2023,Furniture,Chairs,
+11 December 2023,Furniture,Chairs,648.934
+13 December 2023,Furniture,Chairs,
+14 December 2023,Furniture,Chairs,
+15 December 2023,Furniture,Chairs,
+16 December 2023,Furniture,Chairs,178.752
+17 December 2023,Furniture,Chairs,504.9
+18 December 2023,Furniture,Chairs,1141.938
+19 December 2023,Furniture,Chairs,
+20 December 2023,Furniture,Chairs,
+21 December 2023,Furniture,Chairs,
+22 December 2023,Furniture,Chairs,1728.65
+23 December 2023,Furniture,Chairs,
+24 December 2023,Furniture,Chairs,1347.02
+25 December 2023,Furniture,Chairs,304.45
+26 December 2023,Furniture,Chairs,
+27 December 2023,Furniture,Chairs,
+28 December 2023,Furniture,Chairs,454.076
+29 December 2023,Furniture,Chairs,2161.138
+30 December 2023,Furniture,Chairs,
+01 December 2023,Furniture,Furnishings,787.152
+02 December 2023,Furniture,Furnishings,517.456
+03 December 2023,Furniture,Furnishings,69.88
+04 December 2023,Furniture,Furnishings,79.11
+05 December 2023,Furniture,Furnishings,321.48
+06 December 2023,Furniture,Furnishings,
+07 December 2023,Furniture,Furnishings,82.38
+08 December 2023,Furniture,Furnishings,238.38
+09 December 2023,Furniture,Furnishings,9.708
+10 December 2023,Furniture,Furnishings,432.664
+11 December 2023,Furniture,Furnishings,77.72
+13 December 2023,Furniture,Furnishings,201.04
+14 December 2023,Furniture,Furnishings,350.962
+15 December 2023,Furniture,Furnishings,22.77
+16 December 2023,Furniture,Furnishings,18.96
+17 December 2023,Furniture,Furnishings,124.36
+18 December 2023,Furniture,Furnishings,118.91
+19 December 2023,Furniture,Furnishings,13.36
+20 December 2023,Furniture,Furnishings,
+21 December 2023,Furniture,Furnishings,15.92
+22 December 2023,Furniture,Furnishings,
+23 December 2023,Furniture,Furnishings,282.114
+24 December 2023,Furniture,Furnishings,46.474
+25 December 2023,Furniture,Furnishings,62.96
+26 December 2023,Furniture,Furnishings,
+27 December 2023,Furniture,Furnishings,
+28 December 2023,Furniture,Furnishings,18.328
+29 December 2023,Furniture,Furnishings,169.58
+30 December 2023,Furniture,Furnishings,
+01 December 2023,Furniture,Tables,
+02 December 2023,Furniture,Tables,
+03 December 2023,Furniture,Tables,521.96
+04 December 2023,Furniture,Tables,
+05 December 2023,Furniture,Tables,
+06 December 2023,Furniture,Tables,
+07 December 2023,Furniture,Tables,
+08 December 2023,Furniture,Tables,1004.024
+09 December 2023,Furniture,Tables,896.328
+10 December 2023,Furniture,Tables,1669.6
+11 December 2023,Furniture,Tables,721.875
+13 December 2023,Furniture,Tables,
+14 December 2023,Furniture,Tables,1501.57
+15 December 2023,Furniture,Tables,
+16 December 2023,Furniture,Tables,
+17 December 2023,Furniture,Tables,
+18 December 2023,Furniture,Tables,
+19 December 2023,Furniture,Tables,
+20 December 2023,Furniture,Tables,
+21 December 2023,Furniture,Tables,
+22 December 2023,Furniture,Tables,2136.826
+23 December 2023,Furniture,Tables,
+24 December 2023,Furniture,Tables,
+25 December 2023,Furniture,Tables,273.06
+26 December 2023,Furniture,Tables,
+27 December 2023,Furniture,Tables,
+28 December 2023,Furniture,Tables,
+29 December 2023,Furniture,Tables,
+30 December 2023,Furniture,Tables,
+01 December 2023,Office Supplies,Appliances,31.152
+02 December 2023,Office Supplies,Appliances,660.95
+03 December 2023,Office Supplies,Appliances,45.216
+04 December 2023,Office Supplies,Appliances,
+05 December 2023,Office Supplies,Appliances,316.34
+06 December 2023,Office Supplies,Appliances,
+07 December 2023,Office Supplies,Appliances,320.64
+08 December 2023,Office Supplies,Appliances,1159.23
+09 December 2023,Office Supplies,Appliances,403.9
+10 December 2023,Office Supplies,Appliances,426.79
+11 December 2023,Office Supplies,Appliances,24.142
+13 December 2023,Office Supplies,Appliances,
+14 December 2023,Office Supplies,Appliances,
+15 December 2023,Office Supplies,Appliances,54.32
+16 December 2023,Office Supplies,Appliances,
+17 December 2023,Office Supplies,Appliances,66.284
+18 December 2023,Office Supplies,Appliances,1834.672
+19 December 2023,Office Supplies,Appliances,
+20 December 2023,Office Supplies,Appliances,
+21 December 2023,Office Supplies,Appliances,
+22 December 2023,Office Supplies,Appliances,898.67
+23 December 2023,Office Supplies,Appliances,29.312
+24 December 2023,Office Supplies,Appliances,35.91
+25 December 2023,Office Supplies,Appliances,
+26 December 2023,Office Supplies,Appliances,
+27 December 2023,Office Supplies,Appliances,
+28 December 2023,Office Supplies,Appliances,
+29 December 2023,Office Supplies,Appliances,
+30 December 2023,Office Supplies,Appliances,209.3
+01 December 2023,Office Supplies,Art,
+02 December 2023,Office Supplies,Art,337.254
+03 December 2023,Office Supplies,Art,13.344
+04 December 2023,Office Supplies,Art,22.192
+05 December 2023,Office Supplies,Art,
+06 December 2023,Office Supplies,Art,
+07 December 2023,Office Supplies,Art,
+08 December 2023,Office Supplies,Art,13.248
+09 December 2023,Office Supplies,Art,48.484
+10 December 2023,Office Supplies,Art,18.24
+11 December 2023,Office Supplies,Art,13.584
+13 December 2023,Office Supplies,Art,
+14 December 2023,Office Supplies,Art,95.232
+15 December 2023,Office Supplies,Art,10.192
+16 December 2023,Office Supplies,Art,29.95
+17 December 2023,Office Supplies,Art,
+18 December 2023,Office Supplies,Art,85.786
+19 December 2023,Office Supplies,Art,
+20 December 2023,Office Supplies,Art,
+21 December 2023,Office Supplies,Art,12.51
+22 December 2023,Office Supplies,Art,27.298
+23 December 2023,Office Supplies,Art,25.744
+24 December 2023,Office Supplies,Art,
+25 December 2023,Office Supplies,Art,31.744
+26 December 2023,Office Supplies,Art,
+27 December 2023,Office Supplies,Art,13.248
+28 December 2023,Office Supplies,Art,29.648
+29 December 2023,Office Supplies,Art,34.58
+30 December 2023,Office Supplies,Art,
+01 December 2023,Office Supplies,Binders,74.272
+02 December 2023,Office Supplies,Binders,859.8
+03 December 2023,Office Supplies,Binders,127.326
+04 December 2023,Office Supplies,Binders,5.346
+05 December 2023,Office Supplies,Binders,305.76
+06 December 2023,Office Supplies,Binders,
+07 December 2023,Office Supplies,Binders,1889.99
+08 December 2023,Office Supplies,Binders,112.904
+09 December 2023,Office Supplies,Binders,211.181
+10 December 2023,Office Supplies,Binders,169.117
+11 December 2023,Office Supplies,Binders,819.892
+13 December 2023,Office Supplies,Binders,
+14 December 2023,Office Supplies,Binders,64.96
+15 December 2023,Office Supplies,Binders,
+16 December 2023,Office Supplies,Binders,74.48
+17 December 2023,Office Supplies,Binders,51.864
+18 December 2023,Office Supplies,Binders,53.908
+19 December 2023,Office Supplies,Binders,36.672
+20 December 2023,Office Supplies,Binders,57.336
+21 December 2023,Office Supplies,Binders,23.88
+22 December 2023,Office Supplies,Binders,7.971
+23 December 2023,Office Supplies,Binders,13.84
+24 December 2023,Office Supplies,Binders,156.348
+25 December 2023,Office Supplies,Binders,254.161
+26 December 2023,Office Supplies,Binders,3.132
+27 December 2023,Office Supplies,Binders,
+28 December 2023,Office Supplies,Binders,62.032
+29 December 2023,Office Supplies,Binders,12.53
+30 December 2023,Office Supplies,Binders,87.4
+01 December 2023,Office Supplies,Envelopes,104.68
+02 December 2023,Office Supplies,Envelopes,
+03 December 2023,Office Supplies,Envelopes,
+04 December 2023,Office Supplies,Envelopes,
+05 December 2023,Office Supplies,Envelopes,
+06 December 2023,Office Supplies,Envelopes,
+07 December 2023,Office Supplies,Envelopes,
+08 December 2023,Office Supplies,Envelopes,
+09 December 2023,Office Supplies,Envelopes,57.576
+10 December 2023,Office Supplies,Envelopes,10.86
+11 December 2023,Office Supplies,Envelopes,7.28
+13 December 2023,Office Supplies,Envelopes,
+14 December 2023,Office Supplies,Envelopes,43.7
+15 December 2023,Office Supplies,Envelopes,
+16 December 2023,Office Supplies,Envelopes,
+17 December 2023,Office Supplies,Envelopes,
+18 December 2023,Office Supplies,Envelopes,
+19 December 2023,Office Supplies,Envelopes,
+20 December 2023,Office Supplies,Envelopes,
+21 December 2023,Office Supplies,Envelopes,
+22 December 2023,Office Supplies,Envelopes,7.824
+23 December 2023,Office Supplies,Envelopes,182.94
+24 December 2023,Office Supplies,Envelopes,
+25 December 2023,Office Supplies,Envelopes,
+26 December 2023,Office Supplies,Envelopes,
+27 December 2023,Office Supplies,Envelopes,
+28 December 2023,Office Supplies,Envelopes,
+29 December 2023,Office Supplies,Envelopes,
+30 December 2023,Office Supplies,Envelopes,
+01 December 2023,Office Supplies,Fasteners,52.29
+02 December 2023,Office Supplies,Fasteners,
+03 December 2023,Office Supplies,Fasteners,
+04 December 2023,Office Supplies,Fasteners,
+05 December 2023,Office Supplies,Fasteners,
+06 December 2023,Office Supplies,Fasteners,
+07 December 2023,Office Supplies,Fasteners,3.552
+08 December 2023,Office Supplies,Fasteners,
+09 December 2023,Office Supplies,Fasteners,
+10 December 2023,Office Supplies,Fasteners,
+11 December 2023,Office Supplies,Fasteners,6.54
+13 December 2023,Office Supplies,Fasteners,
+14 December 2023,Office Supplies,Fasteners,17.28
+15 December 2023,Office Supplies,Fasteners,
+16 December 2023,Office Supplies,Fasteners,
+17 December 2023,Office Supplies,Fasteners,
+18 December 2023,Office Supplies,Fasteners,4.824
+19 December 2023,Office Supplies,Fasteners,
+20 December 2023,Office Supplies,Fasteners,
+21 December 2023,Office Supplies,Fasteners,
+22 December 2023,Office Supplies,Fasteners,
+23 December 2023,Office Supplies,Fasteners,
+24 December 2023,Office Supplies,Fasteners,
+25 December 2023,Office Supplies,Fasteners,42.932
+26 December 2023,Office Supplies,Fasteners,
+27 December 2023,Office Supplies,Fasteners,
+28 December 2023,Office Supplies,Fasteners,13.96
+29 December 2023,Office Supplies,Fasteners,25.63
+30 December 2023,Office Supplies,Fasteners,3.024
+01 December 2023,Office Supplies,Labels,15.936
+02 December 2023,Office Supplies,Labels,
+03 December 2023,Office Supplies,Labels,3.15
+04 December 2023,Office Supplies,Labels,
+05 December 2023,Office Supplies,Labels,20.52
+06 December 2023,Office Supplies,Labels,
+07 December 2023,Office Supplies,Labels,
+08 December 2023,Office Supplies,Labels,89.41
+09 December 2023,Office Supplies,Labels,5.76
+10 December 2023,Office Supplies,Labels,
+11 December 2023,Office Supplies,Labels,
+13 December 2023,Office Supplies,Labels,8.64
+14 December 2023,Office Supplies,Labels,
+15 December 2023,Office Supplies,Labels,
+16 December 2023,Office Supplies,Labels,44.4
+17 December 2023,Office Supplies,Labels,
+18 December 2023,Office Supplies,Labels,
+19 December 2023,Office Supplies,Labels,
+20 December 2023,Office Supplies,Labels,
+21 December 2023,Office Supplies,Labels,
+22 December 2023,Office Supplies,Labels,18.45
+23 December 2023,Office Supplies,Labels,
+24 December 2023,Office Supplies,Labels,
+25 December 2023,Office Supplies,Labels,
+26 December 2023,Office Supplies,Labels,
+27 December 2023,Office Supplies,Labels,
+28 December 2023,Office Supplies,Labels,72.45
+29 December 2023,Office Supplies,Labels,
+30 December 2023,Office Supplies,Labels,
+01 December 2023,Office Supplies,Paper,117.028
+02 December 2023,Office Supplies,Paper,129.34
+03 December 2023,Office Supplies,Paper,211.576
+04 December 2023,Office Supplies,Paper,110.032
+05 December 2023,Office Supplies,Paper,153.44
+06 December 2023,Office Supplies,Paper,
+07 December 2023,Office Supplies,Paper,65.592
+08 December 2023,Office Supplies,Paper,287.81
+09 December 2023,Office Supplies,Paper,640.59
+10 December 2023,Office Supplies,Paper,23.328
+11 December 2023,Office Supplies,Paper,28.308
+13 December 2023,Office Supplies,Paper,51.84
+14 December 2023,Office Supplies,Paper,
+15 December 2023,Office Supplies,Paper,22.83
+16 December 2023,Office Supplies,Paper,13.36
+17 December 2023,Office Supplies,Paper,41.39
+18 December 2023,Office Supplies,Paper,136.72
+19 December 2023,Office Supplies,Paper,
+20 December 2023,Office Supplies,Paper,320.4
+21 December 2023,Office Supplies,Paper,166.44
+22 December 2023,Office Supplies,Paper,101.8
+23 December 2023,Office Supplies,Paper,249.504
+24 December 2023,Office Supplies,Paper,19.44
+25 December 2023,Office Supplies,Paper,725.18
+26 December 2023,Office Supplies,Paper,60.782
+27 December 2023,Office Supplies,Paper,
+28 December 2023,Office Supplies,Paper,4.28
+29 December 2023,Office Supplies,Paper,209.7
+30 December 2023,Office Supplies,Paper,
+01 December 2023,Office Supplies,Storage,976.092
+02 December 2023,Office Supplies,Storage,673.908
+03 December 2023,Office Supplies,Storage,
+04 December 2023,Office Supplies,Storage,61.568
+05 December 2023,Office Supplies,Storage,
+06 December 2023,Office Supplies,Storage,10.68
+07 December 2023,Office Supplies,Storage,
+08 December 2023,Office Supplies,Storage,970.15
+09 December 2023,Office Supplies,Storage,79.588
+10 December 2023,Office Supplies,Storage,324.9
+11 December 2023,Office Supplies,Storage,
+13 December 2023,Office Supplies,Storage,31.44
+14 December 2023,Office Supplies,Storage,73.85
+15 December 2023,Office Supplies,Storage,
+16 December 2023,Office Supplies,Storage,158.9
+17 December 2023,Office Supplies,Storage,1224.98
+18 December 2023,Office Supplies,Storage,
+19 December 2023,Office Supplies,Storage,78.256
+20 December 2023,Office Supplies,Storage,
+21 December 2023,Office Supplies,Storage,1499.72
+22 December 2023,Office Supplies,Storage,94.64
+23 December 2023,Office Supplies,Storage,648.352
+24 December 2023,Office Supplies,Storage,1267.94
+25 December 2023,Office Supplies,Storage,366.56
+26 December 2023,Office Supplies,Storage,750.68
+27 December 2023,Office Supplies,Storage,
+28 December 2023,Office Supplies,Storage,908.874
+29 December 2023,Office Supplies,Storage,
+30 December 2023,Office Supplies,Storage,
+01 December 2023,Office Supplies,Supplies,
+02 December 2023,Office Supplies,Supplies,4.36
+03 December 2023,Office Supplies,Supplies,47.32
+04 December 2023,Office Supplies,Supplies,
+05 December 2023,Office Supplies,Supplies,
+06 December 2023,Office Supplies,Supplies,
+07 December 2023,Office Supplies,Supplies,
+08 December 2023,Office Supplies,Supplies,
+09 December 2023,Office Supplies,Supplies,
+10 December 2023,Office Supplies,Supplies,
+11 December 2023,Office Supplies,Supplies,
+13 December 2023,Office Supplies,Supplies,
+14 December 2023,Office Supplies,Supplies,25.71
+15 December 2023,Office Supplies,Supplies,
+16 December 2023,Office Supplies,Supplies,
+17 December 2023,Office Supplies,Supplies,13.98
+18 December 2023,Office Supplies,Supplies,
+19 December 2023,Office Supplies,Supplies,1665.62
+20 December 2023,Office Supplies,Supplies,
+21 December 2023,Office Supplies,Supplies,69.5
+22 December 2023,Office Supplies,Supplies,695.16
+23 December 2023,Office Supplies,Supplies,
+24 December 2023,Office Supplies,Supplies,
+25 December 2023,Office Supplies,Supplies,44.688
+26 December 2023,Office Supplies,Supplies,
+27 December 2023,Office Supplies,Supplies,
+28 December 2023,Office Supplies,Supplies,
+29 December 2023,Office Supplies,Supplies,
+30 December 2023,Office Supplies,Supplies,
+01 December 2023,Technology,Accessories,20.37
+02 December 2023,Technology,Accessories,
+03 December 2023,Technology,Accessories,227.08
+04 December 2023,Technology,Accessories,798.718
+05 December 2023,Technology,Accessories,304.42
+06 December 2023,Technology,Accessories,
+07 December 2023,Technology,Accessories,179.984
+08 December 2023,Technology,Accessories,358.06
+09 December 2023,Technology,Accessories,251.33
+10 December 2023,Technology,Accessories,663.25
+11 December 2023,Technology,Accessories,156.292
+13 December 2023,Technology,Accessories,
+14 December 2023,Technology,Accessories,471.79
+15 December 2023,Technology,Accessories,
+16 December 2023,Technology,Accessories,339.9
+17 December 2023,Technology,Accessories,
+18 December 2023,Technology,Accessories,149.32
+19 December 2023,Technology,Accessories,
+20 December 2023,Technology,Accessories,
+21 December 2023,Technology,Accessories,71
+22 December 2023,Technology,Accessories,806.754
+23 December 2023,Technology,Accessories,
+24 December 2023,Technology,Accessories,
+25 December 2023,Technology,Accessories,190.728
+26 December 2023,Technology,Accessories,
+27 December 2023,Technology,Accessories,
+28 December 2023,Technology,Accessories,
+29 December 2023,Technology,Accessories,
+30 December 2023,Technology,Accessories,
+01 December 2023,Technology,Copiers,
+02 December 2023,Technology,Copiers,
+03 December 2023,Technology,Copiers,
+04 December 2023,Technology,Copiers,
+05 December 2023,Technology,Copiers,
+06 December 2023,Technology,Copiers,
+07 December 2023,Technology,Copiers,
+08 December 2023,Technology,Copiers,1199.976
+09 December 2023,Technology,Copiers,1399.98
+10 December 2023,Technology,Copiers,
+11 December 2023,Technology,Copiers,
+13 December 2023,Technology,Copiers,
+14 December 2023,Technology,Copiers,1199.98
+15 December 2023,Technology,Copiers,
+16 December 2023,Technology,Copiers,
+17 December 2023,Technology,Copiers,
+18 December 2023,Technology,Copiers,
+19 December 2023,Technology,Copiers,
+20 December 2023,Technology,Copiers,
+21 December 2023,Technology,Copiers,
+22 December 2023,Technology,Copiers,
+23 December 2023,Technology,Copiers,
+24 December 2023,Technology,Copiers,2879.952
+25 December 2023,Technology,Copiers,
+26 December 2023,Technology,Copiers,
+27 December 2023,Technology,Copiers,
+28 December 2023,Technology,Copiers,
+29 December 2023,Technology,Copiers,
+30 December 2023,Technology,Copiers,
+01 December 2023,Technology,Machines,
+02 December 2023,Technology,Machines,
+03 December 2023,Technology,Machines,
+04 December 2023,Technology,Machines,649
+05 December 2023,Technology,Machines,
+06 December 2023,Technology,Machines,
+07 December 2023,Technology,Machines,
+08 December 2023,Technology,Machines,
+09 December 2023,Technology,Machines,
+10 December 2023,Technology,Machines,
+11 December 2023,Technology,Machines,
+13 December 2023,Technology,Machines,
+14 December 2023,Technology,Machines,
+15 December 2023,Technology,Machines,
+16 December 2023,Technology,Machines,
+17 December 2023,Technology,Machines,
+18 December 2023,Technology,Machines,
+19 December 2023,Technology,Machines,
+20 December 2023,Technology,Machines,
+21 December 2023,Technology,Machines,
+22 December 2023,Technology,Machines,
+23 December 2023,Technology,Machines,
+24 December 2023,Technology,Machines,479.97
+25 December 2023,Technology,Machines,120
+26 December 2023,Technology,Machines,
+27 December 2023,Technology,Machines,
+28 December 2023,Technology,Machines,
+29 December 2023,Technology,Machines,
+30 December 2023,Technology,Machines,
+01 December 2023,Technology,Phones,1397.066
+02 December 2023,Technology,Phones,3758.066
+03 December 2023,Technology,Phones,136.99
+04 December 2023,Technology,Phones,
+05 December 2023,Technology,Phones,31.176
+06 December 2023,Technology,Phones,
+07 December 2023,Technology,Phones,374.376
+08 December 2023,Technology,Phones,83.988
+09 December 2023,Technology,Phones,444.768
+10 December 2023,Technology,Phones,134.81
+11 December 2023,Technology,Phones,319.398
+13 December 2023,Technology,Phones,
+14 December 2023,Technology,Phones,52.68
+15 December 2023,Technology,Phones,196.776
+16 December 2023,Technology,Phones,
+17 December 2023,Technology,Phones,
+18 December 2023,Technology,Phones,
+19 December 2023,Technology,Phones,
+20 December 2023,Technology,Phones,
+21 December 2023,Technology,Phones,281.97
+22 December 2023,Technology,Phones,696.998
+23 December 2023,Technology,Phones,494.97
+24 December 2023,Technology,Phones,
+25 December 2023,Technology,Phones,90.48
+26 December 2023,Technology,Phones,
+27 December 2023,Technology,Phones,164.388
+28 December 2023,Technology,Phones,14.85
+29 December 2023,Technology,Phones,302.376
+30 December 2023,Technology,Phones,90.93
