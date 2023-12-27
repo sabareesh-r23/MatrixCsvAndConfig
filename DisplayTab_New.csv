@@ -1,0 +1,193 @@
+Superstore 2023.Sub-Category,Superstore 2023.Region,Superstore 2023.State,Sum(Superstore 2023.Sales),Superstore 2023.YTD Sales
+Accessories,West,California,37255.01,13535.5
+Appliances,West,California,24175.92,12197.01
+Binders,West,California,28473.168,18074.864
+Labels,West,California,2899.14,927.61
+Accessories,West,Washington,15119.16,9119.99
+Appliances,West,Washington,1969.35,1012.53
+Binders,West,Washington,18156.128,7268.832
+Labels,West,Washington,1153.89,893.51
+Accessories,West,Colorado,2287.992,946.272
+Appliances,West,Colorado,1367.296,240.944
+Binders,West,Colorado,508.968,176.679
+Labels,West,Colorado,17.96,11.696
+Accessories,West,Arizona,3396.16,922.976
+Appliances,West,Arizona,774.432,
+Binders,West,Arizona,2185.353,266.895
+Labels,West,Arizona,27.464,
+Accessories,West,New Mexico,1163.8,1071.28
+Appliances,West,New Mexico,,
+Binders,West,New Mexico,125.632,89.952
+Labels,West,New Mexico,18.45,18.45
+Accessories,West,Oregon,1160.304,343.704
+Appliances,West,Oregon,535.768,11.176
+Binders,West,Oregon,281.064,121.632
+Labels,West,Oregon,902.112,71.04
+Accessories,West,Utah,194.73,
+Appliances,West,Utah,1089.75,
+Binders,West,Utah,759.592,445.92
+Labels,West,Utah,30.15,14.4
+Accessories,West,Idaho,89.97,89.97
+Appliances,West,Idaho,227.84,227.84
+Binders,West,Idaho,71.656,21.312
+Labels,West,Idaho,,
+Accessories,West,Nevada,229.55,
+Appliances,West,Nevada,95.98,64.9
+Binders,West,Nevada,4897.184,84.08
+Labels,West,Nevada,14.94,
+Accessories,West,Montana,217.44,
+Appliances,West,Montana,,
+Binders,West,Montana,502.368,
+Labels,West,Montana,14.62,
+Accessories,East,New York,19597.54,4785.63
+Appliances,East,New York,13276.38,5930.15
+Binders,East,New York,32456.912,8462.568
+Labels,East,New York,1290.57,459.64
+Accessories,East,Pennsylvania,7299.28,4347.336
+Appliances,East,Pennsylvania,4663.28,2273.064
+Binders,East,Pennsylvania,6266.058,1892.304
+Labels,East,Pennsylvania,598.304,126.288
+Accessories,East,Ohio,8222.872,2921.144
+Appliances,East,Ohio,4807.536,1884.776
+Binders,East,Ohio,1917.087,444.759
+Labels,East,Ohio,161.84,45.176
+Accessories,East,Maryland,1123.81,965.67
+Appliances,East,Maryland,1589.16,215.99
+Binders,East,Maryland,3225.05,265.4
+Labels,East,Maryland,171.51,74
+Accessories,East,Delaware,561.69,141.9
+Appliances,East,Delaware,140.42,100.94
+Binders,East,Delaware,2434.03,1187.03
+Labels,East,Delaware,74.13,
+Accessories,East,New Jersey,1023.56,404.17
+Appliances,East,New Jersey,4204.36,162.54
+Binders,East,New Jersey,3529.52,776.18
+Labels,East,New Jersey,66.34,20.89
+Accessories,East,Connecticut,657.69,397.97
+Appliances,East,Connecticut,1479.18,891.95
+Binders,East,Connecticut,371.87,51.08
+Labels,East,Connecticut,33.43,18.81
+Accessories,East,Massachusetts,896.91,345.96
+Appliances,East,Massachusetts,3347.75,286.86
+Binders,East,Massachusetts,2105.19,642.77
+Labels,East,Massachusetts,165.65,21.93
+Accessories,East,Vermont,305.01,205.03
+Appliances,East,Vermont,542.94,542.94
+Binders,East,Vermont,,
+Labels,East,Vermont,,
+Accessories,East,Rhode Island,2209.76,321.98
+Appliances,East,Rhode Island,2.22,2.22
+Binders,East,Rhode Island,292.42,178.41
+Labels,East,Rhode Island,,
+Accessories,East,West Virginia,,
+Appliances,East,West Virginia,,
+Binders,East,West Virginia,88.64,88.64
+Labels,East,West Virginia,,
+Accessories,East,New Hampshire,2811.85,
+Appliances,East,New Hampshire,33.28,
+Binders,East,New Hampshire,763.48,
+Labels,East,New Hampshire,41.16,24.64
+Accessories,East,District of Columbia,,
+Appliances,East,District of Columbia,,
+Binders,East,District of Columbia,9.64,
+Labels,East,District of Columbia,,
+Accessories,East,Maine,323.4,
+Appliances,East,Maine,101.96,
+Binders,East,Maine,38.1,
+Labels,East,Maine,,
+Accessories,Central,Michigan,4932.55,3171.05
+Appliances,Central,Michigan,4324.149,87.444
+Binders,Central,Michigan,22821.97,7641.67
+Labels,Central,Michigan,880.56,27.72
+Accessories,Central,Texas,11328.56,2092.544
+Appliances,Central,Texas,2407.814,858.594
+Binders,Central,Texas,9042.676,3505.13
+Labels,Central,Texas,583.6,111.672
+Accessories,Central,Indiana,2279.03,790.04
+Appliances,Central,Indiana,4160.15,3779.83
+Binders,Central,Indiana,4011.88,1779.97
+Labels,Central,Indiana,276.21,133.2
+Accessories,Central,Illinois,5535.696,1405.52
+Appliances,Central,Illinois,974.72,161.22
+Binders,Central,Illinois,4538.546,3304.806
+Labels,Central,Illinois,224.872,70.4
+Accessories,Central,Minnesota,1520.38,1354.6
+Appliances,Central,Minnesota,2844.13,453.58
+Binders,Central,Minnesota,12470.24,2716.57
+Labels,Central,Minnesota,161.05,115.9
+Accessories,Central,Missouri,1021.68,561.21
+Appliances,Central,Missouri,3670.43,1688.36
+Binders,Central,Missouri,1875.62,1659.8
+Labels,Central,Missouri,14.94,
+Accessories,Central,Wisconsin,4795.48,862.77
+Appliances,Central,Wisconsin,2710.57,1337.23
+Binders,Central,Wisconsin,588.39,133.12
+Labels,Central,Wisconsin,177.85,93.5
+Accessories,Central,South Dakota,392.94,389.97
+Appliances,Central,South Dakota,416.32,416.32
+Binders,Central,South Dakota,114.51,103.83
+Labels,Central,South Dakota,34.85,34.85
+Accessories,Central,Oklahoma,1817.47,291.96
+Appliances,Central,Oklahoma,1491.22,150.73
+Binders,Central,Oklahoma,445.44,82.44
+Labels,Central,Oklahoma,64.24,
+Accessories,Central,Nebraska,239.94,
+Appliances,Central,Nebraska,500.57,
+Binders,Central,Nebraska,128.23,88.4
+Labels,Central,Nebraska,14.4,
+Accessories,Central,Iowa,,
+Appliances,Central,Iowa,,
+Binders,Central,Iowa,247.96,63.74
+Labels,Central,Iowa,,
+Accessories,Central,North Dakota,,
+Appliances,Central,North Dakota,,
+Binders,Central,North Dakota,25.9,25.9
+Labels,Central,North Dakota,,
+Accessories,Central,Kansas,92.35,
+Appliances,Central,Kansas,81.96,
+Binders,Central,Kansas,611.92,
+Labels,Central,Kansas,18.9,
+Accessories,South,Georgia,3657.87,579.77
+Appliances,South,Georgia,3432.15,2033.33
+Binders,South,Georgia,11672.32,3100.6
+Labels,South,Georgia,244.92,48.84
+Accessories,South,Kentucky,2976.3,2583.52
+Appliances,South,Kentucky,1335.62,872.48
+Binders,South,Kentucky,3695.82,1946.61
+Labels,South,Kentucky,363.4,35.76
+Accessories,South,North Carolina,3506.632,1020.432
+Appliances,South,North Carolina,4137.552,1810.32
+Binders,South,North Carolina,2562.321,1923.267
+Labels,South,North Carolina,229.424,122.12
+Accessories,South,Florida,5861.944,1236.016
+Appliances,South,Florida,3558.44,1855.672
+Binders,South,Florida,3690.498,242.544
+Labels,South,Florida,385.808,292.368
+Accessories,South,Tennessee,410.568,297.928
+Appliances,South,Tennessee,1914.984,510.232
+Binders,South,Tennessee,5148.042,1721.421
+Labels,South,Tennessee,115.368,12.536
+Accessories,South,Mississippi,2009.66,951.94
+Appliances,South,Mississippi,615.55,582.88
+Binders,South,Mississippi,966.85,280.2
+Labels,South,Mississippi,14.62,
+Accessories,South,Arkansas,1788.44,488.35
+Appliances,South,Arkansas,,
+Binders,South,Arkansas,2889.83,995.84
+Labels,South,Arkansas,7.31,
+Accessories,South,Louisiana,1667.8,659.9
+Appliances,South,Louisiana,17.34,
+Binders,South,Louisiana,628.52,481.4
+Labels,South,Louisiana,11.07,11.07
+Accessories,South,Virginia,2935.82,76.33
+Appliances,South,Virginia,4305.53,282.88
+Binders,South,Virginia,4794.24,32.7
+Labels,South,Virginia,474.77,8.26
+Accessories,South,South Carolina,138.89,
+Appliances,South,South Carolina,,
+Binders,South,South Carolina,515.08,351.72
+Labels,South,South Carolina,,
+Accessories,South,Alabama,2322.83,265.9
+Appliances,South,Alabama,208.16,
+Binders,South,Alabama,466.82,67.06
+Labels,South,Alabama,506.49,14.94
