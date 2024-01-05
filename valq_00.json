@@ -1,0 +1,973 @@
+{
+    "metadata": {
+        "rows": [{
+                "fieldId": "JIRA Issue Key",
+                "fieldName": "JIRA Issue Key",
+                "order": 0,
+                "type": "text",
+                "role": "rows"
+            }
+        ],
+        "columns": [],
+        "values": [{
+                "fieldId": "Count of CreatedDate",
+                "fieldName": "Count of CreatedDate",
+                "order": 0,
+                "type": "numeric",
+                "role": "measure"
+            }
+        ]
+    },
+    "configProps": {
+        "PctVarAmber": 0,
+        "PctVarGreen": 10,
+        "PctVarRed": -10,
+        "PeriodColumn": 1,
+        "PeriodToColumn": 1,
+        "activeAllocationSeries": "",
+        "activeScenario": "1",
+        "activeSeries": ["base"],
+        "activeTopNode": "SUMME",
+        "addComparisonSeries": false,
+        "additionalSeries": [],
+        "allocationCellStates": {},
+        "allocationLogArchive": {},
+        "allocationLogMeta": {},
+        "allocationLogStore": {},
+        "allocationSeriesMeta": [],
+        "allocationSeriesStore": {},
+        "allocationDriverInputs": {},
+        "allocationTreeConfigDiffs": {},
+        "blankCanvas": false,
+        "cVerTitle": "Comparison",
+        "clickedPeriod": null,
+        "colorCanvas1": "#C5DADC",
+        "colorCanvas2": "#91ABBF",
+        "colorCanvas3": "#CFDDE7",
+        "colorCanvasBase": "#F1F5F9",
+        "colorLinks": "#666666",
+        "colorNodeBg": "#FFFFFF",
+        "colorNodeBgComposite": "#F1F5F9",
+        "colorNodeBgDerived": "rgba(246, 248, 251, 0)",
+        "colorNodeBorder": "#000000",
+        "colorNodeBorderFocus": "#2E8AB8",
+        "colorNodePrimaryFont": "#000000",
+        "colorNodeSecondaryFont": "#777777",
+        "chartsTheme": "xVizTheme",
+        "globalFont": "Inforiver Sans",
+        "simulationTable": {
+            "displaySettings": {
+                "headerFontColor": "#333333",
+                "textColor": "#333333",
+                "enableRowHover": "rowAlternate",
+                "rowHoverTextColor": "#212121",
+                "rowEvenColor": "#f5f5f5",
+                "rowOddColor": "#ffffff",
+                "rowHoverColor": "#f5f5f5",
+                "columnSpacing": "off",
+                "columnSpacingValue": 2,
+                "theme": "trafficlights",
+                "conditionalFormatting": false,
+                "showNodeCount": false,
+                "showEmptyNode": true,
+                "highlightNodeImpact": true,
+                "rowHeight": 19,
+                "layout": "HIERARCHICAL",
+                "pivotMode": "none",
+                "lockSize": false,
+                "autoWrap": false
+            },
+            "periodWiseFilters": {},
+            "pinnedNodes": [],
+            "generalFilter": [{
+                    "filterKey": "trend",
+                    "checked": false
+                }, {
+                    "filterKey": "base",
+                    "checked": false
+                }, {
+                    "filterKey": "simChangeAbs",
+                    "checked": false
+                }, {
+                    "filterKey": "simChangePct",
+                    "checked": false
+                }, {
+                    "filterKey": "tgt",
+                    "checked": false
+                }, {
+                    "filterKey": "varAbs",
+                    "checked": false
+                }, {
+                    "filterKey": "varPct",
+                    "checked": false
+                }
+            ],
+            "rowExpandCollapseOptions": {
+                "rows": {
+                    "Overall__Result": {
+                        "expanded": true
+                    }
+                },
+                "expandTillDescendant": {},
+                "gridState": null,
+                "levelStates": [],
+                "maxLevelExpanded": null
+            }
+        },
+        "colorSim": "#2E8AB8",
+        "customLogos": {
+            "type": "valq-icon"
+        },
+        "data": {
+            "arrangements": {
+                "rows": ["JIRA Issue Key"],
+                "columns": [],
+                "valueSources": ["Count of CreatedDate"],
+                "othersSeries": [],
+                "timeDimensions": []
+            }
+        },
+        "decimalSeparator": ".",
+        "disableDownload": false,
+        "dispChildCount": false,
+        "dispLevels": 1,
+        "enableActivePeriod": false,
+        "enableComments": false,
+        "enableCompositeNodes": true,
+        "enableNodeSearch": true,
+        "expandCollapseState": {
+            "model": ["C", "NSUMME"]
+        },
+        "focusNode": "",
+        "focusNodesList": ["NSUMME"],
+        "formulaNodeHighlight": {},
+        "hideEmptyNodes": false,
+        "hideEmptyNodesRuntime": false,
+        "excludeActivePeriodInPtd": false,
+        "gotoLevel": true,
+        "inEditMode": true,
+        "isPlayGround": false,
+        "insertTemplateConfigs": [],
+        "interaction": "Cursor",
+        "isEditModeAllowed": false,
+        "isFetchingData": false,
+        "levelNames": {},
+        "linkedScenarios": [],
+        "lockTreeConfig": false,
+        "modelId": null,
+        "modalConfigColumn": [{
+                "label": "Level",
+                "value": "level",
+                "checked": false
+            }, {
+                "label": "Type",
+                "value": "type",
+                "checked": true
+            }, {
+                "label": "Configuration",
+                "value": "configuration",
+                "checked": true
+            }, {
+                "label": "Time Aggregation",
+                "value": "time",
+                "checked": true
+            }, {
+                "label": "Desired Trend",
+                "value": "trend",
+                "checked": true
+            }, {
+                "label": "Scale",
+                "value": "scale",
+                "checked": true
+            }, {
+                "label": "Decimals",
+                "value": "decimals",
+                "checked": true
+            }, {
+                "label": "Prefix",
+                "value": "prefix",
+                "checked": true
+            }, {
+                "label": "Suffix",
+                "value": "suffix",
+                "checked": true
+            }, {
+                "label": "Simulation",
+                "value": "simulation",
+                "checked": true
+            }, {
+                "label": "Slide Right to",
+                "value": "slide_right",
+                "checked": false
+            }, {
+                "label": "Description",
+                "value": "description",
+                "checked": false
+            }
+        ],
+        "onboarding": "dynamicTree",
+        "modelMergeStatus": -1,
+        "modelMeta": {
+            "name": "ValQ Model",
+            "createdAt": 1704436172,
+            "updatedAt": 1704436172,
+            "modelSelected": true,
+            "isCreatedInPBIDesktop": true
+        },
+        "modelStatus": 20,
+        "multiSeriesList": [{
+                "id": "act",
+                "uniqueId": "Count_of_CreatedDate",
+                "label": "Count of CreatedDate",
+                "seriesIndex": 0,
+                "dataSeriesIndex": 0,
+                "visibility": true
+            }
+        ],
+        "nativeSeriesForecastPeriodMap": {},
+        "negativeDisplay": "(0)",
+        "nodeCommentMap": {},
+        "nodeMapping": "text",
+        "nodeMappingSep": ":",
+        "nodeOperand": true,
+        "nodeSecVal": true,
+        "nodeStatus": "I",
+        "nodeUniqueIdCounter": 0,
+        "nonSimulatedNodesDisabled": false,
+        "cfValueType": "percentage",
+        "nodeStyle": "S",
+        "nodeTrend": false,
+        "nodeVar": true,
+        "nodesAcl": {},
+        "opacityNodeBg": 0.9,
+        "opacityNodeBgComposite": 0.6,
+        "opacityNodeBgDerived": 0.9,
+        "opacityNodeBorder": 0.2,
+        "pVerTitle": "Count of CreatedDate",
+        "periods": 1,
+        "periodsLabels": "Total",
+        "primaryDisplayValue": "sel",
+        "presentationSlidesConfig": {
+            "activeSlideType": 0,
+            "activeSlide": "1",
+            "activeSlideIndex": null,
+            "activeDivisionConfig": null,
+            "activeDivisionScenarioId": null,
+            "activeLayout": "layout_seven",
+            "activeSlideEditorComponent": "text_editor",
+            "isSlidesInitialized": false,
+            "isScenarioSlide": true,
+            "isSlidesManager": false,
+            "isSlideSidePanel": false,
+            "isPresentationMode": false,
+            "slideTemplateMenuConfig": {
+                "layout_seven": {
+                    "label": "Row View",
+                    "hierarchy": {
+                        "parents": [{
+                                "id": "parent0",
+                                "children": [{
+                                        "id": "parent0_child0"
+                                    }, {
+                                        "id": "parent0_child1"
+                                    }, {
+                                        "id": "parent0_child2",
+                                        "children": [{
+                                                "id": "parent0_child2_child0"
+                                            }, {
+                                                "id": "parent0_child2_child1"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "slideMosaicInitialValue": {
+                        "0": {
+                            "direction": "column",
+                            "first": "parent0_child0",
+                            "second": {
+                                "direction": "column",
+                                "first": "parent0_child1",
+                                "second": {
+                                    "direction": "row",
+                                    "first": "parent0_child2_child0",
+                                    "second": "parent0_child2_child1",
+                                    "splitPercentage": 40
+                                },
+                                "splitPercentage": 30
+                            },
+                            "splitPercentage": 20
+                        },
+                        "1": {
+                            "direction": "column",
+                            "first": "parent0_child0",
+                            "second": {
+                                "direction": "column",
+                                "first": "parent0_child1",
+                                "second": {
+                                    "direction": "row",
+                                    "first": "parent0_child2_child0",
+                                    "second": "parent0_child2_child1",
+                                    "splitPercentage": 75
+                                },
+                                "splitPercentage": 20
+                            },
+                            "splitPercentage": 8
+                        }
+                    }
+                },
+                "layout_eight": {
+                    "label": "Column View",
+                    "hierarchy": {
+                        "parents": [{
+                                "id": "parent0",
+                                "children": [{
+                                        "id": "parent0_child0"
+                                    }, {
+                                        "id": "parent0_child1",
+                                        "children": [{
+                                                "id": "parent0_child1_child0"
+                                            }, {
+                                                "id": "parent0_child1_child1"
+                                            }, {
+                                                "id": "parent0_child1_child2"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "slideMosaicInitialValue": {
+                        "0": {
+                            "direction": "column",
+                            "first": "parent0_child0",
+                            "second": {
+                                "direction": "row",
+                                "first": "parent0_child1_child0",
+                                "second": {
+                                    "direction": "row",
+                                    "first": "parent0_child1_child1",
+                                    "second": "parent0_child1_child2",
+                                    "splitPercentage": 70
+                                },
+                                "splitPercentage": 20
+                            },
+                            "splitPercentage": 20
+                        },
+                        "1": {
+                            "direction": "column",
+                            "first": "parent0_child0",
+                            "second": {
+                                "direction": "row",
+                                "first": "parent0_child1_child0",
+                                "second": {
+                                    "direction": "row",
+                                    "first": "parent0_child1_child1",
+                                    "second": "parent0_child1_child2",
+                                    "splitPercentage": 70
+                                },
+                                "splitPercentage": 20
+                            },
+                            "splitPercentage": 8
+                        }
+                    }
+                }
+            },
+            "slideCreatorConfig": [{
+                    "predefinedSlideComponentIndex": 0,
+                    "label": "Blank Slide",
+                    "icon": "light-minimal-toolbar"
+                }
+            ],
+            "slidesConfig": [],
+            "slideChartInitPropsBuffer": {},
+            "isChartConfigurationPopUp": false,
+            "isControlkeyClicked": false,
+            "selectedTiles": [],
+            "isTextEditorInFocus": false,
+            "slideTabsConfig": []
+        },
+        "readModeEnable": false,
+        "replaceTemplateConfigs": [],
+        "compatibilityConfig": {
+            "rowIdGenerationMode": 1
+        },
+        "scale": "0.00a",
+        "scaleSuffixB": "b",
+        "scaleSuffixK": "k",
+        "scaleSuffixM": "m",
+        "scaleSuffixT": "t",
+        "scenarios": [{
+                "name": "1",
+                "title": "Scenario 1",
+                "descr": "",
+                "defaultDescr": "",
+                "compare": true,
+                "simVar": [],
+                "baseSeriesId": "Count_of_CreatedDate",
+                "isDefaultScenario": true,
+                "disabled": false,
+                "_simVar": [],
+                "compareSeriesId": "empty"
+            }
+        ],
+        "secKPIs": {
+            "secondaryKPIType": "",
+            "secondaryKPI1": {
+                "label": "",
+                "scale": "X",
+                "decimal": "0",
+                "prefix": "",
+                "suffix": "",
+                "formula": "",
+                "display": "X",
+                "type": ""
+            },
+            "secondaryKPI2": {
+                "label": "",
+                "scale": "X",
+                "decimal": "0",
+                "prefix": "",
+                "suffix": "",
+                "formula": "",
+                "display": "X",
+                "type": ""
+            },
+            "secondaryKPI3": {
+                "label": "",
+                "scale": "X",
+                "decimal": "0",
+                "prefix": "",
+                "suffix": "",
+                "formula": "",
+                "display": "X",
+                "type": ""
+            },
+            "customKpiNodes": []
+        },
+        "secondaryKPITreeDisplay": "sim",
+        "selectedNode": null,
+        "seriesMeta": {},
+        "subModelScenarioMap": {},
+        "subModelSeriesMap": {},
+        "subModelSourceData": {},
+        "thousandSeparator": ",",
+        "topNodeList": [],
+        "kpiList": ["SUMME", "DSUMME_Ra5587fcc56", "DSUMME_R96f46e2e1d", "DSUMME_R450a04354c", "DSUMME_R0fcffdb3c2", "DSUMME_Rc4769622f1"],
+        "keyInputList": [],
+        "constraintList": [""],
+        "treeConfig": [{
+                "aMeth": "S",
+                "cfRuleId": 0,
+                "cfApplyToDescendants": false,
+                "cfType": "G",
+                "cfMax": 10,
+                "cfMid": 0,
+                "cfMin": -10,
+                "cfValueType": "percentage",
+                "cfMinColor": "#FF0000",
+                "cfMidColor": "#FFBF00",
+                "cfInterColor": "#FFFFFF",
+                "cfMaxColor": "#008000",
+                "cMeth": "A",
+                "compositeNodes": "",
+                "dec": 0,
+                "derived": "",
+                "deriveChildren": true,
+                "derivedSim": "",
+                "derivedSimMeth": "P",
+                "descr": "",
+                "footer": "",
+                "formula": "",
+                "header": "",
+                "hideStatus": "",
+                "linkedModelID": "",
+                "linkedModelNode": "",
+                "linkUpToLevel": null,
+                "lSimNode": "",
+                "level": 0,
+                "linkNode": "",
+                "locked": "X",
+                "manAct": "",
+                "manTgt": "",
+                "max": null,
+                "min": null,
+                "name": "SUMME",
+                "nodeType": "",
+                "notes": "",
+                "prefix": "",
+                "rowMap": "__ROOT__",
+                "scale": "X",
+                "secondaryKPIType": "",
+                "secondaryKPI1Formula": "",
+                "secondaryKPI1Scale": "X",
+                "secondaryKPI1Decimal": 0,
+                "secondaryKPI1Prefix": "",
+                "secondaryKPI1Suffix": "",
+                "secondaryKPI1Type": "",
+                "secondaryKPI1Label": "",
+                "secondaryKPI1Display": "X",
+                "secondaryKPI2Scale": "X",
+                "secondaryKPI2Decimal": 0,
+                "secondaryKPI2Prefix": "",
+                "secondaryKPI2Suffix": "",
+                "secondaryKPI2Formula": "",
+                "secondaryKPI2Type": "",
+                "secondaryKPI2Label": "",
+                "secondaryKPI2Display": "X",
+                "secondaryKPI3Scale": "X",
+                "secondaryKPI3Decimal": 0,
+                "secondaryKPI3Prefix": "",
+                "secondaryKPI3Suffix": "",
+                "secondaryKPI3Formula": "",
+                "secondaryKPI3Type": "",
+                "secondaryKPI3Label": "",
+                "secondaryKPI3Display": "X",
+                "secondaryKPITemplate": "",
+                "secondaryKPIApplyToDescendants": "",
+                "secondaryKPIFromNode": "",
+                "sourceNode": "",
+                "sMeth": "P",
+                "style": "",
+                "suffix": "",
+                "title": "Overall Result",
+                "tmplNode": "",
+                "tmplPrefix": "",
+                "tmplTPrefix": "",
+                "trend": "X",
+                "trendSim": "X",
+                "wAvgNode": "",
+                "_formulaBkp": "",
+                "lineageDisplay": ""
+            }
+        ],
+        "templateListConfig": [],
+        "treeLoadingState": {},
+        "treePermissions": null,
+        "useConstants": true,
+        "useWritebackLegacyFormat": false,
+        "userTreePermission": "9",
+        "valTextLper": "Month",
+        "valTextLptd": "YtD",
+        "valTextLsel": "Sim. Months",
+        "valTextLtotal": "Full Year",
+        "valTextSper": "Mth",
+        "valTextSptd": "YtD",
+        "valTextSsel": "Sim",
+        "valTextStotal": "FY",
+        "viewPortPadding": [0, 0, 0, 0],
+        "visualization": "Tree",
+        "waterFallType": "V",
+        "withComparison": false,
+        "writebackButtonLabel": "Writeback",
+        "writebackConfig": {
+            "selectedScenarios": [],
+            "selectedSeries": []
+        },
+        "writebackDescription": "Post data to writeback URL",
+        "writebackNodeSelection": "all",
+        "zeroDisplay": "-",
+        "zoom": 100,
+        "languageTranslate": "default",
+        "simulateTabNotes": {},
+        "simulateViewPreference": "Tree",
+        "planTabNotes": {},
+        "modelDocumentation": {
+            "mentionList": []
+        },
+        "varianceSettings": {
+            "primarySeries": "base",
+            "comparisonSeries": [],
+            "isPersistPrimary": false,
+            "isPersistComparison": false,
+            "scenarioSeries": "",
+            "filter": {
+                "parentNode": [],
+                "childNodes": [],
+                "children": "all_children"
+            },
+            "topN": {
+                "showTopN": false,
+                "showItems": "top",
+                "showTopNValue": 10,
+                "periodType": "periodic",
+                "series": "base",
+                "varianceType": "abs",
+                "valueType": "all_value",
+                "updateCount": 0
+            },
+            "periodSelection": {
+                "isSamePeriod": true,
+                "samePeriod": 1,
+                "primaryPeriod": 1,
+                "comparisonPeriod": []
+            },
+            "customPeriods": [],
+            "showPercentageVariance": false,
+            "showAbsoluteVariance": true,
+            "showHiddenNodes": false,
+            "showUnit": false,
+            "template": "matrix",
+            "comparedPeriodSeries": {},
+            "periodOrder": ["Full Year (Jan-Dec)", "Periodic (Mar)"],
+            "periodData": [{
+                    "key": "periodic",
+                    "hasToUpdate": true,
+                    "value": true,
+                    "enabled": true,
+                    "label": "Periodic",
+                    "periodRange": "Jan",
+                    "periodRangeKey": "1",
+                    "isCustomPeriod": false,
+                    "isHidden": false
+                }, {
+                    "key": "quartertoDate",
+                    "hasToUpdate": false,
+                    "value": false,
+                    "enabled": true,
+                    "label": "Quarter-to-date",
+                    "periodRange": "Jan-Jan",
+                    "periodRangeKey": "1-1",
+                    "isCustomPeriod": false,
+                    "isHidden": false
+                }, {
+                    "key": "quarter",
+                    "hasToUpdate": false,
+                    "value": false,
+                    "enabled": true,
+                    "label": "Quarter",
+                    "periodRange": "Jan-Mar",
+                    "periodRangeKey": "1-3",
+                    "isCustomPeriod": false,
+                    "isHidden": false
+                }, {
+                    "key": "halfYear",
+                    "hasToUpdate": false,
+                    "value": false,
+                    "enabled": true,
+                    "label": "Half Year",
+                    "periodRange": "Jan-Jun",
+                    "periodRangeKey": "1-6",
+                    "isCustomPeriod": false,
+                    "isHidden": false
+                }, {
+                    "key": "halfYeartoDate",
+                    "hasToUpdate": true,
+                    "value": false,
+                    "enabled": true,
+                    "label": "Half Year-to-date",
+                    "periodRange": "Jan-Jan",
+                    "periodRangeKey": "1-1",
+                    "isCustomPeriod": false,
+                    "isHidden": false
+                }, {
+                    "key": "ytd",
+                    "hasToUpdate": false,
+                    "value": false,
+                    "enabled": true,
+                    "label": "Year-to-date",
+                    "periodRange": "Jan-Jan",
+                    "periodRangeKey": "1-1",
+                    "isCustomPeriod": false,
+                    "isHidden": false
+                }, {
+                    "key": "ytg",
+                    "hasToUpdate": false,
+                    "value": false,
+                    "enabled": true,
+                    "label": "Year-to-go",
+                    "periodRange": "Feb-Dec",
+                    "periodRangeKey": "2-12",
+                    "isCustomPeriod": false,
+                    "isHidden": false
+                }, {
+                    "key": "fullYear",
+                    "hasToUpdate": true,
+                    "value": true,
+                    "enabled": true,
+                    "label": "Full Year",
+                    "periodRange": "Jan-Dec",
+                    "periodRangeKey": "1-12",
+                    "isCustomPeriod": false,
+                    "isHidden": false
+                }
+            ],
+            "compareHeaderSelection": null
+        },
+        "varianceDesignSettings": {
+            "showSearch": false,
+            "searchString": "",
+            "isEnableNotesColumn": true,
+            "isTemplatePanelVisible": false,
+            "isSettingPanelVisible": false,
+            "autoWrapColumns": true,
+            "axisScaling": "auto",
+            "filterTopNType": null,
+            "updateTopN": false,
+            "autoFit": false,
+            "autoFitButtonEnabled": false,
+            "displaySettings": {
+                "rowHeight": 19,
+                "toolbarTheme": "light",
+                "headerFontColor": "#212121",
+                "textColor": "#212121",
+                "enableRowHover": "rowAlternate",
+                "rowHoverTextColor": "#212121",
+                "rowEvenColor": "#f5f5f5",
+                "rowOddColor": "#ffffff",
+                "rowHoverColor": "#f5f5f5",
+                "columnSpacing": "off",
+                "columnSpacingValue": 5,
+                "theme": "trafficlights"
+            },
+            "rowExpandCollapseOptions": {
+                "rows": {},
+                "expandTillDescendant": {},
+                "gridState": null,
+                "levelStates": [],
+                "maxLevelExpanded": null
+            }
+        },
+        "simulationToolbarConfig": {
+            "showMetrics": true,
+            "showSimulationNodeSearch": true,
+            "showMetricsClass": "show-simulation-metrics-on-mount",
+            "toolbarViewMode": "Minimal",
+            "isToolbarFull": "Full",
+            "kpiViewMode": "Full",
+            "isSimFormulaEditMode": false
+        },
+        "analyzeNotesColumn": {
+            "columnNotes": []
+        },
+        "treeMinimalView": false,
+        "dataReductionColumnCount": 15,
+        "dataReductionRowCount": 2000,
+        "priorSeriesMap": {},
+        "deletedPriorSeriesMap": {},
+        "userOverriddenProps": [],
+        "othersSeriesList": [],
+        "timeIntelConfig": {},
+        "splitSeriesByYear": false,
+        "splitStartMonth": {
+            "month": "0",
+            "seriesName": "[EndPeriodYear]-[SeriesName]"
+        },
+        "seriesNameMap": {},
+        "nodeTable": {
+            "2": ["NSUMME"],
+            "3": ["NSUMME"]
+        },
+        "planRowExpandState": {
+            "NSUMME": true,
+            "NDSUMME_Ra5587fcc56": false,
+            "NDSUMME_R96f46e2e1d": false,
+            "NDSUMME_R450a04354c": false,
+            "NDSUMME_R0fcffdb3c2": false,
+            "NDSUMME_Rc4769622f1": false,
+            "NDSUMME_R9f5f8da8d0": false,
+            "NDSUMME_Rf0f1a98707": false,
+            "NDSUMME_R22d83e5cbb": false,
+            "NDSUMME_Re1107624b7": false,
+            "NDSUMME_Rdadb628e5b": false,
+            "NDSUMME_R4e56e64d62": false,
+            "NDSUMME_Ra96edd1b94": false,
+            "NDSUMME_Rd558137c85": false,
+            "NDSUMME_Ra0e4a725e3": false,
+            "NDSUMME_R595237ca3e": false,
+            "NDSUMME_R10df0c35a9": false,
+            "NDSUMME_R53fa65b6a1": false,
+            "NDSUMME_R2b5b70aca7": false,
+            "NDSUMME_R96e7c28444": false,
+            "NDSUMME_R02d7139a3e": false,
+            "NDSUMME_R57b2da8467": false,
+            "NDSUMME_R60ec913dfc": false,
+            "NDSUMME_R45da14032a": false,
+            "NDSUMME_R1904472ba7": false,
+            "NDSUMME_R3f139289c5": false,
+            "NDSUMME_Rbf67b427d0": false,
+            "NDSUMME_Rea7701282c": false,
+            "NDSUMME_R7bfdeb129a": false,
+            "NDSUMME_R4ca2c099e3": false,
+            "NDSUMME_Rbacc1dd9ee": false,
+            "NDSUMME_R8070a91033": false,
+            "NDSUMME_Re356da0523": false,
+            "NDSUMME_R3378b9fd77": false,
+            "NDSUMME_Rd8b3d77993": false,
+            "NDSUMME_R1d37f107ba": false,
+            "NDSUMME_R7b091a14af": false,
+            "NDSUMME_R9059df451f": false,
+            "NDSUMME_R4c9b256da3": false,
+            "NDSUMME_R904a025018": false,
+            "NDSUMME_R9f5ec6c41b": false,
+            "NDSUMME_Ref70dd76f3": false,
+            "NDSUMME_R3f50d38f6d": false,
+            "NDSUMME_R9b9977e08c": false,
+            "NDSUMME_Ra626d94a5e": false,
+            "NDSUMME_R6eaf99bd57": false,
+            "NDSUMME_R3492393e55": false,
+            "NDSUMME_Re01ab312ed": false,
+            "NDSUMME_R8d64de08a3": false,
+            "NDSUMME_R2771755363": false,
+            "NDSUMME_R3ad231f00e": false,
+            "NDSUMME_R540925a7ff": false,
+            "NDSUMME_R6e2cd73e5a": false,
+            "NDSUMME_Ra2426f53a4": false,
+            "NDSUMME_R18a0ca0f6d": false,
+            "NDSUMME_R612a9b307c": false,
+            "NDSUMME_R8540023b86": false,
+            "NDSUMME_Rd8e8fc1589": false,
+            "NDSUMME_R8268e8fbb6": false,
+            "NDSUMME_Rc88c688d97": false,
+            "NDSUMME_Re1a625a060": false,
+            "NDSUMME_Ra1b88377c8": false,
+            "NDSUMME_Ree16162b83": false,
+            "NDSUMME_R2f996f537d": false,
+            "NDSUMME_Re21b311a16": false,
+            "NDSUMME_R9b8f4b99d9": false,
+            "NDSUMME_Rae0c890477": false,
+            "NDSUMME_Rf9ab555332": false,
+            "NDSUMME_R03e250dd20": false,
+            "NDSUMME_R23df955a26": false,
+            "NDSUMME_Rc3d805c311": false,
+            "NDSUMME_R325296857e": false,
+            "NDSUMME_Ra332ebcb69": false,
+            "NDSUMME_Rbddd6d6ceb": false,
+            "NDSUMME_R188f519fc0": false,
+            "NDSUMME_Rb503498de0": false,
+            "NDSUMME_R1b59b502ab": false,
+            "NDSUMME_R2f55814ad3": false,
+            "NDSUMME_Rf4d6514e75": false,
+            "NDSUMME_Rcec63201d5": false,
+            "NDSUMME_R663a2673c1": false,
+            "NDSUMME_R73043ccc11": false,
+            "NDSUMME_Rb23744d8cc": false,
+            "NDSUMME_R1f23f6c4f8": false,
+            "NDSUMME_R04568c9b10": false,
+            "NDSUMME_R11c837b6b0": false,
+            "NDSUMME_Re455f6db7a": false,
+            "NDSUMME_Ra5e3645ba2": false,
+            "NDSUMME_R6449bb42fa": false,
+            "NDSUMME_R258dab3f01": false,
+            "NDSUMME_Rd04df1d2e4": false,
+            "NDSUMME_Rea7bc0e4c1": false,
+            "NDSUMME_Rdd6a85f98a": false,
+            "NDSUMME_Rf1f442fa19": false,
+            "NDSUMME_Rf0d837b8ca": false,
+            "NDSUMME_R29a7e79824": false,
+            "NDSUMME_R69dbcdd23b": false,
+            "NDSUMME_Rd6f291f70c": false,
+            "NDSUMME_R05f5566808": false,
+            "NDSUMME_R69699f23f4": false,
+            "NDSUMME_R39a36e7ad4": false,
+            "NDSUMME_Rc7ffaffe50": false,
+            "NDSUMME_R9111d2bdd7": false,
+            "NDSUMME_R91f1f009d6": false,
+            "NDSUMME_R9f1ecd52cc": false,
+            "NDSUMME_Reacb475eca": false,
+            "NDSUMME_R8ab31b5cc9": false,
+            "NDSUMME_R6625debe6b": false,
+            "NDSUMME_Rabeee70a1e": false,
+            "NDSUMME_Rf96854cf51": false,
+            "NDSUMME_R25544b80de": false,
+            "NDSUMME_Ra0be2a6d3e": false,
+            "NDSUMME_R6c0ff76ad7": false,
+            "NDSUMME_R1e2452eef8": false,
+            "NDSUMME_R98d952ad0e": false,
+            "NDSUMME_Ra5b136a563": false,
+            "NDSUMME_R320b9b9414": false,
+            "NDSUMME_Rde00804de1": false,
+            "NDSUMME_Rf8916a9ea1": false,
+            "NDSUMME_Re801bcc087": false,
+            "NDSUMME_Rad61374aad": false,
+            "NDSUMME_Rae17eac702": false,
+            "NDSUMME_Re1e86314e0": false,
+            "NDSUMME_Rf22f48d50a": false,
+            "NDSUMME_R5a735f1510": false,
+            "NDSUMME_Rb2c9447517": false,
+            "NDSUMME_R0a7b6b6a63": false,
+            "NDSUMME_R115d03206d": false,
+            "NDSUMME_R03251d2651": false,
+            "NDSUMME_Rf2944a6c1d": false,
+            "NDSUMME_Rda3b49beaa": false,
+            "NDSUMME_R3332f73e9b": false,
+            "NDSUMME_R77b3a1a621": false,
+            "NDSUMME_R02ea4de6c1": false,
+            "NDSUMME_R5b5057898a": false,
+            "NDSUMME_Rf9deb43dcb": false,
+            "NDSUMME_R28912c02f8": false,
+            "NDSUMME_Rcd8064596a": false,
+            "NDSUMME_Rd841870d77": false,
+            "NDSUMME_R4542f97563": false,
+            "NDSUMME_R7debe23229": false,
+            "NDSUMME_R840227a5d3": false,
+            "NDSUMME_R66d468c594": false,
+            "NDSUMME_R3c1ce08782": false,
+            "NDSUMME_Rd492d2463e": false,
+            "NDSUMME_Rcbb6f2a00d": false,
+            "NDSUMME_R2f990d4274": false,
+            "NDSUMME_Rfc974c43ea": false,
+            "NDSUMME_Rc77ed22e11": false,
+            "NDSUMME_R53aa3649e2": false,
+            "NDSUMME_R08639040d7": false,
+            "NDSUMME_R79e91265e2": false,
+            "NDSUMME_R3366691cd7": false
+        },
+        "hybridTable": {
+            "isHybridTableView": false,
+            "hybridNodeChildrenLimit": 15
+        },
+        "hybridPeriodControls": {
+            "hybridEnable": false,
+            "hybridPeriod": "closePeriod"
+        },
+        "editModelAllocEditor": true,
+        "showHiddenNodesAllocEditor": false,
+        "nodeCustomLayouts": {
+            "nodeTitleLayout": {
+                "width": 106,
+                "height": 17,
+                "y": 0,
+                "x": 0,
+                "justifyContent": "start",
+                "alignItems": "center"
+            },
+            "nodeValueLayout": {
+                "width": 161,
+                "height": 17,
+                "y": 17,
+                "x": 0,
+                "justifyContent": "start",
+                "alignItems": "center"
+            },
+            "nodeChartsLayout": {
+                "width": 82,
+                "height": 23,
+                "y": 34,
+                "x": 79,
+                "justifyContent": "start",
+                "alignItems": "center"
+            },
+            "nodeSimPercentageLayout": {
+                "width": 55,
+                "height": 17,
+                "y": 0,
+                "x": 106,
+                "justifyContent": "end",
+                "alignItems": "start"
+            },
+            "nodeVarianceLayout": {
+                "width": 79,
+                "height": 23,
+                "y": 34,
+                "x": 0,
+                "justifyContent": "start",
+                "alignItems": "center"
+            }
+        },
+        "nodePresetLayoutId": 1
+    }
+}
