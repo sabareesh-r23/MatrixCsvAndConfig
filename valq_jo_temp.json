@@ -50,7 +50,7 @@
         {
           "fieldId": "Sum of S4",
           "fieldName": "Sum of S4",
-          "order": 4,
+          "order": 3,
           "type": "numeric",
           "role": "measure"
         }
