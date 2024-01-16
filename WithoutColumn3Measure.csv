@@ -1,0 +1,18 @@
+Orders.Category,Orders.Sub-Category,CountNonNull(Orders.Row ID),Sum(Orders.Quantity),Sum(Orders.Profit)
+Technology,Copiers,68,234,55617.824900000036
+Technology,Phones,889,3289,44515.73059999999
+Technology,Accessories,775,2976,41936.635699999955
+Technology,Machines,115,440,3384.756899999995
+Office Supplies,Paper,1370,5178,34053.56929999999
+Office Supplies,Binders,1523,5974,30221.76329999999
+Office Supplies,Storage,846,3158,21278.82639999999
+Office Supplies,Appliances,466,1729,18138.00540000003
+Office Supplies,Envelopes,254,906,6964.176699999995
+Office Supplies,Art,796,3000,6527.786999999998
+Office Supplies,Labels,364,1400,5546.253999999996
+Office Supplies,Fasteners,217,914,949.5181999999995
+Office Supplies,Supplies,190,647,-1189.0994999999998
+Furniture,Chairs,617,2356,26590.16630000003
+Furniture,Furnishings,957,3563,13059.143600000005
+Furniture,Bookcases,228,868,-3472.5560000000046
+Furniture,Tables,319,1241,-17725.481100000015
