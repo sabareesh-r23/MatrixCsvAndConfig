@@ -1,0 +1,5 @@
+Table.Region,Sum(Table.NOR),Min(Table.WebUrl)
+UK,9500,https://www.google.com/
+NZ,7500,https://www.google.com/
+USA,4500,https://www.google.com
+AUS,3500,https://www.google.com/
