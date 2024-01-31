@@ -1,0 +1,50 @@
+Orders.Region,Orders.Country,Orders.State
+Central,United States,Illinois
+Central,United States,Indiana
+Central,United States,Iowa
+Central,United States,Kansas
+Central,United States,Michigan
+Central,United States,Minnesota
+Central,United States,Missouri
+Central,United States,Nebraska
+Central,United States,North Dakota
+Central,United States,Oklahoma
+Central,United States,South Dakota
+Central,United States,Texas
+Central,United States,Wisconsin
+East,United States,Connecticut
+East,United States,Delaware
+East,United States,District of Columbia
+East,United States,Maine
+East,United States,Maryland
+East,United States,Massachusetts
+East,United States,New Hampshire
+East,United States,New Jersey
+East,United States,New York
+East,United States,Ohio
+East,United States,Pennsylvania
+East,United States,Rhode Island
+East,United States,Vermont
+East,United States,West Virginia
+South,United States,Alabama
+South,United States,Arkansas
+South,United States,Florida
+South,United States,Georgia
+South,United States,Kentucky
+South,United States,Louisiana
+South,United States,Mississippi
+South,United States,North Carolina
+South,United States,South Carolina
+South,United States,Tennessee
+South,United States,Virginia
+West,United States,Arizona
+West,United States,California
+West,United States,Colorado
+West,United States,Idaho
+West,United States,Montana
+West,United States,Nevada
+West,United States,New Mexico
+West,United States,Oregon
+West,United States,Utah
+West,United States,Washington
+West,United States,Wyoming
