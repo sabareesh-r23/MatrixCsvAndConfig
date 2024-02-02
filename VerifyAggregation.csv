@@ -1,0 +1,18 @@
+Superstore 2023.Country/Region,Superstore 2023.Category,Superstore 2023.Sub-Category,Sum(Superstore 2023.Discount),CountNonNull(Superstore 2023.Postal Code),Sum(Superstore 2023.Profit)
+United States,Office Supplies,Binders,567,1523,30221.7633
+United States,Office Supplies,Paper,102.60000000000001,1368,34053.5693
+United States,Office Supplies,Appliances,77.59999999999987,465,18138.0054
+United States,Office Supplies,Storage,63.2,845,21278.8264
+United States,Office Supplies,Art,59.60000000000001,795,6527.787
+United States,Office Supplies,Labels,25,364,5546.254
+United States,Office Supplies,Envelopes,20.4,253,6964.1767
+United States,Office Supplies,Fasteners,17.8,217,949.5182
+United States,Office Supplies,Supplies,14.600000000000001,190,-1189.0995
+United States,Furniture,Furnishings,132.39999999999938,957,13059.1436
+United States,Furniture,Chairs,104.99999999999945,616,26590.1663
+United States,Furniture,Tables,83.34999999999991,319,-17725.4811
+United States,Furniture,Bookcases,48.13999999999997,227,-3472.556
+United States,Technology,Phones,137.4000000000009,888,44515.7306
+United States,Technology,Accessories,60.800000000000004,773,41936.6357
+United States,Technology,Machines,35.199999999999974,115,3384.7569
+United States,Technology,Copiers,11.000000000000007,68,55617.8249
