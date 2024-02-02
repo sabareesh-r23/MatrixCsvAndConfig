@@ -1,0 +1,52 @@
+Orders.Segment,Orders.Category,Orders.Sub-Category,Sum(Orders.Discount),Sum(Orders.Profit)
+Consumer,Office Supplies,Binders,294.40000000000003,17995.597200000084
+Corporate,Office Supplies,Binders,175,6377.320100000017
+Home Office,Office Supplies,Binders,97.60000000000001,5848.845999999996
+Consumer,Office Supplies,Paper,51,15534.643599999996
+Corporate,Office Supplies,Paper,32.4,10361.546799999993
+Home Office,Office Supplies,Paper,19.200000000000003,8157.378899999996
+Consumer,Office Supplies,Appliances,44.19999999999996,6981.928199999997
+Corporate,Office Supplies,Appliances,24.700000000000014,7429.895199999995
+Home Office,Office Supplies,Appliances,8.700000000000001,3726.1819999999966
+Consumer,Office Supplies,Storage,34.60000000000003,7104.200399999994
+Corporate,Office Supplies,Storage,19.399999999999988,9131.0247
+Home Office,Office Supplies,Storage,9.199999999999996,5043.6012999999975
+Consumer,Office Supplies,Art,33.800000000000026,3454.3010999999983
+Corporate,Office Supplies,Art,15.59999999999999,2004.647700000001
+Home Office,Office Supplies,Art,10.199999999999998,1068.8382000000006
+Consumer,Office Supplies,Labels,10.599999999999994,3075.9884000000015
+Corporate,Office Supplies,Labels,8.399999999999999,1760.8273000000004
+Home Office,Office Supplies,Labels,6.000000000000001,709.4383
+Consumer,Office Supplies,Envelopes,11.199999999999992,3264.4126000000006
+Corporate,Office Supplies,Envelopes,5.8000000000000025,2571.2290000000007
+Home Office,Office Supplies,Envelopes,3.400000000000001,1128.5350999999998
+Consumer,Office Supplies,Fasteners,7.600000000000004,576.8007999999996
+Corporate,Office Supplies,Fasteners,7.200000000000004,251.90299999999993
+Home Office,Office Supplies,Fasteners,3.0000000000000004,120.81440000000002
+Consumer,Office Supplies,Supplies,9,-1657.5513000000008
+Corporate,Office Supplies,Supplies,3.800000000000001,338.92639999999966
+Home Office,Office Supplies,Supplies,1.7999999999999998,129.52539999999996
+Consumer,Furniture,Furnishings,69.20000000000005,7919.422699999992
+Corporate,Furniture,Furnishings,39.400000000000055,3508.2077000000054
+Home Office,Furniture,Furnishings,23.800000000000015,1631.5131999999994
+Consumer,Furniture,Chairs,56.19999999999984,13235.331900000006
+Corporate,Furniture,Chairs,31.500000000000025,8344.656500000001
+Home Office,Furniture,Chairs,17.300000000000015,5010.177900000001
+Consumer,Furniture,Tables,42.29999999999991,-9728.037800000002
+Corporate,Furniture,Tables,27.54999999999998,-4906.498600000003
+Home Office,Furniture,Tables,13.500000000000005,-3090.944700000002
+Consumer,Furniture,Bookcases,29.009999999999998,-4435.638200000002
+Corporate,Furniture,Bookcases,14.000000000000004,638.4501999999993
+Home Office,Furniture,Bookcases,5.13,324.6319999999996
+Consumer,Technology,Phones,69.20000000000013,23837.11469999998
+Corporate,Technology,Phones,42.99999999999993,11766.219600000017
+Home Office,Technology,Phones,25.199999999999964,8912.396299999993
+Consumer,Technology,Accessories,35,20735.922500000004
+Corporate,Technology,Accessories,15.000000000000002,12707.480500000001
+Home Office,Technology,Accessories,10.8,8493.232700000006
+Consumer,Technology,Machines,16.799999999999994,2141.061799999994
+Corporate,Technology,Machines,12.100000000000001,703.0189999999975
+Home Office,Technology,Machines,6.3,540.676099999995
+Consumer,Technology,Copiers,6.800000000000003,24083.710600000002
+Corporate,Technology,Copiers,2.9999999999999996,18990.278899999998
+Home Office,Technology,Copiers,1.2,12543.8354
