@@ -1,0 +1,13 @@
+IBCS_C03.Month Name,Sum(IBCS_C03.AC),Sum(IBCS_C03.PY)
+Jun,193,183
+Aug,189,164
+Jul,178,152
+Sep,178,172
+May,170,174
+Feb,147,134
+Apr,139,152
+Mar,136,141
+Jan,128,115
+Dec,,183
+Nov,,201
+Oct,,184
