@@ -1,0 +1,649 @@
+Region,Business Unit,Product Category,Product,GL Account,Year,Quarter,Month,Day,Sum of 2021,Sum of 2022
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 1,January,1,1008,1094
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 1,February,1,1058,1057
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 1,March,1,1251,1075
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 2,April,1,1025,1052
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 2,May,1,1223,1115
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 2,June,1,1049,1019
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 3,July,1,1190,1254
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 3,August,1,1078,1201
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 3,September,1,1257,1008
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 4,October,1,1284,1127
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 4,November,1,1260,1232
+Asia,BU 1,Beverages,Coffee,Cost of Sales,2019,Qtr 4,December,1,1056,1027
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 1,January,1,722,789
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 1,February,1,847,801
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 1,March,1,814,812
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 2,April,1,758,803
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 2,May,1,775,779
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 2,June,1,719,763
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 3,July,1,773,710
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 3,August,1,708,817
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 3,September,1,831,835
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 4,October,1,732,719
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 4,November,1,791,781
+Asia,BU 1,Beverages,Coffee,Other Costs,2019,Qtr 4,December,1,829,723
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 1,January,1,8673,8219
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 1,February,1,8324,8795
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 1,March,1,9871,8419
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 2,April,1,8994,9962
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 2,May,1,8225,9254
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 2,June,1,8806,8926
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 3,July,1,9209,9695
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 3,August,1,8360,9821
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 3,September,1,9413,8940
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 4,October,1,9896,9752
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 4,November,1,8126,9099
+Asia,BU 1,Beverages,Coffee,Other Income,2019,Qtr 4,December,1,8059,8432
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 1,January,1,17,23
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 1,February,1,15,22
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 1,March,1,17,18
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 2,April,1,19,21
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 2,May,1,18,21
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 2,June,1,17,22
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 3,July,1,17,22
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 3,August,1,17,19
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 3,September,1,18,23
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 4,October,1,16,18
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 4,November,1,16,20
+Asia,BU 1,Beverages,Coffee,Selling Price,2019,Qtr 4,December,1,20,18
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 1,January,1,363,359
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 1,February,1,429,330
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 1,March,1,342,355
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 2,April,1,374,348
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 2,May,1,446,424
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 2,June,1,446,357
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 3,July,1,392,312
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 3,August,1,433,308
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 3,September,1,301,392
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 4,October,1,322,383
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 4,November,1,416,399
+Asia,BU 1,Beverages,Coffee,Units Sold,2019,Qtr 4,December,1,319,436
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 1,January,1,1248,1278
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 1,February,1,1267,1279
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 1,March,1,1155,1143
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 2,April,1,1100,1191
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 2,May,1,1210,1102
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 2,June,1,1180,1161
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 3,July,1,1044,1056
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 3,August,1,1281,1083
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 3,September,1,1144,1267
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 4,October,1,1123,1211
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 4,November,1,1029,1098
+Asia,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 4,December,1,1292,1218
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 1,January,1,779,797
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 1,February,1,779,714
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 1,March,1,703,838
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 2,April,1,717,828
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 2,May,1,745,712
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 2,June,1,817,714
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 3,July,1,752,812
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 3,August,1,772,842
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 3,September,1,757,809
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 4,October,1,805,814
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 4,November,1,753,756
+Asia,BU 1,Beverages,Orange,Other Costs,2019,Qtr 4,December,1,801,824
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 1,January,1,8869,8555
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 1,February,1,9392,8779
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 1,March,1,9897,8755
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 2,April,1,9971,8271
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 2,May,1,8465,8538
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 2,June,1,9040,9109
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 3,July,1,8798,8448
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 3,August,1,9471,8185
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 3,September,1,8346,9113
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 4,October,1,8136,8024
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 4,November,1,9280,9754
+Asia,BU 1,Beverages,Orange,Other Income,2019,Qtr 4,December,1,8119,8890
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 1,January,1,16,18
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 1,February,1,19,23
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 1,March,1,20,21
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 2,April,1,15,19
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 2,May,1,18,20
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 2,June,1,19,22
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 3,July,1,19,22
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 3,August,1,15,23
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 3,September,1,20,20
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 4,October,1,20,20
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 4,November,1,20,21
+Asia,BU 1,Beverages,Orange,Selling Price,2019,Qtr 4,December,1,15,18
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 1,January,1,342,384
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 1,February,1,445,429
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 1,March,1,366,389
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 2,April,1,369,326
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 2,May,1,388,415
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 2,June,1,381,339
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 3,July,1,421,323
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 3,August,1,345,419
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 3,September,1,414,359
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 4,October,1,326,380
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 4,November,1,308,418
+Asia,BU 1,Beverages,Orange,Units Sold,2019,Qtr 4,December,1,338,370
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 1,January,1,2736,2652
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 1,February,1,2918,2982
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 1,March,1,2754,2755
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 2,April,1,2665,2897
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 2,May,1,2722,2855
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 2,June,1,2770,2516
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 3,July,1,2529,2594
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 3,August,1,2918,2874
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 3,September,1,2722,2911
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 4,October,1,2668,2734
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 4,November,1,2534,2924
+Asia,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 4,December,1,2551,2597
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 1,January,1,10,9
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 1,February,1,10,9
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 1,March,1,11,11
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 2,April,1,8,9
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 2,May,1,12,8
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 2,June,1,10,9
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 3,July,1,9,11
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 3,August,1,9,11
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 3,September,1,10,12
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 4,October,1,11,8
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 4,November,1,10,9
+Asia,BU 2,Clothing,Men,Discount %,2019,Qtr 4,December,1,10,13
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 1,January,1,346,332
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 1,February,1,329,320
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 1,March,1,301,308
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 2,April,1,342,302
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 2,May,1,322,347
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 2,June,1,314,312
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 3,July,1,326,310
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 3,August,1,300,350
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 3,September,1,341,324
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 4,October,1,334,323
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 4,November,1,300,317
+Asia,BU 2,Clothing,Men,Other Costs,2019,Qtr 4,December,1,325,348
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 1,January,1,8575,8301
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 1,February,1,9033,9699
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 1,March,1,8389,9729
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 2,April,1,9069,9392
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 2,May,1,9149,9424
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 2,June,1,8678,9520
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 3,July,1,9537,9419
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 3,August,1,8048,9204
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 3,September,1,8495,9930
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 4,October,1,8365,8344
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 4,November,1,8940,9320
+Asia,BU 2,Clothing,Men,Other Income,2019,Qtr 4,December,1,9365,8802
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 1,January,1,243,216
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 1,February,1,383,443
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 1,March,1,306,403
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 2,April,1,220,284
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 2,May,1,232,209
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 2,June,1,229,411
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 3,July,1,358,383
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 3,August,1,433,297
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 3,September,1,296,288
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 4,October,1,481,463
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 4,November,1,404,372
+Asia,BU 2,Clothing,Men,Selling Price,2019,Qtr 4,December,1,252,253
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 1,January,1,121,105
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 1,February,1,105,128
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 1,March,1,113,129
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 2,April,1,113,117
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 2,May,1,103,117
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 2,June,1,109,121
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 3,July,1,108,122
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 3,August,1,115,113
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 3,September,1,110,120
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 4,October,1,110,118
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 4,November,1,111,129
+Asia,BU 2,Clothing,Men,Units Sold,2019,Qtr 4,December,1,100,110
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 1,January,1,2596,2689
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 1,February,1,2994,2724
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 1,March,1,2635,2808
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 2,April,1,2577,2664
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 2,May,1,2711,2905
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 2,June,1,2927,2516
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 3,July,1,2722,2781
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 3,August,1,2920,2939
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 3,September,1,2997,2788
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 4,October,1,2742,2996
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 4,November,1,2569,2789
+Asia,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 4,December,1,2752,2599
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 1,January,1,11,8
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 1,February,1,10,13
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 1,March,1,12,11
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 2,April,1,11,13
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 2,May,1,13,8
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 2,June,1,13,10
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 3,July,1,12,11
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 3,August,1,9,8
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 3,September,1,10,9
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 4,October,1,11,10
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 4,November,1,13,10
+Asia,BU 2,Clothing,Women,Discount %,2019,Qtr 4,December,1,11,10
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 1,January,1,309,344
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 1,February,1,310,314
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 1,March,1,350,339
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 2,April,1,303,341
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 2,May,1,345,312
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 2,June,1,338,330
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 3,July,1,336,313
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 3,August,1,300,332
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 3,September,1,305,337
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 4,October,1,319,325
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 4,November,1,326,336
+Asia,BU 2,Clothing,Women,Other Costs,2019,Qtr 4,December,1,326,314
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 1,January,1,8326,9087
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 1,February,1,9373,8168
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 1,March,1,9259,9230
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 2,April,1,8286,9915
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 2,May,1,8399,9914
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 2,June,1,9159,9356
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 3,July,1,9943,8828
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 3,August,1,8534,9697
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 3,September,1,9951,8698
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 4,October,1,8251,8604
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 4,November,1,8284,9964
+Asia,BU 2,Clothing,Women,Other Income,2019,Qtr 4,December,1,8298,8041
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 1,January,1,474,201
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 1,February,1,426,279
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 1,March,1,488,293
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 2,April,1,383,306
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 2,May,1,232,493
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 2,June,1,358,416
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 3,July,1,274,247
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 3,August,1,287,287
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 3,September,1,364,259
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 4,October,1,206,483
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 4,November,1,310,354
+Asia,BU 2,Clothing,Women,Selling Price,2019,Qtr 4,December,1,425,349
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 1,January,1,116,123
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 1,February,1,129,101
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 1,March,1,128,100
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 2,April,1,112,107
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 2,May,1,100,104
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 2,June,1,117,100
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 3,July,1,103,103
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 3,August,1,130,129
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 3,September,1,102,122
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 4,October,1,101,130
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 4,November,1,111,130
+Asia,BU 2,Clothing,Women,Units Sold,2019,Qtr 4,December,1,114,106
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 1,January,1,1264,1258
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 1,February,1,1171,1028
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 1,March,1,1262,1176
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 2,April,1,1259,1211
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 2,May,1,1079,1130
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 2,June,1,1027,1014
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 3,July,1,1198,1206
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 3,August,1,1171,1172
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 3,September,1,1108,1194
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 4,October,1,1093,1024
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 4,November,1,1276,1263
+Europe,BU 1,Dairy,Cheese,Cost of Sales,2019,Qtr 4,December,1,1035,1192
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 1,January,1,729,775
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 1,February,1,813,755
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 1,March,1,715,821
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 2,April,1,849,792
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 2,May,1,816,716
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 2,June,1,815,813
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 3,July,1,752,715
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 3,August,1,845,809
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 3,September,1,806,722
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 4,October,1,783,707
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 4,November,1,779,797
+Europe,BU 1,Dairy,Cheese,Other Costs,2019,Qtr 4,December,1,824,764
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 1,January,1,8268,8373
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 1,February,1,9655,8219
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 1,March,1,8988,9684
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 2,April,1,9984,9923
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 2,May,1,8123,8785
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 2,June,1,8808,9274
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 3,July,1,9624,9986
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 3,August,1,9752,9884
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 3,September,1,9425,9236
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 4,October,1,9874,9534
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 4,November,1,9567,9865
+Europe,BU 1,Dairy,Cheese,Other Income,2019,Qtr 4,December,1,8498,9446
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 1,January,1,66,54
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 1,February,1,54,56
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 1,March,1,63,68
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 2,April,1,54,60
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 2,May,1,53,61
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 2,June,1,69,51
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 3,July,1,50,59
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 3,August,1,64,70
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 3,September,1,60,51
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 4,October,1,53,69
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 4,November,1,58,55
+Europe,BU 1,Dairy,Cheese,Selling Price,2019,Qtr 4,December,1,55,61
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 1,January,1,120,114
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 1,February,1,108,117
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 1,March,1,111,100
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 2,April,1,110,102
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 2,May,1,102,108
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 2,June,1,108,114
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 3,July,1,119,104
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 3,August,1,116,117
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 3,September,1,112,120
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 4,October,1,110,103
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 4,November,1,108,120
+Europe,BU 1,Dairy,Cheese,Units Sold,2019,Qtr 4,December,1,100,114
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 1,January,1,1198,1064
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 1,February,1,1224,1144
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 1,March,1,1089,1170
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 2,April,1,1267,1097
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 2,May,1,1082,1109
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 2,June,1,1115,1282
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 3,July,1,1169,1028
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 3,August,1,1067,1075
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 3,September,1,1133,1053
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 4,October,1,1060,1060
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 4,November,1,1117,1189
+Europe,BU 1,Dairy,Milk,Cost of Sales,2019,Qtr 4,December,1,1008,1000
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 1,January,1,807,745
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 1,February,1,835,721
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 1,March,1,767,753
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 2,April,1,768,777
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 2,May,1,761,715
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 2,June,1,765,795
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 3,July,1,709,765
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 3,August,1,704,794
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 3,September,1,830,745
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 4,October,1,809,823
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 4,November,1,734,709
+Europe,BU 1,Dairy,Milk,Other Costs,2019,Qtr 4,December,1,829,724
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 1,January,1,8679,8471
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 1,February,1,8669,9990
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 1,March,1,9870,8958
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 2,April,1,8783,9325
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 2,May,1,8403,8759
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 2,June,1,8788,9615
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 3,July,1,9269,9398
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 3,August,1,8339,8495
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 3,September,1,8646,9140
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 4,October,1,9354,8117
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 4,November,1,8004,8714
+Europe,BU 1,Dairy,Milk,Other Income,2019,Qtr 4,December,1,9269,9258
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 1,January,1,18,19
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 1,February,1,19,18
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 1,March,1,18,17
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 2,April,1,18,18
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 2,May,1,20,19
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 2,June,1,19,19
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 3,July,1,17,19
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 3,August,1,18,19
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 3,September,1,17,18
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 4,October,1,19,20
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 4,November,1,19,20
+Europe,BU 1,Dairy,Milk,Selling Price,2019,Qtr 4,December,1,19,20
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 1,January,1,460,482
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 1,February,1,401,499
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 1,March,1,474,456
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 2,April,1,426,457
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 2,May,1,413,482
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 2,June,1,404,498
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 3,July,1,429,431
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 3,August,1,416,453
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 3,September,1,416,500
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 4,October,1,468,440
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 4,November,1,423,401
+Europe,BU 1,Dairy,Milk,Units Sold,2019,Qtr 4,December,1,408,400
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 1,January,1,1210,1064
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 1,February,1,1157,1199
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 1,March,1,1187,1141
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 2,April,1,1291,1247
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 2,May,1,1039,1179
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 2,June,1,1251,1200
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 3,July,1,1192,1289
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 3,August,1,1121,1104
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 3,September,1,1252,1044
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 4,October,1,1293,1129
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 4,November,1,1131,1240
+US,BU 1,Beverages,Lemon,Cost of Sales,2019,Qtr 4,December,1,1078,1260
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 1,January,1,826,812
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 1,February,1,735,783
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 1,March,1,767,712
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 2,April,1,751,807
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 2,May,1,848,740
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 2,June,1,749,721
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 3,July,1,748,775
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 3,August,1,846,820
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 3,September,1,755,812
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 4,October,1,755,777
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 4,November,1,828,787
+US,BU 1,Beverages,Lemon,Other Costs,2019,Qtr 4,December,1,708,803
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 1,January,1,9491,8307
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 1,February,1,9612,8118
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 1,March,1,9309,9752
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 2,April,1,8632,8078
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 2,May,1,8271,9904
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 2,June,1,9622,8408
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 3,July,1,9316,9601
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 3,August,1,8260,9011
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 3,September,1,9426,9847
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 4,October,1,8641,8133
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 4,November,1,9700,9373
+US,BU 1,Beverages,Lemon,Other Income,2019,Qtr 4,December,1,9819,8216
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 1,January,1,16,22
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 1,February,1,18,21
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 1,March,1,20,18
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 2,April,1,16,21
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 2,May,1,17,18
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 2,June,1,16,22
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 3,July,1,20,19
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 3,August,1,19,19
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 3,September,1,16,23
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 4,October,1,20,18
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 4,November,1,20,18
+US,BU 1,Beverages,Lemon,Selling Price,2019,Qtr 4,December,1,17,21
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 1,January,1,393,406
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 1,February,1,381,325
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 1,March,1,340,320
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 2,April,1,384,432
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 2,May,1,316,423
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 2,June,1,405,416
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 3,July,1,398,367
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 3,August,1,381,362
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 3,September,1,337,378
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 4,October,1,425,434
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 4,November,1,431,411
+US,BU 1,Beverages,Lemon,Units Sold,2019,Qtr 4,December,1,408,373
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 1,January,1,1112,1046
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 1,February,1,1076,1036
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 1,March,1,1012,1279
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 2,April,1,1155,1233
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 2,May,1,1295,1023
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 2,June,1,1067,1274
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 3,July,1,1261,1041
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 3,August,1,1232,1123
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 3,September,1,1199,1160
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 4,October,1,1068,1264
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 4,November,1,1013,1248
+US,BU 1,Beverages,Orange,Cost of Sales,2019,Qtr 4,December,1,1161,1002
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 1,January,1,788,841
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 1,February,1,814,725
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 1,March,1,765,707
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 2,April,1,817,849
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 2,May,1,799,845
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 2,June,1,702,828
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 3,July,1,735,736
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 3,August,1,742,775
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 3,September,1,757,825
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 4,October,1,722,811
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 4,November,1,787,808
+US,BU 1,Beverages,Orange,Other Costs,2019,Qtr 4,December,1,825,752
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 1,January,1,9825,9827
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 1,February,1,9214,9004
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 1,March,1,8413,9780
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 2,April,1,9921,9028
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 2,May,1,8521,9997
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 2,June,1,9822,9114
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 3,July,1,8195,8047
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 3,August,1,8048,9888
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 3,September,1,9218,8767
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 4,October,1,8431,8240
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 4,November,1,8243,8491
+US,BU 1,Beverages,Orange,Other Income,2019,Qtr 4,December,1,8307,8518
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 1,January,1,18,20
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 1,February,1,17,19
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 1,March,1,20,22
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 2,April,1,18,20
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 2,May,1,17,20
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 2,June,1,17,18
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 3,July,1,16,19
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 3,August,1,18,23
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 3,September,1,20,22
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 4,October,1,20,23
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 4,November,1,18,21
+US,BU 1,Beverages,Orange,Selling Price,2019,Qtr 4,December,1,18,18
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 1,January,1,445,345
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 1,February,1,434,412
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 1,March,1,349,306
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 2,April,1,319,307
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 2,May,1,371,403
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 2,June,1,447,335
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 3,July,1,445,330
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 3,August,1,429,386
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 3,September,1,439,371
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 4,October,1,342,333
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 4,November,1,404,433
+US,BU 1,Beverages,Orange,Units Sold,2019,Qtr 4,December,1,322,434
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 1,January,1,2740,2528
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 1,February,1,2934,2771
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 1,March,1,2704,2663
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 2,April,1,2671,2809
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 2,May,1,2677,2997
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 2,June,1,2579,2531
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 3,July,1,2829,2524
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 3,August,1,2508,2937
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 3,September,1,2907,2534
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 4,October,1,2896,2517
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 4,November,1,2581,2933
+US,BU 2,Clothing,Men,Cost of Sales,2019,Qtr 4,December,1,2745,2761
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 1,January,1,11,11
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 1,February,1,11,12
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 1,March,1,10,9
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 2,April,1,10,8
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 2,May,1,8,9
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 2,June,1,8,11
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 3,July,1,12,13
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 3,August,1,9,11
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 3,September,1,11,11
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 4,October,1,11,12
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 4,November,1,9,13
+US,BU 2,Clothing,Men,Discount %,2019,Qtr 4,December,1,8,9
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 1,January,1,312,343
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 1,February,1,314,337
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 1,March,1,334,350
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 2,April,1,346,317
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 2,May,1,332,345
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 2,June,1,346,317
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 3,July,1,325,311
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 3,August,1,320,343
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 3,September,1,328,312
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 4,October,1,305,316
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 4,November,1,345,321
+US,BU 2,Clothing,Men,Other Costs,2019,Qtr 4,December,1,324,350
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 1,January,1,9728,9204
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 1,February,1,9139,9198
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 1,March,1,9774,9495
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 2,April,1,8959,9566
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 2,May,1,8554,8295
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 2,June,1,9749,8871
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 3,July,1,8825,8601
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 3,August,1,8932,9403
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 3,September,1,9455,9992
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 4,October,1,8969,9967
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 4,November,1,9932,8687
+US,BU 2,Clothing,Men,Other Income,2019,Qtr 4,December,1,9330,8687
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 1,January,1,327,318
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 1,February,1,416,401
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 1,March,1,239,443
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 2,April,1,452,260
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 2,May,1,249,445
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 2,June,1,444,394
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 3,July,1,496,364
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 3,August,1,383,283
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 3,September,1,297,259
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 4,October,1,335,353
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 4,November,1,398,313
+US,BU 2,Clothing,Men,Selling Price,2019,Qtr 4,December,1,445,299
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 1,January,1,120,108
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 1,February,1,102,106
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 1,March,1,117,122
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 2,April,1,127,114
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 2,May,1,119,102
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 2,June,1,118,109
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 3,July,1,100,130
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 3,August,1,104,119
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 3,September,1,129,107
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 4,October,1,124,115
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 4,November,1,120,114
+US,BU 2,Clothing,Men,Units Sold,2019,Qtr 4,December,1,112,130
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 1,January,1,2745,2953
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 1,February,1,2645,2866
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 1,March,1,2589,2572
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 2,April,1,2830,2942
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 2,May,1,2971,2793
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 2,June,1,2562,2655
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 3,July,1,2952,2820
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 3,August,1,2537,2894
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 3,September,1,2966,2626
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 4,October,1,2765,2766
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 4,November,1,2621,2987
+US,BU 2,Clothing,Women,Cost of Sales,2019,Qtr 4,December,1,2697,2768
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 1,January,1,13,13
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 1,February,1,9,12
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 1,March,1,8,8
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 2,April,1,9,12
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 2,May,1,12,10
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 2,June,1,8,10
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 3,July,1,11,9
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 3,August,1,10,9
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 3,September,1,11,12
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 4,October,1,12,13
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 4,November,1,12,10
+US,BU 2,Clothing,Women,Discount %,2019,Qtr 4,December,1,13,12
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 1,January,1,326,331
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 1,February,1,340,320
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 1,March,1,336,327
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 2,April,1,324,336
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 2,May,1,347,315
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 2,June,1,332,325
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 3,July,1,327,309
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 3,August,1,325,348
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 3,September,1,309,324
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 4,October,1,309,322
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 4,November,1,337,327
+US,BU 2,Clothing,Women,Other Costs,2019,Qtr 4,December,1,302,336
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 1,January,1,9123,9322
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 1,February,1,8291,8752
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 1,March,1,9568,9724
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 2,April,1,9025,9578
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 2,May,1,8572,9002
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 2,June,1,9450,9008
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 3,July,1,8987,9395
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 3,August,1,8004,8763
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 3,September,1,9475,9593
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 4,October,1,8280,8785
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 4,November,1,8112,9258
+US,BU 2,Clothing,Women,Other Income,2019,Qtr 4,December,1,8404,9108
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 1,January,1,276,495
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 1,February,1,314,253
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 1,March,1,309,409
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 2,April,1,248,254
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 2,May,1,267,206
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 2,June,1,349,458
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 3,July,1,432,454
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 3,August,1,463,215
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 3,September,1,301,452
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 4,October,1,308,421
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 4,November,1,347,240
+US,BU 2,Clothing,Women,Selling Price,2019,Qtr 4,December,1,289,410
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 1,January,1,125,121
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 1,February,1,113,127
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 1,March,1,122,117
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 2,April,1,130,126
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 2,May,1,125,126
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 2,June,1,129,104
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 3,July,1,109,111
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 3,August,1,106,125
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 3,September,1,113,126
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 4,October,1,128,125
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 4,November,1,115,126
+US,BU 2,Clothing,Women,Units Sold,2019,Qtr 4,December,1,101,118
