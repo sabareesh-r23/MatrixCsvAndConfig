@@ -1,0 +1,241 @@
+Orders.Sub-Category,Orders.Country,Orders.Category,Orders.Region,Orders.State,CountNonNull(Orders.Postal Code),Sum(Orders.Discount)
+Appliances,United States,Office Supplies,Central,Texas,47,37.599999999999994
+Art,United States,Office Supplies,Central,Texas,71,14.199999999999982
+Binders,United States,Office Supplies,Central,Texas,153,122.4
+Fasteners,United States,Office Supplies,Central,Texas,24,4.800000000000002
+Paper,United States,Office Supplies,Central,Texas,147,29.400000000000002
+Appliances,United States,Office Supplies,Central,Illinois,20,16.000000000000004
+Art,United States,Office Supplies,Central,Illinois,37,7.400000000000004
+Binders,United States,Office Supplies,Central,Illinois,80,64
+Fasteners,United States,Office Supplies,Central,Illinois,13,2.6
+Paper,United States,Office Supplies,Central,Illinois,60,11.99999999999999
+Appliances,United States,Office Supplies,Central,Michigan,16,1.6000000000000003
+Art,United States,Office Supplies,Central,Michigan,25,0
+Binders,United States,Office Supplies,Central,Michigan,43,0
+Fasteners,United States,Office Supplies,Central,Michigan,5,0
+Paper,United States,Office Supplies,Central,Michigan,31,0
+Appliances,United States,Office Supplies,Central,Indiana,10,0
+Art,United States,Office Supplies,Central,Indiana,12,0
+Binders,United States,Office Supplies,Central,Indiana,19,0
+Fasteners,United States,Office Supplies,Central,Indiana,2,0
+Paper,United States,Office Supplies,Central,Indiana,27,0
+Appliances,United States,Office Supplies,Central,Iowa,,
+Art,United States,Office Supplies,Central,Iowa,3,0
+Binders,United States,Office Supplies,Central,Iowa,8,0
+Fasteners,United States,Office Supplies,Central,Iowa,1,0
+Paper,United States,Office Supplies,Central,Iowa,7,0
+Appliances,United States,Office Supplies,Central,Kansas,1,0
+Art,United States,Office Supplies,Central,Kansas,4,0
+Binders,United States,Office Supplies,Central,Kansas,3,0
+Fasteners,United States,Office Supplies,Central,Kansas,2,0
+Paper,United States,Office Supplies,Central,Kansas,3,0
+Appliances,United States,Office Supplies,Central,Minnesota,6,0
+Art,United States,Office Supplies,Central,Minnesota,6,0
+Binders,United States,Office Supplies,Central,Minnesota,16,0
+Fasteners,United States,Office Supplies,Central,Minnesota,2,0
+Paper,United States,Office Supplies,Central,Minnesota,11,0
+Appliances,United States,Office Supplies,Central,Missouri,7,0
+Art,United States,Office Supplies,Central,Missouri,2,0
+Binders,United States,Office Supplies,Central,Missouri,11,0
+Fasteners,United States,Office Supplies,Central,Missouri,,
+Paper,United States,Office Supplies,Central,Missouri,11,0
+Appliances,United States,Office Supplies,Central,Nebraska,4,0
+Art,United States,Office Supplies,Central,Nebraska,1,0
+Binders,United States,Office Supplies,Central,Nebraska,5,0
+Fasteners,United States,Office Supplies,Central,Nebraska,3,0
+Paper,United States,Office Supplies,Central,Nebraska,8,0
+Appliances,United States,Office Supplies,Central,North Dakota,,
+Art,United States,Office Supplies,Central,North Dakota,4,0
+Binders,United States,Office Supplies,Central,North Dakota,1,0
+Fasteners,United States,Office Supplies,Central,North Dakota,1,0
+Paper,United States,Office Supplies,Central,North Dakota,,
+Appliances,United States,Office Supplies,Central,Oklahoma,4,0
+Art,United States,Office Supplies,Central,Oklahoma,4,0
+Binders,United States,Office Supplies,Central,Oklahoma,11,0
+Fasteners,United States,Office Supplies,Central,Oklahoma,,
+Paper,United States,Office Supplies,Central,Oklahoma,7,0
+Appliances,United States,Office Supplies,Central,South Dakota,1,0
+Art,United States,Office Supplies,Central,South Dakota,,
+Binders,United States,Office Supplies,Central,South Dakota,3,0
+Fasteners,United States,Office Supplies,Central,South Dakota,1,0
+Paper,United States,Office Supplies,Central,South Dakota,,
+Appliances,United States,Office Supplies,Central,Wisconsin,7,0
+Art,United States,Office Supplies,Central,Wisconsin,7,0
+Binders,United States,Office Supplies,Central,Wisconsin,13,0
+Fasteners,United States,Office Supplies,Central,Wisconsin,1,0
+Paper,United States,Office Supplies,Central,Wisconsin,9,0
+Appliances,United States,Office Supplies,East,Pennsylvania,23,4.600000000000001
+Art,United States,Office Supplies,East,Pennsylvania,40,8.000000000000004
+Binders,United States,Office Supplies,East,Pennsylvania,98,68.6
+Fasteners,United States,Office Supplies,East,Pennsylvania,14,2.8000000000000003
+Paper,United States,Office Supplies,East,Pennsylvania,66,13.199999999999985
+Appliances,United States,Office Supplies,East,Ohio,23,4.600000000000001
+Art,United States,Office Supplies,East,Ohio,39,7.800000000000004
+Binders,United States,Office Supplies,East,Ohio,73,51.099999999999994
+Fasteners,United States,Office Supplies,East,Ohio,14,2.8000000000000003
+Paper,United States,Office Supplies,East,Ohio,56,11.199999999999992
+Appliances,United States,Office Supplies,East,New York,44,0
+Art,United States,Office Supplies,East,New York,90,0
+Binders,United States,Office Supplies,East,New York,179,35.800000000000004
+Fasteners,United States,Office Supplies,East,New York,21,0
+Paper,United States,Office Supplies,East,New York,150,0
+Appliances,United States,Office Supplies,East,Connecticut,5,0
+Art,United States,Office Supplies,East,Connecticut,8,0
+Binders,United States,Office Supplies,East,Connecticut,14,0
+Fasteners,United States,Office Supplies,East,Connecticut,,
+Paper,United States,Office Supplies,East,Connecticut,12,0
+Appliances,United States,Office Supplies,East,Delaware,2,0
+Art,United States,Office Supplies,East,Delaware,11,0
+Binders,United States,Office Supplies,East,Delaware,16,0
+Fasteners,United States,Office Supplies,East,Delaware,1,0
+Paper,United States,Office Supplies,East,Delaware,12,0
+Appliances,United States,Office Supplies,East,District of Columbia,,
+Art,United States,Office Supplies,East,District of Columbia,2,0
+Binders,United States,Office Supplies,East,District of Columbia,1,0
+Fasteners,United States,Office Supplies,East,District of Columbia,,
+Paper,United States,Office Supplies,East,District of Columbia,3,0
+Appliances,United States,Office Supplies,East,Maine,1,0
+Art,United States,Office Supplies,East,Maine,,
+Binders,United States,Office Supplies,East,Maine,2,0
+Fasteners,United States,Office Supplies,East,Maine,,
+Paper,United States,Office Supplies,East,Maine,1,0
+Appliances,United States,Office Supplies,East,Maryland,6,0
+Art,United States,Office Supplies,East,Maryland,12,0
+Binders,United States,Office Supplies,East,Maryland,14,0
+Fasteners,United States,Office Supplies,East,Maryland,2,0
+Paper,United States,Office Supplies,East,Maryland,13,0
+Appliances,United States,Office Supplies,East,Massachusetts,6,0
+Art,United States,Office Supplies,East,Massachusetts,11,0
+Binders,United States,Office Supplies,East,Massachusetts,17,0
+Fasteners,United States,Office Supplies,East,Massachusetts,3,0
+Paper,United States,Office Supplies,East,Massachusetts,27,0
+Appliances,United States,Office Supplies,East,New Hampshire,1,0
+Art,United States,Office Supplies,East,New Hampshire,2,0
+Binders,United States,Office Supplies,East,New Hampshire,3,0
+Fasteners,United States,Office Supplies,East,New Hampshire,1,0
+Paper,United States,Office Supplies,East,New Hampshire,4,0
+Appliances,United States,Office Supplies,East,New Jersey,13,0
+Art,United States,Office Supplies,East,New Jersey,11,0
+Binders,United States,Office Supplies,East,New Jersey,15,0
+Fasteners,United States,Office Supplies,East,New Jersey,5,0
+Paper,United States,Office Supplies,East,New Jersey,18,0
+Appliances,United States,Office Supplies,East,Rhode Island,1,0
+Art,United States,Office Supplies,East,Rhode Island,1,0
+Binders,United States,Office Supplies,East,Rhode Island,6,0
+Fasteners,United States,Office Supplies,East,Rhode Island,,
+Paper,United States,Office Supplies,East,Rhode Island,13,0
+Appliances,United States,Office Supplies,East,Vermont,1,0
+Art,United States,Office Supplies,East,Vermont,1,0
+Binders,United States,Office Supplies,East,Vermont,,
+Fasteners,United States,Office Supplies,East,Vermont,,
+Paper,United States,Office Supplies,East,Vermont,2,0
+Appliances,United States,Office Supplies,East,West Virginia,,
+Art,United States,Office Supplies,East,West Virginia,,
+Binders,United States,Office Supplies,East,West Virginia,2,0
+Fasteners,United States,Office Supplies,East,West Virginia,,
+Paper,United States,Office Supplies,East,West Virginia,1,0
+Appliances,United States,Office Supplies,West,California,94,0
+Art,United States,Office Supplies,West,California,165,0
+Binders,United States,Office Supplies,West,California,276,55.2
+Fasteners,United States,Office Supplies,West,California,42,0
+Paper,United States,Office Supplies,West,California,289,0
+Appliances,United States,Office Supplies,West,Arizona,6,1.2
+Art,United States,Office Supplies,West,Arizona,14,2.8000000000000003
+Binders,United States,Office Supplies,West,Arizona,35,24.499999999999986
+Fasteners,United States,Office Supplies,West,Arizona,6,1.2
+Paper,United States,Office Supplies,West,Arizona,31,6.200000000000003
+Appliances,United States,Office Supplies,West,Colorado,9,1.7999999999999998
+Art,United States,Office Supplies,West,Colorado,11,2.1999999999999997
+Binders,United States,Office Supplies,West,Colorado,28,19.59999999999999
+Fasteners,United States,Office Supplies,West,Colorado,4,0.8
+Paper,United States,Office Supplies,West,Colorado,19,3.800000000000001
+Appliances,United States,Office Supplies,West,Oregon,6,1.2
+Art,United States,Office Supplies,West,Oregon,14,2.8000000000000003
+Binders,United States,Office Supplies,West,Oregon,14,9.799999999999999
+Fasteners,United States,Office Supplies,West,Oregon,2,0.4
+Paper,United States,Office Supplies,West,Oregon,21,4.200000000000001
+Appliances,United States,Office Supplies,West,Washington,17,0
+Art,United States,Office Supplies,West,Washington,34,0
+Binders,United States,Office Supplies,West,Washington,86,17.2
+Fasteners,United States,Office Supplies,West,Washington,15,0
+Paper,United States,Office Supplies,West,Washington,59,0
+Appliances,United States,Office Supplies,West,Utah,1,0
+Art,United States,Office Supplies,West,Utah,4,0
+Binders,United States,Office Supplies,West,Utah,12,2.4
+Fasteners,United States,Office Supplies,West,Utah,2,0
+Paper,United States,Office Supplies,West,Utah,11,0
+Appliances,United States,Office Supplies,West,Nevada,2,0
+Art,United States,Office Supplies,West,Nevada,4,0
+Binders,United States,Office Supplies,West,Nevada,7,1.4
+Fasteners,United States,Office Supplies,West,Nevada,1,0
+Paper,United States,Office Supplies,West,Nevada,7,0
+Appliances,United States,Office Supplies,West,Idaho,1,0
+Art,United States,Office Supplies,West,Idaho,,
+Binders,United States,Office Supplies,West,Idaho,5,1
+Fasteners,United States,Office Supplies,West,Idaho,,
+Paper,United States,Office Supplies,West,Idaho,4,0
+Appliances,United States,Office Supplies,West,New Mexico,,
+Art,United States,Office Supplies,West,New Mexico,4,0
+Binders,United States,Office Supplies,West,New Mexico,5,1
+Fasteners,United States,Office Supplies,West,New Mexico,,
+Paper,United States,Office Supplies,West,New Mexico,7,0
+Appliances,United States,Office Supplies,West,Montana,,
+Art,United States,Office Supplies,West,Montana,,
+Binders,United States,Office Supplies,West,Montana,3,0.6000000000000001
+Fasteners,United States,Office Supplies,West,Montana,,
+Paper,United States,Office Supplies,West,Montana,2,0
+Appliances,United States,Office Supplies,South,Florida,18,3.600000000000001
+Art,United States,Office Supplies,South,Florida,29,5.8000000000000025
+Binders,United States,Office Supplies,South,Florida,67,46.9
+Fasteners,United States,Office Supplies,South,Florida,5,1
+Paper,United States,Office Supplies,South,Florida,51,10.199999999999996
+Appliances,United States,Office Supplies,South,North Carolina,17,3.400000000000001
+Art,United States,Office Supplies,South,North Carolina,26,5.200000000000002
+Binders,United States,Office Supplies,South,North Carolina,36,25.199999999999985
+Fasteners,United States,Office Supplies,South,North Carolina,4,0.8
+Paper,United States,Office Supplies,South,North Carolina,36,7.200000000000004
+Appliances,United States,Office Supplies,South,Tennessee,10,1.9999999999999998
+Art,United States,Office Supplies,South,Tennessee,17,3.400000000000001
+Binders,United States,Office Supplies,South,Tennessee,29,20.29999999999999
+Fasteners,United States,Office Supplies,South,Tennessee,3,0.6000000000000001
+Paper,United States,Office Supplies,South,Tennessee,26,5.200000000000002
+Appliances,United States,Office Supplies,South,Alabama,1,0
+Art,United States,Office Supplies,South,Alabama,7,0
+Binders,United States,Office Supplies,South,Alabama,10,0
+Fasteners,United States,Office Supplies,South,Alabama,1,0
+Paper,United States,Office Supplies,South,Alabama,8,0
+Appliances,United States,Office Supplies,South,Arkansas,,
+Art,United States,Office Supplies,South,Arkansas,6,0
+Binders,United States,Office Supplies,South,Arkansas,10,0
+Fasteners,United States,Office Supplies,South,Arkansas,2,0
+Paper,United States,Office Supplies,South,Arkansas,12,0
+Appliances,United States,Office Supplies,South,Georgia,9,0
+Art,United States,Office Supplies,South,Georgia,17,0
+Binders,United States,Office Supplies,South,Georgia,24,0
+Fasteners,United States,Office Supplies,South,Georgia,2,0
+Paper,United States,Office Supplies,South,Georgia,31,0
+Appliances,United States,Office Supplies,South,Kentucky,8,0
+Art,United States,Office Supplies,South,Kentucky,12,0
+Binders,United States,Office Supplies,South,Kentucky,22,0
+Fasteners,United States,Office Supplies,South,Kentucky,4,0
+Paper,United States,Office Supplies,South,Kentucky,13,0
+Appliances,United States,Office Supplies,South,Louisiana,1,0
+Art,United States,Office Supplies,South,Louisiana,2,0
+Binders,United States,Office Supplies,South,Louisiana,6,0
+Fasteners,United States,Office Supplies,South,Louisiana,,
+Paper,United States,Office Supplies,South,Louisiana,5,0
+Appliances,United States,Office Supplies,South,Mississippi,3,0
+Art,United States,Office Supplies,South,Mississippi,5,0
+Binders,United States,Office Supplies,South,Mississippi,9,0
+Fasteners,United States,Office Supplies,South,Mississippi,2,0
+Paper,United States,Office Supplies,South,Mississippi,7,0
+Appliances,United States,Office Supplies,South,South Carolina,,
+Art,United States,Office Supplies,South,South Carolina,2,0
+Binders,United States,Office Supplies,South,South Carolina,8,0
+Fasteners,United States,Office Supplies,South,South Carolina,2,0
+Paper,United States,Office Supplies,South,South Carolina,6,0
+Appliances,United States,Office Supplies,South,Virginia,14,0
+Art,United States,Office Supplies,South,Virginia,19,0
+Binders,United States,Office Supplies,South,Virginia,25,0
+Fasteners,United States,Office Supplies,South,Virginia,4,0
+Paper,United States,Office Supplies,South,Virginia,26,0
