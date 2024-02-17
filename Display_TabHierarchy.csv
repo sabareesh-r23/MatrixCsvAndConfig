@@ -1,0 +1,953 @@
+Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.Country,Orders.Region,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales),Sum(Orders.Profit)
+2014,Consumer,United States,Central,Furniture,Bookcases,8996.3480,1446.71215058726929
+2015,Consumer,United States,Central,Furniture,Bookcases,2711.3334,1708.8502166948845
+2016,Consumer,United States,Central,Furniture,Bookcases,9238.1443,4859.6955
+2017,Consumer,United States,Central,Furniture,Bookcases,5517.6876244617267,6945.60015932356337
+2018,Consumer,United States,Central,Furniture,Bookcases,91.98293168592898,700.720155572753623
+2014,Corporate,United States,Central,Furniture,Bookcases,839.39286548322462,12.580873337198395
+2015,Corporate,United States,Central,Furniture,Bookcases,8082.7280,2741.07045656870504
+2016,Corporate,United States,Central,Furniture,Bookcases,7418.9129,90.2253763302915
+2017,Corporate,United States,Central,Furniture,Bookcases,7548.3716817060887,0221.50002303614462
+2018,Corporate,United States,Central,Furniture,Bookcases,,
+2014,Home Office,United States,Central,Furniture,Bookcases,985.8203,204.73718083516034
+2015,Home Office,United States,Central,Furniture,Bookcases,7573.9359,0932.28478485708647
+2016,Home Office,United States,Central,Furniture,Bookcases,,
+2017,Home Office,United States,Central,Furniture,Bookcases,492.09358063090298,83.94485204260704
+2018,Home Office,United States,Central,Furniture,Bookcases,,
+2014,Consumer,United States,East,Furniture,Bookcases,1479.414523233235,5042.0257074376501
+2015,Consumer,United States,East,Furniture,Bookcases,76478.289063290312,68968.8338518427862
+2016,Consumer,United States,East,Furniture,Bookcases,8328.3900487422043,9200.9287875900593
+2017,Consumer,United States,East,Furniture,Bookcases,4127.8853825386727,020.42825643702977
+2018,Consumer,United States,East,Furniture,Bookcases,158.933,68.471280342328303
+2014,Corporate,United States,East,Furniture,Bookcases,3511.88,8834.081
+2015,Corporate,United States,East,Furniture,Bookcases,2003.967637611870,121.5008079456476
+2016,Corporate,United States,East,Furniture,Bookcases,1063.4233844848496,751.9457
+2017,Corporate,United States,East,Furniture,Bookcases,8403.206,011.9587
+2014,Home Office,United States,East,Furniture,Bookcases,640.720,397.258727455702474
+2015,Home Office,United States,East,Furniture,Bookcases,7451.0054939160020,475.62463774299534
+2016,Home Office,United States,East,Furniture,Bookcases,042.81259462911054,783.218029475534425
+2017,Home Office,United States,East,Furniture,Bookcases,,
+2014,Consumer,United States,South,Furniture,Bookcases,452.8241726529465,545.65194145670271
+2015,Consumer,United States,South,Furniture,Bookcases,504.6150394723383,82.4261
+2016,Consumer,United States,South,Furniture,Bookcases,1559.306,075.6272547904362
+2017,Consumer,United States,South,Furniture,Bookcases,2145.225,123.589
+2018,Consumer,United States,South,Furniture,Bookcases,,
+2014,Corporate,United States,South,Furniture,Bookcases,,
+2015,Corporate,United States,South,Furniture,Bookcases,639.581,40.088556265478693
+2016,Corporate,United States,South,Furniture,Bookcases,883.865,00.160762162924037
+2017,Corporate,United States,South,Furniture,Bookcases,579.942,69.72607498996103
+2014,Home Office,United States,South,Furniture,Bookcases,,
+2015,Home Office,United States,South,Furniture,Bookcases,39.44,5.502511995393673
+2016,Home Office,United States,South,Furniture,Bookcases,676.5758429232131,93.786533721004703
+2017,Home Office,United States,South,Furniture,Bookcases,626.840,122.94461997430425
+2018,Home Office,United States,South,Furniture,Bookcases,,
+2014,Consumer,United States,West,Furniture,Bookcases,1137.4860,7646.3571
+2015,Consumer,United States,West,Furniture,Bookcases,1360.767334872154,70925.1927453833394
+2016,Consumer,United States,West,Furniture,Bookcases,4191.0595941828851,025.1511498689633
+2017,Consumer,United States,West,Furniture,Bookcases,8602.6545,5230.8180494216184
+2018,Consumer,United States,West,Furniture,Bookcases,,
+2014,Corporate,United States,West,Furniture,Bookcases,3022.3280616879961,098.0998477872228
+2015,Corporate,United States,West,Furniture,Bookcases,4931.6739,900.3138
+2016,Corporate,United States,West,Furniture,Bookcases,0302.4678,037.20389929824200
+2017,Corporate,United States,West,Furniture,Bookcases,6551.920,6829.2089
+2018,Corporate,United States,West,Furniture,Bookcases,,
+2014,Home Office,United States,West,Furniture,Bookcases,3810.627,97.72625541682097
+2015,Home Office,United States,West,Furniture,Bookcases,,
+2016,Home Office,United States,West,Furniture,Bookcases,900.706,63.523
+2017,Home Office,United States,West,Furniture,Bookcases,9582.427,521.20617540749947
+2014,Consumer,United States,Central,Furniture,Chairs,88286.476479472416,785.4704141192870
+2015,Consumer,United States,Central,Furniture,Chairs,80933.198299504931,9658.6625925292787
+2016,Consumer,United States,Central,Furniture,Chairs,0335.034222806476,833.1440
+2017,Consumer,United States,Central,Furniture,Chairs,90770.183619962200,209.9774503996432
+2018,Consumer,United States,Central,Furniture,Chairs,,
+2014,Corporate,United States,Central,Furniture,Chairs,6175.5821771170300,6675.14226991205079
+2015,Corporate,United States,Central,Furniture,Chairs,4426.0521941727329,407.22175141036136
+2016,Corporate,United States,Central,Furniture,Chairs,12645.034472979653,2827.4993084825292
+2017,Corporate,United States,Central,Furniture,Chairs,0856.529731702314,1246.4088
+2018,Corporate,United States,Central,Furniture,Chairs,123.985,37.8315483972545119
+2014,Home Office,United States,Central,Furniture,Chairs,2077.570,416.3306924461674
+2015,Home Office,United States,Central,Furniture,Chairs,9865.431,966.38484960721188
+2016,Home Office,United States,Central,Furniture,Chairs,9195.487,8280.88532537213121
+2017,Home Office,United States,Central,Furniture,Chairs,1361.262,68.28031103703725
+2018,Home Office,United States,Central,Furniture,Chairs,,
+2014,Consumer,United States,East,Furniture,Chairs,16596.950705396991,4589.004
+2015,Consumer,United States,East,Furniture,Chairs,1166.926,0380.6992987501308
+2016,Consumer,United States,East,Furniture,Chairs,82118.545,5721.3682724907976
+2017,Consumer,United States,East,Furniture,Chairs,49488.895,9340.1802
+2018,Consumer,United States,East,Furniture,Chairs,,
+2014,Corporate,United States,East,Furniture,Chairs,6079.007677249092,066.9267300921071
+2015,Corporate,United States,East,Furniture,Chairs,1796.994,201.6944149282225
+2016,Corporate,United States,East,Furniture,Chairs,7686.4842671021217,289.79117300903470
+2017,Corporate,United States,East,Furniture,Chairs,4029.570931354475,426.8948856327611
+2014,Home Office,United States,East,Furniture,Chairs,9512.072,684.21049016188381
+2015,Home Office,United States,East,Furniture,Chairs,1470.475,375.1297144516673
+2016,Home Office,United States,East,Furniture,Chairs,2939.308,945.92506599574088
+2017,Home Office,United States,East,Furniture,Chairs,0823.417366361956,117.86834414718503
+2014,Consumer,United States,South,Furniture,Chairs,2423.990,563.9340095086875
+2015,Consumer,United States,South,Furniture,Chairs,4652.529233185146,0480.1671393173015
+2016,Consumer,United States,South,Furniture,Chairs,9162.124,438.1285150389196
+2017,Consumer,United States,South,Furniture,Chairs,9091.576143449759,839.5829370625215
+2018,Consumer,United States,South,Furniture,Chairs,4687.62,158.15089654813282
+2014,Corporate,United States,South,Furniture,Chairs,9496.030,617.2862117689976
+2015,Corporate,United States,South,Furniture,Chairs,3524.006,4761.76551634827392
+2016,Corporate,United States,South,Furniture,Chairs,4613.9839661221975,476.6152396202082
+2017,Corporate,United States,South,Furniture,Chairs,1873.07,783.4950531405072
+2014,Home Office,United States,South,Furniture,Chairs,1539.5552277044855,1705.6196090088010
+2015,Home Office,United States,South,Furniture,Chairs,8935.62,842.81955343965316
+2016,Home Office,United States,South,Furniture,Chairs,547.91,84.398639216356795
+2017,Home Office,United States,South,Furniture,Chairs,0558.723,881.91932355467403
+2018,Home Office,United States,South,Furniture,Chairs,,
+2014,Consumer,United States,West,Furniture,Chairs,54903.98,959.2403498327813
+2015,Consumer,United States,West,Furniture,Chairs,0699.022601055548,130.7210020789664
+2016,Consumer,United States,West,Furniture,Chairs,69593.859227466927,928.2003324496524
+2017,Consumer,United States,West,Furniture,Chairs,5707.269136397148,907.33021755188765
+2018,Consumer,United States,West,Furniture,Chairs,347.659,110.850443834376556
+2014,Corporate,United States,West,Furniture,Chairs,9508.114,087.3758598012279
+2015,Corporate,United States,West,Furniture,Chairs,5815.877057711371,413.90189749819215
+2016,Corporate,United States,West,Furniture,Chairs,94298.376574797239,469.3310088631471
+2017,Corporate,United States,West,Furniture,Chairs,4815.489,160.06330163814935
+2018,Corporate,United States,West,Furniture,Chairs,,
+2014,Home Office,United States,West,Furniture,Chairs,4977.6758782930750,225.5965
+2015,Home Office,United States,West,Furniture,Chairs,8748.099424230978,862.7884465512559
+2016,Home Office,United States,West,Furniture,Chairs,9388.855389514121,550.4115726802163
+2017,Home Office,United States,West,Furniture,Chairs,2958.72,952.4037061927680
+2014,Consumer,United States,Central,Furniture,Furnishings,3079.9180276568795,131.52416642656590
+2015,Consumer,United States,Central,Furniture,Furnishings,5225.4177574474915,7950.64438059213724
+2016,Consumer,United States,Central,Furniture,Furnishings,0209.34,8074.66799851301575
+2017,Consumer,United States,Central,Furniture,Furnishings,3923.5514599325053,4890.8827548162154
+2018,Consumer,United States,Central,Furniture,Furnishings,,
+2014,Corporate,United States,Central,Furniture,Furnishings,959.554,6733.23839485230148
+2015,Corporate,United States,Central,Furniture,Furnishings,260.125,0466.20540504621709
+2016,Corporate,United States,Central,Furniture,Furnishings,081.7653972536709,7905.92515188153326
+2017,Corporate,United States,Central,Furniture,Furnishings,6885.6752005413328,4081.9271508781844
+2018,Corporate,United States,Central,Furniture,Furnishings,15.493,17.9896089652994886
+2014,Home Office,United States,Central,Furniture,Furnishings,169.36867132006924,77.681883925458731
+2015,Home Office,United States,Central,Furniture,Furnishings,125.062,7553.49661801285702
+2016,Home Office,United States,Central,Furniture,Furnishings,4808.7543678564279,2756.1330981779748
+2017,Home Office,United States,Central,Furniture,Furnishings,379.8882298215529,5352.29582550340006
+2018,Home Office,United States,Central,Furniture,Furnishings,,
+2014,Consumer,United States,East,Furniture,Furnishings,0415.7199484364168,856.2873243135016
+2015,Consumer,United States,East,Furniture,Furnishings,6271.474,124.0397428021589
+2016,Consumer,United States,East,Furniture,Furnishings,9127.89,4256.6162027981621
+2017,Consumer,United States,East,Furniture,Furnishings,7763.8472962964051,778.5612
+2018,Consumer,United States,East,Furniture,Furnishings,,
+2014,Corporate,United States,East,Furniture,Furnishings,4964.22,006.2866
+2015,Corporate,United States,East,Furniture,Furnishings,1635.2417566043269,963.12429104722346
+2016,Corporate,United States,East,Furniture,Furnishings,8880.09,964.8320982727737
+2017,Corporate,United States,East,Furniture,Furnishings,4405.514,988.3241859221127
+2014,Home Office,United States,East,Furniture,Furnishings,741.635,55.7143
+2015,Home Office,United States,East,Furniture,Furnishings,5462.217,893.05181341627408
+2016,Home Office,United States,East,Furniture,Furnishings,693.60,595.3882
+2017,Home Office,United States,East,Furniture,Furnishings,0233.7629948279476,578.9759992173988
+2014,Consumer,United States,South,Furniture,Furnishings,4803.01,537.98995095500680
+2015,Consumer,United States,South,Furniture,Furnishings,0418.7415671123976,807.5717399720110
+2016,Consumer,United States,South,Furniture,Furnishings,9352.986260178447,325.2345994487178
+2017,Consumer,United States,South,Furniture,Furnishings,8609.7987313688090,173.8180
+2018,Consumer,United States,South,Furniture,Furnishings,,
+2014,Corporate,United States,South,Furniture,Furnishings,0776.578,329.12315690025929
+2015,Corporate,United States,South,Furniture,Furnishings,7674.20,263.3016
+2016,Corporate,United States,South,Furniture,Furnishings,664.606,63.427
+2017,Corporate,United States,South,Furniture,Furnishings,039.37275585727279,70.75435263213737
+2014,Home Office,United States,South,Furniture,Furnishings,472.01,082.07681615650531
+2015,Home Office,United States,South,Furniture,Furnishings,483.05,95.54197833360338
+2016,Home Office,United States,South,Furniture,Furnishings,105.314,708.3637
+2017,Home Office,United States,South,Furniture,Furnishings,416.509,88.786535794060348
+2018,Home Office,United States,South,Furniture,Furnishings,,
+2014,Consumer,United States,West,Furniture,Furnishings,9699.97,349.6804
+2015,Consumer,United States,West,Furniture,Furnishings,3820.16,340.5949929658207
+2016,Consumer,United States,West,Furniture,Furnishings,5447.409567917848,3921.2073312062209
+2017,Consumer,United States,West,Furniture,Furnishings,0330.58,1339.5306824765165
+2018,Consumer,United States,West,Furniture,Furnishings,32.11,89.886315314341991
+2014,Corporate,United States,West,Furniture,Furnishings,2136.928,591.45173691570397
+2015,Corporate,United States,West,Furniture,Furnishings,4738.2807928976278,953.5679
+2016,Corporate,United States,West,Furniture,Furnishings,2562.511,562.8913526595262
+2017,Corporate,United States,West,Furniture,Furnishings,4658.6336974487537,844.41618687334312
+2018,Corporate,United States,West,Furniture,Furnishings,981.93115538468287,45.7269
+2014,Home Office,United States,West,Furniture,Furnishings,906.9035069127651,807.8402
+2015,Home Office,United States,West,Furniture,Furnishings,1549.37,769.59566949774639
+2016,Home Office,United States,West,Furniture,Furnishings,5147.0456297239035,791.08536338580903
+2017,Home Office,United States,West,Furniture,Furnishings,3634.7745338660438,849.8418310400278
+2014,Consumer,United States,Central,Furniture,Tables,2058.987158830593,43148.2653327770254
+2015,Consumer,United States,Central,Furniture,Tables,2851.776,1251.12528699215066
+2016,Consumer,United States,Central,Furniture,Tables,1756.688,20922.7675
+2017,Consumer,United States,Central,Furniture,Tables,3455.140,28138.2641195389110
+2018,Consumer,United States,Central,Furniture,Tables,,
+2014,Corporate,United States,Central,Furniture,Tables,7041.4980686297175,6344.50785043416700
+2015,Corporate,United States,Central,Furniture,Tables,8250.1455962717602,629.16484322464874
+2016,Corporate,United States,Central,Furniture,Tables,3725.698,5306.4807
+2017,Corporate,United States,Central,Furniture,Tables,6988.7036617347180,2215.4446078260365
+2018,Corporate,United States,Central,Furniture,Tables,,
+2014,Home Office,United States,Central,Furniture,Tables,188.634,91.95572480179223
+2015,Home Office,United States,Central,Furniture,Tables,4301.677,9441.0709838049048
+2016,Home Office,United States,Central,Furniture,Tables,9919.3,424.4576
+2017,Home Office,United States,Central,Furniture,Tables,9265.8827684941515,0185.0299611623670
+2018,Home Office,United States,Central,Furniture,Tables,,
+2014,Consumer,United States,East,Furniture,Tables,5099.4950966425265,9042.4216070817661
+2015,Consumer,United States,East,Furniture,Tables,5568.839,79898.6294774528672
+2016,Consumer,United States,East,Furniture,Tables,3850.172,1683.3784493584618
+2017,Consumer,United States,East,Furniture,Tables,3499.346,9113.8455174950077
+2018,Consumer,United States,East,Furniture,Tables,,
+2014,Corporate,United States,East,Furniture,Tables,3973.749274103383,76893.9164
+2015,Corporate,United States,East,Furniture,Tables,7175.68,3701.1952715702097
+2016,Corporate,United States,East,Furniture,Tables,1997.733,55560.5993230053617
+2017,Corporate,United States,East,Furniture,Tables,7147.3564356056308,4287.8083791651556
+2014,Home Office,United States,East,Furniture,Tables,663.77224103690859,6916.40175045899704
+2015,Home Office,United States,East,Furniture,Tables,4179.624,9173.81848501197510
+2016,Home Office,United States,East,Furniture,Tables,6652.7238140494673,3169.9140437124002
+2017,Home Office,United States,East,Furniture,Tables,8963.09,81182.3220288577878
+2014,Consumer,United States,South,Furniture,Tables,7633.0572,268.89810403767076
+2015,Consumer,United States,South,Furniture,Tables,2583.8963,30714.4126862906126
+2016,Consumer,United States,South,Furniture,Tables,4488.060632953517,926.1959
+2017,Consumer,United States,South,Furniture,Tables,3369.79,4907.4494
+2018,Consumer,United States,South,Furniture,Tables,,
+2014,Corporate,United States,South,Furniture,Tables,9445.3110148909397,280.2662021743347
+2015,Corporate,United States,South,Furniture,Tables,364.55,34.40973369406512
+2016,Corporate,United States,South,Furniture,Tables,8827.605010096524,8209.8950659137330
+2017,Corporate,United States,South,Furniture,Tables,3772.0718224627286,34005.5238312789575
+2014,Home Office,United States,South,Furniture,Tables,5389.29,916.1751
+2015,Home Office,United States,South,Furniture,Tables,,
+2016,Home Office,United States,South,Furniture,Tables,,
+2017,Home Office,United States,South,Furniture,Tables,3427.8914,66109.1903665822358
+2018,Home Office,United States,South,Furniture,Tables,,
+2014,Consumer,United States,West,Furniture,Tables,11648.889797480196,822.64459148273536
+2015,Consumer,United States,West,Furniture,Tables,3444.009,482.49567654599879
+2016,Consumer,United States,West,Furniture,Tables,4285.991803972601,05.21811698946981
+2017,Consumer,United States,West,Furniture,Tables,01290.33,4.5063219077927403
+2018,Consumer,United States,West,Furniture,Tables,,
+2014,Corporate,United States,West,Furniture,Tables,3170.803,87.99562199997007
+2015,Corporate,United States,West,Furniture,Tables,9284.748,175.6901291292502
+2016,Corporate,United States,West,Furniture,Tables,24709.182,759.0049
+2017,Corporate,United States,West,Furniture,Tables,5065.933,5000.02945427987913
+2018,Corporate,United States,West,Furniture,Tables,,
+2014,Home Office,United States,West,Furniture,Tables,8956.0338250198760,975.14251033671920
+2015,Home Office,United States,West,Furniture,Tables,4932.388,099.65106379619313
+2016,Home Office,United States,West,Furniture,Tables,6359.308,87128.5835
+2017,Home Office,United States,West,Furniture,Tables,3474.798139885825,701.5109651173936
+2014,Consumer,United States,Central,Office Supplies,Appliances,5052.5838653916117,3089.1795063271208
+2015,Consumer,United States,Central,Office Supplies,Appliances,2490.1784272326657,99408.6643050614538
+2016,Consumer,United States,Central,Office Supplies,Appliances,7872.9620353938750,88.27304125875422
+2017,Consumer,United States,Central,Office Supplies,Appliances,3079.505615634280,5766.4856546172936
+2018,Consumer,United States,Central,Office Supplies,Appliances,,
+2014,Corporate,United States,Central,Office Supplies,Appliances,780.52647272764033,4414.44375897509152
+2015,Corporate,United States,Central,Office Supplies,Appliances,063.4250077242672,91.24141591671024
+2016,Corporate,United States,Central,Office Supplies,Appliances,100.651,4028.2184511432729
+2017,Corporate,United States,Central,Office Supplies,Appliances,9898.662,380.9725576611404
+2018,Corporate,United States,Central,Office Supplies,Appliances,,
+2014,Home Office,United States,Central,Office Supplies,Appliances,5110.951,647.2173694687389
+2015,Home Office,United States,Central,Office Supplies,Appliances,5379.7366135112041,830.6835881355889
+2016,Home Office,United States,Central,Office Supplies,Appliances,9068.2460393230836,088.1068
+2017,Home Office,United States,Central,Office Supplies,Appliances,359.641,149.64651455533325
+2018,Home Office,United States,Central,Office Supplies,Appliances,503.4,23.574169660582516
+2014,Consumer,United States,East,Office Supplies,Appliances,8080.1041503775607,183.1150
+2015,Consumer,United States,East,Office Supplies,Appliances,3845.666557314094,1310.1445962176871
+2016,Consumer,United States,East,Office Supplies,Appliances,1326.399,7381.0309262771414
+2017,Consumer,United States,East,Office Supplies,Appliances,3922.461,2165.5594113459037
+2018,Consumer,United States,East,Office Supplies,Appliances,,
+2014,Corporate,United States,East,Office Supplies,Appliances,8832.341,482.55907877173541
+2015,Corporate,United States,East,Office Supplies,Appliances,0398.0457341706974,492.9980873923196
+2016,Corporate,United States,East,Office Supplies,Appliances,0228.4972789973308,681.6487
+2017,Corporate,United States,East,Office Supplies,Appliances,1585.398,969.941
+2014,Home Office,United States,East,Office Supplies,Appliances,066.195,17.19137474897313
+2015,Home Office,United States,East,Office Supplies,Appliances,8949.5070116884144,052.73091760198548
+2016,Home Office,United States,East,Office Supplies,Appliances,915.312,231.48503900865113
+2017,Home Office,United States,East,Office Supplies,Appliances,654.736,060.30392008103646
+2014,Consumer,United States,South,Office Supplies,Appliances,821.734,034.88485635645276
+2015,Consumer,United States,South,Office Supplies,Appliances,1697.3544381775224,643.5800
+2016,Consumer,United States,South,Office Supplies,Appliances,8966.2181674267369,628.1669
+2017,Consumer,United States,South,Office Supplies,Appliances,4918.6392353054045,873.37493150665159
+2018,Consumer,United States,South,Office Supplies,Appliances,,
+2014,Corporate,United States,South,Office Supplies,Appliances,7713.85,258.32965886751200
+2015,Corporate,United States,South,Office Supplies,Appliances,688.551,010.45350263315540
+2016,Corporate,United States,South,Office Supplies,Appliances,1278.5758319581183,999.1915998340540
+2017,Corporate,United States,South,Office Supplies,Appliances,9550.941502474193,0620.3963436151525
+2014,Home Office,United States,South,Office Supplies,Appliances,811.753,30.173323070725405
+2015,Home Office,United States,South,Office Supplies,Appliances,63.87,9.438395540335330
+2016,Home Office,United States,South,Office Supplies,Appliances,930.700,59.38806172565953
+2017,Home Office,United States,South,Office Supplies,Appliances,,
+2018,Home Office,United States,South,Office Supplies,Appliances,,
+2014,Consumer,United States,West,Office Supplies,Appliances,5606.01,886.2844718853328
+2015,Consumer,United States,West,Office Supplies,Appliances,0953.19,548.8503535085488
+2016,Consumer,United States,West,Office Supplies,Appliances,4842.0889482144352,198.0062804738654
+2017,Consumer,United States,West,Office Supplies,Appliances,5421.272579180880,6791.8801267613754
+2018,Consumer,United States,West,Office Supplies,Appliances,,
+2014,Corporate,United States,West,Office Supplies,Appliances,232.282,358.77307817385219
+2015,Corporate,United States,West,Office Supplies,Appliances,8365.866,065.4200345749921
+2016,Corporate,United States,West,Office Supplies,Appliances,9321.4137074536725,879.53247041633690
+2017,Corporate,United States,West,Office Supplies,Appliances,5968.465853900402,6309.4689160096196
+2018,Corporate,United States,West,Office Supplies,Appliances,,
+2014,Home Office,United States,West,Office Supplies,Appliances,066.9707417774829,827.9266279708889
+2015,Home Office,United States,West,Office Supplies,Appliances,0308.2512659846413,215.5095457257748
+2016,Home Office,United States,West,Office Supplies,Appliances,9245,408.33905168093855
+2017,Home Office,United States,West,Office Supplies,Appliances,180.0247902565134,569.75113988061741
+2014,Consumer,United States,Central,Office Supplies,Art,887.11684222010596,599.85111081557492
+2015,Consumer,United States,Central,Office Supplies,Art,437.418,14.9969
+2016,Consumer,United States,Central,Office Supplies,Art,645.5590128500796,944.08056006522451
+2017,Consumer,United States,Central,Office Supplies,Art,7783.2182040971112,628.01162774542676
+2018,Consumer,United States,Central,Office Supplies,Art,65.406765967870710,7.242227923093383
+2014,Corporate,United States,Central,Office Supplies,Art,035.48865076537057,77.107552775797297
+2015,Corporate,United States,Central,Office Supplies,Art,235.123,925.44086980939039
+2016,Corporate,United States,Central,Office Supplies,Art,426.84807696497468,33.5301
+2017,Corporate,United States,Central,Office Supplies,Art,044.30935172034772,439.92361763696334
+2018,Corporate,United States,Central,Office Supplies,Art,,
+2014,Home Office,United States,Central,Office Supplies,Art,083.57474856842611,62.921837201572507
+2015,Home Office,United States,Central,Office Supplies,Art,036.56158273958424,25.33928995138049
+2016,Home Office,United States,Central,Office Supplies,Art,487.854,68.0024
+2017,Home Office,United States,Central,Office Supplies,Art,576.50647008765689,71.9307
+2018,Home Office,United States,Central,Office Supplies,Art,0.12,6.1832989188861216
+2014,Consumer,United States,East,Office Supplies,Art,591.6499684969033,600.03241574044366
+2015,Consumer,United States,East,Office Supplies,Art,055.4321595830129,084.52584881310344
+2016,Consumer,United States,East,Office Supplies,Art,0074.827,185.6142
+2017,Consumer,United States,East,Office Supplies,Art,0947.2009493939206,827.5926387966807
+2018,Consumer,United States,East,Office Supplies,Art,,
+2014,Corporate,United States,East,Office Supplies,Art,768.654,89.92225860584126
+2015,Corporate,United States,East,Office Supplies,Art,353.88634142586492,66.23695512240339
+2016,Corporate,United States,East,Office Supplies,Art,855.494,870.56745554556887
+2017,Corporate,United States,East,Office Supplies,Art,306.313,676.28722913255481
+2014,Home Office,United States,East,Office Supplies,Art,888.75263174016246,902.17789407527922
+2015,Home Office,United States,East,Office Supplies,Art,481.936,50.51539454903596
+2016,Home Office,United States,East,Office Supplies,Art,695.372,72.628529076995843
+2017,Home Office,United States,East,Office Supplies,Art,761.15200074797792,728.68249198483765
+2014,Consumer,United States,South,Office Supplies,Art,727.778,06.911
+2015,Consumer,United States,South,Office Supplies,Art,219.430,571.75490383598664
+2016,Consumer,United States,South,Office Supplies,Art,942.061,331.5436
+2017,Consumer,United States,South,Office Supplies,Art,400.7348487473170,793.62487030300113
+2018,Consumer,United States,South,Office Supplies,Art,10.57,71.822479547987451
+2014,Corporate,United States,South,Office Supplies,Art,521.64152317723332,62.595395787658982
+2015,Corporate,United States,South,Office Supplies,Art,452.044,46.83088154993212
+2016,Corporate,United States,South,Office Supplies,Art,217.66687055258219,17.96797499226353
+2017,Corporate,United States,South,Office Supplies,Art,008.588,84.61067278606714
+2014,Home Office,United States,South,Office Supplies,Art,32.119,9.352783377415434
+2015,Home Office,United States,South,Office Supplies,Art,577.305,43.90181900602689
+2016,Home Office,United States,South,Office Supplies,Art,595.93,85.88072886861425
+2017,Home Office,United States,South,Office Supplies,Art,214.946,59.0955
+2018,Home Office,United States,South,Office Supplies,Art,,
+2014,Consumer,United States,West,Office Supplies,Art,8899.7117296788894,827.23485806172661
+2015,Consumer,United States,West,Office Supplies,Art,9001.790,557.22342000057024
+2016,Consumer,United States,West,Office Supplies,Art,461.622,328.4661
+2017,Consumer,United States,West,Office Supplies,Art,9392.9426826635572,828.7605
+2018,Consumer,United States,West,Office Supplies,Art,,
+2014,Corporate,United States,West,Office Supplies,Art,7652.059,390.71922518592594
+2015,Corporate,United States,West,Office Supplies,Art,397.9471080048497,878.43296343542439
+2016,Corporate,United States,West,Office Supplies,Art,129.098,63.261771270616065
+2017,Corporate,United States,West,Office Supplies,Art,164.5292913557118,835.8326
+2018,Corporate,United States,West,Office Supplies,Art,,
+2014,Home Office,United States,West,Office Supplies,Art,929.095,74.317362416156937
+2015,Home Office,United States,West,Office Supplies,Art,286.5404325185431,63.26406261783771
+2016,Home Office,United States,West,Office Supplies,Art,964.12388736987830,12.7744
+2017,Home Office,United States,West,Office Supplies,Art,172.3598081306593,696.56199028908736
+2014,Consumer,United States,Central,Office Supplies,Binders,57714.967229833991,0147.8425870409895
+2015,Consumer,United States,Central,Office Supplies,Binders,7524.0111937765629,2899.7305320272046
+2016,Consumer,United States,Central,Office Supplies,Binders,58842.949710517534,2859.464719902324
+2017,Consumer,United States,Central,Office Supplies,Binders,04147.679671128163,259.28426377107149
+2018,Consumer,United States,Central,Office Supplies,Binders,17.02681702339047,0817.50295133468682
+2014,Corporate,United States,Central,Office Supplies,Binders,596.103,1827.28135714461089
+2015,Corporate,United States,Central,Office Supplies,Binders,878.64049378046101,8033.98673275731644
+2016,Corporate,United States,Central,Office Supplies,Binders,0279.4248420435478,0799.98295181530108
+2017,Corporate,United States,Central,Office Supplies,Binders,1990.7623289754409,48476.327475533059
+2018,Corporate,United States,Central,Office Supplies,Binders,6.0046859653372617,12.4182540638196940
+2014,Home Office,United States,Central,Office Supplies,Binders,402.8825453112352,627.74012262166437
+2015,Home Office,United States,Central,Office Supplies,Binders,0870.879,9194.0383
+2016,Home Office,United States,Central,Office Supplies,Binders,316.31240379584427,98.55689369756609
+2017,Home Office,United States,Central,Office Supplies,Binders,4819.213,0748.43632970404032
+2018,Home Office,United States,Central,Office Supplies,Binders,78.1,95.234364300232071
+2014,Consumer,United States,East,Office Supplies,Binders,8284.569408638624,829.7234214098178
+2015,Consumer,United States,East,Office Supplies,Binders,79115.572,5253.6022205150203
+2016,Consumer,United States,East,Office Supplies,Binders,4431.127,188.7439250769981
+2017,Consumer,United States,East,Office Supplies,Binders,0805.911,8373.6123788458871
+2018,Consumer,United States,East,Office Supplies,Binders,20.14802941690321,41.6502
+2014,Corporate,United States,East,Office Supplies,Binders,9396.241,8868.51349474474038
+2015,Corporate,United States,East,Office Supplies,Binders,7416.104,212.9358031857588
+2016,Corporate,United States,East,Office Supplies,Binders,7864.327,7727.4006143576487
+2017,Corporate,United States,East,Office Supplies,Binders,2685.713716093161,154.3418008162950
+2014,Home Office,United States,East,Office Supplies,Binders,4357.1775529436078,345.8020
+2015,Home Office,United States,East,Office Supplies,Binders,669.9588470820040,827.9356
+2016,Home Office,United States,East,Office Supplies,Binders,9228.099325066502,692.9969431736166
+2017,Home Office,United States,East,Office Supplies,Binders,8959.5552128799615,153.2439151932218
+2014,Consumer,United States,South,Office Supplies,Binders,8669.469764317087,683.5299
+2015,Consumer,United States,South,Office Supplies,Binders,01629.957093074221,0413.1532204035706
+2016,Consumer,United States,South,Office Supplies,Binders,618.236,1.1154571067960496
+2017,Consumer,United States,South,Office Supplies,Binders,6782.330,187.42026479560508
+2018,Consumer,United States,South,Office Supplies,Binders,19.01,5.125226771336920
+2014,Corporate,United States,South,Office Supplies,Binders,1424.017901406410,1013.4098
+2015,Corporate,United States,South,Office Supplies,Binders,0097.520,25657.7217629693492
+2016,Corporate,United States,South,Office Supplies,Binders,8428.318,746.32686188470370
+2017,Corporate,United States,South,Office Supplies,Binders,8788.210,1484.2074877977928
+2014,Home Office,United States,South,Office Supplies,Binders,8544.598,376.836810199081300
+2015,Home Office,United States,South,Office Supplies,Binders,013.63727258675780,826.9997
+2016,Home Office,United States,South,Office Supplies,Binders,8107.954,559.8316257150678
+2017,Home Office,United States,South,Office Supplies,Binders,4807.1972263015871,74582.9311996908284
+2018,Home Office,United States,South,Office Supplies,Binders,,
+2014,Consumer,United States,West,Office Supplies,Binders,4992.135985728777,0548.9121009071717
+2015,Consumer,United States,West,Office Supplies,Binders,0488.6653829730184,663.9965718669896
+2016,Consumer,United States,West,Office Supplies,Binders,1552.8648803985433,1705.5370029063978
+2017,Consumer,United States,West,Office Supplies,Binders,12675.637921327384,6280.2205392458495
+2018,Consumer,United States,West,Office Supplies,Binders,,
+2014,Corporate,United States,West,Office Supplies,Binders,5707.1767054170673,513.0665
+2015,Corporate,United States,West,Office Supplies,Binders,4830.234,8457.0092009850406
+2016,Corporate,United States,West,Office Supplies,Binders,8909.15,329.6759
+2017,Corporate,United States,West,Office Supplies,Binders,83511.412520330242,0351.452884218203
+2018,Corporate,United States,West,Office Supplies,Binders,10.536994165418090,23.239637290334452
+2014,Home Office,United States,West,Office Supplies,Binders,468.48,858.93885736127076
+2015,Home Office,United States,West,Office Supplies,Binders,998.53916830758522,18.20038663559034
+2016,Home Office,United States,West,Office Supplies,Binders,8401.798173075040,2953.9580265268437
+2017,Home Office,United States,West,Office Supplies,Binders,6112.167,650.1931243833761
+2014,Consumer,United States,Central,Office Supplies,Envelopes,938.2942292643556,222.2479541293948
+2015,Consumer,United States,Central,Office Supplies,Envelopes,421.80,669.49
+2016,Consumer,United States,Central,Office Supplies,Envelopes,637.774,444.0792
+2017,Consumer,United States,Central,Office Supplies,Envelopes,330.892,563.4616
+2018,Consumer,United States,Central,Office Supplies,Envelopes,,
+2014,Corporate,United States,Central,Office Supplies,Envelopes,305.57277050734670,92.7981
+2015,Corporate,United States,Central,Office Supplies,Envelopes,687.9893784334902,905.80596868971504
+2016,Corporate,United States,Central,Office Supplies,Envelopes,698.00308934976923,711.15803612088365
+2017,Corporate,United States,Central,Office Supplies,Envelopes,610.307,47.13558672778440
+2018,Corporate,United States,Central,Office Supplies,Envelopes,,
+2014,Home Office,United States,Central,Office Supplies,Envelopes,070.63348940092197,383.14715655246999
+2015,Home Office,United States,Central,Office Supplies,Envelopes,727.536,67.104
+2016,Home Office,United States,Central,Office Supplies,Envelopes,788.726,46.31174158145676
+2017,Home Office,United States,Central,Office Supplies,Envelopes,826.74568289104607,01.55503012763002
+2018,Home Office,United States,Central,Office Supplies,Envelopes,,
+2014,Consumer,United States,East,Office Supplies,Envelopes,890.795,748.91394169163203
+2015,Consumer,United States,East,Office Supplies,Envelopes,123.68322946481557,808.2485
+2016,Consumer,United States,East,Office Supplies,Envelopes,335.2127455345825,727.92970576204032
+2017,Consumer,United States,East,Office Supplies,Envelopes,700.904,892.42052420602461
+2018,Consumer,United States,East,Office Supplies,Envelopes,,
+2014,Corporate,United States,East,Office Supplies,Envelopes,688.8473073915566,871.064
+2015,Corporate,United States,East,Office Supplies,Envelopes,036.968,03.35332528392142
+2016,Corporate,United States,East,Office Supplies,Envelopes,840.784,15.6493
+2017,Corporate,United States,East,Office Supplies,Envelopes,089.06,536.5482
+2014,Home Office,United States,East,Office Supplies,Envelopes,28.18,2.779752819584243
+2015,Home Office,United States,East,Office Supplies,Envelopes,977.13045117192718,873.88628571255306
+2016,Home Office,United States,East,Office Supplies,Envelopes,277.498,37.2238
+2017,Home Office,United States,East,Office Supplies,Envelopes,659.70,64.7027
+2014,Consumer,United States,South,Office Supplies,Envelopes,578.96439787629808,58.3119
+2015,Consumer,United States,South,Office Supplies,Envelopes,296.257,095.0923
+2016,Consumer,United States,South,Office Supplies,Envelopes,739.725,71.53704585678526
+2017,Consumer,United States,South,Office Supplies,Envelopes,831.28,180.48076247860822
+2018,Consumer,United States,South,Office Supplies,Envelopes,,
+2014,Corporate,United States,South,Office Supplies,Envelopes,09.93,14.643795413795761
+2015,Corporate,United States,South,Office Supplies,Envelopes,862.0108808734136,673.69645835348525
+2016,Corporate,United States,South,Office Supplies,Envelopes,720.08376259608098,55.809791420059871
+2017,Corporate,United States,South,Office Supplies,Envelopes,328.261,038.0611
+2014,Home Office,United States,South,Office Supplies,Envelopes,96.1,61.115
+2015,Home Office,United States,South,Office Supplies,Envelopes,836.104,92.068371105255546
+2016,Home Office,United States,South,Office Supplies,Envelopes,129.42,318.53078072343436
+2017,Home Office,United States,South,Office Supplies,Envelopes,,
+2018,Home Office,United States,South,Office Supplies,Envelopes,,
+2014,Consumer,United States,West,Office Supplies,Envelopes,982.4774335467959,174.3429
+2015,Consumer,United States,West,Office Supplies,Envelopes,163.13902501940598,491.00385270928567
+2016,Consumer,United States,West,Office Supplies,Envelopes,803.030,767.65546662664813
+2017,Consumer,United States,West,Office Supplies,Envelopes,380.079,54.686354685489111
+2018,Consumer,United States,West,Office Supplies,Envelopes,,
+2014,Corporate,United States,West,Office Supplies,Envelopes,22.003,62.549062212402536
+2015,Corporate,United States,West,Office Supplies,Envelopes,741.16,531.0701
+2016,Corporate,United States,West,Office Supplies,Envelopes,439.05,571.18124166712571
+2017,Corporate,United States,West,Office Supplies,Envelopes,737.758,626.08951518280334
+2018,Corporate,United States,West,Office Supplies,Envelopes,,
+2014,Home Office,United States,West,Office Supplies,Envelopes,38.31,8.7040
+2015,Home Office,United States,West,Office Supplies,Envelopes,141.23,73.46431596172047
+2016,Home Office,United States,West,Office Supplies,Envelopes,78.204522162174525,18.6364
+2017,Home Office,United States,West,Office Supplies,Envelopes,091.582,63.99839619519580
+2014,Consumer,United States,Central,Office Supplies,Fasteners,00.031,36.831477015749399711
+2015,Consumer,United States,Central,Office Supplies,Fasteners,15.87,27.655095056544026
+2016,Consumer,United States,Central,Office Supplies,Fasteners,881.77925705331077,35.5356
+2017,Consumer,United States,Central,Office Supplies,Fasteners,063.868,71.19348482966376
+2018,Consumer,United States,Central,Office Supplies,Fasteners,,
+2014,Corporate,United States,Central,Office Supplies,Fasteners,89.562844805977990,64.7942
+2015,Corporate,United States,Central,Office Supplies,Fasteners,04.704,3.8149934749065741
+2016,Corporate,United States,Central,Office Supplies,Fasteners,80.301,72.0092
+2017,Corporate,United States,Central,Office Supplies,Fasteners,797.14326434618369,24.705679505685838
+2018,Corporate,United States,Central,Office Supplies,Fasteners,,
+2014,Home Office,United States,Central,Office Supplies,Fasteners,0.7433675198633500,3.1208
+2015,Home Office,United States,Central,Office Supplies,Fasteners,41,0.3
+2016,Home Office,United States,Central,Office Supplies,Fasteners,99.67812915142882,19.319231265557454
+2017,Home Office,United States,Central,Office Supplies,Fasteners,88.60,1.8514310215569658
+2018,Home Office,United States,Central,Office Supplies,Fasteners,,
+2014,Consumer,United States,East,Office Supplies,Fasteners,56.59498497585047,60.297853027339438
+2015,Consumer,United States,East,Office Supplies,Fasteners,17.841,34.58453154535879
+2016,Consumer,United States,East,Office Supplies,Fasteners,232.06468781996490,78.4333
+2017,Consumer,United States,East,Office Supplies,Fasteners,59.83267350219355,51.115717474210585
+2018,Consumer,United States,East,Office Supplies,Fasteners,90.36,9.7969
+2014,Corporate,United States,East,Office Supplies,Fasteners,92.891,02.921987132155705
+2015,Corporate,United States,East,Office Supplies,Fasteners,42.1,0.8783
+2016,Corporate,United States,East,Office Supplies,Fasteners,985.31197176595465,07.1789
+2017,Corporate,United States,East,Office Supplies,Fasteners,76.04932269489149,40.918566370926997
+2014,Home Office,United States,East,Office Supplies,Fasteners,4.86,9.9713272819910796
+2015,Home Office,United States,East,Office Supplies,Fasteners,30.987919763459514,7.402
+2016,Home Office,United States,East,Office Supplies,Fasteners,20.19,04.7679
+2017,Home Office,United States,East,Office Supplies,Fasteners,47.80,67.1447
+2014,Consumer,United States,South,Office Supplies,Fasteners,46.94157209108879,70.6476
+2015,Consumer,United States,South,Office Supplies,Fasteners,58.047,92.60709921098709
+2016,Consumer,United States,South,Office Supplies,Fasteners,34.443789498369102,23.0459
+2017,Consumer,United States,South,Office Supplies,Fasteners,39.33,33.7733
+2018,Consumer,United States,South,Office Supplies,Fasteners,,
+2014,Corporate,United States,South,Office Supplies,Fasteners,05.84,8.921
+2015,Corporate,United States,South,Office Supplies,Fasteners,46.69615626228525,11.211850398614506
+2016,Corporate,United States,South,Office Supplies,Fasteners,14.77,4.9646
+2017,Corporate,United States,South,Office Supplies,Fasteners,,
+2014,Home Office,United States,South,Office Supplies,Fasteners,36.712098821670762,3.537902130614749
+2015,Home Office,United States,South,Office Supplies,Fasteners,,
+2016,Home Office,United States,South,Office Supplies,Fasteners,05.64,08.117181068046476
+2017,Home Office,United States,South,Office Supplies,Fasteners,71.559,3.047290066907045
+2018,Home Office,United States,South,Office Supplies,Fasteners,,
+2014,Consumer,United States,West,Office Supplies,Fasteners,637.16438208576984,91.7815
+2015,Consumer,United States,West,Office Supplies,Fasteners,567.930,08.589638678908349
+2016,Consumer,United States,West,Office Supplies,Fasteners,458.17729018192221,21.8518
+2017,Consumer,United States,West,Office Supplies,Fasteners,044.14412888484234,02.5781
+2018,Consumer,United States,West,Office Supplies,Fasteners,15.981836707944949,2.405821451294376
+2014,Corporate,United States,West,Office Supplies,Fasteners,71.423,55.3454
+2015,Corporate,United States,West,Office Supplies,Fasteners,1.09,8.064426985384743
+2016,Corporate,United States,West,Office Supplies,Fasteners,64.10,45.905452360831340
+2017,Corporate,United States,West,Office Supplies,Fasteners,59.436,58.5563
+2018,Corporate,United States,West,Office Supplies,Fasteners,,
+2014,Home Office,United States,West,Office Supplies,Fasteners,58.344,39.26927972863609552
+2015,Home Office,United States,West,Office Supplies,Fasteners,79.91,9.483695418705526
+2016,Home Office,United States,West,Office Supplies,Fasteners,01.26,1.274026993389679
+2017,Home Office,United States,West,Office Supplies,Fasteners,50.48043422999555,1.4153
+2014,Consumer,United States,Central,Office Supplies,Labels,204.74781980718517,71.5786
+2015,Consumer,United States,Central,Office Supplies,Labels,779.796,21.5066
+2016,Consumer,United States,Central,Office Supplies,Labels,476.028,78.0351
+2017,Consumer,United States,Central,Office Supplies,Labels,190.735,418.98889397790723
+2018,Consumer,United States,Central,Office Supplies,Labels,,
+2014,Corporate,United States,Central,Office Supplies,Labels,425.975,682.2086
+2015,Corporate,United States,Central,Office Supplies,Labels,732.744,09.7849
+2016,Corporate,United States,Central,Office Supplies,Labels,601.66624114095348,31.448806385770502
+2017,Corporate,United States,Central,Office Supplies,Labels,660.92492663109335,11.8041
+2018,Corporate,United States,Central,Office Supplies,Labels,,
+2014,Home Office,United States,Central,Office Supplies,Labels,280.43813602236065,40.25940385773703
+2015,Home Office,United States,Central,Office Supplies,Labels,34.48,98.714
+2016,Home Office,United States,Central,Office Supplies,Labels,181.55934639125655,672.3122
+2017,Home Office,United States,Central,Office Supplies,Labels,286.02402579549005,48.789788714290225
+2018,Home Office,United States,Central,Office Supplies,Labels,,
+2014,Consumer,United States,East,Office Supplies,Labels,526.681,221.9813
+2015,Consumer,United States,East,Office Supplies,Labels,905.732,968.70064710545410
+2016,Consumer,United States,East,Office Supplies,Labels,089.5239186169088,696.95496551674925
+2017,Consumer,United States,East,Office Supplies,Labels,168.43178558928487,849.99452859100063
+2018,Consumer,United States,East,Office Supplies,Labels,78.44,37.551295729626125
+2014,Corporate,United States,East,Office Supplies,Labels,391.594,92.2752
+2015,Corporate,United States,East,Office Supplies,Labels,34.47,43.5085
+2016,Corporate,United States,East,Office Supplies,Labels,96.843,27.9742
+2017,Corporate,United States,East,Office Supplies,Labels,620.551,462.43626496451678
+2014,Home Office,United States,East,Office Supplies,Labels,16.869251276490668,43.5524
+2015,Home Office,United States,East,Office Supplies,Labels,268.95,14.87438060037358
+2016,Home Office,United States,East,Office Supplies,Labels,933.67,96.0985
+2017,Home Office,United States,East,Office Supplies,Labels,33.73,96.3073
+2014,Consumer,United States,South,Office Supplies,Labels,775.55029480012959,818.65304508600742
+2015,Consumer,United States,South,Office Supplies,Labels,3306.250,839.70692208272241
+2016,Consumer,United States,South,Office Supplies,Labels,269.99523357055215,32.1543
+2017,Consumer,United States,South,Office Supplies,Labels,829.47,069.9952
+2018,Consumer,United States,South,Office Supplies,Labels,,
+2014,Corporate,United States,South,Office Supplies,Labels,841.85196648153987,31.66927358949736
+2015,Corporate,United States,South,Office Supplies,Labels,35.010,13.82055508043929
+2016,Corporate,United States,South,Office Supplies,Labels,17.30151599784543,60.2455
+2017,Corporate,United States,South,Office Supplies,Labels,66.265603755172251,66.915
+2014,Home Office,United States,South,Office Supplies,Labels,7.124,4.2281
+2015,Home Office,United States,South,Office Supplies,Labels,68.900658060956478,0.0250
+2016,Home Office,United States,South,Office Supplies,Labels,86.309367779877731,47.5351
+2017,Home Office,United States,South,Office Supplies,Labels,28.846,15.544947187542058
+2018,Home Office,United States,South,Office Supplies,Labels,,
+2014,Consumer,United States,West,Office Supplies,Labels,767.89399754258311,82.71708502254709
+2015,Consumer,United States,West,Office Supplies,Labels,885.2873613958812,345.9039
+2016,Consumer,United States,West,Office Supplies,Labels,364.34,769.49627039636676
+2017,Consumer,United States,West,Office Supplies,Labels,0119.4501000381589,753.9837187049068
+2018,Consumer,United States,West,Office Supplies,Labels,,
+2014,Corporate,United States,West,Office Supplies,Labels,188.98,15.2034
+2015,Corporate,United States,West,Office Supplies,Labels,8708.4746219949346,328.52793485964448
+2016,Corporate,United States,West,Office Supplies,Labels,938.2311412476035,014.85321751389602
+2017,Corporate,United States,West,Office Supplies,Labels,403.92,806.7654
+2018,Corporate,United States,West,Office Supplies,Labels,,
+2014,Home Office,United States,West,Office Supplies,Labels,451.7,33.6921
+2015,Home Office,United States,West,Office Supplies,Labels,63.91,6.3028907635856012
+2016,Home Office,United States,West,Office Supplies,Labels,73.491,06.83852668693097
+2017,Home Office,United States,West,Office Supplies,Labels,520.66,888.3511
+2014,Consumer,United States,Central,Office Supplies,Paper,0199.18,163.0129
+2015,Consumer,United States,Central,Office Supplies,Paper,7968.2605253695316,078.7584
+2016,Consumer,United States,Central,Office Supplies,Paper,8708.5164778347136,627.3399
+2017,Consumer,United States,Central,Office Supplies,Paper,4269.5880348509956,8392.5682055927907
+2018,Consumer,United States,Central,Office Supplies,Paper,77.99,63.073356358432814
+2014,Corporate,United States,Central,Office Supplies,Paper,039.111,588.7944
+2015,Corporate,United States,Central,Office Supplies,Paper,4893.6216005427458,195.85641637374460
+2016,Corporate,United States,Central,Office Supplies,Paper,2500.6333038339295,722.9895
+2017,Corporate,United States,Central,Office Supplies,Paper,5836.4302635490916,976.0135
+2018,Corporate,United States,Central,Office Supplies,Paper,339.738,365.08640513051569
+2014,Home Office,United States,Central,Office Supplies,Paper,845.00054970587012,96.7863
+2015,Home Office,United States,Central,Office Supplies,Paper,812.752,866.0316
+2016,Home Office,United States,Central,Office Supplies,Paper,1079.270,690.9136851325864
+2017,Home Office,United States,Central,Office Supplies,Paper,8648.396,579.7021057870784
+2018,Home Office,United States,Central,Office Supplies,Paper,,
+2014,Consumer,United States,East,Office Supplies,Paper,9524.5391931018596,667.5635
+2015,Consumer,United States,East,Office Supplies,Paper,4600.618,601.8476943812343
+2016,Consumer,United States,East,Office Supplies,Paper,7563.765,340.0741
+2017,Consumer,United States,East,Office Supplies,Paper,2734.3006811332325,5436.1815589103281
+2018,Consumer,United States,East,Office Supplies,Paper,,
+2014,Corporate,United States,East,Office Supplies,Paper,0313.060,354.1220
+2015,Corporate,United States,East,Office Supplies,Paper,3141.8509724819322,494.9313813272620
+2016,Corporate,United States,East,Office Supplies,Paper,4060.875,053.97010787197296
+2017,Corporate,United States,East,Office Supplies,Paper,5067.2331422059389,967.8268888181468
+2014,Home Office,United States,East,Office Supplies,Paper,899.7668024291622,517.4423
+2015,Home Office,United States,East,Office Supplies,Paper,3015.9123012955803,932.9197876454643
+2016,Home Office,United States,East,Office Supplies,Paper,5255.1762405089248,260.6170
+2017,Home Office,United States,East,Office Supplies,Paper,0535.312,803.5160667237557
+2014,Consumer,United States,South,Office Supplies,Paper,3369.118,209.23548760712079
+2015,Consumer,United States,South,Office Supplies,Paper,6200.7740158587301,361.840
+2016,Consumer,United States,South,Office Supplies,Paper,3486.8748970208457,745.7576
+2017,Consumer,United States,South,Office Supplies,Paper,3313.7765151059787,3702.7488
+2018,Consumer,United States,South,Office Supplies,Paper,,
+2014,Corporate,United States,South,Office Supplies,Paper,8993.8664620391758,505.8121
+2015,Corporate,United States,South,Office Supplies,Paper,188.47,878.89154503476972
+2016,Corporate,United States,South,Office Supplies,Paper,721.48014068008557,476.04072167865652
+2017,Corporate,United States,South,Office Supplies,Paper,227.431,619.4339
+2014,Home Office,United States,South,Office Supplies,Paper,032.634,682.01407438423575
+2015,Home Office,United States,South,Office Supplies,Paper,024.83996122803692,13.6988
+2016,Home Office,United States,South,Office Supplies,Paper,0385.662,512.5699639373714
+2017,Home Office,United States,South,Office Supplies,Paper,5474.672,543.2032
+2018,Home Office,United States,South,Office Supplies,Paper,,
+2014,Consumer,United States,West,Office Supplies,Paper,2897.1462097499394,9002.3855840547822
+2015,Consumer,United States,West,Office Supplies,Paper,3334.171962041070,1294.5284215485689
+2016,Consumer,United States,West,Office Supplies,Paper,8458.683,6962.659071794147
+2017,Consumer,United States,West,Office Supplies,Paper,9296.4657518158328,9209.4962971095064
+2018,Consumer,United States,West,Office Supplies,Paper,7.52,5.3857667355694349
+2014,Corporate,United States,West,Office Supplies,Paper,8199.3347363641331,371.1691
+2015,Corporate,United States,West,Office Supplies,Paper,7050.933,810.6235603050867
+2016,Corporate,United States,West,Office Supplies,Paper,5514.5319978591834,493.9033
+2017,Corporate,United States,West,Office Supplies,Paper,7074.1337823305169,5920.6980
+2018,Corporate,United States,West,Office Supplies,Paper,,
+2014,Home Office,United States,West,Office Supplies,Paper,274.301,833.7324
+2015,Home Office,United States,West,Office Supplies,Paper,821.9320930940817,664.60735134478938
+2016,Home Office,United States,West,Office Supplies,Paper,4226.749,277.0901879760486
+2017,Home Office,United States,West,Office Supplies,Paper,7439.546,5861.1751810281357
+2014,Consumer,United States,Central,Office Supplies,Storage,3428.832381654305,96.337328972247482
+2015,Consumer,United States,Central,Office Supplies,Storage,8436.765087105094,0326.51593184466950
+2016,Consumer,United States,Central,Office Supplies,Storage,8409.428184712377,964.2701270464706
+2017,Consumer,United States,Central,Office Supplies,Storage,7497.604,264.97779267070231
+2018,Consumer,United States,Central,Office Supplies,Storage,,
+2014,Corporate,United States,Central,Office Supplies,Storage,3580.2429979605078,44.42997091105300
+2015,Corporate,United States,Central,Office Supplies,Storage,0915.245,022.1384660810107
+2016,Corporate,United States,Central,Office Supplies,Storage,4121.2254138403351,843.7508485644081
+2017,Corporate,United States,Central,Office Supplies,Storage,2543.062,377.92401240058819
+2018,Corporate,United States,Central,Office Supplies,Storage,,
+2014,Home Office,United States,Central,Office Supplies,Storage,6275.34,307.3852769219332
+2015,Home Office,United States,Central,Office Supplies,Storage,5264.56,689.22110852379733
+2016,Home Office,United States,Central,Office Supplies,Storage,5447.2121566728519,353.25278959129199
+2017,Home Office,United States,Central,Office Supplies,Storage,7737.890,82.96148130678237
+2018,Home Office,United States,Central,Office Supplies,Storage,,
+2014,Consumer,United States,East,Office Supplies,Storage,0845.003500311355,651.0038783239129
+2015,Consumer,United States,East,Office Supplies,Storage,5193.821307371573,227.9519589198879
+2016,Consumer,United States,East,Office Supplies,Storage,4531.021047678901,7309.2098
+2017,Consumer,United States,East,Office Supplies,Storage,3618.2751111910908,03.1323
+2018,Consumer,United States,East,Office Supplies,Storage,,
+2014,Corporate,United States,East,Office Supplies,Storage,9178.0064866110838,483.7445836219680
+2015,Corporate,United States,East,Office Supplies,Storage,2534.296120496421,3789.0517
+2016,Corporate,United States,East,Office Supplies,Storage,2637.122848527312,325.61092183369715
+2017,Corporate,United States,East,Office Supplies,Storage,72248.676,5987.7626875879428
+2014,Home Office,United States,East,Office Supplies,Storage,8744.16,076.45404575533937
+2015,Home Office,United States,East,Office Supplies,Storage,9508.824,324.47745397707271
+2016,Home Office,United States,East,Office Supplies,Storage,8016.766915371175,5202.9808997122659
+2017,Home Office,United States,East,Office Supplies,Storage,5248.359235791223,953.7843429348534
+2014,Consumer,United States,South,Office Supplies,Storage,8716.264,198.6420887196103
+2015,Consumer,United States,South,Office Supplies,Storage,1726.385369353105,5632.94033811868799
+2016,Consumer,United States,South,Office Supplies,Storage,8242.291642810824,092.3963425724711
+2017,Consumer,United States,South,Office Supplies,Storage,3825.573953295824,902.0333618391512
+2018,Consumer,United States,South,Office Supplies,Storage,,
+2014,Corporate,United States,South,Office Supplies,Storage,2438.5761924155945,94.84000867677277
+2015,Corporate,United States,South,Office Supplies,Storage,7725.417,53.08741222564756
+2016,Corporate,United States,South,Office Supplies,Storage,8680.6407862880374,566.7724633709231
+2017,Corporate,United States,South,Office Supplies,Storage,7089.29,545.63350977080899
+2014,Home Office,United States,South,Office Supplies,Storage,755.2492049195181,13.07843259642007
+2015,Home Office,United States,South,Office Supplies,Storage,135.522,550.81664218569587
+2016,Home Office,United States,South,Office Supplies,Storage,7046.5948486056216,289.2284
+2017,Home Office,United States,South,Office Supplies,Storage,9846.800,256.4384501932481
+2018,Home Office,United States,South,Office Supplies,Storage,28.940,552.764116621269608
+2014,Consumer,United States,West,Office Supplies,Storage,6070.673584767666,685.7098
+2015,Consumer,United States,West,Office Supplies,Storage,69344.314973651185,9326.8670
+2016,Consumer,United States,West,Office Supplies,Storage,9801.668688064759,303.6628128238923
+2017,Consumer,United States,West,Office Supplies,Storage,3249.604731969217,280.5991707270958
+2018,Consumer,United States,West,Office Supplies,Storage,638.54,44.0814
+2014,Corporate,United States,West,Office Supplies,Storage,2523.161,061.5794480462296
+2015,Corporate,United States,West,Office Supplies,Storage,7611.1290133152006,299.5466466493343
+2016,Corporate,United States,West,Office Supplies,Storage,4431.673593698001,571.02968195342289
+2017,Corporate,United States,West,Office Supplies,Storage,07025.681690353044,0014.0229088997565
+2018,Corporate,United States,West,Office Supplies,Storage,470.89,513.8792640160851
+2014,Home Office,United States,West,Office Supplies,Storage,4886.5,780.5788086928526
+2015,Home Office,United States,West,Office Supplies,Storage,9604.66,910.80537209533463
+2016,Home Office,United States,West,Office Supplies,Storage,5700.7935636441678,789.28793028752543
+2017,Home Office,United States,West,Office Supplies,Storage,8410.145,065.18820573680499
+2014,Consumer,United States,Central,Office Supplies,Supplies,89.568,1.494627204290586
+2015,Consumer,United States,Central,Office Supplies,Supplies,54.02628410536012,3.783313844860830
+2016,Consumer,United States,Central,Office Supplies,Supplies,8283.461,9438.5641750332906
+2017,Consumer,United States,Central,Office Supplies,Supplies,714.872,29.62725811172543
+2018,Consumer,United States,Central,Office Supplies,Supplies,71.181,6.3645758026389863
+2014,Corporate,United States,Central,Office Supplies,Supplies,55.540,91.7219464969426360
+2015,Corporate,United States,Central,Office Supplies,Supplies,692.18800578250071,07.114565422711707
+2016,Corporate,United States,Central,Office Supplies,Supplies,30.494849909064112,1.915825778610743
+2017,Corporate,United States,Central,Office Supplies,Supplies,3167.152814749004,71.76375632312860
+2018,Corporate,United States,Central,Office Supplies,Supplies,,
+2014,Home Office,United States,Central,Office Supplies,Supplies,450.55,9.860089502891820
+2015,Home Office,United States,Central,Office Supplies,Supplies,774.41,5.702995394765480
+2016,Home Office,United States,Central,Office Supplies,Supplies,,
+2017,Home Office,United States,Central,Office Supplies,Supplies,46.029,7.462183496514933
+2018,Home Office,United States,Central,Office Supplies,Supplies,,
+2014,Consumer,United States,East,Office Supplies,Supplies,160.99044062931493,524.778819032941121
+2015,Consumer,United States,East,Office Supplies,Supplies,8498.707,4759.55292073845672
+2016,Consumer,United States,East,Office Supplies,Supplies,9464.328,381.44679578015028
+2017,Consumer,United States,East,Office Supplies,Supplies,0033.6891690867857,1341.2288871412381
+2018,Consumer,United States,East,Office Supplies,Supplies,,
+2014,Corporate,United States,East,Office Supplies,Supplies,89.89,2.2793
+2015,Corporate,United States,East,Office Supplies,Supplies,,
+2016,Corporate,United States,East,Office Supplies,Supplies,802.4,00.725034154224856
+2017,Corporate,United States,East,Office Supplies,Supplies,7017.9841522553366,464.775708081663796
+2014,Home Office,United States,East,Office Supplies,Supplies,43.352132005535375,7.83271293780914432333
+2015,Home Office,United States,East,Office Supplies,Supplies,4.1223238994101938,37.5342613993590620
+2016,Home Office,United States,East,Office Supplies,Supplies,51.19,33.962231621633335
+2017,Home Office,United States,East,Office Supplies,Supplies,513.59,02.790320885298864
+2014,Consumer,United States,South,Office Supplies,Supplies,89.099,5.1338
+2015,Consumer,United States,South,Office Supplies,Supplies,92.27876346673188,90.888041601470511
+2016,Consumer,United States,South,Office Supplies,Supplies,21.636,7.203682011750374
+2017,Consumer,United States,South,Office Supplies,Supplies,8999.722,45.94955979126304
+2018,Consumer,United States,South,Office Supplies,Supplies,,
+2014,Corporate,United States,South,Office Supplies,Supplies,7340.639382795527,37.38673206273432
+2015,Corporate,United States,South,Office Supplies,Supplies,55.104,3.734184759192460
+2016,Corporate,United States,South,Office Supplies,Supplies,3076.691,2193.02805611895457
+2017,Corporate,United States,South,Office Supplies,Supplies,034.65,01.185217464055156
+2014,Home Office,United States,South,Office Supplies,Supplies,1.4135944208726787,07.2440502057298623
+2015,Home Office,United States,South,Office Supplies,Supplies,,
+2016,Home Office,United States,South,Office Supplies,Supplies,539.222,93.19185720609310
+2017,Home Office,United States,South,Office Supplies,Supplies,79.36,45.054646259804740
+2018,Home Office,United States,South,Office Supplies,Supplies,,
+2014,Consumer,United States,West,Office Supplies,Supplies,4111.345937651873,811.8440696841986
+2015,Consumer,United States,West,Office Supplies,Supplies,170.348,29.5369
+2016,Consumer,United States,West,Office Supplies,Supplies,133.67720489859993,28.392627583845257
+2017,Consumer,United States,West,Office Supplies,Supplies,0729.0830886796786,5267.47327884443579
+2018,Consumer,United States,West,Office Supplies,Supplies,,
+2014,Corporate,United States,West,Office Supplies,Supplies,013.11,29.32556175519322
+2015,Corporate,United States,West,Office Supplies,Supplies,96.70,57.66820291713213
+2016,Corporate,United States,West,Office Supplies,Supplies,2495.667,308.0229197768513
+2017,Corporate,United States,West,Office Supplies,Supplies,527.83453067282314,35.359246770289805
+2018,Corporate,United States,West,Office Supplies,Supplies,,
+2014,Home Office,United States,West,Office Supplies,Supplies,75.08,0.736525188966894
+2015,Home Office,United States,West,Office Supplies,Supplies,7.81,4.5915958409682260
+2016,Home Office,United States,West,Office Supplies,Supplies,024.49274620723745,54.084568636907110
+2017,Home Office,United States,West,Office Supplies,Supplies,96.253716884679174,3.028187543332535
+2014,Consumer,United States,Central,Technology,Accessories,9990.1022884566948,746.2029
+2015,Consumer,United States,Central,Technology,Accessories,0264.642,475.4035572859973
+2016,Consumer,United States,Central,Technology,Accessories,4643.55,0446.5866
+2017,Consumer,United States,Central,Technology,Accessories,6053.684,828.1820247589028
+2018,Consumer,United States,Central,Technology,Accessories,,
+2014,Corporate,United States,Central,Technology,Accessories,625.007,992.23045885107068
+2015,Corporate,United States,Central,Technology,Accessories,3657.740,487.43455157694836
+2016,Corporate,United States,Central,Technology,Accessories,5843.402,940.0380200050291
+2017,Corporate,United States,Central,Technology,Accessories,8598.347,576.5307311161785
+2018,Corporate,United States,Central,Technology,Accessories,,
+2014,Home Office,United States,Central,Technology,Accessories,890.50,89.89039894777190
+2015,Home Office,United States,Central,Technology,Accessories,5837.474,212.36257939422002
+2016,Home Office,United States,Central,Technology,Accessories,7690.137,81.10164039447895
+2017,Home Office,United States,Central,Technology,Accessories,8169.949,1618.7658169744664
+2018,Home Office,United States,Central,Technology,Accessories,,
+2014,Consumer,United States,East,Technology,Accessories,1319.157,865.7470456250580
+2015,Consumer,United States,East,Technology,Accessories,77134.053116384775,8087.2748466854386
+2016,Consumer,United States,East,Technology,Accessories,8412.5592343549320,744.7637142413662
+2017,Consumer,United States,East,Technology,Accessories,2433.564765226121,6643.2561277526501
+2018,Consumer,United States,East,Technology,Accessories,,
+2014,Corporate,United States,East,Technology,Accessories,233.10,920.0905
+2015,Corporate,United States,East,Technology,Accessories,5590.2834637101281,377.5495597211777
+2016,Corporate,United States,East,Technology,Accessories,2831.677,316.65765258097015
+2017,Corporate,United States,East,Technology,Accessories,0260.19,3708.2583247389313
+2014,Home Office,United States,East,Technology,Accessories,156.5434168918361,263.20179676047593
+2015,Home Office,United States,East,Technology,Accessories,8093.1,4808.9126861084121
+2016,Home Office,United States,East,Technology,Accessories,7936.601,753.30622454493834
+2017,Home Office,United States,East,Technology,Accessories,9874.995,217.4144822939494
+2014,Consumer,United States,South,Technology,Accessories,0710.5799047347851,355.3667
+2015,Consumer,United States,South,Technology,Accessories,6623.58,910.5859721398022
+2016,Consumer,United States,South,Technology,Accessories,3239.4762943894615,8152.2583
+2017,Consumer,United States,South,Technology,Accessories,0552.6872260027849,045.1107057528506
+2018,Consumer,United States,South,Technology,Accessories,,
+2014,Corporate,United States,South,Technology,Accessories,7487.897,497.8330980936702
+2015,Corporate,United States,South,Technology,Accessories,3637.477,837.7111036265290
+2016,Corporate,United States,South,Technology,Accessories,5569.501121070814,8505.7877465634900
+2017,Corporate,United States,South,Technology,Accessories,3080.2518070929996,639.7394413762402
+2014,Home Office,United States,South,Technology,Accessories,4033.653,755.97474173980345
+2015,Home Office,United States,South,Technology,Accessories,806.681,318.43655460199251
+2016,Home Office,United States,South,Technology,Accessories,8803.9882828705637,055.47042291664549
+2017,Home Office,United States,South,Technology,Accessories,3872.0265686028631,198.86265820743892
+2018,Home Office,United States,South,Technology,Accessories,,
+2014,Consumer,United States,West,Technology,Accessories,8514.117277647950,8080.4364
+2015,Consumer,United States,West,Technology,Accessories,8269.602,6780.0443
+2016,Consumer,United States,West,Technology,Accessories,1013.945582814513,6604.3089913554898
+2017,Consumer,United States,West,Technology,Accessories,5007.982,3070.8154740399366
+2018,Consumer,United States,West,Technology,Accessories,,
+2014,Corporate,United States,West,Technology,Accessories,8346.2430430281750,484.9080
+2015,Corporate,United States,West,Technology,Accessories,5952.657,795.14541157774233
+2016,Corporate,United States,West,Technology,Accessories,9509.502,5274.4044076580718
+2017,Corporate,United States,West,Technology,Accessories,00314.367,3838.6931
+2018,Corporate,United States,West,Technology,Accessories,,
+2014,Home Office,United States,West,Technology,Accessories,0860.2850219361380,775.22433570247770
+2015,Home Office,United States,West,Technology,Accessories,796.31,113.94332876183463
+2016,Home Office,United States,West,Technology,Accessories,3295.6080918263083,075.7408
+2017,Home Office,United States,West,Technology,Accessories,9366.1697598372476,2990.3186009035972
+2014,Consumer,United States,Central,Technology,Copiers,2886.55,909.0691
+2015,Consumer,United States,Central,Technology,Copiers,6492.679,883.3152007547020
+2016,Consumer,United States,Central,Technology,Copiers,,
+2017,Consumer,United States,Central,Technology,Copiers,,
+2018,Consumer,United States,Central,Technology,Copiers,,
+2014,Corporate,United States,Central,Technology,Copiers,957.4148575478540,010.4645
+2015,Corporate,United States,Central,Technology,Copiers,7773.864398926106,6495.8928081217760
+2016,Corporate,United States,Central,Technology,Copiers,56528.163848960144,7286.172307513414
+2017,Corporate,United States,Central,Technology,Copiers,7331.530,786.6855161229368
+2018,Corporate,United States,Central,Technology,Copiers,,
+2014,Home Office,United States,Central,Technology,Copiers,510.55,676.937
+2015,Home Office,United States,Central,Technology,Copiers,4599.99,510.092
+2016,Home Office,United States,Central,Technology,Copiers,,
+2017,Home Office,United States,Central,Technology,Copiers,127.183,623.32662733398948
+2018,Home Office,United States,Central,Technology,Copiers,,
+2014,Consumer,United States,East,Technology,Copiers,1899.9284865491858,112.0628
+2015,Consumer,United States,East,Technology,Copiers,5437.967,7060.6527
+2016,Consumer,United States,East,Technology,Copiers,75389.512895885384,2014.6296432306647
+2017,Consumer,United States,East,Technology,Copiers,19622.443036093732,8879.1765
+2018,Consumer,United States,East,Technology,Copiers,,
+2014,Corporate,United States,East,Technology,Copiers,,
+2015,Corporate,United States,East,Technology,Copiers,,
+2016,Corporate,United States,East,Technology,Copiers,6082.174,6948.6351769993464
+2017,Corporate,United States,East,Technology,Copiers,717.769,26.83629004606592
+2014,Home Office,United States,East,Technology,Copiers,,
+2015,Home Office,United States,East,Technology,Copiers,578.706,451.86653428638749
+2016,Home Office,United States,East,Technology,Copiers,3108.19,0727.8292
+2017,Home Office,United States,East,Technology,Copiers,82669.850,8377.604375354035
+2014,Consumer,United States,South,Technology,Copiers,206.02750026132306,09.74015967477115
+2015,Consumer,United States,South,Technology,Copiers,,
+2016,Consumer,United States,South,Technology,Copiers,4334.27,036.3270
+2017,Consumer,United States,South,Technology,Copiers,7521.796,536.5003739325414
+2018,Consumer,United States,South,Technology,Copiers,,
+2014,Corporate,United States,South,Technology,Copiers,,
+2015,Corporate,United States,South,Technology,Copiers,983.30,285.6180
+2016,Corporate,United States,South,Technology,Copiers,024.0146025693080,831.81272394358530
+2017,Corporate,United States,South,Technology,Copiers,8488.68,6864.866
+2014,Home Office,United States,South,Technology,Copiers,,
+2015,Home Office,United States,South,Technology,Copiers,,
+2016,Home Office,United States,South,Technology,Copiers,,
+2017,Home Office,United States,South,Technology,Copiers,,
+2018,Home Office,United States,South,Technology,Copiers,,
+2014,Consumer,United States,West,Technology,Copiers,0566.133,7330.2243886282642
+2015,Consumer,United States,West,Technology,Copiers,3541.3732162954785,7608.8913891586551
+2016,Consumer,United States,West,Technology,Copiers,7536.079824485042,4844.9426
+2017,Consumer,United States,West,Technology,Copiers,04144.208,1958.8875877816401
+2018,Consumer,United States,West,Technology,Copiers,,
+2014,Corporate,United States,West,Technology,Copiers,,
+2015,Corporate,United States,West,Technology,Copiers,3921.6451817930690,6166.0995
+2016,Corporate,United States,West,Technology,Copiers,9272.687,436.69051077601443
+2017,Corporate,United States,West,Technology,Copiers,1123.555,6617.48
+2018,Corporate,United States,West,Technology,Copiers,,
+2014,Home Office,United States,West,Technology,Copiers,,
+2015,Home Office,United States,West,Technology,Copiers,,
+2016,Home Office,United States,West,Technology,Copiers,3394.18,983.8524370981728
+2017,Home Office,United States,West,Technology,Copiers,1568.391,7224.3278272259097
+2014,Consumer,United States,Central,Technology,Machines,8632.605829207135,02984.472429557174
+2015,Consumer,United States,Central,Technology,Machines,133.5559169356907,451.212694561527586
+2016,Consumer,United States,Central,Technology,Machines,2871.90,04.696789719087913
+2017,Consumer,United States,Central,Technology,Machines,,
+2018,Consumer,United States,Central,Technology,Machines,,
+2014,Corporate,United States,Central,Technology,Machines,3345.99,2571.5682309064332
+2015,Corporate,United States,Central,Technology,Machines,168.692,33.80095042990861
+2016,Corporate,United States,Central,Technology,Machines,,
+2017,Corporate,United States,Central,Technology,Machines,1960.069,350.40821674634530
+2018,Corporate,United States,Central,Technology,Machines,,
+2014,Home Office,United States,Central,Technology,Machines,811.57,505.34465908195541
+2015,Home Office,United States,Central,Technology,Machines,803.43,427.41377501266150
+2016,Home Office,United States,Central,Technology,Machines,4980.497,54.368229304697762
+2017,Home Office,United States,Central,Technology,Machines,779.289,492.39890652363148
+2018,Home Office,United States,Central,Technology,Machines,,
+2014,Consumer,United States,East,Technology,Machines,52010.488,1432.6227
+2015,Consumer,United States,East,Technology,Machines,1119.516,23337.9820119656761
+2016,Consumer,United States,East,Technology,Machines,13898.701282943720,85118.5994517086397
+2017,Consumer,United States,East,Technology,Machines,136.387,34.06016810752332
+2018,Consumer,United States,East,Technology,Machines,,
+2014,Corporate,United States,East,Technology,Machines,649.73,9115.6856348954062
+2015,Corporate,United States,East,Technology,Machines,1518.3960040655101,2746.1129109941066
+2016,Corporate,United States,East,Technology,Machines,84997.496,7743.5300666427297
+2017,Corporate,United States,East,Technology,Machines,8361.333,448.0857
+2014,Home Office,United States,East,Technology,Machines,2727.64,2009.1199
+2015,Home Office,United States,East,Technology,Machines,2922.1,8370.985
+2016,Home Office,United States,East,Technology,Machines,,
+2017,Home Office,United States,East,Technology,Machines,2485.67,1541.4193
+2014,Consumer,United States,South,Technology,Machines,9836.975,99861.6060174907248
+2015,Consumer,United States,South,Technology,Machines,9956.126,5244.7863259390097
+2016,Consumer,United States,South,Technology,Machines,1040.406154963424,0566.3619228587876
+2017,Consumer,United States,South,Technology,Machines,5701.00,185.599685796873090
+2018,Consumer,United States,South,Technology,Machines,,
+2014,Corporate,United States,South,Technology,Machines,,
+2015,Corporate,United States,South,Technology,Machines,,
+2016,Corporate,United States,South,Technology,Machines,9524.327,6689.2747
+2017,Corporate,United States,South,Technology,Machines,2261.13,52168.8576479422099
+2014,Home Office,United States,South,Technology,Machines,15611.52,75210.908509711943
+2015,Home Office,United States,South,Technology,Machines,,
+2016,Home Office,United States,South,Technology,Machines,53.759,90.316701172922783
+2017,Home Office,United States,South,Technology,Machines,,
+2018,Home Office,United States,South,Technology,Machines,,
+2014,Consumer,United States,West,Technology,Machines,3373.630,723.6386158375645
+2015,Consumer,United States,West,Technology,Machines,7597.5050571982011,700.4259123440851
+2016,Consumer,United States,West,Technology,Machines,9920.529,113.5173059491314
+2017,Consumer,United States,West,Technology,Machines,9849.516,953.97937343923317
+2018,Consumer,United States,West,Technology,Machines,,
+2014,Corporate,United States,West,Technology,Machines,,
+2015,Corporate,United States,West,Technology,Machines,2704.464,739.83577201576488
+2016,Corporate,United States,West,Technology,Machines,4559,632.77694225254368
+2017,Corporate,United States,West,Technology,Machines,5570.667,496.4157490117493
+2018,Corporate,United States,West,Technology,Machines,,
+2014,Home Office,United States,West,Technology,Machines,6346.104,411.29015229540851
+2015,Home Office,United States,West,Technology,Machines,,
+2016,Home Office,United States,West,Technology,Machines,2942.0260760435028,1508.6445981931130
+2017,Home Office,United States,West,Technology,Machines,5250.893797235066,92487.2905925950628
+2014,Consumer,United States,Central,Technology,Phones,3337.911306838620,576.1879324045173
+2015,Consumer,United States,Central,Technology,Phones,8404.624899936355,6891.6778681711859
+2016,Consumer,United States,Central,Technology,Phones,57672.961928650814,1096.5031120172989
+2017,Consumer,United States,Central,Technology,Phones,62096.291,7327.2256279045062
+2018,Consumer,United States,Central,Technology,Phones,,
+2014,Corporate,United States,Central,Technology,Phones,1788.1577201080045,538.139
+2015,Corporate,United States,Central,Technology,Phones,7054.257,328.3373227151321
+2016,Corporate,United States,Central,Technology,Phones,8627.131339763246,414.6874412240921
+2017,Corporate,United States,Central,Technology,Phones,4106.4595560355666,766.2747329538630
+2018,Corporate,United States,Central,Technology,Phones,,
+2014,Home Office,United States,Central,Technology,Phones,1616.551,249.97443396067899
+2015,Home Office,United States,Central,Technology,Phones,8174.4790308002614,710.4380
+2016,Home Office,United States,Central,Technology,Phones,3504.5672184900659,874.0311
+2017,Home Office,United States,Central,Technology,Phones,7700.915,9697.8011605002234
+2018,Home Office,United States,Central,Technology,Phones,,
+2014,Consumer,United States,East,Technology,Phones,28072.149332970215,1772.8063844634655
+2015,Consumer,United States,East,Technology,Phones,66908.174,0164.26
+2016,Consumer,United States,East,Technology,Phones,9535.013621951667,698.1626959794988
+2017,Consumer,United States,East,Technology,Phones,73642.091622451875,9629.1467
+2018,Consumer,United States,East,Technology,Phones,583.07,6.3174514855676239
+2014,Corporate,United States,East,Technology,Phones,9831.3852138410596,999.6308
+2015,Corporate,United States,East,Technology,Phones,5107.147,802.1038340472057
+2016,Corporate,United States,East,Technology,Phones,0194.976819128312,8285.8027
+2017,Corporate,United States,East,Technology,Phones,47377.072,728.6576522615139
+2014,Home Office,United States,East,Technology,Phones,014.75,05.6064
+2015,Home Office,United States,East,Technology,Phones,8169.43,052.6682
+2016,Home Office,United States,East,Technology,Phones,7096.243252336926,915.7023451416401
+2017,Home Office,United States,East,Technology,Phones,8146.156845742565,280.4309937545010
+2014,Consumer,United States,South,Technology,Phones,7309.433,3252.0233
+2015,Consumer,United States,South,Technology,Phones,1822.4374817833853,8080.8676597073217
+2016,Consumer,United States,South,Technology,Phones,4358.289513396143,643.043
+2017,Consumer,United States,South,Technology,Phones,27718.456664004685,9241.6864859051896
+2018,Consumer,United States,South,Technology,Phones,,
+2014,Corporate,United States,South,Technology,Phones,4890.905766942386,6587.2466714964134
+2015,Corporate,United States,South,Technology,Phones,2988.7717198302440,935.94604670076108
+2016,Corporate,United States,South,Technology,Phones,3131.9581204280816,581.41898663674159
+2017,Corporate,United States,South,Technology,Phones,0223.4052670080575,739.183
+2014,Home Office,United States,South,Technology,Phones,1271.6663592429932,178.5358
+2015,Home Office,United States,South,Technology,Phones,,
+2016,Home Office,United States,South,Technology,Phones,1822.861,069.9429914288458
+2017,Home Office,United States,South,Technology,Phones,3031.8553582679948,284.6816054513933
+2018,Home Office,United States,South,Technology,Phones,,
+2014,Consumer,United States,West,Technology,Phones,02631.843743309722,2877.1885815027045
+2015,Consumer,United States,West,Technology,Phones,55162.101327460018,6884.7404364643300
+2016,Consumer,United States,West,Technology,Phones,8286.069,523.5792019087052
+2017,Consumer,United States,West,Technology,Phones,25770.275376232449,667.6498180904355
+2018,Consumer,United States,West,Technology,Phones,132.055,15.166038064113968
+2014,Corporate,United States,West,Technology,Phones,1646.580,765.7385960653843
+2015,Corporate,United States,West,Technology,Phones,8866.793035949657,063.2455159426810
+2016,Corporate,United States,West,Technology,Phones,5046.867923180959,651.8425198550553
+2017,Corporate,United States,West,Technology,Phones,3910.185838497367,474.604
+2018,Corporate,United States,West,Technology,Phones,,
+2014,Home Office,United States,West,Technology,Phones,7714.303814014249,088.6896086099923
+2015,Home Office,United States,West,Technology,Phones,9621.601,736.17206497949031
+2016,Home Office,United States,West,Technology,Phones,1964.241,839.4965449288056
+2017,Home Office,United States,West,Technology,Phones,0094.942430900061,844.686
