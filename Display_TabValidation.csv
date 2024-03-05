@@ -1,0 +1,211 @@
+P6-EuroDebtCrisis.Debtor,P6-EuroDebtCrisis.Creditor Continent,P6-EuroDebtCrisis.Creditor,Min(P6-EuroDebtCrisis.Risk),Sum(P6-EuroDebtCrisis.Amount)
+Britain,Europe,France,,
+France,Europe,France,,
+Germany,Europe,France,Stable,53.8
+Greece,Europe,France,,
+Ireland,Europe,France,High Risk,17.3
+Italy,Europe,France,High Risk,366
+Japan,Europe,France,Stable,7.73
+Portugal,Europe,France,High Risk,18.3
+Spain,Europe,France,,
+United States,Europe,France,Stable,322
+Britain,Europe,Spain,Stable,326
+France,Europe,Spain,,
+Germany,Europe,Spain,,
+Greece,Europe,Spain,High Risk,0.78
+Ireland,Europe,Spain,,
+Italy,Europe,Spain,High Risk,9.79
+Japan,Europe,Spain,,
+Portugal,Europe,Spain,,
+Spain,Europe,Spain,,
+United States,Europe,Spain,Stable,163
+Britain,Europe,Italy,,
+France,Europe,Italy,,
+Germany,Europe,Italy,Stable,111
+Greece,Europe,Italy,,
+Ireland,Europe,Italy,High Risk,2.83
+Italy,Europe,Italy,,
+Japan,Europe,Italy,,
+Portugal,Europe,Italy,High Risk,0.87
+Spain,Europe,Italy,,
+United States,Europe,Italy,,
+Britain,Europe,Japan,Stable,28.2
+France,Europe,Japan,,
+Germany,Europe,Japan,,
+Greece,Europe,Japan,High Risk,1.37
+Ireland,Europe,Japan,,
+Italy,Europe,Japan,High Risk,38.8
+Japan,Europe,Japan,,
+Portugal,Europe,Japan,High Risk,2.18
+Spain,Europe,Japan,Medium Risk,25.9
+United States,Europe,Japan,,
+Britain,Europe,Germany,,
+France,Europe,Germany,,
+Germany,Europe,Germany,,
+Greece,Europe,Germany,High Risk,19.3
+Ireland,Europe,Germany,,
+Italy,Europe,Germany,,
+Japan,Europe,Germany,,
+Portugal,Europe,Germany,,
+Spain,Europe,Germany,Medium Risk,57.6
+United States,Europe,Germany,,
+Britain,Europe,Britain,,
+France,Europe,Britain,Low Risk,22.4
+Germany,Europe,Britain,,
+Greece,Europe,Britain,High Risk,0.55
+Ireland,Europe,Britain,,
+Italy,Europe,Britain,,
+Japan,Europe,Britain,,
+Portugal,Europe,Britain,,
+Spain,Europe,Britain,,
+United States,Europe,Britain,,
+Britain,Europe,United States,,
+France,Europe,United States,,
+Germany,Europe,United States,,
+Greece,Europe,United States,High Risk,3.1
+Ireland,Europe,United States,High Risk,11.1
+Italy,Europe,United States,High Risk,3.16
+Japan,Europe,United States,,
+Portugal,Europe,United States,,
+Spain,Europe,United States,,
+United States,Europe,United States,,
+Britain,Europe,Portugal,,
+France,Europe,Portugal,,
+Germany,Europe,Portugal,,
+Greece,Europe,Portugal,High Risk,10.1
+Ireland,Europe,Portugal,High Risk,3.77
+Italy,Europe,Portugal,,
+Japan,Europe,Portugal,,
+Portugal,Europe,Portugal,,
+Spain,Europe,Portugal,,
+United States,Europe,Portugal,Stable,0.52
+Britain,Europe,Ireland,Stable,12
+France,Europe,Ireland,,
+Germany,Europe,Ireland,,
+Greece,Europe,Ireland,,
+Ireland,Europe,Ireland,,
+Italy,Europe,Ireland,,
+Japan,Europe,Ireland,,
+Portugal,Europe,Ireland,,
+Spain,Europe,Ireland,,
+United States,Europe,Ireland,,
+Britain,Asia,Japan,,
+France,Asia,Japan,,
+Germany,Asia,Japan,,
+Greece,Asia,Japan,,
+Ireland,Asia,Japan,High Risk,18.9
+Italy,Asia,Japan,,
+Japan,Asia,Japan,,
+Portugal,Asia,Japan,,
+Spain,Asia,Japan,,
+United States,Asia,Japan,Stable,796
+Britain,Asia,Spain,,
+France,Asia,Spain,,
+Germany,Asia,Spain,,
+Greece,Asia,Spain,,
+Ireland,Asia,Spain,,
+Italy,Asia,Spain,,
+Japan,Asia,Spain,,
+Portugal,Asia,Spain,High Risk,62
+Spain,Asia,Spain,,
+United States,Asia,Spain,,
+Britain,Asia,Germany,,
+France,Asia,Germany,,
+Germany,Asia,Germany,,
+Greece,Asia,Germany,,
+Ireland,Asia,Germany,High Risk,48.9
+Italy,Asia,Germany,,
+Japan,Asia,Germany,,
+Portugal,Asia,Germany,,
+Spain,Asia,Germany,,
+United States,Asia,Germany,,
+Britain,Asia,Ireland,,
+France,Asia,Ireland,,
+Germany,Asia,Ireland,,
+Greece,Asia,Ireland,High Risk,0.34
+Ireland,Asia,Ireland,,
+Italy,Asia,Ireland,,
+Japan,Asia,Ireland,,
+Portugal,Asia,Ireland,,
+Spain,Asia,Ireland,Medium Risk,6.38
+United States,Asia,Ireland,,
+Britain,North America,Britain,,
+France,North America,Britain,,
+Germany,North America,Britain,,
+Greece,North America,Britain,,
+Ireland,North America,Britain,,
+Italy,North America,Britain,,
+Japan,North America,Britain,,
+Portugal,North America,Britain,High Risk,19.4
+Spain,North America,Britain,,
+United States,North America,Britain,Stable,345
+Britain,North America,Japan,,
+France,North America,Japan,,
+Germany,North America,Japan,Stable,88.5
+Greece,North America,Japan,,
+Ireland,North America,Japan,,
+Italy,North America,Japan,,
+Japan,North America,Japan,,
+Portugal,North America,Japan,,
+Spain,North America,Japan,,
+United States,North America,Japan,,
+Britain,North America,Italy,,
+France,North America,Italy,,
+Germany,North America,Italy,,
+Greece,North America,Italy,High Risk,3.22
+Ireland,North America,Italy,,
+Italy,North America,Italy,,
+Japan,North America,Italy,,
+Portugal,North America,Italy,,
+Spain,North America,Italy,,
+United States,North America,Italy,,
+Britain,Africa,Germany,Stable,321
+France,Africa,Germany,,
+Germany,Africa,Germany,,
+Greece,Africa,Germany,,
+Ireland,Africa,Germany,,
+Italy,Africa,Germany,,
+Japan,Africa,Germany,,
+Portugal,Africa,Germany,High Risk,32.5
+Spain,Africa,Germany,,
+United States,Africa,Germany,,
+Britain,South America,Germany,,
+France,South America,Germany,,
+Germany,South America,Germany,,
+Greece,South America,Germany,,
+Ireland,South America,Germany,,
+Italy,South America,Germany,,
+Japan,South America,Germany,,
+Portugal,South America,Germany,,
+Spain,South America,Germany,,
+United States,South America,Germany,Stable,324
+Britain,South America,Britain,,
+France,South America,Britain,,
+Germany,South America,Britain,,
+Greece,South America,Britain,,
+Ireland,South America,Britain,,
+Italy,South America,Britain,High Risk,26
+Japan,South America,Britain,,
+Portugal,South America,Britain,,
+Spain,South America,Britain,,
+United States,South America,Britain,,
+Britain,Australia,France,,
+France,Australia,France,,
+Germany,Australia,France,,
+Greece,Australia,France,,
+Ireland,Australia,France,,
+Italy,Australia,France,,
+Japan,Australia,France,,
+Portugal,Australia,France,,
+Spain,Australia,France,Medium Risk,118
+United States,Australia,France,,
+Britain,Antarctica,France,,
+France,Antarctica,France,,
+Germany,Antarctica,France,,
+Greece,Antarctica,France,High Risk,53.9
+Ireland,Antarctica,France,,
+Italy,Antarctica,France,,
+Japan,Antarctica,France,,
+Portugal,Antarctica,France,,
+Spain,Antarctica,France,,
+United States,Antarctica,France,,
