@@ -1,0 +1,25 @@
+Month Value.Date.Variation.Date Hierarchy.Year,Month Value.Date.Variation.Date Hierarchy.Quarter,Month Value.Date.Variation.Date Hierarchy.Month,Sum(Month Value.Upper quartile),Sum(Month Value.Lower quartile),Sum(Month Value.Whisker Max),Sum(Month Value.Median),Sum(Month Value.Whisker Min),Sum(Month Value.AC),Sum(Month Value.PY ),Sum(Month Value.PL),Sum(Month Value.FC),Sum(Month Value.Cpk Value),
+2022,Qtr 4,November,92,38,100,68,20,55,51,63,50,50,
+2022,Qtr 4,December,86,33,96,66,22,51,68,64,58,58,
+2022,Qtr 4,October,77,53,96,59,20,55,59,69,59,59,
+2022,Qtr 2,April,87,52,96,64,25,56,69,59,63,59,
+2022,Qtr 2,June,87,51,94,79,20,66,63,56,68,56,
+2022,Qtr 2,May,78,67,92,72,10,51,63,60,60,60,
+2022,Qtr 1,February,83,58,99,76,40,67,62,53,70,53,
+2022,Qtr 1,March,81,38,100,51,31,57,59,64,55,55,
+2022,Qtr 1,January,78,53,100,63,24,67,59,70,68,68,
+2022,Qtr 3,September,73,37,91,60,20,67,59,65,59,59,
+2022,Qtr 3,August,70,43,100,66,20,60,70,54,61,54,
+2022,Qtr 3,July,68,32,92,49,26,51,53,65,65,65,
+2023,Qtr 4,November,74,38,86,65,25,67,50,58,67,58,58
+2023,Qtr 4,December,75,48,94,68,23,51,69,59,51,51,59
+2023,Qtr 4,October,95,43,100,69,25,53,54,62,53,53,62
+2023,Qtr 2,April,90,50,100,66,31,57,52,64,51,51,
+2023,Qtr 2,June,87,36,98,55,20,59,60,51,55,51,
+2023,Qtr 2,May,84,38,93,58,32,55,56,55,70,55,
+2023,Qtr 1,February,86,44,97,76,33,62,70,70,64,64,
+2023,Qtr 1,March,71,43,92,51,23,56,60,69,68,68,
+2023,Qtr 1,January,78,36,99,63,20,50,61,61,65,61,
+2023,Qtr 3,September,71,38,96,64,20,63,65,62,63,62,62
+2023,Qtr 3,August,61,28,95,40,22,58,58,62,58,58,62
+2023,Qtr 3,July,86,46,99,54,32,67,61,59,68,59,
