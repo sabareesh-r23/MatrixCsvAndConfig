@@ -1,0 +1,13 @@
+Orders.Region,Orders.Segment,Sum(Orders.Profit)
+Central,Consumer,8564.048099999993
+Central,Corporate,18703.902000000013
+Central,Home Office,12438.412399999987
+East,Consumer,41190.98429999995
+East,Corporate,23622.578900000022
+East,Home Office,26709.2168
+South,Consumer,26913.57279999999
+South,Corporate,15215.223200000008
+South,Home Office,4620.6343
+West,Consumer,57450.60400000006
+West,Corporate,34437.42989999997
+West,Home Office,16530.41499999999
