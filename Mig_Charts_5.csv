@@ -1,97 +1,193 @@
-Orders.Region,Accounts Master.Level 0 Description,Accounts Master.Level 1 Description,Accounts Master.Level 2 Description,Accounts Master.Level 3 Description,Values.US,Values.Actuals
-Central,Operating Profit,Gross Profit,Cost of Goods Sold,Raw Materials,-1326111983.9799986,-6398495015.029999
-East,Operating Profit,Gross Profit,Cost of Goods Sold,Raw Materials,-1326111983.9799986,-6398495015.029999
-South,Operating Profit,Gross Profit,Cost of Goods Sold,Raw Materials,-1326111983.9799986,-6398495015.029999
-West,Operating Profit,Gross Profit,Cost of Goods Sold,Raw Materials,-1326111983.9799986,-6398495015.029999
-Central,Operating Profit,Gross Profit,Cost of Goods Sold,Labor,-813483565.3000003,-3737161511.0500035
-East,Operating Profit,Gross Profit,Cost of Goods Sold,Labor,-813483565.3000003,-3737161511.0500035
-South,Operating Profit,Gross Profit,Cost of Goods Sold,Labor,-813483565.3000003,-3737161511.0500035
-West,Operating Profit,Gross Profit,Cost of Goods Sold,Labor,-813483565.3000003,-3737161511.0500035
-Central,Operating Profit,Gross Profit,Cost of Goods Sold,Purchase Price Variance,58834.799999998824,-733285.379999998
-East,Operating Profit,Gross Profit,Cost of Goods Sold,Purchase Price Variance,58834.799999998824,-733285.379999998
-South,Operating Profit,Gross Profit,Cost of Goods Sold,Purchase Price Variance,58834.799999998824,-733285.379999998
-West,Operating Profit,Gross Profit,Cost of Goods Sold,Purchase Price Variance,58834.799999998824,-733285.379999998
-Central,Operating Profit,Gross Profit,Cost of Goods Sold,Other Direct Costs,-1792967.3399999994,-8213609.619999985
-East,Operating Profit,Gross Profit,Cost of Goods Sold,Other Direct Costs,-1792967.3399999994,-8213609.619999985
-South,Operating Profit,Gross Profit,Cost of Goods Sold,Other Direct Costs,-1792967.3399999994,-8213609.619999985
-West,Operating Profit,Gross Profit,Cost of Goods Sold,Other Direct Costs,-1792967.3399999994,-8213609.619999985
-Central,Operating Profit,Gross Profit,Cost of Goods Sold,Freight,-3777088.6300000027,-17895923.929999944
-East,Operating Profit,Gross Profit,Cost of Goods Sold,Freight,-3777088.6300000027,-17895923.929999944
-South,Operating Profit,Gross Profit,Cost of Goods Sold,Freight,-3777088.6300000027,-17895923.929999944
-West,Operating Profit,Gross Profit,Cost of Goods Sold,Freight,-3777088.6300000027,-17895923.929999944
-Central,Operating Profit,Gross Profit,Net Revenue,Gross Revenue,4479840280.4,21088343371.58
-East,Operating Profit,Gross Profit,Net Revenue,Gross Revenue,4479840280.4,21088343371.58
-South,Operating Profit,Gross Profit,Net Revenue,Gross Revenue,4479840280.4,21088343371.58
-West,Operating Profit,Gross Profit,Net Revenue,Gross Revenue,4479840280.4,21088343371.58
-Central,Operating Profit,Gross Profit,Net Revenue,Gross Revenue,-27036233.460000016,-134124795.4699998
-East,Operating Profit,Gross Profit,Net Revenue,Gross Revenue,-27036233.460000016,-134124795.4699998
-South,Operating Profit,Gross Profit,Net Revenue,Gross Revenue,-27036233.460000016,-134124795.4699998
-West,Operating Profit,Gross Profit,Net Revenue,Gross Revenue,-27036233.460000016,-134124795.4699998
-Central,Operating Profit,Gross Profit,Net Revenue,Discounts,-214156638.49999982,-1016768128.0199986
-East,Operating Profit,Gross Profit,Net Revenue,Discounts,-214156638.49999982,-1016768128.0199986
-South,Operating Profit,Gross Profit,Net Revenue,Discounts,-214156638.49999982,-1016768128.0199986
-West,Operating Profit,Gross Profit,Net Revenue,Discounts,-214156638.49999982,-1016768128.0199986
-Central,Operating Profit,Gross Profit,Net Revenue,Discounts,-53862675.19,-249753676.81999984
-East,Operating Profit,Gross Profit,Net Revenue,Discounts,-53862675.19,-249753676.81999984
-South,Operating Profit,Gross Profit,Net Revenue,Discounts,-53862675.19,-249753676.81999984
-West,Operating Profit,Gross Profit,Net Revenue,Discounts,-53862675.19,-249753676.81999984
-Central,Operating Profit,Gross Profit,Net Revenue,Discounts,-84482794.41000006,-386172009.61000156
-East,Operating Profit,Gross Profit,Net Revenue,Discounts,-84482794.41000006,-386172009.61000156
-South,Operating Profit,Gross Profit,Net Revenue,Discounts,-84482794.41000006,-386172009.61000156
-West,Operating Profit,Gross Profit,Net Revenue,Discounts,-84482794.41000006,-386172009.61000156
-Central,Operating Profit,Gross Profit,Net Revenue,Discounts,-22642310.229999986,-111725958.65999988
-East,Operating Profit,Gross Profit,Net Revenue,Discounts,-22642310.229999986,-111725958.65999988
-South,Operating Profit,Gross Profit,Net Revenue,Discounts,-22642310.229999986,-111725958.65999988
-West,Operating Profit,Gross Profit,Net Revenue,Discounts,-22642310.229999986,-111725958.65999988
-Central,Operating Profit,Operating Expenses,IT Expenses,Discounts,-99463028.82000001,-465589707.42999995
-East,Operating Profit,Operating Expenses,IT Expenses,Discounts,-99463028.82000001,-465589707.42999995
-South,Operating Profit,Operating Expenses,IT Expenses,Discounts,-99463028.82000001,-465589707.42999995
-West,Operating Profit,Operating Expenses,IT Expenses,Discounts,-99463028.82000001,-465589707.42999995
-Central,Operating Profit,Operating Expenses,Other Expenses,Discounts,-130273465.75000004,-622108540.7499994
-East,Operating Profit,Operating Expenses,Other Expenses,Discounts,-130273465.75000004,-622108540.7499994
-South,Operating Profit,Operating Expenses,Other Expenses,Discounts,-130273465.75000004,-622108540.7499994
-West,Operating Profit,Operating Expenses,Other Expenses,Discounts,-130273465.75000004,-622108540.7499994
-Central,Operating Profit,Operating Expenses,Personnel Costs,Salaries,-271063655.1399997,-1282619470.7799995
-East,Operating Profit,Operating Expenses,Personnel Costs,Salaries,-271063655.1399997,-1282619470.7799995
-South,Operating Profit,Operating Expenses,Personnel Costs,Salaries,-271063655.1399997,-1282619470.7799995
-West,Operating Profit,Operating Expenses,Personnel Costs,Salaries,-271063655.1399997,-1282619470.7799995
-Central,Operating Profit,Operating Expenses,Personnel Costs,Wages,-176571227.7099999,-780072822.5100003
-East,Operating Profit,Operating Expenses,Personnel Costs,Wages,-176571227.7099999,-780072822.5100003
-South,Operating Profit,Operating Expenses,Personnel Costs,Wages,-176571227.7099999,-780072822.5100003
-West,Operating Profit,Operating Expenses,Personnel Costs,Wages,-176571227.7099999,-780072822.5100003
-Central,Operating Profit,Operating Expenses,Personnel Costs,Bonus,-46923320.359999985,-220220293.53000027
-East,Operating Profit,Operating Expenses,Personnel Costs,Bonus,-46923320.359999985,-220220293.53000027
-South,Operating Profit,Operating Expenses,Personnel Costs,Bonus,-46923320.359999985,-220220293.53000027
-West,Operating Profit,Operating Expenses,Personnel Costs,Bonus,-46923320.359999985,-220220293.53000027
-Central,Operating Profit,Operating Expenses,Personnel Costs,Benefits,-18053915.08999999,-87793135.85999991
-East,Operating Profit,Operating Expenses,Personnel Costs,Benefits,-18053915.08999999,-87793135.85999991
-South,Operating Profit,Operating Expenses,Personnel Costs,Benefits,-18053915.08999999,-87793135.85999991
-West,Operating Profit,Operating Expenses,Personnel Costs,Benefits,-18053915.08999999,-87793135.85999991
-Central,Operating Profit,Operating Expenses,Personnel Costs,Training,-28763186.950000025,-138344308.22999975
-East,Operating Profit,Operating Expenses,Personnel Costs,Training,-28763186.950000025,-138344308.22999975
-South,Operating Profit,Operating Expenses,Personnel Costs,Training,-28763186.950000025,-138344308.22999975
-West,Operating Profit,Operating Expenses,Personnel Costs,Training,-28763186.950000025,-138344308.22999975
-Central,Operating Profit,Operating Expenses,Personnel Costs,Recruiting,-23878127.45,-115310177.35999991
-East,Operating Profit,Operating Expenses,Personnel Costs,Recruiting,-23878127.45,-115310177.35999991
-South,Operating Profit,Operating Expenses,Personnel Costs,Recruiting,-23878127.45,-115310177.35999991
-West,Operating Profit,Operating Expenses,Personnel Costs,Recruiting,-23878127.45,-115310177.35999991
-Central,Operating Profit,Operating Expenses,Personnel Costs,Equipment,-17936978.119999997,-86239511.90999974
-East,Operating Profit,Operating Expenses,Personnel Costs,Equipment,-17936978.119999997,-86239511.90999974
-South,Operating Profit,Operating Expenses,Personnel Costs,Equipment,-17936978.119999997,-86239511.90999974
-West,Operating Profit,Operating Expenses,Personnel Costs,Equipment,-17936978.119999997,-86239511.90999974
-Central,Operating Profit,Operating Expenses,Personnel Costs,Computer,-13983557.009999994,-66242514.20000002
-East,Operating Profit,Operating Expenses,Personnel Costs,Computer,-13983557.009999994,-66242514.20000002
-South,Operating Profit,Operating Expenses,Personnel Costs,Computer,-13983557.009999994,-66242514.20000002
-West,Operating Profit,Operating Expenses,Personnel Costs,Computer,-13983557.009999994,-66242514.20000002
-Central,Operating Profit,Operating Expenses,Personnel Costs,Tuition,-10956899.12,-51379553.96999999
-East,Operating Profit,Operating Expenses,Personnel Costs,Tuition,-10956899.12,-51379553.96999999
-South,Operating Profit,Operating Expenses,Personnel Costs,Tuition,-10956899.12,-51379553.96999999
-West,Operating Profit,Operating Expenses,Personnel Costs,Tuition,-10956899.12,-51379553.96999999
-Central,Operating Profit,Operating Expenses,Sales and Marketing,Marketing Expenses,-201794312.95000014,-952359709.7500005
-East,Operating Profit,Operating Expenses,Sales and Marketing,Marketing Expenses,-201794312.95000014,-952359709.7500005
-South,Operating Profit,Operating Expenses,Sales and Marketing,Marketing Expenses,-201794312.95000014,-952359709.7500005
-West,Operating Profit,Operating Expenses,Sales and Marketing,Marketing Expenses,-201794312.95000014,-952359709.7500005
-Central,Operating Profit,Operating Expenses,Sales and Marketing,Sales Expenses,-198070809.9399999,-833675689.1499995
-East,Operating Profit,Operating Expenses,Sales and Marketing,Sales Expenses,-198070809.9399999,-833675689.1499995
-South,Operating Profit,Operating Expenses,Sales and Marketing,Sales Expenses,-198070809.9399999,-833675689.1499995
-West,Operating Profit,Operating Expenses,Sales and Marketing,Sales Expenses,-198070809.9399999,-833675689.1499995
+Orders.Region,Accounts Master.Level 1 Description,Accounts Master.Level 0 Description,Accounts Master.Level 2 Description,Accounts Master.Level 3 Description,Values.US,Values.Actuals
+Central,Gross Profit,Operating Profit,Cost of Goods Sold,Raw Materials,-1326111983.9799986,-6398495015.029999
+East,Gross Profit,Operating Profit,Cost of Goods Sold,Raw Materials,-1326111983.9799986,-6398495015.029999
+South,Gross Profit,Operating Profit,Cost of Goods Sold,Raw Materials,-1326111983.9799986,-6398495015.029999
+West,Gross Profit,Operating Profit,Cost of Goods Sold,Raw Materials,-1326111983.9799986,-6398495015.029999
+Central,Operating Expenses,Operating Profit,Cost of Goods Sold,Raw Materials,,
+East,Operating Expenses,Operating Profit,Cost of Goods Sold,Raw Materials,,
+South,Operating Expenses,Operating Profit,Cost of Goods Sold,Raw Materials,,
+West,Operating Expenses,Operating Profit,Cost of Goods Sold,Raw Materials,,
+Central,Gross Profit,Operating Profit,Cost of Goods Sold,Labor,-813483565.3000003,-3737161511.0500035
+East,Gross Profit,Operating Profit,Cost of Goods Sold,Labor,-813483565.3000003,-3737161511.0500035
+South,Gross Profit,Operating Profit,Cost of Goods Sold,Labor,-813483565.3000003,-3737161511.0500035
+West,Gross Profit,Operating Profit,Cost of Goods Sold,Labor,-813483565.3000003,-3737161511.0500035
+Central,Operating Expenses,Operating Profit,Cost of Goods Sold,Labor,,
+East,Operating Expenses,Operating Profit,Cost of Goods Sold,Labor,,
+South,Operating Expenses,Operating Profit,Cost of Goods Sold,Labor,,
+West,Operating Expenses,Operating Profit,Cost of Goods Sold,Labor,,
+Central,Gross Profit,Operating Profit,Cost of Goods Sold,Purchase Price Variance,58834.799999998824,-733285.379999998
+East,Gross Profit,Operating Profit,Cost of Goods Sold,Purchase Price Variance,58834.799999998824,-733285.379999998
+South,Gross Profit,Operating Profit,Cost of Goods Sold,Purchase Price Variance,58834.799999998824,-733285.379999998
+West,Gross Profit,Operating Profit,Cost of Goods Sold,Purchase Price Variance,58834.799999998824,-733285.379999998
+Central,Operating Expenses,Operating Profit,Cost of Goods Sold,Purchase Price Variance,,
+East,Operating Expenses,Operating Profit,Cost of Goods Sold,Purchase Price Variance,,
+South,Operating Expenses,Operating Profit,Cost of Goods Sold,Purchase Price Variance,,
+West,Operating Expenses,Operating Profit,Cost of Goods Sold,Purchase Price Variance,,
+Central,Gross Profit,Operating Profit,Cost of Goods Sold,Other Direct Costs,-1792967.3399999994,-8213609.619999985
+East,Gross Profit,Operating Profit,Cost of Goods Sold,Other Direct Costs,-1792967.3399999994,-8213609.619999985
+South,Gross Profit,Operating Profit,Cost of Goods Sold,Other Direct Costs,-1792967.3399999994,-8213609.619999985
+West,Gross Profit,Operating Profit,Cost of Goods Sold,Other Direct Costs,-1792967.3399999994,-8213609.619999985
+Central,Operating Expenses,Operating Profit,Cost of Goods Sold,Other Direct Costs,,
+East,Operating Expenses,Operating Profit,Cost of Goods Sold,Other Direct Costs,,
+South,Operating Expenses,Operating Profit,Cost of Goods Sold,Other Direct Costs,,
+West,Operating Expenses,Operating Profit,Cost of Goods Sold,Other Direct Costs,,
+Central,Gross Profit,Operating Profit,Cost of Goods Sold,Freight,-3777088.6300000027,-17895923.929999944
+East,Gross Profit,Operating Profit,Cost of Goods Sold,Freight,-3777088.6300000027,-17895923.929999944
+South,Gross Profit,Operating Profit,Cost of Goods Sold,Freight,-3777088.6300000027,-17895923.929999944
+West,Gross Profit,Operating Profit,Cost of Goods Sold,Freight,-3777088.6300000027,-17895923.929999944
+Central,Operating Expenses,Operating Profit,Cost of Goods Sold,Freight,,
+East,Operating Expenses,Operating Profit,Cost of Goods Sold,Freight,,
+South,Operating Expenses,Operating Profit,Cost of Goods Sold,Freight,,
+West,Operating Expenses,Operating Profit,Cost of Goods Sold,Freight,,
+Central,Gross Profit,Operating Profit,IT Expenses,,,
+East,Gross Profit,Operating Profit,IT Expenses,,,
+South,Gross Profit,Operating Profit,IT Expenses,,,
+West,Gross Profit,Operating Profit,IT Expenses,,,
+Central,Operating Expenses,Operating Profit,IT Expenses,,-99463028.82000001,-465589707.42999995
+East,Operating Expenses,Operating Profit,IT Expenses,,-99463028.82000001,-465589707.42999995
+South,Operating Expenses,Operating Profit,IT Expenses,,-99463028.82000001,-465589707.42999995
+West,Operating Expenses,Operating Profit,IT Expenses,,-99463028.82000001,-465589707.42999995
+Central,Gross Profit,Operating Profit,Net Revenue,Gross Revenue,4479840280.4,21088343371.58
+East,Gross Profit,Operating Profit,Net Revenue,Gross Revenue,4479840280.4,21088343371.58
+South,Gross Profit,Operating Profit,Net Revenue,Gross Revenue,4479840280.4,21088343371.58
+West,Gross Profit,Operating Profit,Net Revenue,Gross Revenue,4479840280.4,21088343371.58
+Central,Operating Expenses,Operating Profit,Net Revenue,Gross Revenue,,
+East,Operating Expenses,Operating Profit,Net Revenue,Gross Revenue,,
+South,Operating Expenses,Operating Profit,Net Revenue,Gross Revenue,,
+West,Operating Expenses,Operating Profit,Net Revenue,Gross Revenue,,
+Central,Gross Profit,Operating Profit,Net Revenue,Gross Revenue,-27036233.460000016,-134124795.4699998
+East,Gross Profit,Operating Profit,Net Revenue,Gross Revenue,-27036233.460000016,-134124795.4699998
+South,Gross Profit,Operating Profit,Net Revenue,Gross Revenue,-27036233.460000016,-134124795.4699998
+West,Gross Profit,Operating Profit,Net Revenue,Gross Revenue,-27036233.460000016,-134124795.4699998
+Central,Operating Expenses,Operating Profit,Net Revenue,Gross Revenue,,
+East,Operating Expenses,Operating Profit,Net Revenue,Gross Revenue,,
+South,Operating Expenses,Operating Profit,Net Revenue,Gross Revenue,,
+West,Operating Expenses,Operating Profit,Net Revenue,Gross Revenue,,
+Central,Gross Profit,Operating Profit,Net Revenue,Discounts,-214156638.49999982,-1016768128.0199986
+East,Gross Profit,Operating Profit,Net Revenue,Discounts,-214156638.49999982,-1016768128.0199986
+South,Gross Profit,Operating Profit,Net Revenue,Discounts,-214156638.49999982,-1016768128.0199986
+West,Gross Profit,Operating Profit,Net Revenue,Discounts,-214156638.49999982,-1016768128.0199986
+Central,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+East,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+South,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+West,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+Central,Gross Profit,Operating Profit,Net Revenue,Discounts,-53862675.19,-249753676.81999984
+East,Gross Profit,Operating Profit,Net Revenue,Discounts,-53862675.19,-249753676.81999984
+South,Gross Profit,Operating Profit,Net Revenue,Discounts,-53862675.19,-249753676.81999984
+West,Gross Profit,Operating Profit,Net Revenue,Discounts,-53862675.19,-249753676.81999984
+Central,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+East,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+South,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+West,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+Central,Gross Profit,Operating Profit,Net Revenue,Discounts,-84482794.41000006,-386172009.61000156
+East,Gross Profit,Operating Profit,Net Revenue,Discounts,-84482794.41000006,-386172009.61000156
+South,Gross Profit,Operating Profit,Net Revenue,Discounts,-84482794.41000006,-386172009.61000156
+West,Gross Profit,Operating Profit,Net Revenue,Discounts,-84482794.41000006,-386172009.61000156
+Central,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+East,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+South,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+West,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+Central,Gross Profit,Operating Profit,Net Revenue,Discounts,-22642310.229999986,-111725958.65999988
+East,Gross Profit,Operating Profit,Net Revenue,Discounts,-22642310.229999986,-111725958.65999988
+South,Gross Profit,Operating Profit,Net Revenue,Discounts,-22642310.229999986,-111725958.65999988
+West,Gross Profit,Operating Profit,Net Revenue,Discounts,-22642310.229999986,-111725958.65999988
+Central,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+East,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+South,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+West,Operating Expenses,Operating Profit,Net Revenue,Discounts,,
+Central,Gross Profit,Operating Profit,Other Expenses,,,
+East,Gross Profit,Operating Profit,Other Expenses,,,
+South,Gross Profit,Operating Profit,Other Expenses,,,
+West,Gross Profit,Operating Profit,Other Expenses,,,
+Central,Operating Expenses,Operating Profit,Other Expenses,,-130273465.75000004,-622108540.7499994
+East,Operating Expenses,Operating Profit,Other Expenses,,-130273465.75000004,-622108540.7499994
+South,Operating Expenses,Operating Profit,Other Expenses,,-130273465.75000004,-622108540.7499994
+West,Operating Expenses,Operating Profit,Other Expenses,,-130273465.75000004,-622108540.7499994
+Central,Gross Profit,Operating Profit,Personnel Costs,Salaries,,
+East,Gross Profit,Operating Profit,Personnel Costs,Salaries,,
+South,Gross Profit,Operating Profit,Personnel Costs,Salaries,,
+West,Gross Profit,Operating Profit,Personnel Costs,Salaries,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Salaries,-271063655.1399997,-1282619470.7799995
+East,Operating Expenses,Operating Profit,Personnel Costs,Salaries,-271063655.1399997,-1282619470.7799995
+South,Operating Expenses,Operating Profit,Personnel Costs,Salaries,-271063655.1399997,-1282619470.7799995
+West,Operating Expenses,Operating Profit,Personnel Costs,Salaries,-271063655.1399997,-1282619470.7799995
+Central,Gross Profit,Operating Profit,Personnel Costs,Wages,,
+East,Gross Profit,Operating Profit,Personnel Costs,Wages,,
+South,Gross Profit,Operating Profit,Personnel Costs,Wages,,
+West,Gross Profit,Operating Profit,Personnel Costs,Wages,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Wages,-176571227.7099999,-780072822.5100003
+East,Operating Expenses,Operating Profit,Personnel Costs,Wages,-176571227.7099999,-780072822.5100003
+South,Operating Expenses,Operating Profit,Personnel Costs,Wages,-176571227.7099999,-780072822.5100003
+West,Operating Expenses,Operating Profit,Personnel Costs,Wages,-176571227.7099999,-780072822.5100003
+Central,Gross Profit,Operating Profit,Personnel Costs,Bonus,,
+East,Gross Profit,Operating Profit,Personnel Costs,Bonus,,
+South,Gross Profit,Operating Profit,Personnel Costs,Bonus,,
+West,Gross Profit,Operating Profit,Personnel Costs,Bonus,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Bonus,-46923320.359999985,-220220293.53000027
+East,Operating Expenses,Operating Profit,Personnel Costs,Bonus,-46923320.359999985,-220220293.53000027
+South,Operating Expenses,Operating Profit,Personnel Costs,Bonus,-46923320.359999985,-220220293.53000027
+West,Operating Expenses,Operating Profit,Personnel Costs,Bonus,-46923320.359999985,-220220293.53000027
+Central,Gross Profit,Operating Profit,Personnel Costs,Benefits,,
+East,Gross Profit,Operating Profit,Personnel Costs,Benefits,,
+South,Gross Profit,Operating Profit,Personnel Costs,Benefits,,
+West,Gross Profit,Operating Profit,Personnel Costs,Benefits,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Benefits,-18053915.08999999,-87793135.85999991
+East,Operating Expenses,Operating Profit,Personnel Costs,Benefits,-18053915.08999999,-87793135.85999991
+South,Operating Expenses,Operating Profit,Personnel Costs,Benefits,-18053915.08999999,-87793135.85999991
+West,Operating Expenses,Operating Profit,Personnel Costs,Benefits,-18053915.08999999,-87793135.85999991
+Central,Gross Profit,Operating Profit,Personnel Costs,Training,,
+East,Gross Profit,Operating Profit,Personnel Costs,Training,,
+South,Gross Profit,Operating Profit,Personnel Costs,Training,,
+West,Gross Profit,Operating Profit,Personnel Costs,Training,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Training,-28763186.950000025,-138344308.22999975
+East,Operating Expenses,Operating Profit,Personnel Costs,Training,-28763186.950000025,-138344308.22999975
+South,Operating Expenses,Operating Profit,Personnel Costs,Training,-28763186.950000025,-138344308.22999975
+West,Operating Expenses,Operating Profit,Personnel Costs,Training,-28763186.950000025,-138344308.22999975
+Central,Gross Profit,Operating Profit,Personnel Costs,Recruiting,,
+East,Gross Profit,Operating Profit,Personnel Costs,Recruiting,,
+South,Gross Profit,Operating Profit,Personnel Costs,Recruiting,,
+West,Gross Profit,Operating Profit,Personnel Costs,Recruiting,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Recruiting,-23878127.45,-115310177.35999991
+East,Operating Expenses,Operating Profit,Personnel Costs,Recruiting,-23878127.45,-115310177.35999991
+South,Operating Expenses,Operating Profit,Personnel Costs,Recruiting,-23878127.45,-115310177.35999991
+West,Operating Expenses,Operating Profit,Personnel Costs,Recruiting,-23878127.45,-115310177.35999991
+Central,Gross Profit,Operating Profit,Personnel Costs,Equipment,,
+East,Gross Profit,Operating Profit,Personnel Costs,Equipment,,
+South,Gross Profit,Operating Profit,Personnel Costs,Equipment,,
+West,Gross Profit,Operating Profit,Personnel Costs,Equipment,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Equipment,-17936978.119999997,-86239511.90999974
+East,Operating Expenses,Operating Profit,Personnel Costs,Equipment,-17936978.119999997,-86239511.90999974
+South,Operating Expenses,Operating Profit,Personnel Costs,Equipment,-17936978.119999997,-86239511.90999974
+West,Operating Expenses,Operating Profit,Personnel Costs,Equipment,-17936978.119999997,-86239511.90999974
+Central,Gross Profit,Operating Profit,Personnel Costs,Computer,,
+East,Gross Profit,Operating Profit,Personnel Costs,Computer,,
+South,Gross Profit,Operating Profit,Personnel Costs,Computer,,
+West,Gross Profit,Operating Profit,Personnel Costs,Computer,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Computer,-13983557.009999994,-66242514.20000002
+East,Operating Expenses,Operating Profit,Personnel Costs,Computer,-13983557.009999994,-66242514.20000002
+South,Operating Expenses,Operating Profit,Personnel Costs,Computer,-13983557.009999994,-66242514.20000002
+West,Operating Expenses,Operating Profit,Personnel Costs,Computer,-13983557.009999994,-66242514.20000002
+Central,Gross Profit,Operating Profit,Personnel Costs,Tuition,,
+East,Gross Profit,Operating Profit,Personnel Costs,Tuition,,
+South,Gross Profit,Operating Profit,Personnel Costs,Tuition,,
+West,Gross Profit,Operating Profit,Personnel Costs,Tuition,,
+Central,Operating Expenses,Operating Profit,Personnel Costs,Tuition,-10956899.12,-51379553.96999999
+East,Operating Expenses,Operating Profit,Personnel Costs,Tuition,-10956899.12,-51379553.96999999
+South,Operating Expenses,Operating Profit,Personnel Costs,Tuition,-10956899.12,-51379553.96999999
+West,Operating Expenses,Operating Profit,Personnel Costs,Tuition,-10956899.12,-51379553.96999999
+Central,Gross Profit,Operating Profit,Sales and Marketing,Marketing Expenses,,
+East,Gross Profit,Operating Profit,Sales and Marketing,Marketing Expenses,,
+South,Gross Profit,Operating Profit,Sales and Marketing,Marketing Expenses,,
+West,Gross Profit,Operating Profit,Sales and Marketing,Marketing Expenses,,
+Central,Operating Expenses,Operating Profit,Sales and Marketing,Marketing Expenses,-201794312.95000014,-952359709.7500005
+East,Operating Expenses,Operating Profit,Sales and Marketing,Marketing Expenses,-201794312.95000014,-952359709.7500005
+South,Operating Expenses,Operating Profit,Sales and Marketing,Marketing Expenses,-201794312.95000014,-952359709.7500005
+West,Operating Expenses,Operating Profit,Sales and Marketing,Marketing Expenses,-201794312.95000014,-952359709.7500005
+Central,Gross Profit,Operating Profit,Sales and Marketing,Sales Expenses,,
+East,Gross Profit,Operating Profit,Sales and Marketing,Sales Expenses,,
+South,Gross Profit,Operating Profit,Sales and Marketing,Sales Expenses,,
+West,Gross Profit,Operating Profit,Sales and Marketing,Sales Expenses,,
+Central,Operating Expenses,Operating Profit,Sales and Marketing,Sales Expenses,-198070809.9399999,-833675689.1499995
+East,Operating Expenses,Operating Profit,Sales and Marketing,Sales Expenses,-198070809.9399999,-833675689.1499995
+South,Operating Expenses,Operating Profit,Sales and Marketing,Sales Expenses,-198070809.9399999,-833675689.1499995
+West,Operating Expenses,Operating Profit,Sales and Marketing,Sales Expenses,-198070809.9399999,-833675689.1499995
