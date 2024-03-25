@@ -1,379 +1,205 @@
-Region,Country,Year,Value Column Name,Value
-"Americas","USA","2017","PY","293000"
-"Americas","USA","2017","PL","350000"
-"Americas","USA","2017","AC","359000"
-"Americas","USA","2017","AC - PY","66000"
-"Americas","USA","2017","(AC - PY)%","0.22525597269624573"
-"Americas","USA","2017","AC - PL","9000"
-"Americas","USA","2017","(AC - PL)%","0.02571428571428571"
-"Americas","USA","2017","PL - PY","57000"
-"Americas","USA","2017","(PL - PY)%","0.19453924914675766"
-"Americas","USA","2018","PY","341000"
-"Americas","USA","2018","PL","133000"
-"Americas","USA","2018","AC","275000"
-"Americas","USA","2018","AC - PY","-66000"
-"Americas","USA","2018","(AC - PY)%","-0.1935483870967742"
-"Americas","USA","2018","AC - PL","142000"
-"Americas","USA","2018","(AC - PL)%","1.0676691729323309"
-"Americas","USA","2018","PL - PY","-208000"
-"Americas","USA","2018","(PL - PY)%","-0.6099706744868035"
-"Americas","USA","2019","PY","286000"
-"Americas","USA","2019","PL","259000"
-"Americas","USA","2019","AC","321000"
-"Americas","USA","2019","AC - PY","35000"
-"Americas","USA","2019","(AC - PY)%","0.12237762237762238"
-"Americas","USA","2019","AC - PL","62000"
-"Americas","USA","2019","(AC - PL)%","0.23938223938223938"
-"Americas","USA","2019","PL - PY","-27000"
-"Americas","USA","2019","(PL - PY)%","-0.0944055944055944"
-"Americas","Brazil","2017","PY","297000"
-"Americas","Brazil","2017","PL","381000"
-"Americas","Brazil","2017","AC","233000"
-"Americas","Brazil","2017","AC - PY","-64000"
-"Americas","Brazil","2017","(AC - PY)%","-0.21548821548821548"
-"Americas","Brazil","2017","AC - PL","-148000"
-"Americas","Brazil","2017","(AC - PL)%","-0.3884514435695538"
-"Americas","Brazil","2017","PL - PY","84000"
-"Americas","Brazil","2017","(PL - PY)%","0.2828282828282828"
-"Americas","Brazil","2018","PY","-44000"
-"Americas","Brazil","2018","PL","273000"
-"Americas","Brazil","2018","AC","280000"
-"Americas","Brazil","2018","AC - PY","324000"
-"Americas","Brazil","2018","(AC - PY)%","7.363636363636363"
-"Americas","Brazil","2018","AC - PL","7000"
-"Americas","Brazil","2018","(AC - PL)%","0.02564102564102564"
-"Americas","Brazil","2018","PL - PY","317000"
-"Americas","Brazil","2018","(PL - PY)%","7.204545454545454"
-"Americas","Brazil","2019","PY","238000"
-"Americas","Brazil","2019","PL","309000"
-"Americas","Brazil","2019","AC","367000"
-"Americas","Brazil","2019","AC - PY","129000"
-"Americas","Brazil","2019","(AC - PY)%","0.542016806722689"
-"Americas","Brazil","2019","AC - PL","58000"
-"Americas","Brazil","2019","(AC - PL)%","0.18770226537216828"
-"Americas","Brazil","2019","PL - PY","71000"
-"Americas","Brazil","2019","(PL - PY)%","0.29831932773109243"
-"Americas","Canada","2017","PY","208000"
-"Americas","Canada","2017","PL","249000"
-"Americas","Canada","2017","AC","239000"
-"Americas","Canada","2017","AC - PY","31000"
-"Americas","Canada","2017","(AC - PY)%","0.14903846153846154"
-"Americas","Canada","2017","AC - PL","-10000"
-"Americas","Canada","2017","(AC - PL)%","-0.040160642570281124"
-"Americas","Canada","2017","PL - PY","41000"
-"Americas","Canada","2017","(PL - PY)%","0.1971153846153846"
-"Americas","Canada","2018","PY","-18000"
-"Americas","Canada","2018","PL","166000"
-"Americas","Canada","2018","AC","279000"
-"Americas","Canada","2018","AC - PY","297000"
-"Americas","Canada","2018","(AC - PY)%","16.5"
-"Americas","Canada","2018","AC - PL","113000"
-"Americas","Canada","2018","(AC - PL)%","0.6807228915662651"
-"Americas","Canada","2018","PL - PY","184000"
-"Americas","Canada","2018","(PL - PY)%","10.222222222222221"
-"Americas","Canada","2019","PY","232000"
-"Americas","Canada","2019","PL","229000"
-"Americas","Canada","2019","AC","236000"
-"Americas","Canada","2019","AC - PY","4000"
-"Americas","Canada","2019","(AC - PY)%","0.017241379310344827"
-"Americas","Canada","2019","AC - PL","7000"
-"Americas","Canada","2019","(AC - PL)%","0.030567685589519653"
-"Americas","Canada","2019","PL - PY","-3000"
-"Americas","Canada","2019","(PL - PY)%","-0.01293103448275862"
-"Americas","Other","2017","PY","111000"
-"Americas","Other","2017","PL","38000"
-"Americas","Other","2017","AC","97000"
-"Americas","Other","2017","AC - PY","-14000"
-"Americas","Other","2017","(AC - PY)%","-0.12612612612612611"
-"Americas","Other","2017","AC - PL","59000"
-"Americas","Other","2017","(AC - PL)%","1.5526315789473686"
-"Americas","Other","2017","PL - PY","-73000"
-"Americas","Other","2017","(PL - PY)%","-0.6576576576576578"
-"Americas","Other","2018","PY","93000"
-"Americas","Other","2018","PL",
-"Americas","Other","2018","AC","67000"
-"Americas","Other","2018","AC - PY","-26000"
-"Americas","Other","2018","(AC - PY)%","-0.27956989247311825"
-"Americas","Other","2018","AC - PL","67000"
-"Americas","Other","2018","(AC - PL)%",
-"Americas","Other","2018","PL - PY","-93000"
-"Americas","Other","2018","(PL - PY)%","-1"
-"Americas","Other","2019","PY","85000"
-"Americas","Other","2019","PL","37000"
-"Americas","Other","2019","AC","125000"
-"Americas","Other","2019","AC - PY","40000"
-"Americas","Other","2019","(AC - PY)%","0.4705882352941176"
-"Americas","Other","2019","AC - PL","88000"
-"Americas","Other","2019","(AC - PL)%","2.3783783783783785"
-"Americas","Other","2019","PL - PY","-48000"
-"Americas","Other","2019","(PL - PY)%","-0.5647058823529412"
-"Europe","Poland","2017","PY","0"
-"Europe","Poland","2017","PL","172000"
-"Europe","Poland","2017","AC","103000"
-"Europe","Poland","2017","AC - PY","103000"
-"Europe","Poland","2017","(AC - PY)%",
-"Europe","Poland","2017","AC - PL","-69000"
-"Europe","Poland","2017","(AC - PL)%","-0.40116279069767447"
-"Europe","Poland","2017","PL - PY","172000"
-"Europe","Poland","2017","(PL - PY)%",
-"Europe","Poland","2018","PY","182000"
-"Europe","Poland","2018","PL","173000"
-"Europe","Poland","2018","AC","180000"
-"Europe","Poland","2018","AC - PY","-2000"
-"Europe","Poland","2018","(AC - PY)%","-0.01098901098901099"
-"Europe","Poland","2018","AC - PL","7000"
-"Europe","Poland","2018","(AC - PL)%","0.04046242774566475"
-"Europe","Poland","2018","PL - PY","-9000"
-"Europe","Poland","2018","(PL - PY)%","-0.049450549450549455"
-"Europe","Poland","2019","PY","272000"
-"Europe","Poland","2019","PL","173000"
-"Europe","Poland","2019","AC","239000"
-"Europe","Poland","2019","AC - PY","-33000"
-"Europe","Poland","2019","(AC - PY)%","-0.1213235294117647"
-"Europe","Poland","2019","AC - PL","66000"
-"Europe","Poland","2019","(AC - PL)%","0.3815028901734104"
-"Europe","Poland","2019","PL - PY","-99000"
-"Europe","Poland","2019","(PL - PY)%","-0.36397058823529416"
-"Europe","Sweden","2017","PY","276000"
-"Europe","Sweden","2017","PL","405000"
-"Europe","Sweden","2017","AC","176000"
-"Europe","Sweden","2017","AC - PY","-100000"
-"Europe","Sweden","2017","(AC - PY)%","-0.36231884057971014"
-"Europe","Sweden","2017","AC - PL","-229000"
-"Europe","Sweden","2017","(AC - PL)%","-0.5654320987654321"
-"Europe","Sweden","2017","PL - PY","129000"
-"Europe","Sweden","2017","(PL - PY)%","0.4673913043478261"
-"Europe","Sweden","2018","PY","345000"
-"Europe","Sweden","2018","PL","247000"
-"Europe","Sweden","2018","AC",
-"Europe","Sweden","2018","AC - PY","-345000"
-"Europe","Sweden","2018","(AC - PY)%","-1"
-"Europe","Sweden","2018","AC - PL","-247000"
-"Europe","Sweden","2018","(AC - PL)%","-1"
-"Europe","Sweden","2018","PL - PY","-98000"
-"Europe","Sweden","2018","(PL - PY)%","-0.28405797101449276"
-"Europe","Sweden","2019","PY","319000"
-"Europe","Sweden","2019","PL","246000"
-"Europe","Sweden","2019","AC","340000"
-"Europe","Sweden","2019","AC - PY","21000"
-"Europe","Sweden","2019","(AC - PY)%","0.06583072100313479"
-"Europe","Sweden","2019","AC - PL","94000"
-"Europe","Sweden","2019","(AC - PL)%","0.38211382113821135"
-"Europe","Sweden","2019","PL - PY","-73000"
-"Europe","Sweden","2019","(PL - PY)%","-0.22884012539184956"
-"Europe","Belgium","2017","PY","118000"
-"Europe","Belgium","2017","PL","192000"
-"Europe","Belgium","2017","AC","88000"
-"Europe","Belgium","2017","AC - PY","-30000"
-"Europe","Belgium","2017","(AC - PY)%","-0.2542372881355932"
-"Europe","Belgium","2017","AC - PL","-104000"
-"Europe","Belgium","2017","(AC - PL)%","-0.5416666666666666"
-"Europe","Belgium","2017","PL - PY","74000"
-"Europe","Belgium","2017","(PL - PY)%","0.6271186440677966"
-"Europe","Belgium","2018","PY","173000"
-"Europe","Belgium","2018","PL","235000"
-"Europe","Belgium","2018","AC","198000"
-"Europe","Belgium","2018","AC - PY","25000"
-"Europe","Belgium","2018","(AC - PY)%","0.14450867052023122"
-"Europe","Belgium","2018","AC - PL","-37000"
-"Europe","Belgium","2018","(AC - PL)%","-0.1574468085106383"
-"Europe","Belgium","2018","PL - PY","62000"
-"Europe","Belgium","2018","(PL - PY)%","0.3583815028901734"
-"Europe","Belgium","2019","PY","240000"
-"Europe","Belgium","2019","PL","113000"
-"Europe","Belgium","2019","AC","227000"
-"Europe","Belgium","2019","AC - PY","-13000"
-"Europe","Belgium","2019","(AC - PY)%","-0.05416666666666667"
-"Europe","Belgium","2019","AC - PL","114000"
-"Europe","Belgium","2019","(AC - PL)%","1.008849557522124"
-"Europe","Belgium","2019","PL - PY","-127000"
-"Europe","Belgium","2019","(PL - PY)%","-0.5291666666666667"
-"Europe","Germany","2017","PY","0"
-"Europe","Germany","2017","PL","260000"
-"Europe","Germany","2017","AC","107000"
-"Europe","Germany","2017","AC - PY","107000"
-"Europe","Germany","2017","(AC - PY)%",
-"Europe","Germany","2017","AC - PL","-153000"
-"Europe","Germany","2017","(AC - PL)%","-0.5884615384615385"
-"Europe","Germany","2017","PL - PY","260000"
-"Europe","Germany","2017","(PL - PY)%",
-"Europe","Germany","2018","PY","100000"
-"Europe","Germany","2018","PL","126000"
-"Europe","Germany","2018","AC","91000"
-"Europe","Germany","2018","AC - PY","-9000"
-"Europe","Germany","2018","(AC - PY)%","-0.09"
-"Europe","Germany","2018","AC - PL","-35000"
-"Europe","Germany","2018","(AC - PL)%","-0.2777777777777778"
-"Europe","Germany","2018","PL - PY","26000"
-"Europe","Germany","2018","(PL - PY)%","0.26"
-"Europe","Germany","2019","PY","190000"
-"Europe","Germany","2019","PL","232000"
-"Europe","Germany","2019","AC","219000"
-"Europe","Germany","2019","AC - PY","29000"
-"Europe","Germany","2019","(AC - PY)%","0.15263157894736842"
-"Europe","Germany","2019","AC - PL","-13000"
-"Europe","Germany","2019","(AC - PL)%","-0.05603448275862069"
-"Europe","Germany","2019","PL - PY","42000"
-"Europe","Germany","2019","(PL - PY)%","0.22105263157894736"
-"Europe","France","2017","PY","196000"
-"Europe","France","2017","PL","199000"
-"Europe","France","2017","AC","118000"
-"Europe","France","2017","AC - PY","-78000"
-"Europe","France","2017","(AC - PY)%","-0.39795918367346933"
-"Europe","France","2017","AC - PL","-81000"
-"Europe","France","2017","(AC - PL)%","-0.407035175879397"
-"Europe","France","2017","PL - PY","3000"
-"Europe","France","2017","(PL - PY)%","0.015306122448979591"
-"Europe","France","2018","PY","0"
-"Europe","France","2018","PL","0"
-"Europe","France","2018","AC","0"
-"Europe","France","2018","AC - PY","0"
-"Europe","France","2018","(AC - PY)%",
-"Europe","France","2018","AC - PL","0"
-"Europe","France","2018","(AC - PL)%",
-"Europe","France","2018","PL - PY","0"
-"Europe","France","2018","(PL - PY)%",
-"Europe","France","2019","PY","152000"
-"Europe","France","2019","PL","158000"
-"Europe","France","2019","AC","175000"
-"Europe","France","2019","AC - PY","23000"
-"Europe","France","2019","(AC - PY)%","0.1513157894736842"
-"Europe","France","2019","AC - PL","17000"
-"Europe","France","2019","(AC - PL)%","0.10759493670886076"
-"Europe","France","2019","PL - PY","6000"
-"Europe","France","2019","(PL - PY)%","0.039473684210526314"
-"Europe","Other","2017","PY","77000"
-"Europe","Other","2017","PL","64000"
-"Europe","Other","2017","AC","142000"
-"Europe","Other","2017","AC - PY","65000"
-"Europe","Other","2017","(AC - PY)%","0.8441558441558441"
-"Europe","Other","2017","AC - PL","78000"
-"Europe","Other","2017","(AC - PL)%","1.21875"
-"Europe","Other","2017","PL - PY","-13000"
-"Europe","Other","2017","(PL - PY)%","-0.16883116883116883"
-"Europe","Other","2018","PY","0"
-"Europe","Other","2018","PL","131000"
-"Europe","Other","2018","AC","41000"
-"Europe","Other","2018","AC - PY","41000"
-"Europe","Other","2018","(AC - PY)%",
-"Europe","Other","2018","AC - PL","-90000"
-"Europe","Other","2018","(AC - PL)%","-0.6870229007633588"
-"Europe","Other","2018","PL - PY","131000"
-"Europe","Other","2018","(PL - PY)%",
-"Europe","Other","2019","PY","50000"
-"Europe","Other","2019","PL","45000"
-"Europe","Other","2019","AC","83000"
-"Europe","Other","2019","AC - PY","33000"
-"Europe","Other","2019","(AC - PY)%","0.66"
-"Europe","Other","2019","AC - PL","38000"
-"Europe","Other","2019","(AC - PL)%","0.8444444444444444"
-"Europe","Other","2019","PL - PY","-5000"
-"Europe","Other","2019","(PL - PY)%","-0.1"
-"Asia-Pacific","Australia","2017","PY","329000"
-"Asia-Pacific","Australia","2017","PL","282000"
-"Asia-Pacific","Australia","2017","AC","304000"
-"Asia-Pacific","Australia","2017","AC - PY","-25000"
-"Asia-Pacific","Australia","2017","(AC - PY)%","-0.07598784194528875"
-"Asia-Pacific","Australia","2017","AC - PL","22000"
-"Asia-Pacific","Australia","2017","(AC - PL)%","0.07801418439716312"
-"Asia-Pacific","Australia","2017","PL - PY","-47000"
-"Asia-Pacific","Australia","2017","(PL - PY)%","-0.14285714285714285"
-"Asia-Pacific","Australia","2018","PY","180000"
-"Asia-Pacific","Australia","2018","PL","310000"
-"Asia-Pacific","Australia","2018","AC","335000"
-"Asia-Pacific","Australia","2018","AC - PY","155000"
-"Asia-Pacific","Australia","2018","(AC - PY)%","0.8611111111111112"
-"Asia-Pacific","Australia","2018","AC - PL","25000"
-"Asia-Pacific","Australia","2018","(AC - PL)%","0.08064516129032258"
-"Asia-Pacific","Australia","2018","PL - PY","130000"
-"Asia-Pacific","Australia","2018","(PL - PY)%","0.7222222222222221"
-"Asia-Pacific","Australia","2019","PY","217000"
-"Asia-Pacific","Australia","2019","PL","139000"
-"Asia-Pacific","Australia","2019","AC","80000"
-"Asia-Pacific","Australia","2019","AC - PY","-137000"
-"Asia-Pacific","Australia","2019","(AC - PY)%","-0.631336405529954"
-"Asia-Pacific","Australia","2019","AC - PL","-59000"
-"Asia-Pacific","Australia","2019","(AC - PL)%","-0.4244604316546763"
-"Asia-Pacific","Australia","2019","PL - PY","-78000"
-"Asia-Pacific","Australia","2019","(PL - PY)%","-0.35944700460829493"
-"Asia-Pacific","Japan","2017","PY","264000"
-"Asia-Pacific","Japan","2017","PL","232000"
-"Asia-Pacific","Japan","2017","AC","206000"
-"Asia-Pacific","Japan","2017","AC - PY","-58000"
-"Asia-Pacific","Japan","2017","(AC - PY)%","-0.2196969696969697"
-"Asia-Pacific","Japan","2017","AC - PL","-26000"
-"Asia-Pacific","Japan","2017","(AC - PL)%","-0.11206896551724138"
-"Asia-Pacific","Japan","2017","PL - PY","-32000"
-"Asia-Pacific","Japan","2017","(PL - PY)%","-0.12121212121212122"
-"Asia-Pacific","Japan","2018","PY","187000"
-"Asia-Pacific","Japan","2018","PL","265000"
-"Asia-Pacific","Japan","2018","AC","249000"
-"Asia-Pacific","Japan","2018","AC - PY","62000"
-"Asia-Pacific","Japan","2018","(AC - PY)%","0.3315508021390374"
-"Asia-Pacific","Japan","2018","AC - PL","-16000"
-"Asia-Pacific","Japan","2018","(AC - PL)%","-0.060377358490566045"
-"Asia-Pacific","Japan","2018","PL - PY","78000"
-"Asia-Pacific","Japan","2018","(PL - PY)%","0.41711229946524064"
-"Asia-Pacific","Japan","2019","PY","279000"
-"Asia-Pacific","Japan","2019","PL","300000"
-"Asia-Pacific","Japan","2019","AC","229000"
-"Asia-Pacific","Japan","2019","AC - PY","-50000"
-"Asia-Pacific","Japan","2019","(AC - PY)%","-0.17921146953405018"
-"Asia-Pacific","Japan","2019","AC - PL","-71000"
-"Asia-Pacific","Japan","2019","(AC - PL)%","-0.2366666666666667"
-"Asia-Pacific","Japan","2019","PL - PY","21000"
-"Asia-Pacific","Japan","2019","(PL - PY)%","0.07526881720430108"
-"Asia-Pacific","China","2017","PY","308000"
-"Asia-Pacific","China","2017","PL","294000"
-"Asia-Pacific","China","2017","AC","244000"
-"Asia-Pacific","China","2017","AC - PY","-64000"
-"Asia-Pacific","China","2017","(AC - PY)%","-0.20779220779220778"
-"Asia-Pacific","China","2017","AC - PL","-50000"
-"Asia-Pacific","China","2017","(AC - PL)%","-0.17006802721088435"
-"Asia-Pacific","China","2017","PL - PY","-14000"
-"Asia-Pacific","China","2017","(PL - PY)%","-0.045454545454545456"
-"Asia-Pacific","China","2018","PY","318000"
-"Asia-Pacific","China","2018","PL","237000"
-"Asia-Pacific","China","2018","AC","287000"
-"Asia-Pacific","China","2018","AC - PY","-31000"
-"Asia-Pacific","China","2018","(AC - PY)%","-0.09748427672955975"
-"Asia-Pacific","China","2018","AC - PL","50000"
-"Asia-Pacific","China","2018","(AC - PL)%","0.2109704641350211"
-"Asia-Pacific","China","2018","PL - PY","-81000"
-"Asia-Pacific","China","2018","(PL - PY)%","-0.25471698113207547"
-"Asia-Pacific","China","2019","PY","321000"
-"Asia-Pacific","China","2019","PL","295000"
-"Asia-Pacific","China","2019","AC","145000"
-"Asia-Pacific","China","2019","AC - PY","-176000"
-"Asia-Pacific","China","2019","(AC - PY)%","-0.5482866043613707"
-"Asia-Pacific","China","2019","AC - PL","-150000"
-"Asia-Pacific","China","2019","(AC - PL)%","-0.5084745762711864"
-"Asia-Pacific","China","2019","PL - PY","-26000"
-"Asia-Pacific","China","2019","(PL - PY)%","-0.08099688473520249"
-"Asia-Pacific","Other","2017","PY","134000"
-"Asia-Pacific","Other","2017","PL","111000"
-"Asia-Pacific","Other","2017","AC","50000"
-"Asia-Pacific","Other","2017","AC - PY","-84000"
-"Asia-Pacific","Other","2017","(AC - PY)%","-0.6268656716417911"
-"Asia-Pacific","Other","2017","AC - PL","-61000"
-"Asia-Pacific","Other","2017","(AC - PL)%","-0.5495495495495496"
-"Asia-Pacific","Other","2017","PL - PY","-23000"
-"Asia-Pacific","Other","2017","(PL - PY)%","-0.17164179104477612"
-"Asia-Pacific","Other","2018","PY","78000"
-"Asia-Pacific","Other","2018","PL","52000"
-"Asia-Pacific","Other","2018","AC","78000"
-"Asia-Pacific","Other","2018","AC - PY","0"
-"Asia-Pacific","Other","2018","(AC - PY)%","0"
-"Asia-Pacific","Other","2018","AC - PL","26000"
-"Asia-Pacific","Other","2018","(AC - PL)%","0.5"
-"Asia-Pacific","Other","2018","PL - PY","-26000"
-"Asia-Pacific","Other","2018","(PL - PY)%","-0.33333333333333326"
-"Asia-Pacific","Other","2019","PY","66000"
-"Asia-Pacific","Other","2019","PL","41000"
-"Asia-Pacific","Other","2019","AC","69000"
-"Asia-Pacific","Other","2019","AC - PY","3000"
-"Asia-Pacific","Other","2019","(AC - PY)%","0.045454545454545456"
-"Asia-Pacific","Other","2019","AC - PL","28000"
-"Asia-Pacific","Other","2019","(AC - PL)%","0.6829268292682927"
-"Asia-Pacific","Other","2019","PL - PY","-25000"
-"Asia-Pacific","Other","2019","(PL - PY)%","-0.37878787878787873"
+Superstore 2023.Segment,Superstore 2023.Region,Superstore 2023.Category,Superstore 2023.Sub-Category,Superstore 2023.ProfitM,Sum(Superstore 2023.Sales)
+Consumer,Central,Technology,Phones,6416.0196,37108.786
+Corporate,Central,Technology,Phones,2391.2797,17180.796
+Home Office,Central,Technology,Phones,3515.7274,18113.7
+Consumer,East,Technology,Phones,7328.2536,51512.038
+Corporate,East,Technology,Phones,3129.6183,29865.618
+Home Office,East,Technology,Phones,1856.8141,19237.326
+Consumer,South,Technology,Phones,5623.9118,30846.204
+Corporate,South,Technology,Phones,3680.212,19274.232
+Home Office,South,Technology,Phones,1463.1515,8184.002
+Consumer,West,Technology,Phones,4468.9297,50465.736
+Corporate,West,Technology,Phones,2565.1096,24832.768
+Home Office,West,Technology,Phones,2076.7033,23385.848
+Consumer,Central,Technology,Machines,-1667.028,11999.762
+Corporate,Central,Technology,Machines,-361.5044,11716.734
+Home Office,Central,Technology,Machines,542.4658,3080.888
+Consumer,East,Technology,Machines,-1296.085,30668.429
+Corporate,East,Technology,Machines,2624.6023,23892.036
+Home Office,East,Technology,Machines,5600.1256,11545.7
+Consumer,South,Technology,Machines,2910.5588,18338.55
+Corporate,South,Technology,Machines,-2520.1179,12001.155
+Home Office,South,Technology,Machines,-1829.3339,23551.255
+Consumer,West,Technology,Machines,2193.616,18536.084
+Corporate,West,Technology,Machines,960.039,12666.83
+Home Office,West,Technology,Machines,-3772.5814,11241.208
+Consumer,Central,Technology,Accessories,3743.3859,19062.304
+Corporate,Central,Technology,Accessories,1462.9337,6195.238
+Home Office,Central,Technology,Accessories,2045.311,8698.534
+Consumer,East,Technology,Accessories,5240.0783,22861.056
+Corporate,East,Technology,Accessories,2933.5911,11747.998
+Home Office,East,Technology,Accessories,3022.195,10424.318
+Consumer,South,Technology,Accessories,2788.3072,11651.564
+Corporate,South,Technology,Accessories,3085.4777,10175.456
+Home Office,South,Technology,Accessories,1130.7575,5449.734
+Consumer,West,Technology,Accessories,8964.1511,33530.314
+Corporate,West,Technology,Accessories,5225.478,20071.872
+Home Office,West,Technology,Accessories,2294.9692,7511.93
+Consumer,Central,Technology,Copiers,1482.9616,4519.884
+Corporate,Central,Technology,Copiers,12789.9043,29679.742
+Home Office,Central,Technology,Copiers,1335.9754,3059.944
+Consumer,East,Technology,Copiers,8657.9325,30399.706
+Corporate,East,Technology,Copiers,1134.9765,4219.914
+Home Office,East,Technology,Copiers,7229.9328,18599.842
+Consumer,South,Technology,Copiers,1783.9452,4439.868
+Corporate,South,Technology,Copiers,1874.9615,4859.888
+Home Office,South,Technology,Copiers,,
+Consumer,West,Technology,Copiers,12158.8713,30459.612
+Corporate,West,Technology,Copiers,3190.4366,8069.842
+Home Office,West,Technology,Copiers,3977.9272,11219.788
+Consumer,Central,Furniture,Chairs,2920.9013,42933.375
+Corporate,Central,Furniture,Chairs,3206.8837,27989.552
+Home Office,Central,Furniture,Chairs,464.9371,14307.719
+Consumer,East,Furniture,Chairs,4917.3952,59645.133
+Corporate,East,Furniture,Chairs,2720.5878,23505.23
+Home Office,East,Furniture,Chairs,1719.7876,13110.32
+Consumer,South,Furniture,Chairs,4017.0347,26804.226
+Corporate,South,Furniture,Chairs,1183.9545,11366.872
+Home Office,South,Furniture,Chairs,1411.1001,7005.348
+Consumer,West,Furniture,Chairs,1380.0007,43480.008
+Corporate,West,Furniture,Chairs,1233.2305,36279.224
+Home Office,West,Furniture,Chairs,1414.3531,22022.096
+Consumer,Central,Furniture,Tables,-3964.1571,20835
+Corporate,Central,Furniture,Tables,707.1806,12562.593
+Home Office,Central,Furniture,Tables,-302.6739,5757.378
+Consumer,East,Furniture,Tables,-3708.3528,14082.467
+Corporate,East,Furniture,Tables,-5299.6557,17551.558
+Home Office,East,Furniture,Tables,-2017.3716,7505.782
+Consumer,South,Furniture,Tables,-2577.4996,24408.842
+Corporate,South,Furniture,Tables,-1388.2239,12619.6755
+Home Office,South,Furniture,Tables,-657.3344,6887.6745
+Consumer,West,Furniture,Tables,521.9717,40607.486
+Corporate,West,Furniture,Tables,1074.2004,28137.891
+Home Office,West,Furniture,Tables,-113.5648,16009.185
+Consumer,Central,Furniture,Bookcases,-1497.126,12960.854
+Corporate,Central,Furniture,Bookcases,-382.7121,8389.5008
+Home Office,Central,Furniture,Bookcases,-118.0662,2806.822
+Consumer,East,Furniture,Bookcases,-2192.0672,27307.134
+Corporate,East,Furniture,Bookcases,964.963,13168.932
+Home Office,East,Furniture,Bookcases,59.4724,3343.268
+Consumer,South,Furniture,Bookcases,1220.012,8716.562
+Corporate,South,Furniture,Bookcases,68.3666,1153.804
+Home Office,South,Furniture,Bookcases,51.1132,1028.996
+Consumer,West,Furniture,Bookcases,-1966.457,19648.179
+Corporate,West,Furniture,Bookcases,-12.1673,11293.6875
+Home Office,West,Furniture,Bookcases,332.1126,5062.257
+Consumer,Central,Furniture,Furnishings,-1454.0524,9499.99
+Corporate,Central,Furniture,Furnishings,-1209.3583,3143.956
+Home Office,Central,Furniture,Furnishings,-1242.8061,2610.424
+Consumer,East,Furniture,Furnishings,3021.137,13177.068
+Corporate,East,Furniture,Furnishings,1956.2306,9983.326
+Home Office,East,Furniture,Furnishings,904.0395,5910.986
+Consumer,South,Furniture,Furnishings,1957.1855,10870.574
+Corporate,South,Furniture,Furnishings,1087.9331,4504.68
+Home Office,South,Furniture,Furnishings,397.5643,1931.43
+Consumer,West,Furniture,Furnishings,4395.1526,16072.414
+Corporate,West,Furniture,Furnishings,1673.4023,7369.304
+Home Office,West,Furniture,Furnishings,1572.7155,6631.012
+Consumer,Central,Office Supplies,Storage,413.3101,24671.81
+Corporate,Central,Office Supplies,Storage,1084.5102,12656.604
+Home Office,Central,Office Supplies,Storage,472.0162,8601.698
+Consumer,East,Office Supplies,Storage,1973.9242,24994.458
+Corporate,East,Office Supplies,Storage,3836.4565,30968.37
+Home Office,East,Office Supplies,Storage,2578.9905,15649.756
+Consumer,South,Office Supplies,Storage,888.6697,16881.746
+Corporate,South,Office Supplies,Storage,718.5711,11362.258
+Home Office,South,Office Supplies,Storage,667.0557,7524.056
+Consumer,West,Office Supplies,Storage,3828.2964,33944.388
+Corporate,West,Office Supplies,Storage,3491.4869,24803.766
+Home Office,West,Office Supplies,Storage,1325.5389,11784.698
+Consumer,Central,Office Supplies,Binders,1832.321,39693.576
+Corporate,Central,Office Supplies,Binders,-4420.4249,8879.54
+Home Office,Central,Office Supplies,Binders,1544.467,8350.166
+Consumer,East,Office Supplies,Binders,6740.6697,31622.61
+Corporate,East,Office Supplies,Binders,2833.0034,12048.381
+Home Office,East,Office Supplies,Binders,1694.2615,9827.006
+Consumer,South,Office Supplies,Binders,1583.9285,18617.703
+Corporate,South,Office Supplies,Binders,2496.2001,11827.632
+Home Office,South,Office Supplies,Binders,-179.4646,6585.006
+Consumer,West,Office Supplies,Binders,7838.678,28227.12
+Corporate,West,Office Supplies,Binders,5468.5415,18804.76
+Home Office,West,Office Supplies,Binders,2789.5821,8929.233
+Consumer,Central,Office Supplies,Appliances,-3775.6065,9818.721
+Corporate,Central,Office Supplies,Appliances,-459.2306,5224.759
+Home Office,Central,Office Supplies,Appliances,1596.2196,8538.553
+Consumer,East,Office Supplies,Appliances,5008.7579,19389.756
+Corporate,East,Office Supplies,Appliances,2607.2872,10981.264
+Home Office,East,Office Supplies,Appliances,775.3683,3817.446
+Consumer,South,Office Supplies,Appliances,1455.2632,8287.354
+Corporate,South,Office Supplies,Appliances,2543.8218,10123.636
+Home Office,South,Office Supplies,Appliances,124.8546,1114.336
+Consumer,West,Office Supplies,Appliances,4293.5136,15323.75
+Corporate,West,Office Supplies,Appliances,2738.0168,10259.024
+Home Office,West,Office Supplies,Appliances,1229.7395,4653.562
+Consumer,Central,Office Supplies,Paper,2914.6377,7564.02
+Corporate,Central,Office Supplies,Paper,2399.2305,5952.002
+Home Office,Central,Office Supplies,Paper,1658.0323,3975.88
+Consumer,East,Office Supplies,Paper,3917.3307,8661.268
+Corporate,East,Office Supplies,Paper,2668.9582,5975.116
+Home Office,East,Office Supplies,Paper,2429.0821,5536.218
+Consumer,South,Office Supplies,Paper,3085.3364,7603.272
+Corporate,South,Office Supplies,Paper,1410.0633,3345.322
+Home Office,South,Office Supplies,Paper,1451.6617,3202.39
+Consumer,West,Office Supplies,Paper,5617.3388,12495.808
+Corporate,West,Office Supplies,Paper,3883.2948,8610.69
+Home Office,West,Office Supplies,Paper,2618.6028,5557.22
+Consumer,Central,Office Supplies,Supplies,-782.0922,4559.912
+Corporate,Central,Office Supplies,Supplies,101.8498,4382.928
+Home Office,Central,Office Supplies,Supplies,18.3543,524.532
+Consumer,East,Office Supplies,Supplies,-1171.6357,8567.826
+Corporate,East,Office Supplies,Supplies,-12.8974,1849.258
+Home Office,East,Office Supplies,Supplies,29.3979,343.032
+Consumer,South,Office Supplies,Supplies,69.8592,2123.554
+Corporate,South,Office Supplies,Supplies,-111.6379,6022.154
+Home Office,South,Office Supplies,Supplies,43.656,173.22
+Consumer,West,Office Supplies,Supplies,226.3174,10490.204
+Corporate,West,Office Supplies,Supplies,361.6119,7180.944
+Home Office,West,Office Supplies,Supplies,38.1172,455.974
+Consumer,Central,Office Supplies,Art,605.5615,3272.352
+Corporate,Central,Office Supplies,Art,343.9693,1478.742
+Home Office,Central,Office Supplies,Art,245.6283,1014.246
+Consumer,East,Office Supplies,Art,989.0642,3847.198
+Corporate,East,Office Supplies,Art,566.1716,2278.402
+Home Office,East,Office Supplies,Art,344.7085,1360.164
+Consumer,South,Office Supplies,Art,648.4543,2654.756
+Corporate,South,Office Supplies,Art,264.2543,1332.404
+Home Office,South,Office Supplies,Art,145.878,668.462
+Consumer,West,Office Supplies,Art,1211.2211,4477.624
+Corporate,West,Office Supplies,Art,830.2525,3500.9
+Home Office,West,Office Supplies,Art,332.6234,1233.542
+Consumer,Central,Office Supplies,Envelopes,912.6616,2365.45
+Corporate,Central,Office Supplies,Envelopes,483.6642,1235.908
+Home Office,Central,Office Supplies,Envelopes,381.2025,1035.514
+Consumer,East,Office Supplies,Envelopes,881.8797,2095.522
+Corporate,East,Office Supplies,Envelopes,663.5852,1579.266
+Home Office,East,Office Supplies,Envelopes,266.9441,701.086
+Consumer,South,Office Supplies,Envelopes,503.4307,1191.558
+Corporate,South,Office Supplies,Envelopes,643.3798,1470.904
+Home Office,South,Office Supplies,Envelopes,318.6665,683.094
+Consumer,West,Office Supplies,Envelopes,966.4406,2118.616
+Corporate,West,Office Supplies,Envelopes,780.5998,1656.592
+Home Office,West,Office Supplies,Envelopes,161.722,342.892
+Consumer,Central,Office Supplies,Labels,334.2023,743.206
+Corporate,Central,Office Supplies,Labels,487.17,1095.108
+Home Office,Central,Office Supplies,Labels,251.7071,613.158
+Consumer,East,Office Supplies,Labels,733.529,1652.8
+Corporate,East,Office Supplies,Labels,218.6299,508.586
+Home Office,East,Office Supplies,Labels,177.1211,441.548
+Consumer,South,Office Supplies,Labels,840.9038,1868.222
+Corporate,South,Office Supplies,Labels,150.4372,365.226
+Home Office,South,Office Supplies,Labels,49.4313,119.732
+Consumer,West,Office Supplies,Labels,1167.3533,2445.034
+Corporate,West,Office Supplies,Labels,904.5902,2132.726
+Home Office,West,Office Supplies,Labels,231.1788,500.966
+Consumer,Central,Office Supplies,Fasteners,128.1477,422.432
+Corporate,Central,Office Supplies,Fasteners,78.5563,232.11
+Home Office,Central,Office Supplies,Fasteners,29.9146,123.488
+Consumer,East,Office Supplies,Fasteners,149.173,423.698
+Corporate,East,Office Supplies,Fasteners,76.4704,286.092
+Home Office,East,Office Supplies,Fasteners,38.3474,109.928
+Consumer,South,Office Supplies,Fasteners,114.2714,276.416
+Corporate,South,Office Supplies,Fasteners,27.5699,80.634
+Home Office,South,Office Supplies,Fasteners,31.8768,146.266
+Consumer,West,Office Supplies,Fasteners,185.2087,558.396
+Corporate,West,Office Supplies,Fasteners,69.3064,184.454
+Home Office,West,Office Supplies,Fasteners,20.6756,180.366
