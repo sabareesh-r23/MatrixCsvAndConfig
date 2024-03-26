@@ -1,181 +1,41 @@
-Financials.Date.Variation.Date Hierarchy.Quarter,Financials.Date.Variation.Date Hierarchy.Year,Financials.Country,Financials.Product,Sum(Financials.Profit)
-Qtr 3,2013,Canada,Amarilla,20873.16
-Qtr 4,2013,Canada,Amarilla,229212.7
-Qtr 1,2014,Canada,Amarilla,111640.25
-Qtr 2,2014,Canada,Amarilla,28952.2
-Qtr 3,2014,Canada,Amarilla,84856.325
-Qtr 4,2014,Canada,Amarilla,171326.74
-Qtr 3,2013,Canada,Carretera,-24160
-Qtr 4,2013,Canada,Carretera,37010.56
-Qtr 1,2014,Canada,Carretera,72134.66
-Qtr 2,2014,Canada,Carretera,46490.05
-Qtr 3,2014,Canada,Carretera,29327.07
-Qtr 4,2014,Canada,Carretera,275303
-Qtr 3,2013,Canada,Montana,33358
-Qtr 4,2013,Canada,Montana,8835.79
-Qtr 1,2014,Canada,Montana,100685.02
-Qtr 2,2014,Canada,Montana,124266.7
-Qtr 3,2014,Canada,Montana,17255.16
-Qtr 4,2014,Canada,Montana,37466.36
-Qtr 3,2013,Canada,Paseo,11038.85
-Qtr 4,2013,Canada,Paseo,364830.46
-Qtr 1,2014,Canada,Paseo,55877.92
-Qtr 2,2014,Canada,Paseo,201992.68
-Qtr 3,2014,Canada,Paseo,185051.88
-Qtr 4,2014,Canada,Paseo,446226.2
-Qtr 3,2013,Canada,Velo,24343.2
-Qtr 4,2013,Canada,Velo,-6455.44
-Qtr 1,2014,Canada,Velo,3714.32
-Qtr 2,2014,Canada,Velo,160017.45
-Qtr 3,2014,Canada,Velo,87168
-Qtr 4,2014,Canada,Velo,101780.81
-Qtr 3,2013,Canada,VTT,29904
-Qtr 4,2013,Canada,VTT,74880.5
-Qtr 1,2014,Canada,VTT,129084.3
-Qtr 2,2014,Canada,VTT,91408.44
-Qtr 3,2014,Canada,VTT,138376.5
-Qtr 4,2014,Canada,VTT,25155.07
-Qtr 3,2013,France,Amarilla,
-Qtr 4,2013,France,Amarilla,149441.11
-Qtr 1,2014,France,Amarilla,254906.25
-Qtr 2,2014,France,Amarilla,7748.35
-Qtr 3,2014,France,Amarilla,210463.94
-Qtr 4,2014,France,Amarilla,45307.98
-Qtr 3,2013,France,Carretera,-12787.5
-Qtr 4,2013,France,Carretera,2075.34
-Qtr 1,2014,France,Carretera,114484.4
-Qtr 2,2014,France,Carretera,43253.375
-Qtr 3,2014,France,Carretera,7575.98
-Qtr 4,2014,France,Carretera,234263.3
-Qtr 3,2013,France,Montana,7406
-Qtr 4,2013,France,Montana,22676.09
-Qtr 1,2014,France,Montana,110178.91
-Qtr 2,2014,France,Montana,157697.64
-Qtr 3,2014,France,Montana,55065.66
-Qtr 4,2014,France,Montana,108214.07
-Qtr 3,2013,France,Paseo,4301.81
-Qtr 4,2013,France,Paseo,139278.14
-Qtr 1,2014,France,Paseo,142941.7
-Qtr 2,2014,France,Paseo,196670.25
-Qtr 3,2014,France,Paseo,54201.43
-Qtr 4,2014,France,Paseo,301355.23
-Qtr 3,2013,France,Velo,21879
-Qtr 4,2013,France,Velo,200769
-Qtr 1,2014,France,Velo,36791.015
-Qtr 2,2014,France,Velo,150159.8
-Qtr 3,2014,France,Velo,88350.75
-Qtr 4,2014,France,Velo,209980.67
-Qtr 3,2013,France,VTT,155123.28
-Qtr 4,2013,France,VTT,121169.9
-Qtr 1,2014,France,VTT,42857.68
-Qtr 2,2014,France,VTT,71024.73
-Qtr 3,2014,France,VTT,143570.4
-Qtr 4,2014,France,VTT,182625.1
-Qtr 3,2013,Germany,Amarilla,-3727.5
-Qtr 4,2013,Germany,Amarilla,264799.65
-Qtr 1,2014,Germany,Amarilla,81577.25
-Qtr 2,2014,Germany,Amarilla,38261.9
-Qtr 3,2014,Germany,Amarilla,168381.2
-Qtr 4,2014,Germany,Amarilla,62844.76
-Qtr 3,2013,Germany,Carretera,3270.8
-Qtr 4,2013,Germany,Carretera,15676.98
-Qtr 1,2014,Germany,Carretera,63372.4
-Qtr 2,2014,Germany,Carretera,62377.6
-Qtr 3,2014,Germany,Carretera,22254.35
-Qtr 4,2014,Germany,Carretera,202722.55
-Qtr 3,2013,Germany,Montana,142861.5
-Qtr 4,2013,Germany,Montana,23556.95
-Qtr 1,2014,Germany,Montana,47558.82
-Qtr 2,2014,Germany,Montana,163804
-Qtr 3,2014,Germany,Montana,80352
-Qtr 4,2014,Germany,Montana,101305.1
-Qtr 3,2013,Germany,Paseo,36035.96
-Qtr 4,2013,Germany,Paseo,200323.68
-Qtr 1,2014,Germany,Paseo,40092.2
-Qtr 2,2014,Germany,Paseo,265398.66
-Qtr 3,2014,Germany,Paseo,19445.22
-Qtr 4,2014,Germany,Paseo,183121.02
-Qtr 3,2013,Germany,Velo,2013
-Qtr 4,2013,Germany,Velo,273545.3
-Qtr 1,2014,Germany,Velo,20823.75
-Qtr 2,2014,Germany,Velo,115869.72
-Qtr 3,2014,Germany,Velo,77442.05
-Qtr 4,2014,Germany,Velo,299095.18
-Qtr 3,2013,Germany,VTT,18074.4
-Qtr 4,2013,Germany,VTT,141788.75
-Qtr 1,2014,Germany,VTT,83083.15
-Qtr 2,2014,Germany,VTT,42280.82
-Qtr 3,2014,Germany,VTT,73859
-Qtr 4,2014,Germany,VTT,246846.65
-Qtr 3,2013,Mexico,Amarilla,-8286.25
-Qtr 4,2013,Mexico,Amarilla,35955.54
-Qtr 1,2014,Mexico,Amarilla,210690.2
-Qtr 2,2014,Mexico,Amarilla,88783.6
-Qtr 3,2014,Mexico,Amarilla,128061.15
-Qtr 4,2014,Mexico,Amarilla,43407.15
-Qtr 3,2013,Mexico,Carretera,15772.4
-Qtr 4,2013,Mexico,Carretera,-5809.48
-Qtr 1,2014,Mexico,Carretera,110597.32
-Qtr 2,2014,Mexico,Carretera,73446.8
-Qtr 3,2014,Mexico,Carretera,3361.36
-Qtr 4,2014,Mexico,Carretera,196300.02
-Qtr 3,2013,Mexico,Montana,52200
-Qtr 4,2013,Mexico,Montana,57445.54
-Qtr 1,2014,Mexico,Montana,31131.9
-Qtr 2,2014,Mexico,Montana,104580.92
-Qtr 3,2014,Mexico,Montana,67394.2
-Qtr 4,2014,Mexico,Montana,24936.75
-Qtr 3,2013,Mexico,Paseo,42550.4
-Qtr 4,2013,Mexico,Paseo,135191.56
-Qtr 1,2014,Mexico,Paseo,210313.1
-Qtr 2,2014,Mexico,Paseo,294040.35
-Qtr 3,2014,Mexico,Paseo,56998.09
-Qtr 4,2014,Mexico,Paseo,189557.89
-Qtr 3,2013,Mexico,Velo,2194.25
-Qtr 4,2013,Mexico,Velo,56955.9
-Qtr 1,2014,Mexico,Velo,-942.25
-Qtr 2,2014,Mexico,Velo,18045.71
-Qtr 3,2014,Mexico,Velo,59009.9
-Qtr 4,2014,Mexico,Velo,38040.38
-Qtr 3,2013,Mexico,VTT,7718.4
-Qtr 4,2013,Mexico,VTT,200782
-Qtr 1,2014,Mexico,VTT,77776.56
-Qtr 2,2014,Mexico,VTT,18018.58
-Qtr 3,2014,Mexico,VTT,141422.5
-Qtr 4,2014,Mexico,VTT,129880.67
-Qtr 3,2013,United States of America,Amarilla,17662.32
-Qtr 4,2013,United States of America,Amarilla,76018.8
-Qtr 1,2014,United States of America,Amarilla,68477.5
-Qtr 2,2014,United States of America,Amarilla,-3018.12
-Qtr 3,2014,United States of America,Amarilla,151140.825
-Qtr 4,2014,United States of America,Amarilla,78345.08
-Qtr 3,2013,United States of America,Carretera,1237.5
-Qtr 4,2013,United States of America,Carretera,6482.26
-Qtr 1,2014,United States of America,Carretera,141678.54
-Qtr 2,2014,United States of America,Carretera,29222.7
-Qtr 3,2014,United States of America,Carretera,21703.05
-Qtr 4,2014,United States of America,Carretera,38167.5
-Qtr 3,2013,United States of America,Montana,117406
-Qtr 4,2013,United States of America,Montana,-7987.83
-Qtr 1,2014,United States of America,Montana,47302.47
-Qtr 2,2014,United States of America,Montana,256134.72
-Qtr 3,2014,United States of America,Montana,-1507.35
-Qtr 4,2014,United States of America,Montana,23173.79
-Qtr 3,2013,United States of America,Paseo,12044.85
-Qtr 4,2013,United States of America,Paseo,154257.38
-Qtr 1,2014,United States of America,Paseo,81622.865
-Qtr 2,2014,United States of America,Paseo,227867.995
-Qtr 3,2014,United States of America,Paseo,298860.1
-Qtr 4,2014,United States of America,Paseo,245950.08
-Qtr 3,2013,United States of America,Velo,6771.2
-Qtr 4,2013,United States of America,Velo,39934.35
-Qtr 1,2014,United States of America,Velo,7953.05
-Qtr 2,2014,United States of America,Velo,54959.28
-Qtr 3,2014,United States of America,Velo,47303
-Qtr 4,2014,United States of America,Velo,108480.12
-Qtr 3,2013,United States of America,VTT,26524
-Qtr 4,2013,United States of America,VTT,102220
-Qtr 1,2014,United States of America,VTT,134037.69
-Qtr 2,2014,United States of America,VTT,102621.55
-Qtr 3,2014,United States of America,VTT,221320.6
-Qtr 4,2014,United States of America,VTT,61172.8
+Acme - Accounts Master.Level 3 Description,Acme - Accounts Master.Level 2 Description,Acme - Accounts Master.Level 1 Description,Acme - Accounts Master.Level 0 Description,Acme - Category Master.Category,Acme - Values.2019 Actuals,Acme - Values.2020 Actuals
+Raw Materials,Cost of Goods Sold,Gross Profit,Operating Profit,Beverages,-1928641130.6699998,-1967378070.5300004
+Labor,Cost of Goods Sold,Gross Profit,Operating Profit,Beverages,-1039958169.3400002,-1050655511.3300005
+Purchase Price Variance,Cost of Goods Sold,Gross Profit,Operating Profit,Beverages,-251988.94999999998,-514842.85000000003
+Other Direct Costs,Cost of Goods Sold,Gross Profit,Operating Profit,Beverages,-2890882.729999997,-1921066.929999999
+Freight,Cost of Goods Sold,Gross Profit,Operating Profit,Beverages,-5486947.15,-5774506.040000006
+Gross Revenue,Net Revenue,Gross Profit,Operating Profit,Beverages,5929468476.3899975,6055478047.4699955
+Discounts,Net Revenue,Gross Profit,Operating Profit,Beverages,-508749357.4800003,-525534049.82999986
+(Blank),IT Expenses,Operating Expenses,Operating Profit,Beverages,-137332012.53,-138934356.22
+(Blank),Other Expenses,Operating Expenses,Operating Profit,Beverages,-187090390.85999995,-191363954.0800001
+Salaries,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-365260055.5600002,-373413163.8699997
+Wages,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-218437488.41000006,-227544973.11
+Bonus,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-66061877.72000003,-65022300.459999986
+Benefits,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-27213987.769999962,-27027928.05999999
+Training,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-43936602.21000001,-37627977.43999999
+Recruiting,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-36507673.070000015,-31324159.959999997
+Equipment,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-27048142.32000001,-23227162.42000001
+Computer,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-20039995.220000006,-17463738.199999984
+Tuition,Personnel Costs,Operating Expenses,Operating Profit,Beverages,-15779477,-15626045.640000014
+Marketing Expenses,Sales and Marketing,Operating Expenses,Operating Profit,Beverages,-273611910.91,-282932815.61
+Sales Expenses,Sales and Marketing,Operating Expenses,Operating Profit,Beverages,-249781843.98999986,-270289241.8400001
+Raw Materials,Cost of Goods Sold,Gross Profit,Operating Profit,Water,-196454365.8299999,-191308086.31000003
+Labor,Cost of Goods Sold,Gross Profit,Operating Profit,Water,-176359495.2599999,-168502352.26999998
+Purchase Price Variance,Cost of Goods Sold,Gross Profit,Operating Profit,Water,-108440.46999999958,46431.66000000003
+Other Direct Costs,Cost of Goods Sold,Gross Profit,Operating Profit,Water,-174697.22999999998,-218756.51
+Freight,Cost of Goods Sold,Gross Profit,Operating Profit,Water,-235148.09999999992,-299217.46000000025
+Gross Revenue,Net Revenue,Gross Profit,Operating Profit,Water,943005669.5399996,930406042.8000008
+Discounts,Net Revenue,Gross Profit,Operating Profit,Water,-65513522.71000005,-62074062.06
+(Blank),IT Expenses,Operating Expenses,Operating Profit,Water,-16004761.199999992,-15611185.74
+(Blank),Other Expenses,Operating Expenses,Operating Profit,Water,-17256161.499999993,-16845259.02
+Salaries,Personnel Costs,Operating Expenses,Operating Profit,Water,-57155851.76999998,-56285610.11999997
+Wages,Personnel Costs,Operating Expenses,Operating Profit,Water,-33593889.620000005,-32405661.470000003
+Bonus,Personnel Costs,Operating Expenses,Operating Profit,Water,-7671948.26,-7505301.800000001
+Benefits,Personnel Costs,Operating Expenses,Operating Profit,Water,-1974929.0500000003,-1914117.9300000004
+Training,Personnel Costs,Operating Expenses,Operating Profit,Water,-5957248.369999998,-4885677.109999998
+Recruiting,Personnel Costs,Operating Expenses,Operating Profit,Water,-5058687.410000001,-4180427.1100000003
+Equipment,Personnel Costs,Operating Expenses,Operating Profit,Water,-3920787.839999997,-3250743.4999999986
+Computer,Personnel Costs,Operating Expenses,Operating Profit,Water,-3207035.7900000005,-2736028.8100000005
+Tuition,Personnel Costs,Operating Expenses,Operating Profit,Water,-1429279.040000001,-1367669.7300000002
+Marketing Expenses,Sales and Marketing,Operating Expenses,Operating Profit,Water,-38887152.75000003,-38560478.190000005
+Sales Expenses,Sales and Marketing,Operating Expenses,Operating Profit,Water,-20792966.560000002,-23063162.229999993
