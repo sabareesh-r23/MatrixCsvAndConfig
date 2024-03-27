@@ -143,150 +143,6 @@ September,Furniture,Tables,Home Office,3968.8590000000004,206.82229999999973
 October,Furniture,Tables,Home Office,2730.99,-975.9888000000001
 November,Furniture,Tables,Home Office,8308.32,-87.7556000000003
 December,Furniture,Tables,Home Office,8552.659,380.0081
-January,NewTechnology,Accessories,Consumer,852.672,190.86110000000002
-February,NewTechnology,Accessories,Consumer,3194.7439999999997,972.3863000000001
-March,NewTechnology,Accessories,Consumer,4955.330000000002,1306.9402999999998
-April,NewTechnology,Accessories,Consumer,4158.374,886.93
-May,NewTechnology,Accessories,Consumer,4699.6179999999995,1101.2270999999998
-June,NewTechnology,Accessories,Consumer,5073.4039999999995,1360.6829
-July,NewTechnology,Accessories,Consumer,9014.753999999999,1957.5744999999997
-August,NewTechnology,Accessories,Consumer,5100.4400000000005,872.5383999999996
-September,NewTechnology,Accessories,Consumer,14419.117999999997,3305.374099999999
-October,NewTechnology,Accessories,Consumer,6414.461999999999,1278.2220999999997
-November,NewTechnology,Accessories,Consumer,11981.041999999994,2691.617400000001
-December,NewTechnology,Accessories,Consumer,17241.28,4811.5683
-January,NewTechnology,Accessories,Corporate,2155.424,492.4795999999999
-February,NewTechnology,Accessories,Corporate,2142.54,504.59869999999984
-March,NewTechnology,Accessories,Corporate,2971.762,717.2840999999999
-April,NewTechnology,Accessories,Corporate,1103.846,373.50640000000004
-May,NewTechnology,Accessories,Corporate,3528.315999999999,1032.2942999999996
-June,NewTechnology,Accessories,Corporate,3161.705999999999,731.0641999999999
-July,NewTechnology,Accessories,Corporate,4962.939999999999,1608.7865000000002
-August,NewTechnology,Accessories,Corporate,5450.112000000001,1468.6568000000002
-September,NewTechnology,Accessories,Corporate,6305.71,1830.1556999999996
-October,NewTechnology,Accessories,Corporate,3015.7619999999997,618.1287999999998
-November,NewTechnology,Accessories,Corporate,9154.864,2504.6463000000003
-December,NewTechnology,Accessories,Corporate,4237.582,825.8791
-January,NewTechnology,Accessories,Home Office,2469.8099999999995,654.4995
-February,NewTechnology,Accessories,Home Office,31.992000000000004,4.798799999999996
-March,NewTechnology,Accessories,Home Office,839.546,279.1856
-April,NewTechnology,Accessories,Home Office,2689.4880000000003,571.5170999999999
-May,NewTechnology,Accessories,Home Office,1385.1659999999997,338.17170000000004
-June,NewTechnology,Accessories,Home Office,673.274,141.84339999999997
-July,NewTechnology,Accessories,Home Office,3148.724,1217.6195999999998
-August,NewTechnology,Accessories,Home Office,1825.592,222.13030000000003
-September,NewTechnology,Accessories,Home Office,4175.526000000001,1222.1365000000005
-October,NewTechnology,Accessories,Home Office,3496.9179999999997,813.3250999999998
-November,NewTechnology,Accessories,Home Office,4820.825999999998,1156.4280999999996
-December,NewTechnology,Accessories,Home Office,6527.6539999999995,1871.577
-January,NewTechnology,Copiers,Consumer,,
-February,NewTechnology,Copiers,Consumer,,
-March,NewTechnology,Copiers,Consumer,16079.912,7217.9713999999985
-April,NewTechnology,Copiers,Consumer,2679.916,911.9713999999999
-May,NewTechnology,Copiers,Consumer,13479.873999999998,2464.9694999999992
-June,NewTechnology,Copiers,Consumer,,
-July,NewTechnology,Copiers,Consumer,5399.898000000001,1381.9772999999998
-August,NewTechnology,Copiers,Consumer,1499.9660000000001,524.9883
-September,NewTechnology,Copiers,Consumer,9999.758000000002,3736.9065
-October,NewTechnology,Copiers,Consumer,2479.936,786.9793999999999
-November,NewTechnology,Copiers,Consumer,12659.93,5531.9768
-December,NewTechnology,Copiers,Consumer,5539.88,1525.9699999999998
-January,NewTechnology,Copiers,Corporate,959.9680000000001,119.99599999999992
-February,NewTechnology,Copiers,Corporate,,
-March,NewTechnology,Copiers,Corporate,8549.84,3490.4336000000003
-April,NewTechnology,Copiers,Corporate,1199.976,374.99249999999995
-May,NewTechnology,Copiers,Corporate,1559.964,204.9944999999999
-June,NewTechnology,Copiers,Corporate,899.97,314.9895
-July,NewTechnology,Copiers,Corporate,2399.96,839.9860000000001
-August,NewTechnology,Copiers,Corporate,3679.9440000000004,1204.9814999999999
-September,NewTechnology,Copiers,Corporate,319.98400000000004,107.99459999999999
-October,NewTechnology,Copiers,Corporate,17939.941999999995,8564.972999999998
-November,NewTechnology,Copiers,Corporate,1939.964,473.99159999999995
-December,NewTechnology,Copiers,Corporate,7379.874000000001,3292.9460999999997
-January,NewTechnology,Copiers,Home Office,2999.95,1379.9769999999999
-February,NewTechnology,Copiers,Home Office,,
-March,NewTechnology,Copiers,Home Office,959.984,335.99440000000004
-April,NewTechnology,Copiers,Home Office,,
-May,NewTechnology,Copiers,Home Office,3359.952,1049.985
-June,NewTechnology,Copiers,Home Office,,
-July,NewTechnology,Copiers,Home Office,1979.9340000000002,539.9819999999999
-August,NewTechnology,Copiers,Home Office,549.99,274.995
-September,NewTechnology,Copiers,Home Office,,
-October,NewTechnology,Copiers,Home Office,16599.878,6511.945599999999
-November,NewTechnology,Copiers,Home Office,549.99,274.995
-December,NewTechnology,Copiers,Home Office,5879.896000000001,2175.9614
-January,NewTechnology,Machines,Consumer,1919.976,215.99729999999977
-February,NewTechnology,Machines,Consumer,8749.95,2799.9839999999995
-March,NewTechnology,Machines,Consumer,5187.84,2434.5552
-April,NewTechnology,Machines,Consumer,1739.864,770.0435
-May,NewTechnology,Machines,Consumer,8528.123,1407.7446999999993
-June,NewTechnology,Machines,Consumer,7599.911,731.2723999999994
-July,NewTechnology,Machines,Consumer,464.97,209.23649999999998
-August,NewTechnology,Machines,Consumer,4581.552,1557.1238
-September,NewTechnology,Machines,Consumer,18933.686999999998,-708.1861000000024
-October,NewTechnology,Machines,Consumer,471.15400000000005,-39.09429999999996
-November,NewTechnology,Machines,Consumer,8288.326000000001,-6700.538800000001
-December,NewTechnology,Machines,Consumer,13077.472000000002,-537.0764000000013
-January,NewTechnology,Machines,Corporate,4943.682,-298.2320000000004
-February,NewTechnology,Machines,Corporate,239.98400000000004,38.99739999999997
-March,NewTechnology,Machines,Corporate,981.82,-590.4379999999999
-April,NewTechnology,Machines,Corporate,13899.914,2725.980599999999
-May,NewTechnology,Machines,Corporate,2396.4,179.73000000000013
-June,NewTechnology,Machines,Corporate,78.66,36.18359999999999
-July,NewTechnology,Machines,Corporate,1204.5980000000002,-380.9301000000001
-August,NewTechnology,Machines,Corporate,1679.958,-183.00480000000027
-September,NewTechnology,Machines,Corporate,7045.469999999999,-1265.4213000000004
-October,NewTechnology,Machines,Corporate,7133.354,1638.1222
-November,NewTechnology,Machines,Corporate,19152.653,-761.3555999999987
-December,NewTechnology,Machines,Corporate,1520.2620000000002,-436.61299999999983
-January,NewTechnology,Machines,Home Office,350.97300000000007,152.08829999999998
-February,NewTechnology,Machines,Home Office,,
-March,NewTechnology,Machines,Home Office,28882.244,-868.7384000000027
-April,NewTechnology,Machines,Home Office,2549.9850000000006,-3399.980000000001
-May,NewTechnology,Machines,Home Office,343.20000000000005,38.60999999999996
-June,NewTechnology,Machines,Home Office,4503.954,1709.5746
-July,NewTechnology,Machines,Home Office,2395.2000000000003,209.58000000000004
-August,NewTechnology,Machines,Home Office,,
-September,NewTechnology,Machines,Home Office,406.5,74.96369999999996
-October,NewTechnology,Machines,Home Office,3008.585,-651.0675
-November,NewTechnology,Machines,Home Office,6366.32,3134.6243999999997
-December,NewTechnology,Machines,Home Office,612.0899999999999,141.02099999999996
-January,NewTechnology,Phones,Consumer,9219.504000000003,1247.5581000000002
-February,NewTechnology,Phones,Consumer,2223.058,168.50379999999993
-March,NewTechnology,Phones,Consumer,8364.467999999999,828.6024
-April,NewTechnology,Phones,Consumer,9213.747999999998,950.7535000000003
-May,NewTechnology,Phones,Consumer,16397.417999999998,1895.5629999999999
-June,NewTechnology,Phones,Consumer,15776.798000000004,2781.8360000000002
-July,NewTechnology,Phones,Consumer,14485.402,1124.2821999999994
-August,NewTechnology,Phones,Consumer,17290.881999999994,2045.5386999999998
-September,NewTechnology,Phones,Consumer,17200.766000000003,3696.4449999999997
-October,NewTechnology,Phones,Consumer,11269.346,1362.6601999999996
-November,NewTechnology,Phones,Consumer,29449.847999999987,4274.576400000001
-December,NewTechnology,Phones,Consumer,19041.52600000001,3460.795400000001
-January,NewTechnology,Phones,Corporate,1685.4200000000003,219.80979999999994
-February,NewTechnology,Phones,Corporate,3199.6600000000003,553.0138000000001
-March,NewTechnology,Phones,Corporate,9348.511999999999,1471.4242000000006
-April,NewTechnology,Phones,Corporate,4877.786,390.47249999999997
-May,NewTechnology,Phones,Corporate,5350.002,1216.2183999999997
-June,NewTechnology,Phones,Corporate,4485.4980000000005,586.1765
-July,NewTechnology,Phones,Corporate,8269.468,1322.2412000000004
-August,NewTechnology,Phones,Corporate,5832.078000000001,436.9662000000001
-September,NewTechnology,Phones,Corporate,12786.76,1123.6711999999998
-October,NewTechnology,Phones,Corporate,8671.050000000003,1489.1581999999999
-November,NewTechnology,Phones,Corporate,14790.813999999997,1559.2848999999994
-December,NewTechnology,Phones,Corporate,11856.366,1397.7826999999993
-January,NewTechnology,Phones,Home Office,2564.3840000000005,459.8589999999999
-February,NewTechnology,Phones,Home Office,3561.4900000000007,284.72929999999974
-March,NewTechnology,Phones,Home Office,10730.312000000002,743.8554000000001
-April,NewTechnology,Phones,Home Office,3517.378,823.2351000000001
-May,NewTechnology,Phones,Home Office,2614.1220000000003,149.45479999999992
-June,NewTechnology,Phones,Home Office,6051.408000000001,836.4971000000002
-July,NewTechnology,Phones,Home Office,1128.178,70.63409999999993
-August,NewTechnology,Phones,Home Office,4535.342000000001,674.5267999999999
-September,NewTechnology,Phones,Home Office,7787.430000000001,974.2237000000001
-October,NewTechnology,Phones,Home Office,6531.557999999999,1509.2124
-November,NewTechnology,Phones,Home Office,11980.264000000001,1900.1665000000003
-December,NewTechnology,Phones,Home Office,7919.009999999998,486.0020999999999
 January,Office Supplies,Appliances,Consumer,2998.1599999999994,561.9973999999999
 February,Office Supplies,Appliances,Consumer,1260.1719999999998,323.91339999999985
 March,Office Supplies,Appliances,Consumer,4096.8859999999995,-126.82940000000008
@@ -611,3 +467,147 @@ September,Office Supplies,Supplies,Home Office,468.52,4.632300000000004
 October,Office Supplies,Supplies,Home Office,105.18,31.55399999999999
 November,Office Supplies,Supplies,Home Office,89.50999999999999,23.307199999999995
 December,Office Supplies,Supplies,Home Office,25.71,6.6846000000000005
+January,Technology,Accessories,Consumer,852.672,190.86110000000002
+February,Technology,Accessories,Consumer,3194.7439999999997,972.3863000000001
+March,Technology,Accessories,Consumer,4955.330000000002,1306.9402999999998
+April,Technology,Accessories,Consumer,4158.374,886.93
+May,Technology,Accessories,Consumer,4699.6179999999995,1101.2270999999998
+June,Technology,Accessories,Consumer,5073.4039999999995,1360.6829
+July,Technology,Accessories,Consumer,9014.753999999999,1957.5744999999997
+August,Technology,Accessories,Consumer,5100.4400000000005,872.5383999999996
+September,Technology,Accessories,Consumer,14419.117999999997,3305.374099999999
+October,Technology,Accessories,Consumer,6414.461999999999,1278.2220999999997
+November,Technology,Accessories,Consumer,11981.041999999994,2691.617400000001
+December,Technology,Accessories,Consumer,17241.28,4811.5683
+January,Technology,Accessories,Corporate,2155.424,492.4795999999999
+February,Technology,Accessories,Corporate,2142.54,504.59869999999984
+March,Technology,Accessories,Corporate,2971.762,717.2840999999999
+April,Technology,Accessories,Corporate,1103.846,373.50640000000004
+May,Technology,Accessories,Corporate,3528.315999999999,1032.2942999999996
+June,Technology,Accessories,Corporate,3161.705999999999,731.0641999999999
+July,Technology,Accessories,Corporate,4962.939999999999,1608.7865000000002
+August,Technology,Accessories,Corporate,5450.112000000001,1468.6568000000002
+September,Technology,Accessories,Corporate,6305.71,1830.1556999999996
+October,Technology,Accessories,Corporate,3015.7619999999997,618.1287999999998
+November,Technology,Accessories,Corporate,9154.864,2504.6463000000003
+December,Technology,Accessories,Corporate,4237.582,825.8791
+January,Technology,Accessories,Home Office,2469.8099999999995,654.4995
+February,Technology,Accessories,Home Office,31.992000000000004,4.798799999999996
+March,Technology,Accessories,Home Office,839.546,279.1856
+April,Technology,Accessories,Home Office,2689.4880000000003,571.5170999999999
+May,Technology,Accessories,Home Office,1385.1659999999997,338.17170000000004
+June,Technology,Accessories,Home Office,673.274,141.84339999999997
+July,Technology,Accessories,Home Office,3148.724,1217.6195999999998
+August,Technology,Accessories,Home Office,1825.592,222.13030000000003
+September,Technology,Accessories,Home Office,4175.526000000001,1222.1365000000005
+October,Technology,Accessories,Home Office,3496.9179999999997,813.3250999999998
+November,Technology,Accessories,Home Office,4820.825999999998,1156.4280999999996
+December,Technology,Accessories,Home Office,6527.6539999999995,1871.577
+January,Technology,Copiers,Consumer,,
+February,Technology,Copiers,Consumer,,
+March,Technology,Copiers,Consumer,16079.912,7217.9713999999985
+April,Technology,Copiers,Consumer,2679.916,911.9713999999999
+May,Technology,Copiers,Consumer,13479.873999999998,2464.9694999999992
+June,Technology,Copiers,Consumer,,
+July,Technology,Copiers,Consumer,5399.898000000001,1381.9772999999998
+August,Technology,Copiers,Consumer,1499.9660000000001,524.9883
+September,Technology,Copiers,Consumer,9999.758000000002,3736.9065
+October,Technology,Copiers,Consumer,2479.936,786.9793999999999
+November,Technology,Copiers,Consumer,12659.93,5531.9768
+December,Technology,Copiers,Consumer,5539.88,1525.9699999999998
+January,Technology,Copiers,Corporate,959.9680000000001,119.99599999999992
+February,Technology,Copiers,Corporate,,
+March,Technology,Copiers,Corporate,8549.84,3490.4336000000003
+April,Technology,Copiers,Corporate,1199.976,374.99249999999995
+May,Technology,Copiers,Corporate,1559.964,204.9944999999999
+June,Technology,Copiers,Corporate,899.97,314.9895
+July,Technology,Copiers,Corporate,2399.96,839.9860000000001
+August,Technology,Copiers,Corporate,3679.9440000000004,1204.9814999999999
+September,Technology,Copiers,Corporate,319.98400000000004,107.99459999999999
+October,Technology,Copiers,Corporate,17939.941999999995,8564.972999999998
+November,Technology,Copiers,Corporate,1939.964,473.99159999999995
+December,Technology,Copiers,Corporate,7379.874000000001,3292.9460999999997
+January,Technology,Copiers,Home Office,2999.95,1379.9769999999999
+February,Technology,Copiers,Home Office,,
+March,Technology,Copiers,Home Office,959.984,335.99440000000004
+April,Technology,Copiers,Home Office,,
+May,Technology,Copiers,Home Office,3359.952,1049.985
+June,Technology,Copiers,Home Office,,
+July,Technology,Copiers,Home Office,1979.9340000000002,539.9819999999999
+August,Technology,Copiers,Home Office,549.99,274.995
+September,Technology,Copiers,Home Office,,
+October,Technology,Copiers,Home Office,16599.878,6511.945599999999
+November,Technology,Copiers,Home Office,549.99,274.995
+December,Technology,Copiers,Home Office,5879.896000000001,2175.9614
+January,Technology,Machines,Consumer,1919.976,215.99729999999977
+February,Technology,Machines,Consumer,8749.95,2799.9839999999995
+March,Technology,Machines,Consumer,5187.84,2434.5552
+April,Technology,Machines,Consumer,1739.864,770.0435
+May,Technology,Machines,Consumer,8528.123,1407.7446999999993
+June,Technology,Machines,Consumer,7599.911,731.2723999999994
+July,Technology,Machines,Consumer,464.97,209.23649999999998
+August,Technology,Machines,Consumer,4581.552,1557.1238
+September,Technology,Machines,Consumer,18933.686999999998,-708.1861000000024
+October,Technology,Machines,Consumer,471.15400000000005,-39.09429999999996
+November,Technology,Machines,Consumer,8288.326000000001,-6700.538800000001
+December,Technology,Machines,Consumer,13077.472000000002,-537.0764000000013
+January,Technology,Machines,Corporate,4943.682,-298.2320000000004
+February,Technology,Machines,Corporate,239.98400000000004,38.99739999999997
+March,Technology,Machines,Corporate,981.82,-590.4379999999999
+April,Technology,Machines,Corporate,13899.914,2725.980599999999
+May,Technology,Machines,Corporate,2396.4,179.73000000000013
+June,Technology,Machines,Corporate,78.66,36.18359999999999
+July,Technology,Machines,Corporate,1204.5980000000002,-380.9301000000001
+August,Technology,Machines,Corporate,1679.958,-183.00480000000027
+September,Technology,Machines,Corporate,7045.469999999999,-1265.4213000000004
+October,Technology,Machines,Corporate,7133.354,1638.1222
+November,Technology,Machines,Corporate,19152.653,-761.3555999999987
+December,Technology,Machines,Corporate,1520.2620000000002,-436.61299999999983
+January,Technology,Machines,Home Office,350.97300000000007,152.08829999999998
+February,Technology,Machines,Home Office,,
+March,Technology,Machines,Home Office,28882.244,-868.7384000000027
+April,Technology,Machines,Home Office,2549.9850000000006,-3399.980000000001
+May,Technology,Machines,Home Office,343.20000000000005,38.60999999999996
+June,Technology,Machines,Home Office,4503.954,1709.5746
+July,Technology,Machines,Home Office,2395.2000000000003,209.58000000000004
+August,Technology,Machines,Home Office,,
+September,Technology,Machines,Home Office,406.5,74.96369999999996
+October,Technology,Machines,Home Office,3008.585,-651.0675
+November,Technology,Machines,Home Office,6366.32,3134.6243999999997
+December,Technology,Machines,Home Office,612.0899999999999,141.02099999999996
+January,Technology,Phones,Consumer,9219.504000000003,1247.5581000000002
+February,Technology,Phones,Consumer,2223.058,168.50379999999993
+March,Technology,Phones,Consumer,8364.467999999999,828.6024
+April,Technology,Phones,Consumer,9213.747999999998,950.7535000000003
+May,Technology,Phones,Consumer,16397.417999999998,1895.5629999999999
+June,Technology,Phones,Consumer,15776.798000000004,2781.8360000000002
+July,Technology,Phones,Consumer,14485.402,1124.2821999999994
+August,Technology,Phones,Consumer,17290.881999999994,2045.5386999999998
+September,Technology,Phones,Consumer,17200.766000000003,3696.4449999999997
+October,Technology,Phones,Consumer,11269.346,1362.6601999999996
+November,Technology,Phones,Consumer,29449.847999999987,4274.576400000001
+December,Technology,Phones,Consumer,19041.52600000001,3460.795400000001
+January,Technology,Phones,Corporate,1685.4200000000003,219.80979999999994
+February,Technology,Phones,Corporate,3199.6600000000003,553.0138000000001
+March,Technology,Phones,Corporate,9348.511999999999,1471.4242000000006
+April,Technology,Phones,Corporate,4877.786,390.47249999999997
+May,Technology,Phones,Corporate,5350.002,1216.2183999999997
+June,Technology,Phones,Corporate,4485.4980000000005,586.1765
+July,Technology,Phones,Corporate,8269.468,1322.2412000000004
+August,Technology,Phones,Corporate,5832.078000000001,436.9662000000001
+September,Technology,Phones,Corporate,12786.76,1123.6711999999998
+October,Technology,Phones,Corporate,8671.050000000003,1489.1581999999999
+November,Technology,Phones,Corporate,14790.813999999997,1559.2848999999994
+December,Technology,Phones,Corporate,11856.366,1397.7826999999993
+January,Technology,Phones,Home Office,2564.3840000000005,459.8589999999999
+February,Technology,Phones,Home Office,3561.4900000000007,284.72929999999974
+March,Technology,Phones,Home Office,10730.312000000002,743.8554000000001
+April,Technology,Phones,Home Office,3517.378,823.2351000000001
+May,Technology,Phones,Home Office,2614.1220000000003,149.45479999999992
+June,Technology,Phones,Home Office,6051.408000000001,836.4971000000002
+July,Technology,Phones,Home Office,1128.178,70.63409999999993
+August,Technology,Phones,Home Office,4535.342000000001,674.5267999999999
+September,Technology,Phones,Home Office,7787.430000000001,974.2237000000001
+October,Technology,Phones,Home Office,6531.557999999999,1509.2124
+November,Technology,Phones,Home Office,11980.264000000001,1900.1665000000003
+December,Technology,Phones,Home Office,7919.009999999998,486.0020999999999
