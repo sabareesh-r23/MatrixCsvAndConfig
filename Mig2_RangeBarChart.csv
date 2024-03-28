@@ -3,10 +3,6 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Categ
 2015,Furniture,Bookcases,242,-2755.230200000001
 2016,Furniture,Bookcases,197,212.47099999999932
 2017,Furniture,Bookcases,276,-583.6261000000015
-2014,Furniture,Tables,270,-3124.0427000000013
-2015,Furniture,Tables,235,-3509.8019000000018
-2016,Furniture,Tables,346,-2950.941800000002
-2017,Furniture,Tables,390,-8140.694700000002
 2014,Furniture,Chairs,540,6955.0470000000005
 2015,Furniture,Chairs,528,6228.4160999999995
 2016,Furniture,Chairs,614,5763.153899999996
@@ -15,6 +11,10 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Categ
 2015,Furniture,Furnishings,770,3051.818899999999
 2016,Furniture,Furnishings,1036,3935.270000000001
 2017,Furniture,Furnishings,1097,4099.162800000005
+2014,Furniture,Tables,270,-3124.0427000000013
+2015,Furniture,Tables,235,-3509.8019000000018
+2016,Furniture,Tables,346,-2950.941800000002
+2017,Furniture,Tables,390,-8140.694700000002
 2014,Office Supplies,Appliances,314,2459.499899999998
 2015,Office Supplies,Appliances,365,2511.8956999999996
 2016,Office Supplies,Appliances,396,5301.341499999998
@@ -23,18 +23,22 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Categ
 2015,Office Supplies,Art,608,1485.0582
 2016,Office Supplies,Art,678,1413.962600000001
 2017,Office Supplies,Art,1101,2221.9631
-2014,Office Supplies,Envelopes,206,1495.4787999999994
-2015,Office Supplies,Envelopes,237,1960.1905999999997
-2016,Office Supplies,Envelopes,222,2066.7482999999997
-2017,Office Supplies,Envelopes,241,1441.7590000000002
-2014,Office Supplies,Labels,326,1286.0041999999996
-2015,Office Supplies,Labels,263,1323.0285999999996
-2016,Office Supplies,Labels,363,1192.6118999999997
-2017,Office Supplies,Labels,448,1744.6092999999992
 2014,Office Supplies,Binders,1089,4739.716000000011
 2015,Office Supplies,Binders,1215,7596.6714
 2016,Office Supplies,Binders,1603,10215.634100000001
 2017,Office Supplies,Binders,2067,7669.7418
+2014,Office Supplies,Envelopes,206,1495.4787999999994
+2015,Office Supplies,Envelopes,237,1960.1905999999997
+2016,Office Supplies,Envelopes,222,2066.7482999999997
+2017,Office Supplies,Envelopes,241,1441.7590000000002
+2014,Office Supplies,Fasteners,201,178.55829999999997
+2015,Office Supplies,Fasteners,176,171.93759999999997
+2016,Office Supplies,Fasteners,288,294.07339999999994
+2017,Office Supplies,Fasteners,249,304.94890000000004
+2014,Office Supplies,Labels,326,1286.0041999999996
+2015,Office Supplies,Labels,263,1323.0285999999996
+2016,Office Supplies,Labels,363,1192.6118999999997
+2017,Office Supplies,Labels,448,1744.6092999999992
 2014,Office Supplies,Paper,1017,6371.021400000002
 2015,Office Supplies,Paper,1087,6570.169999999996
 2016,Office Supplies,Paper,1372,9071.534499999994
@@ -43,10 +47,6 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Categ
 2015,Office Supplies,Storage,655,3505.460099999999
 2016,Office Supplies,Storage,808,6204.286800000001
 2017,Office Supplies,Storage,1022,7402.800700000003
-2014,Office Supplies,Fasteners,201,178.55829999999997
-2015,Office Supplies,Fasteners,176,171.93759999999997
-2016,Office Supplies,Fasteners,288,294.07339999999994
-2017,Office Supplies,Fasteners,249,304.94890000000004
 2014,Office Supplies,Supplies,130,490.0555999999999
 2015,Office Supplies,Supplies,109,-24.87840000000003
 2016,Office Supplies,Supplies,216,-698.9639000000009
@@ -59,11 +59,11 @@ Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Categ
 2015,Technology,Copiers,63,9930.298799999999
 2016,Technology,Copiers,69,17742.792599999993
 2017,Technology,Copiers,73,25031.7902
-2014,Technology,Phones,684,11808.005300000006
-2015,Technology,Phones,697,10398.807399999994
-2016,Technology,Phones,818,9459.592900000001
-2017,Technology,Phones,1090,12849.325000000003
 2014,Technology,Machines,96,369.1688999999936
 2015,Technology,Machines,94,2977.4856000000004
 2016,Technology,Machines,129,2907.317999999991
 2017,Technology,Machines,121,-2869.2156000000014
+2014,Technology,Phones,684,11808.005300000006
+2015,Technology,Phones,697,10398.807399999994
+2016,Technology,Phones,818,9459.592900000001
+2017,Technology,Phones,1090,12849.325000000003
