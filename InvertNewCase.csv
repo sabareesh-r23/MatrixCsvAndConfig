@@ -1,0 +1,121 @@
+Sheet1.Month Name,Sheet1.Segment,Sheet1.Discount Band,Sum(Sheet1.Gross Sales),Sum(Sheet1.Profit)
+February,Government,Low,666456,145244.82
+January,Government,Low,57372,14925.570000000002
+July,Government,Low,1252713,280560.87
+June,Government,Low,,
+October,Government,Low,6694454,1582397.6400000001
+September,Government,Low,1564918,378352.06000000006
+February,Government,Medium,501976,110304.72
+January,Government,Medium,1362479,253868.55
+July,Government,Medium,496594,89443.08
+June,Government,Medium,1754652,390408.98
+October,Government,Medium,3993434,821377.6799999997
+September,Government,Medium,2777543,556844.32
+February,Government,High,1011393,180627.87999999998
+January,Government,High,1504679.5,215735.315
+July,Government,High,1534835.5,237201.19
+June,Government,High,2479260,321898.19999999995
+October,Government,High,1354392,262175.44
+September,Government,High,569052,100635.55999999998
+February,Government,None,968340,250420
+January,Government,None,69241,32381
+July,Government,None,11802,3372
+June,Government,None,780160,219060
+October,Government,None,16002,4572
+September,Government,None,549472,141722
+February,Small Business,Medium,1909500,168631
+January,Small Business,Medium,769500,58995
+July,Small Business,Medium,1635750,135361.5
+June,Small Business,Medium,2995800,273598
+October,Small Business,Medium,2041200,204642
+September,Small Business,Medium,2018700,171756
+February,Small Business,Low,853200,116604
+January,Small Business,Low,730350,99814.5
+July,Small Business,Low,,
+June,Small Business,Low,413400,56498
+October,Small Business,Low,1637400,218864
+September,Small Business,Low,1045200,163748
+February,Small Business,High,,
+January,Small Business,High,1552500,72648
+July,Small Business,High,1821600,73875
+June,Small Business,High,,
+October,Small Business,High,3369000,141620
+September,Small Business,High,129600,8640
+February,Small Business,None,600300,100050
+January,Small Business,None,,
+July,Small Business,None,,
+June,Small Business,None,,
+October,Small Business,None,,
+September,Small Business,None,881700,146950
+February,Channel Partners,High,23244,14876.16
+January,Channel Partners,High,20808,13317.119999999999
+July,Channel Partners,High,84270,53795.76
+June,Channel Partners,High,14496,8987.52
+October,Channel Partners,High,162552,100828.07999999999
+September,Channel Partners,High,45192,28591.559999999998
+February,Channel Partners,Low,22296,16499.04
+January,Channel Partners,Low,29748,21418.56
+July,Channel Partners,Low,16434,11832.48
+June,Channel Partners,Low,73032,52857.119999999995
+October,Channel Partners,Low,49464,36292.56
+September,Channel Partners,Low,96624,71034.48000000001
+February,Channel Partners,Medium,44496,30972.72
+January,Channel Partners,Medium,90486,61061.04000000001
+July,Channel Partners,Medium,,
+June,Channel Partners,Medium,,
+October,Channel Partners,Medium,63984,43884.72
+September,Channel Partners,Medium,79092,52934.64
+February,Channel Partners,None,,
+January,Channel Partners,None,,
+July,Channel Partners,None,4404,3303
+June,Channel Partners,None,97512,73134
+October,Channel Partners,None,,
+September,Channel Partners,None,,
+February,Midmarket,High,4170,806.1999999999998
+January,Midmarket,High,75937.5,15862.275
+July,Midmarket,High,123105,26713.225
+June,Midmarket,High,77010,15658.699999999997
+October,Midmarket,High,199500,41287.399999999994
+September,Midmarket,High,83280,16494.55
+February,Midmarket,Low,92595,29584.6
+January,Midmarket,Low,,
+July,Midmarket,Low,,
+June,Midmarket,Low,,
+October,Midmarket,Low,184830,54800.3
+September,Midmarket,Low,14475,4582.150000000001
+February,Midmarket,Medium,,
+January,Midmarket,Medium,51240,14518
+July,Midmarket,Medium,24457.5,5951.324999999999
+June,Midmarket,Medium,85320,23320.800000000003
+October,Midmarket,Medium,71400,18411.699999999997
+September,Midmarket,Medium,83265,22712.449999999997
+February,Midmarket,None,14610,4870
+January,Midmarket,None,,
+July,Midmarket,None,,
+June,Midmarket,None,166080,55360
+October,Midmarket,None,,
+September,Midmarket,None,45315,15105
+February,Enterprise,Low,,
+January,Enterprise,Low,,
+July,Enterprise,Low,601375,6836.25
+June,Enterprise,Low,936500,18590
+October,Enterprise,Low,1406500,24765
+September,Enterprise,Low,41250,1237.5
+February,Enterprise,None,225500,9020
+January,Enterprise,None,,
+July,Enterprise,None,333187.5,13327.5
+June,Enterprise,None,,
+October,Enterprise,None,86250,3450
+September,Enterprise,None,,
+February,Enterprise,Medium,564250,-10276.25
+January,Enterprise,Medium,248437.5,-4968.75
+July,Enterprise,Medium,892500,-17707.5
+June,Enterprise,Medium,,
+October,Enterprise,Medium,391250,-3912.5
+September,Enterprise,Medium,719750,-28285
+February,Enterprise,High,196875,-19687.5
+January,Enterprise,High,744625,-55547.5
+July,Enterprise,High,,
+June,Enterprise,High,395750,-35617.5
+October,Enterprise,High,1420500,-115675
+September,Enterprise,High,830625,-66320
