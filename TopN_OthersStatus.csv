@@ -1,0 +1,93 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.City,Sum(Orders.Sales),Sum(Orders.Discount),CountNonNull(Orders.Postal Code),Sum(Orders.Profit),Sum(Orders.Quantity)
+2014,Furniture,Akron,149.232,0.2,1,3.730800000000002,3
+2015,Furniture,Akron,,,,,
+2016,Furniture,Akron,,,,,
+2017,Furniture,Akron,284.364,0.4,1,-75.83040000000005,2
+2014,Furniture,Alexandria,75.24000000000001,0,2,35.253,6
+2015,Furniture,Alexandria,192.22,0,1,69.1992,14
+2016,Furniture,Alexandria,,,,,
+2017,Furniture,Alexandria,,,,,
+2014,Furniture,Allen,,,,,
+2015,Furniture,Allen,244.00599999999997,0.3,1,-31.372200000000007,2
+2016,Furniture,Allen,,,,,
+2017,Furniture,Allen,,,,,
+2014,Furniture,Amarillo,,,,,
+2015,Furniture,Amarillo,2453.43,0.3,1,-350.4899999999999,5
+2016,Furniture,Amarillo,389.82,0.8999999999999999,2,-120.98430000000003,7
+2017,Furniture,Amarillo,205.33279999999996,0.32,1,-36.235200000000006,2
+2014,Furniture,Andover,,,,,
+2015,Furniture,Andover,,,,,
+2016,Furniture,Andover,354.90000000000003,0,1,88.72500000000002,5
+2017,Furniture,Andover,,,,,
+2014,Furniture,Arlington,1224.8309999999997,0.8999999999999999,2,-125.83589999999992,8
+2015,Furniture,Arlington,1089.5649999999998,0.3,4,-83.28810000000007,12
+2016,Furniture,Arlington,734.2940000000001,0.6,4,196.0866,21
+2017,Furniture,Arlington,594.584,0.8999999999999999,3,27.905199999999972,10
+2014,Furniture,Atlanta,93.59,0,2,27.583199999999998,5
+2015,Furniture,Atlanta,129.93,0,1,12.992999999999988,3
+2016,Furniture,Atlanta,,,,,
+2017,Furniture,Atlanta,1628.82,0,1,374.6285999999999,9
+2014,Furniture,Aurora,268.935,0.5,1,-209.7693,3
+2015,Furniture,Aurora,1197.247,1.9,5,-797.0560000000002,23
+2016,Furniture,Aurora,2115.01,3.3,8,-938.3704000000001,29
+2017,Furniture,Aurora,1658.788,2.9000000000000004,7,-645.9712000000001,16
+2014,Office Supplies,Akron,21.678000000000004,0.8999999999999999,2,1.183200000000003,7
+2015,Office Supplies,Akron,31.590000000000007,1.5999999999999999,3,-12.740999999999996,7
+2016,Office Supplies,Akron,17.184,0.2,1,6.2292,6
+2017,Office Supplies,Akron,1042.936,2.5999999999999996,8,27.64379999999995,25
+2014,Office Supplies,Alexandria,4773.529999999999,0,8,128.41460000000006,36
+2015,Office Supplies,Alexandria,,,,,
+2016,Office Supplies,Alexandria,81.19999999999999,0,1,12.18,5
+2017,Office Supplies,Alexandria,25.060000000000002,0,1,12.530000000000001,7
+2014,Office Supplies,Allen,,,,,
+2015,Office Supplies,Allen,24.72,1,2,-8.2368,8
+2016,Office Supplies,Allen,,,,,
+2017,Office Supplies,Allen,,,,,
+2014,Office Supplies,Amarillo,,,,,
+2015,Office Supplies,Amarillo,,,,,
+2016,Office Supplies,Amarillo,73.92,0.6000000000000001,3,25.271999999999995,8
+2017,Office Supplies,Amarillo,,,,,
+2014,Office Supplies,Andover,,,,,
+2015,Office Supplies,Andover,,,,,
+2016,Office Supplies,Andover,80.95,0,3,35.4636,8
+2017,Office Supplies,Andover,,,,,
+2014,Office Supplies,Arlington,213.394,0.8,8,88.3712,25
+2015,Office Supplies,Arlington,2467.466,1.2000000000000002,9,172.04259999999982,43
+2016,Office Supplies,Arlington,278.012,2,10,67.34639999999999,48
+2017,Office Supplies,Arlington,814.9799999999999,3.2,10,21.823899999999853,44
+2014,Office Supplies,Atlanta,172.85,0,2,81.43869999999998,15
+2015,Office Supplies,Atlanta,7373.22,0,11,3540.0491,40
+2016,Office Supplies,Atlanta,2807.76,0,8,897.0447,28
+2017,Office Supplies,Atlanta,658.11,0,8,315.32559999999995,32
+2014,Office Supplies,Aurora,254.476,1.4000000000000001,4,21.354799999999983,15
+2015,Office Supplies,Aurora,587.12,5,12,-254.1005,38
+2016,Office Supplies,Aurora,1134.2780000000002,2.8999999999999995,9,-74.2594000000001,38
+2017,Office Supplies,Aurora,1332.2160000000003,4.1,12,-85.22120000000004,49
+2014,Technology,Akron,,,,,
+2015,Technology,Akron,395.95799999999997,0.6000000000000001,2,-80.09580000000003,6
+2016,Technology,Akron,787.044,1,3,-56.75540000000001,9
+2017,Technology,Akron,,,,,
+2014,Technology,Alexandria,372.32,0,3,61.0415,16
+2015,Technology,Alexandria,,,,,
+2016,Technology,Alexandria,,,,,
+2017,Technology,Alexandria,,,,,
+2014,Technology,Allen,,,,,
+2015,Technology,Allen,21.48,0.2,1,-0.26850000000000307,3
+2016,Technology,Allen,,,,,
+2017,Technology,Allen,,,,,
+2014,Technology,Amarillo,,,,,
+2015,Technology,Amarillo,571.048,0.4,2,73.59730000000002,7
+2016,Technology,Amarillo,79.51200000000001,0.2,1,20.8719,3
+2017,Technology,Amarillo,,,,,
+2014,Technology,Arlington,72.462,0.2,2,16.2486,6
+2015,Technology,Arlington,2513.79,0,3,752.3975999999999,21
+2016,Technology,Arlington,9891.17,0.4,4,2928.6041999999993,19
+2017,Technology,Arlington,319.98400000000004,0.2,1,107.99459999999999,2
+2014,Technology,Atlanta,,,,,
+2015,Technology,Atlanta,251.91,0,1,47.86289999999998,9
+2016,Technology,Atlanta,635.9300000000001,0,2,154.42090000000002,3
+2017,Technology,Atlanta,3445.72,0,3,1542.3162000000002,12
+2014,Technology,Aurora,38.272000000000006,0.2,1,3.8272000000000013,4
+2015,Technology,Aurora,364.84000000000003,0.4,2,-11.132800000000028,13
+2016,Technology,Aurora,470.688,0.6000000000000001,3,59.4003,16
+2017,Technology,Aurora,2234.608,0.8,4,239.55989999999986,14
