@@ -1,0 +1,73 @@
+Retail Orders.Order Date.Variation.Date Hierarchy.Month,Retail Orders.Order Date.Variation.Date Hierarchy.Quarter,Retail Orders.Order Date.Variation.Date Hierarchy.Year,Retail Orders.Category,Sum(Retail Orders.Sales)
+January,Qtr 1,2023,Furniture,12106.27
+February,Qtr 1,2023,Furniture,1739.33
+March,Qtr 1,2023,Furniture,14412.058
+April,Qtr 2,2023,Furniture,6827.18
+May,Qtr 2,2023,Furniture,5856.862
+June,Qtr 2,2023,Furniture,10401.0066
+July,Qtr 3,2023,Furniture,12026.57
+August,Qtr 3,2023,Furniture,12400.0945
+September,Qtr 3,2023,Furniture,16038.8908
+October,Qtr 4,2023,Furniture,13919.121
+November,Qtr 4,2023,Furniture,21062.4575
+December,Qtr 4,2023,Furniture,30403.0127
+January,Qtr 1,2024,Furniture,19024.6324
+February,Qtr 1,2024,Furniture,8049.983
+March,Qtr 1,2024,Furniture,13655.3802
+April,Qtr 2,2024,Furniture,10119.2445
+May,Qtr 2,2024,Furniture,12533.9905
+June,Qtr 2,2024,Furniture,8322.2182
+July,Qtr 3,2024,Furniture,12467.739
+August,Qtr 3,2024,Furniture,13598.349
+September,Qtr 3,2024,Furniture,27243.918
+October,Qtr 4,2024,Furniture,10975.414
+November,Qtr 4,2024,Furniture,19923.585
+December,Qtr 4,2024,Furniture,14603.7832
+January,Qtr 1,2023,Office Supplies,8446.956
+February,Qtr 1,2023,Office Supplies,4806.99
+March,Qtr 1,2023,Office Supplies,7418.046
+April,Qtr 2,2023,Office Supplies,8457.306
+May,Qtr 2,2023,Office Supplies,16187.772
+June,Qtr 2,2023,Office Supplies,10690.345
+July,Qtr 3,2023,Office Supplies,16114.482
+August,Qtr 3,2023,Office Supplies,8668.901
+September,Qtr 3,2023,Office Supplies,25701.753
+October,Qtr 4,2023,Office Supplies,7808.64
+November,Qtr 4,2023,Office Supplies,22777.807
+December,Qtr 4,2023,Office Supplies,14697.414
+January,Qtr 1,2024,Office Supplies,3332.294
+February,Qtr 1,2024,Office Supplies,5848.713
+March,Qtr 1,2024,Office Supplies,17429.365
+April,Qtr 2,2024,Office Supplies,12627.318
+May,Qtr 2,2024,Office Supplies,11071.134
+June,Qtr 2,2024,Office Supplies,10958.86
+July,Qtr 3,2024,Office Supplies,6238.447
+August,Qtr 3,2024,Office Supplies,12297.397
+September,Qtr 3,2024,Office Supplies,16803.871
+October,Qtr 4,2024,Office Supplies,11883.411
+November,Qtr 4,2024,Office Supplies,18972.351
+December,Qtr 4,2024,Office Supplies,9770.302
+January,Qtr 1,2023,Technology,8400.48
+February,Qtr 1,2023,Technology,6196.788
+March,Qtr 1,2023,Technology,32971.802
+April,Qtr 2,2023,Technology,9425.53
+May,Qtr 2,2023,Technology,7595.2
+June,Qtr 2,2023,Technology,8195.679
+July,Qtr 3,2023,Technology,7200.194
+August,Qtr 3,2023,Technology,16785.552
+September,Qtr 3,2023,Technology,24369.58
+October,Qtr 4,2023,Technology,12834.186
+November,Qtr 4,2023,Technology,20977.354
+December,Qtr 4,2023,Technology,20325.888
+January,Qtr 1,2024,Technology,6990.46
+February,Qtr 1,2024,Technology,6829.656
+March,Qtr 1,2024,Technology,9791.866
+April,Qtr 2,2024,Technology,15310.406
+May,Qtr 2,2024,Technology,7328.59
+June,Qtr 2,2024,Technology,9581.12
+July,Qtr 3,2024,Technology,10024.19
+August,Qtr 3,2024,Technology,24198.782
+September,Qtr 3,2024,Technology,22681.54
+October,Qtr 4,2024,Technology,9166.25
+November,Qtr 4,2024,Technology,11836.373
+December,Qtr 4,2024,Technology,29041.576
