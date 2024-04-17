@@ -1,0 +1,2848 @@
+Retail Orders.Order Date.Variation.Date Hierarchy.Day,Retail Orders.Order Date.Variation.Date Hierarchy.Month,Retail Orders.Order Date.Variation.Date Hierarchy.Quarter,Retail Orders.Order Date.Variation.Date Hierarchy.Year,Retail Orders.Category,Sum(Retail Orders.Sales)
+2,January,Qtr 1,2021,Furniture,
+3,January,Qtr 1,2021,Furniture,836.592
+4,January,Qtr 1,2021,Furniture,1324.532
+5,January,Qtr 1,2021,Furniture,370.62
+7,January,Qtr 1,2021,Furniture,
+8,January,Qtr 1,2021,Furniture,19.312
+9,January,Qtr 1,2021,Furniture,191.82
+10,January,Qtr 1,2021,Furniture,567.286
+11,January,Qtr 1,2021,Furniture,
+12,January,Qtr 1,2021,Furniture,1801.265
+14,January,Qtr 1,2021,Furniture,315.776
+15,January,Qtr 1,2021,Furniture,181.797
+16,January,Qtr 1,2021,Furniture,
+17,January,Qtr 1,2021,Furniture,322.59
+21,January,Qtr 1,2021,Furniture,1167.056
+22,January,Qtr 1,2021,Furniture,575.308
+23,January,Qtr 1,2021,Furniture,59.99
+24,January,Qtr 1,2021,Furniture,
+25,January,Qtr 1,2021,Furniture,359.702
+28,January,Qtr 1,2021,Furniture,
+30,January,Qtr 1,2021,Furniture,1109.848
+31,January,Qtr 1,2021,Furniture,
+1,February,Qtr 1,2021,Furniture,173.94
+2,February,Qtr 1,2021,Furniture,92.474
+4,February,Qtr 1,2021,Furniture,1454.9
+5,February,Qtr 1,2021,Furniture,781.06
+6,February,Qtr 1,2021,Furniture,
+7,February,Qtr 1,2021,Furniture,723.614
+8,February,Qtr 1,2021,Furniture,136.464
+9,February,Qtr 1,2021,Furniture,1476.154
+10,February,Qtr 1,2021,Furniture,
+12,February,Qtr 1,2021,Furniture,868.804
+13,February,Qtr 1,2021,Furniture,
+14,February,Qtr 1,2021,Furniture,560.991
+15,February,Qtr 1,2021,Furniture,
+16,February,Qtr 1,2021,Furniture,935.644
+19,February,Qtr 1,2021,Furniture,44.46
+20,February,Qtr 1,2021,Furniture,
+21,February,Qtr 1,2021,Furniture,204.75
+22,February,Qtr 1,2021,Furniture,
+23,February,Qtr 1,2021,Furniture,
+25,February,Qtr 1,2021,Furniture,
+27,February,Qtr 1,2021,Furniture,16.192
+28,February,Qtr 1,2021,Furniture,
+1,March,Qtr 1,2021,Furniture,1592.85
+2,March,Qtr 1,2021,Furniture,866.4
+3,March,Qtr 1,2021,Furniture,1236.606
+4,March,Qtr 1,2021,Furniture,71.12
+5,March,Qtr 1,2021,Furniture,51.968
+6,March,Qtr 1,2021,Furniture,71.088
+7,March,Qtr 1,2021,Furniture,
+8,March,Qtr 1,2021,Furniture,
+9,March,Qtr 1,2021,Furniture,642.396
+10,March,Qtr 1,2021,Furniture,1552.508
+11,March,Qtr 1,2021,Furniture,1554.779
+12,March,Qtr 1,2021,Furniture,2140.888
+13,March,Qtr 1,2021,Furniture,1100.425
+14,March,Qtr 1,2021,Furniture,476.736
+15,March,Qtr 1,2021,Furniture,1880.462
+17,March,Qtr 1,2021,Furniture,971.5
+18,March,Qtr 1,2021,Furniture,189.882
+19,March,Qtr 1,2021,Furniture,107.594
+20,March,Qtr 1,2021,Furniture,783.61
+21,March,Qtr 1,2021,Furniture,627.802
+22,March,Qtr 1,2021,Furniture,167.888
+24,March,Qtr 1,2021,Furniture,301.47
+25,March,Qtr 1,2021,Furniture,
+26,March,Qtr 1,2021,Furniture,
+27,March,Qtr 1,2021,Furniture,60.16
+28,March,Qtr 1,2021,Furniture,
+29,March,Qtr 1,2021,Furniture,1558.091
+30,March,Qtr 1,2021,Furniture,
+31,March,Qtr 1,2021,Furniture,327.996
+1,April,Qtr 2,2021,Furniture,
+2,April,Qtr 2,2021,Furniture,14.368
+3,April,Qtr 2,2021,Furniture,
+4,April,Qtr 2,2021,Furniture,82.64
+6,April,Qtr 2,2021,Furniture,810.541
+7,April,Qtr 2,2021,Furniture,1329.965
+8,April,Qtr 2,2021,Furniture,109.8
+9,April,Qtr 2,2021,Furniture,130.81
+10,April,Qtr 2,2021,Furniture,250.94
+11,April,Qtr 2,2021,Furniture,2007.59
+12,April,Qtr 2,2021,Furniture,113.79
+13,April,Qtr 2,2021,Furniture,
+14,April,Qtr 2,2021,Furniture,1317.336
+15,April,Qtr 2,2021,Furniture,1121.568
+16,April,Qtr 2,2021,Furniture,9.96
+17,April,Qtr 2,2021,Furniture,355.243
+18,April,Qtr 2,2021,Furniture,472.252
+19,April,Qtr 2,2021,Furniture,205.176
+21,April,Qtr 2,2021,Furniture,
+22,April,Qtr 2,2021,Furniture,1414.37
+23,April,Qtr 2,2021,Furniture,
+24,April,Qtr 2,2021,Furniture,1325.76
+25,April,Qtr 2,2021,Furniture,
+26,April,Qtr 2,2021,Furniture,434.646
+28,April,Qtr 2,2021,Furniture,71.912
+30,April,Qtr 2,2021,Furniture,134.496
+1,May,Qtr 2,2021,Furniture,
+2,May,Qtr 2,2021,Furniture,816.548
+3,May,Qtr 2,2021,Furniture,
+4,May,Qtr 2,2021,Furniture,
+5,May,Qtr 2,2021,Furniture,2072.464
+6,May,Qtr 2,2021,Furniture,
+8,May,Qtr 2,2021,Furniture,
+9,May,Qtr 2,2021,Furniture,3461.917
+11,May,Qtr 2,2021,Furniture,2964.4408
+12,May,Qtr 2,2021,Furniture,2239
+14,May,Qtr 2,2021,Furniture,109.576
+15,May,Qtr 2,2021,Furniture,
+16,May,Qtr 2,2021,Furniture,282.84
+17,May,Qtr 2,2021,Furniture,195.848
+18,May,Qtr 2,2021,Furniture,
+19,May,Qtr 2,2021,Furniture,717.64
+20,May,Qtr 2,2021,Furniture,1049.2
+21,May,Qtr 2,2021,Furniture,
+22,May,Qtr 2,2021,Furniture,174.286
+23,May,Qtr 2,2021,Furniture,37.05
+24,May,Qtr 2,2021,Furniture,
+25,May,Qtr 2,2021,Furniture,24.96
+26,May,Qtr 2,2021,Furniture,941.444
+27,May,Qtr 2,2021,Furniture,3535.66
+28,May,Qtr 2,2021,Furniture,390.272
+29,May,Qtr 2,2021,Furniture,44.76
+30,May,Qtr 2,2021,Furniture,3292.308
+31,May,Qtr 2,2021,Furniture,223.143
+2,June,Qtr 2,2021,Furniture,132.224
+3,June,Qtr 2,2021,Furniture,305.02
+4,June,Qtr 2,2021,Furniture,
+5,June,Qtr 2,2021,Furniture,96.312
+6,June,Qtr 2,2021,Furniture,548.96
+8,June,Qtr 2,2021,Furniture,
+9,June,Qtr 2,2021,Furniture,722.352
+10,June,Qtr 2,2021,Furniture,
+11,June,Qtr 2,2021,Furniture,563.536
+12,June,Qtr 2,2021,Furniture,
+13,June,Qtr 2,2021,Furniture,
+14,June,Qtr 2,2021,Furniture,3353.729
+15,June,Qtr 2,2021,Furniture,
+16,June,Qtr 2,2021,Furniture,
+17,June,Qtr 2,2021,Furniture,1685.43
+18,June,Qtr 2,2021,Furniture,
+19,June,Qtr 2,2021,Furniture,
+20,June,Qtr 2,2021,Furniture,219.258
+21,June,Qtr 2,2021,Furniture,353.568
+23,June,Qtr 2,2021,Furniture,
+24,June,Qtr 2,2021,Furniture,
+25,June,Qtr 2,2021,Furniture,540.016
+26,June,Qtr 2,2021,Furniture,59.88
+27,June,Qtr 2,2021,Furniture,539.658
+28,June,Qtr 2,2021,Furniture,121.96
+29,June,Qtr 2,2021,Furniture,
+30,June,Qtr 2,2021,Furniture,1266.86
+1,July,Qtr 3,2021,Furniture,23.076
+2,July,Qtr 3,2021,Furniture,
+3,July,Qtr 3,2021,Furniture,
+4,July,Qtr 3,2021,Furniture,658.746
+5,July,Qtr 3,2021,Furniture,506.444
+6,July,Qtr 3,2021,Furniture,
+7,July,Qtr 3,2021,Furniture,817.278
+8,July,Qtr 3,2021,Furniture,
+10,July,Qtr 3,2021,Furniture,
+11,July,Qtr 3,2021,Furniture,1662.416
+14,July,Qtr 3,2021,Furniture,661.686
+15,July,Qtr 3,2021,Furniture,230.28
+16,July,Qtr 3,2021,Furniture,9.552
+17,July,Qtr 3,2021,Furniture,37.17
+18,July,Qtr 3,2021,Furniture,1539.17
+19,July,Qtr 3,2021,Furniture,690.48
+20,July,Qtr 3,2021,Furniture,
+21,July,Qtr 3,2021,Furniture,363.92
+22,July,Qtr 3,2021,Furniture,39.068
+23,July,Qtr 3,2021,Furniture,
+24,July,Qtr 3,2021,Furniture,253.764
+25,July,Qtr 3,2021,Furniture,3495.468
+28,July,Qtr 3,2021,Furniture,504.87
+29,July,Qtr 3,2021,Furniture,
+30,July,Qtr 3,2021,Furniture,
+31,July,Qtr 3,2021,Furniture,1136.068
+1,August,Qtr 3,2021,Furniture,1565.88
+2,August,Qtr 3,2021,Furniture,241.5
+3,August,Qtr 3,2021,Furniture,215.96
+4,August,Qtr 3,2021,Furniture,1024.208
+5,August,Qtr 3,2021,Furniture,211.96
+7,August,Qtr 3,2021,Furniture,662.88
+8,August,Qtr 3,2021,Furniture,513.024
+9,August,Qtr 3,2021,Furniture,3374.9816
+10,August,Qtr 3,2021,Furniture,51.712
+11,August,Qtr 3,2021,Furniture,993.9
+12,August,Qtr 3,2021,Furniture,2698.454
+13,August,Qtr 3,2021,Furniture,241.96
+14,August,Qtr 3,2021,Furniture,
+15,August,Qtr 3,2021,Furniture,537.326
+16,August,Qtr 3,2021,Furniture,161.28
+17,August,Qtr 3,2021,Furniture,
+18,August,Qtr 3,2021,Furniture,14.896
+19,August,Qtr 3,2021,Furniture,
+20,August,Qtr 3,2021,Furniture,
+21,August,Qtr 3,2021,Furniture,4275.522
+22,August,Qtr 3,2021,Furniture,98.328
+23,August,Qtr 3,2021,Furniture,555.312
+26,August,Qtr 3,2021,Furniture,3262.232
+27,August,Qtr 3,2021,Furniture,244.615
+28,August,Qtr 3,2021,Furniture,156.3728
+29,August,Qtr 3,2021,Furniture,405.8
+30,August,Qtr 3,2021,Furniture,833.784
+31,August,Qtr 3,2021,Furniture,
+1,September,Qtr 3,2021,Furniture,15.168
+2,September,Qtr 3,2021,Furniture,
+3,September,Qtr 3,2021,Furniture,354.9
+4,September,Qtr 3,2021,Furniture,556.665
+5,September,Qtr 3,2021,Furniture,
+6,September,Qtr 3,2021,Furniture,815.292
+7,September,Qtr 3,2021,Furniture,573.286
+8,September,Qtr 3,2021,Furniture,
+9,September,Qtr 3,2021,Furniture,15.008
+10,September,Qtr 3,2021,Furniture,502.4
+11,September,Qtr 3,2021,Furniture,
+12,September,Qtr 3,2021,Furniture,1136.834
+13,September,Qtr 3,2021,Furniture,1336.44
+14,September,Qtr 3,2021,Furniture,
+15,September,Qtr 3,2021,Furniture,1128.39
+16,September,Qtr 3,2021,Furniture,395.446
+17,September,Qtr 3,2021,Furniture,430.008
+18,September,Qtr 3,2021,Furniture,3218.74
+19,September,Qtr 3,2021,Furniture,1599.324
+20,September,Qtr 3,2021,Furniture,279.36
+22,September,Qtr 3,2021,Furniture,100.672
+23,September,Qtr 3,2021,Furniture,1114.426
+24,September,Qtr 3,2021,Furniture,931.202
+25,September,Qtr 3,2021,Furniture,1624.567
+26,September,Qtr 3,2021,Furniture,1627.4805
+27,September,Qtr 3,2021,Furniture,956.6648
+28,September,Qtr 3,2021,Furniture,
+29,September,Qtr 3,2021,Furniture,
+30,September,Qtr 3,2021,Furniture,523.92
+1,October,Qtr 4,2021,Furniture,104.77
+3,October,Qtr 4,2021,Furniture,176.784
+4,October,Qtr 4,2021,Furniture,
+5,October,Qtr 4,2021,Furniture,
+6,October,Qtr 4,2021,Furniture,1335.68
+7,October,Qtr 4,2021,Furniture,
+9,October,Qtr 4,2021,Furniture,300.93
+10,October,Qtr 4,2021,Furniture,225.666
+11,October,Qtr 4,2021,Furniture,1004.988
+12,October,Qtr 4,2021,Furniture,1746.468
+13,October,Qtr 4,2021,Furniture,1017.71
+14,October,Qtr 4,2021,Furniture,102.592
+15,October,Qtr 4,2021,Furniture,
+16,October,Qtr 4,2021,Furniture,142.182
+17,October,Qtr 4,2021,Furniture,241.646
+18,October,Qtr 4,2021,Furniture,307.92
+20,October,Qtr 4,2021,Furniture,504.922
+21,October,Qtr 4,2021,Furniture,2012.76
+22,October,Qtr 4,2021,Furniture,173.26
+23,October,Qtr 4,2021,Furniture,16.156
+24,October,Qtr 4,2021,Furniture,
+25,October,Qtr 4,2021,Furniture,
+27,October,Qtr 4,2021,Furniture,758.824
+28,October,Qtr 4,2021,Furniture,1111.368
+29,October,Qtr 4,2021,Furniture,67
+30,October,Qtr 4,2021,Furniture,
+31,October,Qtr 4,2021,Furniture,2265.725
+1,November,Qtr 4,2021,Furniture,54.992
+2,November,Qtr 4,2021,Furniture,
+3,November,Qtr 4,2021,Furniture,351.262
+5,November,Qtr 4,2021,Furniture,
+6,November,Qtr 4,2021,Furniture,915.256
+8,November,Qtr 4,2021,Furniture,
+9,November,Qtr 4,2021,Furniture,
+10,November,Qtr 4,2021,Furniture,
+11,November,Qtr 4,2021,Furniture,3472.65
+12,November,Qtr 4,2021,Furniture,2461.796
+13,November,Qtr 4,2021,Furniture,54.08
+14,November,Qtr 4,2021,Furniture,856.56
+15,November,Qtr 4,2021,Furniture,630.024
+16,November,Qtr 4,2021,Furniture,
+17,November,Qtr 4,2021,Furniture,
+18,November,Qtr 4,2021,Furniture,557.068
+19,November,Qtr 4,2021,Furniture,34.288
+20,November,Qtr 4,2021,Furniture,702.036
+21,November,Qtr 4,2021,Furniture,514.21
+22,November,Qtr 4,2021,Furniture,39.88
+23,November,Qtr 4,2021,Furniture,84.816
+24,November,Qtr 4,2021,Furniture,2324.632
+25,November,Qtr 4,2021,Furniture,1762.962
+26,November,Qtr 4,2021,Furniture,4315.22
+27,November,Qtr 4,2021,Furniture,362.583
+28,November,Qtr 4,2021,Furniture,530.472
+29,November,Qtr 4,2021,Furniture,242.176
+30,November,Qtr 4,2021,Furniture,389.97
+2,December,Qtr 4,2021,Furniture,
+3,December,Qtr 4,2021,Furniture,770.352
+4,December,Qtr 4,2021,Furniture,1176.56
+5,December,Qtr 4,2021,Furniture,10.02
+6,December,Qtr 4,2021,Furniture,433.396
+7,December,Qtr 4,2021,Furniture,
+8,December,Qtr 4,2021,Furniture,917.2045
+9,December,Qtr 4,2021,Furniture,1679.872
+11,December,Qtr 4,2021,Furniture,4158.352
+12,December,Qtr 4,2021,Furniture,477.47
+13,December,Qtr 4,2021,Furniture,1114.272
+14,December,Qtr 4,2021,Furniture,611.724
+15,December,Qtr 4,2021,Furniture,2231.895
+16,December,Qtr 4,2021,Furniture,563.92
+17,December,Qtr 4,2021,Furniture,2003.52
+18,December,Qtr 4,2021,Furniture,1183.99
+19,December,Qtr 4,2021,Furniture,759.89
+20,December,Qtr 4,2021,Furniture,18.92
+22,December,Qtr 4,2021,Furniture,919.304
+23,December,Qtr 4,2021,Furniture,1002.84
+24,December,Qtr 4,2021,Furniture,843.52
+25,December,Qtr 4,2021,Furniture,6636.863
+26,December,Qtr 4,2021,Furniture,1262.004
+27,December,Qtr 4,2021,Furniture,845.488
+29,December,Qtr 4,2021,Furniture,825.01
+30,December,Qtr 4,2021,Furniture,170.786
+31,December,Qtr 4,2021,Furniture,
+1,January,Qtr 1,2022,Furniture,975.49
+4,January,Qtr 1,2022,Furniture,828.966
+5,January,Qtr 1,2022,Furniture,4051.534
+6,January,Qtr 1,2022,Furniture,1925.88
+7,January,Qtr 1,2022,Furniture,
+8,January,Qtr 1,2022,Furniture,
+9,January,Qtr 1,2022,Furniture,896.72
+10,January,Qtr 1,2022,Furniture,559.76
+11,January,Qtr 1,2022,Furniture,2665.62
+12,January,Qtr 1,2022,Furniture,2542.292
+13,January,Qtr 1,2022,Furniture,212.94
+14,January,Qtr 1,2022,Furniture,18.96
+15,January,Qtr 1,2022,Furniture,
+16,January,Qtr 1,2022,Furniture,730.262
+19,January,Qtr 1,2022,Furniture,919.239
+20,January,Qtr 1,2022,Furniture,207.846
+21,January,Qtr 1,2022,Furniture,84.98
+22,January,Qtr 1,2022,Furniture,
+23,January,Qtr 1,2022,Furniture,210.98
+24,January,Qtr 1,2022,Furniture,
+26,January,Qtr 1,2022,Furniture,62.72
+27,January,Qtr 1,2022,Furniture,
+28,January,Qtr 1,2022,Furniture,37.74
+29,January,Qtr 1,2022,Furniture,14.91
+30,January,Qtr 1,2022,Furniture,643.875
+1,February,Qtr 1,2022,Furniture,913.43
+2,February,Qtr 1,2022,Furniture,296.84
+3,February,Qtr 1,2022,Furniture,441.96
+4,February,Qtr 1,2022,Furniture,436.91
+5,February,Qtr 1,2022,Furniture,129.93
+6,February,Qtr 1,2022,Furniture,
+7,February,Qtr 1,2022,Furniture,
+9,February,Qtr 1,2022,Furniture,2527.552
+10,February,Qtr 1,2022,Furniture,2758.464
+11,February,Qtr 1,2022,Furniture,1159.624
+12,February,Qtr 1,2022,Furniture,3527.504
+13,February,Qtr 1,2022,Furniture,107.53
+16,February,Qtr 1,2022,Furniture,608.25
+17,February,Qtr 1,2022,Furniture,1955.5704
+18,February,Qtr 1,2022,Furniture,
+19,February,Qtr 1,2022,Furniture,44.67
+20,February,Qtr 1,2022,Furniture,477.844
+21,February,Qtr 1,2022,Furniture,
+23,February,Qtr 1,2022,Furniture,
+24,February,Qtr 1,2022,Furniture,
+25,February,Qtr 1,2022,Furniture,428.704
+26,February,Qtr 1,2022,Furniture,984.184
+28,February,Qtr 1,2022,Furniture,
+1,March,Qtr 1,2022,Furniture,
+2,March,Qtr 1,2022,Furniture,22.2
+3,March,Qtr 1,2022,Furniture,751.004
+4,March,Qtr 1,2022,Furniture,25.472
+5,March,Qtr 1,2022,Furniture,405.918
+6,March,Qtr 1,2022,Furniture,661.504
+7,March,Qtr 1,2022,Furniture,1016.678
+8,March,Qtr 1,2022,Furniture,307.332
+9,March,Qtr 1,2022,Furniture,620.631
+10,March,Qtr 1,2022,Furniture,255.208
+11,March,Qtr 1,2022,Furniture,2524.05
+12,March,Qtr 1,2022,Furniture,591.84
+13,March,Qtr 1,2022,Furniture,89.768
+14,March,Qtr 1,2022,Furniture,
+16,March,Qtr 1,2022,Furniture,51.264
+17,March,Qtr 1,2022,Furniture,
+18,March,Qtr 1,2022,Furniture,82.524
+19,March,Qtr 1,2022,Furniture,728.09
+20,March,Qtr 1,2022,Furniture,2.91
+21,March,Qtr 1,2022,Furniture,1828.02
+23,March,Qtr 1,2022,Furniture,211.84
+24,March,Qtr 1,2022,Furniture,479.61
+25,March,Qtr 1,2022,Furniture,1986.52
+26,March,Qtr 1,2022,Furniture,318.408
+27,March,Qtr 1,2022,Furniture,2142.244
+28,March,Qtr 1,2022,Furniture,48.04
+29,March,Qtr 1,2022,Furniture,
+30,March,Qtr 1,2022,Furniture,94.2
+31,March,Qtr 1,2022,Furniture,296.1128
+2,April,Qtr 2,2022,Furniture,
+3,April,Qtr 2,2022,Furniture,103.5
+4,April,Qtr 2,2022,Furniture,
+5,April,Qtr 2,2022,Furniture,300.904
+6,April,Qtr 2,2022,Furniture,62.32
+8,April,Qtr 2,2022,Furniture,
+9,April,Qtr 2,2022,Furniture,3722.982
+10,April,Qtr 2,2022,Furniture,19.98
+11,April,Qtr 2,2022,Furniture,523.764
+12,April,Qtr 2,2022,Furniture,992.782
+13,April,Qtr 2,2022,Furniture,436.704
+14,April,Qtr 2,2022,Furniture,515.074
+15,April,Qtr 2,2022,Furniture,196.45
+16,April,Qtr 2,2022,Furniture,102.833
+17,April,Qtr 2,2022,Furniture,278.664
+20,April,Qtr 2,2022,Furniture,470.394
+21,April,Qtr 2,2022,Furniture,1071.42
+22,April,Qtr 2,2022,Furniture,272.632
+23,April,Qtr 2,2022,Furniture,567.252
+24,April,Qtr 2,2022,Furniture,
+25,April,Qtr 2,2022,Furniture,344.981
+26,April,Qtr 2,2022,Furniture,1.988
+27,April,Qtr 2,2022,Furniture,359.8456
+28,April,Qtr 2,2022,Furniture,
+29,April,Qtr 2,2022,Furniture,1048.35
+30,April,Qtr 2,2022,Furniture,309.344
+2,May,Qtr 2,2022,Furniture,
+3,May,Qtr 2,2022,Furniture,
+5,May,Qtr 2,2022,Furniture,89.991
+6,May,Qtr 2,2022,Furniture,
+7,May,Qtr 2,2022,Furniture,332.028
+8,May,Qtr 2,2022,Furniture,
+9,May,Qtr 2,2022,Furniture,
+10,May,Qtr 2,2022,Furniture,935.802
+11,May,Qtr 2,2022,Furniture,396.024
+12,May,Qtr 2,2022,Furniture,321.48
+13,May,Qtr 2,2022,Furniture,458.43
+14,May,Qtr 2,2022,Furniture,1179.67
+15,May,Qtr 2,2022,Furniture,303.544
+16,May,Qtr 2,2022,Furniture,
+18,May,Qtr 2,2022,Furniture,342
+19,May,Qtr 2,2022,Furniture,2624.58
+20,May,Qtr 2,2022,Furniture,525.252
+21,May,Qtr 2,2022,Furniture,520.05
+22,May,Qtr 2,2022,Furniture,181.986
+23,May,Qtr 2,2022,Furniture,171.288
+25,May,Qtr 2,2022,Furniture,18.84
+26,May,Qtr 2,2022,Furniture,
+27,May,Qtr 2,2022,Furniture,512.3
+28,May,Qtr 2,2022,Furniture,799.689
+29,May,Qtr 2,2022,Furniture,71.664
+30,May,Qtr 2,2022,Furniture,468.2284
+1,June,Qtr 2,2022,Furniture,
+2,June,Qtr 2,2022,Furniture,600.754
+3,June,Qtr 2,2022,Furniture,71.97
+4,June,Qtr 2,2022,Furniture,
+5,June,Qtr 2,2022,Furniture,623.4648
+6,June,Qtr 2,2022,Furniture,4.95
+7,June,Qtr 2,2022,Furniture,361.376
+8,June,Qtr 2,2022,Furniture,161.14
+10,June,Qtr 2,2022,Furniture,41.96
+11,June,Qtr 2,2022,Furniture,2681.362
+12,June,Qtr 2,2022,Furniture,
+13,June,Qtr 2,2022,Furniture,761.438
+15,June,Qtr 2,2022,Furniture,928.208
+16,June,Qtr 2,2022,Furniture,1514.92
+17,June,Qtr 2,2022,Furniture,155.25
+18,June,Qtr 2,2022,Furniture,917.9235
+19,June,Qtr 2,2022,Furniture,1306.705
+20,June,Qtr 2,2022,Furniture,
+21,June,Qtr 2,2022,Furniture,17.92
+22,June,Qtr 2,2022,Furniture,487.96
+24,June,Qtr 2,2022,Furniture,449.454
+25,June,Qtr 2,2022,Furniture,1272.184
+26,June,Qtr 2,2022,Furniture,800.002
+27,June,Qtr 2,2022,Furniture,317.946
+29,June,Qtr 2,2022,Furniture,1381.2932
+30,June,Qtr 2,2022,Furniture,2105.661
+1,July,Qtr 3,2022,Furniture,
+3,July,Qtr 3,2022,Furniture,
+4,July,Qtr 3,2022,Furniture,1112.5465
+5,July,Qtr 3,2022,Furniture,1962.09
+7,July,Qtr 3,2022,Furniture,87.21
+8,July,Qtr 3,2022,Furniture,258.934
+9,July,Qtr 3,2022,Furniture,470.688
+10,July,Qtr 3,2022,Furniture,462.43
+11,July,Qtr 3,2022,Furniture,623.322
+12,July,Qtr 3,2022,Furniture,82.38
+13,July,Qtr 3,2022,Furniture,91.008
+14,July,Qtr 3,2022,Furniture,692.45
+15,July,Qtr 3,2022,Furniture,1847.529
+16,July,Qtr 3,2022,Furniture,313.724
+17,July,Qtr 3,2022,Furniture,1241.149
+18,July,Qtr 3,2022,Furniture,1473.888
+20,July,Qtr 3,2022,Furniture,539.416
+21,July,Qtr 3,2022,Furniture,661.44
+22,July,Qtr 3,2022,Furniture,526.344
+23,July,Qtr 3,2022,Furniture,
+24,July,Qtr 3,2022,Furniture,
+25,July,Qtr 3,2022,Furniture,456.8
+26,July,Qtr 3,2022,Furniture,362.352
+27,July,Qtr 3,2022,Furniture,324.65
+28,July,Qtr 3,2022,Furniture,
+29,July,Qtr 3,2022,Furniture,418.63
+30,July,Qtr 3,2022,Furniture,
+31,July,Qtr 3,2022,Furniture,36.96
+1,August,Qtr 3,2022,Furniture,892.98
+3,August,Qtr 3,2022,Furniture,
+4,August,Qtr 3,2022,Furniture,637.14
+5,August,Qtr 3,2022,Furniture,176.05
+6,August,Qtr 3,2022,Furniture,1497.666
+7,August,Qtr 3,2022,Furniture,484.1
+9,August,Qtr 3,2022,Furniture,1000.239
+10,August,Qtr 3,2022,Furniture,145.764
+11,August,Qtr 3,2022,Furniture,274.2
+12,August,Qtr 3,2022,Furniture,3368.265
+13,August,Qtr 3,2022,Furniture,455.632
+14,August,Qtr 3,2022,Furniture,418.296
+15,August,Qtr 3,2022,Furniture,
+16,August,Qtr 3,2022,Furniture,
+17,August,Qtr 3,2022,Furniture,4970.114
+18,August,Qtr 3,2022,Furniture,204.38
+19,August,Qtr 3,2022,Furniture,
+20,August,Qtr 3,2022,Furniture,
+21,August,Qtr 3,2022,Furniture,2093.584
+22,August,Qtr 3,2022,Furniture,524.54
+23,August,Qtr 3,2022,Furniture,2.784
+24,August,Qtr 3,2022,Furniture,
+25,August,Qtr 3,2022,Furniture,130.98
+26,August,Qtr 3,2022,Furniture,64.96
+27,August,Qtr 3,2022,Furniture,2037.74
+28,August,Qtr 3,2022,Furniture,1137.75
+29,August,Qtr 3,2022,Furniture,148.02
+31,August,Qtr 3,2022,Furniture,569.568
+1,September,Qtr 3,2022,Furniture,
+2,September,Qtr 3,2022,Furniture,25.104
+3,September,Qtr 3,2022,Furniture,
+4,September,Qtr 3,2022,Furniture,
+5,September,Qtr 3,2022,Furniture,493.85
+6,September,Qtr 3,2022,Furniture,132.901
+7,September,Qtr 3,2022,Furniture,526.45
+9,September,Qtr 3,2022,Furniture,482.564
+10,September,Qtr 3,2022,Furniture,1333.393
+11,September,Qtr 3,2022,Furniture,883.018
+12,September,Qtr 3,2022,Furniture,1927.233
+13,September,Qtr 3,2022,Furniture,
+14,September,Qtr 3,2022,Furniture,830.718
+15,September,Qtr 3,2022,Furniture,2612.768
+16,September,Qtr 3,2022,Furniture,22.512
+17,September,Qtr 3,2022,Furniture,2335.29
+18,September,Qtr 3,2022,Furniture,30.14
+19,September,Qtr 3,2022,Furniture,481.804
+20,September,Qtr 3,2022,Furniture,5496.174
+21,September,Qtr 3,2022,Furniture,
+22,September,Qtr 3,2022,Furniture,254.03
+23,September,Qtr 3,2022,Furniture,804.732
+24,September,Qtr 3,2022,Furniture,1427.24
+25,September,Qtr 3,2022,Furniture,805.736
+26,September,Qtr 3,2022,Furniture,428.376
+28,September,Qtr 3,2022,Furniture,42.016
+29,September,Qtr 3,2022,Furniture,553.688
+30,September,Qtr 3,2022,Furniture,
+2,October,Qtr 4,2022,Furniture,203.983
+3,October,Qtr 4,2022,Furniture,983.976
+4,October,Qtr 4,2022,Furniture,48.992
+6,October,Qtr 4,2022,Furniture,514.165
+7,October,Qtr 4,2022,Furniture,18.84
+8,October,Qtr 4,2022,Furniture,121.3
+9,October,Qtr 4,2022,Furniture,362.352
+10,October,Qtr 4,2022,Furniture,239.358
+11,October,Qtr 4,2022,Furniture,1482.52
+12,October,Qtr 4,2022,Furniture,2102.264
+13,October,Qtr 4,2022,Furniture,1514.996
+14,October,Qtr 4,2022,Furniture,9.46
+15,October,Qtr 4,2022,Furniture,532.96
+16,October,Qtr 4,2022,Furniture,2422.558
+17,October,Qtr 4,2022,Furniture,
+19,October,Qtr 4,2022,Furniture,531.1622
+20,October,Qtr 4,2022,Furniture,328.3
+21,October,Qtr 4,2022,Furniture,1470.238
+22,October,Qtr 4,2022,Furniture,1005.341
+23,October,Qtr 4,2022,Furniture,1193.4
+24,October,Qtr 4,2022,Furniture,517.405
+26,October,Qtr 4,2022,Furniture,356.85
+27,October,Qtr 4,2022,Furniture,746.241
+28,October,Qtr 4,2022,Furniture,77.952
+29,October,Qtr 4,2022,Furniture,
+30,October,Qtr 4,2022,Furniture,1301.758
+31,October,Qtr 4,2022,Furniture,
+2,November,Qtr 4,2022,Furniture,1110.704
+3,November,Qtr 4,2022,Furniture,181.484
+4,November,Qtr 4,2022,Furniture,
+5,November,Qtr 4,2022,Furniture,217.975
+6,November,Qtr 4,2022,Furniture,455.212
+7,November,Qtr 4,2022,Furniture,
+8,November,Qtr 4,2022,Furniture,
+9,November,Qtr 4,2022,Furniture,2810.894
+11,November,Qtr 4,2022,Furniture,123.84
+12,November,Qtr 4,2022,Furniture,1448.529
+13,November,Qtr 4,2022,Furniture,2765.6532
+14,November,Qtr 4,2022,Furniture,321.568
+15,November,Qtr 4,2022,Furniture,559.2
+16,November,Qtr 4,2022,Furniture,289.59
+17,November,Qtr 4,2022,Furniture,515.4928
+18,November,Qtr 4,2022,Furniture,152.966
+19,November,Qtr 4,2022,Furniture,2603.165
+20,November,Qtr 4,2022,Furniture,880.862
+21,November,Qtr 4,2022,Furniture,98.4
+22,November,Qtr 4,2022,Furniture,
+23,November,Qtr 4,2022,Furniture,186.697
+24,November,Qtr 4,2022,Furniture,1734.028
+25,November,Qtr 4,2022,Furniture,2639.309
+26,November,Qtr 4,2022,Furniture,1375.6
+27,November,Qtr 4,2022,Furniture,65.78
+28,November,Qtr 4,2022,Furniture,4659.14
+29,November,Qtr 4,2022,Furniture,491.888
+30,November,Qtr 4,2022,Furniture,4129.728
+1,December,Qtr 4,2022,Furniture,37.68
+3,December,Qtr 4,2022,Furniture,
+4,December,Qtr 4,2022,Furniture,
+5,December,Qtr 4,2022,Furniture,328.33
+6,December,Qtr 4,2022,Furniture,1337.124
+7,December,Qtr 4,2022,Furniture,
+8,December,Qtr 4,2022,Furniture,1834.82
+9,December,Qtr 4,2022,Furniture,8.36
+10,December,Qtr 4,2022,Furniture,3123.328
+11,December,Qtr 4,2022,Furniture,250.304
+13,December,Qtr 4,2022,Furniture,489.016
+14,December,Qtr 4,2022,Furniture,1852.532
+15,December,Qtr 4,2022,Furniture,22.77
+16,December,Qtr 4,2022,Furniture,197.712
+17,December,Qtr 4,2022,Furniture,629.26
+18,December,Qtr 4,2022,Furniture,1380.681
+19,December,Qtr 4,2022,Furniture,115.378
+20,December,Qtr 4,2022,Furniture,
+21,December,Qtr 4,2022,Furniture,15.92
+22,December,Qtr 4,2022,Furniture,4086.456
+23,December,Qtr 4,2022,Furniture,282.114
+24,December,Qtr 4,2022,Furniture,1393.494
+25,December,Qtr 4,2022,Furniture,832.454
+26,December,Qtr 4,2022,Furniture,
+27,December,Qtr 4,2022,Furniture,
+28,December,Qtr 4,2022,Furniture,551.2568
+29,December,Qtr 4,2022,Furniture,2330.718
+30,December,Qtr 4,2022,Furniture,323.136
+2,January,Qtr 1,2023,Furniture,
+3,January,Qtr 1,2023,Furniture,1893.995
+4,January,Qtr 1,2023,Furniture,
+6,January,Qtr 1,2023,Furniture,2024.06
+7,January,Qtr 1,2023,Furniture,
+8,January,Qtr 1,2023,Furniture,44.128
+9,January,Qtr 1,2023,Furniture,
+10,January,Qtr 1,2023,Furniture,
+11,January,Qtr 1,2023,Furniture,100.384
+12,January,Qtr 1,2023,Furniture,4513.606
+13,January,Qtr 1,2023,Furniture,879.939
+14,January,Qtr 1,2023,Furniture,61.96
+15,January,Qtr 1,2023,Furniture,
+16,January,Qtr 1,2023,Furniture,127.104
+18,January,Qtr 1,2023,Furniture,
+19,January,Qtr 1,2023,Furniture,181.47
+20,January,Qtr 1,2023,Furniture,1413.51
+21,January,Qtr 1,2023,Furniture,25.248
+23,January,Qtr 1,2023,Furniture,
+26,January,Qtr 1,2023,Furniture,217.2
+27,January,Qtr 1,2023,Furniture,333
+28,January,Qtr 1,2023,Furniture,
+30,January,Qtr 1,2023,Furniture,
+31,January,Qtr 1,2023,Furniture,290.666
+2,February,Qtr 1,2023,Furniture,
+3,February,Qtr 1,2023,Furniture,
+4,February,Qtr 1,2023,Furniture,177.68
+5,February,Qtr 1,2023,Furniture,
+6,February,Qtr 1,2023,Furniture,73.32
+7,February,Qtr 1,2023,Furniture,
+8,February,Qtr 1,2023,Furniture,
+9,February,Qtr 1,2023,Furniture,70.71
+10,February,Qtr 1,2023,Furniture,
+11,February,Qtr 1,2023,Furniture,89.34
+12,February,Qtr 1,2023,Furniture,1282.8
+14,February,Qtr 1,2023,Furniture,
+15,February,Qtr 1,2023,Furniture,
+16,February,Qtr 1,2023,Furniture,
+17,February,Qtr 1,2023,Furniture,
+18,February,Qtr 1,2023,Furniture,25.16
+20,February,Qtr 1,2023,Furniture,20.32
+21,February,Qtr 1,2023,Furniture,
+22,February,Qtr 1,2023,Furniture,
+23,February,Qtr 1,2023,Furniture,
+24,February,Qtr 1,2023,Furniture,
+27,February,Qtr 1,2023,Furniture,
+1,March,Qtr 1,2023,Furniture,
+2,March,Qtr 1,2023,Furniture,
+3,March,Qtr 1,2023,Furniture,928.802
+4,March,Qtr 1,2023,Furniture,
+5,March,Qtr 1,2023,Furniture,
+6,March,Qtr 1,2023,Furniture,577.424
+8,March,Qtr 1,2023,Furniture,218.75
+9,March,Qtr 1,2023,Furniture,
+10,March,Qtr 1,2023,Furniture,555.839
+11,March,Qtr 1,2023,Furniture,1355.388
+12,March,Qtr 1,2023,Furniture,
+14,March,Qtr 1,2023,Furniture,1139.92
+15,March,Qtr 1,2023,Furniture,45.696
+16,March,Qtr 1,2023,Furniture,
+17,March,Qtr 1,2023,Furniture,3265.23
+18,March,Qtr 1,2023,Furniture,1462.45
+19,March,Qtr 1,2023,Furniture,25.008
+21,March,Qtr 1,2023,Furniture,251.328
+22,March,Qtr 1,2023,Furniture,314.352
+23,March,Qtr 1,2023,Furniture,
+24,March,Qtr 1,2023,Furniture,40.48
+25,March,Qtr 1,2023,Furniture,366.786
+26,March,Qtr 1,2023,Furniture,
+28,March,Qtr 1,2023,Furniture,1515.308
+29,March,Qtr 1,2023,Furniture,890.841
+30,March,Qtr 1,2023,Furniture,332.968
+31,March,Qtr 1,2023,Furniture,1125.488
+1,April,Qtr 2,2023,Furniture,
+2,April,Qtr 2,2023,Furniture,
+3,April,Qtr 2,2023,Furniture,
+4,April,Qtr 2,2023,Furniture,5.47
+5,April,Qtr 2,2023,Furniture,39.64
+6,April,Qtr 2,2023,Furniture,424.488
+7,April,Qtr 2,2023,Furniture,
+8,April,Qtr 2,2023,Furniture,
+10,April,Qtr 2,2023,Furniture,589.41
+11,April,Qtr 2,2023,Furniture,744.95
+12,April,Qtr 2,2023,Furniture,
+13,April,Qtr 2,2023,Furniture,
+15,April,Qtr 2,2023,Furniture,187.76
+16,April,Qtr 2,2023,Furniture,
+18,April,Qtr 2,2023,Furniture,317.058
+19,April,Qtr 2,2023,Furniture,76.14
+20,April,Qtr 2,2023,Furniture,1205.61
+21,April,Qtr 2,2023,Furniture,
+22,April,Qtr 2,2023,Furniture,
+23,April,Qtr 2,2023,Furniture,585.08
+25,April,Qtr 2,2023,Furniture,1790.29
+26,April,Qtr 2,2023,Furniture,230.28
+28,April,Qtr 2,2023,Furniture,
+29,April,Qtr 2,2023,Furniture,631.004
+30,April,Qtr 2,2023,Furniture,
+1,May,Qtr 2,2023,Furniture,
+3,May,Qtr 2,2023,Furniture,
+4,May,Qtr 2,2023,Furniture,
+5,May,Qtr 2,2023,Furniture,127.869
+7,May,Qtr 2,2023,Furniture,232.736
+8,May,Qtr 2,2023,Furniture,1962.724
+9,May,Qtr 2,2023,Furniture,31.984
+10,May,Qtr 2,2023,Furniture,
+11,May,Qtr 2,2023,Furniture,443.508
+12,May,Qtr 2,2023,Furniture,
+13,May,Qtr 2,2023,Furniture,279.456
+14,May,Qtr 2,2023,Furniture,310.88
+16,May,Qtr 2,2023,Furniture,232.88
+17,May,Qtr 2,2023,Furniture,
+18,May,Qtr 2,2023,Furniture,149.232
+19,May,Qtr 2,2023,Furniture,
+20,May,Qtr 2,2023,Furniture,150.192
+21,May,Qtr 2,2023,Furniture,107.772
+22,May,Qtr 2,2023,Furniture,
+23,May,Qtr 2,2023,Furniture,
+24,May,Qtr 2,2023,Furniture,
+25,May,Qtr 2,2023,Furniture,29.32
+26,May,Qtr 2,2023,Furniture,875.734
+27,May,Qtr 2,2023,Furniture,567.12
+28,May,Qtr 2,2023,Furniture,
+30,May,Qtr 2,2023,Furniture,355.455
+31,May,Qtr 2,2023,Furniture,
+1,June,Qtr 2,2023,Furniture,2573.82
+2,June,Qtr 2,2023,Furniture,
+4,June,Qtr 2,2023,Furniture,933.384
+5,June,Qtr 2,2023,Furniture,
+6,June,Qtr 2,2023,Furniture,991.764
+7,June,Qtr 2,2023,Furniture,478.48
+8,June,Qtr 2,2023,Furniture,
+9,June,Qtr 2,2023,Furniture,41.88
+10,June,Qtr 2,2023,Furniture,
+11,June,Qtr 2,2023,Furniture,
+12,June,Qtr 2,2023,Furniture,525.192
+13,June,Qtr 2,2023,Furniture,
+14,June,Qtr 2,2023,Furniture,212.94
+15,June,Qtr 2,2023,Furniture,897.862
+16,June,Qtr 2,2023,Furniture,647.84
+17,June,Qtr 2,2023,Furniture,6.24
+18,June,Qtr 2,2023,Furniture,
+20,June,Qtr 2,2023,Furniture,193.0656
+21,June,Qtr 2,2023,Furniture,107.994
+22,June,Qtr 2,2023,Furniture,1023.988
+23,June,Qtr 2,2023,Furniture,
+24,June,Qtr 2,2023,Furniture,4.272
+25,June,Qtr 2,2023,Furniture,447.84
+27,June,Qtr 2,2023,Furniture,85.98
+28,June,Qtr 2,2023,Furniture,1228.465
+29,June,Qtr 2,2023,Furniture,
+30,June,Qtr 2,2023,Furniture,
+1,July,Qtr 3,2023,Furniture,76.728
+2,July,Qtr 3,2023,Furniture,
+3,July,Qtr 3,2023,Furniture,966.984
+4,July,Qtr 3,2023,Furniture,8.96
+5,July,Qtr 3,2023,Furniture,1066.57
+6,July,Qtr 3,2023,Furniture,268.935
+7,July,Qtr 3,2023,Furniture,241.194
+9,July,Qtr 3,2023,Furniture,1714.593
+10,July,Qtr 3,2023,Furniture,129.92
+11,July,Qtr 3,2023,Furniture,683.144
+12,July,Qtr 3,2023,Furniture,
+13,July,Qtr 3,2023,Furniture,351.216
+14,July,Qtr 3,2023,Furniture,31.984
+15,July,Qtr 3,2023,Furniture,
+18,July,Qtr 3,2023,Furniture,259.136
+19,July,Qtr 3,2023,Furniture,70.56
+20,July,Qtr 3,2023,Furniture,1041.132
+21,July,Qtr 3,2023,Furniture,1732.346
+22,July,Qtr 3,2023,Furniture,888.072
+23,July,Qtr 3,2023,Furniture,
+25,July,Qtr 3,2023,Furniture,77.92
+26,July,Qtr 3,2023,Furniture,919.448
+27,July,Qtr 3,2023,Furniture,
+28,July,Qtr 3,2023,Furniture,129.888
+30,July,Qtr 3,2023,Furniture,1367.84
+2,August,Qtr 3,2023,Furniture,14.56
+4,August,Qtr 3,2023,Furniture,1487.622
+5,August,Qtr 3,2023,Furniture,
+6,August,Qtr 3,2023,Furniture,755.904
+7,August,Qtr 3,2023,Furniture,566.37
+8,August,Qtr 3,2023,Furniture,658.472
+9,August,Qtr 3,2023,Furniture,3855.444
+10,August,Qtr 3,2023,Furniture,
+11,August,Qtr 3,2023,Furniture,
+12,August,Qtr 3,2023,Furniture,723.24
+15,August,Qtr 3,2023,Furniture,195.136
+16,August,Qtr 3,2023,Furniture,853.092
+17,August,Qtr 3,2023,Furniture,
+19,August,Qtr 3,2023,Furniture,928.06
+20,August,Qtr 3,2023,Furniture,921.612
+22,August,Qtr 3,2023,Furniture,
+23,August,Qtr 3,2023,Furniture,4.224
+24,August,Qtr 3,2023,Furniture,13.28
+25,August,Qtr 3,2023,Furniture,6.28
+26,August,Qtr 3,2023,Furniture,10.68
+27,August,Qtr 3,2023,Furniture,1232.06
+29,August,Qtr 3,2023,Furniture,174.0585
+30,August,Qtr 3,2023,Furniture,
+31,August,Qtr 3,2023,Furniture,
+1,September,Qtr 3,2023,Furniture,
+5,September,Qtr 3,2023,Furniture,
+6,September,Qtr 3,2023,Furniture,3233.744
+7,September,Qtr 3,2023,Furniture,119.833
+8,September,Qtr 3,2023,Furniture,
+9,September,Qtr 3,2023,Furniture,864.024
+10,September,Qtr 3,2023,Furniture,
+11,September,Qtr 3,2023,Furniture,279.186
+12,September,Qtr 3,2023,Furniture,
+13,September,Qtr 3,2023,Furniture,354.306
+14,September,Qtr 3,2023,Furniture,629.78
+15,September,Qtr 3,2023,Furniture,118.496
+16,September,Qtr 3,2023,Furniture,
+17,September,Qtr 3,2023,Furniture,35.34
+19,September,Qtr 3,2023,Furniture,961.018
+20,September,Qtr 3,2023,Furniture,3071.64
+21,September,Qtr 3,2023,Furniture,8.544
+22,September,Qtr 3,2023,Furniture,676.968
+23,September,Qtr 3,2023,Furniture,435.999
+24,September,Qtr 3,2023,Furniture,
+25,September,Qtr 3,2023,Furniture,300.5328
+26,September,Qtr 3,2023,Furniture,752.304
+27,September,Qtr 3,2023,Furniture,691.46
+28,September,Qtr 3,2023,Furniture,337.088
+29,September,Qtr 3,2023,Furniture,3153.388
+30,September,Qtr 3,2023,Furniture,15.24
+1,October,Qtr 4,2023,Furniture,51.94
+3,October,Qtr 4,2023,Furniture,
+5,October,Qtr 4,2023,Furniture,606.749
+6,October,Qtr 4,2023,Furniture,
+9,October,Qtr 4,2023,Furniture,1741.94
+10,October,Qtr 4,2023,Furniture,169.224
+11,October,Qtr 4,2023,Furniture,657.02
+12,October,Qtr 4,2023,Furniture,338.352
+13,October,Qtr 4,2023,Furniture,1544.53
+14,October,Qtr 4,2023,Furniture,1628.82
+15,October,Qtr 4,2023,Furniture,198.756
+16,October,Qtr 4,2023,Furniture,
+17,October,Qtr 4,2023,Furniture,5.312
+18,October,Qtr 4,2023,Furniture,1151.22
+19,October,Qtr 4,2023,Furniture,
+20,October,Qtr 4,2023,Furniture,328.59
+21,October,Qtr 4,2023,Furniture,1000.91
+22,October,Qtr 4,2023,Furniture,223.808
+24,October,Qtr 4,2023,Furniture,
+25,October,Qtr 4,2023,Furniture,
+26,October,Qtr 4,2023,Furniture,63.92
+27,October,Qtr 4,2023,Furniture,
+28,October,Qtr 4,2023,Furniture,616.998
+29,October,Qtr 4,2023,Furniture,
+31,October,Qtr 4,2023,Furniture,3591.032
+1,November,Qtr 4,2023,Furniture,9.94
+2,November,Qtr 4,2023,Furniture,1650.05
+3,November,Qtr 4,2023,Furniture,8.32
+4,November,Qtr 4,2023,Furniture,
+5,November,Qtr 4,2023,Furniture,1279.072
+7,November,Qtr 4,2023,Furniture,979.05
+8,November,Qtr 4,2023,Furniture,12.35
+9,November,Qtr 4,2023,Furniture,127.95
+10,November,Qtr 4,2023,Furniture,505.958
+11,November,Qtr 4,2023,Furniture,2071.424
+14,November,Qtr 4,2023,Furniture,69.264
+15,November,Qtr 4,2023,Furniture,10.11
+16,November,Qtr 4,2023,Furniture,343.2705
+17,November,Qtr 4,2023,Furniture,5270.08
+18,November,Qtr 4,2023,Furniture,2191.732
+19,November,Qtr 4,2023,Furniture,1025.88
+20,November,Qtr 4,2023,Furniture,
+21,November,Qtr 4,2023,Furniture,
+22,November,Qtr 4,2023,Furniture,
+23,November,Qtr 4,2023,Furniture,1147.1
+24,November,Qtr 4,2023,Furniture,1029.808
+25,November,Qtr 4,2023,Furniture,2302.967
+26,November,Qtr 4,2023,Furniture,19.3
+27,November,Qtr 4,2023,Furniture,199.9
+28,November,Qtr 4,2023,Furniture,808.932
+29,November,Qtr 4,2023,Furniture,
+30,November,Qtr 4,2023,Furniture,
+2,December,Qtr 4,2023,Furniture,129.568
+4,December,Qtr 4,2023,Furniture,308.499
+5,December,Qtr 4,2023,Furniture,734.846
+7,December,Qtr 4,2023,Furniture,1333.846
+8,December,Qtr 4,2023,Furniture,85.44
+9,December,Qtr 4,2023,Furniture,3825.852
+10,December,Qtr 4,2023,Furniture,
+11,December,Qtr 4,2023,Furniture,722.1852
+12,December,Qtr 4,2023,Furniture,4695.6005
+13,December,Qtr 4,2023,Furniture,182.388
+14,December,Qtr 4,2023,Furniture,322.834
+15,December,Qtr 4,2023,Furniture,1223.786
+16,December,Qtr 4,2023,Furniture,2798.432
+17,December,Qtr 4,2023,Furniture,
+19,December,Qtr 4,2023,Furniture,1819.86
+20,December,Qtr 4,2023,Furniture,4039.814
+21,December,Qtr 4,2023,Furniture,1897.92
+22,December,Qtr 4,2023,Furniture,
+23,December,Qtr 4,2023,Furniture,118.1
+24,December,Qtr 4,2023,Furniture,346.622
+26,December,Qtr 4,2023,Furniture,1353.158
+27,December,Qtr 4,2023,Furniture,1212.798
+28,December,Qtr 4,2023,Furniture,
+29,December,Qtr 4,2023,Furniture,143.172
+30,December,Qtr 4,2023,Furniture,523.764
+31,December,Qtr 4,2023,Furniture,2584.528
+3,January,Qtr 1,2024,Furniture,1412.7504
+5,January,Qtr 1,2024,Furniture,63.552
+6,January,Qtr 1,2024,Furniture,
+2,January,Qtr 1,2021,Office Supplies,161.97
+3,January,Qtr 1,2021,Office Supplies,389.3
+4,January,Qtr 1,2021,Office Supplies,788.838
+5,January,Qtr 1,2021,Office Supplies,147.246
+7,January,Qtr 1,2021,Office Supplies,193.586
+8,January,Qtr 1,2021,Office Supplies,65.608
+9,January,Qtr 1,2021,Office Supplies,4993.394
+10,January,Qtr 1,2021,Office Supplies,64.716
+11,January,Qtr 1,2021,Office Supplies,363.462
+12,January,Qtr 1,2021,Office Supplies,4382.352
+14,January,Qtr 1,2021,Office Supplies,89.568
+15,January,Qtr 1,2021,Office Supplies,265.156
+16,January,Qtr 1,2021,Office Supplies,11.648
+17,January,Qtr 1,2021,Office Supplies,
+21,January,Qtr 1,2021,Office Supplies,
+22,January,Qtr 1,2021,Office Supplies,176.77
+23,January,Qtr 1,2021,Office Supplies,1572.33
+24,January,Qtr 1,2021,Office Supplies,31.36
+25,January,Qtr 1,2021,Office Supplies,499.01
+28,January,Qtr 1,2021,Office Supplies,39.68
+30,January,Qtr 1,2021,Office Supplies,557.5
+31,January,Qtr 1,2021,Office Supplies,1491.962
+1,February,Qtr 1,2021,Office Supplies,
+2,February,Qtr 1,2021,Office Supplies,154.36
+4,February,Qtr 1,2021,Office Supplies,
+5,February,Qtr 1,2021,Office Supplies,317.076
+6,February,Qtr 1,2021,Office Supplies,157.844
+7,February,Qtr 1,2021,Office Supplies,49.172
+8,February,Qtr 1,2021,Office Supplies,12.544
+9,February,Qtr 1,2021,Office Supplies,689.751
+10,February,Qtr 1,2021,Office Supplies,953.022
+12,February,Qtr 1,2021,Office Supplies,3020.262
+13,February,Qtr 1,2021,Office Supplies,146.82
+14,February,Qtr 1,2021,Office Supplies,276.93
+15,February,Qtr 1,2021,Office Supplies,407.072
+16,February,Qtr 1,2021,Office Supplies,110.024
+19,February,Qtr 1,2021,Office Supplies,348.2
+20,February,Qtr 1,2021,Office Supplies,16.496
+21,February,Qtr 1,2021,Office Supplies,1266.406
+22,February,Qtr 1,2021,Office Supplies,500.97
+23,February,Qtr 1,2021,Office Supplies,57.576
+25,February,Qtr 1,2021,Office Supplies,46.72
+27,February,Qtr 1,2021,Office Supplies,227.7
+28,February,Qtr 1,2021,Office Supplies,36.48
+1,March,Qtr 1,2021,Office Supplies,126.34
+2,March,Qtr 1,2021,Office Supplies,
+3,March,Qtr 1,2021,Office Supplies,4651.41
+4,March,Qtr 1,2021,Office Supplies,110.118
+5,March,Qtr 1,2021,Office Supplies,257.612
+6,March,Qtr 1,2021,Office Supplies,
+7,March,Qtr 1,2021,Office Supplies,847.7
+8,March,Qtr 1,2021,Office Supplies,81.54
+9,March,Qtr 1,2021,Office Supplies,1442.418
+10,March,Qtr 1,2021,Office Supplies,128.188
+11,March,Qtr 1,2021,Office Supplies,1913.076
+12,March,Qtr 1,2021,Office Supplies,1478.978
+13,March,Qtr 1,2021,Office Supplies,6194.303
+14,March,Qtr 1,2021,Office Supplies,192.632
+15,March,Qtr 1,2021,Office Supplies,392.37
+17,March,Qtr 1,2021,Office Supplies,1174.07
+18,March,Qtr 1,2021,Office Supplies,871.8
+19,March,Qtr 1,2021,Office Supplies,31.086
+20,March,Qtr 1,2021,Office Supplies,47.925
+21,March,Qtr 1,2021,Office Supplies,17.904
+22,March,Qtr 1,2021,Office Supplies,
+24,March,Qtr 1,2021,Office Supplies,41.136
+25,March,Qtr 1,2021,Office Supplies,59.52
+26,March,Qtr 1,2021,Office Supplies,562.27
+27,March,Qtr 1,2021,Office Supplies,32.54
+28,March,Qtr 1,2021,Office Supplies,125.3
+29,March,Qtr 1,2021,Office Supplies,130.136
+30,March,Qtr 1,2021,Office Supplies,11.34
+31,March,Qtr 1,2021,Office Supplies,
+1,April,Qtr 2,2021,Office Supplies,109.252
+2,April,Qtr 2,2021,Office Supplies,93.02
+3,April,Qtr 2,2021,Office Supplies,155.47
+4,April,Qtr 2,2021,Office Supplies,647.614
+6,April,Qtr 2,2021,Office Supplies,124.148
+7,April,Qtr 2,2021,Office Supplies,71.88
+8,April,Qtr 2,2021,Office Supplies,85.726
+9,April,Qtr 2,2021,Office Supplies,1321.322
+10,April,Qtr 2,2021,Office Supplies,209.252
+11,April,Qtr 2,2021,Office Supplies,1194.828
+12,April,Qtr 2,2021,Office Supplies,752.346
+13,April,Qtr 2,2021,Office Supplies,6.12
+14,April,Qtr 2,2021,Office Supplies,149.236
+15,April,Qtr 2,2021,Office Supplies,379.584
+16,April,Qtr 2,2021,Office Supplies,190.028
+17,April,Qtr 2,2021,Office Supplies,29.05
+18,April,Qtr 2,2021,Office Supplies,2012.726
+19,April,Qtr 2,2021,Office Supplies,1143.016
+21,April,Qtr 2,2021,Office Supplies,271.616
+22,April,Qtr 2,2021,Office Supplies,351.095
+23,April,Qtr 2,2021,Office Supplies,620.378
+24,April,Qtr 2,2021,Office Supplies,22.644
+25,April,Qtr 2,2021,Office Supplies,25.62
+26,April,Qtr 2,2021,Office Supplies,
+28,April,Qtr 2,2021,Office Supplies,45.184
+30,April,Qtr 2,2021,Office Supplies,7.712
+1,May,Qtr 2,2021,Office Supplies,5.248
+2,May,Qtr 2,2021,Office Supplies,1428.28
+3,May,Qtr 2,2021,Office Supplies,162.344
+4,May,Qtr 2,2021,Office Supplies,927.552
+5,May,Qtr 2,2021,Office Supplies,205.168
+6,May,Qtr 2,2021,Office Supplies,659.82
+8,May,Qtr 2,2021,Office Supplies,197.05
+9,May,Qtr 2,2021,Office Supplies,1217.647
+11,May,Qtr 2,2021,Office Supplies,464.82
+12,May,Qtr 2,2021,Office Supplies,1793.604
+14,May,Qtr 2,2021,Office Supplies,117.226
+15,May,Qtr 2,2021,Office Supplies,648.912
+16,May,Qtr 2,2021,Office Supplies,597.62
+17,May,Qtr 2,2021,Office Supplies,151.074
+18,May,Qtr 2,2021,Office Supplies,122.22
+19,May,Qtr 2,2021,Office Supplies,864.368
+20,May,Qtr 2,2021,Office Supplies,58.753
+21,May,Qtr 2,2021,Office Supplies,200.378
+22,May,Qtr 2,2021,Office Supplies,704.45
+23,May,Qtr 2,2021,Office Supplies,21.642
+24,May,Qtr 2,2021,Office Supplies,277.756
+25,May,Qtr 2,2021,Office Supplies,1287.01
+26,May,Qtr 2,2021,Office Supplies,338.856
+27,May,Qtr 2,2021,Office Supplies,1769.418
+28,May,Qtr 2,2021,Office Supplies,770.652
+29,May,Qtr 2,2021,Office Supplies,38.475
+30,May,Qtr 2,2021,Office Supplies,1436.692
+31,May,Qtr 2,2021,Office Supplies,36.016
+2,June,Qtr 2,2021,Office Supplies,
+3,June,Qtr 2,2021,Office Supplies,6.105
+4,June,Qtr 2,2021,Office Supplies,
+5,June,Qtr 2,2021,Office Supplies,114.472
+6,June,Qtr 2,2021,Office Supplies,1090.48
+8,June,Qtr 2,2021,Office Supplies,109.22
+9,June,Qtr 2,2021,Office Supplies,229.74
+10,June,Qtr 2,2021,Office Supplies,58.73
+11,June,Qtr 2,2021,Office Supplies,209.72
+12,June,Qtr 2,2021,Office Supplies,2287.98
+13,June,Qtr 2,2021,Office Supplies,52.468
+14,June,Qtr 2,2021,Office Supplies,55.616
+15,June,Qtr 2,2021,Office Supplies,173.488
+16,June,Qtr 2,2021,Office Supplies,55.8
+17,June,Qtr 2,2021,Office Supplies,718.52
+18,June,Qtr 2,2021,Office Supplies,541.938
+19,June,Qtr 2,2021,Office Supplies,17.12
+20,June,Qtr 2,2021,Office Supplies,840.622
+21,June,Qtr 2,2021,Office Supplies,223.54
+23,June,Qtr 2,2021,Office Supplies,1612.75
+24,June,Qtr 2,2021,Office Supplies,355.002
+25,June,Qtr 2,2021,Office Supplies,353.25
+26,June,Qtr 2,2021,Office Supplies,1549.224
+27,June,Qtr 2,2021,Office Supplies,37.464
+28,June,Qtr 2,2021,Office Supplies,395.22
+29,June,Qtr 2,2021,Office Supplies,191.88
+30,June,Qtr 2,2021,Office Supplies,35.97
+1,July,Qtr 3,2021,Office Supplies,60.5
+2,July,Qtr 3,2021,Office Supplies,38.182
+3,July,Qtr 3,2021,Office Supplies,
+4,July,Qtr 3,2021,Office Supplies,111.852
+5,July,Qtr 3,2021,Office Supplies,129.632
+6,July,Qtr 3,2021,Office Supplies,51.562
+7,July,Qtr 3,2021,Office Supplies,204.999
+8,July,Qtr 3,2021,Office Supplies,
+10,July,Qtr 3,2021,Office Supplies,136.112
+11,July,Qtr 3,2021,Office Supplies,924.172
+14,July,Qtr 3,2021,Office Supplies,548.09
+15,July,Qtr 3,2021,Office Supplies,149.92
+16,July,Qtr 3,2021,Office Supplies,186.28
+17,July,Qtr 3,2021,Office Supplies,1101.526
+18,July,Qtr 3,2021,Office Supplies,1281.12
+19,July,Qtr 3,2021,Office Supplies,420.02
+20,July,Qtr 3,2021,Office Supplies,
+21,July,Qtr 3,2021,Office Supplies,627.175
+22,July,Qtr 3,2021,Office Supplies,1219.03
+23,July,Qtr 3,2021,Office Supplies,273.976
+24,July,Qtr 3,2021,Office Supplies,73.2
+25,July,Qtr 3,2021,Office Supplies,563.244
+28,July,Qtr 3,2021,Office Supplies,1528.504
+29,July,Qtr 3,2021,Office Supplies,819.154
+30,July,Qtr 3,2021,Office Supplies,1770.776
+31,July,Qtr 3,2021,Office Supplies,283.14
+1,August,Qtr 3,2021,Office Supplies,184.494
+2,August,Qtr 3,2021,Office Supplies,
+3,August,Qtr 3,2021,Office Supplies,474.354
+4,August,Qtr 3,2021,Office Supplies,1450.268
+5,August,Qtr 3,2021,Office Supplies,1070.172
+7,August,Qtr 3,2021,Office Supplies,158.048
+8,August,Qtr 3,2021,Office Supplies,602.18
+9,August,Qtr 3,2021,Office Supplies,966.29
+10,August,Qtr 3,2021,Office Supplies,509.824
+11,August,Qtr 3,2021,Office Supplies,
+12,August,Qtr 3,2021,Office Supplies,463.891
+13,August,Qtr 3,2021,Office Supplies,417.584
+14,August,Qtr 3,2021,Office Supplies,31.092
+15,August,Qtr 3,2021,Office Supplies,199.82
+16,August,Qtr 3,2021,Office Supplies,43.26
+17,August,Qtr 3,2021,Office Supplies,15.712
+18,August,Qtr 3,2021,Office Supplies,441.228
+19,August,Qtr 3,2021,Office Supplies,448.792
+20,August,Qtr 3,2021,Office Supplies,
+21,August,Qtr 3,2021,Office Supplies,143.856
+22,August,Qtr 3,2021,Office Supplies,307.022
+23,August,Qtr 3,2021,Office Supplies,2126.056
+26,August,Qtr 3,2021,Office Supplies,383.238
+27,August,Qtr 3,2021,Office Supplies,463.326
+28,August,Qtr 3,2021,Office Supplies,57.076
+29,August,Qtr 3,2021,Office Supplies,108.412
+30,August,Qtr 3,2021,Office Supplies,192.228
+31,August,Qtr 3,2021,Office Supplies,23.968
+1,September,Qtr 3,2021,Office Supplies,
+2,September,Qtr 3,2021,Office Supplies,
+3,September,Qtr 3,2021,Office Supplies,80.95
+4,September,Qtr 3,2021,Office Supplies,40.632
+5,September,Qtr 3,2021,Office Supplies,1170.396
+6,September,Qtr 3,2021,Office Supplies,
+7,September,Qtr 3,2021,Office Supplies,
+8,September,Qtr 3,2021,Office Supplies,616.57
+9,September,Qtr 3,2021,Office Supplies,69.984
+10,September,Qtr 3,2021,Office Supplies,20.544
+11,September,Qtr 3,2021,Office Supplies,
+12,September,Qtr 3,2021,Office Supplies,588.049
+13,September,Qtr 3,2021,Office Supplies,858.37
+14,September,Qtr 3,2021,Office Supplies,699.488
+15,September,Qtr 3,2021,Office Supplies,972.792
+16,September,Qtr 3,2021,Office Supplies,30.44
+17,September,Qtr 3,2021,Office Supplies,600.1
+18,September,Qtr 3,2021,Office Supplies,1292.358
+19,September,Qtr 3,2021,Office Supplies,1990.038
+20,September,Qtr 3,2021,Office Supplies,952.644
+22,September,Qtr 3,2021,Office Supplies,352.982
+23,September,Qtr 3,2021,Office Supplies,207.719
+24,September,Qtr 3,2021,Office Supplies,1354.848
+25,September,Qtr 3,2021,Office Supplies,793.862
+26,September,Qtr 3,2021,Office Supplies,538.71
+27,September,Qtr 3,2021,Office Supplies,34.737
+28,September,Qtr 3,2021,Office Supplies,99.136
+29,September,Qtr 3,2021,Office Supplies,202.382
+30,September,Qtr 3,2021,Office Supplies,1.964
+1,October,Qtr 4,2021,Office Supplies,
+3,October,Qtr 4,2021,Office Supplies,119.596
+4,October,Qtr 4,2021,Office Supplies,950.594
+5,October,Qtr 4,2021,Office Supplies,19.032
+6,October,Qtr 4,2021,Office Supplies,76.716
+7,October,Qtr 4,2021,Office Supplies,553.904
+9,October,Qtr 4,2021,Office Supplies,553.754
+10,October,Qtr 4,2021,Office Supplies,41.095
+11,October,Qtr 4,2021,Office Supplies,2113.758
+12,October,Qtr 4,2021,Office Supplies,1668.492
+13,October,Qtr 4,2021,Office Supplies,440.932
+14,October,Qtr 4,2021,Office Supplies,291.912
+15,October,Qtr 4,2021,Office Supplies,1614.65
+16,October,Qtr 4,2021,Office Supplies,
+17,October,Qtr 4,2021,Office Supplies,2261.73
+18,October,Qtr 4,2021,Office Supplies,
+20,October,Qtr 4,2021,Office Supplies,123.572
+21,October,Qtr 4,2021,Office Supplies,5499.44
+22,October,Qtr 4,2021,Office Supplies,15.02
+23,October,Qtr 4,2021,Office Supplies,451.266
+24,October,Qtr 4,2021,Office Supplies,15.552
+25,October,Qtr 4,2021,Office Supplies,
+27,October,Qtr 4,2021,Office Supplies,219.966
+28,October,Qtr 4,2021,Office Supplies,1485.277
+29,October,Qtr 4,2021,Office Supplies,64.154
+30,October,Qtr 4,2021,Office Supplies,159.002
+31,October,Qtr 4,2021,Office Supplies,1484.774
+1,November,Qtr 4,2021,Office Supplies,78.864
+2,November,Qtr 4,2021,Office Supplies,
+3,November,Qtr 4,2021,Office Supplies,498.78
+5,November,Qtr 4,2021,Office Supplies,5.98
+6,November,Qtr 4,2021,Office Supplies,78.22
+8,November,Qtr 4,2021,Office Supplies,151.82
+9,November,Qtr 4,2021,Office Supplies,600.6
+10,November,Qtr 4,2021,Office Supplies,33.064
+11,November,Qtr 4,2021,Office Supplies,1021.728
+12,November,Qtr 4,2021,Office Supplies,1451.6
+13,November,Qtr 4,2021,Office Supplies,611.098
+14,November,Qtr 4,2021,Office Supplies,113.596
+15,November,Qtr 4,2021,Office Supplies,1054.928
+16,November,Qtr 4,2021,Office Supplies,36.72
+17,November,Qtr 4,2021,Office Supplies,75.508
+18,November,Qtr 4,2021,Office Supplies,1425.712
+19,November,Qtr 4,2021,Office Supplies,532.214
+20,November,Qtr 4,2021,Office Supplies,620.623
+21,November,Qtr 4,2021,Office Supplies,145.82
+22,November,Qtr 4,2021,Office Supplies,253.132
+23,November,Qtr 4,2021,Office Supplies,15.8
+24,November,Qtr 4,2021,Office Supplies,1538.086
+25,November,Qtr 4,2021,Office Supplies,1115.728
+26,November,Qtr 4,2021,Office Supplies,419.571
+27,November,Qtr 4,2021,Office Supplies,802.554
+28,November,Qtr 4,2021,Office Supplies,2456.018
+29,November,Qtr 4,2021,Office Supplies,
+30,November,Qtr 4,2021,Office Supplies,543.98
+2,December,Qtr 4,2021,Office Supplies,1366.04
+3,December,Qtr 4,2021,Office Supplies,924.29
+4,December,Qtr 4,2021,Office Supplies,365.97
+5,December,Qtr 4,2021,Office Supplies,156.898
+6,December,Qtr 4,2021,Office Supplies,1453.148
+7,December,Qtr 4,2021,Office Supplies,
+8,December,Qtr 4,2021,Office Supplies,1634.812
+9,December,Qtr 4,2021,Office Supplies,196.268
+11,December,Qtr 4,2021,Office Supplies,520.626
+12,December,Qtr 4,2021,Office Supplies,211.813
+13,December,Qtr 4,2021,Office Supplies,15.936
+14,December,Qtr 4,2021,Office Supplies,216.93
+15,December,Qtr 4,2021,Office Supplies,405.192
+16,December,Qtr 4,2021,Office Supplies,43.412
+17,December,Qtr 4,2021,Office Supplies,10016.014
+18,December,Qtr 4,2021,Office Supplies,4813.818
+19,December,Qtr 4,2021,Office Supplies,55.222
+20,December,Qtr 4,2021,Office Supplies,49.32
+22,December,Qtr 4,2021,Office Supplies,112.264
+23,December,Qtr 4,2021,Office Supplies,1589.751
+24,December,Qtr 4,2021,Office Supplies,641.09
+25,December,Qtr 4,2021,Office Supplies,205.138
+26,December,Qtr 4,2021,Office Supplies,175.06
+27,December,Qtr 4,2021,Office Supplies,74.002
+29,December,Qtr 4,2021,Office Supplies,452.67
+30,December,Qtr 4,2021,Office Supplies,602.988
+31,December,Qtr 4,2021,Office Supplies,429.392
+1,January,Qtr 1,2022,Office Supplies,506.338
+4,January,Qtr 1,2022,Office Supplies,320.062
+5,January,Qtr 1,2022,Office Supplies,7.936
+6,January,Qtr 1,2022,Office Supplies,2850.246
+7,January,Qtr 1,2022,Office Supplies,639.83
+8,January,Qtr 1,2022,Office Supplies,277.724
+9,January,Qtr 1,2022,Office Supplies,345.1
+10,January,Qtr 1,2022,Office Supplies,609.066
+11,January,Qtr 1,2022,Office Supplies,255.81
+12,January,Qtr 1,2022,Office Supplies,1371.45
+13,January,Qtr 1,2022,Office Supplies,4406.39
+14,January,Qtr 1,2022,Office Supplies,508.39
+15,January,Qtr 1,2022,Office Supplies,2029.704
+16,January,Qtr 1,2022,Office Supplies,5500.03
+19,January,Qtr 1,2022,Office Supplies,664.876
+20,January,Qtr 1,2022,Office Supplies,39.24
+21,January,Qtr 1,2022,Office Supplies,1145.78
+22,January,Qtr 1,2022,Office Supplies,1212.422
+23,January,Qtr 1,2022,Office Supplies,57.018
+24,January,Qtr 1,2022,Office Supplies,308.314
+26,January,Qtr 1,2022,Office Supplies,52.63
+27,January,Qtr 1,2022,Office Supplies,14.016
+28,January,Qtr 1,2022,Office Supplies,279.9
+29,January,Qtr 1,2022,Office Supplies,279.932
+30,January,Qtr 1,2022,Office Supplies,290.524
+1,February,Qtr 1,2022,Office Supplies,453.834
+2,February,Qtr 1,2022,Office Supplies,316.56
+3,February,Qtr 1,2022,Office Supplies,331.45
+4,February,Qtr 1,2022,Office Supplies,26.06
+5,February,Qtr 1,2022,Office Supplies,109.62
+6,February,Qtr 1,2022,Office Supplies,132.736
+7,February,Qtr 1,2022,Office Supplies,169.192
+9,February,Qtr 1,2022,Office Supplies,2852.518
+10,February,Qtr 1,2022,Office Supplies,2139.624
+11,February,Qtr 1,2022,Office Supplies,2025.652
+12,February,Qtr 1,2022,Office Supplies,2665.612
+13,February,Qtr 1,2022,Office Supplies,150.94
+16,February,Qtr 1,2022,Office Supplies,714.202
+17,February,Qtr 1,2022,Office Supplies,359.365
+18,February,Qtr 1,2022,Office Supplies,9.82
+19,February,Qtr 1,2022,Office Supplies,1269.92
+20,February,Qtr 1,2022,Office Supplies,90.91
+21,February,Qtr 1,2022,Office Supplies,
+23,February,Qtr 1,2022,Office Supplies,45.84
+24,February,Qtr 1,2022,Office Supplies,128.876
+25,February,Qtr 1,2022,Office Supplies,1.788
+26,February,Qtr 1,2022,Office Supplies,715.35
+28,February,Qtr 1,2022,Office Supplies,17.62
+1,March,Qtr 1,2022,Office Supplies,2070.272
+2,March,Qtr 1,2022,Office Supplies,900.127
+3,March,Qtr 1,2022,Office Supplies,99.68
+4,March,Qtr 1,2022,Office Supplies,7.056
+5,March,Qtr 1,2022,Office Supplies,980.428
+6,March,Qtr 1,2022,Office Supplies,247.27
+7,March,Qtr 1,2022,Office Supplies,459.784
+8,March,Qtr 1,2022,Office Supplies,184.2
+9,March,Qtr 1,2022,Office Supplies,589.448
+10,March,Qtr 1,2022,Office Supplies,1877.302
+11,March,Qtr 1,2022,Office Supplies,407.501
+12,March,Qtr 1,2022,Office Supplies,447.932
+13,March,Qtr 1,2022,Office Supplies,2833.674
+14,March,Qtr 1,2022,Office Supplies,
+16,March,Qtr 1,2022,Office Supplies,653.341
+17,March,Qtr 1,2022,Office Supplies,294.386
+18,March,Qtr 1,2022,Office Supplies,379.874
+19,March,Qtr 1,2022,Office Supplies,481.154
+20,March,Qtr 1,2022,Office Supplies,392.728
+21,March,Qtr 1,2022,Office Supplies,1504.616
+23,March,Qtr 1,2022,Office Supplies,604.268
+24,March,Qtr 1,2022,Office Supplies,281.698
+25,March,Qtr 1,2022,Office Supplies,418.978
+26,March,Qtr 1,2022,Office Supplies,217.342
+27,March,Qtr 1,2022,Office Supplies,545.18
+28,March,Qtr 1,2022,Office Supplies,923.942
+29,March,Qtr 1,2022,Office Supplies,81.4
+30,March,Qtr 1,2022,Office Supplies,397.415
+31,March,Qtr 1,2022,Office Supplies,250.488
+2,April,Qtr 2,2022,Office Supplies,32.67
+3,April,Qtr 2,2022,Office Supplies,125.322
+4,April,Qtr 2,2022,Office Supplies,264.39
+5,April,Qtr 2,2022,Office Supplies,904.541
+6,April,Qtr 2,2022,Office Supplies,145.11
+8,April,Qtr 2,2022,Office Supplies,20.07
+9,April,Qtr 2,2022,Office Supplies,1477.484
+10,April,Qtr 2,2022,Office Supplies,
+11,April,Qtr 2,2022,Office Supplies,473.768
+12,April,Qtr 2,2022,Office Supplies,199.138
+13,April,Qtr 2,2022,Office Supplies,909.12
+14,April,Qtr 2,2022,Office Supplies,137.856
+15,April,Qtr 2,2022,Office Supplies,135.888
+16,April,Qtr 2,2022,Office Supplies,815.616
+17,April,Qtr 2,2022,Office Supplies,327.92
+20,April,Qtr 2,2022,Office Supplies,1440.464
+21,April,Qtr 2,2022,Office Supplies,123.628
+22,April,Qtr 2,2022,Office Supplies,675.06
+23,April,Qtr 2,2022,Office Supplies,431.222
+24,April,Qtr 2,2022,Office Supplies,306.578
+25,April,Qtr 2,2022,Office Supplies,225.162
+26,April,Qtr 2,2022,Office Supplies,59.62
+27,April,Qtr 2,2022,Office Supplies,216.73
+28,April,Qtr 2,2022,Office Supplies,43.312
+29,April,Qtr 2,2022,Office Supplies,4.91
+30,April,Qtr 2,2022,Office Supplies,400.826
+2,May,Qtr 2,2022,Office Supplies,1891.812
+3,May,Qtr 2,2022,Office Supplies,940.05
+5,May,Qtr 2,2022,Office Supplies,95.132
+6,May,Qtr 2,2022,Office Supplies,20.736
+7,May,Qtr 2,2022,Office Supplies,64.366
+8,May,Qtr 2,2022,Office Supplies,423.896
+9,May,Qtr 2,2022,Office Supplies,237.476
+10,May,Qtr 2,2022,Office Supplies,228.308
+11,May,Qtr 2,2022,Office Supplies,815.552
+12,May,Qtr 2,2022,Office Supplies,796.06
+13,May,Qtr 2,2022,Office Supplies,2019.978
+14,May,Qtr 2,2022,Office Supplies,964.53
+15,May,Qtr 2,2022,Office Supplies,77.008
+16,May,Qtr 2,2022,Office Supplies,221.024
+18,May,Qtr 2,2022,Office Supplies,902.076
+19,May,Qtr 2,2022,Office Supplies,1108.57
+20,May,Qtr 2,2022,Office Supplies,1005.998
+21,May,Qtr 2,2022,Office Supplies,17.97
+22,May,Qtr 2,2022,Office Supplies,86.116
+23,May,Qtr 2,2022,Office Supplies,70.148
+25,May,Qtr 2,2022,Office Supplies,747.186
+26,May,Qtr 2,2022,Office Supplies,247.16
+27,May,Qtr 2,2022,Office Supplies,604.91
+28,May,Qtr 2,2022,Office Supplies,158.118
+29,May,Qtr 2,2022,Office Supplies,619.444
+30,May,Qtr 2,2022,Office Supplies,76.51
+1,June,Qtr 2,2022,Office Supplies,33.74
+2,June,Qtr 2,2022,Office Supplies,76.14
+3,June,Qtr 2,2022,Office Supplies,499.882
+4,June,Qtr 2,2022,Office Supplies,114.42
+5,June,Qtr 2,2022,Office Supplies,1332.025
+6,June,Qtr 2,2022,Office Supplies,26.4
+7,June,Qtr 2,2022,Office Supplies,19.002
+8,June,Qtr 2,2022,Office Supplies,437.936
+10,June,Qtr 2,2022,Office Supplies,1137.732
+11,June,Qtr 2,2022,Office Supplies,1481.478
+12,June,Qtr 2,2022,Office Supplies,10.68
+13,June,Qtr 2,2022,Office Supplies,346.596
+15,June,Qtr 2,2022,Office Supplies,481.454
+16,June,Qtr 2,2022,Office Supplies,471.352
+17,June,Qtr 2,2022,Office Supplies,235.582
+18,June,Qtr 2,2022,Office Supplies,113.232
+19,June,Qtr 2,2022,Office Supplies,583.788
+20,June,Qtr 2,2022,Office Supplies,134.348
+21,June,Qtr 2,2022,Office Supplies,577.736
+22,June,Qtr 2,2022,Office Supplies,91.059
+24,June,Qtr 2,2022,Office Supplies,838.16
+25,June,Qtr 2,2022,Office Supplies,87.688
+26,June,Qtr 2,2022,Office Supplies,1304.2
+27,June,Qtr 2,2022,Office Supplies,39.51
+29,June,Qtr 2,2022,Office Supplies,3078.388
+30,June,Qtr 2,2022,Office Supplies,1614.732
+1,July,Qtr 3,2022,Office Supplies,335.608
+3,July,Qtr 3,2022,Office Supplies,117.51
+4,July,Qtr 3,2022,Office Supplies,21.584
+5,July,Qtr 3,2022,Office Supplies,87.444
+7,July,Qtr 3,2022,Office Supplies,52.356
+8,July,Qtr 3,2022,Office Supplies,2033.69
+9,July,Qtr 3,2022,Office Supplies,2388.661
+10,July,Qtr 3,2022,Office Supplies,739.822
+11,July,Qtr 3,2022,Office Supplies,160.892
+12,July,Qtr 3,2022,Office Supplies,2279.774
+13,July,Qtr 3,2022,Office Supplies,373.94
+14,July,Qtr 3,2022,Office Supplies,405.192
+15,July,Qtr 3,2022,Office Supplies,242.8
+16,July,Qtr 3,2022,Office Supplies,2.912
+17,July,Qtr 3,2022,Office Supplies,200.76
+18,July,Qtr 3,2022,Office Supplies,32.936
+20,July,Qtr 3,2022,Office Supplies,1353.822
+21,July,Qtr 3,2022,Office Supplies,843.86
+22,July,Qtr 3,2022,Office Supplies,
+23,July,Qtr 3,2022,Office Supplies,338.488
+24,July,Qtr 3,2022,Office Supplies,
+25,July,Qtr 3,2022,Office Supplies,341.942
+26,July,Qtr 3,2022,Office Supplies,
+27,July,Qtr 3,2022,Office Supplies,39.16
+28,July,Qtr 3,2022,Office Supplies,24.964
+29,July,Qtr 3,2022,Office Supplies,273.332
+30,July,Qtr 3,2022,Office Supplies,433.426
+31,July,Qtr 3,2022,Office Supplies,1157.276
+1,August,Qtr 3,2022,Office Supplies,
+3,August,Qtr 3,2022,Office Supplies,843.1
+4,August,Qtr 3,2022,Office Supplies,5764.79
+5,August,Qtr 3,2022,Office Supplies,122.552
+6,August,Qtr 3,2022,Office Supplies,240.732
+7,August,Qtr 3,2022,Office Supplies,1304.264
+9,August,Qtr 3,2022,Office Supplies,236.072
+10,August,Qtr 3,2022,Office Supplies,83.44
+11,August,Qtr 3,2022,Office Supplies,109.9
+12,August,Qtr 3,2022,Office Supplies,2632.752
+13,August,Qtr 3,2022,Office Supplies,2185.948
+14,August,Qtr 3,2022,Office Supplies,22.44
+15,August,Qtr 3,2022,Office Supplies,1949.872
+16,August,Qtr 3,2022,Office Supplies,80.564
+17,August,Qtr 3,2022,Office Supplies,4377.038
+18,August,Qtr 3,2022,Office Supplies,4472.954
+19,August,Qtr 3,2022,Office Supplies,512.446
+20,August,Qtr 3,2022,Office Supplies,549.11
+21,August,Qtr 3,2022,Office Supplies,5992.322
+22,August,Qtr 3,2022,Office Supplies,
+23,August,Qtr 3,2022,Office Supplies,219.664
+24,August,Qtr 3,2022,Office Supplies,685.056
+25,August,Qtr 3,2022,Office Supplies,231.008
+26,August,Qtr 3,2022,Office Supplies,53.72
+27,August,Qtr 3,2022,Office Supplies,1804.956
+28,August,Qtr 3,2022,Office Supplies,270.714
+29,August,Qtr 3,2022,Office Supplies,87.448
+31,August,Qtr 3,2022,Office Supplies,1243.954
+1,September,Qtr 3,2022,Office Supplies,274.491
+2,September,Qtr 3,2022,Office Supplies,620.676
+3,September,Qtr 3,2022,Office Supplies,30.84
+4,September,Qtr 3,2022,Office Supplies,1626.71
+5,September,Qtr 3,2022,Office Supplies,384.392
+6,September,Qtr 3,2022,Office Supplies,806.232
+7,September,Qtr 3,2022,Office Supplies,886.784
+9,September,Qtr 3,2022,Office Supplies,1427.003
+10,September,Qtr 3,2022,Office Supplies,163.196
+11,September,Qtr 3,2022,Office Supplies,2250.72
+12,September,Qtr 3,2022,Office Supplies,1447.079
+13,September,Qtr 3,2022,Office Supplies,15.92
+14,September,Qtr 3,2022,Office Supplies,1307.08
+15,September,Qtr 3,2022,Office Supplies,3482.828
+16,September,Qtr 3,2022,Office Supplies,633.186
+17,September,Qtr 3,2022,Office Supplies,658.206
+18,September,Qtr 3,2022,Office Supplies,872.79
+19,September,Qtr 3,2022,Office Supplies,262.954
+20,September,Qtr 3,2022,Office Supplies,113.824
+21,September,Qtr 3,2022,Office Supplies,186.212
+22,September,Qtr 3,2022,Office Supplies,5854.139
+23,September,Qtr 3,2022,Office Supplies,1011.176
+24,September,Qtr 3,2022,Office Supplies,438.578
+25,September,Qtr 3,2022,Office Supplies,486.517
+26,September,Qtr 3,2022,Office Supplies,1058.2
+28,September,Qtr 3,2022,Office Supplies,462.871
+29,September,Qtr 3,2022,Office Supplies,813.906
+30,September,Qtr 3,2022,Office Supplies,380.78
+2,October,Qtr 4,2022,Office Supplies,23.12
+3,October,Qtr 4,2022,Office Supplies,67.124
+4,October,Qtr 4,2022,Office Supplies,510.811
+6,October,Qtr 4,2022,Office Supplies,1497.922
+7,October,Qtr 4,2022,Office Supplies,340.374
+8,October,Qtr 4,2022,Office Supplies,247.28
+9,October,Qtr 4,2022,Office Supplies,1290.524
+10,October,Qtr 4,2022,Office Supplies,
+11,October,Qtr 4,2022,Office Supplies,1444.828
+12,October,Qtr 4,2022,Office Supplies,973.235
+13,October,Qtr 4,2022,Office Supplies,6648.882
+14,October,Qtr 4,2022,Office Supplies,78.512
+15,October,Qtr 4,2022,Office Supplies,484.98
+16,October,Qtr 4,2022,Office Supplies,432.526
+17,October,Qtr 4,2022,Office Supplies,73.56
+19,October,Qtr 4,2022,Office Supplies,1924.452
+20,October,Qtr 4,2022,Office Supplies,989.574
+21,October,Qtr 4,2022,Office Supplies,1268.655
+22,October,Qtr 4,2022,Office Supplies,468.278
+23,October,Qtr 4,2022,Office Supplies,380.074
+24,October,Qtr 4,2022,Office Supplies,11.68
+26,October,Qtr 4,2022,Office Supplies,442.836
+27,October,Qtr 4,2022,Office Supplies,145.095
+28,October,Qtr 4,2022,Office Supplies,280.598
+29,October,Qtr 4,2022,Office Supplies,46.96
+30,October,Qtr 4,2022,Office Supplies,2133.092
+31,October,Qtr 4,2022,Office Supplies,15.16
+2,November,Qtr 4,2022,Office Supplies,42.036
+3,November,Qtr 4,2022,Office Supplies,951.494
+4,November,Qtr 4,2022,Office Supplies,92.736
+5,November,Qtr 4,2022,Office Supplies,231.494
+6,November,Qtr 4,2022,Office Supplies,739.882
+7,November,Qtr 4,2022,Office Supplies,236.89
+8,November,Qtr 4,2022,Office Supplies,555.142
+9,November,Qtr 4,2022,Office Supplies,2529.2
+11,November,Qtr 4,2022,Office Supplies,1656.194
+12,November,Qtr 4,2022,Office Supplies,899.746
+13,November,Qtr 4,2022,Office Supplies,1971.528
+14,November,Qtr 4,2022,Office Supplies,225.198
+15,November,Qtr 4,2022,Office Supplies,
+16,November,Qtr 4,2022,Office Supplies,1225.466
+17,November,Qtr 4,2022,Office Supplies,1722.21
+18,November,Qtr 4,2022,Office Supplies,1109.32
+19,November,Qtr 4,2022,Office Supplies,4762.139
+20,November,Qtr 4,2022,Office Supplies,274.482
+21,November,Qtr 4,2022,Office Supplies,382.64
+22,November,Qtr 4,2022,Office Supplies,35.712
+23,November,Qtr 4,2022,Office Supplies,445.964
+24,November,Qtr 4,2022,Office Supplies,2832.945
+25,November,Qtr 4,2022,Office Supplies,686.928
+26,November,Qtr 4,2022,Office Supplies,463.89
+27,November,Qtr 4,2022,Office Supplies,1185.016
+28,November,Qtr 4,2022,Office Supplies,273.914
+29,November,Qtr 4,2022,Office Supplies,
+30,November,Qtr 4,2022,Office Supplies,1417.566
+1,December,Qtr 4,2022,Office Supplies,810.84
+3,December,Qtr 4,2022,Office Supplies,283.35
+4,December,Qtr 4,2022,Office Supplies,69.66
+5,December,Qtr 4,2022,Office Supplies,554.654
+6,December,Qtr 4,2022,Office Supplies,206.948
+7,December,Qtr 4,2022,Office Supplies,3.816
+8,December,Qtr 4,2022,Office Supplies,1140.7
+9,December,Qtr 4,2022,Office Supplies,483.19
+10,December,Qtr 4,2022,Office Supplies,233.788
+11,December,Qtr 4,2022,Office Supplies,1375.124
+13,December,Qtr 4,2022,Office Supplies,91.92
+14,December,Qtr 4,2022,Office Supplies,320.732
+15,December,Qtr 4,2022,Office Supplies,87.342
+16,December,Qtr 4,2022,Office Supplies,321.09
+17,December,Qtr 4,2022,Office Supplies,1398.498
+18,December,Qtr 4,2022,Office Supplies,2115.91
+19,December,Qtr 4,2022,Office Supplies,1780.548
+20,December,Qtr 4,2022,Office Supplies,377.736
+21,December,Qtr 4,2022,Office Supplies,1772.05
+22,December,Qtr 4,2022,Office Supplies,1851.813
+23,December,Qtr 4,2022,Office Supplies,1149.692
+24,December,Qtr 4,2022,Office Supplies,1479.638
+25,December,Qtr 4,2022,Office Supplies,1465.265
+26,December,Qtr 4,2022,Office Supplies,814.594
+27,December,Qtr 4,2022,Office Supplies,13.248
+28,December,Qtr 4,2022,Office Supplies,1091.244
+29,December,Qtr 4,2022,Office Supplies,282.44
+30,December,Qtr 4,2022,Office Supplies,299.724
+2,January,Qtr 1,2023,Office Supplies,
+3,January,Qtr 1,2023,Office Supplies,303.216
+4,January,Qtr 1,2023,Office Supplies,119.888
+6,January,Qtr 1,2023,Office Supplies,2282.53
+7,January,Qtr 1,2023,Office Supplies,25.104
+8,January,Qtr 1,2023,Office Supplies,184.2
+9,January,Qtr 1,2023,Office Supplies,112.436
+10,January,Qtr 1,2023,Office Supplies,4.71
+11,January,Qtr 1,2023,Office Supplies,1512.912
+12,January,Qtr 1,2023,Office Supplies,82.928
+13,January,Qtr 1,2023,Office Supplies,2027.116
+14,January,Qtr 1,2023,Office Supplies,
+15,January,Qtr 1,2023,Office Supplies,
+16,January,Qtr 1,2023,Office Supplies,48.66
+18,January,Qtr 1,2023,Office Supplies,64.864
+19,January,Qtr 1,2023,Office Supplies,197.124
+20,January,Qtr 1,2023,Office Supplies,560.43
+21,January,Qtr 1,2023,Office Supplies,
+23,January,Qtr 1,2023,Office Supplies,46.02
+26,January,Qtr 1,2023,Office Supplies,536.72
+27,January,Qtr 1,2023,Office Supplies,93.67
+28,January,Qtr 1,2023,Office Supplies,3.928
+30,January,Qtr 1,2023,Office Supplies,240.5
+31,January,Qtr 1,2023,Office Supplies,
+2,February,Qtr 1,2023,Office Supplies,30.686
+3,February,Qtr 1,2023,Office Supplies,51.184
+4,February,Qtr 1,2023,Office Supplies,230.948
+5,February,Qtr 1,2023,Office Supplies,26.136
+6,February,Qtr 1,2023,Office Supplies,425.308
+7,February,Qtr 1,2023,Office Supplies,5.58
+8,February,Qtr 1,2023,Office Supplies,865.08
+9,February,Qtr 1,2023,Office Supplies,1907.81
+10,February,Qtr 1,2023,Office Supplies,42.208
+11,February,Qtr 1,2023,Office Supplies,417.022
+12,February,Qtr 1,2023,Office Supplies,243.298
+14,February,Qtr 1,2023,Office Supplies,336.756
+15,February,Qtr 1,2023,Office Supplies,21.36
+16,February,Qtr 1,2023,Office Supplies,9.04
+17,February,Qtr 1,2023,Office Supplies,54.208
+18,February,Qtr 1,2023,Office Supplies,12.624
+20,February,Qtr 1,2023,Office Supplies,12.96
+21,February,Qtr 1,2023,Office Supplies,8.85
+22,February,Qtr 1,2023,Office Supplies,19.44
+23,February,Qtr 1,2023,Office Supplies,11.364
+24,February,Qtr 1,2023,Office Supplies,55.672
+27,February,Qtr 1,2023,Office Supplies,19.456
+1,March,Qtr 1,2023,Office Supplies,16.448
+2,March,Qtr 1,2023,Office Supplies,97.112
+3,March,Qtr 1,2023,Office Supplies,407.1
+4,March,Qtr 1,2023,Office Supplies,11.16
+5,March,Qtr 1,2023,Office Supplies,72.632
+6,March,Qtr 1,2023,Office Supplies,163.912
+8,March,Qtr 1,2023,Office Supplies,259.244
+9,March,Qtr 1,2023,Office Supplies,22.08
+10,March,Qtr 1,2023,Office Supplies,164.356
+11,March,Qtr 1,2023,Office Supplies,554.845
+12,March,Qtr 1,2023,Office Supplies,25.92
+14,March,Qtr 1,2023,Office Supplies,310.92
+15,March,Qtr 1,2023,Office Supplies,325.086
+16,March,Qtr 1,2023,Office Supplies,
+17,March,Qtr 1,2023,Office Supplies,695.128
+18,March,Qtr 1,2023,Office Supplies,1904.518
+19,March,Qtr 1,2023,Office Supplies,71.538
+21,March,Qtr 1,2023,Office Supplies,358.558
+22,March,Qtr 1,2023,Office Supplies,149.741
+23,March,Qtr 1,2023,Office Supplies,340.312
+24,March,Qtr 1,2023,Office Supplies,24.9
+25,March,Qtr 1,2023,Office Supplies,46.88
+26,March,Qtr 1,2023,Office Supplies,50.046
+28,March,Qtr 1,2023,Office Supplies,6.12
+29,March,Qtr 1,2023,Office Supplies,
+30,March,Qtr 1,2023,Office Supplies,585.41
+31,March,Qtr 1,2023,Office Supplies,754.08
+1,April,Qtr 2,2023,Office Supplies,288.06
+2,April,Qtr 2,2023,Office Supplies,134.384
+3,April,Qtr 2,2023,Office Supplies,370.452
+4,April,Qtr 2,2023,Office Supplies,370.394
+5,April,Qtr 2,2023,Office Supplies,147.792
+6,April,Qtr 2,2023,Office Supplies,31.784
+7,April,Qtr 2,2023,Office Supplies,247.408
+8,April,Qtr 2,2023,Office Supplies,2087.774
+10,April,Qtr 2,2023,Office Supplies,139.338
+11,April,Qtr 2,2023,Office Supplies,206.566
+12,April,Qtr 2,2023,Office Supplies,
+13,April,Qtr 2,2023,Office Supplies,566.648
+15,April,Qtr 2,2023,Office Supplies,106.96
+16,April,Qtr 2,2023,Office Supplies,39.072
+18,April,Qtr 2,2023,Office Supplies,187.53
+19,April,Qtr 2,2023,Office Supplies,129.33
+20,April,Qtr 2,2023,Office Supplies,44.84
+21,April,Qtr 2,2023,Office Supplies,845.36
+22,April,Qtr 2,2023,Office Supplies,257.752
+23,April,Qtr 2,2023,Office Supplies,58.9
+25,April,Qtr 2,2023,Office Supplies,287.328
+26,April,Qtr 2,2023,Office Supplies,52.288
+28,April,Qtr 2,2023,Office Supplies,738.536
+29,April,Qtr 2,2023,Office Supplies,117.86
+30,April,Qtr 2,2023,Office Supplies,1000.95
+1,May,Qtr 2,2023,Office Supplies,19.536
+3,May,Qtr 2,2023,Office Supplies,225.592
+4,May,Qtr 2,2023,Office Supplies,5266.108
+5,May,Qtr 2,2023,Office Supplies,133.108
+7,May,Qtr 2,2023,Office Supplies,731.398
+8,May,Qtr 2,2023,Office Supplies,293.65
+9,May,Qtr 2,2023,Office Supplies,264.32
+10,May,Qtr 2,2023,Office Supplies,91.92
+11,May,Qtr 2,2023,Office Supplies,1093.29
+12,May,Qtr 2,2023,Office Supplies,2170.252
+13,May,Qtr 2,2023,Office Supplies,468.956
+14,May,Qtr 2,2023,Office Supplies,
+16,May,Qtr 2,2023,Office Supplies,
+17,May,Qtr 2,2023,Office Supplies,91.68
+18,May,Qtr 2,2023,Office Supplies,19.92
+19,May,Qtr 2,2023,Office Supplies,91.62
+20,May,Qtr 2,2023,Office Supplies,149.128
+21,May,Qtr 2,2023,Office Supplies,3538.586
+22,May,Qtr 2,2023,Office Supplies,
+23,May,Qtr 2,2023,Office Supplies,268.57
+24,May,Qtr 2,2023,Office Supplies,116.28
+25,May,Qtr 2,2023,Office Supplies,90.22
+26,May,Qtr 2,2023,Office Supplies,164.416
+27,May,Qtr 2,2023,Office Supplies,376.78
+28,May,Qtr 2,2023,Office Supplies,136.96
+30,May,Qtr 2,2023,Office Supplies,385.482
+31,May,Qtr 2,2023,Office Supplies,
+1,June,Qtr 2,2023,Office Supplies,685.34
+2,June,Qtr 2,2023,Office Supplies,23.952
+4,June,Qtr 2,2023,Office Supplies,266.652
+5,June,Qtr 2,2023,Office Supplies,254.456
+6,June,Qtr 2,2023,Office Supplies,382.237
+7,June,Qtr 2,2023,Office Supplies,
+8,June,Qtr 2,2023,Office Supplies,
+9,June,Qtr 2,2023,Office Supplies,58.48
+10,June,Qtr 2,2023,Office Supplies,485.62
+11,June,Qtr 2,2023,Office Supplies,43.68
+12,June,Qtr 2,2023,Office Supplies,1410.746
+13,June,Qtr 2,2023,Office Supplies,14.52
+14,June,Qtr 2,2023,Office Supplies,
+15,June,Qtr 2,2023,Office Supplies,45.112
+16,June,Qtr 2,2023,Office Supplies,115.952
+17,June,Qtr 2,2023,Office Supplies,3346.292
+18,June,Qtr 2,2023,Office Supplies,
+20,June,Qtr 2,2023,Office Supplies,1015.5
+21,June,Qtr 2,2023,Office Supplies,255.92
+22,June,Qtr 2,2023,Office Supplies,671.976
+23,June,Qtr 2,2023,Office Supplies,23.12
+24,June,Qtr 2,2023,Office Supplies,
+25,June,Qtr 2,2023,Office Supplies,80.96
+27,June,Qtr 2,2023,Office Supplies,306.2
+28,June,Qtr 2,2023,Office Supplies,417.326
+29,June,Qtr 2,2023,Office Supplies,46.68
+30,June,Qtr 2,2023,Office Supplies,739.624
+1,July,Qtr 3,2023,Office Supplies,10.43
+2,July,Qtr 3,2023,Office Supplies,64.96
+3,July,Qtr 3,2023,Office Supplies,594.078
+4,July,Qtr 3,2023,Office Supplies,181.29
+5,July,Qtr 3,2023,Office Supplies,24.78
+6,July,Qtr 3,2023,Office Supplies,12.462
+7,July,Qtr 3,2023,Office Supplies,
+9,July,Qtr 3,2023,Office Supplies,651.076
+10,July,Qtr 3,2023,Office Supplies,107.44
+11,July,Qtr 3,2023,Office Supplies,765.998
+12,July,Qtr 3,2023,Office Supplies,548.4
+13,July,Qtr 3,2023,Office Supplies,
+14,July,Qtr 3,2023,Office Supplies,184.856
+15,July,Qtr 3,2023,Office Supplies,6.54
+18,July,Qtr 3,2023,Office Supplies,13.904
+19,July,Qtr 3,2023,Office Supplies,30.786
+20,July,Qtr 3,2023,Office Supplies,1202.714
+21,July,Qtr 3,2023,Office Supplies,193.156
+22,July,Qtr 3,2023,Office Supplies,300.292
+23,July,Qtr 3,2023,Office Supplies,58.1
+25,July,Qtr 3,2023,Office Supplies,8263.37
+26,July,Qtr 3,2023,Office Supplies,2494.526
+27,July,Qtr 3,2023,Office Supplies,342.06
+28,July,Qtr 3,2023,Office Supplies,63.264
+30,July,Qtr 3,2023,Office Supplies,
+2,August,Qtr 3,2023,Office Supplies,
+4,August,Qtr 3,2023,Office Supplies,71.168
+5,August,Qtr 3,2023,Office Supplies,
+6,August,Qtr 3,2023,Office Supplies,1745.36
+7,August,Qtr 3,2023,Office Supplies,196.704
+8,August,Qtr 3,2023,Office Supplies,705.275
+9,August,Qtr 3,2023,Office Supplies,1692.256
+10,August,Qtr 3,2023,Office Supplies,123.92
+11,August,Qtr 3,2023,Office Supplies,
+12,August,Qtr 3,2023,Office Supplies,215.28
+15,August,Qtr 3,2023,Office Supplies,647.646
+16,August,Qtr 3,2023,Office Supplies,
+17,August,Qtr 3,2023,Office Supplies,160.382
+19,August,Qtr 3,2023,Office Supplies,511.046
+20,August,Qtr 3,2023,Office Supplies,917.11
+22,August,Qtr 3,2023,Office Supplies,23.104
+23,August,Qtr 3,2023,Office Supplies,417.36
+24,August,Qtr 3,2023,Office Supplies,46.46
+25,August,Qtr 3,2023,Office Supplies,342.326
+26,August,Qtr 3,2023,Office Supplies,29.36
+27,August,Qtr 3,2023,Office Supplies,44.64
+29,August,Qtr 3,2023,Office Supplies,658.264
+30,August,Qtr 3,2023,Office Supplies,121.24
+31,August,Qtr 3,2023,Office Supplies,
+1,September,Qtr 3,2023,Office Supplies,9.344
+5,September,Qtr 3,2023,Office Supplies,158.71
+6,September,Qtr 3,2023,Office Supplies,338.712
+7,September,Qtr 3,2023,Office Supplies,145.688
+8,September,Qtr 3,2023,Office Supplies,2116.965
+9,September,Qtr 3,2023,Office Supplies,1679.354
+10,September,Qtr 3,2023,Office Supplies,233.368
+11,September,Qtr 3,2023,Office Supplies,590.94
+12,September,Qtr 3,2023,Office Supplies,442.676
+13,September,Qtr 3,2023,Office Supplies,206.162
+14,September,Qtr 3,2023,Office Supplies,1289.016
+15,September,Qtr 3,2023,Office Supplies,14.94
+16,September,Qtr 3,2023,Office Supplies,33.552
+17,September,Qtr 3,2023,Office Supplies,651.354
+19,September,Qtr 3,2023,Office Supplies,172.694
+20,September,Qtr 3,2023,Office Supplies,213.368
+21,September,Qtr 3,2023,Office Supplies,384.77
+22,September,Qtr 3,2023,Office Supplies,563.298
+23,September,Qtr 3,2023,Office Supplies,10142.354
+24,September,Qtr 3,2023,Office Supplies,211.96
+25,September,Qtr 3,2023,Office Supplies,54.356
+26,September,Qtr 3,2023,Office Supplies,571.334
+27,September,Qtr 3,2023,Office Supplies,81.98
+28,September,Qtr 3,2023,Office Supplies,153.204
+29,September,Qtr 3,2023,Office Supplies,4269.362
+30,September,Qtr 3,2023,Office Supplies,972.292
+1,October,Qtr 4,2023,Office Supplies,2.89
+3,October,Qtr 4,2023,Office Supplies,741.956
+5,October,Qtr 4,2023,Office Supplies,261.45
+6,October,Qtr 4,2023,Office Supplies,491.55
+9,October,Qtr 4,2023,Office Supplies,113.288
+10,October,Qtr 4,2023,Office Supplies,302.272
+11,October,Qtr 4,2023,Office Supplies,733.01
+12,October,Qtr 4,2023,Office Supplies,234.984
+13,October,Qtr 4,2023,Office Supplies,618.912
+14,October,Qtr 4,2023,Office Supplies,719.704
+15,October,Qtr 4,2023,Office Supplies,7.968
+16,October,Qtr 4,2023,Office Supplies,14.352
+17,October,Qtr 4,2023,Office Supplies,10.78
+18,October,Qtr 4,2023,Office Supplies,588.746
+19,October,Qtr 4,2023,Office Supplies,201.976
+20,October,Qtr 4,2023,Office Supplies,852.546
+21,October,Qtr 4,2023,Office Supplies,355.692
+22,October,Qtr 4,2023,Office Supplies,
+24,October,Qtr 4,2023,Office Supplies,56.49
+25,October,Qtr 4,2023,Office Supplies,63.106
+26,October,Qtr 4,2023,Office Supplies,
+27,October,Qtr 4,2023,Office Supplies,22.32
+28,October,Qtr 4,2023,Office Supplies,635.604
+29,October,Qtr 4,2023,Office Supplies,75.88
+31,October,Qtr 4,2023,Office Supplies,703.164
+1,November,Qtr 4,2023,Office Supplies,
+2,November,Qtr 4,2023,Office Supplies,158.9
+3,November,Qtr 4,2023,Office Supplies,289.064
+4,November,Qtr 4,2023,Office Supplies,113.944
+5,November,Qtr 4,2023,Office Supplies,157.962
+7,November,Qtr 4,2023,Office Supplies,269.368
+8,November,Qtr 4,2023,Office Supplies,439.27
+9,November,Qtr 4,2023,Office Supplies,
+10,November,Qtr 4,2023,Office Supplies,530.206
+11,November,Qtr 4,2023,Office Supplies,4415.426
+14,November,Qtr 4,2023,Office Supplies,132.536
+15,November,Qtr 4,2023,Office Supplies,998.242
+16,November,Qtr 4,2023,Office Supplies,658.73
+17,November,Qtr 4,2023,Office Supplies,6174.214
+18,November,Qtr 4,2023,Office Supplies,665.571
+19,November,Qtr 4,2023,Office Supplies,639.02
+20,November,Qtr 4,2023,Office Supplies,73.62
+21,November,Qtr 4,2023,Office Supplies,849.682
+22,November,Qtr 4,2023,Office Supplies,1103.298
+23,November,Qtr 4,2023,Office Supplies,180.646
+24,November,Qtr 4,2023,Office Supplies,1884.662
+25,November,Qtr 4,2023,Office Supplies,1548.136
+26,November,Qtr 4,2023,Office Supplies,968.394
+27,November,Qtr 4,2023,Office Supplies,3.76
+28,November,Qtr 4,2023,Office Supplies,333.118
+29,November,Qtr 4,2023,Office Supplies,73.124
+30,November,Qtr 4,2023,Office Supplies,116.914
+2,December,Qtr 4,2023,Office Supplies,
+4,December,Qtr 4,2023,Office Supplies,90.168
+5,December,Qtr 4,2023,Office Supplies,
+7,December,Qtr 4,2023,Office Supplies,346.39
+8,December,Qtr 4,2023,Office Supplies,509.066
+9,December,Qtr 4,2023,Office Supplies,936.202
+10,December,Qtr 4,2023,Office Supplies,58.53
+11,December,Qtr 4,2023,Office Supplies,125.08
+12,December,Qtr 4,2023,Office Supplies,242.804
+13,December,Qtr 4,2023,Office Supplies,110.764
+14,December,Qtr 4,2023,Office Supplies,19.888
+15,December,Qtr 4,2023,Office Supplies,
+16,December,Qtr 4,2023,Office Supplies,153.639
+17,December,Qtr 4,2023,Office Supplies,45.534
+19,December,Qtr 4,2023,Office Supplies,250.156
+20,December,Qtr 4,2023,Office Supplies,2337.266
+21,December,Qtr 4,2023,Office Supplies,35.52
+22,December,Qtr 4,2023,Office Supplies,798.968
+23,December,Qtr 4,2023,Office Supplies,824.008
+24,December,Qtr 4,2023,Office Supplies,548.698
+26,December,Qtr 4,2023,Office Supplies,688.256
+27,December,Qtr 4,2023,Office Supplies,1255.59
+28,December,Qtr 4,2023,Office Supplies,3732.296
+29,December,Qtr 4,2023,Office Supplies,505.252
+30,December,Qtr 4,2023,Office Supplies,774.611
+31,December,Qtr 4,2023,Office Supplies,308.728
+3,January,Qtr 1,2024,Office Supplies,117.6
+5,January,Qtr 1,2024,Office Supplies,298.636
+6,January,Qtr 1,2024,Office Supplies,492.318
+2,January,Qtr 1,2021,Technology,
+3,January,Qtr 1,2021,Technology,5059.914
+4,January,Qtr 1,2021,Technology,48.11
+5,January,Qtr 1,2021,Technology,
+7,January,Qtr 1,2021,Technology,1530.79
+8,January,Qtr 1,2021,Technology,1039.728
+9,January,Qtr 1,2021,Technology,580.938
+10,January,Qtr 1,2021,Technology,149.412
+11,January,Qtr 1,2021,Technology,89.912
+12,January,Qtr 1,2021,Technology,1181.838
+14,January,Qtr 1,2021,Technology,
+15,January,Qtr 1,2021,Technology,254.97
+16,January,Qtr 1,2021,Technology,90.57
+17,January,Qtr 1,2021,Technology,717.96
+21,January,Qtr 1,2021,Technology,
+22,January,Qtr 1,2021,Technology,165.552
+23,January,Qtr 1,2021,Technology,99.98
+24,January,Qtr 1,2021,Technology,
+25,January,Qtr 1,2021,Technology,
+28,January,Qtr 1,2021,Technology,
+30,January,Qtr 1,2021,Technology,1439.968
+31,January,Qtr 1,2021,Technology,109.592
+1,February,Qtr 1,2021,Technology,231.98
+2,February,Qtr 1,2021,Technology,8749.95
+4,February,Qtr 1,2021,Technology,
+5,February,Qtr 1,2021,Technology,
+6,February,Qtr 1,2021,Technology,
+7,February,Qtr 1,2021,Technology,
+8,February,Qtr 1,2021,Technology,333.576
+9,February,Qtr 1,2021,Technology,4626.288
+10,February,Qtr 1,2021,Technology,17499.95
+12,February,Qtr 1,2021,Technology,795.55
+13,February,Qtr 1,2021,Technology,
+14,February,Qtr 1,2021,Technology,
+15,February,Qtr 1,2021,Technology,
+16,February,Qtr 1,2021,Technology,89.97
+19,February,Qtr 1,2021,Technology,
+20,February,Qtr 1,2021,Technology,
+21,February,Qtr 1,2021,Technology,52.97
+22,February,Qtr 1,2021,Technology,482.2
+23,February,Qtr 1,2021,Technology,
+25,February,Qtr 1,2021,Technology,
+27,February,Qtr 1,2021,Technology,
+28,February,Qtr 1,2021,Technology,
+1,March,Qtr 1,2021,Technology,376.64
+2,March,Qtr 1,2021,Technology,
+3,March,Qtr 1,2021,Technology,1376.406
+4,March,Qtr 1,2021,Technology,259.96
+5,March,Qtr 1,2021,Technology,789.433
+6,March,Qtr 1,2021,Technology,
+7,March,Qtr 1,2021,Technology,
+8,March,Qtr 1,2021,Technology,167.28
+9,March,Qtr 1,2021,Technology,280.782
+10,March,Qtr 1,2021,Technology,
+11,March,Qtr 1,2021,Technology,334.941
+12,March,Qtr 1,2021,Technology,1649.95
+13,March,Qtr 1,2021,Technology,1572.154
+14,March,Qtr 1,2021,Technology,
+15,March,Qtr 1,2021,Technology,83.976
+17,March,Qtr 1,2021,Technology,214.764
+18,March,Qtr 1,2021,Technology,
+19,March,Qtr 1,2021,Technology,
+20,March,Qtr 1,2021,Technology,96.776
+21,March,Qtr 1,2021,Technology,
+22,March,Qtr 1,2021,Technology,58.58
+24,March,Qtr 1,2021,Technology,403.168
+25,March,Qtr 1,2021,Technology,1287.45
+26,March,Qtr 1,2021,Technology,119.976
+27,March,Qtr 1,2021,Technology,
+28,March,Qtr 1,2021,Technology,
+29,March,Qtr 1,2021,Technology,971.112
+30,March,Qtr 1,2021,Technology,
+31,March,Qtr 1,2021,Technology,312.766
+1,April,Qtr 2,2021,Technology,959.968
+2,April,Qtr 2,2021,Technology,90.48
+3,April,Qtr 2,2021,Technology,159.98
+4,April,Qtr 2,2021,Technology,239.94
+6,April,Qtr 2,2021,Technology,1381.834
+7,April,Qtr 2,2021,Technology,249.456
+8,April,Qtr 2,2021,Technology,302.384
+9,April,Qtr 2,2021,Technology,3079.91
+10,April,Qtr 2,2021,Technology,5452.59
+11,April,Qtr 2,2021,Technology,686.4
+12,April,Qtr 2,2021,Technology,78.15
+13,April,Qtr 2,2021,Technology,
+14,April,Qtr 2,2021,Technology,
+15,April,Qtr 2,2021,Technology,700.704
+16,April,Qtr 2,2021,Technology,9135.098
+17,April,Qtr 2,2021,Technology,36.792
+18,April,Qtr 2,2021,Technology,29.56
+19,April,Qtr 2,2021,Technology,65.94
+21,April,Qtr 2,2021,Technology,
+22,April,Qtr 2,2021,Technology,
+23,April,Qtr 2,2021,Technology,99.99
+24,April,Qtr 2,2021,Technology,258.696
+25,April,Qtr 2,2021,Technology,82.8
+26,April,Qtr 2,2021,Technology,
+28,April,Qtr 2,2021,Technology,369.576
+30,April,Qtr 2,2021,Technology,
+1,May,Qtr 2,2021,Technology,250.656
+2,May,Qtr 2,2021,Technology,749.648
+3,May,Qtr 2,2021,Technology,
+4,May,Qtr 2,2021,Technology,118.782
+5,May,Qtr 2,2021,Technology,423.648
+6,May,Qtr 2,2021,Technology,
+8,May,Qtr 2,2021,Technology,
+9,May,Qtr 2,2021,Technology,546.784
+11,May,Qtr 2,2021,Technology,837.638
+12,May,Qtr 2,2021,Technology,1234.4
+14,May,Qtr 2,2021,Technology,229.128
+15,May,Qtr 2,2021,Technology,
+16,May,Qtr 2,2021,Technology,
+17,May,Qtr 2,2021,Technology,
+18,May,Qtr 2,2021,Technology,
+19,May,Qtr 2,2021,Technology,
+20,May,Qtr 2,2021,Technology,1363.96
+21,May,Qtr 2,2021,Technology,2517.836
+22,May,Qtr 2,2021,Technology,920.464
+23,May,Qtr 2,2021,Technology,10502.286
+24,May,Qtr 2,2021,Technology,
+25,May,Qtr 2,2021,Technology,
+26,May,Qtr 2,2021,Technology,695.056
+27,May,Qtr 2,2021,Technology,
+28,May,Qtr 2,2021,Technology,976.4
+29,May,Qtr 2,2021,Technology,979.95
+30,May,Qtr 2,2021,Technology,3361.578
+31,May,Qtr 2,2021,Technology,179.7
+2,June,Qtr 2,2021,Technology,
+3,June,Qtr 2,2021,Technology,500.178
+4,June,Qtr 2,2021,Technology,1294.75
+5,June,Qtr 2,2021,Technology,26.176
+6,June,Qtr 2,2021,Technology,4386.872
+8,June,Qtr 2,2021,Technology,211.168
+9,June,Qtr 2,2021,Technology,361.444
+10,June,Qtr 2,2021,Technology,771.67
+11,June,Qtr 2,2021,Technology,
+12,June,Qtr 2,2021,Technology,1590.296
+13,June,Qtr 2,2021,Technology,377.97
+14,June,Qtr 2,2021,Technology,47.754
+15,June,Qtr 2,2021,Technology,
+16,June,Qtr 2,2021,Technology,91.475
+17,June,Qtr 2,2021,Technology,596.97
+18,June,Qtr 2,2021,Technology,
+19,June,Qtr 2,2021,Technology,
+20,June,Qtr 2,2021,Technology,169.668
+21,June,Qtr 2,2021,Technology,
+23,June,Qtr 2,2021,Technology,862.344
+24,June,Qtr 2,2021,Technology,4955.95
+25,June,Qtr 2,2021,Technology,
+26,June,Qtr 2,2021,Technology,310.496
+27,June,Qtr 2,2021,Technology,201.584
+28,June,Qtr 2,2021,Technology,359.976
+29,June,Qtr 2,2021,Technology,
+30,June,Qtr 2,2021,Technology,50.12
+1,July,Qtr 3,2021,Technology,
+2,July,Qtr 3,2021,Technology,723.96
+3,July,Qtr 3,2021,Technology,21.072
+4,July,Qtr 3,2021,Technology,1199.976
+5,July,Qtr 3,2021,Technology,4199.9
+6,July,Qtr 3,2021,Technology,
+7,July,Qtr 3,2021,Technology,2859.954
+8,July,Qtr 3,2021,Technology,179.97
+10,July,Qtr 3,2021,Technology,837.6
+11,July,Qtr 3,2021,Technology,1223.876
+14,July,Qtr 3,2021,Technology,940.184
+15,July,Qtr 3,2021,Technology,
+16,July,Qtr 3,2021,Technology,714.338
+17,July,Qtr 3,2021,Technology,1046.184
+18,July,Qtr 3,2021,Technology,71.568
+19,July,Qtr 3,2021,Technology,425.954
+20,July,Qtr 3,2021,Technology,89.95
+21,July,Qtr 3,2021,Technology,
+22,July,Qtr 3,2021,Technology,109.95
+23,July,Qtr 3,2021,Technology,380.611
+24,July,Qtr 3,2021,Technology,
+25,July,Qtr 3,2021,Technology,1861.776
+28,July,Qtr 3,2021,Technology,
+29,July,Qtr 3,2021,Technology,
+30,July,Qtr 3,2021,Technology,
+31,July,Qtr 3,2021,Technology,754.95
+1,August,Qtr 3,2021,Technology,108.784
+2,August,Qtr 3,2021,Technology,1127.976
+3,August,Qtr 3,2021,Technology,1500.496
+4,August,Qtr 3,2021,Technology,431.928
+5,August,Qtr 3,2021,Technology,58.112
+7,August,Qtr 3,2021,Technology,1795.584
+8,August,Qtr 3,2021,Technology,
+9,August,Qtr 3,2021,Technology,152.712
+10,August,Qtr 3,2021,Technology,
+11,August,Qtr 3,2021,Technology,
+12,August,Qtr 3,2021,Technology,1546.75
+13,August,Qtr 3,2021,Technology,71.98
+14,August,Qtr 3,2021,Technology,892.596
+15,August,Qtr 3,2021,Technology,943.12
+16,August,Qtr 3,2021,Technology,
+17,August,Qtr 3,2021,Technology,
+18,August,Qtr 3,2021,Technology,39.99
+19,August,Qtr 3,2021,Technology,
+20,August,Qtr 3,2021,Technology,14.78
+21,August,Qtr 3,2021,Technology,378.914
+22,August,Qtr 3,2021,Technology,
+23,August,Qtr 3,2021,Technology,1505.98
+26,August,Qtr 3,2021,Technology,1228.828
+27,August,Qtr 3,2021,Technology,59.97
+28,August,Qtr 3,2021,Technology,108.576
+29,August,Qtr 3,2021,Technology,117.976
+30,August,Qtr 3,2021,Technology,630.858
+31,August,Qtr 3,2021,Technology,
+1,September,Qtr 3,2021,Technology,727.878
+2,September,Qtr 3,2021,Technology,121.83
+3,September,Qtr 3,2021,Technology,199.75
+4,September,Qtr 3,2021,Technology,517.9
+5,September,Qtr 3,2021,Technology,113.116
+6,September,Qtr 3,2021,Technology,873.18
+7,September,Qtr 3,2021,Technology,
+8,September,Qtr 3,2021,Technology,44.784
+9,September,Qtr 3,2021,Technology,
+10,September,Qtr 3,2021,Technology,23.976
+11,September,Qtr 3,2021,Technology,479.97
+12,September,Qtr 3,2021,Technology,130.6
+13,September,Qtr 3,2021,Technology,179.92
+14,September,Qtr 3,2021,Technology,437.85
+15,September,Qtr 3,2021,Technology,
+16,September,Qtr 3,2021,Technology,
+17,September,Qtr 3,2021,Technology,1013.018
+18,September,Qtr 3,2021,Technology,239.984
+19,September,Qtr 3,2021,Technology,249.95
+20,September,Qtr 3,2021,Technology,
+22,September,Qtr 3,2021,Technology,161.916
+23,September,Qtr 3,2021,Technology,
+24,September,Qtr 3,2021,Technology,
+25,September,Qtr 3,2021,Technology,1024.662
+26,September,Qtr 3,2021,Technology,531.976
+27,September,Qtr 3,2021,Technology,1001.584
+28,September,Qtr 3,2021,Technology,
+29,September,Qtr 3,2021,Technology,1105.41
+30,September,Qtr 3,2021,Technology,
+1,October,Qtr 4,2021,Technology,69.98
+3,October,Qtr 4,2021,Technology,7583.354
+4,October,Qtr 4,2021,Technology,
+5,October,Qtr 4,2021,Technology,743.988
+6,October,Qtr 4,2021,Technology,
+7,October,Qtr 4,2021,Technology,341.991
+9,October,Qtr 4,2021,Technology,1239.64
+10,October,Qtr 4,2021,Technology,15.992
+11,October,Qtr 4,2021,Technology,1604.732
+12,October,Qtr 4,2021,Technology,44.75
+13,October,Qtr 4,2021,Technology,191.976
+14,October,Qtr 4,2021,Technology,2941.384
+15,October,Qtr 4,2021,Technology,5.5
+16,October,Qtr 4,2021,Technology,
+17,October,Qtr 4,2021,Technology,449.97
+18,October,Qtr 4,2021,Technology,
+20,October,Qtr 4,2021,Technology,317.68
+21,October,Qtr 4,2021,Technology,439.392
+22,October,Qtr 4,2021,Technology,
+23,October,Qtr 4,2021,Technology,
+24,October,Qtr 4,2021,Technology,1349.946
+25,October,Qtr 4,2021,Technology,783.96
+27,October,Qtr 4,2021,Technology,
+28,October,Qtr 4,2021,Technology,302.376
+29,October,Qtr 4,2021,Technology,
+30,October,Qtr 4,2021,Technology,
+31,October,Qtr 4,2021,Technology,
+1,November,Qtr 4,2021,Technology,15.588
+2,November,Qtr 4,2021,Technology,69.93
+3,November,Qtr 4,2021,Technology,45.98
+5,November,Qtr 4,2021,Technology,
+6,November,Qtr 4,2021,Technology,629.94
+8,November,Qtr 4,2021,Technology,
+9,November,Qtr 4,2021,Technology,5900.986
+10,November,Qtr 4,2021,Technology,
+11,November,Qtr 4,2021,Technology,449.918
+12,November,Qtr 4,2021,Technology,2188.854
+13,November,Qtr 4,2021,Technology,2279.96
+14,November,Qtr 4,2021,Technology,1803.906
+15,November,Qtr 4,2021,Technology,460.766
+16,November,Qtr 4,2021,Technology,
+17,November,Qtr 4,2021,Technology,67.176
+18,November,Qtr 4,2021,Technology,1976.152
+19,November,Qtr 4,2021,Technology,71.96
+20,November,Qtr 4,2021,Technology,1747.674
+21,November,Qtr 4,2021,Technology,516.861
+22,November,Qtr 4,2021,Technology,24.032
+23,November,Qtr 4,2021,Technology,
+24,November,Qtr 4,2021,Technology,2531.82
+25,November,Qtr 4,2021,Technology,5099.861
+26,November,Qtr 4,2021,Technology,3594.952
+27,November,Qtr 4,2021,Technology,486.102
+28,November,Qtr 4,2021,Technology,441.882
+29,November,Qtr 4,2021,Technology,58.416
+30,November,Qtr 4,2021,Technology,36.192
+2,December,Qtr 4,2021,Technology,
+3,December,Qtr 4,2021,Technology,
+4,December,Qtr 4,2021,Technology,
+5,December,Qtr 4,2021,Technology,751.96
+6,December,Qtr 4,2021,Technology,1076.019
+7,December,Qtr 4,2021,Technology,95.76
+8,December,Qtr 4,2021,Technology,1399.944
+9,December,Qtr 4,2021,Technology,167.652
+11,December,Qtr 4,2021,Technology,235.96
+12,December,Qtr 4,2021,Technology,1291.832
+13,December,Qtr 4,2021,Technology,63.88
+14,December,Qtr 4,2021,Technology,
+15,December,Qtr 4,2021,Technology,
+16,December,Qtr 4,2021,Technology,21.21
+17,December,Qtr 4,2021,Technology,165.6
+18,December,Qtr 4,2021,Technology,1053.542
+19,December,Qtr 4,2021,Technology,
+20,December,Qtr 4,2021,Technology,66.3
+22,December,Qtr 4,2021,Technology,11.56
+23,December,Qtr 4,2021,Technology,4373.266
+24,December,Qtr 4,2021,Technology,453.65
+25,December,Qtr 4,2021,Technology,3646.054
+26,December,Qtr 4,2021,Technology,392.354
+27,December,Qtr 4,2021,Technology,40
+29,December,Qtr 4,2021,Technology,
+30,December,Qtr 4,2021,Technology,
+31,December,Qtr 4,2021,Technology,302.376
+1,January,Qtr 1,2022,Technology,
+4,January,Qtr 1,2022,Technology,4823.96
+5,January,Qtr 1,2022,Technology,48.9
+6,January,Qtr 1,2022,Technology,282.236
+7,January,Qtr 1,2022,Technology,
+8,January,Qtr 1,2022,Technology,1807.926
+9,January,Qtr 1,2022,Technology,19.99
+10,January,Qtr 1,2022,Technology,1809.64
+11,January,Qtr 1,2022,Technology,
+12,January,Qtr 1,2022,Technology,1417.436
+13,January,Qtr 1,2022,Technology,
+14,January,Qtr 1,2022,Technology,528.688
+15,January,Qtr 1,2022,Technology,110.576
+16,January,Qtr 1,2022,Technology,
+19,January,Qtr 1,2022,Technology,429.6
+20,January,Qtr 1,2022,Technology,520.752
+21,January,Qtr 1,2022,Technology,1315.883
+22,January,Qtr 1,2022,Technology,2999.95
+23,January,Qtr 1,2022,Technology,182.336
+24,January,Qtr 1,2022,Technology,110.352
+26,January,Qtr 1,2022,Technology,2939.93
+27,January,Qtr 1,2022,Technology,317.898
+28,January,Qtr 1,2022,Technology,689.88
+29,January,Qtr 1,2022,Technology,
+30,January,Qtr 1,2022,Technology,2814.936
+1,February,Qtr 1,2022,Technology,712.29
+2,February,Qtr 1,2022,Technology,299.954
+3,February,Qtr 1,2022,Technology,676.716
+4,February,Qtr 1,2022,Technology,360
+5,February,Qtr 1,2022,Technology,159.56
+6,February,Qtr 1,2022,Technology,2.97
+7,February,Qtr 1,2022,Technology,
+9,February,Qtr 1,2022,Technology,3974.784
+10,February,Qtr 1,2022,Technology,519.934
+11,February,Qtr 1,2022,Technology,3109.11
+12,February,Qtr 1,2022,Technology,3758.066
+13,February,Qtr 1,2022,Technology,799.96
+16,February,Qtr 1,2022,Technology,14.99
+17,February,Qtr 1,2022,Technology,649.882
+18,February,Qtr 1,2022,Technology,277.506
+19,February,Qtr 1,2022,Technology,
+20,February,Qtr 1,2022,Technology,581.536
+21,February,Qtr 1,2022,Technology,47.904
+23,February,Qtr 1,2022,Technology,71.96
+24,February,Qtr 1,2022,Technology,1319.8
+25,February,Qtr 1,2022,Technology,
+26,February,Qtr 1,2022,Technology,1148.112
+28,February,Qtr 1,2022,Technology,
+1,March,Qtr 1,2022,Technology,
+2,March,Qtr 1,2022,Technology,
+3,March,Qtr 1,2022,Technology,1149.42
+4,March,Qtr 1,2022,Technology,
+5,March,Qtr 1,2022,Technology,
+6,March,Qtr 1,2022,Technology,2043.262
+7,March,Qtr 1,2022,Technology,5486.942
+8,March,Qtr 1,2022,Technology,39.816
+9,March,Qtr 1,2022,Technology,385.77
+10,March,Qtr 1,2022,Technology,371.97
+11,March,Qtr 1,2022,Technology,1605.386
+12,March,Qtr 1,2022,Technology,364.07
+13,March,Qtr 1,2022,Technology,1867.908
+14,March,Qtr 1,2022,Technology,49.616
+16,March,Qtr 1,2022,Technology,1309.776
+17,March,Qtr 1,2022,Technology,248.36
+18,March,Qtr 1,2022,Technology,565.36
+19,March,Qtr 1,2022,Technology,957.004
+20,March,Qtr 1,2022,Technology,503.93
+21,March,Qtr 1,2022,Technology,
+23,March,Qtr 1,2022,Technology,13999.96
+24,March,Qtr 1,2022,Technology,495.99
+25,March,Qtr 1,2022,Technology,1161.528
+26,March,Qtr 1,2022,Technology,2717.13
+27,March,Qtr 1,2022,Technology,246.092
+28,March,Qtr 1,2022,Technology,532.72
+29,March,Qtr 1,2022,Technology,
+30,March,Qtr 1,2022,Technology,164.792
+31,March,Qtr 1,2022,Technology,4434.41
+2,April,Qtr 2,2022,Technology,
+3,April,Qtr 2,2022,Technology,
+4,April,Qtr 2,2022,Technology,544.08
+5,April,Qtr 2,2022,Technology,183.96
+6,April,Qtr 2,2022,Technology,71.984
+8,April,Qtr 2,2022,Technology,
+9,April,Qtr 2,2022,Technology,159.736
+10,April,Qtr 2,2022,Technology,
+11,April,Qtr 2,2022,Technology,9670.564
+12,April,Qtr 2,2022,Technology,1447.718
+13,April,Qtr 2,2022,Technology,
+14,April,Qtr 2,2022,Technology,
+15,April,Qtr 2,2022,Technology,
+16,April,Qtr 2,2022,Technology,25.98
+17,April,Qtr 2,2022,Technology,2824.875
+20,April,Qtr 2,2022,Technology,122.382
+21,April,Qtr 2,2022,Technology,59.516
+22,April,Qtr 2,2022,Technology,
+23,April,Qtr 2,2022,Technology,200.748
+24,April,Qtr 2,2022,Technology,621.98
+25,April,Qtr 2,2022,Technology,107.97
+26,April,Qtr 2,2022,Technology,
+27,April,Qtr 2,2022,Technology,
+28,April,Qtr 2,2022,Technology,751.984
+29,April,Qtr 2,2022,Technology,
+30,April,Qtr 2,2022,Technology,679.956
+2,May,Qtr 2,2022,Technology,371.2
+3,May,Qtr 2,2022,Technology,299.97
+5,May,Qtr 2,2022,Technology,
+6,May,Qtr 2,2022,Technology,470.376
+7,May,Qtr 2,2022,Technology,79.96
+8,May,Qtr 2,2022,Technology,79.78
+9,May,Qtr 2,2022,Technology,89.568
+10,May,Qtr 2,2022,Technology,5520.506
+11,May,Qtr 2,2022,Technology,1143.488
+12,May,Qtr 2,2022,Technology,335.596
+13,May,Qtr 2,2022,Technology,587.97
+14,May,Qtr 2,2022,Technology,2037.862
+15,May,Qtr 2,2022,Technology,40.712
+16,May,Qtr 2,2022,Technology,
+18,May,Qtr 2,2022,Technology,586.432
+19,May,Qtr 2,2022,Technology,1186.032
+20,May,Qtr 2,2022,Technology,1466.328
+21,May,Qtr 2,2022,Technology,
+22,May,Qtr 2,2022,Technology,68.46
+23,May,Qtr 2,2022,Technology,
+25,May,Qtr 2,2022,Technology,120
+26,May,Qtr 2,2022,Technology,23.08
+27,May,Qtr 2,2022,Technology,967.698
+28,May,Qtr 2,2022,Technology,522.296
+29,May,Qtr 2,2022,Technology,
+30,May,Qtr 2,2022,Technology,192.152
+1,June,Qtr 2,2022,Technology,
+2,June,Qtr 2,2022,Technology,227.46
+3,June,Qtr 2,2022,Technology,206.384
+4,June,Qtr 2,2022,Technology,
+5,June,Qtr 2,2022,Technology,1227.88
+6,June,Qtr 2,2022,Technology,
+7,June,Qtr 2,2022,Technology,
+8,June,Qtr 2,2022,Technology,824.95
+10,June,Qtr 2,2022,Technology,319.96
+11,June,Qtr 2,2022,Technology,125.91
+12,June,Qtr 2,2022,Technology,
+13,June,Qtr 2,2022,Technology,47.984
+15,June,Qtr 2,2022,Technology,2647.848
+16,June,Qtr 2,2022,Technology,737.922
+17,June,Qtr 2,2022,Technology,3505.84
+18,June,Qtr 2,2022,Technology,
+19,June,Qtr 2,2022,Technology,225.448
+20,June,Qtr 2,2022,Technology,893.88
+21,June,Qtr 2,2022,Technology,
+22,June,Qtr 2,2022,Technology,
+24,June,Qtr 2,2022,Technology,
+25,June,Qtr 2,2022,Technology,148.48
+26,June,Qtr 2,2022,Technology,2119.934
+27,June,Qtr 2,2022,Technology,1287.45
+29,June,Qtr 2,2022,Technology,62.31
+30,June,Qtr 2,2022,Technology,1001.584
+1,July,Qtr 3,2022,Technology,3059.982
+3,July,Qtr 3,2022,Technology,49.08
+4,July,Qtr 3,2022,Technology,837.16
+5,July,Qtr 3,2022,Technology,499.934
+7,July,Qtr 3,2022,Technology,1480.684
+8,July,Qtr 3,2022,Technology,1187
+9,July,Qtr 3,2022,Technology,989.216
+10,July,Qtr 3,2022,Technology,1546.958
+11,July,Qtr 3,2022,Technology,1629.164
+12,July,Qtr 3,2022,Technology,554.36
+13,July,Qtr 3,2022,Technology,39.594
+14,July,Qtr 3,2022,Technology,2501.292
+15,July,Qtr 3,2022,Technology,41.9
+16,July,Qtr 3,2022,Technology,
+17,July,Qtr 3,2022,Technology,749.964
+18,July,Qtr 3,2022,Technology,599.97
+20,July,Qtr 3,2022,Technology,389.97
+21,July,Qtr 3,2022,Technology,2180.644
+22,July,Qtr 3,2022,Technology,29.97
+23,July,Qtr 3,2022,Technology,559.7
+24,July,Qtr 3,2022,Technology,2399.96
+25,July,Qtr 3,2022,Technology,
+26,July,Qtr 3,2022,Technology,1649.95
+27,July,Qtr 3,2022,Technology,778.87
+28,July,Qtr 3,2022,Technology,1145.6
+29,July,Qtr 3,2022,Technology,699.332
+30,July,Qtr 3,2022,Technology,89.95
+31,July,Qtr 3,2022,Technology,363.792
+1,August,Qtr 3,2022,Technology,
+3,August,Qtr 3,2022,Technology,
+4,August,Qtr 3,2022,Technology,
+5,August,Qtr 3,2022,Technology,3359.952
+6,August,Qtr 3,2022,Technology,488.64
+7,August,Qtr 3,2022,Technology,191.9
+9,August,Qtr 3,2022,Technology,948.016
+10,August,Qtr 3,2022,Technology,379.152
+11,August,Qtr 3,2022,Technology,
+12,August,Qtr 3,2022,Technology,1642.024
+13,August,Qtr 3,2022,Technology,1.584
+14,August,Qtr 3,2022,Technology,
+15,August,Qtr 3,2022,Technology,
+16,August,Qtr 3,2022,Technology,
+17,August,Qtr 3,2022,Technology,170.136
+18,August,Qtr 3,2022,Technology,2401.15
+19,August,Qtr 3,2022,Technology,
+20,August,Qtr 3,2022,Technology,143.84
+21,August,Qtr 3,2022,Technology,465.148
+22,August,Qtr 3,2022,Technology,
+23,August,Qtr 3,2022,Technology,4367.896
+24,August,Qtr 3,2022,Technology,
+25,August,Qtr 3,2022,Technology,
+26,August,Qtr 3,2022,Technology,71.98
+27,August,Qtr 3,2022,Technology,2347.842
+28,August,Qtr 3,2022,Technology,35.168
+29,August,Qtr 3,2022,Technology,
+31,August,Qtr 3,2022,Technology,1349.308
+1,September,Qtr 3,2022,Technology,
+2,September,Qtr 3,2022,Technology,127.984
+3,September,Qtr 3,2022,Technology,679.964
+4,September,Qtr 3,2022,Technology,
+5,September,Qtr 3,2022,Technology,199.98
+6,September,Qtr 3,2022,Technology,
+7,September,Qtr 3,2022,Technology,257.98
+9,September,Qtr 3,2022,Technology,2446.494
+10,September,Qtr 3,2022,Technology,
+11,September,Qtr 3,2022,Technology,1617.754
+12,September,Qtr 3,2022,Technology,2096.078
+13,September,Qtr 3,2022,Technology,
+14,September,Qtr 3,2022,Technology,2229.549
+15,September,Qtr 3,2022,Technology,1189.43
+16,September,Qtr 3,2022,Technology,193.952
+17,September,Qtr 3,2022,Technology,1985.73
+18,September,Qtr 3,2022,Technology,609
+19,September,Qtr 3,2022,Technology,903.43
+20,September,Qtr 3,2022,Technology,1749.92
+21,September,Qtr 3,2022,Technology,151.96
+22,September,Qtr 3,2022,Technology,1763.044
+23,September,Qtr 3,2022,Technology,579.878
+24,September,Qtr 3,2022,Technology,4584.644
+25,September,Qtr 3,2022,Technology,119.96
+26,September,Qtr 3,2022,Technology,
+28,September,Qtr 3,2022,Technology,54.384
+29,September,Qtr 3,2022,Technology,576.486
+30,September,Qtr 3,2022,Technology,159.98
+2,October,Qtr 4,2022,Technology,
+3,October,Qtr 4,2022,Technology,201.852
+4,October,Qtr 4,2022,Technology,195.726
+6,October,Qtr 4,2022,Technology,501.256
+7,October,Qtr 4,2022,Technology,
+8,October,Qtr 4,2022,Technology,1454.49
+9,October,Qtr 4,2022,Technology,853.77
+10,October,Qtr 4,2022,Technology,
+11,October,Qtr 4,2022,Technology,1080.2
+12,October,Qtr 4,2022,Technology,798.06
+13,October,Qtr 4,2022,Technology,241.924
+14,October,Qtr 4,2022,Technology,46.36
+15,October,Qtr 4,2022,Technology,
+16,October,Qtr 4,2022,Technology,618.513
+17,October,Qtr 4,2022,Technology,52.792
+19,October,Qtr 4,2022,Technology,326.256
+20,October,Qtr 4,2022,Technology,15.984
+21,October,Qtr 4,2022,Technology,1798.308
+22,October,Qtr 4,2022,Technology,13685.258
+23,October,Qtr 4,2022,Technology,1778.92
+24,October,Qtr 4,2022,Technology,
+26,October,Qtr 4,2022,Technology,200.182
+27,October,Qtr 4,2022,Technology,194.984
+28,October,Qtr 4,2022,Technology,50.176
+29,October,Qtr 4,2022,Technology,
+30,October,Qtr 4,2022,Technology,590.88
+31,October,Qtr 4,2022,Technology,508.768
+2,November,Qtr 4,2022,Technology,88.776
+3,November,Qtr 4,2022,Technology,840.73
+4,November,Qtr 4,2022,Technology,227.07
+5,November,Qtr 4,2022,Technology,
+6,November,Qtr 4,2022,Technology,385.8
+7,November,Qtr 4,2022,Technology,1492.002
+8,November,Qtr 4,2022,Technology,153.584
+9,November,Qtr 4,2022,Technology,223.912
+11,November,Qtr 4,2022,Technology,35.184
+12,November,Qtr 4,2022,Technology,475.69
+13,November,Qtr 4,2022,Technology,1896.239
+14,November,Qtr 4,2022,Technology,287.892
+15,November,Qtr 4,2022,Technology,
+16,November,Qtr 4,2022,Technology,3240.178
+17,November,Qtr 4,2022,Technology,11457.18
+18,November,Qtr 4,2022,Technology,207.47
+19,November,Qtr 4,2022,Technology,31.968
+20,November,Qtr 4,2022,Technology,1832.93
+21,November,Qtr 4,2022,Technology,1755.144
+22,November,Qtr 4,2022,Technology,
+23,November,Qtr 4,2022,Technology,520.448
+24,November,Qtr 4,2022,Technology,392.668
+25,November,Qtr 4,2022,Technology,339.92
+26,November,Qtr 4,2022,Technology,3208.682
+27,November,Qtr 4,2022,Technology,367.458
+28,November,Qtr 4,2022,Technology,1979.89
+29,November,Qtr 4,2022,Technology,
+30,November,Qtr 4,2022,Technology,1097.988
+1,December,Qtr 4,2022,Technology,
+3,December,Qtr 4,2022,Technology,69.93
+4,December,Qtr 4,2022,Technology,
+5,December,Qtr 4,2022,Technology,87.4
+6,December,Qtr 4,2022,Technology,135.896
+7,December,Qtr 4,2022,Technology,
+8,December,Qtr 4,2022,Technology,717.564
+9,December,Qtr 4,2022,Technology,
+10,December,Qtr 4,2022,Technology,2278.238
+11,December,Qtr 4,2022,Technology,1285.958
+13,December,Qtr 4,2022,Technology,
+14,December,Qtr 4,2022,Technology,1724.45
+15,December,Qtr 4,2022,Technology,196.776
+16,December,Qtr 4,2022,Technology,339.9
+17,December,Qtr 4,2022,Technology,
+18,December,Qtr 4,2022,Technology,149.32
+19,December,Qtr 4,2022,Technology,
+20,December,Qtr 4,2022,Technology,
+21,December,Qtr 4,2022,Technology,352.97
+22,December,Qtr 4,2022,Technology,1503.752
+23,December,Qtr 4,2022,Technology,494.97
+24,December,Qtr 4,2022,Technology,3359.922
+25,December,Qtr 4,2022,Technology,401.208
+26,December,Qtr 4,2022,Technology,
+27,December,Qtr 4,2022,Technology,164.388
+28,December,Qtr 4,2022,Technology,14.85
+29,December,Qtr 4,2022,Technology,302.376
+30,December,Qtr 4,2022,Technology,90.93
+2,January,Qtr 1,2023,Technology,468.9
+3,January,Qtr 1,2023,Technology,5.94
+4,January,Qtr 1,2023,Technology,
+6,January,Qtr 1,2023,Technology,881.93
+7,January,Qtr 1,2023,Technology,575.92
+8,January,Qtr 1,2023,Technology,
+9,January,Qtr 1,2023,Technology,357
+10,January,Qtr 1,2023,Technology,
+11,January,Qtr 1,2023,Technology,3118.784
+12,January,Qtr 1,2023,Technology,1027.856
+13,January,Qtr 1,2023,Technology,646.74
+14,January,Qtr 1,2023,Technology,
+15,January,Qtr 1,2023,Technology,149.95
+16,January,Qtr 1,2023,Technology,124.2
+18,January,Qtr 1,2023,Technology,
+19,January,Qtr 1,2023,Technology,
+20,January,Qtr 1,2023,Technology,699.93
+21,January,Qtr 1,2023,Technology,
+23,January,Qtr 1,2023,Technology,
+26,January,Qtr 1,2023,Technology,343.33
+27,January,Qtr 1,2023,Technology,
+28,January,Qtr 1,2023,Technology,
+30,January,Qtr 1,2023,Technology,
+31,January,Qtr 1,2023,Technology,
+2,February,Qtr 1,2023,Technology,180.96
+3,February,Qtr 1,2023,Technology,151.2
+4,February,Qtr 1,2023,Technology,1049.93
+5,February,Qtr 1,2023,Technology,479.984
+6,February,Qtr 1,2023,Technology,239.97
+7,February,Qtr 1,2023,Technology,73.98
+8,February,Qtr 1,2023,Technology,21.2
+9,February,Qtr 1,2023,Technology,1275.63
+10,February,Qtr 1,2023,Technology,555.936
+11,February,Qtr 1,2023,Technology,1620.008
+12,February,Qtr 1,2023,Technology,245.71
+14,February,Qtr 1,2023,Technology,239.97
+15,February,Qtr 1,2023,Technology,
+16,February,Qtr 1,2023,Technology,
+17,February,Qtr 1,2023,Technology,
+18,February,Qtr 1,2023,Technology,
+20,February,Qtr 1,2023,Technology,62.31
+21,February,Qtr 1,2023,Technology,
+22,February,Qtr 1,2023,Technology,
+23,February,Qtr 1,2023,Technology,
+24,February,Qtr 1,2023,Technology,
+27,February,Qtr 1,2023,Technology,
+1,March,Qtr 1,2023,Technology,
+2,March,Qtr 1,2023,Technology,
+3,March,Qtr 1,2023,Technology,9.99
+4,March,Qtr 1,2023,Technology,222.29
+5,March,Qtr 1,2023,Technology,
+6,March,Qtr 1,2023,Technology,
+8,March,Qtr 1,2023,Technology,
+9,March,Qtr 1,2023,Technology,
+10,March,Qtr 1,2023,Technology,142.488
+11,March,Qtr 1,2023,Technology,873.93
+12,March,Qtr 1,2023,Technology,479.96
+14,March,Qtr 1,2023,Technology,657.71
+15,March,Qtr 1,2023,Technology,
+16,March,Qtr 1,2023,Technology,471.92
+17,March,Qtr 1,2023,Technology,
+18,March,Qtr 1,2023,Technology,24739.748
+19,March,Qtr 1,2023,Technology,494.216
+21,March,Qtr 1,2023,Technology,3499.93
+22,March,Qtr 1,2023,Technology,
+23,March,Qtr 1,2023,Technology,604.752
+24,March,Qtr 1,2023,Technology,
+25,March,Qtr 1,2023,Technology,45.48
+26,March,Qtr 1,2023,Technology,95.084
+28,March,Qtr 1,2023,Technology,302.376
+29,March,Qtr 1,2023,Technology,
+30,March,Qtr 1,2023,Technology,251.944
+31,March,Qtr 1,2023,Technology,79.984
+1,April,Qtr 2,2023,Technology,
+2,April,Qtr 2,2023,Technology,
+3,April,Qtr 2,2023,Technology,
+4,April,Qtr 2,2023,Technology,99.98
+5,April,Qtr 2,2023,Technology,
+6,April,Qtr 2,2023,Technology,
+7,April,Qtr 2,2023,Technology,
+8,April,Qtr 2,2023,Technology,655.38
+10,April,Qtr 2,2023,Technology,
+11,April,Qtr 2,2023,Technology,5742.232
+12,April,Qtr 2,2023,Technology,129.98
+13,April,Qtr 2,2023,Technology,71.928
+15,April,Qtr 2,2023,Technology,
+16,April,Qtr 2,2023,Technology,
+18,April,Qtr 2,2023,Technology,515.944
+19,April,Qtr 2,2023,Technology,
+20,April,Qtr 2,2023,Technology,
+21,April,Qtr 2,2023,Technology,
+22,April,Qtr 2,2023,Technology,
+23,April,Qtr 2,2023,Technology,
+25,April,Qtr 2,2023,Technology,302.376
+26,April,Qtr 2,2023,Technology,
+28,April,Qtr 2,2023,Technology,1839.94
+29,April,Qtr 2,2023,Technology,19.98
+30,April,Qtr 2,2023,Technology,47.79
+1,May,Qtr 2,2023,Technology,
+3,May,Qtr 2,2023,Technology,479.97
+4,May,Qtr 2,2023,Technology,28.99
+5,May,Qtr 2,2023,Technology,
+7,May,Qtr 2,2023,Technology,479.97
+8,May,Qtr 2,2023,Technology,152.35
+9,May,Qtr 2,2023,Technology,
+10,May,Qtr 2,2023,Technology,99.98
+11,May,Qtr 2,2023,Technology,157.766
+12,May,Qtr 2,2023,Technology,793.39
+13,May,Qtr 2,2023,Technology,149.97
+14,May,Qtr 2,2023,Technology,
+16,May,Qtr 2,2023,Technology,56.4
+17,May,Qtr 2,2023,Technology,
+18,May,Qtr 2,2023,Technology,779.796
+19,May,Qtr 2,2023,Technology,
+20,May,Qtr 2,2023,Technology,20.784
+21,May,Qtr 2,2023,Technology,617.97
+22,May,Qtr 2,2023,Technology,180.93
+23,May,Qtr 2,2023,Technology,55.188
+24,May,Qtr 2,2023,Technology,
+25,May,Qtr 2,2023,Technology,
+26,May,Qtr 2,2023,Technology,285.568
+27,May,Qtr 2,2023,Technology,1213.494
+28,May,Qtr 2,2023,Technology,85.008
+30,May,Qtr 2,2023,Technology,1183.976
+31,May,Qtr 2,2023,Technology,773.7
+1,June,Qtr 2,2023,Technology,1147.94
+2,June,Qtr 2,2023,Technology,306.56
+4,June,Qtr 2,2023,Technology,450.654
+5,June,Qtr 2,2023,Technology,
+6,June,Qtr 2,2023,Technology,
+7,June,Qtr 2,2023,Technology,559.992
+8,June,Qtr 2,2023,Technology,262.89
+9,June,Qtr 2,2023,Technology,
+10,June,Qtr 2,2023,Technology,9.09
+11,June,Qtr 2,2023,Technology,
+12,June,Qtr 2,2023,Technology,35.04
+13,June,Qtr 2,2023,Technology,
+14,June,Qtr 2,2023,Technology,
+15,June,Qtr 2,2023,Technology,
+16,June,Qtr 2,2023,Technology,
+17,June,Qtr 2,2023,Technology,65.97
+18,June,Qtr 2,2023,Technology,139.8
+20,June,Qtr 2,2023,Technology,620.384
+21,June,Qtr 2,2023,Technology,3743.529
+22,June,Qtr 2,2023,Technology,279.534
+23,June,Qtr 2,2023,Technology,86.376
+24,June,Qtr 2,2023,Technology,
+25,June,Qtr 2,2023,Technology,263.96
+27,June,Qtr 2,2023,Technology,223.96
+28,June,Qtr 2,2023,Technology,
+29,June,Qtr 2,2023,Technology,
+30,June,Qtr 2,2023,Technology,
+1,July,Qtr 3,2023,Technology,
+2,July,Qtr 3,2023,Technology,115.36
+3,July,Qtr 3,2023,Technology,
+4,July,Qtr 3,2023,Technology,830.92
+5,July,Qtr 3,2023,Technology,
+6,July,Qtr 3,2023,Technology,
+7,July,Qtr 3,2023,Technology,
+9,July,Qtr 3,2023,Technology,1158.206
+10,July,Qtr 3,2023,Technology,
+11,July,Qtr 3,2023,Technology,
+12,July,Qtr 3,2023,Technology,
+13,July,Qtr 3,2023,Technology,
+14,July,Qtr 3,2023,Technology,75.754
+15,July,Qtr 3,2023,Technology,2.97
+18,July,Qtr 3,2023,Technology,
+19,July,Qtr 3,2023,Technology,359.98
+20,July,Qtr 3,2023,Technology,41.94
+21,July,Qtr 3,2023,Technology,35.98
+22,July,Qtr 3,2023,Technology,159.98
+23,July,Qtr 3,2023,Technology,2555.084
+25,July,Qtr 3,2023,Technology,
+26,July,Qtr 3,2023,Technology,1626.02
+27,July,Qtr 3,2023,Technology,238
+28,July,Qtr 3,2023,Technology,
+30,July,Qtr 3,2023,Technology,
+2,August,Qtr 3,2023,Technology,
+4,August,Qtr 3,2023,Technology,399.96
+5,August,Qtr 3,2023,Technology,1799.97
+6,August,Qtr 3,2023,Technology,
+7,August,Qtr 3,2023,Technology,
+8,August,Qtr 3,2023,Technology,2591.882
+9,August,Qtr 3,2023,Technology,8680.728
+10,August,Qtr 3,2023,Technology,23.472
+11,August,Qtr 3,2023,Technology,333.576
+12,August,Qtr 3,2023,Technology,156.6
+15,August,Qtr 3,2023,Technology,
+16,August,Qtr 3,2023,Technology,
+17,August,Qtr 3,2023,Technology,339.96
+19,August,Qtr 3,2023,Technology,
+20,August,Qtr 3,2023,Technology,
+22,August,Qtr 3,2023,Technology,
+23,August,Qtr 3,2023,Technology,143.64
+24,August,Qtr 3,2023,Technology,
+25,August,Qtr 3,2023,Technology,1103.044
+26,August,Qtr 3,2023,Technology,326.77
+27,August,Qtr 3,2023,Technology,793.43
+29,August,Qtr 3,2023,Technology,
+30,August,Qtr 3,2023,Technology,
+31,August,Qtr 3,2023,Technology,92.52
+1,September,Qtr 3,2023,Technology,31.2
+5,September,Qtr 3,2023,Technology,235.77
+6,September,Qtr 3,2023,Technology,1890.552
+7,September,Qtr 3,2023,Technology,
+8,September,Qtr 3,2023,Technology,1488.72
+9,September,Qtr 3,2023,Technology,1500.21
+10,September,Qtr 3,2023,Technology,15.992
+11,September,Qtr 3,2023,Technology,703.968
+12,September,Qtr 3,2023,Technology,1079.976
+13,September,Qtr 3,2023,Technology,714.94
+14,September,Qtr 3,2023,Technology,3104.92
+15,September,Qtr 3,2023,Technology,
+16,September,Qtr 3,2023,Technology,
+17,September,Qtr 3,2023,Technology,133.829
+19,September,Qtr 3,2023,Technology,8204.925
+20,September,Qtr 3,2023,Technology,2050.96
+21,September,Qtr 3,2023,Technology,2286.338
+22,September,Qtr 3,2023,Technology,
+23,September,Qtr 3,2023,Technology,83.984
+24,September,Qtr 3,2023,Technology,
+25,September,Qtr 3,2023,Technology,
+26,September,Qtr 3,2023,Technology,156.976
+27,September,Qtr 3,2023,Technology,
+28,September,Qtr 3,2023,Technology,
+29,September,Qtr 3,2023,Technology,686.32
+30,September,Qtr 3,2023,Technology,
+1,October,Qtr 4,2023,Technology,
+3,October,Qtr 4,2023,Technology,
+5,October,Qtr 4,2023,Technology,1475.6
+6,October,Qtr 4,2023,Technology,
+9,October,Qtr 4,2023,Technology,
+10,October,Qtr 4,2023,Technology,1577.89
+11,October,Qtr 4,2023,Technology,612.526
+12,October,Qtr 4,2023,Technology,
+13,October,Qtr 4,2023,Technology,48.74
+14,October,Qtr 4,2023,Technology,2176.96
+15,October,Qtr 4,2023,Technology,
+16,October,Qtr 4,2023,Technology,179.97
+17,October,Qtr 4,2023,Technology,119.976
+18,October,Qtr 4,2023,Technology,1394.95
+19,October,Qtr 4,2023,Technology,439.128
+20,October,Qtr 4,2023,Technology,319.968
+21,October,Qtr 4,2023,Technology,
+22,October,Qtr 4,2023,Technology,
+24,October,Qtr 4,2023,Technology,
+25,October,Qtr 4,2023,Technology,40.776
+26,October,Qtr 4,2023,Technology,383.96
+27,October,Qtr 4,2023,Technology,
+28,October,Qtr 4,2023,Technology,257.98
+29,October,Qtr 4,2023,Technology,2737.932
+31,October,Qtr 4,2023,Technology,1067.83
+1,November,Qtr 4,2023,Technology,
+2,November,Qtr 4,2023,Technology,234.45
+3,November,Qtr 4,2023,Technology,620.93
+4,November,Qtr 4,2023,Technology,1801.296
+5,November,Qtr 4,2023,Technology,205.768
+7,November,Qtr 4,2023,Technology,938.788
+8,November,Qtr 4,2023,Technology,
+9,November,Qtr 4,2023,Technology,
+10,November,Qtr 4,2023,Technology,345
+11,November,Qtr 4,2023,Technology,1627.698
+14,November,Qtr 4,2023,Technology,832.93
+15,November,Qtr 4,2023,Technology,772.47
+16,November,Qtr 4,2023,Technology,353.928
+17,November,Qtr 4,2023,Technology,99.98
+18,November,Qtr 4,2023,Technology,549.552
+19,November,Qtr 4,2023,Technology,5561.186
+20,November,Qtr 4,2023,Technology,833.94
+21,November,Qtr 4,2023,Technology,399.94
+22,November,Qtr 4,2023,Technology,
+23,November,Qtr 4,2023,Technology,35.534
+24,November,Qtr 4,2023,Technology,2664.136
+25,November,Qtr 4,2023,Technology,564.592
+26,November,Qtr 4,2023,Technology,718.296
+27,November,Qtr 4,2023,Technology,
+28,November,Qtr 4,2023,Technology,1138.78
+29,November,Qtr 4,2023,Technology,575.92
+30,November,Qtr 4,2023,Technology,102.24
+2,December,Qtr 4,2023,Technology,
+4,December,Qtr 4,2023,Technology,1513.456
+5,December,Qtr 4,2023,Technology,
+7,December,Qtr 4,2023,Technology,279.776
+8,December,Qtr 4,2023,Technology,1237.874
+9,December,Qtr 4,2023,Technology,142.606
+10,December,Qtr 4,2023,Technology,
+11,December,Qtr 4,2023,Technology,207.496
+12,December,Qtr 4,2023,Technology,
+13,December,Qtr 4,2023,Technology,
+14,December,Qtr 4,2023,Technology,7298.936
+15,December,Qtr 4,2023,Technology,40.68
+16,December,Qtr 4,2023,Technology,1442.116
+17,December,Qtr 4,2023,Technology,
+19,December,Qtr 4,2023,Technology,1366.744
+20,December,Qtr 4,2023,Technology,585.36
+21,December,Qtr 4,2023,Technology,
+22,December,Qtr 4,2023,Technology,
+23,December,Qtr 4,2023,Technology,
+24,December,Qtr 4,2023,Technology,1054.882
+26,December,Qtr 4,2023,Technology,
+27,December,Qtr 4,2023,Technology,498
+28,December,Qtr 4,2023,Technology,
+29,December,Qtr 4,2023,Technology,1423.672
+30,December,Qtr 4,2023,Technology,874.276
+31,December,Qtr 4,2023,Technology,2360.014
+3,January,Qtr 1,2024,Technology,111.824
+5,January,Qtr 1,2024,Technology,88.752
+6,January,Qtr 1,2024,Technology,341.88
