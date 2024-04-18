@@ -1,0 +1,13 @@
+Retail Orders.Order Date.Variation.Date Hierarchy.Year,Retail Orders.Category,Sum(Retail Orders.Sales)
+2021,Furniture,198901.436
+2022,Furniture,215387.2692
+2023,Furniture,157192.8531
+2024,Furniture,170518.237
+2021,Office Supplies,183828.878
+2022,Office Supplies,246097.175
+2023,Office Supplies,151776.412
+2024,Office Supplies,137233.463
+2021,Technology,226364.18
+2022,Technology,271730.811
+2023,Technology,175278.233
+2024,Technology,162780.809

@@ -1,0 +1,13 @@
+Retail Orders.Order Date.Variation.Date Hierarchy.Quarter,Retail Orders.Category,Sum(Retail Orders.Sales)
+Qtr 1,Furniture,153925.8818
+Qtr 2,Furniture,137774.6361
+Qtr 3,Furniture,205193.5275
+Qtr 4,Furniture,245105.7499
+Qtr 1,Office Supplies,150516.658
+Qtr 2,Office Supplies,147334.771
+Qtr 3,Office Supplies,201495.16
+Qtr 4,Office Supplies,219589.339
+Qtr 1,Technology,209315.949
+Qtr 2,Technology,173225.671
+Qtr 3,Technology,213492.088
+Qtr 4,Technology,240120.325

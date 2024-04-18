@@ -1,0 +1,37 @@
+Retail Orders.Order Date.Variation.Date Hierarchy.Month,Retail Orders.Category,Sum(Retail Orders.Sales)
+January,Furniture,57925.1104
+February,Furniture,34057.7264
+March,Furniture,61943.045
+April,Furniture,40361.7511
+May,Furniture,51217.0557
+June,Furniture,46195.8293
+July,Furniture,51169.7055
+August,Furniture,69575.0829
+September,Furniture,84448.7391
+October,Furniture,56598.2572
+November,Furniture,91460.6805
+December,Furniture,97046.8122
+January,Office Supplies,52037.434
+February,Office Supplies,34178.617
+March,Office Supplies,64300.607
+April,Office Supplies,40999.896
+May,Office Supplies,58202.091
+June,Office Supplies,48132.784
+July,Office Supplies,49137.246
+August,Office Supplies,68325.305
+September,Office Supplies,84032.609
+October,Office Supplies,62136.371
+November,Office Supplies,84381.634
+December,Office Supplies,73071.334
+January,Technology,51121.043
+February,Technology,64373.912
+March,Technology,93820.994
+April,Technology,65669.617
+May,Technology,57001.17
+June,Technology,50554.884
+July,Technology,60920.153
+August,Technology,72063.98
+September,Technology,80507.955
+October,Technology,65621.706
+November,Technology,95851.438
+December,Technology,78647.181
