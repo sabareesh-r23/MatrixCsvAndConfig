@@ -1,0 +1,3709 @@
+Retail Orders.Category,Retail Orders.Order Date.Variation.Date Hierarchy.Year,Retail Orders.Order Date.Variation.Date Hierarchy.Quarter,Retail Orders.Order Date.Variation.Date Hierarchy.Month,Retail Orders.Order Date.Variation.Date Hierarchy.Day,Sum(Retail Orders.Sales)
+Furniture,2021,Qtr 1,January,2,
+Office Supplies,2021,Qtr 1,January,2,161.97
+Technology,2021,Qtr 1,January,2,
+Furniture,2021,Qtr 1,January,3,836.592
+Office Supplies,2021,Qtr 1,January,3,389.3
+Technology,2021,Qtr 1,January,3,5059.914
+Furniture,2021,Qtr 1,January,4,1324.532
+Office Supplies,2021,Qtr 1,January,4,788.838
+Technology,2021,Qtr 1,January,4,48.11
+Furniture,2021,Qtr 1,January,5,370.62
+Office Supplies,2021,Qtr 1,January,5,147.246
+Technology,2021,Qtr 1,January,5,
+Furniture,2021,Qtr 1,January,7,
+Office Supplies,2021,Qtr 1,January,7,193.586
+Technology,2021,Qtr 1,January,7,1530.79
+Furniture,2021,Qtr 1,January,8,19.312
+Office Supplies,2021,Qtr 1,January,8,65.608
+Technology,2021,Qtr 1,January,8,1039.728
+Furniture,2021,Qtr 1,January,9,191.82
+Office Supplies,2021,Qtr 1,January,9,4993.394
+Technology,2021,Qtr 1,January,9,580.938
+Furniture,2021,Qtr 1,January,10,567.286
+Office Supplies,2021,Qtr 1,January,10,64.716
+Technology,2021,Qtr 1,January,10,149.412
+Furniture,2021,Qtr 1,January,11,
+Office Supplies,2021,Qtr 1,January,11,363.462
+Technology,2021,Qtr 1,January,11,89.912
+Furniture,2021,Qtr 1,January,12,1801.265
+Office Supplies,2021,Qtr 1,January,12,4382.352
+Technology,2021,Qtr 1,January,12,1181.838
+Furniture,2021,Qtr 1,January,14,315.776
+Office Supplies,2021,Qtr 1,January,14,89.568
+Technology,2021,Qtr 1,January,14,
+Furniture,2021,Qtr 1,January,15,181.797
+Office Supplies,2021,Qtr 1,January,15,265.156
+Technology,2021,Qtr 1,January,15,254.97
+Furniture,2021,Qtr 1,January,16,
+Office Supplies,2021,Qtr 1,January,16,11.648
+Technology,2021,Qtr 1,January,16,90.57
+Furniture,2021,Qtr 1,January,17,322.59
+Office Supplies,2021,Qtr 1,January,17,
+Technology,2021,Qtr 1,January,17,717.96
+Furniture,2021,Qtr 1,January,21,1167.056
+Office Supplies,2021,Qtr 1,January,21,
+Technology,2021,Qtr 1,January,21,
+Furniture,2021,Qtr 1,January,22,575.308
+Office Supplies,2021,Qtr 1,January,22,176.77
+Technology,2021,Qtr 1,January,22,165.552
+Furniture,2021,Qtr 1,January,23,59.99
+Office Supplies,2021,Qtr 1,January,23,1572.33
+Technology,2021,Qtr 1,January,23,99.98
+Furniture,2021,Qtr 1,January,24,
+Office Supplies,2021,Qtr 1,January,24,31.36
+Technology,2021,Qtr 1,January,24,
+Furniture,2021,Qtr 1,January,25,359.702
+Office Supplies,2021,Qtr 1,January,25,499.01
+Technology,2021,Qtr 1,January,25,
+Furniture,2021,Qtr 1,January,28,
+Office Supplies,2021,Qtr 1,January,28,39.68
+Technology,2021,Qtr 1,January,28,
+Furniture,2021,Qtr 1,January,30,1109.848
+Office Supplies,2021,Qtr 1,January,30,557.5
+Technology,2021,Qtr 1,January,30,1439.968
+Furniture,2021,Qtr 1,January,31,
+Office Supplies,2021,Qtr 1,January,31,1491.962
+Technology,2021,Qtr 1,January,31,109.592
+Furniture,2021,Qtr 1,February,1,173.94
+Office Supplies,2021,Qtr 1,February,1,
+Technology,2021,Qtr 1,February,1,231.98
+Furniture,2021,Qtr 1,February,2,92.474
+Office Supplies,2021,Qtr 1,February,2,154.36
+Technology,2021,Qtr 1,February,2,8749.95
+Furniture,2021,Qtr 1,February,4,1454.9
+Office Supplies,2021,Qtr 1,February,4,
+Technology,2021,Qtr 1,February,4,
+Furniture,2021,Qtr 1,February,5,781.06
+Office Supplies,2021,Qtr 1,February,5,317.076
+Technology,2021,Qtr 1,February,5,
+Furniture,2021,Qtr 1,February,6,
+Office Supplies,2021,Qtr 1,February,6,157.844
+Technology,2021,Qtr 1,February,6,
+Furniture,2021,Qtr 1,February,7,723.614
+Office Supplies,2021,Qtr 1,February,7,49.172
+Technology,2021,Qtr 1,February,7,
+Furniture,2021,Qtr 1,February,8,136.464
+Office Supplies,2021,Qtr 1,February,8,12.544
+Technology,2021,Qtr 1,February,8,333.576
+Furniture,2021,Qtr 1,February,9,1476.154
+Office Supplies,2021,Qtr 1,February,9,689.751
+Technology,2021,Qtr 1,February,9,4626.288
+Furniture,2021,Qtr 1,February,10,
+Office Supplies,2021,Qtr 1,February,10,953.022
+Technology,2021,Qtr 1,February,10,17499.95
+Furniture,2021,Qtr 1,February,12,868.804
+Office Supplies,2021,Qtr 1,February,12,3020.262
+Technology,2021,Qtr 1,February,12,795.55
+Furniture,2021,Qtr 1,February,13,
+Office Supplies,2021,Qtr 1,February,13,146.82
+Technology,2021,Qtr 1,February,13,
+Furniture,2021,Qtr 1,February,14,560.991
+Office Supplies,2021,Qtr 1,February,14,276.93
+Technology,2021,Qtr 1,February,14,
+Furniture,2021,Qtr 1,February,15,
+Office Supplies,2021,Qtr 1,February,15,407.072
+Technology,2021,Qtr 1,February,15,
+Furniture,2021,Qtr 1,February,16,935.644
+Office Supplies,2021,Qtr 1,February,16,110.024
+Technology,2021,Qtr 1,February,16,89.97
+Furniture,2021,Qtr 1,February,19,44.46
+Office Supplies,2021,Qtr 1,February,19,348.2
+Technology,2021,Qtr 1,February,19,
+Furniture,2021,Qtr 1,February,20,
+Office Supplies,2021,Qtr 1,February,20,16.496
+Technology,2021,Qtr 1,February,20,
+Furniture,2021,Qtr 1,February,21,204.75
+Office Supplies,2021,Qtr 1,February,21,1266.406
+Technology,2021,Qtr 1,February,21,52.97
+Furniture,2021,Qtr 1,February,22,
+Office Supplies,2021,Qtr 1,February,22,500.97
+Technology,2021,Qtr 1,February,22,482.2
+Furniture,2021,Qtr 1,February,23,
+Office Supplies,2021,Qtr 1,February,23,57.576
+Technology,2021,Qtr 1,February,23,
+Furniture,2021,Qtr 1,February,25,
+Office Supplies,2021,Qtr 1,February,25,46.72
+Technology,2021,Qtr 1,February,25,
+Furniture,2021,Qtr 1,February,27,16.192
+Office Supplies,2021,Qtr 1,February,27,227.7
+Technology,2021,Qtr 1,February,27,
+Furniture,2021,Qtr 1,February,28,
+Office Supplies,2021,Qtr 1,February,28,36.48
+Technology,2021,Qtr 1,February,28,
+Furniture,2021,Qtr 1,March,1,1592.85
+Office Supplies,2021,Qtr 1,March,1,126.34
+Technology,2021,Qtr 1,March,1,376.64
+Furniture,2021,Qtr 1,March,2,866.4
+Office Supplies,2021,Qtr 1,March,2,
+Technology,2021,Qtr 1,March,2,
+Furniture,2021,Qtr 1,March,3,1236.606
+Office Supplies,2021,Qtr 1,March,3,4651.41
+Technology,2021,Qtr 1,March,3,1376.406
+Furniture,2021,Qtr 1,March,4,71.12
+Office Supplies,2021,Qtr 1,March,4,110.118
+Technology,2021,Qtr 1,March,4,259.96
+Furniture,2021,Qtr 1,March,5,51.968
+Office Supplies,2021,Qtr 1,March,5,257.612
+Technology,2021,Qtr 1,March,5,789.433
+Furniture,2021,Qtr 1,March,6,71.088
+Office Supplies,2021,Qtr 1,March,6,
+Technology,2021,Qtr 1,March,6,
+Furniture,2021,Qtr 1,March,7,
+Office Supplies,2021,Qtr 1,March,7,847.7
+Technology,2021,Qtr 1,March,7,
+Furniture,2021,Qtr 1,March,8,
+Office Supplies,2021,Qtr 1,March,8,81.54
+Technology,2021,Qtr 1,March,8,167.28
+Furniture,2021,Qtr 1,March,9,642.396
+Office Supplies,2021,Qtr 1,March,9,1442.418
+Technology,2021,Qtr 1,March,9,280.782
+Furniture,2021,Qtr 1,March,10,1552.508
+Office Supplies,2021,Qtr 1,March,10,128.188
+Technology,2021,Qtr 1,March,10,
+Furniture,2021,Qtr 1,March,11,1554.779
+Office Supplies,2021,Qtr 1,March,11,1913.076
+Technology,2021,Qtr 1,March,11,334.941
+Furniture,2021,Qtr 1,March,12,2140.888
+Office Supplies,2021,Qtr 1,March,12,1478.978
+Technology,2021,Qtr 1,March,12,1649.95
+Furniture,2021,Qtr 1,March,13,1100.425
+Office Supplies,2021,Qtr 1,March,13,6194.303
+Technology,2021,Qtr 1,March,13,1572.154
+Furniture,2021,Qtr 1,March,14,476.736
+Office Supplies,2021,Qtr 1,March,14,192.632
+Technology,2021,Qtr 1,March,14,
+Furniture,2021,Qtr 1,March,15,1880.462
+Office Supplies,2021,Qtr 1,March,15,392.37
+Technology,2021,Qtr 1,March,15,83.976
+Furniture,2021,Qtr 1,March,17,971.5
+Office Supplies,2021,Qtr 1,March,17,1174.07
+Technology,2021,Qtr 1,March,17,214.764
+Furniture,2021,Qtr 1,March,18,189.882
+Office Supplies,2021,Qtr 1,March,18,871.8
+Technology,2021,Qtr 1,March,18,
+Furniture,2021,Qtr 1,March,19,107.594
+Office Supplies,2021,Qtr 1,March,19,31.086
+Technology,2021,Qtr 1,March,19,
+Furniture,2021,Qtr 1,March,20,783.61
+Office Supplies,2021,Qtr 1,March,20,47.925
+Technology,2021,Qtr 1,March,20,96.776
+Furniture,2021,Qtr 1,March,21,627.802
+Office Supplies,2021,Qtr 1,March,21,17.904
+Technology,2021,Qtr 1,March,21,
+Furniture,2021,Qtr 1,March,22,167.888
+Office Supplies,2021,Qtr 1,March,22,
+Technology,2021,Qtr 1,March,22,58.58
+Furniture,2021,Qtr 1,March,24,301.47
+Office Supplies,2021,Qtr 1,March,24,41.136
+Technology,2021,Qtr 1,March,24,403.168
+Furniture,2021,Qtr 1,March,25,
+Office Supplies,2021,Qtr 1,March,25,59.52
+Technology,2021,Qtr 1,March,25,1287.45
+Furniture,2021,Qtr 1,March,26,
+Office Supplies,2021,Qtr 1,March,26,562.27
+Technology,2021,Qtr 1,March,26,119.976
+Furniture,2021,Qtr 1,March,27,60.16
+Office Supplies,2021,Qtr 1,March,27,32.54
+Technology,2021,Qtr 1,March,27,
+Furniture,2021,Qtr 1,March,28,
+Office Supplies,2021,Qtr 1,March,28,125.3
+Technology,2021,Qtr 1,March,28,
+Furniture,2021,Qtr 1,March,29,1558.091
+Office Supplies,2021,Qtr 1,March,29,130.136
+Technology,2021,Qtr 1,March,29,971.112
+Furniture,2021,Qtr 1,March,30,
+Office Supplies,2021,Qtr 1,March,30,11.34
+Technology,2021,Qtr 1,March,30,
+Furniture,2021,Qtr 1,March,31,327.996
+Office Supplies,2021,Qtr 1,March,31,
+Technology,2021,Qtr 1,March,31,312.766
+Furniture,2021,Qtr 2,April,1,
+Office Supplies,2021,Qtr 2,April,1,109.252
+Technology,2021,Qtr 2,April,1,959.968
+Furniture,2021,Qtr 2,April,2,14.368
+Office Supplies,2021,Qtr 2,April,2,93.02
+Technology,2021,Qtr 2,April,2,90.48
+Furniture,2021,Qtr 2,April,3,
+Office Supplies,2021,Qtr 2,April,3,155.47
+Technology,2021,Qtr 2,April,3,159.98
+Furniture,2021,Qtr 2,April,4,82.64
+Office Supplies,2021,Qtr 2,April,4,647.614
+Technology,2021,Qtr 2,April,4,239.94
+Furniture,2021,Qtr 2,April,6,810.541
+Office Supplies,2021,Qtr 2,April,6,124.148
+Technology,2021,Qtr 2,April,6,1381.834
+Furniture,2021,Qtr 2,April,7,1329.965
+Office Supplies,2021,Qtr 2,April,7,71.88
+Technology,2021,Qtr 2,April,7,249.456
+Furniture,2021,Qtr 2,April,8,109.8
+Office Supplies,2021,Qtr 2,April,8,85.726
+Technology,2021,Qtr 2,April,8,302.384
+Furniture,2021,Qtr 2,April,9,130.81
+Office Supplies,2021,Qtr 2,April,9,1321.322
+Technology,2021,Qtr 2,April,9,3079.91
+Furniture,2021,Qtr 2,April,10,250.94
+Office Supplies,2021,Qtr 2,April,10,209.252
+Technology,2021,Qtr 2,April,10,5452.59
+Furniture,2021,Qtr 2,April,11,2007.59
+Office Supplies,2021,Qtr 2,April,11,1194.828
+Technology,2021,Qtr 2,April,11,686.4
+Furniture,2021,Qtr 2,April,12,113.79
+Office Supplies,2021,Qtr 2,April,12,752.346
+Technology,2021,Qtr 2,April,12,78.15
+Furniture,2021,Qtr 2,April,13,
+Office Supplies,2021,Qtr 2,April,13,6.12
+Technology,2021,Qtr 2,April,13,
+Furniture,2021,Qtr 2,April,14,1317.336
+Office Supplies,2021,Qtr 2,April,14,149.236
+Technology,2021,Qtr 2,April,14,
+Furniture,2021,Qtr 2,April,15,1121.568
+Office Supplies,2021,Qtr 2,April,15,379.584
+Technology,2021,Qtr 2,April,15,700.704
+Furniture,2021,Qtr 2,April,16,9.96
+Office Supplies,2021,Qtr 2,April,16,190.028
+Technology,2021,Qtr 2,April,16,9135.098
+Furniture,2021,Qtr 2,April,17,355.243
+Office Supplies,2021,Qtr 2,April,17,29.05
+Technology,2021,Qtr 2,April,17,36.792
+Furniture,2021,Qtr 2,April,18,472.252
+Office Supplies,2021,Qtr 2,April,18,2012.726
+Technology,2021,Qtr 2,April,18,29.56
+Furniture,2021,Qtr 2,April,19,205.176
+Office Supplies,2021,Qtr 2,April,19,1143.016
+Technology,2021,Qtr 2,April,19,65.94
+Furniture,2021,Qtr 2,April,21,
+Office Supplies,2021,Qtr 2,April,21,271.616
+Technology,2021,Qtr 2,April,21,
+Furniture,2021,Qtr 2,April,22,1414.37
+Office Supplies,2021,Qtr 2,April,22,351.095
+Technology,2021,Qtr 2,April,22,
+Furniture,2021,Qtr 2,April,23,
+Office Supplies,2021,Qtr 2,April,23,620.378
+Technology,2021,Qtr 2,April,23,99.99
+Furniture,2021,Qtr 2,April,24,1325.76
+Office Supplies,2021,Qtr 2,April,24,22.644
+Technology,2021,Qtr 2,April,24,258.696
+Furniture,2021,Qtr 2,April,25,
+Office Supplies,2021,Qtr 2,April,25,25.62
+Technology,2021,Qtr 2,April,25,82.8
+Furniture,2021,Qtr 2,April,26,434.646
+Office Supplies,2021,Qtr 2,April,26,
+Technology,2021,Qtr 2,April,26,
+Furniture,2021,Qtr 2,April,28,71.912
+Office Supplies,2021,Qtr 2,April,28,45.184
+Technology,2021,Qtr 2,April,28,369.576
+Furniture,2021,Qtr 2,April,30,134.496
+Office Supplies,2021,Qtr 2,April,30,7.712
+Technology,2021,Qtr 2,April,30,
+Furniture,2021,Qtr 2,May,1,
+Office Supplies,2021,Qtr 2,May,1,5.248
+Technology,2021,Qtr 2,May,1,250.656
+Furniture,2021,Qtr 2,May,2,816.548
+Office Supplies,2021,Qtr 2,May,2,1428.28
+Technology,2021,Qtr 2,May,2,749.648
+Furniture,2021,Qtr 2,May,3,
+Office Supplies,2021,Qtr 2,May,3,162.344
+Technology,2021,Qtr 2,May,3,
+Furniture,2021,Qtr 2,May,4,
+Office Supplies,2021,Qtr 2,May,4,927.552
+Technology,2021,Qtr 2,May,4,118.782
+Furniture,2021,Qtr 2,May,5,2072.464
+Office Supplies,2021,Qtr 2,May,5,205.168
+Technology,2021,Qtr 2,May,5,423.648
+Furniture,2021,Qtr 2,May,6,
+Office Supplies,2021,Qtr 2,May,6,659.82
+Technology,2021,Qtr 2,May,6,
+Furniture,2021,Qtr 2,May,8,
+Office Supplies,2021,Qtr 2,May,8,197.05
+Technology,2021,Qtr 2,May,8,
+Furniture,2021,Qtr 2,May,9,3461.917
+Office Supplies,2021,Qtr 2,May,9,1217.647
+Technology,2021,Qtr 2,May,9,546.784
+Furniture,2021,Qtr 2,May,11,2964.4408
+Office Supplies,2021,Qtr 2,May,11,464.82
+Technology,2021,Qtr 2,May,11,837.638
+Furniture,2021,Qtr 2,May,12,2239
+Office Supplies,2021,Qtr 2,May,12,1793.604
+Technology,2021,Qtr 2,May,12,1234.4
+Furniture,2021,Qtr 2,May,14,109.576
+Office Supplies,2021,Qtr 2,May,14,117.226
+Technology,2021,Qtr 2,May,14,229.128
+Furniture,2021,Qtr 2,May,15,
+Office Supplies,2021,Qtr 2,May,15,648.912
+Technology,2021,Qtr 2,May,15,
+Furniture,2021,Qtr 2,May,16,282.84
+Office Supplies,2021,Qtr 2,May,16,597.62
+Technology,2021,Qtr 2,May,16,
+Furniture,2021,Qtr 2,May,17,195.848
+Office Supplies,2021,Qtr 2,May,17,151.074
+Technology,2021,Qtr 2,May,17,
+Furniture,2021,Qtr 2,May,18,
+Office Supplies,2021,Qtr 2,May,18,122.22
+Technology,2021,Qtr 2,May,18,
+Furniture,2021,Qtr 2,May,19,717.64
+Office Supplies,2021,Qtr 2,May,19,864.368
+Technology,2021,Qtr 2,May,19,
+Furniture,2021,Qtr 2,May,20,1049.2
+Office Supplies,2021,Qtr 2,May,20,58.753
+Technology,2021,Qtr 2,May,20,1363.96
+Furniture,2021,Qtr 2,May,21,
+Office Supplies,2021,Qtr 2,May,21,200.378
+Technology,2021,Qtr 2,May,21,2517.836
+Furniture,2021,Qtr 2,May,22,174.286
+Office Supplies,2021,Qtr 2,May,22,704.45
+Technology,2021,Qtr 2,May,22,920.464
+Furniture,2021,Qtr 2,May,23,37.05
+Office Supplies,2021,Qtr 2,May,23,21.642
+Technology,2021,Qtr 2,May,23,10502.286
+Furniture,2021,Qtr 2,May,24,
+Office Supplies,2021,Qtr 2,May,24,277.756
+Technology,2021,Qtr 2,May,24,
+Furniture,2021,Qtr 2,May,25,24.96
+Office Supplies,2021,Qtr 2,May,25,1287.01
+Technology,2021,Qtr 2,May,25,
+Furniture,2021,Qtr 2,May,26,941.444
+Office Supplies,2021,Qtr 2,May,26,338.856
+Technology,2021,Qtr 2,May,26,695.056
+Furniture,2021,Qtr 2,May,27,3535.66
+Office Supplies,2021,Qtr 2,May,27,1769.418
+Technology,2021,Qtr 2,May,27,
+Furniture,2021,Qtr 2,May,28,390.272
+Office Supplies,2021,Qtr 2,May,28,770.652
+Technology,2021,Qtr 2,May,28,976.4
+Furniture,2021,Qtr 2,May,29,44.76
+Office Supplies,2021,Qtr 2,May,29,38.475
+Technology,2021,Qtr 2,May,29,979.95
+Furniture,2021,Qtr 2,May,30,3292.308
+Office Supplies,2021,Qtr 2,May,30,1436.692
+Technology,2021,Qtr 2,May,30,3361.578
+Furniture,2021,Qtr 2,May,31,223.143
+Office Supplies,2021,Qtr 2,May,31,36.016
+Technology,2021,Qtr 2,May,31,179.7
+Furniture,2021,Qtr 2,June,2,132.224
+Office Supplies,2021,Qtr 2,June,2,
+Technology,2021,Qtr 2,June,2,
+Furniture,2021,Qtr 2,June,3,305.02
+Office Supplies,2021,Qtr 2,June,3,6.105
+Technology,2021,Qtr 2,June,3,500.178
+Furniture,2021,Qtr 2,June,4,
+Office Supplies,2021,Qtr 2,June,4,
+Technology,2021,Qtr 2,June,4,1294.75
+Furniture,2021,Qtr 2,June,5,96.312
+Office Supplies,2021,Qtr 2,June,5,114.472
+Technology,2021,Qtr 2,June,5,26.176
+Furniture,2021,Qtr 2,June,6,548.96
+Office Supplies,2021,Qtr 2,June,6,1090.48
+Technology,2021,Qtr 2,June,6,4386.872
+Furniture,2021,Qtr 2,June,8,
+Office Supplies,2021,Qtr 2,June,8,109.22
+Technology,2021,Qtr 2,June,8,211.168
+Furniture,2021,Qtr 2,June,9,722.352
+Office Supplies,2021,Qtr 2,June,9,229.74
+Technology,2021,Qtr 2,June,9,361.444
+Furniture,2021,Qtr 2,June,10,
+Office Supplies,2021,Qtr 2,June,10,58.73
+Technology,2021,Qtr 2,June,10,771.67
+Furniture,2021,Qtr 2,June,11,563.536
+Office Supplies,2021,Qtr 2,June,11,209.72
+Technology,2021,Qtr 2,June,11,
+Furniture,2021,Qtr 2,June,12,
+Office Supplies,2021,Qtr 2,June,12,2287.98
+Technology,2021,Qtr 2,June,12,1590.296
+Furniture,2021,Qtr 2,June,13,
+Office Supplies,2021,Qtr 2,June,13,52.468
+Technology,2021,Qtr 2,June,13,377.97
+Furniture,2021,Qtr 2,June,14,3353.729
+Office Supplies,2021,Qtr 2,June,14,55.616
+Technology,2021,Qtr 2,June,14,47.754
+Furniture,2021,Qtr 2,June,15,
+Office Supplies,2021,Qtr 2,June,15,173.488
+Technology,2021,Qtr 2,June,15,
+Furniture,2021,Qtr 2,June,16,
+Office Supplies,2021,Qtr 2,June,16,55.8
+Technology,2021,Qtr 2,June,16,91.475
+Furniture,2021,Qtr 2,June,17,1685.43
+Office Supplies,2021,Qtr 2,June,17,718.52
+Technology,2021,Qtr 2,June,17,596.97
+Furniture,2021,Qtr 2,June,18,
+Office Supplies,2021,Qtr 2,June,18,541.938
+Technology,2021,Qtr 2,June,18,
+Furniture,2021,Qtr 2,June,19,
+Office Supplies,2021,Qtr 2,June,19,17.12
+Technology,2021,Qtr 2,June,19,
+Furniture,2021,Qtr 2,June,20,219.258
+Office Supplies,2021,Qtr 2,June,20,840.622
+Technology,2021,Qtr 2,June,20,169.668
+Furniture,2021,Qtr 2,June,21,353.568
+Office Supplies,2021,Qtr 2,June,21,223.54
+Technology,2021,Qtr 2,June,21,
+Furniture,2021,Qtr 2,June,23,
+Office Supplies,2021,Qtr 2,June,23,1612.75
+Technology,2021,Qtr 2,June,23,862.344
+Furniture,2021,Qtr 2,June,24,
+Office Supplies,2021,Qtr 2,June,24,355.002
+Technology,2021,Qtr 2,June,24,4955.95
+Furniture,2021,Qtr 2,June,25,540.016
+Office Supplies,2021,Qtr 2,June,25,353.25
+Technology,2021,Qtr 2,June,25,
+Furniture,2021,Qtr 2,June,26,59.88
+Office Supplies,2021,Qtr 2,June,26,1549.224
+Technology,2021,Qtr 2,June,26,310.496
+Furniture,2021,Qtr 2,June,27,539.658
+Office Supplies,2021,Qtr 2,June,27,37.464
+Technology,2021,Qtr 2,June,27,201.584
+Furniture,2021,Qtr 2,June,28,121.96
+Office Supplies,2021,Qtr 2,June,28,395.22
+Technology,2021,Qtr 2,June,28,359.976
+Furniture,2021,Qtr 2,June,29,
+Office Supplies,2021,Qtr 2,June,29,191.88
+Technology,2021,Qtr 2,June,29,
+Furniture,2021,Qtr 2,June,30,1266.86
+Office Supplies,2021,Qtr 2,June,30,35.97
+Technology,2021,Qtr 2,June,30,50.12
+Furniture,2021,Qtr 3,July,1,23.076
+Office Supplies,2021,Qtr 3,July,1,60.5
+Technology,2021,Qtr 3,July,1,
+Furniture,2021,Qtr 3,July,2,
+Office Supplies,2021,Qtr 3,July,2,38.182
+Technology,2021,Qtr 3,July,2,723.96
+Furniture,2021,Qtr 3,July,3,
+Office Supplies,2021,Qtr 3,July,3,
+Technology,2021,Qtr 3,July,3,21.072
+Furniture,2021,Qtr 3,July,4,658.746
+Office Supplies,2021,Qtr 3,July,4,111.852
+Technology,2021,Qtr 3,July,4,1199.976
+Furniture,2021,Qtr 3,July,5,506.444
+Office Supplies,2021,Qtr 3,July,5,129.632
+Technology,2021,Qtr 3,July,5,4199.9
+Furniture,2021,Qtr 3,July,6,
+Office Supplies,2021,Qtr 3,July,6,51.562
+Technology,2021,Qtr 3,July,6,
+Furniture,2021,Qtr 3,July,7,817.278
+Office Supplies,2021,Qtr 3,July,7,204.999
+Technology,2021,Qtr 3,July,7,2859.954
+Furniture,2021,Qtr 3,July,8,
+Office Supplies,2021,Qtr 3,July,8,
+Technology,2021,Qtr 3,July,8,179.97
+Furniture,2021,Qtr 3,July,10,
+Office Supplies,2021,Qtr 3,July,10,136.112
+Technology,2021,Qtr 3,July,10,837.6
+Furniture,2021,Qtr 3,July,11,1662.416
+Office Supplies,2021,Qtr 3,July,11,924.172
+Technology,2021,Qtr 3,July,11,1223.876
+Furniture,2021,Qtr 3,July,14,661.686
+Office Supplies,2021,Qtr 3,July,14,548.09
+Technology,2021,Qtr 3,July,14,940.184
+Furniture,2021,Qtr 3,July,15,230.28
+Office Supplies,2021,Qtr 3,July,15,149.92
+Technology,2021,Qtr 3,July,15,
+Furniture,2021,Qtr 3,July,16,9.552
+Office Supplies,2021,Qtr 3,July,16,186.28
+Technology,2021,Qtr 3,July,16,714.338
+Furniture,2021,Qtr 3,July,17,37.17
+Office Supplies,2021,Qtr 3,July,17,1101.526
+Technology,2021,Qtr 3,July,17,1046.184
+Furniture,2021,Qtr 3,July,18,1539.17
+Office Supplies,2021,Qtr 3,July,18,1281.12
+Technology,2021,Qtr 3,July,18,71.568
+Furniture,2021,Qtr 3,July,19,690.48
+Office Supplies,2021,Qtr 3,July,19,420.02
+Technology,2021,Qtr 3,July,19,425.954
+Furniture,2021,Qtr 3,July,20,
+Office Supplies,2021,Qtr 3,July,20,
+Technology,2021,Qtr 3,July,20,89.95
+Furniture,2021,Qtr 3,July,21,363.92
+Office Supplies,2021,Qtr 3,July,21,627.175
+Technology,2021,Qtr 3,July,21,
+Furniture,2021,Qtr 3,July,22,39.068
+Office Supplies,2021,Qtr 3,July,22,1219.03
+Technology,2021,Qtr 3,July,22,109.95
+Furniture,2021,Qtr 3,July,23,
+Office Supplies,2021,Qtr 3,July,23,273.976
+Technology,2021,Qtr 3,July,23,380.611
+Furniture,2021,Qtr 3,July,24,253.764
+Office Supplies,2021,Qtr 3,July,24,73.2
+Technology,2021,Qtr 3,July,24,
+Furniture,2021,Qtr 3,July,25,3495.468
+Office Supplies,2021,Qtr 3,July,25,563.244
+Technology,2021,Qtr 3,July,25,1861.776
+Furniture,2021,Qtr 3,July,28,504.87
+Office Supplies,2021,Qtr 3,July,28,1528.504
+Technology,2021,Qtr 3,July,28,
+Furniture,2021,Qtr 3,July,29,
+Office Supplies,2021,Qtr 3,July,29,819.154
+Technology,2021,Qtr 3,July,29,
+Furniture,2021,Qtr 3,July,30,
+Office Supplies,2021,Qtr 3,July,30,1770.776
+Technology,2021,Qtr 3,July,30,
+Furniture,2021,Qtr 3,July,31,1136.068
+Office Supplies,2021,Qtr 3,July,31,283.14
+Technology,2021,Qtr 3,July,31,754.95
+Furniture,2021,Qtr 3,August,1,1565.88
+Office Supplies,2021,Qtr 3,August,1,184.494
+Technology,2021,Qtr 3,August,1,108.784
+Furniture,2021,Qtr 3,August,2,241.5
+Office Supplies,2021,Qtr 3,August,2,
+Technology,2021,Qtr 3,August,2,1127.976
+Furniture,2021,Qtr 3,August,3,215.96
+Office Supplies,2021,Qtr 3,August,3,474.354
+Technology,2021,Qtr 3,August,3,1500.496
+Furniture,2021,Qtr 3,August,4,1024.208
+Office Supplies,2021,Qtr 3,August,4,1450.268
+Technology,2021,Qtr 3,August,4,431.928
+Furniture,2021,Qtr 3,August,5,211.96
+Office Supplies,2021,Qtr 3,August,5,1070.172
+Technology,2021,Qtr 3,August,5,58.112
+Furniture,2021,Qtr 3,August,7,662.88
+Office Supplies,2021,Qtr 3,August,7,158.048
+Technology,2021,Qtr 3,August,7,1795.584
+Furniture,2021,Qtr 3,August,8,513.024
+Office Supplies,2021,Qtr 3,August,8,602.18
+Technology,2021,Qtr 3,August,8,
+Furniture,2021,Qtr 3,August,9,3374.9816
+Office Supplies,2021,Qtr 3,August,9,966.29
+Technology,2021,Qtr 3,August,9,152.712
+Furniture,2021,Qtr 3,August,10,51.712
+Office Supplies,2021,Qtr 3,August,10,509.824
+Technology,2021,Qtr 3,August,10,
+Furniture,2021,Qtr 3,August,11,993.9
+Office Supplies,2021,Qtr 3,August,11,
+Technology,2021,Qtr 3,August,11,
+Furniture,2021,Qtr 3,August,12,2698.454
+Office Supplies,2021,Qtr 3,August,12,463.891
+Technology,2021,Qtr 3,August,12,1546.75
+Furniture,2021,Qtr 3,August,13,241.96
+Office Supplies,2021,Qtr 3,August,13,417.584
+Technology,2021,Qtr 3,August,13,71.98
+Furniture,2021,Qtr 3,August,14,
+Office Supplies,2021,Qtr 3,August,14,31.092
+Technology,2021,Qtr 3,August,14,892.596
+Furniture,2021,Qtr 3,August,15,537.326
+Office Supplies,2021,Qtr 3,August,15,199.82
+Technology,2021,Qtr 3,August,15,943.12
+Furniture,2021,Qtr 3,August,16,161.28
+Office Supplies,2021,Qtr 3,August,16,43.26
+Technology,2021,Qtr 3,August,16,
+Furniture,2021,Qtr 3,August,17,
+Office Supplies,2021,Qtr 3,August,17,15.712
+Technology,2021,Qtr 3,August,17,
+Furniture,2021,Qtr 3,August,18,14.896
+Office Supplies,2021,Qtr 3,August,18,441.228
+Technology,2021,Qtr 3,August,18,39.99
+Furniture,2021,Qtr 3,August,19,
+Office Supplies,2021,Qtr 3,August,19,448.792
+Technology,2021,Qtr 3,August,19,
+Furniture,2021,Qtr 3,August,20,
+Office Supplies,2021,Qtr 3,August,20,
+Technology,2021,Qtr 3,August,20,14.78
+Furniture,2021,Qtr 3,August,21,4275.522
+Office Supplies,2021,Qtr 3,August,21,143.856
+Technology,2021,Qtr 3,August,21,378.914
+Furniture,2021,Qtr 3,August,22,98.328
+Office Supplies,2021,Qtr 3,August,22,307.022
+Technology,2021,Qtr 3,August,22,
+Furniture,2021,Qtr 3,August,23,555.312
+Office Supplies,2021,Qtr 3,August,23,2126.056
+Technology,2021,Qtr 3,August,23,1505.98
+Furniture,2021,Qtr 3,August,26,3262.232
+Office Supplies,2021,Qtr 3,August,26,383.238
+Technology,2021,Qtr 3,August,26,1228.828
+Furniture,2021,Qtr 3,August,27,244.615
+Office Supplies,2021,Qtr 3,August,27,463.326
+Technology,2021,Qtr 3,August,27,59.97
+Furniture,2021,Qtr 3,August,28,156.3728
+Office Supplies,2021,Qtr 3,August,28,57.076
+Technology,2021,Qtr 3,August,28,108.576
+Furniture,2021,Qtr 3,August,29,405.8
+Office Supplies,2021,Qtr 3,August,29,108.412
+Technology,2021,Qtr 3,August,29,117.976
+Furniture,2021,Qtr 3,August,30,833.784
+Office Supplies,2021,Qtr 3,August,30,192.228
+Technology,2021,Qtr 3,August,30,630.858
+Furniture,2021,Qtr 3,August,31,
+Office Supplies,2021,Qtr 3,August,31,23.968
+Technology,2021,Qtr 3,August,31,
+Furniture,2021,Qtr 3,September,1,15.168
+Office Supplies,2021,Qtr 3,September,1,
+Technology,2021,Qtr 3,September,1,727.878
+Furniture,2021,Qtr 3,September,2,
+Office Supplies,2021,Qtr 3,September,2,
+Technology,2021,Qtr 3,September,2,121.83
+Furniture,2021,Qtr 3,September,3,354.9
+Office Supplies,2021,Qtr 3,September,3,80.95
+Technology,2021,Qtr 3,September,3,199.75
+Furniture,2021,Qtr 3,September,4,556.665
+Office Supplies,2021,Qtr 3,September,4,40.632
+Technology,2021,Qtr 3,September,4,517.9
+Furniture,2021,Qtr 3,September,5,
+Office Supplies,2021,Qtr 3,September,5,1170.396
+Technology,2021,Qtr 3,September,5,113.116
+Furniture,2021,Qtr 3,September,6,815.292
+Office Supplies,2021,Qtr 3,September,6,
+Technology,2021,Qtr 3,September,6,873.18
+Furniture,2021,Qtr 3,September,7,573.286
+Office Supplies,2021,Qtr 3,September,7,
+Technology,2021,Qtr 3,September,7,
+Furniture,2021,Qtr 3,September,8,
+Office Supplies,2021,Qtr 3,September,8,616.57
+Technology,2021,Qtr 3,September,8,44.784
+Furniture,2021,Qtr 3,September,9,15.008
+Office Supplies,2021,Qtr 3,September,9,69.984
+Technology,2021,Qtr 3,September,9,
+Furniture,2021,Qtr 3,September,10,502.4
+Office Supplies,2021,Qtr 3,September,10,20.544
+Technology,2021,Qtr 3,September,10,23.976
+Furniture,2021,Qtr 3,September,11,
+Office Supplies,2021,Qtr 3,September,11,
+Technology,2021,Qtr 3,September,11,479.97
+Furniture,2021,Qtr 3,September,12,1136.834
+Office Supplies,2021,Qtr 3,September,12,588.049
+Technology,2021,Qtr 3,September,12,130.6
+Furniture,2021,Qtr 3,September,13,1336.44
+Office Supplies,2021,Qtr 3,September,13,858.37
+Technology,2021,Qtr 3,September,13,179.92
+Furniture,2021,Qtr 3,September,14,
+Office Supplies,2021,Qtr 3,September,14,699.488
+Technology,2021,Qtr 3,September,14,437.85
+Furniture,2021,Qtr 3,September,15,1128.39
+Office Supplies,2021,Qtr 3,September,15,972.792
+Technology,2021,Qtr 3,September,15,
+Furniture,2021,Qtr 3,September,16,395.446
+Office Supplies,2021,Qtr 3,September,16,30.44
+Technology,2021,Qtr 3,September,16,
+Furniture,2021,Qtr 3,September,17,430.008
+Office Supplies,2021,Qtr 3,September,17,600.1
+Technology,2021,Qtr 3,September,17,1013.018
+Furniture,2021,Qtr 3,September,18,3218.74
+Office Supplies,2021,Qtr 3,September,18,1292.358
+Technology,2021,Qtr 3,September,18,239.984
+Furniture,2021,Qtr 3,September,19,1599.324
+Office Supplies,2021,Qtr 3,September,19,1990.038
+Technology,2021,Qtr 3,September,19,249.95
+Furniture,2021,Qtr 3,September,20,279.36
+Office Supplies,2021,Qtr 3,September,20,952.644
+Technology,2021,Qtr 3,September,20,
+Furniture,2021,Qtr 3,September,22,100.672
+Office Supplies,2021,Qtr 3,September,22,352.982
+Technology,2021,Qtr 3,September,22,161.916
+Furniture,2021,Qtr 3,September,23,1114.426
+Office Supplies,2021,Qtr 3,September,23,207.719
+Technology,2021,Qtr 3,September,23,
+Furniture,2021,Qtr 3,September,24,931.202
+Office Supplies,2021,Qtr 3,September,24,1354.848
+Technology,2021,Qtr 3,September,24,
+Furniture,2021,Qtr 3,September,25,1624.567
+Office Supplies,2021,Qtr 3,September,25,793.862
+Technology,2021,Qtr 3,September,25,1024.662
+Furniture,2021,Qtr 3,September,26,1627.4805
+Office Supplies,2021,Qtr 3,September,26,538.71
+Technology,2021,Qtr 3,September,26,531.976
+Furniture,2021,Qtr 3,September,27,956.6648
+Office Supplies,2021,Qtr 3,September,27,34.737
+Technology,2021,Qtr 3,September,27,1001.584
+Furniture,2021,Qtr 3,September,28,
+Office Supplies,2021,Qtr 3,September,28,99.136
+Technology,2021,Qtr 3,September,28,
+Furniture,2021,Qtr 3,September,29,
+Office Supplies,2021,Qtr 3,September,29,202.382
+Technology,2021,Qtr 3,September,29,1105.41
+Furniture,2021,Qtr 3,September,30,523.92
+Office Supplies,2021,Qtr 3,September,30,1.964
+Technology,2021,Qtr 3,September,30,
+Furniture,2021,Qtr 4,October,1,104.77
+Office Supplies,2021,Qtr 4,October,1,
+Technology,2021,Qtr 4,October,1,69.98
+Furniture,2021,Qtr 4,October,3,176.784
+Office Supplies,2021,Qtr 4,October,3,119.596
+Technology,2021,Qtr 4,October,3,7583.354
+Furniture,2021,Qtr 4,October,4,
+Office Supplies,2021,Qtr 4,October,4,950.594
+Technology,2021,Qtr 4,October,4,
+Furniture,2021,Qtr 4,October,5,
+Office Supplies,2021,Qtr 4,October,5,19.032
+Technology,2021,Qtr 4,October,5,743.988
+Furniture,2021,Qtr 4,October,6,1335.68
+Office Supplies,2021,Qtr 4,October,6,76.716
+Technology,2021,Qtr 4,October,6,
+Furniture,2021,Qtr 4,October,7,
+Office Supplies,2021,Qtr 4,October,7,553.904
+Technology,2021,Qtr 4,October,7,341.991
+Furniture,2021,Qtr 4,October,9,300.93
+Office Supplies,2021,Qtr 4,October,9,553.754
+Technology,2021,Qtr 4,October,9,1239.64
+Furniture,2021,Qtr 4,October,10,225.666
+Office Supplies,2021,Qtr 4,October,10,41.095
+Technology,2021,Qtr 4,October,10,15.992
+Furniture,2021,Qtr 4,October,11,1004.988
+Office Supplies,2021,Qtr 4,October,11,2113.758
+Technology,2021,Qtr 4,October,11,1604.732
+Furniture,2021,Qtr 4,October,12,1746.468
+Office Supplies,2021,Qtr 4,October,12,1668.492
+Technology,2021,Qtr 4,October,12,44.75
+Furniture,2021,Qtr 4,October,13,1017.71
+Office Supplies,2021,Qtr 4,October,13,440.932
+Technology,2021,Qtr 4,October,13,191.976
+Furniture,2021,Qtr 4,October,14,102.592
+Office Supplies,2021,Qtr 4,October,14,291.912
+Technology,2021,Qtr 4,October,14,2941.384
+Furniture,2021,Qtr 4,October,15,
+Office Supplies,2021,Qtr 4,October,15,1614.65
+Technology,2021,Qtr 4,October,15,5.5
+Furniture,2021,Qtr 4,October,16,142.182
+Office Supplies,2021,Qtr 4,October,16,
+Technology,2021,Qtr 4,October,16,
+Furniture,2021,Qtr 4,October,17,241.646
+Office Supplies,2021,Qtr 4,October,17,2261.73
+Technology,2021,Qtr 4,October,17,449.97
+Furniture,2021,Qtr 4,October,18,307.92
+Office Supplies,2021,Qtr 4,October,18,
+Technology,2021,Qtr 4,October,18,
+Furniture,2021,Qtr 4,October,20,504.922
+Office Supplies,2021,Qtr 4,October,20,123.572
+Technology,2021,Qtr 4,October,20,317.68
+Furniture,2021,Qtr 4,October,21,2012.76
+Office Supplies,2021,Qtr 4,October,21,5499.44
+Technology,2021,Qtr 4,October,21,439.392
+Furniture,2021,Qtr 4,October,22,173.26
+Office Supplies,2021,Qtr 4,October,22,15.02
+Technology,2021,Qtr 4,October,22,
+Furniture,2021,Qtr 4,October,23,16.156
+Office Supplies,2021,Qtr 4,October,23,451.266
+Technology,2021,Qtr 4,October,23,
+Furniture,2021,Qtr 4,October,24,
+Office Supplies,2021,Qtr 4,October,24,15.552
+Technology,2021,Qtr 4,October,24,1349.946
+Furniture,2021,Qtr 4,October,25,
+Office Supplies,2021,Qtr 4,October,25,
+Technology,2021,Qtr 4,October,25,783.96
+Furniture,2021,Qtr 4,October,27,758.824
+Office Supplies,2021,Qtr 4,October,27,219.966
+Technology,2021,Qtr 4,October,27,
+Furniture,2021,Qtr 4,October,28,1111.368
+Office Supplies,2021,Qtr 4,October,28,1485.277
+Technology,2021,Qtr 4,October,28,302.376
+Furniture,2021,Qtr 4,October,29,67
+Office Supplies,2021,Qtr 4,October,29,64.154
+Technology,2021,Qtr 4,October,29,
+Furniture,2021,Qtr 4,October,30,
+Office Supplies,2021,Qtr 4,October,30,159.002
+Technology,2021,Qtr 4,October,30,
+Furniture,2021,Qtr 4,October,31,2265.725
+Office Supplies,2021,Qtr 4,October,31,1484.774
+Technology,2021,Qtr 4,October,31,
+Furniture,2021,Qtr 4,November,1,54.992
+Office Supplies,2021,Qtr 4,November,1,78.864
+Technology,2021,Qtr 4,November,1,15.588
+Furniture,2021,Qtr 4,November,2,
+Office Supplies,2021,Qtr 4,November,2,
+Technology,2021,Qtr 4,November,2,69.93
+Furniture,2021,Qtr 4,November,3,351.262
+Office Supplies,2021,Qtr 4,November,3,498.78
+Technology,2021,Qtr 4,November,3,45.98
+Furniture,2021,Qtr 4,November,5,
+Office Supplies,2021,Qtr 4,November,5,5.98
+Technology,2021,Qtr 4,November,5,
+Furniture,2021,Qtr 4,November,6,915.256
+Office Supplies,2021,Qtr 4,November,6,78.22
+Technology,2021,Qtr 4,November,6,629.94
+Furniture,2021,Qtr 4,November,8,
+Office Supplies,2021,Qtr 4,November,8,151.82
+Technology,2021,Qtr 4,November,8,
+Furniture,2021,Qtr 4,November,9,
+Office Supplies,2021,Qtr 4,November,9,600.6
+Technology,2021,Qtr 4,November,9,5900.986
+Furniture,2021,Qtr 4,November,10,
+Office Supplies,2021,Qtr 4,November,10,33.064
+Technology,2021,Qtr 4,November,10,
+Furniture,2021,Qtr 4,November,11,3472.65
+Office Supplies,2021,Qtr 4,November,11,1021.728
+Technology,2021,Qtr 4,November,11,449.918
+Furniture,2021,Qtr 4,November,12,2461.796
+Office Supplies,2021,Qtr 4,November,12,1451.6
+Technology,2021,Qtr 4,November,12,2188.854
+Furniture,2021,Qtr 4,November,13,54.08
+Office Supplies,2021,Qtr 4,November,13,611.098
+Technology,2021,Qtr 4,November,13,2279.96
+Furniture,2021,Qtr 4,November,14,856.56
+Office Supplies,2021,Qtr 4,November,14,113.596
+Technology,2021,Qtr 4,November,14,1803.906
+Furniture,2021,Qtr 4,November,15,630.024
+Office Supplies,2021,Qtr 4,November,15,1054.928
+Technology,2021,Qtr 4,November,15,460.766
+Furniture,2021,Qtr 4,November,16,
+Office Supplies,2021,Qtr 4,November,16,36.72
+Technology,2021,Qtr 4,November,16,
+Furniture,2021,Qtr 4,November,17,
+Office Supplies,2021,Qtr 4,November,17,75.508
+Technology,2021,Qtr 4,November,17,67.176
+Furniture,2021,Qtr 4,November,18,557.068
+Office Supplies,2021,Qtr 4,November,18,1425.712
+Technology,2021,Qtr 4,November,18,1976.152
+Furniture,2021,Qtr 4,November,19,34.288
+Office Supplies,2021,Qtr 4,November,19,532.214
+Technology,2021,Qtr 4,November,19,71.96
+Furniture,2021,Qtr 4,November,20,702.036
+Office Supplies,2021,Qtr 4,November,20,620.623
+Technology,2021,Qtr 4,November,20,1747.674
+Furniture,2021,Qtr 4,November,21,514.21
+Office Supplies,2021,Qtr 4,November,21,145.82
+Technology,2021,Qtr 4,November,21,516.861
+Furniture,2021,Qtr 4,November,22,39.88
+Office Supplies,2021,Qtr 4,November,22,253.132
+Technology,2021,Qtr 4,November,22,24.032
+Furniture,2021,Qtr 4,November,23,84.816
+Office Supplies,2021,Qtr 4,November,23,15.8
+Technology,2021,Qtr 4,November,23,
+Furniture,2021,Qtr 4,November,24,2324.632
+Office Supplies,2021,Qtr 4,November,24,1538.086
+Technology,2021,Qtr 4,November,24,2531.82
+Furniture,2021,Qtr 4,November,25,1762.962
+Office Supplies,2021,Qtr 4,November,25,1115.728
+Technology,2021,Qtr 4,November,25,5099.861
+Furniture,2021,Qtr 4,November,26,4315.22
+Office Supplies,2021,Qtr 4,November,26,419.571
+Technology,2021,Qtr 4,November,26,3594.952
+Furniture,2021,Qtr 4,November,27,362.583
+Office Supplies,2021,Qtr 4,November,27,802.554
+Technology,2021,Qtr 4,November,27,486.102
+Furniture,2021,Qtr 4,November,28,530.472
+Office Supplies,2021,Qtr 4,November,28,2456.018
+Technology,2021,Qtr 4,November,28,441.882
+Furniture,2021,Qtr 4,November,29,242.176
+Office Supplies,2021,Qtr 4,November,29,
+Technology,2021,Qtr 4,November,29,58.416
+Furniture,2021,Qtr 4,November,30,389.97
+Office Supplies,2021,Qtr 4,November,30,543.98
+Technology,2021,Qtr 4,November,30,36.192
+Furniture,2021,Qtr 4,December,2,
+Office Supplies,2021,Qtr 4,December,2,1366.04
+Technology,2021,Qtr 4,December,2,
+Furniture,2021,Qtr 4,December,3,770.352
+Office Supplies,2021,Qtr 4,December,3,924.29
+Technology,2021,Qtr 4,December,3,
+Furniture,2021,Qtr 4,December,4,1176.56
+Office Supplies,2021,Qtr 4,December,4,365.97
+Technology,2021,Qtr 4,December,4,
+Furniture,2021,Qtr 4,December,5,10.02
+Office Supplies,2021,Qtr 4,December,5,156.898
+Technology,2021,Qtr 4,December,5,751.96
+Furniture,2021,Qtr 4,December,6,433.396
+Office Supplies,2021,Qtr 4,December,6,1453.148
+Technology,2021,Qtr 4,December,6,1076.019
+Furniture,2021,Qtr 4,December,7,
+Office Supplies,2021,Qtr 4,December,7,
+Technology,2021,Qtr 4,December,7,95.76
+Furniture,2021,Qtr 4,December,8,917.2045
+Office Supplies,2021,Qtr 4,December,8,1634.812
+Technology,2021,Qtr 4,December,8,1399.944
+Furniture,2021,Qtr 4,December,9,1679.872
+Office Supplies,2021,Qtr 4,December,9,196.268
+Technology,2021,Qtr 4,December,9,167.652
+Furniture,2021,Qtr 4,December,11,4158.352
+Office Supplies,2021,Qtr 4,December,11,520.626
+Technology,2021,Qtr 4,December,11,235.96
+Furniture,2021,Qtr 4,December,12,477.47
+Office Supplies,2021,Qtr 4,December,12,211.813
+Technology,2021,Qtr 4,December,12,1291.832
+Furniture,2021,Qtr 4,December,13,1114.272
+Office Supplies,2021,Qtr 4,December,13,15.936
+Technology,2021,Qtr 4,December,13,63.88
+Furniture,2021,Qtr 4,December,14,611.724
+Office Supplies,2021,Qtr 4,December,14,216.93
+Technology,2021,Qtr 4,December,14,
+Furniture,2021,Qtr 4,December,15,2231.895
+Office Supplies,2021,Qtr 4,December,15,405.192
+Technology,2021,Qtr 4,December,15,
+Furniture,2021,Qtr 4,December,16,563.92
+Office Supplies,2021,Qtr 4,December,16,43.412
+Technology,2021,Qtr 4,December,16,21.21
+Furniture,2021,Qtr 4,December,17,2003.52
+Office Supplies,2021,Qtr 4,December,17,10016.014
+Technology,2021,Qtr 4,December,17,165.6
+Furniture,2021,Qtr 4,December,18,1183.99
+Office Supplies,2021,Qtr 4,December,18,4813.818
+Technology,2021,Qtr 4,December,18,1053.542
+Furniture,2021,Qtr 4,December,19,759.89
+Office Supplies,2021,Qtr 4,December,19,55.222
+Technology,2021,Qtr 4,December,19,
+Furniture,2021,Qtr 4,December,20,18.92
+Office Supplies,2021,Qtr 4,December,20,49.32
+Technology,2021,Qtr 4,December,20,66.3
+Furniture,2021,Qtr 4,December,22,919.304
+Office Supplies,2021,Qtr 4,December,22,112.264
+Technology,2021,Qtr 4,December,22,11.56
+Furniture,2021,Qtr 4,December,23,1002.84
+Office Supplies,2021,Qtr 4,December,23,1589.751
+Technology,2021,Qtr 4,December,23,4373.266
+Furniture,2021,Qtr 4,December,24,843.52
+Office Supplies,2021,Qtr 4,December,24,641.09
+Technology,2021,Qtr 4,December,24,453.65
+Furniture,2021,Qtr 4,December,25,6636.863
+Office Supplies,2021,Qtr 4,December,25,205.138
+Technology,2021,Qtr 4,December,25,3646.054
+Furniture,2021,Qtr 4,December,26,1262.004
+Office Supplies,2021,Qtr 4,December,26,175.06
+Technology,2021,Qtr 4,December,26,392.354
+Furniture,2021,Qtr 4,December,27,845.488
+Office Supplies,2021,Qtr 4,December,27,74.002
+Technology,2021,Qtr 4,December,27,40
+Furniture,2021,Qtr 4,December,29,825.01
+Office Supplies,2021,Qtr 4,December,29,452.67
+Technology,2021,Qtr 4,December,29,
+Furniture,2021,Qtr 4,December,30,170.786
+Office Supplies,2021,Qtr 4,December,30,602.988
+Technology,2021,Qtr 4,December,30,
+Furniture,2021,Qtr 4,December,31,
+Office Supplies,2021,Qtr 4,December,31,429.392
+Technology,2021,Qtr 4,December,31,302.376
+Furniture,2022,Qtr 1,January,1,975.49
+Office Supplies,2022,Qtr 1,January,1,506.338
+Technology,2022,Qtr 1,January,1,
+Furniture,2022,Qtr 1,January,4,828.966
+Office Supplies,2022,Qtr 1,January,4,320.062
+Technology,2022,Qtr 1,January,4,4823.96
+Furniture,2022,Qtr 1,January,5,4051.534
+Office Supplies,2022,Qtr 1,January,5,7.936
+Technology,2022,Qtr 1,January,5,48.9
+Furniture,2022,Qtr 1,January,6,1925.88
+Office Supplies,2022,Qtr 1,January,6,2850.246
+Technology,2022,Qtr 1,January,6,282.236
+Furniture,2022,Qtr 1,January,7,
+Office Supplies,2022,Qtr 1,January,7,639.83
+Technology,2022,Qtr 1,January,7,
+Furniture,2022,Qtr 1,January,8,
+Office Supplies,2022,Qtr 1,January,8,277.724
+Technology,2022,Qtr 1,January,8,1807.926
+Furniture,2022,Qtr 1,January,9,896.72
+Office Supplies,2022,Qtr 1,January,9,345.1
+Technology,2022,Qtr 1,January,9,19.99
+Furniture,2022,Qtr 1,January,10,559.76
+Office Supplies,2022,Qtr 1,January,10,609.066
+Technology,2022,Qtr 1,January,10,1809.64
+Furniture,2022,Qtr 1,January,11,2665.62
+Office Supplies,2022,Qtr 1,January,11,255.81
+Technology,2022,Qtr 1,January,11,
+Furniture,2022,Qtr 1,January,12,2542.292
+Office Supplies,2022,Qtr 1,January,12,1371.45
+Technology,2022,Qtr 1,January,12,1417.436
+Furniture,2022,Qtr 1,January,13,212.94
+Office Supplies,2022,Qtr 1,January,13,4406.39
+Technology,2022,Qtr 1,January,13,
+Furniture,2022,Qtr 1,January,14,18.96
+Office Supplies,2022,Qtr 1,January,14,508.39
+Technology,2022,Qtr 1,January,14,528.688
+Furniture,2022,Qtr 1,January,15,
+Office Supplies,2022,Qtr 1,January,15,2029.704
+Technology,2022,Qtr 1,January,15,110.576
+Furniture,2022,Qtr 1,January,16,730.262
+Office Supplies,2022,Qtr 1,January,16,5500.03
+Technology,2022,Qtr 1,January,16,
+Furniture,2022,Qtr 1,January,19,919.239
+Office Supplies,2022,Qtr 1,January,19,664.876
+Technology,2022,Qtr 1,January,19,429.6
+Furniture,2022,Qtr 1,January,20,207.846
+Office Supplies,2022,Qtr 1,January,20,39.24
+Technology,2022,Qtr 1,January,20,520.752
+Furniture,2022,Qtr 1,January,21,84.98
+Office Supplies,2022,Qtr 1,January,21,1145.78
+Technology,2022,Qtr 1,January,21,1315.883
+Furniture,2022,Qtr 1,January,22,
+Office Supplies,2022,Qtr 1,January,22,1212.422
+Technology,2022,Qtr 1,January,22,2999.95
+Furniture,2022,Qtr 1,January,23,210.98
+Office Supplies,2022,Qtr 1,January,23,57.018
+Technology,2022,Qtr 1,January,23,182.336
+Furniture,2022,Qtr 1,January,24,
+Office Supplies,2022,Qtr 1,January,24,308.314
+Technology,2022,Qtr 1,January,24,110.352
+Furniture,2022,Qtr 1,January,26,62.72
+Office Supplies,2022,Qtr 1,January,26,52.63
+Technology,2022,Qtr 1,January,26,2939.93
+Furniture,2022,Qtr 1,January,27,
+Office Supplies,2022,Qtr 1,January,27,14.016
+Technology,2022,Qtr 1,January,27,317.898
+Furniture,2022,Qtr 1,January,28,37.74
+Office Supplies,2022,Qtr 1,January,28,279.9
+Technology,2022,Qtr 1,January,28,689.88
+Furniture,2022,Qtr 1,January,29,14.91
+Office Supplies,2022,Qtr 1,January,29,279.932
+Technology,2022,Qtr 1,January,29,
+Furniture,2022,Qtr 1,January,30,643.875
+Office Supplies,2022,Qtr 1,January,30,290.524
+Technology,2022,Qtr 1,January,30,2814.936
+Furniture,2022,Qtr 1,February,1,913.43
+Office Supplies,2022,Qtr 1,February,1,453.834
+Technology,2022,Qtr 1,February,1,712.29
+Furniture,2022,Qtr 1,February,2,296.84
+Office Supplies,2022,Qtr 1,February,2,316.56
+Technology,2022,Qtr 1,February,2,299.954
+Furniture,2022,Qtr 1,February,3,441.96
+Office Supplies,2022,Qtr 1,February,3,331.45
+Technology,2022,Qtr 1,February,3,676.716
+Furniture,2022,Qtr 1,February,4,436.91
+Office Supplies,2022,Qtr 1,February,4,26.06
+Technology,2022,Qtr 1,February,4,360
+Furniture,2022,Qtr 1,February,5,129.93
+Office Supplies,2022,Qtr 1,February,5,109.62
+Technology,2022,Qtr 1,February,5,159.56
+Furniture,2022,Qtr 1,February,6,
+Office Supplies,2022,Qtr 1,February,6,132.736
+Technology,2022,Qtr 1,February,6,2.97
+Furniture,2022,Qtr 1,February,7,
+Office Supplies,2022,Qtr 1,February,7,169.192
+Technology,2022,Qtr 1,February,7,
+Furniture,2022,Qtr 1,February,9,2527.552
+Office Supplies,2022,Qtr 1,February,9,2852.518
+Technology,2022,Qtr 1,February,9,3974.784
+Furniture,2022,Qtr 1,February,10,2758.464
+Office Supplies,2022,Qtr 1,February,10,2139.624
+Technology,2022,Qtr 1,February,10,519.934
+Furniture,2022,Qtr 1,February,11,1159.624
+Office Supplies,2022,Qtr 1,February,11,2025.652
+Technology,2022,Qtr 1,February,11,3109.11
+Furniture,2022,Qtr 1,February,12,3527.504
+Office Supplies,2022,Qtr 1,February,12,2665.612
+Technology,2022,Qtr 1,February,12,3758.066
+Furniture,2022,Qtr 1,February,13,107.53
+Office Supplies,2022,Qtr 1,February,13,150.94
+Technology,2022,Qtr 1,February,13,799.96
+Furniture,2022,Qtr 1,February,16,608.25
+Office Supplies,2022,Qtr 1,February,16,714.202
+Technology,2022,Qtr 1,February,16,14.99
+Furniture,2022,Qtr 1,February,17,1955.5704
+Office Supplies,2022,Qtr 1,February,17,359.365
+Technology,2022,Qtr 1,February,17,649.882
+Furniture,2022,Qtr 1,February,18,
+Office Supplies,2022,Qtr 1,February,18,9.82
+Technology,2022,Qtr 1,February,18,277.506
+Furniture,2022,Qtr 1,February,19,44.67
+Office Supplies,2022,Qtr 1,February,19,1269.92
+Technology,2022,Qtr 1,February,19,
+Furniture,2022,Qtr 1,February,20,477.844
+Office Supplies,2022,Qtr 1,February,20,90.91
+Technology,2022,Qtr 1,February,20,581.536
+Furniture,2022,Qtr 1,February,21,
+Office Supplies,2022,Qtr 1,February,21,
+Technology,2022,Qtr 1,February,21,47.904
+Furniture,2022,Qtr 1,February,23,
+Office Supplies,2022,Qtr 1,February,23,45.84
+Technology,2022,Qtr 1,February,23,71.96
+Furniture,2022,Qtr 1,February,24,
+Office Supplies,2022,Qtr 1,February,24,128.876
+Technology,2022,Qtr 1,February,24,1319.8
+Furniture,2022,Qtr 1,February,25,428.704
+Office Supplies,2022,Qtr 1,February,25,1.788
+Technology,2022,Qtr 1,February,25,
+Furniture,2022,Qtr 1,February,26,984.184
+Office Supplies,2022,Qtr 1,February,26,715.35
+Technology,2022,Qtr 1,February,26,1148.112
+Furniture,2022,Qtr 1,February,28,
+Office Supplies,2022,Qtr 1,February,28,17.62
+Technology,2022,Qtr 1,February,28,
+Furniture,2022,Qtr 1,March,1,
+Office Supplies,2022,Qtr 1,March,1,2070.272
+Technology,2022,Qtr 1,March,1,
+Furniture,2022,Qtr 1,March,2,22.2
+Office Supplies,2022,Qtr 1,March,2,900.127
+Technology,2022,Qtr 1,March,2,
+Furniture,2022,Qtr 1,March,3,751.004
+Office Supplies,2022,Qtr 1,March,3,99.68
+Technology,2022,Qtr 1,March,3,1149.42
+Furniture,2022,Qtr 1,March,4,25.472
+Office Supplies,2022,Qtr 1,March,4,7.056
+Technology,2022,Qtr 1,March,4,
+Furniture,2022,Qtr 1,March,5,405.918
+Office Supplies,2022,Qtr 1,March,5,980.428
+Technology,2022,Qtr 1,March,5,
+Furniture,2022,Qtr 1,March,6,661.504
+Office Supplies,2022,Qtr 1,March,6,247.27
+Technology,2022,Qtr 1,March,6,2043.262
+Furniture,2022,Qtr 1,March,7,1016.678
+Office Supplies,2022,Qtr 1,March,7,459.784
+Technology,2022,Qtr 1,March,7,5486.942
+Furniture,2022,Qtr 1,March,8,307.332
+Office Supplies,2022,Qtr 1,March,8,184.2
+Technology,2022,Qtr 1,March,8,39.816
+Furniture,2022,Qtr 1,March,9,620.631
+Office Supplies,2022,Qtr 1,March,9,589.448
+Technology,2022,Qtr 1,March,9,385.77
+Furniture,2022,Qtr 1,March,10,255.208
+Office Supplies,2022,Qtr 1,March,10,1877.302
+Technology,2022,Qtr 1,March,10,371.97
+Furniture,2022,Qtr 1,March,11,2524.05
+Office Supplies,2022,Qtr 1,March,11,407.501
+Technology,2022,Qtr 1,March,11,1605.386
+Furniture,2022,Qtr 1,March,12,591.84
+Office Supplies,2022,Qtr 1,March,12,447.932
+Technology,2022,Qtr 1,March,12,364.07
+Furniture,2022,Qtr 1,March,13,89.768
+Office Supplies,2022,Qtr 1,March,13,2833.674
+Technology,2022,Qtr 1,March,13,1867.908
+Furniture,2022,Qtr 1,March,14,
+Office Supplies,2022,Qtr 1,March,14,
+Technology,2022,Qtr 1,March,14,49.616
+Furniture,2022,Qtr 1,March,16,51.264
+Office Supplies,2022,Qtr 1,March,16,653.341
+Technology,2022,Qtr 1,March,16,1309.776
+Furniture,2022,Qtr 1,March,17,
+Office Supplies,2022,Qtr 1,March,17,294.386
+Technology,2022,Qtr 1,March,17,248.36
+Furniture,2022,Qtr 1,March,18,82.524
+Office Supplies,2022,Qtr 1,March,18,379.874
+Technology,2022,Qtr 1,March,18,565.36
+Furniture,2022,Qtr 1,March,19,728.09
+Office Supplies,2022,Qtr 1,March,19,481.154
+Technology,2022,Qtr 1,March,19,957.004
+Furniture,2022,Qtr 1,March,20,2.91
+Office Supplies,2022,Qtr 1,March,20,392.728
+Technology,2022,Qtr 1,March,20,503.93
+Furniture,2022,Qtr 1,March,21,1828.02
+Office Supplies,2022,Qtr 1,March,21,1504.616
+Technology,2022,Qtr 1,March,21,
+Furniture,2022,Qtr 1,March,23,211.84
+Office Supplies,2022,Qtr 1,March,23,604.268
+Technology,2022,Qtr 1,March,23,13999.96
+Furniture,2022,Qtr 1,March,24,479.61
+Office Supplies,2022,Qtr 1,March,24,281.698
+Technology,2022,Qtr 1,March,24,495.99
+Furniture,2022,Qtr 1,March,25,1986.52
+Office Supplies,2022,Qtr 1,March,25,418.978
+Technology,2022,Qtr 1,March,25,1161.528
+Furniture,2022,Qtr 1,March,26,318.408
+Office Supplies,2022,Qtr 1,March,26,217.342
+Technology,2022,Qtr 1,March,26,2717.13
+Furniture,2022,Qtr 1,March,27,2142.244
+Office Supplies,2022,Qtr 1,March,27,545.18
+Technology,2022,Qtr 1,March,27,246.092
+Furniture,2022,Qtr 1,March,28,48.04
+Office Supplies,2022,Qtr 1,March,28,923.942
+Technology,2022,Qtr 1,March,28,532.72
+Furniture,2022,Qtr 1,March,29,
+Office Supplies,2022,Qtr 1,March,29,81.4
+Technology,2022,Qtr 1,March,29,
+Furniture,2022,Qtr 1,March,30,94.2
+Office Supplies,2022,Qtr 1,March,30,397.415
+Technology,2022,Qtr 1,March,30,164.792
+Furniture,2022,Qtr 1,March,31,296.1128
+Office Supplies,2022,Qtr 1,March,31,250.488
+Technology,2022,Qtr 1,March,31,4434.41
+Furniture,2022,Qtr 2,April,2,
+Office Supplies,2022,Qtr 2,April,2,32.67
+Technology,2022,Qtr 2,April,2,
+Furniture,2022,Qtr 2,April,3,103.5
+Office Supplies,2022,Qtr 2,April,3,125.322
+Technology,2022,Qtr 2,April,3,
+Furniture,2022,Qtr 2,April,4,
+Office Supplies,2022,Qtr 2,April,4,264.39
+Technology,2022,Qtr 2,April,4,544.08
+Furniture,2022,Qtr 2,April,5,300.904
+Office Supplies,2022,Qtr 2,April,5,904.541
+Technology,2022,Qtr 2,April,5,183.96
+Furniture,2022,Qtr 2,April,6,62.32
+Office Supplies,2022,Qtr 2,April,6,145.11
+Technology,2022,Qtr 2,April,6,71.984
+Furniture,2022,Qtr 2,April,8,
+Office Supplies,2022,Qtr 2,April,8,20.07
+Technology,2022,Qtr 2,April,8,
+Furniture,2022,Qtr 2,April,9,3722.982
+Office Supplies,2022,Qtr 2,April,9,1477.484
+Technology,2022,Qtr 2,April,9,159.736
+Furniture,2022,Qtr 2,April,10,19.98
+Office Supplies,2022,Qtr 2,April,10,
+Technology,2022,Qtr 2,April,10,
+Furniture,2022,Qtr 2,April,11,523.764
+Office Supplies,2022,Qtr 2,April,11,473.768
+Technology,2022,Qtr 2,April,11,9670.564
+Furniture,2022,Qtr 2,April,12,992.782
+Office Supplies,2022,Qtr 2,April,12,199.138
+Technology,2022,Qtr 2,April,12,1447.718
+Furniture,2022,Qtr 2,April,13,436.704
+Office Supplies,2022,Qtr 2,April,13,909.12
+Technology,2022,Qtr 2,April,13,
+Furniture,2022,Qtr 2,April,14,515.074
+Office Supplies,2022,Qtr 2,April,14,137.856
+Technology,2022,Qtr 2,April,14,
+Furniture,2022,Qtr 2,April,15,196.45
+Office Supplies,2022,Qtr 2,April,15,135.888
+Technology,2022,Qtr 2,April,15,
+Furniture,2022,Qtr 2,April,16,102.833
+Office Supplies,2022,Qtr 2,April,16,815.616
+Technology,2022,Qtr 2,April,16,25.98
+Furniture,2022,Qtr 2,April,17,278.664
+Office Supplies,2022,Qtr 2,April,17,327.92
+Technology,2022,Qtr 2,April,17,2824.875
+Furniture,2022,Qtr 2,April,20,470.394
+Office Supplies,2022,Qtr 2,April,20,1440.464
+Technology,2022,Qtr 2,April,20,122.382
+Furniture,2022,Qtr 2,April,21,1071.42
+Office Supplies,2022,Qtr 2,April,21,123.628
+Technology,2022,Qtr 2,April,21,59.516
+Furniture,2022,Qtr 2,April,22,272.632
+Office Supplies,2022,Qtr 2,April,22,675.06
+Technology,2022,Qtr 2,April,22,
+Furniture,2022,Qtr 2,April,23,567.252
+Office Supplies,2022,Qtr 2,April,23,431.222
+Technology,2022,Qtr 2,April,23,200.748
+Furniture,2022,Qtr 2,April,24,
+Office Supplies,2022,Qtr 2,April,24,306.578
+Technology,2022,Qtr 2,April,24,621.98
+Furniture,2022,Qtr 2,April,25,344.981
+Office Supplies,2022,Qtr 2,April,25,225.162
+Technology,2022,Qtr 2,April,25,107.97
+Furniture,2022,Qtr 2,April,26,1.988
+Office Supplies,2022,Qtr 2,April,26,59.62
+Technology,2022,Qtr 2,April,26,
+Furniture,2022,Qtr 2,April,27,359.8456
+Office Supplies,2022,Qtr 2,April,27,216.73
+Technology,2022,Qtr 2,April,27,
+Furniture,2022,Qtr 2,April,28,
+Office Supplies,2022,Qtr 2,April,28,43.312
+Technology,2022,Qtr 2,April,28,751.984
+Furniture,2022,Qtr 2,April,29,1048.35
+Office Supplies,2022,Qtr 2,April,29,4.91
+Technology,2022,Qtr 2,April,29,
+Furniture,2022,Qtr 2,April,30,309.344
+Office Supplies,2022,Qtr 2,April,30,400.826
+Technology,2022,Qtr 2,April,30,679.956
+Furniture,2022,Qtr 2,May,2,
+Office Supplies,2022,Qtr 2,May,2,1891.812
+Technology,2022,Qtr 2,May,2,371.2
+Furniture,2022,Qtr 2,May,3,
+Office Supplies,2022,Qtr 2,May,3,940.05
+Technology,2022,Qtr 2,May,3,299.97
+Furniture,2022,Qtr 2,May,5,89.991
+Office Supplies,2022,Qtr 2,May,5,95.132
+Technology,2022,Qtr 2,May,5,
+Furniture,2022,Qtr 2,May,6,
+Office Supplies,2022,Qtr 2,May,6,20.736
+Technology,2022,Qtr 2,May,6,470.376
+Furniture,2022,Qtr 2,May,7,332.028
+Office Supplies,2022,Qtr 2,May,7,64.366
+Technology,2022,Qtr 2,May,7,79.96
+Furniture,2022,Qtr 2,May,8,
+Office Supplies,2022,Qtr 2,May,8,423.896
+Technology,2022,Qtr 2,May,8,79.78
+Furniture,2022,Qtr 2,May,9,
+Office Supplies,2022,Qtr 2,May,9,237.476
+Technology,2022,Qtr 2,May,9,89.568
+Furniture,2022,Qtr 2,May,10,935.802
+Office Supplies,2022,Qtr 2,May,10,228.308
+Technology,2022,Qtr 2,May,10,5520.506
+Furniture,2022,Qtr 2,May,11,396.024
+Office Supplies,2022,Qtr 2,May,11,815.552
+Technology,2022,Qtr 2,May,11,1143.488
+Furniture,2022,Qtr 2,May,12,321.48
+Office Supplies,2022,Qtr 2,May,12,796.06
+Technology,2022,Qtr 2,May,12,335.596
+Furniture,2022,Qtr 2,May,13,458.43
+Office Supplies,2022,Qtr 2,May,13,2019.978
+Technology,2022,Qtr 2,May,13,587.97
+Furniture,2022,Qtr 2,May,14,1179.67
+Office Supplies,2022,Qtr 2,May,14,964.53
+Technology,2022,Qtr 2,May,14,2037.862
+Furniture,2022,Qtr 2,May,15,303.544
+Office Supplies,2022,Qtr 2,May,15,77.008
+Technology,2022,Qtr 2,May,15,40.712
+Furniture,2022,Qtr 2,May,16,
+Office Supplies,2022,Qtr 2,May,16,221.024
+Technology,2022,Qtr 2,May,16,
+Furniture,2022,Qtr 2,May,18,342
+Office Supplies,2022,Qtr 2,May,18,902.076
+Technology,2022,Qtr 2,May,18,586.432
+Furniture,2022,Qtr 2,May,19,2624.58
+Office Supplies,2022,Qtr 2,May,19,1108.57
+Technology,2022,Qtr 2,May,19,1186.032
+Furniture,2022,Qtr 2,May,20,525.252
+Office Supplies,2022,Qtr 2,May,20,1005.998
+Technology,2022,Qtr 2,May,20,1466.328
+Furniture,2022,Qtr 2,May,21,520.05
+Office Supplies,2022,Qtr 2,May,21,17.97
+Technology,2022,Qtr 2,May,21,
+Furniture,2022,Qtr 2,May,22,181.986
+Office Supplies,2022,Qtr 2,May,22,86.116
+Technology,2022,Qtr 2,May,22,68.46
+Furniture,2022,Qtr 2,May,23,171.288
+Office Supplies,2022,Qtr 2,May,23,70.148
+Technology,2022,Qtr 2,May,23,
+Furniture,2022,Qtr 2,May,25,18.84
+Office Supplies,2022,Qtr 2,May,25,747.186
+Technology,2022,Qtr 2,May,25,120
+Furniture,2022,Qtr 2,May,26,
+Office Supplies,2022,Qtr 2,May,26,247.16
+Technology,2022,Qtr 2,May,26,23.08
+Furniture,2022,Qtr 2,May,27,512.3
+Office Supplies,2022,Qtr 2,May,27,604.91
+Technology,2022,Qtr 2,May,27,967.698
+Furniture,2022,Qtr 2,May,28,799.689
+Office Supplies,2022,Qtr 2,May,28,158.118
+Technology,2022,Qtr 2,May,28,522.296
+Furniture,2022,Qtr 2,May,29,71.664
+Office Supplies,2022,Qtr 2,May,29,619.444
+Technology,2022,Qtr 2,May,29,
+Furniture,2022,Qtr 2,May,30,468.2284
+Office Supplies,2022,Qtr 2,May,30,76.51
+Technology,2022,Qtr 2,May,30,192.152
+Furniture,2022,Qtr 2,June,1,
+Office Supplies,2022,Qtr 2,June,1,33.74
+Technology,2022,Qtr 2,June,1,
+Furniture,2022,Qtr 2,June,2,600.754
+Office Supplies,2022,Qtr 2,June,2,76.14
+Technology,2022,Qtr 2,June,2,227.46
+Furniture,2022,Qtr 2,June,3,71.97
+Office Supplies,2022,Qtr 2,June,3,499.882
+Technology,2022,Qtr 2,June,3,206.384
+Furniture,2022,Qtr 2,June,4,
+Office Supplies,2022,Qtr 2,June,4,114.42
+Technology,2022,Qtr 2,June,4,
+Furniture,2022,Qtr 2,June,5,623.4648
+Office Supplies,2022,Qtr 2,June,5,1332.025
+Technology,2022,Qtr 2,June,5,1227.88
+Furniture,2022,Qtr 2,June,6,4.95
+Office Supplies,2022,Qtr 2,June,6,26.4
+Technology,2022,Qtr 2,June,6,
+Furniture,2022,Qtr 2,June,7,361.376
+Office Supplies,2022,Qtr 2,June,7,19.002
+Technology,2022,Qtr 2,June,7,
+Furniture,2022,Qtr 2,June,8,161.14
+Office Supplies,2022,Qtr 2,June,8,437.936
+Technology,2022,Qtr 2,June,8,824.95
+Furniture,2022,Qtr 2,June,10,41.96
+Office Supplies,2022,Qtr 2,June,10,1137.732
+Technology,2022,Qtr 2,June,10,319.96
+Furniture,2022,Qtr 2,June,11,2681.362
+Office Supplies,2022,Qtr 2,June,11,1481.478
+Technology,2022,Qtr 2,June,11,125.91
+Furniture,2022,Qtr 2,June,12,
+Office Supplies,2022,Qtr 2,June,12,10.68
+Technology,2022,Qtr 2,June,12,
+Furniture,2022,Qtr 2,June,13,761.438
+Office Supplies,2022,Qtr 2,June,13,346.596
+Technology,2022,Qtr 2,June,13,47.984
+Furniture,2022,Qtr 2,June,15,928.208
+Office Supplies,2022,Qtr 2,June,15,481.454
+Technology,2022,Qtr 2,June,15,2647.848
+Furniture,2022,Qtr 2,June,16,1514.92
+Office Supplies,2022,Qtr 2,June,16,471.352
+Technology,2022,Qtr 2,June,16,737.922
+Furniture,2022,Qtr 2,June,17,155.25
+Office Supplies,2022,Qtr 2,June,17,235.582
+Technology,2022,Qtr 2,June,17,3505.84
+Furniture,2022,Qtr 2,June,18,917.9235
+Office Supplies,2022,Qtr 2,June,18,113.232
+Technology,2022,Qtr 2,June,18,
+Furniture,2022,Qtr 2,June,19,1306.705
+Office Supplies,2022,Qtr 2,June,19,583.788
+Technology,2022,Qtr 2,June,19,225.448
+Furniture,2022,Qtr 2,June,20,
+Office Supplies,2022,Qtr 2,June,20,134.348
+Technology,2022,Qtr 2,June,20,893.88
+Furniture,2022,Qtr 2,June,21,17.92
+Office Supplies,2022,Qtr 2,June,21,577.736
+Technology,2022,Qtr 2,June,21,
+Furniture,2022,Qtr 2,June,22,487.96
+Office Supplies,2022,Qtr 2,June,22,91.059
+Technology,2022,Qtr 2,June,22,
+Furniture,2022,Qtr 2,June,24,449.454
+Office Supplies,2022,Qtr 2,June,24,838.16
+Technology,2022,Qtr 2,June,24,
+Furniture,2022,Qtr 2,June,25,1272.184
+Office Supplies,2022,Qtr 2,June,25,87.688
+Technology,2022,Qtr 2,June,25,148.48
+Furniture,2022,Qtr 2,June,26,800.002
+Office Supplies,2022,Qtr 2,June,26,1304.2
+Technology,2022,Qtr 2,June,26,2119.934
+Furniture,2022,Qtr 2,June,27,317.946
+Office Supplies,2022,Qtr 2,June,27,39.51
+Technology,2022,Qtr 2,June,27,1287.45
+Furniture,2022,Qtr 2,June,29,1381.2932
+Office Supplies,2022,Qtr 2,June,29,3078.388
+Technology,2022,Qtr 2,June,29,62.31
+Furniture,2022,Qtr 2,June,30,2105.661
+Office Supplies,2022,Qtr 2,June,30,1614.732
+Technology,2022,Qtr 2,June,30,1001.584
+Furniture,2022,Qtr 3,July,1,
+Office Supplies,2022,Qtr 3,July,1,335.608
+Technology,2022,Qtr 3,July,1,3059.982
+Furniture,2022,Qtr 3,July,3,
+Office Supplies,2022,Qtr 3,July,3,117.51
+Technology,2022,Qtr 3,July,3,49.08
+Furniture,2022,Qtr 3,July,4,1112.5465
+Office Supplies,2022,Qtr 3,July,4,21.584
+Technology,2022,Qtr 3,July,4,837.16
+Furniture,2022,Qtr 3,July,5,1962.09
+Office Supplies,2022,Qtr 3,July,5,87.444
+Technology,2022,Qtr 3,July,5,499.934
+Furniture,2022,Qtr 3,July,7,87.21
+Office Supplies,2022,Qtr 3,July,7,52.356
+Technology,2022,Qtr 3,July,7,1480.684
+Furniture,2022,Qtr 3,July,8,258.934
+Office Supplies,2022,Qtr 3,July,8,2033.69
+Technology,2022,Qtr 3,July,8,1187
+Furniture,2022,Qtr 3,July,9,470.688
+Office Supplies,2022,Qtr 3,July,9,2388.661
+Technology,2022,Qtr 3,July,9,989.216
+Furniture,2022,Qtr 3,July,10,462.43
+Office Supplies,2022,Qtr 3,July,10,739.822
+Technology,2022,Qtr 3,July,10,1546.958
+Furniture,2022,Qtr 3,July,11,623.322
+Office Supplies,2022,Qtr 3,July,11,160.892
+Technology,2022,Qtr 3,July,11,1629.164
+Furniture,2022,Qtr 3,July,12,82.38
+Office Supplies,2022,Qtr 3,July,12,2279.774
+Technology,2022,Qtr 3,July,12,554.36
+Furniture,2022,Qtr 3,July,13,91.008
+Office Supplies,2022,Qtr 3,July,13,373.94
+Technology,2022,Qtr 3,July,13,39.594
+Furniture,2022,Qtr 3,July,14,692.45
+Office Supplies,2022,Qtr 3,July,14,405.192
+Technology,2022,Qtr 3,July,14,2501.292
+Furniture,2022,Qtr 3,July,15,1847.529
+Office Supplies,2022,Qtr 3,July,15,242.8
+Technology,2022,Qtr 3,July,15,41.9
+Furniture,2022,Qtr 3,July,16,313.724
+Office Supplies,2022,Qtr 3,July,16,2.912
+Technology,2022,Qtr 3,July,16,
+Furniture,2022,Qtr 3,July,17,1241.149
+Office Supplies,2022,Qtr 3,July,17,200.76
+Technology,2022,Qtr 3,July,17,749.964
+Furniture,2022,Qtr 3,July,18,1473.888
+Office Supplies,2022,Qtr 3,July,18,32.936
+Technology,2022,Qtr 3,July,18,599.97
+Furniture,2022,Qtr 3,July,20,539.416
+Office Supplies,2022,Qtr 3,July,20,1353.822
+Technology,2022,Qtr 3,July,20,389.97
+Furniture,2022,Qtr 3,July,21,661.44
+Office Supplies,2022,Qtr 3,July,21,843.86
+Technology,2022,Qtr 3,July,21,2180.644
+Furniture,2022,Qtr 3,July,22,526.344
+Office Supplies,2022,Qtr 3,July,22,
+Technology,2022,Qtr 3,July,22,29.97
+Furniture,2022,Qtr 3,July,23,
+Office Supplies,2022,Qtr 3,July,23,338.488
+Technology,2022,Qtr 3,July,23,559.7
+Furniture,2022,Qtr 3,July,24,
+Office Supplies,2022,Qtr 3,July,24,
+Technology,2022,Qtr 3,July,24,2399.96
+Furniture,2022,Qtr 3,July,25,456.8
+Office Supplies,2022,Qtr 3,July,25,341.942
+Technology,2022,Qtr 3,July,25,
+Furniture,2022,Qtr 3,July,26,362.352
+Office Supplies,2022,Qtr 3,July,26,
+Technology,2022,Qtr 3,July,26,1649.95
+Furniture,2022,Qtr 3,July,27,324.65
+Office Supplies,2022,Qtr 3,July,27,39.16
+Technology,2022,Qtr 3,July,27,778.87
+Furniture,2022,Qtr 3,July,28,
+Office Supplies,2022,Qtr 3,July,28,24.964
+Technology,2022,Qtr 3,July,28,1145.6
+Furniture,2022,Qtr 3,July,29,418.63
+Office Supplies,2022,Qtr 3,July,29,273.332
+Technology,2022,Qtr 3,July,29,699.332
+Furniture,2022,Qtr 3,July,30,
+Office Supplies,2022,Qtr 3,July,30,433.426
+Technology,2022,Qtr 3,July,30,89.95
+Furniture,2022,Qtr 3,July,31,36.96
+Office Supplies,2022,Qtr 3,July,31,1157.276
+Technology,2022,Qtr 3,July,31,363.792
+Furniture,2022,Qtr 3,August,1,892.98
+Office Supplies,2022,Qtr 3,August,1,
+Technology,2022,Qtr 3,August,1,
+Furniture,2022,Qtr 3,August,3,
+Office Supplies,2022,Qtr 3,August,3,843.1
+Technology,2022,Qtr 3,August,3,
+Furniture,2022,Qtr 3,August,4,637.14
+Office Supplies,2022,Qtr 3,August,4,5764.79
+Technology,2022,Qtr 3,August,4,
+Furniture,2022,Qtr 3,August,5,176.05
+Office Supplies,2022,Qtr 3,August,5,122.552
+Technology,2022,Qtr 3,August,5,3359.952
+Furniture,2022,Qtr 3,August,6,1497.666
+Office Supplies,2022,Qtr 3,August,6,240.732
+Technology,2022,Qtr 3,August,6,488.64
+Furniture,2022,Qtr 3,August,7,484.1
+Office Supplies,2022,Qtr 3,August,7,1304.264
+Technology,2022,Qtr 3,August,7,191.9
+Furniture,2022,Qtr 3,August,9,1000.239
+Office Supplies,2022,Qtr 3,August,9,236.072
+Technology,2022,Qtr 3,August,9,948.016
+Furniture,2022,Qtr 3,August,10,145.764
+Office Supplies,2022,Qtr 3,August,10,83.44
+Technology,2022,Qtr 3,August,10,379.152
+Furniture,2022,Qtr 3,August,11,274.2
+Office Supplies,2022,Qtr 3,August,11,109.9
+Technology,2022,Qtr 3,August,11,
+Furniture,2022,Qtr 3,August,12,3368.265
+Office Supplies,2022,Qtr 3,August,12,2632.752
+Technology,2022,Qtr 3,August,12,1642.024
+Furniture,2022,Qtr 3,August,13,455.632
+Office Supplies,2022,Qtr 3,August,13,2185.948
+Technology,2022,Qtr 3,August,13,1.584
+Furniture,2022,Qtr 3,August,14,418.296
+Office Supplies,2022,Qtr 3,August,14,22.44
+Technology,2022,Qtr 3,August,14,
+Furniture,2022,Qtr 3,August,15,
+Office Supplies,2022,Qtr 3,August,15,1949.872
+Technology,2022,Qtr 3,August,15,
+Furniture,2022,Qtr 3,August,16,
+Office Supplies,2022,Qtr 3,August,16,80.564
+Technology,2022,Qtr 3,August,16,
+Furniture,2022,Qtr 3,August,17,4970.114
+Office Supplies,2022,Qtr 3,August,17,4377.038
+Technology,2022,Qtr 3,August,17,170.136
+Furniture,2022,Qtr 3,August,18,204.38
+Office Supplies,2022,Qtr 3,August,18,4472.954
+Technology,2022,Qtr 3,August,18,2401.15
+Furniture,2022,Qtr 3,August,19,
+Office Supplies,2022,Qtr 3,August,19,512.446
+Technology,2022,Qtr 3,August,19,
+Furniture,2022,Qtr 3,August,20,
+Office Supplies,2022,Qtr 3,August,20,549.11
+Technology,2022,Qtr 3,August,20,143.84
+Furniture,2022,Qtr 3,August,21,2093.584
+Office Supplies,2022,Qtr 3,August,21,5992.322
+Technology,2022,Qtr 3,August,21,465.148
+Furniture,2022,Qtr 3,August,22,524.54
+Office Supplies,2022,Qtr 3,August,22,
+Technology,2022,Qtr 3,August,22,
+Furniture,2022,Qtr 3,August,23,2.784
+Office Supplies,2022,Qtr 3,August,23,219.664
+Technology,2022,Qtr 3,August,23,4367.896
+Furniture,2022,Qtr 3,August,24,
+Office Supplies,2022,Qtr 3,August,24,685.056
+Technology,2022,Qtr 3,August,24,
+Furniture,2022,Qtr 3,August,25,130.98
+Office Supplies,2022,Qtr 3,August,25,231.008
+Technology,2022,Qtr 3,August,25,
+Furniture,2022,Qtr 3,August,26,64.96
+Office Supplies,2022,Qtr 3,August,26,53.72
+Technology,2022,Qtr 3,August,26,71.98
+Furniture,2022,Qtr 3,August,27,2037.74
+Office Supplies,2022,Qtr 3,August,27,1804.956
+Technology,2022,Qtr 3,August,27,2347.842
+Furniture,2022,Qtr 3,August,28,1137.75
+Office Supplies,2022,Qtr 3,August,28,270.714
+Technology,2022,Qtr 3,August,28,35.168
+Furniture,2022,Qtr 3,August,29,148.02
+Office Supplies,2022,Qtr 3,August,29,87.448
+Technology,2022,Qtr 3,August,29,
+Furniture,2022,Qtr 3,August,31,569.568
+Office Supplies,2022,Qtr 3,August,31,1243.954
+Technology,2022,Qtr 3,August,31,1349.308
+Furniture,2022,Qtr 3,September,1,
+Office Supplies,2022,Qtr 3,September,1,274.491
+Technology,2022,Qtr 3,September,1,
+Furniture,2022,Qtr 3,September,2,25.104
+Office Supplies,2022,Qtr 3,September,2,620.676
+Technology,2022,Qtr 3,September,2,127.984
+Furniture,2022,Qtr 3,September,3,
+Office Supplies,2022,Qtr 3,September,3,30.84
+Technology,2022,Qtr 3,September,3,679.964
+Furniture,2022,Qtr 3,September,4,
+Office Supplies,2022,Qtr 3,September,4,1626.71
+Technology,2022,Qtr 3,September,4,
+Furniture,2022,Qtr 3,September,5,493.85
+Office Supplies,2022,Qtr 3,September,5,384.392
+Technology,2022,Qtr 3,September,5,199.98
+Furniture,2022,Qtr 3,September,6,132.901
+Office Supplies,2022,Qtr 3,September,6,806.232
+Technology,2022,Qtr 3,September,6,
+Furniture,2022,Qtr 3,September,7,526.45
+Office Supplies,2022,Qtr 3,September,7,886.784
+Technology,2022,Qtr 3,September,7,257.98
+Furniture,2022,Qtr 3,September,9,482.564
+Office Supplies,2022,Qtr 3,September,9,1427.003
+Technology,2022,Qtr 3,September,9,2446.494
+Furniture,2022,Qtr 3,September,10,1333.393
+Office Supplies,2022,Qtr 3,September,10,163.196
+Technology,2022,Qtr 3,September,10,
+Furniture,2022,Qtr 3,September,11,883.018
+Office Supplies,2022,Qtr 3,September,11,2250.72
+Technology,2022,Qtr 3,September,11,1617.754
+Furniture,2022,Qtr 3,September,12,1927.233
+Office Supplies,2022,Qtr 3,September,12,1447.079
+Technology,2022,Qtr 3,September,12,2096.078
+Furniture,2022,Qtr 3,September,13,
+Office Supplies,2022,Qtr 3,September,13,15.92
+Technology,2022,Qtr 3,September,13,
+Furniture,2022,Qtr 3,September,14,830.718
+Office Supplies,2022,Qtr 3,September,14,1307.08
+Technology,2022,Qtr 3,September,14,2229.549
+Furniture,2022,Qtr 3,September,15,2612.768
+Office Supplies,2022,Qtr 3,September,15,3482.828
+Technology,2022,Qtr 3,September,15,1189.43
+Furniture,2022,Qtr 3,September,16,22.512
+Office Supplies,2022,Qtr 3,September,16,633.186
+Technology,2022,Qtr 3,September,16,193.952
+Furniture,2022,Qtr 3,September,17,2335.29
+Office Supplies,2022,Qtr 3,September,17,658.206
+Technology,2022,Qtr 3,September,17,1985.73
+Furniture,2022,Qtr 3,September,18,30.14
+Office Supplies,2022,Qtr 3,September,18,872.79
+Technology,2022,Qtr 3,September,18,609
+Furniture,2022,Qtr 3,September,19,481.804
+Office Supplies,2022,Qtr 3,September,19,262.954
+Technology,2022,Qtr 3,September,19,903.43
+Furniture,2022,Qtr 3,September,20,5496.174
+Office Supplies,2022,Qtr 3,September,20,113.824
+Technology,2022,Qtr 3,September,20,1749.92
+Furniture,2022,Qtr 3,September,21,
+Office Supplies,2022,Qtr 3,September,21,186.212
+Technology,2022,Qtr 3,September,21,151.96
+Furniture,2022,Qtr 3,September,22,254.03
+Office Supplies,2022,Qtr 3,September,22,5854.139
+Technology,2022,Qtr 3,September,22,1763.044
+Furniture,2022,Qtr 3,September,23,804.732
+Office Supplies,2022,Qtr 3,September,23,1011.176
+Technology,2022,Qtr 3,September,23,579.878
+Furniture,2022,Qtr 3,September,24,1427.24
+Office Supplies,2022,Qtr 3,September,24,438.578
+Technology,2022,Qtr 3,September,24,4584.644
+Furniture,2022,Qtr 3,September,25,805.736
+Office Supplies,2022,Qtr 3,September,25,486.517
+Technology,2022,Qtr 3,September,25,119.96
+Furniture,2022,Qtr 3,September,26,428.376
+Office Supplies,2022,Qtr 3,September,26,1058.2
+Technology,2022,Qtr 3,September,26,
+Furniture,2022,Qtr 3,September,28,42.016
+Office Supplies,2022,Qtr 3,September,28,462.871
+Technology,2022,Qtr 3,September,28,54.384
+Furniture,2022,Qtr 3,September,29,553.688
+Office Supplies,2022,Qtr 3,September,29,813.906
+Technology,2022,Qtr 3,September,29,576.486
+Furniture,2022,Qtr 3,September,30,
+Office Supplies,2022,Qtr 3,September,30,380.78
+Technology,2022,Qtr 3,September,30,159.98
+Furniture,2022,Qtr 4,October,2,203.983
+Office Supplies,2022,Qtr 4,October,2,23.12
+Technology,2022,Qtr 4,October,2,
+Furniture,2022,Qtr 4,October,3,983.976
+Office Supplies,2022,Qtr 4,October,3,67.124
+Technology,2022,Qtr 4,October,3,201.852
+Furniture,2022,Qtr 4,October,4,48.992
+Office Supplies,2022,Qtr 4,October,4,510.811
+Technology,2022,Qtr 4,October,4,195.726
+Furniture,2022,Qtr 4,October,6,514.165
+Office Supplies,2022,Qtr 4,October,6,1497.922
+Technology,2022,Qtr 4,October,6,501.256
+Furniture,2022,Qtr 4,October,7,18.84
+Office Supplies,2022,Qtr 4,October,7,340.374
+Technology,2022,Qtr 4,October,7,
+Furniture,2022,Qtr 4,October,8,121.3
+Office Supplies,2022,Qtr 4,October,8,247.28
+Technology,2022,Qtr 4,October,8,1454.49
+Furniture,2022,Qtr 4,October,9,362.352
+Office Supplies,2022,Qtr 4,October,9,1290.524
+Technology,2022,Qtr 4,October,9,853.77
+Furniture,2022,Qtr 4,October,10,239.358
+Office Supplies,2022,Qtr 4,October,10,
+Technology,2022,Qtr 4,October,10,
+Furniture,2022,Qtr 4,October,11,1482.52
+Office Supplies,2022,Qtr 4,October,11,1444.828
+Technology,2022,Qtr 4,October,11,1080.2
+Furniture,2022,Qtr 4,October,12,2102.264
+Office Supplies,2022,Qtr 4,October,12,973.235
+Technology,2022,Qtr 4,October,12,798.06
+Furniture,2022,Qtr 4,October,13,1514.996
+Office Supplies,2022,Qtr 4,October,13,6648.882
+Technology,2022,Qtr 4,October,13,241.924
+Furniture,2022,Qtr 4,October,14,9.46
+Office Supplies,2022,Qtr 4,October,14,78.512
+Technology,2022,Qtr 4,October,14,46.36
+Furniture,2022,Qtr 4,October,15,532.96
+Office Supplies,2022,Qtr 4,October,15,484.98
+Technology,2022,Qtr 4,October,15,
+Furniture,2022,Qtr 4,October,16,2422.558
+Office Supplies,2022,Qtr 4,October,16,432.526
+Technology,2022,Qtr 4,October,16,618.513
+Furniture,2022,Qtr 4,October,17,
+Office Supplies,2022,Qtr 4,October,17,73.56
+Technology,2022,Qtr 4,October,17,52.792
+Furniture,2022,Qtr 4,October,19,531.1622
+Office Supplies,2022,Qtr 4,October,19,1924.452
+Technology,2022,Qtr 4,October,19,326.256
+Furniture,2022,Qtr 4,October,20,328.3
+Office Supplies,2022,Qtr 4,October,20,989.574
+Technology,2022,Qtr 4,October,20,15.984
+Furniture,2022,Qtr 4,October,21,1470.238
+Office Supplies,2022,Qtr 4,October,21,1268.655
+Technology,2022,Qtr 4,October,21,1798.308
+Furniture,2022,Qtr 4,October,22,1005.341
+Office Supplies,2022,Qtr 4,October,22,468.278
+Technology,2022,Qtr 4,October,22,13685.258
+Furniture,2022,Qtr 4,October,23,1193.4
+Office Supplies,2022,Qtr 4,October,23,380.074
+Technology,2022,Qtr 4,October,23,1778.92
+Furniture,2022,Qtr 4,October,24,517.405
+Office Supplies,2022,Qtr 4,October,24,11.68
+Technology,2022,Qtr 4,October,24,
+Furniture,2022,Qtr 4,October,26,356.85
+Office Supplies,2022,Qtr 4,October,26,442.836
+Technology,2022,Qtr 4,October,26,200.182
+Furniture,2022,Qtr 4,October,27,746.241
+Office Supplies,2022,Qtr 4,October,27,145.095
+Technology,2022,Qtr 4,October,27,194.984
+Furniture,2022,Qtr 4,October,28,77.952
+Office Supplies,2022,Qtr 4,October,28,280.598
+Technology,2022,Qtr 4,October,28,50.176
+Furniture,2022,Qtr 4,October,29,
+Office Supplies,2022,Qtr 4,October,29,46.96
+Technology,2022,Qtr 4,October,29,
+Furniture,2022,Qtr 4,October,30,1301.758
+Office Supplies,2022,Qtr 4,October,30,2133.092
+Technology,2022,Qtr 4,October,30,590.88
+Furniture,2022,Qtr 4,October,31,
+Office Supplies,2022,Qtr 4,October,31,15.16
+Technology,2022,Qtr 4,October,31,508.768
+Furniture,2022,Qtr 4,November,2,1110.704
+Office Supplies,2022,Qtr 4,November,2,42.036
+Technology,2022,Qtr 4,November,2,88.776
+Furniture,2022,Qtr 4,November,3,181.484
+Office Supplies,2022,Qtr 4,November,3,951.494
+Technology,2022,Qtr 4,November,3,840.73
+Furniture,2022,Qtr 4,November,4,
+Office Supplies,2022,Qtr 4,November,4,92.736
+Technology,2022,Qtr 4,November,4,227.07
+Furniture,2022,Qtr 4,November,5,217.975
+Office Supplies,2022,Qtr 4,November,5,231.494
+Technology,2022,Qtr 4,November,5,
+Furniture,2022,Qtr 4,November,6,455.212
+Office Supplies,2022,Qtr 4,November,6,739.882
+Technology,2022,Qtr 4,November,6,385.8
+Furniture,2022,Qtr 4,November,7,
+Office Supplies,2022,Qtr 4,November,7,236.89
+Technology,2022,Qtr 4,November,7,1492.002
+Furniture,2022,Qtr 4,November,8,
+Office Supplies,2022,Qtr 4,November,8,555.142
+Technology,2022,Qtr 4,November,8,153.584
+Furniture,2022,Qtr 4,November,9,2810.894
+Office Supplies,2022,Qtr 4,November,9,2529.2
+Technology,2022,Qtr 4,November,9,223.912
+Furniture,2022,Qtr 4,November,11,123.84
+Office Supplies,2022,Qtr 4,November,11,1656.194
+Technology,2022,Qtr 4,November,11,35.184
+Furniture,2022,Qtr 4,November,12,1448.529
+Office Supplies,2022,Qtr 4,November,12,899.746
+Technology,2022,Qtr 4,November,12,475.69
+Furniture,2022,Qtr 4,November,13,2765.6532
+Office Supplies,2022,Qtr 4,November,13,1971.528
+Technology,2022,Qtr 4,November,13,1896.239
+Furniture,2022,Qtr 4,November,14,321.568
+Office Supplies,2022,Qtr 4,November,14,225.198
+Technology,2022,Qtr 4,November,14,287.892
+Furniture,2022,Qtr 4,November,15,559.2
+Office Supplies,2022,Qtr 4,November,15,
+Technology,2022,Qtr 4,November,15,
+Furniture,2022,Qtr 4,November,16,289.59
+Office Supplies,2022,Qtr 4,November,16,1225.466
+Technology,2022,Qtr 4,November,16,3240.178
+Furniture,2022,Qtr 4,November,17,515.4928
+Office Supplies,2022,Qtr 4,November,17,1722.21
+Technology,2022,Qtr 4,November,17,11457.18
+Furniture,2022,Qtr 4,November,18,152.966
+Office Supplies,2022,Qtr 4,November,18,1109.32
+Technology,2022,Qtr 4,November,18,207.47
+Furniture,2022,Qtr 4,November,19,2603.165
+Office Supplies,2022,Qtr 4,November,19,4762.139
+Technology,2022,Qtr 4,November,19,31.968
+Furniture,2022,Qtr 4,November,20,880.862
+Office Supplies,2022,Qtr 4,November,20,274.482
+Technology,2022,Qtr 4,November,20,1832.93
+Furniture,2022,Qtr 4,November,21,98.4
+Office Supplies,2022,Qtr 4,November,21,382.64
+Technology,2022,Qtr 4,November,21,1755.144
+Furniture,2022,Qtr 4,November,22,
+Office Supplies,2022,Qtr 4,November,22,35.712
+Technology,2022,Qtr 4,November,22,
+Furniture,2022,Qtr 4,November,23,186.697
+Office Supplies,2022,Qtr 4,November,23,445.964
+Technology,2022,Qtr 4,November,23,520.448
+Furniture,2022,Qtr 4,November,24,1734.028
+Office Supplies,2022,Qtr 4,November,24,2832.945
+Technology,2022,Qtr 4,November,24,392.668
+Furniture,2022,Qtr 4,November,25,2639.309
+Office Supplies,2022,Qtr 4,November,25,686.928
+Technology,2022,Qtr 4,November,25,339.92
+Furniture,2022,Qtr 4,November,26,1375.6
+Office Supplies,2022,Qtr 4,November,26,463.89
+Technology,2022,Qtr 4,November,26,3208.682
+Furniture,2022,Qtr 4,November,27,65.78
+Office Supplies,2022,Qtr 4,November,27,1185.016
+Technology,2022,Qtr 4,November,27,367.458
+Furniture,2022,Qtr 4,November,28,4659.14
+Office Supplies,2022,Qtr 4,November,28,273.914
+Technology,2022,Qtr 4,November,28,1979.89
+Furniture,2022,Qtr 4,November,29,491.888
+Office Supplies,2022,Qtr 4,November,29,
+Technology,2022,Qtr 4,November,29,
+Furniture,2022,Qtr 4,November,30,4129.728
+Office Supplies,2022,Qtr 4,November,30,1417.566
+Technology,2022,Qtr 4,November,30,1097.988
+Furniture,2022,Qtr 4,December,1,37.68
+Office Supplies,2022,Qtr 4,December,1,810.84
+Technology,2022,Qtr 4,December,1,
+Furniture,2022,Qtr 4,December,3,
+Office Supplies,2022,Qtr 4,December,3,283.35
+Technology,2022,Qtr 4,December,3,69.93
+Furniture,2022,Qtr 4,December,4,
+Office Supplies,2022,Qtr 4,December,4,69.66
+Technology,2022,Qtr 4,December,4,
+Furniture,2022,Qtr 4,December,5,328.33
+Office Supplies,2022,Qtr 4,December,5,554.654
+Technology,2022,Qtr 4,December,5,87.4
+Furniture,2022,Qtr 4,December,6,1337.124
+Office Supplies,2022,Qtr 4,December,6,206.948
+Technology,2022,Qtr 4,December,6,135.896
+Furniture,2022,Qtr 4,December,7,
+Office Supplies,2022,Qtr 4,December,7,3.816
+Technology,2022,Qtr 4,December,7,
+Furniture,2022,Qtr 4,December,8,1834.82
+Office Supplies,2022,Qtr 4,December,8,1140.7
+Technology,2022,Qtr 4,December,8,717.564
+Furniture,2022,Qtr 4,December,9,8.36
+Office Supplies,2022,Qtr 4,December,9,483.19
+Technology,2022,Qtr 4,December,9,
+Furniture,2022,Qtr 4,December,10,3123.328
+Office Supplies,2022,Qtr 4,December,10,233.788
+Technology,2022,Qtr 4,December,10,2278.238
+Furniture,2022,Qtr 4,December,11,250.304
+Office Supplies,2022,Qtr 4,December,11,1375.124
+Technology,2022,Qtr 4,December,11,1285.958
+Furniture,2022,Qtr 4,December,13,489.016
+Office Supplies,2022,Qtr 4,December,13,91.92
+Technology,2022,Qtr 4,December,13,
+Furniture,2022,Qtr 4,December,14,1852.532
+Office Supplies,2022,Qtr 4,December,14,320.732
+Technology,2022,Qtr 4,December,14,1724.45
+Furniture,2022,Qtr 4,December,15,22.77
+Office Supplies,2022,Qtr 4,December,15,87.342
+Technology,2022,Qtr 4,December,15,196.776
+Furniture,2022,Qtr 4,December,16,197.712
+Office Supplies,2022,Qtr 4,December,16,321.09
+Technology,2022,Qtr 4,December,16,339.9
+Furniture,2022,Qtr 4,December,17,629.26
+Office Supplies,2022,Qtr 4,December,17,1398.498
+Technology,2022,Qtr 4,December,17,
+Furniture,2022,Qtr 4,December,18,1380.681
+Office Supplies,2022,Qtr 4,December,18,2115.91
+Technology,2022,Qtr 4,December,18,149.32
+Furniture,2022,Qtr 4,December,19,115.378
+Office Supplies,2022,Qtr 4,December,19,1780.548
+Technology,2022,Qtr 4,December,19,
+Furniture,2022,Qtr 4,December,20,
+Office Supplies,2022,Qtr 4,December,20,377.736
+Technology,2022,Qtr 4,December,20,
+Furniture,2022,Qtr 4,December,21,15.92
+Office Supplies,2022,Qtr 4,December,21,1772.05
+Technology,2022,Qtr 4,December,21,352.97
+Furniture,2022,Qtr 4,December,22,4086.456
+Office Supplies,2022,Qtr 4,December,22,1851.813
+Technology,2022,Qtr 4,December,22,1503.752
+Furniture,2022,Qtr 4,December,23,282.114
+Office Supplies,2022,Qtr 4,December,23,1149.692
+Technology,2022,Qtr 4,December,23,494.97
+Furniture,2022,Qtr 4,December,24,1393.494
+Office Supplies,2022,Qtr 4,December,24,1479.638
+Technology,2022,Qtr 4,December,24,3359.922
+Furniture,2022,Qtr 4,December,25,832.454
+Office Supplies,2022,Qtr 4,December,25,1465.265
+Technology,2022,Qtr 4,December,25,401.208
+Furniture,2022,Qtr 4,December,26,
+Office Supplies,2022,Qtr 4,December,26,814.594
+Technology,2022,Qtr 4,December,26,
+Furniture,2022,Qtr 4,December,27,
+Office Supplies,2022,Qtr 4,December,27,13.248
+Technology,2022,Qtr 4,December,27,164.388
+Furniture,2022,Qtr 4,December,28,551.2568
+Office Supplies,2022,Qtr 4,December,28,1091.244
+Technology,2022,Qtr 4,December,28,14.85
+Furniture,2022,Qtr 4,December,29,2330.718
+Office Supplies,2022,Qtr 4,December,29,282.44
+Technology,2022,Qtr 4,December,29,302.376
+Furniture,2022,Qtr 4,December,30,323.136
+Office Supplies,2022,Qtr 4,December,30,299.724
+Technology,2022,Qtr 4,December,30,90.93
+Furniture,2023,Qtr 1,January,2,
+Office Supplies,2023,Qtr 1,January,2,
+Technology,2023,Qtr 1,January,2,468.9
+Furniture,2023,Qtr 1,January,3,1893.995
+Office Supplies,2023,Qtr 1,January,3,303.216
+Technology,2023,Qtr 1,January,3,5.94
+Furniture,2023,Qtr 1,January,4,
+Office Supplies,2023,Qtr 1,January,4,119.888
+Technology,2023,Qtr 1,January,4,
+Furniture,2023,Qtr 1,January,6,2024.06
+Office Supplies,2023,Qtr 1,January,6,2282.53
+Technology,2023,Qtr 1,January,6,881.93
+Furniture,2023,Qtr 1,January,7,
+Office Supplies,2023,Qtr 1,January,7,25.104
+Technology,2023,Qtr 1,January,7,575.92
+Furniture,2023,Qtr 1,January,8,44.128
+Office Supplies,2023,Qtr 1,January,8,184.2
+Technology,2023,Qtr 1,January,8,
+Furniture,2023,Qtr 1,January,9,
+Office Supplies,2023,Qtr 1,January,9,112.436
+Technology,2023,Qtr 1,January,9,357
+Furniture,2023,Qtr 1,January,10,
+Office Supplies,2023,Qtr 1,January,10,4.71
+Technology,2023,Qtr 1,January,10,
+Furniture,2023,Qtr 1,January,11,100.384
+Office Supplies,2023,Qtr 1,January,11,1512.912
+Technology,2023,Qtr 1,January,11,3118.784
+Furniture,2023,Qtr 1,January,12,4513.606
+Office Supplies,2023,Qtr 1,January,12,82.928
+Technology,2023,Qtr 1,January,12,1027.856
+Furniture,2023,Qtr 1,January,13,879.939
+Office Supplies,2023,Qtr 1,January,13,2027.116
+Technology,2023,Qtr 1,January,13,646.74
+Furniture,2023,Qtr 1,January,14,61.96
+Office Supplies,2023,Qtr 1,January,14,
+Technology,2023,Qtr 1,January,14,
+Furniture,2023,Qtr 1,January,15,
+Office Supplies,2023,Qtr 1,January,15,
+Technology,2023,Qtr 1,January,15,149.95
+Furniture,2023,Qtr 1,January,16,127.104
+Office Supplies,2023,Qtr 1,January,16,48.66
+Technology,2023,Qtr 1,January,16,124.2
+Furniture,2023,Qtr 1,January,18,
+Office Supplies,2023,Qtr 1,January,18,64.864
+Technology,2023,Qtr 1,January,18,
+Furniture,2023,Qtr 1,January,19,181.47
+Office Supplies,2023,Qtr 1,January,19,197.124
+Technology,2023,Qtr 1,January,19,
+Furniture,2023,Qtr 1,January,20,1413.51
+Office Supplies,2023,Qtr 1,January,20,560.43
+Technology,2023,Qtr 1,January,20,699.93
+Furniture,2023,Qtr 1,January,21,25.248
+Office Supplies,2023,Qtr 1,January,21,
+Technology,2023,Qtr 1,January,21,
+Furniture,2023,Qtr 1,January,23,
+Office Supplies,2023,Qtr 1,January,23,46.02
+Technology,2023,Qtr 1,January,23,
+Furniture,2023,Qtr 1,January,26,217.2
+Office Supplies,2023,Qtr 1,January,26,536.72
+Technology,2023,Qtr 1,January,26,343.33
+Furniture,2023,Qtr 1,January,27,333
+Office Supplies,2023,Qtr 1,January,27,93.67
+Technology,2023,Qtr 1,January,27,
+Furniture,2023,Qtr 1,January,28,
+Office Supplies,2023,Qtr 1,January,28,3.928
+Technology,2023,Qtr 1,January,28,
+Furniture,2023,Qtr 1,January,30,
+Office Supplies,2023,Qtr 1,January,30,240.5
+Technology,2023,Qtr 1,January,30,
+Furniture,2023,Qtr 1,January,31,290.666
+Office Supplies,2023,Qtr 1,January,31,
+Technology,2023,Qtr 1,January,31,
+Furniture,2023,Qtr 1,February,2,
+Office Supplies,2023,Qtr 1,February,2,30.686
+Technology,2023,Qtr 1,February,2,180.96
+Furniture,2023,Qtr 1,February,3,
+Office Supplies,2023,Qtr 1,February,3,51.184
+Technology,2023,Qtr 1,February,3,151.2
+Furniture,2023,Qtr 1,February,4,177.68
+Office Supplies,2023,Qtr 1,February,4,230.948
+Technology,2023,Qtr 1,February,4,1049.93
+Furniture,2023,Qtr 1,February,5,
+Office Supplies,2023,Qtr 1,February,5,26.136
+Technology,2023,Qtr 1,February,5,479.984
+Furniture,2023,Qtr 1,February,6,73.32
+Office Supplies,2023,Qtr 1,February,6,425.308
+Technology,2023,Qtr 1,February,6,239.97
+Furniture,2023,Qtr 1,February,7,
+Office Supplies,2023,Qtr 1,February,7,5.58
+Technology,2023,Qtr 1,February,7,73.98
+Furniture,2023,Qtr 1,February,8,
+Office Supplies,2023,Qtr 1,February,8,865.08
+Technology,2023,Qtr 1,February,8,21.2
+Furniture,2023,Qtr 1,February,9,70.71
+Office Supplies,2023,Qtr 1,February,9,1907.81
+Technology,2023,Qtr 1,February,9,1275.63
+Furniture,2023,Qtr 1,February,10,
+Office Supplies,2023,Qtr 1,February,10,42.208
+Technology,2023,Qtr 1,February,10,555.936
+Furniture,2023,Qtr 1,February,11,89.34
+Office Supplies,2023,Qtr 1,February,11,417.022
+Technology,2023,Qtr 1,February,11,1620.008
+Furniture,2023,Qtr 1,February,12,1282.8
+Office Supplies,2023,Qtr 1,February,12,243.298
+Technology,2023,Qtr 1,February,12,245.71
+Furniture,2023,Qtr 1,February,14,
+Office Supplies,2023,Qtr 1,February,14,336.756
+Technology,2023,Qtr 1,February,14,239.97
+Furniture,2023,Qtr 1,February,15,
+Office Supplies,2023,Qtr 1,February,15,21.36
+Technology,2023,Qtr 1,February,15,
+Furniture,2023,Qtr 1,February,16,
+Office Supplies,2023,Qtr 1,February,16,9.04
+Technology,2023,Qtr 1,February,16,
+Furniture,2023,Qtr 1,February,17,
+Office Supplies,2023,Qtr 1,February,17,54.208
+Technology,2023,Qtr 1,February,17,
+Furniture,2023,Qtr 1,February,18,25.16
+Office Supplies,2023,Qtr 1,February,18,12.624
+Technology,2023,Qtr 1,February,18,
+Furniture,2023,Qtr 1,February,20,20.32
+Office Supplies,2023,Qtr 1,February,20,12.96
+Technology,2023,Qtr 1,February,20,62.31
+Furniture,2023,Qtr 1,February,21,
+Office Supplies,2023,Qtr 1,February,21,8.85
+Technology,2023,Qtr 1,February,21,
+Furniture,2023,Qtr 1,February,22,
+Office Supplies,2023,Qtr 1,February,22,19.44
+Technology,2023,Qtr 1,February,22,
+Furniture,2023,Qtr 1,February,23,
+Office Supplies,2023,Qtr 1,February,23,11.364
+Technology,2023,Qtr 1,February,23,
+Furniture,2023,Qtr 1,February,24,
+Office Supplies,2023,Qtr 1,February,24,55.672
+Technology,2023,Qtr 1,February,24,
+Furniture,2023,Qtr 1,February,27,
+Office Supplies,2023,Qtr 1,February,27,19.456
+Technology,2023,Qtr 1,February,27,
+Furniture,2023,Qtr 1,March,1,
+Office Supplies,2023,Qtr 1,March,1,16.448
+Technology,2023,Qtr 1,March,1,
+Furniture,2023,Qtr 1,March,2,
+Office Supplies,2023,Qtr 1,March,2,97.112
+Technology,2023,Qtr 1,March,2,
+Furniture,2023,Qtr 1,March,3,928.802
+Office Supplies,2023,Qtr 1,March,3,407.1
+Technology,2023,Qtr 1,March,3,9.99
+Furniture,2023,Qtr 1,March,4,
+Office Supplies,2023,Qtr 1,March,4,11.16
+Technology,2023,Qtr 1,March,4,222.29
+Furniture,2023,Qtr 1,March,5,
+Office Supplies,2023,Qtr 1,March,5,72.632
+Technology,2023,Qtr 1,March,5,
+Furniture,2023,Qtr 1,March,6,577.424
+Office Supplies,2023,Qtr 1,March,6,163.912
+Technology,2023,Qtr 1,March,6,
+Furniture,2023,Qtr 1,March,8,218.75
+Office Supplies,2023,Qtr 1,March,8,259.244
+Technology,2023,Qtr 1,March,8,
+Furniture,2023,Qtr 1,March,9,
+Office Supplies,2023,Qtr 1,March,9,22.08
+Technology,2023,Qtr 1,March,9,
+Furniture,2023,Qtr 1,March,10,555.839
+Office Supplies,2023,Qtr 1,March,10,164.356
+Technology,2023,Qtr 1,March,10,142.488
+Furniture,2023,Qtr 1,March,11,1355.388
+Office Supplies,2023,Qtr 1,March,11,554.845
+Technology,2023,Qtr 1,March,11,873.93
+Furniture,2023,Qtr 1,March,12,
+Office Supplies,2023,Qtr 1,March,12,25.92
+Technology,2023,Qtr 1,March,12,479.96
+Furniture,2023,Qtr 1,March,14,1139.92
+Office Supplies,2023,Qtr 1,March,14,310.92
+Technology,2023,Qtr 1,March,14,657.71
+Furniture,2023,Qtr 1,March,15,45.696
+Office Supplies,2023,Qtr 1,March,15,325.086
+Technology,2023,Qtr 1,March,15,
+Furniture,2023,Qtr 1,March,16,
+Office Supplies,2023,Qtr 1,March,16,
+Technology,2023,Qtr 1,March,16,471.92
+Furniture,2023,Qtr 1,March,17,3265.23
+Office Supplies,2023,Qtr 1,March,17,695.128
+Technology,2023,Qtr 1,March,17,
+Furniture,2023,Qtr 1,March,18,1462.45
+Office Supplies,2023,Qtr 1,March,18,1904.518
+Technology,2023,Qtr 1,March,18,24739.748
+Furniture,2023,Qtr 1,March,19,25.008
+Office Supplies,2023,Qtr 1,March,19,71.538
+Technology,2023,Qtr 1,March,19,494.216
+Furniture,2023,Qtr 1,March,21,251.328
+Office Supplies,2023,Qtr 1,March,21,358.558
+Technology,2023,Qtr 1,March,21,3499.93
+Furniture,2023,Qtr 1,March,22,314.352
+Office Supplies,2023,Qtr 1,March,22,149.741
+Technology,2023,Qtr 1,March,22,
+Furniture,2023,Qtr 1,March,23,
+Office Supplies,2023,Qtr 1,March,23,340.312
+Technology,2023,Qtr 1,March,23,604.752
+Furniture,2023,Qtr 1,March,24,40.48
+Office Supplies,2023,Qtr 1,March,24,24.9
+Technology,2023,Qtr 1,March,24,
+Furniture,2023,Qtr 1,March,25,366.786
+Office Supplies,2023,Qtr 1,March,25,46.88
+Technology,2023,Qtr 1,March,25,45.48
+Furniture,2023,Qtr 1,March,26,
+Office Supplies,2023,Qtr 1,March,26,50.046
+Technology,2023,Qtr 1,March,26,95.084
+Furniture,2023,Qtr 1,March,28,1515.308
+Office Supplies,2023,Qtr 1,March,28,6.12
+Technology,2023,Qtr 1,March,28,302.376
+Furniture,2023,Qtr 1,March,29,890.841
+Office Supplies,2023,Qtr 1,March,29,
+Technology,2023,Qtr 1,March,29,
+Furniture,2023,Qtr 1,March,30,332.968
+Office Supplies,2023,Qtr 1,March,30,585.41
+Technology,2023,Qtr 1,March,30,251.944
+Furniture,2023,Qtr 1,March,31,1125.488
+Office Supplies,2023,Qtr 1,March,31,754.08
+Technology,2023,Qtr 1,March,31,79.984
+Furniture,2023,Qtr 2,April,1,
+Office Supplies,2023,Qtr 2,April,1,288.06
+Technology,2023,Qtr 2,April,1,
+Furniture,2023,Qtr 2,April,2,
+Office Supplies,2023,Qtr 2,April,2,134.384
+Technology,2023,Qtr 2,April,2,
+Furniture,2023,Qtr 2,April,3,
+Office Supplies,2023,Qtr 2,April,3,370.452
+Technology,2023,Qtr 2,April,3,
+Furniture,2023,Qtr 2,April,4,5.47
+Office Supplies,2023,Qtr 2,April,4,370.394
+Technology,2023,Qtr 2,April,4,99.98
+Furniture,2023,Qtr 2,April,5,39.64
+Office Supplies,2023,Qtr 2,April,5,147.792
+Technology,2023,Qtr 2,April,5,
+Furniture,2023,Qtr 2,April,6,424.488
+Office Supplies,2023,Qtr 2,April,6,31.784
+Technology,2023,Qtr 2,April,6,
+Furniture,2023,Qtr 2,April,7,
+Office Supplies,2023,Qtr 2,April,7,247.408
+Technology,2023,Qtr 2,April,7,
+Furniture,2023,Qtr 2,April,8,
+Office Supplies,2023,Qtr 2,April,8,2087.774
+Technology,2023,Qtr 2,April,8,655.38
+Furniture,2023,Qtr 2,April,10,589.41
+Office Supplies,2023,Qtr 2,April,10,139.338
+Technology,2023,Qtr 2,April,10,
+Furniture,2023,Qtr 2,April,11,744.95
+Office Supplies,2023,Qtr 2,April,11,206.566
+Technology,2023,Qtr 2,April,11,5742.232
+Furniture,2023,Qtr 2,April,12,
+Office Supplies,2023,Qtr 2,April,12,
+Technology,2023,Qtr 2,April,12,129.98
+Furniture,2023,Qtr 2,April,13,
+Office Supplies,2023,Qtr 2,April,13,566.648
+Technology,2023,Qtr 2,April,13,71.928
+Furniture,2023,Qtr 2,April,15,187.76
+Office Supplies,2023,Qtr 2,April,15,106.96
+Technology,2023,Qtr 2,April,15,
+Furniture,2023,Qtr 2,April,16,
+Office Supplies,2023,Qtr 2,April,16,39.072
+Technology,2023,Qtr 2,April,16,
+Furniture,2023,Qtr 2,April,18,317.058
+Office Supplies,2023,Qtr 2,April,18,187.53
+Technology,2023,Qtr 2,April,18,515.944
+Furniture,2023,Qtr 2,April,19,76.14
+Office Supplies,2023,Qtr 2,April,19,129.33
+Technology,2023,Qtr 2,April,19,
+Furniture,2023,Qtr 2,April,20,1205.61
+Office Supplies,2023,Qtr 2,April,20,44.84
+Technology,2023,Qtr 2,April,20,
+Furniture,2023,Qtr 2,April,21,
+Office Supplies,2023,Qtr 2,April,21,845.36
+Technology,2023,Qtr 2,April,21,
+Furniture,2023,Qtr 2,April,22,
+Office Supplies,2023,Qtr 2,April,22,257.752
+Technology,2023,Qtr 2,April,22,
+Furniture,2023,Qtr 2,April,23,585.08
+Office Supplies,2023,Qtr 2,April,23,58.9
+Technology,2023,Qtr 2,April,23,
+Furniture,2023,Qtr 2,April,25,1790.29
+Office Supplies,2023,Qtr 2,April,25,287.328
+Technology,2023,Qtr 2,April,25,302.376
+Furniture,2023,Qtr 2,April,26,230.28
+Office Supplies,2023,Qtr 2,April,26,52.288
+Technology,2023,Qtr 2,April,26,
+Furniture,2023,Qtr 2,April,28,
+Office Supplies,2023,Qtr 2,April,28,738.536
+Technology,2023,Qtr 2,April,28,1839.94
+Furniture,2023,Qtr 2,April,29,631.004
+Office Supplies,2023,Qtr 2,April,29,117.86
+Technology,2023,Qtr 2,April,29,19.98
+Furniture,2023,Qtr 2,April,30,
+Office Supplies,2023,Qtr 2,April,30,1000.95
+Technology,2023,Qtr 2,April,30,47.79
+Furniture,2023,Qtr 2,May,1,
+Office Supplies,2023,Qtr 2,May,1,19.536
+Technology,2023,Qtr 2,May,1,
+Furniture,2023,Qtr 2,May,3,
+Office Supplies,2023,Qtr 2,May,3,225.592
+Technology,2023,Qtr 2,May,3,479.97
+Furniture,2023,Qtr 2,May,4,
+Office Supplies,2023,Qtr 2,May,4,5266.108
+Technology,2023,Qtr 2,May,4,28.99
+Furniture,2023,Qtr 2,May,5,127.869
+Office Supplies,2023,Qtr 2,May,5,133.108
+Technology,2023,Qtr 2,May,5,
+Furniture,2023,Qtr 2,May,7,232.736
+Office Supplies,2023,Qtr 2,May,7,731.398
+Technology,2023,Qtr 2,May,7,479.97
+Furniture,2023,Qtr 2,May,8,1962.724
+Office Supplies,2023,Qtr 2,May,8,293.65
+Technology,2023,Qtr 2,May,8,152.35
+Furniture,2023,Qtr 2,May,9,31.984
+Office Supplies,2023,Qtr 2,May,9,264.32
+Technology,2023,Qtr 2,May,9,
+Furniture,2023,Qtr 2,May,10,
+Office Supplies,2023,Qtr 2,May,10,91.92
+Technology,2023,Qtr 2,May,10,99.98
+Furniture,2023,Qtr 2,May,11,443.508
+Office Supplies,2023,Qtr 2,May,11,1093.29
+Technology,2023,Qtr 2,May,11,157.766
+Furniture,2023,Qtr 2,May,12,
+Office Supplies,2023,Qtr 2,May,12,2170.252
+Technology,2023,Qtr 2,May,12,793.39
+Furniture,2023,Qtr 2,May,13,279.456
+Office Supplies,2023,Qtr 2,May,13,468.956
+Technology,2023,Qtr 2,May,13,149.97
+Furniture,2023,Qtr 2,May,14,310.88
+Office Supplies,2023,Qtr 2,May,14,
+Technology,2023,Qtr 2,May,14,
+Furniture,2023,Qtr 2,May,16,232.88
+Office Supplies,2023,Qtr 2,May,16,
+Technology,2023,Qtr 2,May,16,56.4
+Furniture,2023,Qtr 2,May,17,
+Office Supplies,2023,Qtr 2,May,17,91.68
+Technology,2023,Qtr 2,May,17,
+Furniture,2023,Qtr 2,May,18,149.232
+Office Supplies,2023,Qtr 2,May,18,19.92
+Technology,2023,Qtr 2,May,18,779.796
+Furniture,2023,Qtr 2,May,19,
+Office Supplies,2023,Qtr 2,May,19,91.62
+Technology,2023,Qtr 2,May,19,
+Furniture,2023,Qtr 2,May,20,150.192
+Office Supplies,2023,Qtr 2,May,20,149.128
+Technology,2023,Qtr 2,May,20,20.784
+Furniture,2023,Qtr 2,May,21,107.772
+Office Supplies,2023,Qtr 2,May,21,3538.586
+Technology,2023,Qtr 2,May,21,617.97
+Furniture,2023,Qtr 2,May,22,
+Office Supplies,2023,Qtr 2,May,22,
+Technology,2023,Qtr 2,May,22,180.93
+Furniture,2023,Qtr 2,May,23,
+Office Supplies,2023,Qtr 2,May,23,268.57
+Technology,2023,Qtr 2,May,23,55.188
+Furniture,2023,Qtr 2,May,24,
+Office Supplies,2023,Qtr 2,May,24,116.28
+Technology,2023,Qtr 2,May,24,
+Furniture,2023,Qtr 2,May,25,29.32
+Office Supplies,2023,Qtr 2,May,25,90.22
+Technology,2023,Qtr 2,May,25,
+Furniture,2023,Qtr 2,May,26,875.734
+Office Supplies,2023,Qtr 2,May,26,164.416
+Technology,2023,Qtr 2,May,26,285.568
+Furniture,2023,Qtr 2,May,27,567.12
+Office Supplies,2023,Qtr 2,May,27,376.78
+Technology,2023,Qtr 2,May,27,1213.494
+Furniture,2023,Qtr 2,May,28,
+Office Supplies,2023,Qtr 2,May,28,136.96
+Technology,2023,Qtr 2,May,28,85.008
+Furniture,2023,Qtr 2,May,30,355.455
+Office Supplies,2023,Qtr 2,May,30,385.482
+Technology,2023,Qtr 2,May,30,1183.976
+Furniture,2023,Qtr 2,May,31,
+Office Supplies,2023,Qtr 2,May,31,
+Technology,2023,Qtr 2,May,31,773.7
+Furniture,2023,Qtr 2,June,1,2573.82
+Office Supplies,2023,Qtr 2,June,1,685.34
+Technology,2023,Qtr 2,June,1,1147.94
+Furniture,2023,Qtr 2,June,2,
+Office Supplies,2023,Qtr 2,June,2,23.952
+Technology,2023,Qtr 2,June,2,306.56
+Furniture,2023,Qtr 2,June,4,933.384
+Office Supplies,2023,Qtr 2,June,4,266.652
+Technology,2023,Qtr 2,June,4,450.654
+Furniture,2023,Qtr 2,June,5,
+Office Supplies,2023,Qtr 2,June,5,254.456
+Technology,2023,Qtr 2,June,5,
+Furniture,2023,Qtr 2,June,6,991.764
+Office Supplies,2023,Qtr 2,June,6,382.237
+Technology,2023,Qtr 2,June,6,
+Furniture,2023,Qtr 2,June,7,478.48
+Office Supplies,2023,Qtr 2,June,7,
+Technology,2023,Qtr 2,June,7,559.992
+Furniture,2023,Qtr 2,June,8,
+Office Supplies,2023,Qtr 2,June,8,
+Technology,2023,Qtr 2,June,8,262.89
+Furniture,2023,Qtr 2,June,9,41.88
+Office Supplies,2023,Qtr 2,June,9,58.48
+Technology,2023,Qtr 2,June,9,
+Furniture,2023,Qtr 2,June,10,
+Office Supplies,2023,Qtr 2,June,10,485.62
+Technology,2023,Qtr 2,June,10,9.09
+Furniture,2023,Qtr 2,June,11,
+Office Supplies,2023,Qtr 2,June,11,43.68
+Technology,2023,Qtr 2,June,11,
+Furniture,2023,Qtr 2,June,12,525.192
+Office Supplies,2023,Qtr 2,June,12,1410.746
+Technology,2023,Qtr 2,June,12,35.04
+Furniture,2023,Qtr 2,June,13,
+Office Supplies,2023,Qtr 2,June,13,14.52
+Technology,2023,Qtr 2,June,13,
+Furniture,2023,Qtr 2,June,14,212.94
+Office Supplies,2023,Qtr 2,June,14,
+Technology,2023,Qtr 2,June,14,
+Furniture,2023,Qtr 2,June,15,897.862
+Office Supplies,2023,Qtr 2,June,15,45.112
+Technology,2023,Qtr 2,June,15,
+Furniture,2023,Qtr 2,June,16,647.84
+Office Supplies,2023,Qtr 2,June,16,115.952
+Technology,2023,Qtr 2,June,16,
+Furniture,2023,Qtr 2,June,17,6.24
+Office Supplies,2023,Qtr 2,June,17,3346.292
+Technology,2023,Qtr 2,June,17,65.97
+Furniture,2023,Qtr 2,June,18,
+Office Supplies,2023,Qtr 2,June,18,
+Technology,2023,Qtr 2,June,18,139.8
+Furniture,2023,Qtr 2,June,20,193.0656
+Office Supplies,2023,Qtr 2,June,20,1015.5
+Technology,2023,Qtr 2,June,20,620.384
+Furniture,2023,Qtr 2,June,21,107.994
+Office Supplies,2023,Qtr 2,June,21,255.92
+Technology,2023,Qtr 2,June,21,3743.529
+Furniture,2023,Qtr 2,June,22,1023.988
+Office Supplies,2023,Qtr 2,June,22,671.976
+Technology,2023,Qtr 2,June,22,279.534
+Furniture,2023,Qtr 2,June,23,
+Office Supplies,2023,Qtr 2,June,23,23.12
+Technology,2023,Qtr 2,June,23,86.376
+Furniture,2023,Qtr 2,June,24,4.272
+Office Supplies,2023,Qtr 2,June,24,
+Technology,2023,Qtr 2,June,24,
+Furniture,2023,Qtr 2,June,25,447.84
+Office Supplies,2023,Qtr 2,June,25,80.96
+Technology,2023,Qtr 2,June,25,263.96
+Furniture,2023,Qtr 2,June,27,85.98
+Office Supplies,2023,Qtr 2,June,27,306.2
+Technology,2023,Qtr 2,June,27,223.96
+Furniture,2023,Qtr 2,June,28,1228.465
+Office Supplies,2023,Qtr 2,June,28,417.326
+Technology,2023,Qtr 2,June,28,
+Furniture,2023,Qtr 2,June,29,
+Office Supplies,2023,Qtr 2,June,29,46.68
+Technology,2023,Qtr 2,June,29,
+Furniture,2023,Qtr 2,June,30,
+Office Supplies,2023,Qtr 2,June,30,739.624
+Technology,2023,Qtr 2,June,30,
+Furniture,2023,Qtr 3,July,1,76.728
+Office Supplies,2023,Qtr 3,July,1,10.43
+Technology,2023,Qtr 3,July,1,
+Furniture,2023,Qtr 3,July,2,
+Office Supplies,2023,Qtr 3,July,2,64.96
+Technology,2023,Qtr 3,July,2,115.36
+Furniture,2023,Qtr 3,July,3,966.984
+Office Supplies,2023,Qtr 3,July,3,594.078
+Technology,2023,Qtr 3,July,3,
+Furniture,2023,Qtr 3,July,4,8.96
+Office Supplies,2023,Qtr 3,July,4,181.29
+Technology,2023,Qtr 3,July,4,830.92
+Furniture,2023,Qtr 3,July,5,1066.57
+Office Supplies,2023,Qtr 3,July,5,24.78
+Technology,2023,Qtr 3,July,5,
+Furniture,2023,Qtr 3,July,6,268.935
+Office Supplies,2023,Qtr 3,July,6,12.462
+Technology,2023,Qtr 3,July,6,
+Furniture,2023,Qtr 3,July,7,241.194
+Office Supplies,2023,Qtr 3,July,7,
+Technology,2023,Qtr 3,July,7,
+Furniture,2023,Qtr 3,July,9,1714.593
+Office Supplies,2023,Qtr 3,July,9,651.076
+Technology,2023,Qtr 3,July,9,1158.206
+Furniture,2023,Qtr 3,July,10,129.92
+Office Supplies,2023,Qtr 3,July,10,107.44
+Technology,2023,Qtr 3,July,10,
+Furniture,2023,Qtr 3,July,11,683.144
+Office Supplies,2023,Qtr 3,July,11,765.998
+Technology,2023,Qtr 3,July,11,
+Furniture,2023,Qtr 3,July,12,
+Office Supplies,2023,Qtr 3,July,12,548.4
+Technology,2023,Qtr 3,July,12,
+Furniture,2023,Qtr 3,July,13,351.216
+Office Supplies,2023,Qtr 3,July,13,
+Technology,2023,Qtr 3,July,13,
+Furniture,2023,Qtr 3,July,14,31.984
+Office Supplies,2023,Qtr 3,July,14,184.856
+Technology,2023,Qtr 3,July,14,75.754
+Furniture,2023,Qtr 3,July,15,
+Office Supplies,2023,Qtr 3,July,15,6.54
+Technology,2023,Qtr 3,July,15,2.97
+Furniture,2023,Qtr 3,July,18,259.136
+Office Supplies,2023,Qtr 3,July,18,13.904
+Technology,2023,Qtr 3,July,18,
+Furniture,2023,Qtr 3,July,19,70.56
+Office Supplies,2023,Qtr 3,July,19,30.786
+Technology,2023,Qtr 3,July,19,359.98
+Furniture,2023,Qtr 3,July,20,1041.132
+Office Supplies,2023,Qtr 3,July,20,1202.714
+Technology,2023,Qtr 3,July,20,41.94
+Furniture,2023,Qtr 3,July,21,1732.346
+Office Supplies,2023,Qtr 3,July,21,193.156
+Technology,2023,Qtr 3,July,21,35.98
+Furniture,2023,Qtr 3,July,22,888.072
+Office Supplies,2023,Qtr 3,July,22,300.292
+Technology,2023,Qtr 3,July,22,159.98
+Furniture,2023,Qtr 3,July,23,
+Office Supplies,2023,Qtr 3,July,23,58.1
+Technology,2023,Qtr 3,July,23,2555.084
+Furniture,2023,Qtr 3,July,25,77.92
+Office Supplies,2023,Qtr 3,July,25,8263.37
+Technology,2023,Qtr 3,July,25,
+Furniture,2023,Qtr 3,July,26,919.448
+Office Supplies,2023,Qtr 3,July,26,2494.526
+Technology,2023,Qtr 3,July,26,1626.02
+Furniture,2023,Qtr 3,July,27,
+Office Supplies,2023,Qtr 3,July,27,342.06
+Technology,2023,Qtr 3,July,27,238
+Furniture,2023,Qtr 3,July,28,129.888
+Office Supplies,2023,Qtr 3,July,28,63.264
+Technology,2023,Qtr 3,July,28,
+Furniture,2023,Qtr 3,July,30,1367.84
+Office Supplies,2023,Qtr 3,July,30,
+Technology,2023,Qtr 3,July,30,
+Furniture,2023,Qtr 3,August,2,14.56
+Office Supplies,2023,Qtr 3,August,2,
+Technology,2023,Qtr 3,August,2,
+Furniture,2023,Qtr 3,August,4,1487.622
+Office Supplies,2023,Qtr 3,August,4,71.168
+Technology,2023,Qtr 3,August,4,399.96
+Furniture,2023,Qtr 3,August,5,
+Office Supplies,2023,Qtr 3,August,5,
+Technology,2023,Qtr 3,August,5,1799.97
+Furniture,2023,Qtr 3,August,6,755.904
+Office Supplies,2023,Qtr 3,August,6,1745.36
+Technology,2023,Qtr 3,August,6,
+Furniture,2023,Qtr 3,August,7,566.37
+Office Supplies,2023,Qtr 3,August,7,196.704
+Technology,2023,Qtr 3,August,7,
+Furniture,2023,Qtr 3,August,8,658.472
+Office Supplies,2023,Qtr 3,August,8,705.275
+Technology,2023,Qtr 3,August,8,2591.882
+Furniture,2023,Qtr 3,August,9,3855.444
+Office Supplies,2023,Qtr 3,August,9,1692.256
+Technology,2023,Qtr 3,August,9,8680.728
+Furniture,2023,Qtr 3,August,10,
+Office Supplies,2023,Qtr 3,August,10,123.92
+Technology,2023,Qtr 3,August,10,23.472
+Furniture,2023,Qtr 3,August,11,
+Office Supplies,2023,Qtr 3,August,11,
+Technology,2023,Qtr 3,August,11,333.576
+Furniture,2023,Qtr 3,August,12,723.24
+Office Supplies,2023,Qtr 3,August,12,215.28
+Technology,2023,Qtr 3,August,12,156.6
+Furniture,2023,Qtr 3,August,15,195.136
+Office Supplies,2023,Qtr 3,August,15,647.646
+Technology,2023,Qtr 3,August,15,
+Furniture,2023,Qtr 3,August,16,853.092
+Office Supplies,2023,Qtr 3,August,16,
+Technology,2023,Qtr 3,August,16,
+Furniture,2023,Qtr 3,August,17,
+Office Supplies,2023,Qtr 3,August,17,160.382
+Technology,2023,Qtr 3,August,17,339.96
+Furniture,2023,Qtr 3,August,19,928.06
+Office Supplies,2023,Qtr 3,August,19,511.046
+Technology,2023,Qtr 3,August,19,
+Furniture,2023,Qtr 3,August,20,921.612
+Office Supplies,2023,Qtr 3,August,20,917.11
+Technology,2023,Qtr 3,August,20,
+Furniture,2023,Qtr 3,August,22,
+Office Supplies,2023,Qtr 3,August,22,23.104
+Technology,2023,Qtr 3,August,22,
+Furniture,2023,Qtr 3,August,23,4.224
+Office Supplies,2023,Qtr 3,August,23,417.36
+Technology,2023,Qtr 3,August,23,143.64
+Furniture,2023,Qtr 3,August,24,13.28
+Office Supplies,2023,Qtr 3,August,24,46.46
+Technology,2023,Qtr 3,August,24,
+Furniture,2023,Qtr 3,August,25,6.28
+Office Supplies,2023,Qtr 3,August,25,342.326
+Technology,2023,Qtr 3,August,25,1103.044
+Furniture,2023,Qtr 3,August,26,10.68
+Office Supplies,2023,Qtr 3,August,26,29.36
+Technology,2023,Qtr 3,August,26,326.77
+Furniture,2023,Qtr 3,August,27,1232.06
+Office Supplies,2023,Qtr 3,August,27,44.64
+Technology,2023,Qtr 3,August,27,793.43
+Furniture,2023,Qtr 3,August,29,174.0585
+Office Supplies,2023,Qtr 3,August,29,658.264
+Technology,2023,Qtr 3,August,29,
+Furniture,2023,Qtr 3,August,30,
+Office Supplies,2023,Qtr 3,August,30,121.24
+Technology,2023,Qtr 3,August,30,
+Furniture,2023,Qtr 3,August,31,
+Office Supplies,2023,Qtr 3,August,31,
+Technology,2023,Qtr 3,August,31,92.52
+Furniture,2023,Qtr 3,September,1,
+Office Supplies,2023,Qtr 3,September,1,9.344
+Technology,2023,Qtr 3,September,1,31.2
+Furniture,2023,Qtr 3,September,5,
+Office Supplies,2023,Qtr 3,September,5,158.71
+Technology,2023,Qtr 3,September,5,235.77
+Furniture,2023,Qtr 3,September,6,3233.744
+Office Supplies,2023,Qtr 3,September,6,338.712
+Technology,2023,Qtr 3,September,6,1890.552
+Furniture,2023,Qtr 3,September,7,119.833
+Office Supplies,2023,Qtr 3,September,7,145.688
+Technology,2023,Qtr 3,September,7,
+Furniture,2023,Qtr 3,September,8,
+Office Supplies,2023,Qtr 3,September,8,2116.965
+Technology,2023,Qtr 3,September,8,1488.72
+Furniture,2023,Qtr 3,September,9,864.024
+Office Supplies,2023,Qtr 3,September,9,1679.354
+Technology,2023,Qtr 3,September,9,1500.21
+Furniture,2023,Qtr 3,September,10,
+Office Supplies,2023,Qtr 3,September,10,233.368
+Technology,2023,Qtr 3,September,10,15.992
+Furniture,2023,Qtr 3,September,11,279.186
+Office Supplies,2023,Qtr 3,September,11,590.94
+Technology,2023,Qtr 3,September,11,703.968
+Furniture,2023,Qtr 3,September,12,
+Office Supplies,2023,Qtr 3,September,12,442.676
+Technology,2023,Qtr 3,September,12,1079.976
+Furniture,2023,Qtr 3,September,13,354.306
+Office Supplies,2023,Qtr 3,September,13,206.162
+Technology,2023,Qtr 3,September,13,714.94
+Furniture,2023,Qtr 3,September,14,629.78
+Office Supplies,2023,Qtr 3,September,14,1289.016
+Technology,2023,Qtr 3,September,14,3104.92
+Furniture,2023,Qtr 3,September,15,118.496
+Office Supplies,2023,Qtr 3,September,15,14.94
+Technology,2023,Qtr 3,September,15,
+Furniture,2023,Qtr 3,September,16,
+Office Supplies,2023,Qtr 3,September,16,33.552
+Technology,2023,Qtr 3,September,16,
+Furniture,2023,Qtr 3,September,17,35.34
+Office Supplies,2023,Qtr 3,September,17,651.354
+Technology,2023,Qtr 3,September,17,133.829
+Furniture,2023,Qtr 3,September,19,961.018
+Office Supplies,2023,Qtr 3,September,19,172.694
+Technology,2023,Qtr 3,September,19,8204.925
+Furniture,2023,Qtr 3,September,20,3071.64
+Office Supplies,2023,Qtr 3,September,20,213.368
+Technology,2023,Qtr 3,September,20,2050.96
+Furniture,2023,Qtr 3,September,21,8.544
+Office Supplies,2023,Qtr 3,September,21,384.77
+Technology,2023,Qtr 3,September,21,2286.338
+Furniture,2023,Qtr 3,September,22,676.968
+Office Supplies,2023,Qtr 3,September,22,563.298
+Technology,2023,Qtr 3,September,22,
+Furniture,2023,Qtr 3,September,23,435.999
+Office Supplies,2023,Qtr 3,September,23,10142.354
+Technology,2023,Qtr 3,September,23,83.984
+Furniture,2023,Qtr 3,September,24,
+Office Supplies,2023,Qtr 3,September,24,211.96
+Technology,2023,Qtr 3,September,24,
+Furniture,2023,Qtr 3,September,25,300.5328
+Office Supplies,2023,Qtr 3,September,25,54.356
+Technology,2023,Qtr 3,September,25,
+Furniture,2023,Qtr 3,September,26,752.304
+Office Supplies,2023,Qtr 3,September,26,571.334
+Technology,2023,Qtr 3,September,26,156.976
+Furniture,2023,Qtr 3,September,27,691.46
+Office Supplies,2023,Qtr 3,September,27,81.98
+Technology,2023,Qtr 3,September,27,
+Furniture,2023,Qtr 3,September,28,337.088
+Office Supplies,2023,Qtr 3,September,28,153.204
+Technology,2023,Qtr 3,September,28,
+Furniture,2023,Qtr 3,September,29,3153.388
+Office Supplies,2023,Qtr 3,September,29,4269.362
+Technology,2023,Qtr 3,September,29,686.32
+Furniture,2023,Qtr 3,September,30,15.24
+Office Supplies,2023,Qtr 3,September,30,972.292
+Technology,2023,Qtr 3,September,30,
+Furniture,2023,Qtr 4,October,1,51.94
+Office Supplies,2023,Qtr 4,October,1,2.89
+Technology,2023,Qtr 4,October,1,
+Furniture,2023,Qtr 4,October,3,
+Office Supplies,2023,Qtr 4,October,3,741.956
+Technology,2023,Qtr 4,October,3,
+Furniture,2023,Qtr 4,October,5,606.749
+Office Supplies,2023,Qtr 4,October,5,261.45
+Technology,2023,Qtr 4,October,5,1475.6
+Furniture,2023,Qtr 4,October,6,
+Office Supplies,2023,Qtr 4,October,6,491.55
+Technology,2023,Qtr 4,October,6,
+Furniture,2023,Qtr 4,October,9,1741.94
+Office Supplies,2023,Qtr 4,October,9,113.288
+Technology,2023,Qtr 4,October,9,
+Furniture,2023,Qtr 4,October,10,169.224
+Office Supplies,2023,Qtr 4,October,10,302.272
+Technology,2023,Qtr 4,October,10,1577.89
+Furniture,2023,Qtr 4,October,11,657.02
+Office Supplies,2023,Qtr 4,October,11,733.01
+Technology,2023,Qtr 4,October,11,612.526
+Furniture,2023,Qtr 4,October,12,338.352
+Office Supplies,2023,Qtr 4,October,12,234.984
+Technology,2023,Qtr 4,October,12,
+Furniture,2023,Qtr 4,October,13,1544.53
+Office Supplies,2023,Qtr 4,October,13,618.912
+Technology,2023,Qtr 4,October,13,48.74
+Furniture,2023,Qtr 4,October,14,1628.82
+Office Supplies,2023,Qtr 4,October,14,719.704
+Technology,2023,Qtr 4,October,14,2176.96
+Furniture,2023,Qtr 4,October,15,198.756
+Office Supplies,2023,Qtr 4,October,15,7.968
+Technology,2023,Qtr 4,October,15,
+Furniture,2023,Qtr 4,October,16,
+Office Supplies,2023,Qtr 4,October,16,14.352
+Technology,2023,Qtr 4,October,16,179.97
+Furniture,2023,Qtr 4,October,17,5.312
+Office Supplies,2023,Qtr 4,October,17,10.78
+Technology,2023,Qtr 4,October,17,119.976
+Furniture,2023,Qtr 4,October,18,1151.22
+Office Supplies,2023,Qtr 4,October,18,588.746
+Technology,2023,Qtr 4,October,18,1394.95
+Furniture,2023,Qtr 4,October,19,
+Office Supplies,2023,Qtr 4,October,19,201.976
+Technology,2023,Qtr 4,October,19,439.128
+Furniture,2023,Qtr 4,October,20,328.59
+Office Supplies,2023,Qtr 4,October,20,852.546
+Technology,2023,Qtr 4,October,20,319.968
+Furniture,2023,Qtr 4,October,21,1000.91
+Office Supplies,2023,Qtr 4,October,21,355.692
+Technology,2023,Qtr 4,October,21,
+Furniture,2023,Qtr 4,October,22,223.808
+Office Supplies,2023,Qtr 4,October,22,
+Technology,2023,Qtr 4,October,22,
+Furniture,2023,Qtr 4,October,24,
+Office Supplies,2023,Qtr 4,October,24,56.49
+Technology,2023,Qtr 4,October,24,
+Furniture,2023,Qtr 4,October,25,
+Office Supplies,2023,Qtr 4,October,25,63.106
+Technology,2023,Qtr 4,October,25,40.776
+Furniture,2023,Qtr 4,October,26,63.92
+Office Supplies,2023,Qtr 4,October,26,
+Technology,2023,Qtr 4,October,26,383.96
+Furniture,2023,Qtr 4,October,27,
+Office Supplies,2023,Qtr 4,October,27,22.32
+Technology,2023,Qtr 4,October,27,
+Furniture,2023,Qtr 4,October,28,616.998
+Office Supplies,2023,Qtr 4,October,28,635.604
+Technology,2023,Qtr 4,October,28,257.98
+Furniture,2023,Qtr 4,October,29,
+Office Supplies,2023,Qtr 4,October,29,75.88
+Technology,2023,Qtr 4,October,29,2737.932
+Furniture,2023,Qtr 4,October,31,3591.032
+Office Supplies,2023,Qtr 4,October,31,703.164
+Technology,2023,Qtr 4,October,31,1067.83
+Furniture,2023,Qtr 4,November,1,9.94
+Office Supplies,2023,Qtr 4,November,1,
+Technology,2023,Qtr 4,November,1,
+Furniture,2023,Qtr 4,November,2,1650.05
+Office Supplies,2023,Qtr 4,November,2,158.9
+Technology,2023,Qtr 4,November,2,234.45
+Furniture,2023,Qtr 4,November,3,8.32
+Office Supplies,2023,Qtr 4,November,3,289.064
+Technology,2023,Qtr 4,November,3,620.93
+Furniture,2023,Qtr 4,November,4,
+Office Supplies,2023,Qtr 4,November,4,113.944
+Technology,2023,Qtr 4,November,4,1801.296
+Furniture,2023,Qtr 4,November,5,1279.072
+Office Supplies,2023,Qtr 4,November,5,157.962
+Technology,2023,Qtr 4,November,5,205.768
+Furniture,2023,Qtr 4,November,7,979.05
+Office Supplies,2023,Qtr 4,November,7,269.368
+Technology,2023,Qtr 4,November,7,938.788
+Furniture,2023,Qtr 4,November,8,12.35
+Office Supplies,2023,Qtr 4,November,8,439.27
+Technology,2023,Qtr 4,November,8,
+Furniture,2023,Qtr 4,November,9,127.95
+Office Supplies,2023,Qtr 4,November,9,
+Technology,2023,Qtr 4,November,9,
+Furniture,2023,Qtr 4,November,10,505.958
+Office Supplies,2023,Qtr 4,November,10,530.206
+Technology,2023,Qtr 4,November,10,345
+Furniture,2023,Qtr 4,November,11,2071.424
+Office Supplies,2023,Qtr 4,November,11,4415.426
+Technology,2023,Qtr 4,November,11,1627.698
+Furniture,2023,Qtr 4,November,14,69.264
+Office Supplies,2023,Qtr 4,November,14,132.536
+Technology,2023,Qtr 4,November,14,832.93
+Furniture,2023,Qtr 4,November,15,10.11
+Office Supplies,2023,Qtr 4,November,15,998.242
+Technology,2023,Qtr 4,November,15,772.47
+Furniture,2023,Qtr 4,November,16,343.2705
+Office Supplies,2023,Qtr 4,November,16,658.73
+Technology,2023,Qtr 4,November,16,353.928
+Furniture,2023,Qtr 4,November,17,5270.08
+Office Supplies,2023,Qtr 4,November,17,6174.214
+Technology,2023,Qtr 4,November,17,99.98
+Furniture,2023,Qtr 4,November,18,2191.732
+Office Supplies,2023,Qtr 4,November,18,665.571
+Technology,2023,Qtr 4,November,18,549.552
+Furniture,2023,Qtr 4,November,19,1025.88
+Office Supplies,2023,Qtr 4,November,19,639.02
+Technology,2023,Qtr 4,November,19,5561.186
+Furniture,2023,Qtr 4,November,20,
+Office Supplies,2023,Qtr 4,November,20,73.62
+Technology,2023,Qtr 4,November,20,833.94
+Furniture,2023,Qtr 4,November,21,
+Office Supplies,2023,Qtr 4,November,21,849.682
+Technology,2023,Qtr 4,November,21,399.94
+Furniture,2023,Qtr 4,November,22,
+Office Supplies,2023,Qtr 4,November,22,1103.298
+Technology,2023,Qtr 4,November,22,
+Furniture,2023,Qtr 4,November,23,1147.1
+Office Supplies,2023,Qtr 4,November,23,180.646
+Technology,2023,Qtr 4,November,23,35.534
+Furniture,2023,Qtr 4,November,24,1029.808
+Office Supplies,2023,Qtr 4,November,24,1884.662
+Technology,2023,Qtr 4,November,24,2664.136
+Furniture,2023,Qtr 4,November,25,2302.967
+Office Supplies,2023,Qtr 4,November,25,1548.136
+Technology,2023,Qtr 4,November,25,564.592
+Furniture,2023,Qtr 4,November,26,19.3
+Office Supplies,2023,Qtr 4,November,26,968.394
+Technology,2023,Qtr 4,November,26,718.296
+Furniture,2023,Qtr 4,November,27,199.9
+Office Supplies,2023,Qtr 4,November,27,3.76
+Technology,2023,Qtr 4,November,27,
+Furniture,2023,Qtr 4,November,28,808.932
+Office Supplies,2023,Qtr 4,November,28,333.118
+Technology,2023,Qtr 4,November,28,1138.78
+Furniture,2023,Qtr 4,November,29,
+Office Supplies,2023,Qtr 4,November,29,73.124
+Technology,2023,Qtr 4,November,29,575.92
+Furniture,2023,Qtr 4,November,30,
+Office Supplies,2023,Qtr 4,November,30,116.914
+Technology,2023,Qtr 4,November,30,102.24
+Furniture,2023,Qtr 4,December,2,129.568
+Office Supplies,2023,Qtr 4,December,2,
+Technology,2023,Qtr 4,December,2,
+Furniture,2023,Qtr 4,December,4,308.499
+Office Supplies,2023,Qtr 4,December,4,90.168
+Technology,2023,Qtr 4,December,4,1513.456
+Furniture,2023,Qtr 4,December,5,734.846
+Office Supplies,2023,Qtr 4,December,5,
+Technology,2023,Qtr 4,December,5,
+Furniture,2023,Qtr 4,December,7,1333.846
+Office Supplies,2023,Qtr 4,December,7,346.39
+Technology,2023,Qtr 4,December,7,279.776
+Furniture,2023,Qtr 4,December,8,85.44
+Office Supplies,2023,Qtr 4,December,8,509.066
+Technology,2023,Qtr 4,December,8,1237.874
+Furniture,2023,Qtr 4,December,9,3825.852
+Office Supplies,2023,Qtr 4,December,9,936.202
+Technology,2023,Qtr 4,December,9,142.606
+Furniture,2023,Qtr 4,December,10,
+Office Supplies,2023,Qtr 4,December,10,58.53
+Technology,2023,Qtr 4,December,10,
+Furniture,2023,Qtr 4,December,11,722.1852
+Office Supplies,2023,Qtr 4,December,11,125.08
+Technology,2023,Qtr 4,December,11,207.496
+Furniture,2023,Qtr 4,December,12,4695.6005
+Office Supplies,2023,Qtr 4,December,12,242.804
+Technology,2023,Qtr 4,December,12,
+Furniture,2023,Qtr 4,December,13,182.388
+Office Supplies,2023,Qtr 4,December,13,110.764
+Technology,2023,Qtr 4,December,13,
+Furniture,2023,Qtr 4,December,14,322.834
+Office Supplies,2023,Qtr 4,December,14,19.888
+Technology,2023,Qtr 4,December,14,7298.936
+Furniture,2023,Qtr 4,December,15,1223.786
+Office Supplies,2023,Qtr 4,December,15,
+Technology,2023,Qtr 4,December,15,40.68
+Furniture,2023,Qtr 4,December,16,2798.432
+Office Supplies,2023,Qtr 4,December,16,153.639
+Technology,2023,Qtr 4,December,16,1442.116
+Furniture,2023,Qtr 4,December,17,
+Office Supplies,2023,Qtr 4,December,17,45.534
+Technology,2023,Qtr 4,December,17,
+Furniture,2023,Qtr 4,December,19,1819.86
+Office Supplies,2023,Qtr 4,December,19,250.156
+Technology,2023,Qtr 4,December,19,1366.744
+Furniture,2023,Qtr 4,December,20,4039.814
+Office Supplies,2023,Qtr 4,December,20,2337.266
+Technology,2023,Qtr 4,December,20,585.36
+Furniture,2023,Qtr 4,December,21,1897.92
+Office Supplies,2023,Qtr 4,December,21,35.52
+Technology,2023,Qtr 4,December,21,
+Furniture,2023,Qtr 4,December,22,
+Office Supplies,2023,Qtr 4,December,22,798.968
+Technology,2023,Qtr 4,December,22,
+Furniture,2023,Qtr 4,December,23,118.1
+Office Supplies,2023,Qtr 4,December,23,824.008
+Technology,2023,Qtr 4,December,23,
+Furniture,2023,Qtr 4,December,24,346.622
+Office Supplies,2023,Qtr 4,December,24,548.698
+Technology,2023,Qtr 4,December,24,1054.882
+Furniture,2023,Qtr 4,December,26,1353.158
+Office Supplies,2023,Qtr 4,December,26,688.256
+Technology,2023,Qtr 4,December,26,
+Furniture,2023,Qtr 4,December,27,1212.798
+Office Supplies,2023,Qtr 4,December,27,1255.59
+Technology,2023,Qtr 4,December,27,498
+Furniture,2023,Qtr 4,December,28,
+Office Supplies,2023,Qtr 4,December,28,3732.296
+Technology,2023,Qtr 4,December,28,
+Furniture,2023,Qtr 4,December,29,143.172
+Office Supplies,2023,Qtr 4,December,29,505.252
+Technology,2023,Qtr 4,December,29,1423.672
+Furniture,2023,Qtr 4,December,30,523.764
+Office Supplies,2023,Qtr 4,December,30,774.611
+Technology,2023,Qtr 4,December,30,874.276
+Furniture,2023,Qtr 4,December,31,2584.528
+Office Supplies,2023,Qtr 4,December,31,308.728
+Technology,2023,Qtr 4,December,31,2360.014
+Furniture,2024,Qtr 1,January,3,1412.7504
+Office Supplies,2024,Qtr 1,January,3,117.6
+Technology,2024,Qtr 1,January,3,111.824
+Furniture,2024,Qtr 1,January,5,63.552
+Office Supplies,2024,Qtr 1,January,5,298.636
+Technology,2024,Qtr 1,January,5,88.752
+Furniture,2024,Qtr 1,January,6,
+Office Supplies,2024,Qtr 1,January,6,492.318
+Technology,2024,Qtr 1,January,6,341.88
+Furniture,2024,Qtr 1,January,8,1004.976
+Office Supplies,2024,Qtr 1,January,8,6.72
+Technology,2024,Qtr 1,January,8,
+Furniture,2024,Qtr 1,January,9,185.1
+Office Supplies,2024,Qtr 1,January,9,1222.48
+Technology,2024,Qtr 1,January,9,959.984
+Furniture,2024,Qtr 1,January,10,
+Office Supplies,2024,Qtr 1,January,10,164.866
+Technology,2024,Qtr 1,January,10,993.548
+Furniture,2024,Qtr 1,January,11,1094.388
+Office Supplies,2024,Qtr 1,January,11,24.568
+Technology,2024,Qtr 1,January,11,1987.15
+Furniture,2024,Qtr 1,January,12,6600.68
+Office Supplies,2024,Qtr 1,January,12,529.914
+Technology,2024,Qtr 1,January,12,
+Furniture,2024,Qtr 1,January,13,542.45
+Office Supplies,2024,Qtr 1,January,13,79.828
+Technology,2024,Qtr 1,January,13,
+Furniture,2024,Qtr 1,January,17,254.744
+Office Supplies,2024,Qtr 1,January,17,95.64
+Technology,2024,Qtr 1,January,17,
+Furniture,2024,Qtr 1,January,19,301.742
+Office Supplies,2024,Qtr 1,January,19,
+Technology,2024,Qtr 1,January,19,
+Furniture,2024,Qtr 1,January,23,
+Office Supplies,2024,Qtr 1,January,23,43.66
+Technology,2024,Qtr 1,January,23,
+Furniture,2024,Qtr 1,January,24,
+Office Supplies,2024,Qtr 1,January,24,13.12
+Technology,2024,Qtr 1,January,24,
+Furniture,2024,Qtr 1,January,26,
+Office Supplies,2024,Qtr 1,January,26,182.72
+Technology,2024,Qtr 1,January,26,
+Furniture,2024,Qtr 1,January,27,2985.906
+Office Supplies,2024,Qtr 1,January,27,
+Technology,2024,Qtr 1,January,27,587.346
+Furniture,2024,Qtr 1,January,28,4297.644
+Office Supplies,2024,Qtr 1,January,28,
+Technology,2024,Qtr 1,January,28,
+Furniture,2024,Qtr 1,January,30,227.36
+Office Supplies,2024,Qtr 1,January,30,14.304
+Technology,2024,Qtr 1,January,30,1919.976
+Furniture,2024,Qtr 1,January,31,53.34
+Office Supplies,2024,Qtr 1,January,31,45.92
+Technology,2024,Qtr 1,January,31,
+Furniture,2024,Qtr 1,February,1,452.45
+Office Supplies,2024,Qtr 1,February,1,139.08
+Technology,2024,Qtr 1,February,1,1340.566
+Furniture,2024,Qtr 1,February,3,787.53
+Office Supplies,2024,Qtr 1,February,3,112.04
+Technology,2024,Qtr 1,February,3,
+Furniture,2024,Qtr 1,February,4,
+Office Supplies,2024,Qtr 1,February,4,41.348
+Technology,2024,Qtr 1,February,4,257.872
+Furniture,2024,Qtr 1,February,5,
+Office Supplies,2024,Qtr 1,February,5,8.856
+Technology,2024,Qtr 1,February,5,158.376
+Furniture,2024,Qtr 1,February,7,950.378
+Office Supplies,2024,Qtr 1,February,7,607.284
+Technology,2024,Qtr 1,February,7,74.24
+Furniture,2024,Qtr 1,February,8,388.48
+Office Supplies,2024,Qtr 1,February,8,14.768
+Technology,2024,Qtr 1,February,8,887.23
+Furniture,2024,Qtr 1,February,10,11.032
+Office Supplies,2024,Qtr 1,February,10,611.234
+Technology,2024,Qtr 1,February,10,647
+Furniture,2024,Qtr 1,February,11,4379.385
+Office Supplies,2024,Qtr 1,February,11,356.532
+Technology,2024,Qtr 1,February,11,792.634
+Furniture,2024,Qtr 1,February,14,
+Office Supplies,2024,Qtr 1,February,14,58.014
+Technology,2024,Qtr 1,February,14,1021.948
+Furniture,2024,Qtr 1,February,15,
+Office Supplies,2024,Qtr 1,February,15,627.48
+Technology,2024,Qtr 1,February,15,974.9
+Furniture,2024,Qtr 1,February,16,
+Office Supplies,2024,Qtr 1,February,16,160.43
+Technology,2024,Qtr 1,February,16,
+Furniture,2024,Qtr 1,February,18,35.544
+Office Supplies,2024,Qtr 1,February,18,70.3
+Technology,2024,Qtr 1,February,18,
+Furniture,2024,Qtr 1,February,20,
+Office Supplies,2024,Qtr 1,February,20,286.79
+Technology,2024,Qtr 1,February,20,29.99
+Furniture,2024,Qtr 1,February,21,
+Office Supplies,2024,Qtr 1,February,21,2591.1
+Technology,2024,Qtr 1,February,21,
+Furniture,2024,Qtr 1,February,22,
+Office Supplies,2024,Qtr 1,February,22,79.36
+Technology,2024,Qtr 1,February,22,
+Furniture,2024,Qtr 1,February,23,
+Office Supplies,2024,Qtr 1,February,23,37.776
+Technology,2024,Qtr 1,February,23,
+Furniture,2024,Qtr 1,February,25,
+Office Supplies,2024,Qtr 1,February,25,25.87
+Technology,2024,Qtr 1,February,25,
+Furniture,2024,Qtr 1,February,27,493.92
+Office Supplies,2024,Qtr 1,February,27,20.451
+Technology,2024,Qtr 1,February,27,644.9
+Furniture,2024,Qtr 1,February,28,551.264
+Office Supplies,2024,Qtr 1,February,28,
+Technology,2024,Qtr 1,February,28,
+Furniture,2024,Qtr 1,March,1,1352.3976
+Office Supplies,2024,Qtr 1,March,1,17.424
+Technology,2024,Qtr 1,March,1,398.4
+Furniture,2024,Qtr 1,March,2,256.202
+Office Supplies,2024,Qtr 1,March,2,86.664
+Technology,2024,Qtr 1,March,2,149.97
+Furniture,2024,Qtr 1,March,5,1509.996
+Office Supplies,2024,Qtr 1,March,5,321.252
+Technology,2024,Qtr 1,March,5,367.512
+Furniture,2024,Qtr 1,March,7,522.332
+Office Supplies,2024,Qtr 1,March,7,301.65
+Technology,2024,Qtr 1,March,7,
+Furniture,2024,Qtr 1,March,9,367.72
+Office Supplies,2024,Qtr 1,March,9,1259.338
+Technology,2024,Qtr 1,March,9,247.84
+Furniture,2024,Qtr 1,March,10,156.156
+Office Supplies,2024,Qtr 1,March,10,47.078
+Technology,2024,Qtr 1,March,10,71.984
+Furniture,2024,Qtr 1,March,11,1491.42
+Office Supplies,2024,Qtr 1,March,11,6.608
+Technology,2024,Qtr 1,March,11,1302.818
+Furniture,2024,Qtr 1,March,12,440.411
+Office Supplies,2024,Qtr 1,March,12,907.526
+Technology,2024,Qtr 1,March,12,624.708
+Furniture,2024,Qtr 1,March,13,1384.856
+Office Supplies,2024,Qtr 1,March,13,
+Technology,2024,Qtr 1,March,13,
+Furniture,2024,Qtr 1,March,14,
+Office Supplies,2024,Qtr 1,March,14,707.9
+Technology,2024,Qtr 1,March,14,
+Furniture,2024,Qtr 1,March,15,
+Office Supplies,2024,Qtr 1,March,15,
+Technology,2024,Qtr 1,March,15,16.776
+Furniture,2024,Qtr 1,March,16,215.09
+Office Supplies,2024,Qtr 1,March,16,6929.22
+Technology,2024,Qtr 1,March,16,85.9
+Furniture,2024,Qtr 1,March,17,
+Office Supplies,2024,Qtr 1,March,17,33.82
+Technology,2024,Qtr 1,March,17,15.02
+Furniture,2024,Qtr 1,March,19,383.4656
+Office Supplies,2024,Qtr 1,March,19,1665.968
+Technology,2024,Qtr 1,March,19,3603.506
+Furniture,2024,Qtr 1,March,20,
+Office Supplies,2024,Qtr 1,March,20,1348.214
+Technology,2024,Qtr 1,March,20,199.98
+Furniture,2024,Qtr 1,March,21,
+Office Supplies,2024,Qtr 1,March,21,1270.379
+Technology,2024,Qtr 1,March,21,
+Furniture,2024,Qtr 1,March,22,91.96
+Office Supplies,2024,Qtr 1,March,22,419.168
+Technology,2024,Qtr 1,March,22,1970.296
+Furniture,2024,Qtr 1,March,23,107.772
+Office Supplies,2024,Qtr 1,March,23,285.56
+Technology,2024,Qtr 1,March,23,239.97
+Furniture,2024,Qtr 1,March,24,405.958
+Office Supplies,2024,Qtr 1,March,24,6.992
+Technology,2024,Qtr 1,March,24,
+Furniture,2024,Qtr 1,March,26,3393.68
+Office Supplies,2024,Qtr 1,March,26,1212.914
+Technology,2024,Qtr 1,March,26,16.776
+Furniture,2024,Qtr 1,March,27,
+Office Supplies,2024,Qtr 1,March,27,83.7
+Technology,2024,Qtr 1,March,27,
+Furniture,2024,Qtr 1,March,28,
+Office Supplies,2024,Qtr 1,March,28,77.104
+Technology,2024,Qtr 1,March,28,166.24
+Furniture,2024,Qtr 1,March,29,1186.84
+Office Supplies,2024,Qtr 1,March,29,318.99
+Technology,2024,Qtr 1,March,29,53.25
+Furniture,2024,Qtr 1,March,30,366.744
+Office Supplies,2024,Qtr 1,March,30,23.52
+Technology,2024,Qtr 1,March,30,180.96
+Furniture,2024,Qtr 1,March,31,22.38
+Office Supplies,2024,Qtr 1,March,31,98.376
+Technology,2024,Qtr 1,March,31,79.96
+Furniture,2024,Qtr 2,April,1,192.22
+Office Supplies,2024,Qtr 2,April,1,72.24
+Technology,2024,Qtr 2,April,1,
+Furniture,2024,Qtr 2,April,4,108.4
+Office Supplies,2024,Qtr 2,April,4,765.268
+Technology,2024,Qtr 2,April,4,610.93
+Furniture,2024,Qtr 2,April,5,49.088
+Office Supplies,2024,Qtr 2,April,5,125.93
+Technology,2024,Qtr 2,April,5,946.344
+Furniture,2024,Qtr 2,April,6,35.28
+Office Supplies,2024,Qtr 2,April,6,47.08
+Technology,2024,Qtr 2,April,6,1109.95
+Furniture,2024,Qtr 2,April,7,
+Office Supplies,2024,Qtr 2,April,7,38.328
+Technology,2024,Qtr 2,April,7,1099.96
+Furniture,2024,Qtr 2,April,9,
+Office Supplies,2024,Qtr 2,April,9,316.958
+Technology,2024,Qtr 2,April,9,754.326
+Furniture,2024,Qtr 2,April,10,457.884
+Office Supplies,2024,Qtr 2,April,10,47.696
+Technology,2024,Qtr 2,April,10,
+Furniture,2024,Qtr 2,April,12,1200.268
+Office Supplies,2024,Qtr 2,April,12,2035.484
+Technology,2024,Qtr 2,April,12,1950.062
+Furniture,2024,Qtr 2,April,13,1811.432
+Office Supplies,2024,Qtr 2,April,13,202.814
+Technology,2024,Qtr 2,April,13,1178.432
+Furniture,2024,Qtr 2,April,14,
+Office Supplies,2024,Qtr 2,April,14,35.208
+Technology,2024,Qtr 2,April,14,
+Furniture,2024,Qtr 2,April,16,1847.884
+Office Supplies,2024,Qtr 2,April,16,142.138
+Technology,2024,Qtr 2,April,16,2171.95
+Furniture,2024,Qtr 2,April,17,
+Office Supplies,2024,Qtr 2,April,17,1538.176
+Technology,2024,Qtr 2,April,17,1206.93
+Furniture,2024,Qtr 2,April,18,152.836
+Office Supplies,2024,Qtr 2,April,18,1363.464
+Technology,2024,Qtr 2,April,18,490.66
+Furniture,2024,Qtr 2,April,19,
+Office Supplies,2024,Qtr 2,April,19,329.96
+Technology,2024,Qtr 2,April,19,
+Furniture,2024,Qtr 2,April,20,595.38
+Office Supplies,2024,Qtr 2,April,20,311.376
+Technology,2024,Qtr 2,April,20,287.97
+Furniture,2024,Qtr 2,April,21,401.84
+Office Supplies,2024,Qtr 2,April,21,21.3
+Technology,2024,Qtr 2,April,21,469.95
+Furniture,2024,Qtr 2,April,22,
+Office Supplies,2024,Qtr 2,April,22,64.14
+Technology,2024,Qtr 2,April,22,88.776
+Furniture,2024,Qtr 2,April,24,
+Office Supplies,2024,Qtr 2,April,24,25.99
+Technology,2024,Qtr 2,April,24,
+Furniture,2024,Qtr 2,April,25,128.058
+Office Supplies,2024,Qtr 2,April,25,792.888
+Technology,2024,Qtr 2,April,25,
+Furniture,2024,Qtr 2,April,26,1592.8495
+Office Supplies,2024,Qtr 2,April,26,185.28
+Technology,2024,Qtr 2,April,26,311.976
+Furniture,2024,Qtr 2,April,27,1267.53
+Office Supplies,2024,Qtr 2,April,27,72.14
+Technology,2024,Qtr 2,April,27,1379.92
+Furniture,2024,Qtr 2,April,28,
+Office Supplies,2024,Qtr 2,April,28,4044.362
+Technology,2024,Qtr 2,April,28,
+Furniture,2024,Qtr 2,April,29,
+Office Supplies,2024,Qtr 2,April,29,7.968
+Technology,2024,Qtr 2,April,29,
+Furniture,2024,Qtr 2,April,30,278.295
+Office Supplies,2024,Qtr 2,April,30,41.13
+Technology,2024,Qtr 2,April,30,1252.27
+Furniture,2024,Qtr 2,May,1,61.584
+Office Supplies,2024,Qtr 2,May,1,233.688
+Technology,2024,Qtr 2,May,1,
+Furniture,2024,Qtr 2,May,3,521.259
+Office Supplies,2024,Qtr 2,May,3,915.698
+Technology,2024,Qtr 2,May,3,532.31
+Furniture,2024,Qtr 2,May,4,1799.394
+Office Supplies,2024,Qtr 2,May,4,877.886
+Technology,2024,Qtr 2,May,4,296.778
+Furniture,2024,Qtr 2,May,6,1522.638
+Office Supplies,2024,Qtr 2,May,6,10.56
+Technology,2024,Qtr 2,May,6,
+Furniture,2024,Qtr 2,May,7,9.856
+Office Supplies,2024,Qtr 2,May,7,76.99
+Technology,2024,Qtr 2,May,7,34.8
+Furniture,2024,Qtr 2,May,8,14.76
+Office Supplies,2024,Qtr 2,May,8,57.89
+Technology,2024,Qtr 2,May,8,
+Furniture,2024,Qtr 2,May,9,778.651
+Office Supplies,2024,Qtr 2,May,9,155.452
+Technology,2024,Qtr 2,May,9,
+Furniture,2024,Qtr 2,May,10,357.462
+Office Supplies,2024,Qtr 2,May,10,152.59
+Technology,2024,Qtr 2,May,10,341.04
+Furniture,2024,Qtr 2,May,11,207
+Office Supplies,2024,Qtr 2,May,11,627.874
+Technology,2024,Qtr 2,May,11,
+Furniture,2024,Qtr 2,May,12,306.53
+Office Supplies,2024,Qtr 2,May,12,503.808
+Technology,2024,Qtr 2,May,12,86.984
+Furniture,2024,Qtr 2,May,13,
+Office Supplies,2024,Qtr 2,May,13,16
+Technology,2024,Qtr 2,May,13,222.384
+Furniture,2024,Qtr 2,May,14,1452.7875
+Office Supplies,2024,Qtr 2,May,14,1688.412
+Technology,2024,Qtr 2,May,14,
+Furniture,2024,Qtr 2,May,15,
+Office Supplies,2024,Qtr 2,May,15,69.908
+Technology,2024,Qtr 2,May,15,
+Furniture,2024,Qtr 2,May,16,
+Office Supplies,2024,Qtr 2,May,16,
+Technology,2024,Qtr 2,May,16,255.968
+Furniture,2024,Qtr 2,May,17,
+Office Supplies,2024,Qtr 2,May,17,134.468
+Technology,2024,Qtr 2,May,17,
+Furniture,2024,Qtr 2,May,18,
+Office Supplies,2024,Qtr 2,May,18,10.86
+Technology,2024,Qtr 2,May,18,
+Furniture,2024,Qtr 2,May,20,163.136
+Office Supplies,2024,Qtr 2,May,20,6.408
+Technology,2024,Qtr 2,May,20,
+Furniture,2024,Qtr 2,May,21,
+Office Supplies,2024,Qtr 2,May,21,72.332
+Technology,2024,Qtr 2,May,21,
+Furniture,2024,Qtr 2,May,22,
+Office Supplies,2024,Qtr 2,May,22,113.05
+Technology,2024,Qtr 2,May,22,3749.048
+Furniture,2024,Qtr 2,May,23,75.33
+Office Supplies,2024,Qtr 2,May,23,1229.626
+Technology,2024,Qtr 2,May,23,
+Furniture,2024,Qtr 2,May,24,602.651
+Office Supplies,2024,Qtr 2,May,24,7.656
+Technology,2024,Qtr 2,May,24,
+Furniture,2024,Qtr 2,May,25,14.73
+Office Supplies,2024,Qtr 2,May,25,1049.664
+Technology,2024,Qtr 2,May,25,675.024
+Furniture,2024,Qtr 2,May,26,230.856
+Office Supplies,2024,Qtr 2,May,26,184.224
+Technology,2024,Qtr 2,May,26,567.484
+Furniture,2024,Qtr 2,May,28,
+Office Supplies,2024,Qtr 2,May,28,748.156
+Technology,2024,Qtr 2,May,28,45.99
+Furniture,2024,Qtr 2,May,29,358.626
+Office Supplies,2024,Qtr 2,May,29,846.216
+Technology,2024,Qtr 2,May,29,
+Furniture,2024,Qtr 2,May,30,
+Office Supplies,2024,Qtr 2,May,30,160.32
+Technology,2024,Qtr 2,May,30,520.78
+Furniture,2024,Qtr 2,May,31,4056.74
+Office Supplies,2024,Qtr 2,May,31,1121.398
+Technology,2024,Qtr 2,May,31,
+Furniture,2024,Qtr 2,June,1,
+Office Supplies,2024,Qtr 2,June,1,31.538
+Technology,2024,Qtr 2,June,1,
+Furniture,2024,Qtr 2,June,2,1552.74
+Office Supplies,2024,Qtr 2,June,2,861.276
+Technology,2024,Qtr 2,June,2,18.528
+Furniture,2024,Qtr 2,June,3,435.26
+Office Supplies,2024,Qtr 2,June,3,
+Technology,2024,Qtr 2,June,3,1119.984
+Furniture,2024,Qtr 2,June,4,
+Office Supplies,2024,Qtr 2,June,4,114.516
+Technology,2024,Qtr 2,June,4,25.488
+Furniture,2024,Qtr 2,June,7,642.092
+Office Supplies,2024,Qtr 2,June,7,612.77
+Technology,2024,Qtr 2,June,7,124.95
+Furniture,2024,Qtr 2,June,8,369.1992
+Office Supplies,2024,Qtr 2,June,8,125.67
+Technology,2024,Qtr 2,June,8,
+Furniture,2024,Qtr 2,June,9,549.564
+Office Supplies,2024,Qtr 2,June,9,71.79
+Technology,2024,Qtr 2,June,9,384.3
+Furniture,2024,Qtr 2,June,11,
+Office Supplies,2024,Qtr 2,June,11,11.481
+Technology,2024,Qtr 2,June,11,
+Furniture,2024,Qtr 2,June,12,390.718
+Office Supplies,2024,Qtr 2,June,12,2171.83
+Technology,2024,Qtr 2,June,12,3498.954
+Furniture,2024,Qtr 2,June,13,
+Office Supplies,2024,Qtr 2,June,13,160.948
+Technology,2024,Qtr 2,June,13,967.95
+Furniture,2024,Qtr 2,June,14,51.072
+Office Supplies,2024,Qtr 2,June,14,
+Technology,2024,Qtr 2,June,14,
+Furniture,2024,Qtr 2,June,15,404.96
+Office Supplies,2024,Qtr 2,June,15,91.936
+Technology,2024,Qtr 2,June,15,237.248
+Furniture,2024,Qtr 2,June,16,197.372
+Office Supplies,2024,Qtr 2,June,16,3112.552
+Technology,2024,Qtr 2,June,16,133.98
+Furniture,2024,Qtr 2,June,18,779.336
+Office Supplies,2024,Qtr 2,June,18,635.781
+Technology,2024,Qtr 2,June,18,467.97
+Furniture,2024,Qtr 2,June,19,12.56
+Office Supplies,2024,Qtr 2,June,19,433.786
+Technology,2024,Qtr 2,June,19,
+Furniture,2024,Qtr 2,June,20,257.64
+Office Supplies,2024,Qtr 2,June,20,
+Technology,2024,Qtr 2,June,20,571.904
+Furniture,2024,Qtr 2,June,21,
+Office Supplies,2024,Qtr 2,June,21,
+Technology,2024,Qtr 2,June,21,107.976
+Furniture,2024,Qtr 2,June,22,796.425
+Office Supplies,2024,Qtr 2,June,22,1222.528
+Technology,2024,Qtr 2,June,22,
+Furniture,2024,Qtr 2,June,23,27.42
+Office Supplies,2024,Qtr 2,June,23,171.41
+Technology,2024,Qtr 2,June,23,638.128
+Furniture,2024,Qtr 2,June,25,280.234
+Office Supplies,2024,Qtr 2,June,25,576.846
+Technology,2024,Qtr 2,June,25,
+Furniture,2024,Qtr 2,June,26,332.94
+Office Supplies,2024,Qtr 2,June,26,245.476
+Technology,2024,Qtr 2,June,26,1013.78
+Furniture,2024,Qtr 2,June,28,1104.7
+Office Supplies,2024,Qtr 2,June,28,281.766
+Technology,2024,Qtr 2,June,28,
+Furniture,2024,Qtr 2,June,29,137.986
+Office Supplies,2024,Qtr 2,June,29,24.96
+Technology,2024,Qtr 2,June,29,269.98
+Furniture,2024,Qtr 3,July,2,
+Office Supplies,2024,Qtr 3,July,2,324.11
+Technology,2024,Qtr 3,July,2,
+Furniture,2024,Qtr 3,July,3,
+Office Supplies,2024,Qtr 3,July,3,99.72
+Technology,2024,Qtr 3,July,3,707.82
+Furniture,2024,Qtr 3,July,4,
+Office Supplies,2024,Qtr 3,July,4,523.484
+Technology,2024,Qtr 3,July,4,383.952
+Furniture,2024,Qtr 3,July,5,244.006
+Office Supplies,2024,Qtr 3,July,5,61.616
+Technology,2024,Qtr 3,July,5,
+Furniture,2024,Qtr 3,July,6,
+Office Supplies,2024,Qtr 3,July,6,59.768
+Technology,2024,Qtr 3,July,6,
+Furniture,2024,Qtr 3,July,8,212.94
+Office Supplies,2024,Qtr 3,July,8,260.296
+Technology,2024,Qtr 3,July,8,494.97
+Furniture,2024,Qtr 3,July,9,556.106
+Office Supplies,2024,Qtr 3,July,9,924.667
+Technology,2024,Qtr 3,July,9,1441.894
+Furniture,2024,Qtr 3,July,11,970.88
+Office Supplies,2024,Qtr 3,July,11,1814.283
+Technology,2024,Qtr 3,July,11,287.91
+Furniture,2024,Qtr 3,July,12,363.84
+Office Supplies,2024,Qtr 3,July,12,200.518
+Technology,2024,Qtr 3,July,12,773.94
+Furniture,2024,Qtr 3,July,13,1931.04
+Office Supplies,2024,Qtr 3,July,13,102.216
+Technology,2024,Qtr 3,July,13,
+Furniture,2024,Qtr 3,July,14,569.684
+Office Supplies,2024,Qtr 3,July,14,291.232
+Technology,2024,Qtr 3,July,14,
+Furniture,2024,Qtr 3,July,16,2199.836
+Office Supplies,2024,Qtr 3,July,16,229.65
+Technology,2024,Qtr 3,July,16,599.9
+Furniture,2024,Qtr 3,July,17,427.386
+Office Supplies,2024,Qtr 3,July,17,20.696
+Technology,2024,Qtr 3,July,17,
+Furniture,2024,Qtr 3,July,18,7.38
+Office Supplies,2024,Qtr 3,July,18,9.088
+Technology,2024,Qtr 3,July,18,655.95
+Furniture,2024,Qtr 3,July,19,
+Office Supplies,2024,Qtr 3,July,19,2.025
+Technology,2024,Qtr 3,July,19,
+Furniture,2024,Qtr 3,July,20,1298.374
+Office Supplies,2024,Qtr 3,July,20,410.01
+Technology,2024,Qtr 3,July,20,984.784
+Furniture,2024,Qtr 3,July,23,128.82
+Office Supplies,2024,Qtr 3,July,23,79.452
+Technology,2024,Qtr 3,July,23,
+Furniture,2024,Qtr 3,July,24,20.94
+Office Supplies,2024,Qtr 3,July,24,225.15
+Technology,2024,Qtr 3,July,24,279.86
+Furniture,2024,Qtr 3,July,25,1625.048
+Office Supplies,2024,Qtr 3,July,25,146.016
+Technology,2024,Qtr 3,July,25,623.96
+Furniture,2024,Qtr 3,July,26,659.517
+Office Supplies,2024,Qtr 3,July,26,309.708
+Technology,2024,Qtr 3,July,26,
+Furniture,2024,Qtr 3,July,27,
+Office Supplies,2024,Qtr 3,July,27,
+Technology,2024,Qtr 3,July,27,29.97
+Furniture,2024,Qtr 3,July,30,161.16
+Office Supplies,2024,Qtr 3,July,30,72.712
+Technology,2024,Qtr 3,July,30,209.93
+Furniture,2024,Qtr 3,July,31,1090.782
+Office Supplies,2024,Qtr 3,July,31,72.03
+Technology,2024,Qtr 3,July,31,2549.35
+Furniture,2024,Qtr 3,August,2,
+Office Supplies,2024,Qtr 3,August,2,21.11
+Technology,2024,Qtr 3,August,2,107.982
+Furniture,2024,Qtr 3,August,3,1746.95
+Office Supplies,2024,Qtr 3,August,3,46.396
+Technology,2024,Qtr 3,August,3,769.95
+Furniture,2024,Qtr 3,August,5,339.516
+Office Supplies,2024,Qtr 3,August,5,464.538
+Technology,2024,Qtr 3,August,5,3177.914
+Furniture,2024,Qtr 3,August,6,173.208
+Office Supplies,2024,Qtr 3,August,6,907.528
+Technology,2024,Qtr 3,August,6,2.376
+Furniture,2024,Qtr 3,August,7,
+Office Supplies,2024,Qtr 3,August,7,21.12
+Technology,2024,Qtr 3,August,7,
+Furniture,2024,Qtr 3,August,8,144.784
+Office Supplies,2024,Qtr 3,August,8,615.328
+Technology,2024,Qtr 3,August,8,79.99
+Furniture,2024,Qtr 3,August,9,21.36
+Office Supplies,2024,Qtr 3,August,9,68.28
+Technology,2024,Qtr 3,August,9,
+Furniture,2024,Qtr 3,August,10,218.68
+Office Supplies,2024,Qtr 3,August,10,3.44
+Technology,2024,Qtr 3,August,10,
+Furniture,2024,Qtr 3,August,11,5252.426
+Office Supplies,2024,Qtr 3,August,11,768.761
+Technology,2024,Qtr 3,August,11,6175.81
+Furniture,2024,Qtr 3,August,12,
+Office Supplies,2024,Qtr 3,August,12,598.368
+Technology,2024,Qtr 3,August,12,2074.36
+Furniture,2024,Qtr 3,August,13,31.56
+Office Supplies,2024,Qtr 3,August,13,555.336
+Technology,2024,Qtr 3,August,13,
+Furniture,2024,Qtr 3,August,15,104.23
+Office Supplies,2024,Qtr 3,August,15,393.36
+Technology,2024,Qtr 3,August,15,
+Furniture,2024,Qtr 3,August,16,555.822
+Office Supplies,2024,Qtr 3,August,16,392.182
+Technology,2024,Qtr 3,August,16,2430.928
+Furniture,2024,Qtr 3,August,17,
+Office Supplies,2024,Qtr 3,August,17,98.76
+Technology,2024,Qtr 3,August,17,282.88
+Furniture,2024,Qtr 3,August,21,1754.848
+Office Supplies,2024,Qtr 3,August,21,1050.944
+Technology,2024,Qtr 3,August,21,21.728
+Furniture,2024,Qtr 3,August,22,
+Office Supplies,2024,Qtr 3,August,22,66.632
+Technology,2024,Qtr 3,August,22,
+Furniture,2024,Qtr 3,August,23,
+Office Supplies,2024,Qtr 3,August,23,950.368
+Technology,2024,Qtr 3,August,23,251.91
+Furniture,2024,Qtr 3,August,24,1218.059
+Office Supplies,2024,Qtr 3,August,24,2175.804
+Technology,2024,Qtr 3,August,24,3800.912
+Furniture,2024,Qtr 3,August,25,68.768
+Office Supplies,2024,Qtr 3,August,25,109.758
+Technology,2024,Qtr 3,August,25,
+Furniture,2024,Qtr 3,August,27,
+Office Supplies,2024,Qtr 3,August,27,639.974
+Technology,2024,Qtr 3,August,27,
+Furniture,2024,Qtr 3,August,28,415.307
+Office Supplies,2024,Qtr 3,August,28,2132.89
+Technology,2024,Qtr 3,August,28,3943.096
+Furniture,2024,Qtr 3,August,29,
+Office Supplies,2024,Qtr 3,August,29,
+Technology,2024,Qtr 3,August,29,246.5
+Furniture,2024,Qtr 3,August,31,1552.831
+Office Supplies,2024,Qtr 3,August,31,216.52
+Technology,2024,Qtr 3,August,31,832.446
+Furniture,2024,Qtr 3,September,1,
+Office Supplies,2024,Qtr 3,September,1,364.07
+Technology,2024,Qtr 3,September,1,
+Furniture,2024,Qtr 3,September,2,244.704
+Office Supplies,2024,Qtr 3,September,2,40.096
+Technology,2024,Qtr 3,September,2,500.752
+Furniture,2024,Qtr 3,September,3,
+Office Supplies,2024,Qtr 3,September,3,4.608
+Technology,2024,Qtr 3,September,3,473.4
+Furniture,2024,Qtr 3,September,4,369.912
+Office Supplies,2024,Qtr 3,September,4,388.08
+Technology,2024,Qtr 3,September,4,
+Furniture,2024,Qtr 3,September,5,
+Office Supplies,2024,Qtr 3,September,5,48.81
+Technology,2024,Qtr 3,September,5,
+Furniture,2024,Qtr 3,September,6,355.36
+Office Supplies,2024,Qtr 3,September,6,228.78
+Technology,2024,Qtr 3,September,6,212.976
+Furniture,2024,Qtr 3,September,7,181.96
+Office Supplies,2024,Qtr 3,September,7,670.202
+Technology,2024,Qtr 3,September,7,734.952
+Furniture,2024,Qtr 3,September,8,1755.876
+Office Supplies,2024,Qtr 3,September,8,1586.786
+Technology,2024,Qtr 3,September,8,1535.73
+Furniture,2024,Qtr 3,September,10,389.97
+Office Supplies,2024,Qtr 3,September,10,462.495
+Technology,2024,Qtr 3,September,10,1281.07
+Furniture,2024,Qtr 3,September,11,1024.38
+Office Supplies,2024,Qtr 3,September,11,360.082
+Technology,2024,Qtr 3,September,11,3235.83
+Furniture,2024,Qtr 3,September,12,
+Office Supplies,2024,Qtr 3,September,12,34.02
+Technology,2024,Qtr 3,September,12,
+Furniture,2024,Qtr 3,September,13,2917.822
+Office Supplies,2024,Qtr 3,September,13,327.99
+Technology,2024,Qtr 3,September,13,199.96
+Furniture,2024,Qtr 3,September,14,1082.886
+Office Supplies,2024,Qtr 3,September,14,1299.55
+Technology,2024,Qtr 3,September,14,879.984
+Furniture,2024,Qtr 3,September,15,1976.884
+Office Supplies,2024,Qtr 3,September,15,498.996
+Technology,2024,Qtr 3,September,15,59.97
+Furniture,2024,Qtr 3,September,16,
+Office Supplies,2024,Qtr 3,September,16,31.12
+Technology,2024,Qtr 3,September,16,
+Furniture,2024,Qtr 3,September,17,10006.174
+Office Supplies,2024,Qtr 3,September,17,493.994
+Technology,2024,Qtr 3,September,17,1024.838
+Furniture,2024,Qtr 3,September,18,24.4
+Office Supplies,2024,Qtr 3,September,18,1422.88
+Technology,2024,Qtr 3,September,18,2477.04
+Furniture,2024,Qtr 3,September,19,122.8
+Office Supplies,2024,Qtr 3,September,19,31.36
+Technology,2024,Qtr 3,September,19,346.22
+Furniture,2024,Qtr 3,September,20,
+Office Supplies,2024,Qtr 3,September,20,1836.052
+Technology,2024,Qtr 3,September,20,
+Furniture,2024,Qtr 3,September,21,3119.064
+Office Supplies,2024,Qtr 3,September,21,1431.87
+Technology,2024,Qtr 3,September,21,2431.124
+Furniture,2024,Qtr 3,September,22,252.58
+Office Supplies,2024,Qtr 3,September,22,912.948
+Technology,2024,Qtr 3,September,22,617.976
+Furniture,2024,Qtr 3,September,24,1940.51
+Office Supplies,2024,Qtr 3,September,24,1399.824
+Technology,2024,Qtr 3,September,24,880.26
+Furniture,2024,Qtr 3,September,25,1454.348
+Office Supplies,2024,Qtr 3,September,25,350.579
+Technology,2024,Qtr 3,September,25,1228.83
+Furniture,2024,Qtr 3,September,26,
+Office Supplies,2024,Qtr 3,September,26,1378.289
+Technology,2024,Qtr 3,September,26,2343.984
+Furniture,2024,Qtr 3,September,27,24.288
+Office Supplies,2024,Qtr 3,September,27,486.79
+Technology,2024,Qtr 3,September,27,1871.88
+Furniture,2024,Qtr 3,September,28,
+Office Supplies,2024,Qtr 3,September,28,713.6
+Technology,2024,Qtr 3,September,28,344.764
+Furniture,2024,Qtr 4,October,1,1018.104
+Office Supplies,2024,Qtr 4,October,1,
+Technology,2024,Qtr 4,October,1,
+Furniture,2024,Qtr 4,October,2,
+Office Supplies,2024,Qtr 4,October,2,77.24
+Technology,2024,Qtr 4,October,2,
+Furniture,2024,Qtr 4,October,3,
+Office Supplies,2024,Qtr 4,October,3,90.932
+Technology,2024,Qtr 4,October,3,
+Furniture,2024,Qtr 4,October,4,
+Office Supplies,2024,Qtr 4,October,4,169.542
+Technology,2024,Qtr 4,October,4,
+Furniture,2024,Qtr 4,October,5,
+Office Supplies,2024,Qtr 4,October,5,107.754
+Technology,2024,Qtr 4,October,5,46.688
+Furniture,2024,Qtr 4,October,7,
+Office Supplies,2024,Qtr 4,October,7,43.286
+Technology,2024,Qtr 4,October,7,
+Furniture,2024,Qtr 4,October,8,
+Office Supplies,2024,Qtr 4,October,8,273.162
+Technology,2024,Qtr 4,October,8,578.312
+Furniture,2024,Qtr 4,October,9,648.526
+Office Supplies,2024,Qtr 4,October,9,767.2
+Technology,2024,Qtr 4,October,9,
+Furniture,2024,Qtr 4,October,10,362.136
+Office Supplies,2024,Qtr 4,October,10,1886.058
+Technology,2024,Qtr 4,October,10,
+Furniture,2024,Qtr 4,October,11,29.22
+Office Supplies,2024,Qtr 4,October,11,2877.794
+Technology,2024,Qtr 4,October,11,629.89
+Furniture,2024,Qtr 4,October,12,1536.86
+Office Supplies,2024,Qtr 4,October,12,481.118
+Technology,2024,Qtr 4,October,12,1062.402
+Furniture,2024,Qtr 4,October,13,287.94
+Office Supplies,2024,Qtr 4,October,13,
+Technology,2024,Qtr 4,October,13,83.72
+Furniture,2024,Qtr 4,October,15,2601.946
+Office Supplies,2024,Qtr 4,October,15,13.768
+Technology,2024,Qtr 4,October,15,603.84
+Furniture,2024,Qtr 4,October,16,
+Office Supplies,2024,Qtr 4,October,16,
+Technology,2024,Qtr 4,October,16,824.97
+Furniture,2024,Qtr 4,October,17,
+Office Supplies,2024,Qtr 4,October,17,77.88
+Technology,2024,Qtr 4,October,17,
+Furniture,2024,Qtr 4,October,18,10.11
+Office Supplies,2024,Qtr 4,October,18,91.104
+Technology,2024,Qtr 4,October,18,277.28
+Furniture,2024,Qtr 4,October,19,
+Office Supplies,2024,Qtr 4,October,19,1715.14
+Technology,2024,Qtr 4,October,19,419.95
+Furniture,2024,Qtr 4,October,20,455.556
+Office Supplies,2024,Qtr 4,October,20,24.56
+Technology,2024,Qtr 4,October,20,239.97
+Furniture,2024,Qtr 4,October,22,
+Office Supplies,2024,Qtr 4,October,22,15.128
+Technology,2024,Qtr 4,October,22,
+Furniture,2024,Qtr 4,October,23,1275.104
+Office Supplies,2024,Qtr 4,October,23,140.744
+Technology,2024,Qtr 4,October,23,846.448
+Furniture,2024,Qtr 4,October,24,801.633
+Office Supplies,2024,Qtr 4,October,24,29.512
+Technology,2024,Qtr 4,October,24,
+Furniture,2024,Qtr 4,October,25,1126.612
+Office Supplies,2024,Qtr 4,October,25,139.81
+Technology,2024,Qtr 4,October,25,158.99
+Furniture,2024,Qtr 4,October,26,
+Office Supplies,2024,Qtr 4,October,26,1221.029
+Technology,2024,Qtr 4,October,26,174.304
+Furniture,2024,Qtr 4,October,28,57.21
+Office Supplies,2024,Qtr 4,October,28,47.3
+Technology,2024,Qtr 4,October,28,
+Furniture,2024,Qtr 4,October,29,
+Office Supplies,2024,Qtr 4,October,29,244.24
+Technology,2024,Qtr 4,October,29,
+Furniture,2024,Qtr 4,October,30,15.488
+Office Supplies,2024,Qtr 4,October,30,182.91
+Technology,2024,Qtr 4,October,30,1923.646
+Furniture,2024,Qtr 4,October,31,748.969
+Office Supplies,2024,Qtr 4,October,31,1166.2
+Technology,2024,Qtr 4,October,31,1295.84
+Furniture,2024,Qtr 4,November,4,121.888
+Office Supplies,2024,Qtr 4,November,4,459.36
+Technology,2024,Qtr 4,November,4,747.098
+Furniture,2024,Qtr 4,November,5,191.968
+Office Supplies,2024,Qtr 4,November,5,
+Technology,2024,Qtr 4,November,5,
+Furniture,2024,Qtr 4,November,6,1201.752
+Office Supplies,2024,Qtr 4,November,6,1868.528
+Technology,2024,Qtr 4,November,6,303.284
+Furniture,2024,Qtr 4,November,7,856.468
+Office Supplies,2024,Qtr 4,November,7,369.484
+Technology,2024,Qtr 4,November,7,716
+Furniture,2024,Qtr 4,November,8,46.152
+Office Supplies,2024,Qtr 4,November,8,11.96
+Technology,2024,Qtr 4,November,8,138
+Furniture,2024,Qtr 4,November,9,244.24
+Office Supplies,2024,Qtr 4,November,9,1697.9
+Technology,2024,Qtr 4,November,9,19.99
+Furniture,2024,Qtr 4,November,10,957.5775
+Office Supplies,2024,Qtr 4,November,10,22.368
+Technology,2024,Qtr 4,November,10,31.95
+Furniture,2024,Qtr 4,November,11,
+Office Supplies,2024,Qtr 4,November,11,542.178
+Technology,2024,Qtr 4,November,11,
+Furniture,2024,Qtr 4,November,12,541.862
+Office Supplies,2024,Qtr 4,November,12,529.748
+Technology,2024,Qtr 4,November,12,519.284
+Furniture,2024,Qtr 4,November,13,1781.1372
+Office Supplies,2024,Qtr 4,November,13,600.204
+Technology,2024,Qtr 4,November,13,1209.736
+Furniture,2024,Qtr 4,November,14,1190.332
+Office Supplies,2024,Qtr 4,November,14,925.75
+Technology,2024,Qtr 4,November,14,396.628
+Furniture,2024,Qtr 4,November,15,39.96
+Office Supplies,2024,Qtr 4,November,15,662.21
+Technology,2024,Qtr 4,November,15,
+Furniture,2024,Qtr 4,November,16,1784.164
+Office Supplies,2024,Qtr 4,November,16,743.458
+Technology,2024,Qtr 4,November,16,1544.712
+Furniture,2024,Qtr 4,November,17,1667.028
+Office Supplies,2024,Qtr 4,November,17,1802.99
+Technology,2024,Qtr 4,November,17,415.968
+Furniture,2024,Qtr 4,November,19,141.96
+Office Supplies,2024,Qtr 4,November,19,37.064
+Technology,2024,Qtr 4,November,19,861.76
+Furniture,2024,Qtr 4,November,20,1656.7
+Office Supplies,2024,Qtr 4,November,20,637.738
+Technology,2024,Qtr 4,November,20,566.712
+Furniture,2024,Qtr 4,November,21,2055.7748
+Office Supplies,2024,Qtr 4,November,21,506.054
+Technology,2024,Qtr 4,November,21,1051.746
+Furniture,2024,Qtr 4,November,22,206.962
+Office Supplies,2024,Qtr 4,November,22,347.384
+Technology,2024,Qtr 4,November,22,60.153
+Furniture,2024,Qtr 4,November,23,
+Office Supplies,2024,Qtr 4,November,23,3142.208
+Technology,2024,Qtr 4,November,23,307.98
+Furniture,2024,Qtr 4,November,24,79.76
+Office Supplies,2024,Qtr 4,November,24,1125.024
+Technology,2024,Qtr 4,November,24,13.98
+Furniture,2024,Qtr 4,November,25,
+Office Supplies,2024,Qtr 4,November,25,13.12
+Technology,2024,Qtr 4,November,25,
+Furniture,2024,Qtr 4,November,26,692.472
+Office Supplies,2024,Qtr 4,November,26,191.62
+Technology,2024,Qtr 4,November,26,599.99
+Furniture,2024,Qtr 4,November,27,1315.3955
+Office Supplies,2024,Qtr 4,November,27,404.77
+Technology,2024,Qtr 4,November,27,1389.618
+Furniture,2024,Qtr 4,November,28,625.962
+Office Supplies,2024,Qtr 4,November,28,590.616
+Technology,2024,Qtr 4,November,28,647.904
+Furniture,2024,Qtr 4,November,29,1408.87
+Office Supplies,2024,Qtr 4,November,29,1329.818
+Technology,2024,Qtr 4,November,29,21.48
+Furniture,2024,Qtr 4,November,30,1115.2
+Office Supplies,2024,Qtr 4,November,30,410.797
+Technology,2024,Qtr 4,November,30,272.4
+Furniture,2024,Qtr 4,December,1,
+Office Supplies,2024,Qtr 4,December,1,475.548
+Technology,2024,Qtr 4,December,1,379.066
+Furniture,2024,Qtr 4,December,3,37.288
+Office Supplies,2024,Qtr 4,December,3,13.728
+Technology,2024,Qtr 4,December,3,
+Furniture,2024,Qtr 4,December,4,
+Office Supplies,2024,Qtr 4,December,4,40.74
+Technology,2024,Qtr 4,December,4,
+Furniture,2024,Qtr 4,December,5,21.968
+Office Supplies,2024,Qtr 4,December,5,217.646
+Technology,2024,Qtr 4,December,5,820.736
+Furniture,2024,Qtr 4,December,6,43.296
+Office Supplies,2024,Qtr 4,December,6,75.196
+Technology,2024,Qtr 4,December,6,55.984
+Furniture,2024,Qtr 4,December,7,391.367
+Office Supplies,2024,Qtr 4,December,7,8.84
+Technology,2024,Qtr 4,December,7,1652.36
+Furniture,2024,Qtr 4,December,9,
+Office Supplies,2024,Qtr 4,December,9,205.86
+Technology,2024,Qtr 4,December,9,501.964
+Furniture,2024,Qtr 4,December,10,1735.158
+Office Supplies,2024,Qtr 4,December,10,166.26
+Technology,2024,Qtr 4,December,10,489.34
+Furniture,2024,Qtr 4,December,11,670.056
+Office Supplies,2024,Qtr 4,December,11,357.144
+Technology,2024,Qtr 4,December,11,100.792
+Furniture,2024,Qtr 4,December,12,515.428
+Office Supplies,2024,Qtr 4,December,12,611.118
+Technology,2024,Qtr 4,December,12,322.308
+Furniture,2024,Qtr 4,December,13,
+Office Supplies,2024,Qtr 4,December,13,243.92
+Technology,2024,Qtr 4,December,13,779.466
+Furniture,2024,Qtr 4,December,14,324.188
+Office Supplies,2024,Qtr 4,December,14,164.148
+Technology,2024,Qtr 4,December,14,369.968
+Furniture,2024,Qtr 4,December,15,262.864
+Office Supplies,2024,Qtr 4,December,15,158.512
+Technology,2024,Qtr 4,December,15,5073.42
+Furniture,2024,Qtr 4,December,16,
+Office Supplies,2024,Qtr 4,December,16,4.98
+Technology,2024,Qtr 4,December,16,
+Furniture,2024,Qtr 4,December,17,1245.642
+Office Supplies,2024,Qtr 4,December,17,536.866
+Technology,2024,Qtr 4,December,17,135.984
+Furniture,2024,Qtr 4,December,18,20.32
+Office Supplies,2024,Qtr 4,December,18,748.728
+Technology,2024,Qtr 4,December,18,166.24
+Furniture,2024,Qtr 4,December,19,1053.164
+Office Supplies,2024,Qtr 4,December,19,691.908
+Technology,2024,Qtr 4,December,19,4375.584
+Furniture,2024,Qtr 4,December,20,373.426
+Office Supplies,2024,Qtr 4,December,20,217.286
+Technology,2024,Qtr 4,December,20,516.752
+Furniture,2024,Qtr 4,December,21,1670.126
+Office Supplies,2024,Qtr 4,December,21,151.208
+Technology,2024,Qtr 4,December,21,1436.426
+Furniture,2024,Qtr 4,December,22,422.625
+Office Supplies,2024,Qtr 4,December,22,50.688
+Technology,2024,Qtr 4,December,22,
+Furniture,2024,Qtr 4,December,23,
+Office Supplies,2024,Qtr 4,December,23,194.32
+Technology,2024,Qtr 4,December,23,
+Furniture,2024,Qtr 4,December,24,1563.994
+Office Supplies,2024,Qtr 4,December,24,428.67
+Technology,2024,Qtr 4,December,24,5491.902
+Furniture,2024,Qtr 4,December,25,1433.564
+Office Supplies,2024,Qtr 4,December,25,653.564
+Technology,2024,Qtr 4,December,25,2117.84
+Furniture,2024,Qtr 4,December,26,326.646
+Office Supplies,2024,Qtr 4,December,26,234.84
+Technology,2024,Qtr 4,December,26,
+Furniture,2024,Qtr 4,December,27,2477.9032
+Office Supplies,2024,Qtr 4,December,27,1305.924
+Technology,2024,Qtr 4,December,27,1364.62
+Furniture,2024,Qtr 4,December,28,
+Office Supplies,2024,Qtr 4,December,28,24.816
+Technology,2024,Qtr 4,December,28,54.384
+Furniture,2024,Qtr 4,December,29,
+Office Supplies,2024,Qtr 4,December,29,6.36
+Technology,2024,Qtr 4,December,29,
+Furniture,2024,Qtr 4,December,30,
+Office Supplies,2024,Qtr 4,December,30,414.9
+Technology,2024,Qtr 4,December,30,2836.44
+Furniture,2024,Qtr 4,December,31,14.76
+Office Supplies,2024,Qtr 4,December,31,1366.584
+Technology,2024,Qtr 4,December,31,
