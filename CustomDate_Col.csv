@@ -1,0 +1,1021 @@
+Superstore 2023.Order Date	Superstore 2023.Category	Superstore 2023.Sub-Category	Min(Superstore 2023.Ship Date)	Sum(Superstore 2023.Sales)
+Friday, January 03, 2020	Furniture	Bookcases		
+Saturday, January 04, 2020	Furniture	Bookcases		
+Sunday, January 05, 2020	Furniture	Bookcases		
+Monday, January 06, 2020	Furniture	Bookcases		
+Tuesday, January 07, 2020	Furniture	Bookcases		
+Thursday, January 09, 2020	Furniture	Bookcases		
+Friday, January 10, 2020	Furniture	Bookcases		
+Saturday, January 11, 2020	Furniture	Bookcases		
+Monday, January 13, 2020	Furniture	Bookcases	2018-01-17T18:30:00.000Z	333.999
+Tuesday, January 14, 2020	Furniture	Bookcases	2018-01-14T18:30:00.000Z	61.96
+Wednesday, January 15, 2020	Furniture	Bookcases		
+Thursday, January 16, 2020	Furniture	Bookcases		
+Saturday, January 18, 2020	Furniture	Bookcases		
+Sunday, January 19, 2020	Furniture	Bookcases	2018-01-19T18:30:00.000Z	181.47
+Monday, January 20, 2020	Furniture	Bookcases		
+Tuesday, January 21, 2020	Furniture	Bookcases		
+Thursday, January 23, 2020	Furniture	Bookcases		
+Sunday, January 26, 2020	Furniture	Bookcases	2018-01-28T18:30:00.000Z	141.96
+Monday, January 27, 2020	Furniture	Bookcases		
+Tuesday, January 28, 2020	Furniture	Bookcases		
+Thursday, January 30, 2020	Furniture	Bookcases		
+Friday, January 31, 2020	Furniture	Bookcases	2018-02-01T18:30:00.000Z	290.666
+Saturday, February 01, 2020	Furniture	Bookcases		
+Sunday, February 02, 2020	Furniture	Bookcases		
+Monday, February 03, 2020	Furniture	Bookcases		
+Tuesday, February 04, 2020	Furniture	Bookcases		
+Thursday, February 06, 2020	Furniture	Bookcases		
+Friday, February 07, 2020	Furniture	Bookcases		
+Saturday, February 08, 2020	Furniture	Bookcases		
+Tuesday, February 11, 2020	Furniture	Bookcases		
+Wednesday, February 12, 2020	Furniture	Bookcases		
+Friday, February 14, 2020	Furniture	Bookcases		
+Saturday, February 15, 2020	Furniture	Bookcases		
+Sunday, February 16, 2020	Furniture	Bookcases		
+Monday, February 17, 2020	Furniture	Bookcases		
+Tuesday, February 18, 2020	Furniture	Bookcases		
+Thursday, February 20, 2020	Furniture	Bookcases		
+Friday, February 21, 2020	Furniture	Bookcases		
+Saturday, February 22, 2020	Furniture	Bookcases		
+Sunday, February 23, 2020	Furniture	Bookcases		
+Monday, February 24, 2020	Furniture	Bookcases		
+Thursday, February 27, 2020	Furniture	Bookcases		
+Sunday, March 01, 2020	Furniture	Bookcases		
+Monday, March 02, 2020	Furniture	Bookcases		
+Tuesday, March 03, 2020	Furniture	Bookcases	2018-03-07T18:30:00.000Z	302.45
+Wednesday, March 04, 2020	Furniture	Bookcases		
+Thursday, March 05, 2020	Furniture	Bookcases		
+Saturday, March 07, 2020	Furniture	Bookcases		
+Tuesday, March 10, 2020	Furniture	Bookcases		
+Wednesday, March 11, 2020	Furniture	Bookcases		
+Saturday, March 14, 2020	Furniture	Bookcases		
+Sunday, March 15, 2020	Furniture	Bookcases		
+Monday, March 16, 2020	Furniture	Bookcases		
+Tuesday, March 17, 2020	Furniture	Bookcases		
+Wednesday, March 18, 2020	Furniture	Bookcases	2018-03-20T18:30:00.000Z	1198.33
+Thursday, March 19, 2020	Furniture	Bookcases		
+Saturday, March 21, 2020	Furniture	Bookcases		
+Sunday, March 22, 2020	Furniture	Bookcases		
+Monday, March 23, 2020	Furniture	Bookcases		
+Tuesday, March 24, 2020	Furniture	Bookcases		
+Friday, January 03, 2020	Furniture	Chairs		
+Saturday, January 04, 2020	Furniture	Chairs		
+Sunday, January 05, 2020	Furniture	Chairs		
+Monday, January 06, 2020	Furniture	Chairs	2018-01-09T18:30:00.000Z	2573.82
+Tuesday, January 07, 2020	Furniture	Chairs		
+Thursday, January 09, 2020	Furniture	Chairs		
+Friday, January 10, 2020	Furniture	Chairs		
+Saturday, January 11, 2020	Furniture	Chairs		
+Monday, January 13, 2020	Furniture	Chairs	2018-01-15T18:30:00.000Z	545.94
+Tuesday, January 14, 2020	Furniture	Chairs		
+Wednesday, January 15, 2020	Furniture	Chairs		
+Thursday, January 16, 2020	Furniture	Chairs		
+Saturday, January 18, 2020	Furniture	Chairs		
+Sunday, January 19, 2020	Furniture	Chairs		
+Monday, January 20, 2020	Furniture	Chairs	2018-01-25T18:30:00.000Z	1067.94
+Tuesday, January 21, 2020	Furniture	Chairs		
+Thursday, January 23, 2020	Furniture	Chairs		
+Sunday, January 26, 2020	Furniture	Chairs		
+Monday, January 27, 2020	Furniture	Chairs		
+Tuesday, January 28, 2020	Furniture	Chairs		
+Thursday, January 30, 2020	Furniture	Chairs		
+Friday, January 31, 2020	Furniture	Chairs		
+Saturday, February 01, 2020	Furniture	Chairs		
+Sunday, February 02, 2020	Furniture	Chairs		
+Monday, February 03, 2020	Furniture	Chairs		
+Tuesday, February 04, 2020	Furniture	Chairs		
+Thursday, February 06, 2020	Furniture	Chairs		
+Friday, February 07, 2020	Furniture	Chairs		
+Saturday, February 08, 2020	Furniture	Chairs		
+Tuesday, February 11, 2020	Furniture	Chairs	2018-02-14T18:30:00.000Z	60.89
+Wednesday, February 12, 2020	Furniture	Chairs	2018-02-17T18:30:00.000Z	129.568
+Friday, February 14, 2020	Furniture	Chairs		
+Saturday, February 15, 2020	Furniture	Chairs		
+Sunday, February 16, 2020	Furniture	Chairs		
+Monday, February 17, 2020	Furniture	Chairs		
+Tuesday, February 18, 2020	Furniture	Chairs		
+Thursday, February 20, 2020	Furniture	Chairs		
+Friday, February 21, 2020	Furniture	Chairs		
+Saturday, February 22, 2020	Furniture	Chairs		
+Sunday, February 23, 2020	Furniture	Chairs		
+Monday, February 24, 2020	Furniture	Chairs		
+Thursday, February 27, 2020	Furniture	Chairs		
+Sunday, March 01, 2020	Furniture	Chairs	2018-03-04T18:30:00.000Z	1453.934
+Monday, March 02, 2020	Furniture	Chairs		
+Tuesday, March 03, 2020	Furniture	Chairs		
+Wednesday, March 04, 2020	Furniture	Chairs		
+Thursday, March 05, 2020	Furniture	Chairs		
+Saturday, March 07, 2020	Furniture	Chairs	2018-03-07T18:30:00.000Z	966.984
+Tuesday, March 10, 2020	Furniture	Chairs		
+Wednesday, March 11, 2020	Furniture	Chairs		
+Saturday, March 14, 2020	Furniture	Chairs	2018-03-18T18:30:00.000Z	1139.92
+Sunday, March 15, 2020	Furniture	Chairs		
+Monday, March 16, 2020	Furniture	Chairs		
+Tuesday, March 17, 2020	Furniture	Chairs		
+Wednesday, March 18, 2020	Furniture	Chairs		
+Thursday, March 19, 2020	Furniture	Chairs		
+Saturday, March 21, 2020	Furniture	Chairs	2018-03-24T18:30:00.000Z	218.376
+Sunday, March 22, 2020	Furniture	Chairs	2018-03-25T18:30:00.000Z	314.352
+Monday, March 23, 2020	Furniture	Chairs		
+Tuesday, March 24, 2020	Furniture	Chairs		
+Friday, January 03, 2020	Furniture	Furnishings		
+Saturday, January 04, 2020	Furniture	Furnishings		
+Sunday, January 05, 2020	Furniture	Furnishings		
+Monday, January 06, 2020	Furniture	Furnishings		
+Tuesday, January 07, 2020	Furniture	Furnishings	2018-01-11T18:30:00.000Z	76.728
+Thursday, January 09, 2020	Furniture	Furnishings		
+Friday, January 10, 2020	Furniture	Furnishings	2018-01-14T18:30:00.000Z	51.94
+Saturday, January 11, 2020	Furniture	Furnishings	2018-01-13T18:30:00.000Z	9.94
+Monday, January 13, 2020	Furniture	Furnishings		
+Tuesday, January 14, 2020	Furniture	Furnishings		
+Wednesday, January 15, 2020	Furniture	Furnishings		
+Thursday, January 16, 2020	Furniture	Furnishings	2018-01-17T18:30:00.000Z	127.104
+Saturday, January 18, 2020	Furniture	Furnishings		
+Sunday, January 19, 2020	Furniture	Furnishings		
+Monday, January 20, 2020	Furniture	Furnishings	2018-01-24T18:30:00.000Z	345.57
+Tuesday, January 21, 2020	Furniture	Furnishings	2018-01-22T18:30:00.000Z	25.248
+Thursday, January 23, 2020	Furniture	Furnishings		
+Sunday, January 26, 2020	Furniture	Furnishings	2018-01-30T18:30:00.000Z	75.24
+Monday, January 27, 2020	Furniture	Furnishings		
+Tuesday, January 28, 2020	Furniture	Furnishings		
+Thursday, January 30, 2020	Furniture	Furnishings		
+Friday, January 31, 2020	Furniture	Furnishings		
+Saturday, February 01, 2020	Furniture	Furnishings		
+Sunday, February 02, 2020	Furniture	Furnishings		
+Monday, February 03, 2020	Furniture	Furnishings		
+Tuesday, February 04, 2020	Furniture	Furnishings		
+Thursday, February 06, 2020	Furniture	Furnishings		
+Friday, February 07, 2020	Furniture	Furnishings		
+Saturday, February 08, 2020	Furniture	Furnishings	2018-02-08T18:30:00.000Z	14.56
+Tuesday, February 11, 2020	Furniture	Furnishings	2018-02-14T18:30:00.000Z	332.94
+Wednesday, February 12, 2020	Furniture	Furnishings		
+Friday, February 14, 2020	Furniture	Furnishings		
+Saturday, February 15, 2020	Furniture	Furnishings		
+Sunday, February 16, 2020	Furniture	Furnishings		
+Monday, February 17, 2020	Furniture	Furnishings		
+Tuesday, February 18, 2020	Furniture	Furnishings	2018-02-17T18:30:00.000Z	25.16
+Thursday, February 20, 2020	Furniture	Furnishings	2018-02-25T18:30:00.000Z	20.32
+Friday, February 21, 2020	Furniture	Furnishings		
+Saturday, February 22, 2020	Furniture	Furnishings		
+Sunday, February 23, 2020	Furniture	Furnishings		
+Monday, February 24, 2020	Furniture	Furnishings		
+Thursday, February 27, 2020	Furniture	Furnishings		
+Sunday, March 01, 2020	Furniture	Furnishings	2018-03-04T18:30:00.000Z	63.552
+Monday, March 02, 2020	Furniture	Furnishings		
+Tuesday, March 03, 2020	Furniture	Furnishings		
+Wednesday, March 04, 2020	Furniture	Furnishings		
+Thursday, March 05, 2020	Furniture	Furnishings		
+Saturday, March 07, 2020	Furniture	Furnishings		
+Tuesday, March 10, 2020	Furniture	Furnishings		
+Wednesday, March 11, 2020	Furniture	Furnishings	2018-03-15T18:30:00.000Z	8.32
+Saturday, March 14, 2020	Furniture	Furnishings		
+Sunday, March 15, 2020	Furniture	Furnishings	2018-03-18T18:30:00.000Z	45.696
+Monday, March 16, 2020	Furniture	Furnishings		
+Tuesday, March 17, 2020	Furniture	Furnishings		
+Wednesday, March 18, 2020	Furniture	Furnishings	2018-03-22T18:30:00.000Z	264.12
+Thursday, March 19, 2020	Furniture	Furnishings	2018-03-20T18:30:00.000Z	25.008
+Saturday, March 21, 2020	Furniture	Furnishings	2018-03-24T18:30:00.000Z	32.952
+Sunday, March 22, 2020	Furniture	Furnishings		
+Monday, March 23, 2020	Furniture	Furnishings		
+Tuesday, March 24, 2020	Furniture	Furnishings	2018-03-28T18:30:00.000Z	40.48
+Friday, January 03, 2020	Furniture	Tables		
+Saturday, January 04, 2020	Furniture	Tables		
+Sunday, January 05, 2020	Furniture	Tables		
+Monday, January 06, 2020	Furniture	Tables		
+Tuesday, January 07, 2020	Furniture	Tables		
+Thursday, January 09, 2020	Furniture	Tables		
+Friday, January 10, 2020	Furniture	Tables		
+Saturday, January 11, 2020	Furniture	Tables		
+Monday, January 13, 2020	Furniture	Tables		
+Tuesday, January 14, 2020	Furniture	Tables		
+Wednesday, January 15, 2020	Furniture	Tables		
+Thursday, January 16, 2020	Furniture	Tables		
+Saturday, January 18, 2020	Furniture	Tables		
+Sunday, January 19, 2020	Furniture	Tables		
+Monday, January 20, 2020	Furniture	Tables		
+Tuesday, January 21, 2020	Furniture	Tables		
+Thursday, January 23, 2020	Furniture	Tables		
+Sunday, January 26, 2020	Furniture	Tables		
+Monday, January 27, 2020	Furniture	Tables	2018-02-01T18:30:00.000Z	333
+Tuesday, January 28, 2020	Furniture	Tables		
+Thursday, January 30, 2020	Furniture	Tables		
+Friday, January 31, 2020	Furniture	Tables		
+Saturday, February 01, 2020	Furniture	Tables		
+Sunday, February 02, 2020	Furniture	Tables		
+Monday, February 03, 2020	Furniture	Tables		
+Tuesday, February 04, 2020	Furniture	Tables		
+Thursday, February 06, 2020	Furniture	Tables		
+Friday, February 07, 2020	Furniture	Tables		
+Saturday, February 08, 2020	Furniture	Tables		
+Tuesday, February 11, 2020	Furniture	Tables	2018-02-14T18:30:00.000Z	1256.22
+Wednesday, February 12, 2020	Furniture	Tables		
+Friday, February 14, 2020	Furniture	Tables		
+Saturday, February 15, 2020	Furniture	Tables		
+Sunday, February 16, 2020	Furniture	Tables		
+Monday, February 17, 2020	Furniture	Tables		
+Tuesday, February 18, 2020	Furniture	Tables		
+Thursday, February 20, 2020	Furniture	Tables		
+Friday, February 21, 2020	Furniture	Tables		
+Saturday, February 22, 2020	Furniture	Tables		
+Sunday, February 23, 2020	Furniture	Tables		
+Monday, February 24, 2020	Furniture	Tables		
+Thursday, February 27, 2020	Furniture	Tables		
+Sunday, March 01, 2020	Furniture	Tables	2018-03-06T18:30:00.000Z	376.509
+Monday, March 02, 2020	Furniture	Tables		
+Tuesday, March 03, 2020	Furniture	Tables	2018-03-06T18:30:00.000Z	626.352
+Wednesday, March 04, 2020	Furniture	Tables		
+Thursday, March 05, 2020	Furniture	Tables		
+Saturday, March 07, 2020	Furniture	Tables		
+Tuesday, March 10, 2020	Furniture	Tables		
+Wednesday, March 11, 2020	Furniture	Tables		
+Saturday, March 14, 2020	Furniture	Tables		
+Sunday, March 15, 2020	Furniture	Tables		
+Monday, March 16, 2020	Furniture	Tables		
+Tuesday, March 17, 2020	Furniture	Tables	2018-03-20T18:30:00.000Z	3265.23
+Wednesday, March 18, 2020	Furniture	Tables		
+Thursday, March 19, 2020	Furniture	Tables		
+Saturday, March 21, 2020	Furniture	Tables		
+Sunday, March 22, 2020	Furniture	Tables		
+Monday, March 23, 2020	Furniture	Tables		
+Tuesday, March 24, 2020	Furniture	Tables		
+Friday, January 03, 2020	Office Supplies	Appliances		
+Saturday, January 04, 2020	Office Supplies	Appliances		
+Sunday, January 05, 2020	Office Supplies	Appliances		
+Monday, January 06, 2020	Office Supplies	Appliances		
+Tuesday, January 07, 2020	Office Supplies	Appliances		
+Thursday, January 09, 2020	Office Supplies	Appliances		
+Friday, January 10, 2020	Office Supplies	Appliances		
+Saturday, January 11, 2020	Office Supplies	Appliances		
+Monday, January 13, 2020	Office Supplies	Appliances		
+Tuesday, January 14, 2020	Office Supplies	Appliances		
+Wednesday, January 15, 2020	Office Supplies	Appliances		
+Thursday, January 16, 2020	Office Supplies	Appliances		
+Saturday, January 18, 2020	Office Supplies	Appliances	2018-01-20T18:30:00.000Z	64.864
+Sunday, January 19, 2020	Office Supplies	Appliances		
+Monday, January 20, 2020	Office Supplies	Appliances	2018-01-25T18:30:00.000Z	247.716
+Tuesday, January 21, 2020	Office Supplies	Appliances		
+Thursday, January 23, 2020	Office Supplies	Appliances		
+Sunday, January 26, 2020	Office Supplies	Appliances		
+Monday, January 27, 2020	Office Supplies	Appliances		
+Tuesday, January 28, 2020	Office Supplies	Appliances		
+Thursday, January 30, 2020	Office Supplies	Appliances		
+Friday, January 31, 2020	Office Supplies	Appliances		
+Saturday, February 01, 2020	Office Supplies	Appliances		
+Sunday, February 02, 2020	Office Supplies	Appliances		
+Monday, February 03, 2020	Office Supplies	Appliances		
+Tuesday, February 04, 2020	Office Supplies	Appliances		
+Thursday, February 06, 2020	Office Supplies	Appliances		
+Friday, February 07, 2020	Office Supplies	Appliances		
+Saturday, February 08, 2020	Office Supplies	Appliances		
+Tuesday, February 11, 2020	Office Supplies	Appliances		
+Wednesday, February 12, 2020	Office Supplies	Appliances		
+Friday, February 14, 2020	Office Supplies	Appliances	2018-02-17T18:30:00.000Z	81.96
+Saturday, February 15, 2020	Office Supplies	Appliances		
+Sunday, February 16, 2020	Office Supplies	Appliances	2018-02-20T18:30:00.000Z	7.96
+Monday, February 17, 2020	Office Supplies	Appliances		
+Tuesday, February 18, 2020	Office Supplies	Appliances		
+Thursday, February 20, 2020	Office Supplies	Appliances		
+Friday, February 21, 2020	Office Supplies	Appliances		
+Saturday, February 22, 2020	Office Supplies	Appliances		
+Sunday, February 23, 2020	Office Supplies	Appliances		
+Monday, February 24, 2020	Office Supplies	Appliances		
+Thursday, February 27, 2020	Office Supplies	Appliances		
+Sunday, March 01, 2020	Office Supplies	Appliances		
+Monday, March 02, 2020	Office Supplies	Appliances		
+Tuesday, March 03, 2020	Office Supplies	Appliances	2018-03-06T18:30:00.000Z	176.772
+Wednesday, March 04, 2020	Office Supplies	Appliances		
+Thursday, March 05, 2020	Office Supplies	Appliances		
+Saturday, March 07, 2020	Office Supplies	Appliances		
+Tuesday, March 10, 2020	Office Supplies	Appliances		
+Wednesday, March 11, 2020	Office Supplies	Appliances	2018-03-12T18:30:00.000Z	146.76
+Saturday, March 14, 2020	Office Supplies	Appliances		
+Sunday, March 15, 2020	Office Supplies	Appliances		
+Monday, March 16, 2020	Office Supplies	Appliances		
+Tuesday, March 17, 2020	Office Supplies	Appliances	2018-03-20T18:30:00.000Z	126.45
+Wednesday, March 18, 2020	Office Supplies	Appliances		
+Thursday, March 19, 2020	Office Supplies	Appliances		
+Saturday, March 21, 2020	Office Supplies	Appliances		
+Sunday, March 22, 2020	Office Supplies	Appliances		
+Monday, March 23, 2020	Office Supplies	Appliances		
+Tuesday, March 24, 2020	Office Supplies	Appliances		
+Friday, January 03, 2020	Office Supplies	Art		
+Saturday, January 04, 2020	Office Supplies	Art		
+Sunday, January 05, 2020	Office Supplies	Art	2018-01-11T18:30:00.000Z	19.536
+Monday, January 06, 2020	Office Supplies	Art	2018-01-06T18:30:00.000Z	18.26
+Tuesday, January 07, 2020	Office Supplies	Art		
+Thursday, January 09, 2020	Office Supplies	Art	2018-01-12T18:30:00.000Z	9.344
+Friday, January 10, 2020	Office Supplies	Art		
+Saturday, January 11, 2020	Office Supplies	Art		
+Monday, January 13, 2020	Office Supplies	Art	2018-01-17T18:30:00.000Z	19.9
+Tuesday, January 14, 2020	Office Supplies	Art		
+Wednesday, January 15, 2020	Office Supplies	Art		
+Thursday, January 16, 2020	Office Supplies	Art		
+Saturday, January 18, 2020	Office Supplies	Art		
+Sunday, January 19, 2020	Office Supplies	Art		
+Monday, January 20, 2020	Office Supplies	Art	2018-01-25T18:30:00.000Z	73.51
+Tuesday, January 21, 2020	Office Supplies	Art		
+Thursday, January 23, 2020	Office Supplies	Art		
+Sunday, January 26, 2020	Office Supplies	Art		
+Monday, January 27, 2020	Office Supplies	Art	2018-02-01T18:30:00.000Z	36.44
+Tuesday, January 28, 2020	Office Supplies	Art		
+Thursday, January 30, 2020	Office Supplies	Art		
+Friday, January 31, 2020	Office Supplies	Art		
+Saturday, February 01, 2020	Office Supplies	Art		
+Sunday, February 02, 2020	Office Supplies	Art		
+Monday, February 03, 2020	Office Supplies	Art		
+Tuesday, February 04, 2020	Office Supplies	Art		
+Thursday, February 06, 2020	Office Supplies	Art		
+Friday, February 07, 2020	Office Supplies	Art		
+Saturday, February 08, 2020	Office Supplies	Art		
+Tuesday, February 11, 2020	Office Supplies	Art		
+Wednesday, February 12, 2020	Office Supplies	Art		
+Friday, February 14, 2020	Office Supplies	Art		
+Saturday, February 15, 2020	Office Supplies	Art		
+Sunday, February 16, 2020	Office Supplies	Art		
+Monday, February 17, 2020	Office Supplies	Art	2018-02-23T18:30:00.000Z	54.208
+Tuesday, February 18, 2020	Office Supplies	Art		
+Thursday, February 20, 2020	Office Supplies	Art		
+Friday, February 21, 2020	Office Supplies	Art		
+Saturday, February 22, 2020	Office Supplies	Art		
+Sunday, February 23, 2020	Office Supplies	Art		
+Monday, February 24, 2020	Office Supplies	Art		
+Thursday, February 27, 2020	Office Supplies	Art	2018-03-02T18:30:00.000Z	19.456
+Sunday, March 01, 2020	Office Supplies	Art		
+Monday, March 02, 2020	Office Supplies	Art		
+Tuesday, March 03, 2020	Office Supplies	Art	2018-03-06T18:30:00.000Z	19.456
+Wednesday, March 04, 2020	Office Supplies	Art	2018-03-08T18:30:00.000Z	15.552
+Thursday, March 05, 2020	Office Supplies	Art	2018-03-07T18:30:00.000Z	59.52
+Saturday, March 07, 2020	Office Supplies	Art	2018-03-07T18:30:00.000Z	38.59
+Tuesday, March 10, 2020	Office Supplies	Art	2018-03-16T18:30:00.000Z	83.168
+Wednesday, March 11, 2020	Office Supplies	Art	2018-03-14T18:30:00.000Z	7.98
+Saturday, March 14, 2020	Office Supplies	Art	2018-03-17T18:30:00.000Z	3.38
+Sunday, March 15, 2020	Office Supplies	Art		
+Monday, March 16, 2020	Office Supplies	Art		
+Tuesday, March 17, 2020	Office Supplies	Art	2018-03-16T18:30:00.000Z	24.128
+Wednesday, March 18, 2020	Office Supplies	Art	2018-03-22T18:30:00.000Z	8.016
+Thursday, March 19, 2020	Office Supplies	Art		
+Saturday, March 21, 2020	Office Supplies	Art	2018-03-24T18:30:00.000Z	22.776
+Sunday, March 22, 2020	Office Supplies	Art	2018-03-21T18:30:00.000Z	16.28
+Monday, March 23, 2020	Office Supplies	Art		
+Tuesday, March 24, 2020	Office Supplies	Art		
+Friday, January 03, 2020	Office Supplies	Binders		
+Saturday, January 04, 2020	Office Supplies	Binders	2018-01-07T18:30:00.000Z	3.54
+Sunday, January 05, 2020	Office Supplies	Binders		
+Monday, January 06, 2020	Office Supplies	Binders	2018-01-09T18:30:00.000Z	609.98
+Tuesday, January 07, 2020	Office Supplies	Binders	2018-01-11T18:30:00.000Z	10.43
+Thursday, January 09, 2020	Office Supplies	Binders		
+Friday, January 10, 2020	Office Supplies	Binders		
+Saturday, January 11, 2020	Office Supplies	Binders		
+Monday, January 13, 2020	Office Supplies	Binders	2018-01-14T18:30:00.000Z	9.078
+Tuesday, January 14, 2020	Office Supplies	Binders		
+Wednesday, January 15, 2020	Office Supplies	Binders		
+Thursday, January 16, 2020	Office Supplies	Binders	2018-01-17T18:30:00.000Z	18.588
+Saturday, January 18, 2020	Office Supplies	Binders		
+Sunday, January 19, 2020	Office Supplies	Binders	2018-01-19T18:30:00.000Z	32.34
+Monday, January 20, 2020	Office Supplies	Binders	2018-01-25T18:30:00.000Z	115.944
+Tuesday, January 21, 2020	Office Supplies	Binders		
+Thursday, January 23, 2020	Office Supplies	Binders		
+Sunday, January 26, 2020	Office Supplies	Binders	2018-01-28T18:30:00.000Z	10.68
+Monday, January 27, 2020	Office Supplies	Binders		
+Tuesday, January 28, 2020	Office Supplies	Binders	2018-02-02T18:30:00.000Z	3.928
+Thursday, January 30, 2020	Office Supplies	Binders		
+Friday, January 31, 2020	Office Supplies	Binders		
+Saturday, February 01, 2020	Office Supplies	Binders		
+Sunday, February 02, 2020	Office Supplies	Binders	2018-02-08T18:30:00.000Z	18.336
+Monday, February 03, 2020	Office Supplies	Binders	2018-02-05T18:30:00.000Z	97.112
+Tuesday, February 04, 2020	Office Supplies	Binders	2018-02-07T18:30:00.000Z	100.144
+Thursday, February 06, 2020	Office Supplies	Binders	2018-02-09T18:30:00.000Z	8.952
+Friday, February 07, 2020	Office Supplies	Binders		
+Saturday, February 08, 2020	Office Supplies	Binders		
+Tuesday, February 11, 2020	Office Supplies	Binders	2018-02-14T18:30:00.000Z	79
+Wednesday, February 12, 2020	Office Supplies	Binders		
+Friday, February 14, 2020	Office Supplies	Binders		
+Saturday, February 15, 2020	Office Supplies	Binders	2018-02-18T18:30:00.000Z	21.36
+Sunday, February 16, 2020	Office Supplies	Binders	2018-02-20T18:30:00.000Z	1.08
+Monday, February 17, 2020	Office Supplies	Binders		
+Tuesday, February 18, 2020	Office Supplies	Binders		
+Thursday, February 20, 2020	Office Supplies	Binders		
+Friday, February 21, 2020	Office Supplies	Binders	2018-02-24T18:30:00.000Z	8.85
+Saturday, February 22, 2020	Office Supplies	Binders		
+Sunday, February 23, 2020	Office Supplies	Binders	2018-02-26T18:30:00.000Z	4.428
+Monday, February 24, 2020	Office Supplies	Binders		
+Thursday, February 27, 2020	Office Supplies	Binders		
+Sunday, March 01, 2020	Office Supplies	Binders		
+Monday, March 02, 2020	Office Supplies	Binders		
+Tuesday, March 03, 2020	Office Supplies	Binders	2018-03-07T18:30:00.000Z	151.08
+Wednesday, March 04, 2020	Office Supplies	Binders		
+Thursday, March 05, 2020	Office Supplies	Binders	2018-03-07T18:30:00.000Z	49.632
+Saturday, March 07, 2020	Office Supplies	Binders	2018-03-10T18:30:00.000Z	107.648
+Tuesday, March 10, 2020	Office Supplies	Binders		
+Wednesday, March 11, 2020	Office Supplies	Binders		
+Saturday, March 14, 2020	Office Supplies	Binders	2018-03-18T18:30:00.000Z	95.136
+Sunday, March 15, 2020	Office Supplies	Binders	2018-03-18T18:30:00.000Z	50.406
+Monday, March 16, 2020	Office Supplies	Binders		
+Tuesday, March 17, 2020	Office Supplies	Binders	2018-03-20T18:30:00.000Z	131.15
+Wednesday, March 18, 2020	Office Supplies	Binders		
+Thursday, March 19, 2020	Office Supplies	Binders	2018-03-20T18:30:00.000Z	33.57
+Saturday, March 21, 2020	Office Supplies	Binders	2018-03-24T18:30:00.000Z	122.94
+Sunday, March 22, 2020	Office Supplies	Binders	2018-03-25T18:30:00.000Z	59.109
+Monday, March 23, 2020	Office Supplies	Binders		
+Tuesday, March 24, 2020	Office Supplies	Binders		
+Friday, January 03, 2020	Office Supplies	Envelopes		
+Saturday, January 04, 2020	Office Supplies	Envelopes		
+Sunday, January 05, 2020	Office Supplies	Envelopes		
+Monday, January 06, 2020	Office Supplies	Envelopes		
+Tuesday, January 07, 2020	Office Supplies	Envelopes		
+Thursday, January 09, 2020	Office Supplies	Envelopes		
+Friday, January 10, 2020	Office Supplies	Envelopes		
+Saturday, January 11, 2020	Office Supplies	Envelopes		
+Monday, January 13, 2020	Office Supplies	Envelopes	2018-01-14T18:30:00.000Z	62.3
+Tuesday, January 14, 2020	Office Supplies	Envelopes		
+Wednesday, January 15, 2020	Office Supplies	Envelopes		
+Thursday, January 16, 2020	Office Supplies	Envelopes		
+Saturday, January 18, 2020	Office Supplies	Envelopes		
+Sunday, January 19, 2020	Office Supplies	Envelopes	2018-01-19T18:30:00.000Z	108.72
+Monday, January 20, 2020	Office Supplies	Envelopes	2018-01-25T18:30:00.000Z	23.34
+Tuesday, January 21, 2020	Office Supplies	Envelopes		
+Thursday, January 23, 2020	Office Supplies	Envelopes		
+Sunday, January 26, 2020	Office Supplies	Envelopes		
+Monday, January 27, 2020	Office Supplies	Envelopes		
+Tuesday, January 28, 2020	Office Supplies	Envelopes		
+Thursday, January 30, 2020	Office Supplies	Envelopes		
+Friday, January 31, 2020	Office Supplies	Envelopes		
+Saturday, February 01, 2020	Office Supplies	Envelopes		
+Sunday, February 02, 2020	Office Supplies	Envelopes		
+Monday, February 03, 2020	Office Supplies	Envelopes		
+Tuesday, February 04, 2020	Office Supplies	Envelopes		
+Thursday, February 06, 2020	Office Supplies	Envelopes		
+Friday, February 07, 2020	Office Supplies	Envelopes		
+Saturday, February 08, 2020	Office Supplies	Envelopes		
+Tuesday, February 11, 2020	Office Supplies	Envelopes		
+Wednesday, February 12, 2020	Office Supplies	Envelopes		
+Friday, February 14, 2020	Office Supplies	Envelopes		
+Saturday, February 15, 2020	Office Supplies	Envelopes		
+Sunday, February 16, 2020	Office Supplies	Envelopes		
+Monday, February 17, 2020	Office Supplies	Envelopes		
+Tuesday, February 18, 2020	Office Supplies	Envelopes		
+Thursday, February 20, 2020	Office Supplies	Envelopes		
+Friday, February 21, 2020	Office Supplies	Envelopes		
+Saturday, February 22, 2020	Office Supplies	Envelopes		
+Sunday, February 23, 2020	Office Supplies	Envelopes		
+Monday, February 24, 2020	Office Supplies	Envelopes		
+Thursday, February 27, 2020	Office Supplies	Envelopes		
+Sunday, March 01, 2020	Office Supplies	Envelopes		
+Monday, March 02, 2020	Office Supplies	Envelopes	2018-03-07T18:30:00.000Z	11.36
+Tuesday, March 03, 2020	Office Supplies	Envelopes		
+Wednesday, March 04, 2020	Office Supplies	Envelopes		
+Thursday, March 05, 2020	Office Supplies	Envelopes		
+Saturday, March 07, 2020	Office Supplies	Envelopes		
+Tuesday, March 10, 2020	Office Supplies	Envelopes		
+Wednesday, March 11, 2020	Office Supplies	Envelopes		
+Saturday, March 14, 2020	Office Supplies	Envelopes		
+Sunday, March 15, 2020	Office Supplies	Envelopes		
+Monday, March 16, 2020	Office Supplies	Envelopes		
+Tuesday, March 17, 2020	Office Supplies	Envelopes		
+Wednesday, March 18, 2020	Office Supplies	Envelopes		
+Thursday, March 19, 2020	Office Supplies	Envelopes		
+Saturday, March 21, 2020	Office Supplies	Envelopes		
+Sunday, March 22, 2020	Office Supplies	Envelopes		
+Monday, March 23, 2020	Office Supplies	Envelopes		
+Tuesday, March 24, 2020	Office Supplies	Envelopes		
+Friday, January 03, 2020	Office Supplies	Fasteners		
+Saturday, January 04, 2020	Office Supplies	Fasteners		
+Sunday, January 05, 2020	Office Supplies	Fasteners		
+Monday, January 06, 2020	Office Supplies	Fasteners	2018-01-09T18:30:00.000Z	31.12
+Tuesday, January 07, 2020	Office Supplies	Fasteners		
+Thursday, January 09, 2020	Office Supplies	Fasteners		
+Friday, January 10, 2020	Office Supplies	Fasteners		
+Saturday, January 11, 2020	Office Supplies	Fasteners		
+Monday, January 13, 2020	Office Supplies	Fasteners		
+Tuesday, January 14, 2020	Office Supplies	Fasteners		
+Wednesday, January 15, 2020	Office Supplies	Fasteners		
+Thursday, January 16, 2020	Office Supplies	Fasteners		
+Saturday, January 18, 2020	Office Supplies	Fasteners		
+Sunday, January 19, 2020	Office Supplies	Fasteners		
+Monday, January 20, 2020	Office Supplies	Fasteners		
+Tuesday, January 21, 2020	Office Supplies	Fasteners		
+Thursday, January 23, 2020	Office Supplies	Fasteners	2018-01-26T18:30:00.000Z	5.94
+Sunday, January 26, 2020	Office Supplies	Fasteners		
+Monday, January 27, 2020	Office Supplies	Fasteners		
+Tuesday, January 28, 2020	Office Supplies	Fasteners		
+Thursday, January 30, 2020	Office Supplies	Fasteners		
+Friday, January 31, 2020	Office Supplies	Fasteners		
+Saturday, February 01, 2020	Office Supplies	Fasteners		
+Sunday, February 02, 2020	Office Supplies	Fasteners	2018-02-05T18:30:00.000Z	12.35
+Monday, February 03, 2020	Office Supplies	Fasteners		
+Tuesday, February 04, 2020	Office Supplies	Fasteners		
+Thursday, February 06, 2020	Office Supplies	Fasteners		
+Friday, February 07, 2020	Office Supplies	Fasteners		
+Saturday, February 08, 2020	Office Supplies	Fasteners		
+Tuesday, February 11, 2020	Office Supplies	Fasteners		
+Wednesday, February 12, 2020	Office Supplies	Fasteners		
+Friday, February 14, 2020	Office Supplies	Fasteners		
+Saturday, February 15, 2020	Office Supplies	Fasteners		
+Sunday, February 16, 2020	Office Supplies	Fasteners		
+Monday, February 17, 2020	Office Supplies	Fasteners		
+Tuesday, February 18, 2020	Office Supplies	Fasteners		
+Thursday, February 20, 2020	Office Supplies	Fasteners		
+Friday, February 21, 2020	Office Supplies	Fasteners		
+Saturday, February 22, 2020	Office Supplies	Fasteners		
+Sunday, February 23, 2020	Office Supplies	Fasteners		
+Monday, February 24, 2020	Office Supplies	Fasteners		
+Thursday, February 27, 2020	Office Supplies	Fasteners		
+Sunday, March 01, 2020	Office Supplies	Fasteners	2018-03-04T18:30:00.000Z	18.84
+Monday, March 02, 2020	Office Supplies	Fasteners		
+Tuesday, March 03, 2020	Office Supplies	Fasteners		
+Wednesday, March 04, 2020	Office Supplies	Fasteners		
+Thursday, March 05, 2020	Office Supplies	Fasteners		
+Saturday, March 07, 2020	Office Supplies	Fasteners		
+Tuesday, March 10, 2020	Office Supplies	Fasteners		
+Wednesday, March 11, 2020	Office Supplies	Fasteners	2018-03-15T18:30:00.000Z	10.464
+Saturday, March 14, 2020	Office Supplies	Fasteners		
+Sunday, March 15, 2020	Office Supplies	Fasteners		
+Monday, March 16, 2020	Office Supplies	Fasteners		
+Tuesday, March 17, 2020	Office Supplies	Fasteners		
+Wednesday, March 18, 2020	Office Supplies	Fasteners	2018-03-22T18:30:00.000Z	18.936
+Thursday, March 19, 2020	Office Supplies	Fasteners		
+Saturday, March 21, 2020	Office Supplies	Fasteners		
+Sunday, March 22, 2020	Office Supplies	Fasteners		
+Monday, March 23, 2020	Office Supplies	Fasteners		
+Tuesday, March 24, 2020	Office Supplies	Fasteners		
+Friday, January 03, 2020	Office Supplies	Labels		
+Saturday, January 04, 2020	Office Supplies	Labels	2018-01-07T18:30:00.000Z	11.784
+Sunday, January 05, 2020	Office Supplies	Labels		
+Monday, January 06, 2020	Office Supplies	Labels		
+Tuesday, January 07, 2020	Office Supplies	Labels		
+Thursday, January 09, 2020	Office Supplies	Labels		
+Friday, January 10, 2020	Office Supplies	Labels	2018-01-14T18:30:00.000Z	2.89
+Saturday, January 11, 2020	Office Supplies	Labels		
+Monday, January 13, 2020	Office Supplies	Labels		
+Tuesday, January 14, 2020	Office Supplies	Labels		
+Wednesday, January 15, 2020	Office Supplies	Labels		
+Thursday, January 16, 2020	Office Supplies	Labels	2018-01-17T18:30:00.000Z	30.072
+Saturday, January 18, 2020	Office Supplies	Labels		
+Sunday, January 19, 2020	Office Supplies	Labels		
+Monday, January 20, 2020	Office Supplies	Labels		
+Tuesday, January 21, 2020	Office Supplies	Labels		
+Thursday, January 23, 2020	Office Supplies	Labels		
+Sunday, January 26, 2020	Office Supplies	Labels		
+Monday, January 27, 2020	Office Supplies	Labels		
+Tuesday, January 28, 2020	Office Supplies	Labels		
+Thursday, January 30, 2020	Office Supplies	Labels		
+Friday, January 31, 2020	Office Supplies	Labels		
+Saturday, February 01, 2020	Office Supplies	Labels		
+Sunday, February 02, 2020	Office Supplies	Labels		
+Monday, February 03, 2020	Office Supplies	Labels		
+Tuesday, February 04, 2020	Office Supplies	Labels		
+Thursday, February 06, 2020	Office Supplies	Labels	2018-02-08T18:30:00.000Z	15
+Friday, February 07, 2020	Office Supplies	Labels		
+Saturday, February 08, 2020	Office Supplies	Labels		
+Tuesday, February 11, 2020	Office Supplies	Labels	2018-02-14T18:30:00.000Z	14.94
+Wednesday, February 12, 2020	Office Supplies	Labels		
+Friday, February 14, 2020	Office Supplies	Labels		
+Saturday, February 15, 2020	Office Supplies	Labels		
+Sunday, February 16, 2020	Office Supplies	Labels		
+Monday, February 17, 2020	Office Supplies	Labels		
+Tuesday, February 18, 2020	Office Supplies	Labels		
+Thursday, February 20, 2020	Office Supplies	Labels		
+Friday, February 21, 2020	Office Supplies	Labels		
+Saturday, February 22, 2020	Office Supplies	Labels		
+Sunday, February 23, 2020	Office Supplies	Labels	2018-02-26T18:30:00.000Z	6.936
+Monday, February 24, 2020	Office Supplies	Labels		
+Thursday, February 27, 2020	Office Supplies	Labels		
+Sunday, March 01, 2020	Office Supplies	Labels		
+Monday, March 02, 2020	Office Supplies	Labels		
+Tuesday, March 03, 2020	Office Supplies	Labels	2018-03-07T18:30:00.000Z	15.12
+Wednesday, March 04, 2020	Office Supplies	Labels		
+Thursday, March 05, 2020	Office Supplies	Labels		
+Saturday, March 07, 2020	Office Supplies	Labels		
+Tuesday, March 10, 2020	Office Supplies	Labels		
+Wednesday, March 11, 2020	Office Supplies	Labels		
+Saturday, March 14, 2020	Office Supplies	Labels		
+Sunday, March 15, 2020	Office Supplies	Labels		
+Monday, March 16, 2020	Office Supplies	Labels		
+Tuesday, March 17, 2020	Office Supplies	Labels		
+Wednesday, March 18, 2020	Office Supplies	Labels		
+Thursday, March 19, 2020	Office Supplies	Labels	2018-03-20T18:30:00.000Z	11.808
+Saturday, March 21, 2020	Office Supplies	Labels	2018-03-24T18:30:00.000Z	73.6
+Sunday, March 22, 2020	Office Supplies	Labels		
+Monday, March 23, 2020	Office Supplies	Labels	2018-03-25T18:30:00.000Z	9.912
+Tuesday, March 24, 2020	Office Supplies	Labels		
+Friday, January 03, 2020	Office Supplies	Paper	2018-01-06T18:30:00.000Z	16.448
+Saturday, January 04, 2020	Office Supplies	Paper		
+Sunday, January 05, 2020	Office Supplies	Paper		
+Monday, January 06, 2020	Office Supplies	Paper	2018-01-07T18:30:00.000Z	25.98
+Tuesday, January 07, 2020	Office Supplies	Paper		
+Thursday, January 09, 2020	Office Supplies	Paper		
+Friday, January 10, 2020	Office Supplies	Paper		
+Saturday, January 11, 2020	Office Supplies	Paper		
+Monday, January 13, 2020	Office Supplies	Paper	2018-01-17T18:30:00.000Z	37.408
+Tuesday, January 14, 2020	Office Supplies	Paper		
+Wednesday, January 15, 2020	Office Supplies	Paper		
+Thursday, January 16, 2020	Office Supplies	Paper		
+Saturday, January 18, 2020	Office Supplies	Paper		
+Sunday, January 19, 2020	Office Supplies	Paper	2018-01-19T18:30:00.000Z	56.064
+Monday, January 20, 2020	Office Supplies	Paper	2018-01-24T18:30:00.000Z	19.36
+Tuesday, January 21, 2020	Office Supplies	Paper		
+Thursday, January 23, 2020	Office Supplies	Paper	2018-01-27T18:30:00.000Z	40.08
+Sunday, January 26, 2020	Office Supplies	Paper	2018-01-30T18:30:00.000Z	36.12
+Monday, January 27, 2020	Office Supplies	Paper		
+Tuesday, January 28, 2020	Office Supplies	Paper		
+Thursday, January 30, 2020	Office Supplies	Paper	2018-02-03T18:30:00.000Z	10.56
+Friday, January 31, 2020	Office Supplies	Paper		
+Saturday, February 01, 2020	Office Supplies	Paper		
+Sunday, February 02, 2020	Office Supplies	Paper		
+Monday, February 03, 2020	Office Supplies	Paper		
+Tuesday, February 04, 2020	Office Supplies	Paper	2018-02-07T18:30:00.000Z	34.24
+Thursday, February 06, 2020	Office Supplies	Paper		
+Friday, February 07, 2020	Office Supplies	Paper		
+Saturday, February 08, 2020	Office Supplies	Paper		
+Tuesday, February 11, 2020	Office Supplies	Paper		
+Wednesday, February 12, 2020	Office Supplies	Paper		
+Friday, February 14, 2020	Office Supplies	Paper	2018-02-18T18:30:00.000Z	16.176
+Saturday, February 15, 2020	Office Supplies	Paper		
+Sunday, February 16, 2020	Office Supplies	Paper		
+Monday, February 17, 2020	Office Supplies	Paper		
+Tuesday, February 18, 2020	Office Supplies	Paper		
+Thursday, February 20, 2020	Office Supplies	Paper	2018-02-23T18:30:00.000Z	12.96
+Friday, February 21, 2020	Office Supplies	Paper		
+Saturday, February 22, 2020	Office Supplies	Paper	2018-02-23T18:30:00.000Z	19.44
+Sunday, February 23, 2020	Office Supplies	Paper		
+Monday, February 24, 2020	Office Supplies	Paper	2018-03-01T18:30:00.000Z	55.672
+Thursday, February 27, 2020	Office Supplies	Paper		
+Sunday, March 01, 2020	Office Supplies	Paper	2018-03-04T18:30:00.000Z	17.472
+Monday, March 02, 2020	Office Supplies	Paper	2018-03-05T18:30:00.000Z	39.824
+Tuesday, March 03, 2020	Office Supplies	Paper		
+Wednesday, March 04, 2020	Office Supplies	Paper		
+Thursday, March 05, 2020	Office Supplies	Paper	2018-03-07T18:30:00.000Z	97.82
+Saturday, March 07, 2020	Office Supplies	Paper		
+Tuesday, March 10, 2020	Office Supplies	Paper	2018-03-13T18:30:00.000Z	22.38
+Wednesday, March 11, 2020	Office Supplies	Paper	2018-03-12T18:30:00.000Z	123.86
+Saturday, March 14, 2020	Office Supplies	Paper	2018-03-16T18:30:00.000Z	110.064
+Sunday, March 15, 2020	Office Supplies	Paper	2018-03-18T18:30:00.000Z	131.904
+Monday, March 16, 2020	Office Supplies	Paper		
+Tuesday, March 17, 2020	Office Supplies	Paper	2018-03-16T18:30:00.000Z	413.4
+Wednesday, March 18, 2020	Office Supplies	Paper	2018-03-22T18:30:00.000Z	21.376
+Thursday, March 19, 2020	Office Supplies	Paper		
+Saturday, March 21, 2020	Office Supplies	Paper	2018-03-24T18:30:00.000Z	122.97
+Sunday, March 22, 2020	Office Supplies	Paper	2018-03-25T18:30:00.000Z	74.352
+Monday, March 23, 2020	Office Supplies	Paper		
+Tuesday, March 24, 2020	Office Supplies	Paper	2018-03-27T18:30:00.000Z	24.9
+Friday, January 03, 2020	Office Supplies	Storage		
+Saturday, January 04, 2020	Office Supplies	Storage	2018-01-07T18:30:00.000Z	272.736
+Sunday, January 05, 2020	Office Supplies	Storage		
+Monday, January 06, 2020	Office Supplies	Storage		
+Tuesday, January 07, 2020	Office Supplies	Storage		
+Thursday, January 09, 2020	Office Supplies	Storage		
+Friday, January 10, 2020	Office Supplies	Storage		
+Saturday, January 11, 2020	Office Supplies	Storage		
+Monday, January 13, 2020	Office Supplies	Storage	2018-01-14T18:30:00.000Z	1898.43
+Tuesday, January 14, 2020	Office Supplies	Storage		
+Wednesday, January 15, 2020	Office Supplies	Storage		
+Thursday, January 16, 2020	Office Supplies	Storage		
+Saturday, January 18, 2020	Office Supplies	Storage		
+Sunday, January 19, 2020	Office Supplies	Storage		
+Monday, January 20, 2020	Office Supplies	Storage	2018-01-25T18:30:00.000Z	80.56
+Tuesday, January 21, 2020	Office Supplies	Storage		
+Thursday, January 23, 2020	Office Supplies	Storage		
+Sunday, January 26, 2020	Office Supplies	Storage	2018-01-30T18:30:00.000Z	489.92
+Monday, January 27, 2020	Office Supplies	Storage	2018-02-01T18:30:00.000Z	57.23
+Tuesday, January 28, 2020	Office Supplies	Storage		
+Thursday, January 30, 2020	Office Supplies	Storage	2018-02-03T18:30:00.000Z	229.94
+Friday, January 31, 2020	Office Supplies	Storage		
+Saturday, February 01, 2020	Office Supplies	Storage		
+Sunday, February 02, 2020	Office Supplies	Storage		
+Monday, February 03, 2020	Office Supplies	Storage		
+Tuesday, February 04, 2020	Office Supplies	Storage		
+Thursday, February 06, 2020	Office Supplies	Storage		
+Friday, February 07, 2020	Office Supplies	Storage	2018-02-09T18:30:00.000Z	64.96
+Saturday, February 08, 2020	Office Supplies	Storage		
+Tuesday, February 11, 2020	Office Supplies	Storage	2018-02-14T18:30:00.000Z	64.96
+Wednesday, February 12, 2020	Office Supplies	Storage		
+Friday, February 14, 2020	Office Supplies	Storage		
+Saturday, February 15, 2020	Office Supplies	Storage		
+Sunday, February 16, 2020	Office Supplies	Storage		
+Monday, February 17, 2020	Office Supplies	Storage		
+Tuesday, February 18, 2020	Office Supplies	Storage	2018-02-23T18:30:00.000Z	12.624
+Thursday, February 20, 2020	Office Supplies	Storage		
+Friday, February 21, 2020	Office Supplies	Storage		
+Saturday, February 22, 2020	Office Supplies	Storage		
+Sunday, February 23, 2020	Office Supplies	Storage		
+Monday, February 24, 2020	Office Supplies	Storage		
+Thursday, February 27, 2020	Office Supplies	Storage		
+Sunday, March 01, 2020	Office Supplies	Storage	2018-03-04T18:30:00.000Z	266.904
+Monday, March 02, 2020	Office Supplies	Storage		
+Tuesday, March 03, 2020	Office Supplies	Storage	2018-03-07T18:30:00.000Z	44.672
+Wednesday, March 04, 2020	Office Supplies	Storage	2018-03-03T18:30:00.000Z	354.9
+Thursday, March 05, 2020	Office Supplies	Storage		
+Saturday, March 07, 2020	Office Supplies	Storage	2018-03-07T18:30:00.000Z	447.84
+Tuesday, March 10, 2020	Office Supplies	Storage	2018-03-16T18:30:00.000Z	636.408
+Wednesday, March 11, 2020	Office Supplies	Storage		
+Saturday, March 14, 2020	Office Supplies	Storage	2018-03-18T18:30:00.000Z	102.34
+Sunday, March 15, 2020	Office Supplies	Storage	2018-03-18T18:30:00.000Z	142.776
+Monday, March 16, 2020	Office Supplies	Storage		
+Tuesday, March 17, 2020	Office Supplies	Storage		
+Wednesday, March 18, 2020	Office Supplies	Storage	2018-03-23T18:30:00.000Z	1856.19
+Thursday, March 19, 2020	Office Supplies	Storage	2018-03-20T18:30:00.000Z	26.16
+Saturday, March 21, 2020	Office Supplies	Storage	2018-03-24T18:30:00.000Z	16.272
+Sunday, March 22, 2020	Office Supplies	Storage		
+Monday, March 23, 2020	Office Supplies	Storage	2018-03-25T18:30:00.000Z	330.4
+Tuesday, March 24, 2020	Office Supplies	Storage		
+Friday, January 03, 2020	Office Supplies	Supplies		
+Saturday, January 04, 2020	Office Supplies	Supplies		
+Sunday, January 05, 2020	Office Supplies	Supplies		
+Monday, January 06, 2020	Office Supplies	Supplies		
+Tuesday, January 07, 2020	Office Supplies	Supplies		
+Thursday, January 09, 2020	Office Supplies	Supplies		
+Friday, January 10, 2020	Office Supplies	Supplies		
+Saturday, January 11, 2020	Office Supplies	Supplies		
+Monday, January 13, 2020	Office Supplies	Supplies		
+Tuesday, January 14, 2020	Office Supplies	Supplies		
+Wednesday, January 15, 2020	Office Supplies	Supplies		
+Thursday, January 16, 2020	Office Supplies	Supplies		
+Saturday, January 18, 2020	Office Supplies	Supplies		
+Sunday, January 19, 2020	Office Supplies	Supplies		
+Monday, January 20, 2020	Office Supplies	Supplies		
+Tuesday, January 21, 2020	Office Supplies	Supplies		
+Thursday, January 23, 2020	Office Supplies	Supplies		
+Sunday, January 26, 2020	Office Supplies	Supplies		
+Monday, January 27, 2020	Office Supplies	Supplies		
+Tuesday, January 28, 2020	Office Supplies	Supplies		
+Thursday, January 30, 2020	Office Supplies	Supplies		
+Friday, January 31, 2020	Office Supplies	Supplies		
+Saturday, February 01, 2020	Office Supplies	Supplies		
+Sunday, February 02, 2020	Office Supplies	Supplies		
+Monday, February 03, 2020	Office Supplies	Supplies		
+Tuesday, February 04, 2020	Office Supplies	Supplies		
+Thursday, February 06, 2020	Office Supplies	Supplies		
+Friday, February 07, 2020	Office Supplies	Supplies		
+Saturday, February 08, 2020	Office Supplies	Supplies		
+Tuesday, February 11, 2020	Office Supplies	Supplies		
+Wednesday, February 12, 2020	Office Supplies	Supplies		
+Friday, February 14, 2020	Office Supplies	Supplies	2018-02-17T18:30:00.000Z	238.62
+Saturday, February 15, 2020	Office Supplies	Supplies		
+Sunday, February 16, 2020	Office Supplies	Supplies		
+Monday, February 17, 2020	Office Supplies	Supplies		
+Tuesday, February 18, 2020	Office Supplies	Supplies		
+Thursday, February 20, 2020	Office Supplies	Supplies		
+Friday, February 21, 2020	Office Supplies	Supplies		
+Saturday, February 22, 2020	Office Supplies	Supplies		
+Sunday, February 23, 2020	Office Supplies	Supplies		
+Monday, February 24, 2020	Office Supplies	Supplies		
+Thursday, February 27, 2020	Office Supplies	Supplies		
+Sunday, March 01, 2020	Office Supplies	Supplies		
+Monday, March 02, 2020	Office Supplies	Supplies		
+Tuesday, March 03, 2020	Office Supplies	Supplies		
+Wednesday, March 04, 2020	Office Supplies	Supplies		
+Thursday, March 05, 2020	Office Supplies	Supplies	2018-03-07T18:30:00.000Z	18.62
+Saturday, March 07, 2020	Office Supplies	Supplies		
+Tuesday, March 10, 2020	Office Supplies	Supplies		
+Wednesday, March 11, 2020	Office Supplies	Supplies		
+Saturday, March 14, 2020	Office Supplies	Supplies		
+Sunday, March 15, 2020	Office Supplies	Supplies		
+Monday, March 16, 2020	Office Supplies	Supplies		
+Tuesday, March 17, 2020	Office Supplies	Supplies		
+Wednesday, March 18, 2020	Office Supplies	Supplies		
+Thursday, March 19, 2020	Office Supplies	Supplies		
+Saturday, March 21, 2020	Office Supplies	Supplies		
+Sunday, March 22, 2020	Office Supplies	Supplies		
+Monday, March 23, 2020	Office Supplies	Supplies		
+Tuesday, March 24, 2020	Office Supplies	Supplies		
+Friday, January 03, 2020	Technology	Accessories		
+Saturday, January 04, 2020	Technology	Accessories		
+Sunday, January 05, 2020	Technology	Accessories		
+Monday, January 06, 2020	Technology	Accessories		
+Tuesday, January 07, 2020	Technology	Accessories		
+Thursday, January 09, 2020	Technology	Accessories	2018-01-12T18:30:00.000Z	31.2
+Friday, January 10, 2020	Technology	Accessories		
+Saturday, January 11, 2020	Technology	Accessories		
+Monday, January 13, 2020	Technology	Accessories	2018-01-14T18:30:00.000Z	646.74
+Tuesday, January 14, 2020	Technology	Accessories		
+Wednesday, January 15, 2020	Technology	Accessories	2018-01-16T18:30:00.000Z	149.95
+Thursday, January 16, 2020	Technology	Accessories		
+Saturday, January 18, 2020	Technology	Accessories		
+Sunday, January 19, 2020	Technology	Accessories		
+Monday, January 20, 2020	Technology	Accessories		
+Tuesday, January 21, 2020	Technology	Accessories		
+Thursday, January 23, 2020	Technology	Accessories		
+Sunday, January 26, 2020	Technology	Accessories		
+Monday, January 27, 2020	Technology	Accessories		
+Tuesday, January 28, 2020	Technology	Accessories		
+Thursday, January 30, 2020	Technology	Accessories		
+Friday, January 31, 2020	Technology	Accessories		
+Saturday, February 01, 2020	Technology	Accessories	2018-02-02T18:30:00.000Z	468.9
+Sunday, February 02, 2020	Technology	Accessories		
+Monday, February 03, 2020	Technology	Accessories		
+Tuesday, February 04, 2020	Technology	Accessories		
+Thursday, February 06, 2020	Technology	Accessories		
+Friday, February 07, 2020	Technology	Accessories	2018-02-11T18:30:00.000Z	115.36
+Saturday, February 08, 2020	Technology	Accessories		
+Tuesday, February 11, 2020	Technology	Accessories	2018-02-14T18:30:00.000Z	234.45
+Wednesday, February 12, 2020	Technology	Accessories		
+Friday, February 14, 2020	Technology	Accessories	2018-02-17T18:30:00.000Z	239.97
+Saturday, February 15, 2020	Technology	Accessories		
+Sunday, February 16, 2020	Technology	Accessories		
+Monday, February 17, 2020	Technology	Accessories		
+Tuesday, February 18, 2020	Technology	Accessories		
+Thursday, February 20, 2020	Technology	Accessories	2018-02-25T18:30:00.000Z	62.31
+Friday, February 21, 2020	Technology	Accessories		
+Saturday, February 22, 2020	Technology	Accessories		
+Sunday, February 23, 2020	Technology	Accessories		
+Monday, February 24, 2020	Technology	Accessories		
+Thursday, February 27, 2020	Technology	Accessories		
+Sunday, March 01, 2020	Technology	Accessories		
+Monday, March 02, 2020	Technology	Accessories	2018-03-05T18:30:00.000Z	151.2
+Tuesday, March 03, 2020	Technology	Accessories		
+Wednesday, March 04, 2020	Technology	Accessories		
+Thursday, March 05, 2020	Technology	Accessories	2018-03-07T18:30:00.000Z	479.97
+Saturday, March 07, 2020	Technology	Accessories		
+Tuesday, March 10, 2020	Technology	Accessories		
+Wednesday, March 11, 2020	Technology	Accessories	2018-03-12T18:30:00.000Z	32.96
+Saturday, March 14, 2020	Technology	Accessories	2018-03-18T18:30:00.000Z	82.8
+Sunday, March 15, 2020	Technology	Accessories		
+Monday, March 16, 2020	Technology	Accessories		
+Tuesday, March 17, 2020	Technology	Accessories		
+Wednesday, March 18, 2020	Technology	Accessories		
+Thursday, March 19, 2020	Technology	Accessories	2018-03-20T18:30:00.000Z	170.24
+Saturday, March 21, 2020	Technology	Accessories		
+Sunday, March 22, 2020	Technology	Accessories		
+Monday, March 23, 2020	Technology	Accessories		
+Tuesday, March 24, 2020	Technology	Accessories		
+Friday, January 03, 2020	Technology	Copiers		
+Saturday, January 04, 2020	Technology	Copiers		
+Sunday, January 05, 2020	Technology	Copiers		
+Monday, January 06, 2020	Technology	Copiers		
+Tuesday, January 07, 2020	Technology	Copiers		
+Thursday, January 09, 2020	Technology	Copiers		
+Friday, January 10, 2020	Technology	Copiers		
+Saturday, January 11, 2020	Technology	Copiers		
+Monday, January 13, 2020	Technology	Copiers		
+Tuesday, January 14, 2020	Technology	Copiers		
+Wednesday, January 15, 2020	Technology	Copiers		
+Thursday, January 16, 2020	Technology	Copiers		
+Saturday, January 18, 2020	Technology	Copiers		
+Sunday, January 19, 2020	Technology	Copiers		
+Monday, January 20, 2020	Technology	Copiers		
+Tuesday, January 21, 2020	Technology	Copiers		
+Thursday, January 23, 2020	Technology	Copiers		
+Sunday, January 26, 2020	Technology	Copiers		
+Monday, January 27, 2020	Technology	Copiers		
+Tuesday, January 28, 2020	Technology	Copiers		
+Thursday, January 30, 2020	Technology	Copiers		
+Friday, January 31, 2020	Technology	Copiers		
+Saturday, February 01, 2020	Technology	Copiers		
+Sunday, February 02, 2020	Technology	Copiers		
+Monday, February 03, 2020	Technology	Copiers		
+Tuesday, February 04, 2020	Technology	Copiers		
+Thursday, February 06, 2020	Technology	Copiers		
+Friday, February 07, 2020	Technology	Copiers		
+Saturday, February 08, 2020	Technology	Copiers		
+Tuesday, February 11, 2020	Technology	Copiers		
+Wednesday, February 12, 2020	Technology	Copiers		
+Friday, February 14, 2020	Technology	Copiers		
+Saturday, February 15, 2020	Technology	Copiers		
+Sunday, February 16, 2020	Technology	Copiers		
+Monday, February 17, 2020	Technology	Copiers		
+Tuesday, February 18, 2020	Technology	Copiers		
+Thursday, February 20, 2020	Technology	Copiers		
+Friday, February 21, 2020	Technology	Copiers		
+Saturday, February 22, 2020	Technology	Copiers		
+Sunday, February 23, 2020	Technology	Copiers		
+Monday, February 24, 2020	Technology	Copiers		
+Thursday, February 27, 2020	Technology	Copiers		
+Sunday, March 01, 2020	Technology	Copiers		
+Monday, March 02, 2020	Technology	Copiers		
+Tuesday, March 03, 2020	Technology	Copiers		
+Wednesday, March 04, 2020	Technology	Copiers		
+Thursday, March 05, 2020	Technology	Copiers		
+Saturday, March 07, 2020	Technology	Copiers		
+Tuesday, March 10, 2020	Technology	Copiers		
+Wednesday, March 11, 2020	Technology	Copiers		
+Saturday, March 14, 2020	Technology	Copiers		
+Sunday, March 15, 2020	Technology	Copiers		
+Monday, March 16, 2020	Technology	Copiers		
+Tuesday, March 17, 2020	Technology	Copiers		
+Wednesday, March 18, 2020	Technology	Copiers		
+Thursday, March 19, 2020	Technology	Copiers		
+Saturday, March 21, 2020	Technology	Copiers		
+Sunday, March 22, 2020	Technology	Copiers		
+Monday, March 23, 2020	Technology	Copiers		
+Tuesday, March 24, 2020	Technology	Copiers		
+Friday, January 03, 2020	Technology	Machines		
+Saturday, January 04, 2020	Technology	Machines		
+Sunday, January 05, 2020	Technology	Machines		
+Monday, January 06, 2020	Technology	Machines		
+Tuesday, January 07, 2020	Technology	Machines		
+Thursday, January 09, 2020	Technology	Machines		
+Friday, January 10, 2020	Technology	Machines		
+Saturday, January 11, 2020	Technology	Machines		
+Monday, January 13, 2020	Technology	Machines		
+Tuesday, January 14, 2020	Technology	Machines		
+Wednesday, January 15, 2020	Technology	Machines		
+Thursday, January 16, 2020	Technology	Machines		
+Saturday, January 18, 2020	Technology	Machines		
+Sunday, January 19, 2020	Technology	Machines		
+Monday, January 20, 2020	Technology	Machines		
+Tuesday, January 21, 2020	Technology	Machines		
+Thursday, January 23, 2020	Technology	Machines		
+Sunday, January 26, 2020	Technology	Machines		
+Monday, January 27, 2020	Technology	Machines		
+Tuesday, January 28, 2020	Technology	Machines		
+Thursday, January 30, 2020	Technology	Machines		
+Friday, January 31, 2020	Technology	Machines		
+Saturday, February 01, 2020	Technology	Machines		
+Sunday, February 02, 2020	Technology	Machines		
+Monday, February 03, 2020	Technology	Machines		
+Tuesday, February 04, 2020	Technology	Machines		
+Thursday, February 06, 2020	Technology	Machines		
+Friday, February 07, 2020	Technology	Machines		
+Saturday, February 08, 2020	Technology	Machines		
+Tuesday, February 11, 2020	Technology	Machines		
+Wednesday, February 12, 2020	Technology	Machines		
+Friday, February 14, 2020	Technology	Machines		
+Saturday, February 15, 2020	Technology	Machines		
+Sunday, February 16, 2020	Technology	Machines		
+Monday, February 17, 2020	Technology	Machines		
+Tuesday, February 18, 2020	Technology	Machines		
+Thursday, February 20, 2020	Technology	Machines		
+Friday, February 21, 2020	Technology	Machines		
+Saturday, February 22, 2020	Technology	Machines		
+Sunday, February 23, 2020	Technology	Machines		
+Monday, February 24, 2020	Technology	Machines		
+Thursday, February 27, 2020	Technology	Machines		
+Sunday, March 01, 2020	Technology	Machines		
+Monday, March 02, 2020	Technology	Machines		
+Tuesday, March 03, 2020	Technology	Machines		
+Wednesday, March 04, 2020	Technology	Machines		
+Thursday, March 05, 2020	Technology	Machines		
+Saturday, March 07, 2020	Technology	Machines		
+Tuesday, March 10, 2020	Technology	Machines		
+Wednesday, March 11, 2020	Technology	Machines		
+Saturday, March 14, 2020	Technology	Machines	2018-03-16T18:30:00.000Z	574.91
+Sunday, March 15, 2020	Technology	Machines		
+Monday, March 16, 2020	Technology	Machines		
+Tuesday, March 17, 2020	Technology	Machines		
+Wednesday, March 18, 2020	Technology	Machines	2018-03-22T18:30:00.000Z	24739.748
+Thursday, March 19, 2020	Technology	Machines		
+Saturday, March 21, 2020	Technology	Machines		
+Sunday, March 22, 2020	Technology	Machines		
+Monday, March 23, 2020	Technology	Machines		
+Tuesday, March 24, 2020	Technology	Machines		
+Friday, January 03, 2020	Technology	Phones		
+Saturday, January 04, 2020	Technology	Phones		
+Sunday, January 05, 2020	Technology	Phones		
+Monday, January 06, 2020	Technology	Phones	2018-01-09T18:30:00.000Z	1147.94
+Tuesday, January 07, 2020	Technology	Phones		
+Thursday, January 09, 2020	Technology	Phones		
+Friday, January 10, 2020	Technology	Phones		
+Saturday, January 11, 2020	Technology	Phones		
+Monday, January 13, 2020	Technology	Phones		
+Tuesday, January 14, 2020	Technology	Phones		
+Wednesday, January 15, 2020	Technology	Phones		
+Thursday, January 16, 2020	Technology	Phones	2018-01-17T18:30:00.000Z	124.2
+Saturday, January 18, 2020	Technology	Phones		
+Sunday, January 19, 2020	Technology	Phones		
+Monday, January 20, 2020	Technology	Phones	2018-01-25T18:30:00.000Z	699.93
+Tuesday, January 21, 2020	Technology	Phones		
+Thursday, January 23, 2020	Technology	Phones		
+Sunday, January 26, 2020	Technology	Phones	2018-01-30T18:30:00.000Z	343.33
+Monday, January 27, 2020	Technology	Phones		
+Tuesday, January 28, 2020	Technology	Phones		
+Thursday, January 30, 2020	Technology	Phones		
+Friday, January 31, 2020	Technology	Phones		
+Saturday, February 01, 2020	Technology	Phones		
+Sunday, February 02, 2020	Technology	Phones	2018-02-08T18:30:00.000Z	180.96
+Monday, February 03, 2020	Technology	Phones		
+Tuesday, February 04, 2020	Technology	Phones		
+Thursday, February 06, 2020	Technology	Phones	2018-02-08T18:30:00.000Z	306.56
+Friday, February 07, 2020	Technology	Phones		
+Saturday, February 08, 2020	Technology	Phones		
+Tuesday, February 11, 2020	Technology	Phones		
+Wednesday, February 12, 2020	Technology	Phones		
+Friday, February 14, 2020	Technology	Phones		
+Saturday, February 15, 2020	Technology	Phones		
+Sunday, February 16, 2020	Technology	Phones		
+Monday, February 17, 2020	Technology	Phones		
+Tuesday, February 18, 2020	Technology	Phones		
+Thursday, February 20, 2020	Technology	Phones		
+Friday, February 21, 2020	Technology	Phones		
+Saturday, February 22, 2020	Technology	Phones		
+Sunday, February 23, 2020	Technology	Phones		
+Monday, February 24, 2020	Technology	Phones		
+Thursday, February 27, 2020	Technology	Phones		
+Sunday, March 01, 2020	Technology	Phones	2018-03-04T18:30:00.000Z	5.94
+Monday, March 02, 2020	Technology	Phones		
+Tuesday, March 03, 2020	Technology	Phones	2018-03-07T18:30:00.000Z	9.99
+Wednesday, March 04, 2020	Technology	Phones		
+Thursday, March 05, 2020	Technology	Phones		
+Saturday, March 07, 2020	Technology	Phones		
+Tuesday, March 10, 2020	Technology	Phones		
+Wednesday, March 11, 2020	Technology	Phones	2018-03-12T18:30:00.000Z	587.97
+Saturday, March 14, 2020	Technology	Phones		
+Sunday, March 15, 2020	Technology	Phones		
+Monday, March 16, 2020	Technology	Phones	2018-03-20T18:30:00.000Z	471.92
+Tuesday, March 17, 2020	Technology	Phones		
+Wednesday, March 18, 2020	Technology	Phones		
+Thursday, March 19, 2020	Technology	Phones	2018-03-20T18:30:00.000Z	323.976
+Saturday, March 21, 2020	Technology	Phones	2018-03-24T18:30:00.000Z	3499.93
+Sunday, March 22, 2020	Technology	Phones		
+Monday, March 23, 2020	Technology	Phones	2018-03-25T18:30:00.000Z	604.752
+Tuesday, March 24, 2020	Technology	Phones		
