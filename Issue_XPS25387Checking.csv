@@ -1,0 +1,293 @@
+Orders.Region,Orders.Category,Orders.Sub-Category,Orders.Ship Mode,Sum(Orders.Profit)
+Central,Technology,Copiers,Standard Class,14339.871299999999
+East,Technology,Copiers,Standard Class,10985.892299999996
+South,Technology,Copiers,Standard Class,1498.9426999999998
+West,Technology,Copiers,Standard Class,4529.9141
+Central,Technology,Copiers,First Class,107.99459999999999
+East,Technology,Copiers,First Class,4596.978099999999
+South,Technology,Copiers,First Class,
+West,Technology,Copiers,First Class,10093.4066
+Central,Technology,Copiers,Second Class,614.988
+East,Technology,Copiers,Second Class,1189.9764
+South,Technology,Copiers,Second Class,2159.964
+West,Technology,Copiers,Second Class,2918.9419
+Central,Technology,Copiers,Same Day,545.9874
+East,Technology,Copiers,Same Day,249.99499999999998
+South,Technology,Copiers,Same Day,
+West,Technology,Copiers,Same Day,1784.9724999999999
+Central,Technology,Phones,Standard Class,7661.5239
+East,Technology,Phones,Standard Class,5801.157400000002
+South,Technology,Phones,Standard Class,6909.0850999999975
+West,Technology,Phones,Standard Class,5581.584200000005
+Central,Technology,Phones,First Class,1587.7695999999992
+East,Technology,Phones,First Class,4481.680799999998
+South,Technology,Phones,First Class,761.7654999999997
+West,Technology,Phones,First Class,1569.0541000000007
+Central,Technology,Phones,Second Class,2706.497
+East,Technology,Phones,Second Class,1498.4037999999991
+South,Technology,Phones,Second Class,2607.6603999999998
+West,Technology,Phones,Second Class,1565.074199999999
+Central,Technology,Phones,Same Day,367.23620000000005
+East,Technology,Phones,Same Day,533.4439999999998
+South,Technology,Phones,Same Day,488.76430000000005
+West,Technology,Phones,Same Day,395.03009999999995
+Central,Technology,Phones,Third Class,
+East,Technology,Phones,Third Class,
+South,Technology,Phones,Third Class,
+West,Technology,Phones,Third Class,68.35680000000002
+Central,Technology,Accessories,Standard Class,4071.971899999999
+East,Technology,Accessories,Standard Class,5975.047000000001
+South,Technology,Accessories,Standard Class,3479.6949000000004
+West,Technology,Accessories,Standard Class,9902.146999999997
+Central,Technology,Accessories,Second Class,1863.0186999999999
+East,Technology,Accessories,Second Class,2339.0010999999995
+South,Technology,Accessories,Second Class,2372.7349000000004
+West,Technology,Accessories,Second Class,2158.9160999999995
+Central,Technology,Accessories,First Class,906.2976999999998
+East,Technology,Accessories,First Class,1674.8675999999996
+South,Technology,Accessories,First Class,856.1868
+West,Technology,Accessories,First Class,2470.0609999999997
+Central,Technology,Accessories,Same Day,410.3422999999999
+East,Technology,Accessories,Same Day,1206.9486999999997
+South,Technology,Accessories,Same Day,295.9258
+West,Technology,Accessories,Same Day,1953.4742
+Central,Technology,Machines,Standard Class,-1742.0853000000025
+East,Technology,Machines,Standard Class,7242.624599999998
+South,Technology,Machines,Standard Class,-1791.4220000000032
+West,Technology,Machines,Standard Class,-1316.6621000000018
+Central,Technology,Machines,Second Class,-589.0237000000006
+East,Technology,Machines,Second Class,-643.7099999999998
+South,Technology,Machines,Second Class,2798.1544999999996
+West,Technology,Machines,Second Class,591.6090999999997
+Central,Technology,Machines,Same Day,8.99939999999998
+East,Technology,Machines,Same Day,3844.1845
+South,Technology,Machines,Same Day,-3839.9903999999988
+West,Technology,Machines,Same Day,425.5772999999998
+Central,Technology,Machines,First Class,836.0429999999997
+East,Technology,Machines,First Class,-3514.456200000001
+South,Technology,Machines,First Class,1394.3649
+West,Technology,Machines,First Class,-319.4507000000006
+Central,Office Supplies,Paper,Standard Class,3831.124399999999
+East,Office Supplies,Paper,Standard Class,5099.536699999999
+South,Office Supplies,Paper,Standard Class,3609.8801
+West,Office Supplies,Paper,Standard Class,6938.2772999999925
+Central,Office Supplies,Paper,Second Class,1892.9903
+East,Office Supplies,Paper,Second Class,2115.5879000000004
+South,Office Supplies,Paper,Second Class,1018.9050000000002
+West,Office Supplies,Paper,Second Class,2539.5456
+Central,Office Supplies,Paper,First Class,876.1940999999999
+East,Office Supplies,Paper,First Class,1381.9013000000002
+South,Office Supplies,Paper,First Class,552.7121
+West,Office Supplies,Paper,First Class,2108.4916000000007
+Central,Office Supplies,Paper,Same Day,371.5917
+East,Office Supplies,Paper,Same Day,418.3450999999999
+South,Office Supplies,Paper,Same Day,765.5642
+West,Office Supplies,Paper,Same Day,532.9218999999999
+Central,Office Supplies,Paper,Third Class,
+East,Office Supplies,Paper,Third Class,
+South,Office Supplies,Paper,Third Class,5.4432
+West,Office Supplies,Paper,Third Class,
+Central,Office Supplies,Binders,Standard Class,-2491.1728000000035
+East,Office Supplies,Binders,Standard Class,8555.821799999992
+South,Office Supplies,Binders,Standard Class,4416.459500000005
+West,Office Supplies,Binders,Standard Class,9010.888199999996
+Central,Office Supplies,Binders,Second Class,2075.948000000001
+East,Office Supplies,Binders,Second Class,281.59869999999967
+South,Office Supplies,Binders,Second Class,-650.2526999999995
+West,Office Supplies,Binders,Second Class,3754.0479999999993
+Central,Office Supplies,Binders,First Class,-429.9186000000023
+East,Office Supplies,Binders,First Class,2223.7446999999993
+South,Office Supplies,Binders,First Class,32.79490000000011
+West,Office Supplies,Binders,First Class,2301.521499999999
+Central,Office Supplies,Binders,Same Day,-198.49350000000013
+East,Office Supplies,Binders,Same Day,206.76939999999996
+South,Office Supplies,Binders,Same Day,101.66229999999999
+West,Office Supplies,Binders,Same Day,1030.3438999999996
+Central,Office Supplies,Binders,Third Class,-3.8160000000000016
+East,Office Supplies,Binders,Third Class,
+South,Office Supplies,Binders,Third Class,
+West,Office Supplies,Binders,Third Class,132.59219999999993
+Central,Office Supplies,Storage,Standard Class,991.7572999999987
+East,Office Supplies,Storage,Standard Class,4839.509400000003
+South,Office Supplies,Storage,Standard Class,1228.165999999999
+West,Office Supplies,Storage,Standard Class,4792.620700000002
+Central,Office Supplies,Storage,Second Class,637.9458999999998
+East,Office Supplies,Storage,Second Class,2382.897099999999
+South,Office Supplies,Storage,Second Class,441.40259999999967
+West,Office Supplies,Storage,Second Class,1972.0675999999999
+Central,Office Supplies,Storage,First Class,61.21799999999987
+East,Office Supplies,Storage,First Class,906.4568999999998
+South,Office Supplies,Storage,First Class,594.6738
+West,Office Supplies,Storage,First Class,1449.8349999999996
+Central,Office Supplies,Storage,Same Day,278.9153
+East,Office Supplies,Storage,Same Day,260.5078000000001
+South,Office Supplies,Storage,Same Day,10.05409999999997
+West,Office Supplies,Storage,Same Day,430.79889999999983
+Central,Office Supplies,Storage,Third Class,13.317599999999999
+East,Office Supplies,Storage,Third Class,
+South,Office Supplies,Storage,Third Class,
+West,Office Supplies,Storage,Third Class,
+Central,Office Supplies,Appliances,Standard Class,-2816.9207000000024
+East,Office Supplies,Appliances,Standard Class,4656.345399999998
+South,Office Supplies,Appliances,Standard Class,1361.5848999999994
+West,Office Supplies,Appliances,Standard Class,5394.781300000001
+Central,Office Supplies,Appliances,Second Class,473.0162999999999
+East,Office Supplies,Appliances,Second Class,1588.4636999999998
+South,Office Supplies,Appliances,Second Class,1646.9984999999997
+West,Office Supplies,Appliances,Second Class,1198.2171999999998
+Central,Office Supplies,Appliances,First Class,-158.43770000000012
+East,Office Supplies,Appliances,First Class,1357.9588999999996
+South,Office Supplies,Appliances,First Class,1017.3513999999999
+West,Office Supplies,Appliances,First Class,1326.9885
+Central,Office Supplies,Appliances,Same Day,-136.27540000000005
+East,Office Supplies,Appliances,Same Day,788.6453999999999
+South,Office Supplies,Appliances,Same Day,98.00479999999999
+West,Office Supplies,Appliances,Same Day,341.2828999999999
+Central,Office Supplies,Appliances,Third Class,-123.858
+East,Office Supplies,Appliances,Third Class,
+South,Office Supplies,Appliances,Third Class,
+West,Office Supplies,Appliances,Third Class,
+Central,Office Supplies,Envelopes,Standard Class,1122.4441
+East,Office Supplies,Envelopes,Standard Class,777.5695999999998
+South,Office Supplies,Envelopes,Standard Class,1070.1701
+West,Office Supplies,Envelopes,Standard Class,1363.1784999999998
+Central,Office Supplies,Envelopes,Second Class,302.1338999999999
+East,Office Supplies,Envelopes,Second Class,406.1055
+South,Office Supplies,Envelopes,Second Class,202.7378
+West,Office Supplies,Envelopes,Second Class,369.4263
+Central,Office Supplies,Envelopes,First Class,333.5309
+East,Office Supplies,Envelopes,First Class,477.08209999999997
+South,Office Supplies,Envelopes,First Class,77.47649999999999
+West,Office Supplies,Envelopes,First Class,113.50659999999999
+Central,Office Supplies,Envelopes,Same Day,19.4194
+East,Office Supplies,Envelopes,Same Day,151.65179999999998
+South,Office Supplies,Envelopes,Same Day,115.0926
+West,Office Supplies,Envelopes,Same Day,62.650999999999996
+Central,Office Supplies,Art,Standard Class,738.6715000000002
+East,Office Supplies,Art,Standard Class,1110.1165999999998
+South,Office Supplies,Art,Standard Class,675.0338999999993
+West,Office Supplies,Art,Standard Class,1551.0429999999997
+Central,Office Supplies,Art,Second Class,263.8805
+East,Office Supplies,Art,Second Class,435.4932999999999
+South,Office Supplies,Art,Second Class,232.60689999999994
+West,Office Supplies,Art,Second Class,367.1482000000001
+Central,Office Supplies,Art,First Class,151.8389
+East,Office Supplies,Art,First Class,250.93000000000004
+South,Office Supplies,Art,First Class,145.34859999999998
+West,Office Supplies,Art,First Class,202.23250000000002
+Central,Office Supplies,Art,Same Day,40.76820000000001
+East,Office Supplies,Art,Same Day,103.4044
+South,Office Supplies,Art,Same Day,5.597199999999997
+West,Office Supplies,Art,Same Day,253.67329999999998
+Central,Office Supplies,Labels,Standard Class,657.0148000000002
+East,Office Supplies,Labels,Standard Class,637.4174
+South,Office Supplies,Labels,Standard Class,411.22870000000006
+West,Office Supplies,Labels,Standard Class,1323.5256
+Central,Office Supplies,Labels,Second Class,324.22049999999996
+East,Office Supplies,Labels,Second Class,111.79919999999998
+South,Office Supplies,Labels,Second Class,358.33299999999997
+West,Office Supplies,Labels,Second Class,672.4354
+Central,Office Supplies,Labels,First Class,72.15729999999999
+East,Office Supplies,Labels,First Class,283.21119999999996
+South,Office Supplies,Labels,First Class,206.6671
+West,Office Supplies,Labels,First Class,242.67960000000002
+Central,Office Supplies,Labels,Same Day,19.686799999999998
+East,Office Supplies,Labels,Same Day,96.8522
+South,Office Supplies,Labels,Same Day,64.54350000000001
+West,Office Supplies,Labels,Same Day,64.48169999999999
+Central,Office Supplies,Fasteners,Standard Class,172.268
+East,Office Supplies,Fasteners,Standard Class,160.8951
+South,Office Supplies,Fasteners,Standard Class,119.4907
+West,Office Supplies,Fasteners,Standard Class,165.64129999999997
+Central,Office Supplies,Fasteners,Second Class,34.6736
+East,Office Supplies,Fasteners,Second Class,66.9639
+South,Office Supplies,Fasteners,Second Class,23.193199999999997
+West,Office Supplies,Fasteners,Second Class,33.1991
+Central,Office Supplies,Fasteners,First Class,21.6134
+East,Office Supplies,Fasteners,First Class,32.2813
+South,Office Supplies,Fasteners,First Class,16.5996
+West,Office Supplies,Fasteners,First Class,56.5809
+Central,Office Supplies,Fasteners,Same Day,8.063599999999997
+East,Office Supplies,Fasteners,Same Day,3.8504999999999985
+South,Office Supplies,Fasteners,Same Day,14.4346
+West,Office Supplies,Fasteners,Same Day,19.769399999999997
+Central,Office Supplies,Supplies,First Class,1.8519999999999994
+East,Office Supplies,Supplies,First Class,13.807800000000004
+South,Office Supplies,Supplies,First Class,63.73120000000004
+West,Office Supplies,Supplies,First Class,33.715200000000024
+Central,Office Supplies,Supplies,Same Day,2.7719999999999994
+East,Office Supplies,Supplies,Same Day,17.209200000000003
+South,Office Supplies,Supplies,Same Day,20.154999999999994
+West,Office Supplies,Supplies,Same Day,38.80399999999998
+Central,Office Supplies,Supplies,Second Class,95.37420000000006
+East,Office Supplies,Supplies,Second Class,-1056.0137
+South,Office Supplies,Supplies,Second Class,-137.20819999999992
+West,Office Supplies,Supplies,Second Class,592.2852999999994
+Central,Office Supplies,Supplies,Standard Class,-761.8863000000003
+East,Office Supplies,Supplies,Standard Class,-130.13849999999996
+South,Office Supplies,Supplies,Standard Class,55.199299999999944
+West,Office Supplies,Supplies,Standard Class,-38.75800000000002
+Central,Furniture,Chairs,Standard Class,3958.3767
+East,Furniture,Chairs,Standard Class,5616.652199999996
+South,Furniture,Chairs,Standard Class,3778.5873999999985
+West,Furniture,Chairs,Standard Class,2689.4415999999965
+Central,Furniture,Chairs,Second Class,1515.3988999999997
+East,Furniture,Chairs,Second Class,1680.1681000000003
+South,Furniture,Chairs,Second Class,2580.6707
+West,Furniture,Chairs,Second Class,990.0122999999991
+Central,Furniture,Chairs,First Class,911.4259000000004
+East,Furniture,Chairs,First Class,1538.2665999999995
+South,Furniture,Chairs,First Class,89.95399999999984
+West,Furniture,Chairs,First Class,105.56839999999933
+Central,Furniture,Chairs,Same Day,207.5206000000003
+East,Furniture,Chairs,Same Day,522.6836999999997
+South,Furniture,Chairs,Same Day,162.87720000000007
+West,Furniture,Chairs,Same Day,242.5619999999995
+Central,Furniture,Furnishings,Standard Class,-2118.4427
+East,Furniture,Furnishings,Standard Class,3555.1552000000006
+South,Furniture,Furnishings,Standard Class,2251.442800000001
+West,Furniture,Furnishings,Standard Class,5070.617400000004
+Central,Furniture,Furnishings,First Class,-216.35160000000002
+East,Furniture,Furnishings,First Class,882.9411999999994
+South,Furniture,Furnishings,First Class,553.7868999999998
+West,Furniture,Furnishings,First Class,872.7199999999998
+Central,Furniture,Furnishings,Second Class,-1107.2163999999998
+East,Furniture,Furnishings,Second Class,988.4615000000002
+South,Furniture,Furnishings,Second Class,555.7614
+West,Furniture,Furnishings,Second Class,1371.7061000000003
+Central,Furniture,Furnishings,Same Day,-464.2061
+East,Furniture,Furnishings,Same Day,454.8492
+South,Furniture,Furnishings,Same Day,81.6918
+West,Furniture,Furnishings,Same Day,326.2269
+Central,Furniture,Bookcases,Same Day,
+East,Furniture,Bookcases,Same Day,289.32500000000005
+South,Furniture,Bookcases,Same Day,52.79559999999998
+West,Furniture,Bookcases,Same Day,50.44500000000001
+Central,Furniture,Bookcases,First Class,-495.2936000000001
+East,Furniture,Bookcases,First Class,25.71479999999977
+South,Furniture,Bookcases,First Class,387.3926
+West,Furniture,Bookcases,First Class,-223.81129999999996
+Central,Furniture,Bookcases,Second Class,-808.0182000000004
+East,Furniture,Bookcases,Second Class,-564.8825000000005
+South,Furniture,Bookcases,Second Class,358.9721999999998
+West,Furniture,Bookcases,Second Class,-14.092800000000025
+Central,Furniture,Bookcases,Standard Class,-694.5925
+East,Furniture,Bookcases,Standard Class,-917.7891000000003
+South,Furniture,Bookcases,Standard Class,540.3313999999999
+West,Furniture,Bookcases,Standard Class,-1459.0526000000007
+Central,Furniture,Tables,Same Day,49.5518
+East,Furniture,Tables,Same Day,-1168.3989
+South,Furniture,Tables,Same Day,-199.50760000000008
+West,Furniture,Tables,Same Day,188.9322
+Central,Furniture,Tables,First Class,-860.6667000000004
+East,Furniture,Tables,First Class,-881.3530000000001
+South,Furniture,Tables,First Class,141.5794999999996
+West,Furniture,Tables,First Class,235.0736999999997
+Central,Furniture,Tables,Second Class,-1180.9926
+East,Furniture,Tables,Second Class,-2033.0231999999999
+South,Furniture,Tables,Second Class,-1903.4873000000005
+West,Furniture,Tables,Second Class,1796.8231999999994
+Central,Furniture,Tables,Standard Class,-1567.542900000001
+East,Furniture,Tables,Standard Class,-6942.605000000001
+South,Furniture,Tables,Standard Class,-2661.642500000001
+West,Furniture,Tables,Standard Class,-738.2218000000012
