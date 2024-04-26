@@ -1,197 +1,246 @@
-Orders.Order Date.Variation.Date Hierarchy.Year,Orders.State,CountNonNull(Orders.Row ID),Sum(Orders.Discount)
-2014,Alabama,13,0
-2015,Alabama,13,0
+Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.State,CountNonNull(Orders.Row ID),Sum(Orders.Discount)
+2014,Alabama,11,0
+2015,Alabama,15,0
 2016,Alabama,19,0
 2017,Alabama,16,0
-2014,Arizona,48,13.899999999999999
-2015,Arizona,63,17.399999999999988
-2016,Arizona,43,14.299999999999999
-2017,Arizona,70,22.399999999999984
+2018,Alabama,,
+2014,Arizona,47,13.2
+2015,Arizona,64,18.099999999999987
+2016,Arizona,38,12.5
+2017,Arizona,75,24.19999999999998
+2018,Arizona,,
 2014,Arkansas,17,0
 2015,Arkansas,4,0
 2016,Arkansas,20,0
 2017,Arkansas,19,0
-2014,California,415,29.549999999999983
-2015,California,397,28.599999999999984
-2016,California,526,40.44999999999999
-2017,California,663,46.99999999999998
+2018,Arkansas,,
+2014,California,402,28.549999999999983
+2015,California,405,29.19999999999998
+2016,California,526,40.249999999999986
+2017,California,662,46.79999999999998
+2018,California,6,0.8
 2014,Colorado,29,7.900000000000002
 2015,Colorado,40,12.799999999999999
-2016,Colorado,52,17.699999999999996
+2016,Colorado,51,17.499999999999996
 2017,Colorado,61,19.19999999999999
+2018,Colorado,1,0.2
 2014,Connecticut,15,0.3
 2015,Connecticut,11,0
 2016,Connecticut,22,0.3
 2017,Connecticut,34,0
+2018,Connecticut,,
 2014,Delaware,20,0
 2015,Delaware,33,0.3
 2016,Delaware,24,0
 2017,Delaware,19,0.3
+2018,Delaware,,
 2014,District of Columbia,,
 2015,District of Columbia,3,0
 2016,District of Columbia,5,0
 2017,District of Columbia,2,0
+2018,District of Columbia,,
 2014,Florida,86,25.04999999999998
 2015,Florida,85,26.549999999999983
-2016,Florida,86,28.549999999999986
-2017,Florida,126,34.49999999999997
+2016,Florida,83,27.94999999999999
+2017,Florida,129,35.099999999999966
+2018,Florida,,
 2014,Georgia,29,0
 2015,Georgia,40,0
 2016,Georgia,53,0
 2017,Georgia,62,0
+2018,Georgia,,
 2014,Idaho,4,0.4
 2015,Idaho,5,0.6000000000000001
 2016,Idaho,4,0.4
 2017,Idaho,8,0.4
-2014,Illinois,105,42.999999999999986
-2015,Illinois,94,35.40000000000002
-2016,Illinois,121,48.199999999999974
-2017,Illinois,172,65.29999999999993
+2018,Idaho,,
+2014,Illinois,103,41.799999999999976
+2015,Illinois,94,36.200000000000024
+2016,Illinois,123,48.59999999999997
+2017,Illinois,168,62.999999999999936
+2018,Illinois,4,2.3
 2014,Indiana,17,0
 2015,Indiana,36,0
 2016,Indiana,35,0
-2017,Indiana,61,0
+2017,Indiana,60,0
+2018,Indiana,1,0
 2014,Iowa,2,0
 2015,Iowa,4,0
 2016,Iowa,8,0
-2017,Iowa,16,0
+2017,Iowa,15,0
+2018,Iowa,1,0
 2014,Kansas,6,0
 2015,Kansas,5,0
-2016,Kansas,7,0
-2017,Kansas,6,0
+2016,Kansas,5,0
+2017,Kansas,8,0
+2018,Kansas,,
 2014,Kentucky,30,0
-2015,Kentucky,36,0
-2016,Kentucky,22,0
-2017,Kentucky,51,0
+2015,Kentucky,32,0
+2016,Kentucky,25,0
+2017,Kentucky,47,0
+2018,Kentucky,5,0
 2014,Louisiana,15,0
 2015,Louisiana,8,0
 2016,Louisiana,5,0
 2017,Louisiana,14,0
+2018,Louisiana,,
 2014,Maine,3,0
 2015,Maine,3,0
 2016,Maine,2,0
 2017,Maine,,
+2018,Maine,,
 2014,Maryland,13,0
 2015,Maryland,30,0
 2016,Maryland,25,0.6
 2017,Maryland,37,0
-2014,Massachusetts,26,0.6
-2015,Massachusetts,46,0.3
-2016,Massachusetts,24,0.6
+2018,Maryland,,
+2014,Massachusetts,21,0.6
+2015,Massachusetts,50,0.3
+2016,Massachusetts,25,0.6
 2017,Massachusetts,39,0.6
-2014,Michigan,48,0.30000000000000004
-2015,Michigan,69,0.7
-2016,Michigan,71,0.5
-2017,Michigan,67,0.30000000000000004
-2014,Minnesota,23,0
-2015,Minnesota,20,0
+2018,Massachusetts,,
+2014,Michigan,47,0.30000000000000004
+2015,Michigan,65,0.7
+2016,Michigan,76,0.5
+2017,Michigan,66,0.30000000000000004
+2018,Michigan,1,0
+2014,Minnesota,21,0
+2015,Minnesota,22,0
 2016,Minnesota,8,0
 2017,Minnesota,38,0
+2018,Minnesota,,
 2014,Mississippi,14,0
 2015,Mississippi,3,0
 2016,Mississippi,23,0
 2017,Mississippi,13,0
-2014,Missouri,14,0
-2015,Missouri,12,0
+2018,Mississippi,,
+2014,Missouri,12,0
+2015,Missouri,14,0
 2016,Missouri,14,0
 2017,Missouri,26,0
+2018,Missouri,,
 2014,Montana,5,0.6000000000000001
-2015,Montana,5,0.4
-2016,Montana,,
+2015,Montana,4,0.2
+2016,Montana,1,0.2
 2017,Montana,5,0
+2018,Montana,,
 2014,Nebraska,6,0
 2015,Nebraska,7,0
 2016,Nebraska,15,0
 2017,Nebraska,10,0
+2018,Nebraska,,
 2014,Nevada,11,0.6000000000000001
 2015,Nevada,12,0.4
-2016,Nevada,10,0.8
-2017,Nevada,6,0.6000000000000001
+2016,Nevada,8,0.6000000000000001
+2017,Nevada,8,0.8
+2018,Nevada,,
 2014,New Hampshire,5,0
 2015,New Hampshire,9,0.3
-2016,New Hampshire,6,0
-2017,New Hampshire,7,0
+2016,New Hampshire,5,0
+2017,New Hampshire,8,0
+2018,New Hampshire,,
 2014,New Jersey,20,0
 2015,New Jersey,18,0
-2016,New Jersey,49,0.6
-2017,New Jersey,43,0
-2014,New Mexico,5,0.4
-2015,New Mexico,6,0.4
+2016,New Jersey,47,0.6
+2017,New Jersey,45,0
+2018,New Jersey,,
+2014,New Mexico,3,0.2
+2015,New Mexico,8,0.6000000000000001
 2016,New Mexico,4,0.6000000000000001
-2017,New Mexico,22,0.8
-2014,New York,194,12.399999999999999
-2015,New York,262,13.599999999999998
-2016,New York,320,19.900000000000013
-2017,New York,352,16.499999999999996
+2017,New Mexico,20,0.8
+2018,New Mexico,2,0
+2014,New York,188,12
+2015,New York,267,13.999999999999996
+2016,New York,321,19.900000000000013
+2017,New York,345,15.899999999999995
+2018,New York,7,0.6000000000000001
 2014,North Carolina,43,11.400000000000002
 2015,North Carolina,47,14.099999999999998
 2016,North Carolina,74,20.899999999999977
 2017,North Carolina,85,24.19999999999997
+2018,North Carolina,,
 2014,North Dakota,,
 2015,North Dakota,,
 2016,North Dakota,,
-2017,North Dakota,7,0
-2014,Ohio,93,31.199999999999996
-2015,Ohio,83,28
-2016,Ohio,132,41.19999999999997
-2017,Ohio,161,51.99999999999994
+2017,North Dakota,5,0
+2018,North Dakota,2,0
+2014,Ohio,91,30.799999999999997
+2015,Ohio,85,28.4
+2016,Ohio,129,40.59999999999997
+2017,Ohio,164,52.599999999999945
+2018,Ohio,,
 2014,Oklahoma,12,0
 2015,Oklahoma,5,0
 2016,Oklahoma,32,0
 2017,Oklahoma,17,0
+2018,Oklahoma,,
 2014,Oregon,32,7.700000000000003
 2015,Oregon,27,7.200000000000002
 2016,Oregon,35,11.1
 2017,Oregon,30,9.8
-2014,Pennsylvania,115,36.89999999999999
-2015,Pennsylvania,137,43.99999999999998
-2016,Pennsylvania,138,46.199999999999974
-2017,Pennsylvania,197,65.79999999999994
-2014,Rhode Island,13,0.3
-2015,Rhode Island,7,0.3
+2018,Oregon,,
+2014,Pennsylvania,112,35.89999999999999
+2015,Pennsylvania,140,44.999999999999986
+2016,Pennsylvania,136,45.69999999999998
+2017,Pennsylvania,199,66.29999999999994
+2018,Pennsylvania,,
+2014,Rhode Island,8,0.3
+2015,Rhode Island,12,0.3
 2016,Rhode Island,15,0
 2017,Rhode Island,21,0.6
+2018,Rhode Island,,
 2014,South Carolina,10,0
 2015,South Carolina,13,0
 2016,South Carolina,11,0
 2017,South Carolina,8,0
+2018,South Carolina,,
 2014,South Dakota,4,0
 2015,South Dakota,,
 2016,South Dakota,,
 2017,South Dakota,8,0
-2014,Tennessee,22,5.600000000000001
-2015,Tennessee,41,12.7
-2016,Tennessee,39,13.2
-2017,Tennessee,81,21.799999999999972
-2014,Texas,217,80.15999999999983
-2015,Texas,203,78.43999999999991
-2016,Texas,248,85.21999999999979
-2017,Texas,317,120.8199999999997
+2018,South Dakota,,
+2014,Tennessee,21,5.400000000000001
+2015,Tennessee,42,12.899999999999999
+2016,Tennessee,37,11.8
+2017,Tennessee,82,22.99999999999997
+2018,Tennessee,1,0.2
+2014,Texas,211,78.35999999999984
+2015,Texas,204,78.23999999999991
+2016,Texas,250,86.01999999999978
+2017,Texas,312,118.4999999999997
+2018,Texas,8,3.52
 2014,Utah,18,1
 2015,Utah,12,0.6000000000000001
 2016,Utah,8,0.2
 2017,Utah,15,1.4
+2018,Utah,,
 2014,Vermont,,
 2015,Vermont,2,0
 2016,Vermont,4,0
 2017,Vermont,5,0
+2018,Vermont,,
 2014,Virginia,70,0
 2015,Virginia,50,0
 2016,Virginia,61,0
 2017,Virginia,43,0
+2018,Virginia,,
 2014,Washington,94,6.200000000000001
 2015,Washington,75,4
 2016,Washington,122,8.600000000000001
-2017,Washington,215,13.600000000000005
+2017,Washington,212,13.600000000000005
+2018,Washington,3,0
 2014,West Virginia,,
 2015,West Virginia,,
 2016,West Virginia,,
 2017,West Virginia,4,0.3
+2018,West Virginia,,
 2014,Wisconsin,12,0
 2015,Wisconsin,21,0
-2016,Wisconsin,44,0
-2017,Wisconsin,33,0
+2016,Wisconsin,43,0
+2017,Wisconsin,34,0
+2018,Wisconsin,,
 2014,Wyoming,,
 2015,Wyoming,,
 2016,Wyoming,1,0.2
 2017,Wyoming,,
+2018,Wyoming,,
