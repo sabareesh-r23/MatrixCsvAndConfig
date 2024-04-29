@@ -1,69 +1,69 @@
-Superstore 2023.Region,Superstore 2023.Category,Superstore 2023.Sub-Category,Superstore 2023.ProfitM,Min(Superstore 2023.Segment),CountNonNull(Superstore 2023.Order Date),Sum(Superstore 2023.Sales),Min(Superstore 2023.Ship Date)
-Central,Office Supplies,Art,1195.1591,Consumer,176,5765.34,2018-01-12T18:30:00.000Z
-East,Office Supplies,Art,1899.9443,Consumer,228,7485.764,2018-01-11T18:30:00.000Z
-South,Office Supplies,Art,1058.5866,Consumer,142,4655.622,2018-01-06T18:30:00.000Z
-West,Office Supplies,Art,2374.097,Consumer,250,9212.066,2018-01-17T18:30:00.000Z
-Central,Office Supplies,Paper,6971.9005,Consumer,321,17491.902,2018-01-06T18:30:00.000Z
-East,Office Supplies,Paper,9015.371,Consumer,378,20172.602,2018-01-17T18:30:00.000Z
-South,Office Supplies,Paper,5947.0614,Consumer,221,14150.984,2018-01-09T18:30:00.000Z
-West,Office Supplies,Paper,12119.2364,Consumer,450,26663.718,2018-01-07T18:30:00.000Z
-Central,Office Supplies,Binders,-1043.6369,Consumer,366,56923.282,2018-01-07T18:30:00.000Z
-East,Office Supplies,Binders,11267.9346,Consumer,440,53497.997,2018-01-17T18:30:00.000Z
-South,Office Supplies,Binders,3900.664,Consumer,246,37030.341,2018-01-09T18:30:00.000Z
-West,Office Supplies,Binders,16096.8016,Consumer,471,55961.113,2018-01-19T18:30:00.000Z
-Central,Office Supplies,Labels,1073.0794,Consumer,76,2451.472,2018-01-07T18:30:00.000Z
-East,Office Supplies,Labels,1129.28,Consumer,107,2602.934,2018-01-17T18:30:00.000Z
-South,Office Supplies,Labels,1040.7723,Consumer,65,2353.18,2018-01-14T18:30:00.000Z
-West,Office Supplies,Labels,2303.1223,Consumer,116,5078.726,2018-03-29T18:30:00.000Z
-Central,Office Supplies,Storage,1969.8365,Consumer,210,45930.112,2018-01-07T18:30:00.000Z
-East,Office Supplies,Storage,8389.3712,Consumer,242,71612.584,2018-02-09T18:30:00.000Z
-South,Office Supplies,Storage,2274.2965,Consumer,128,35768.06,2018-01-14T18:30:00.000Z
-West,Office Supplies,Storage,8645.3222,Consumer,266,70532.852,2018-01-17T18:30:00.000Z
-Central,Office Supplies,Fasteners,236.6186,Consumer,55,778.03,2018-01-26T18:30:00.000Z
-East,Office Supplies,Fasteners,263.9908,Consumer,61,819.718,2018-03-15T18:30:00.000Z
-South,Office Supplies,Fasteners,173.7181,Consumer,29,503.316,2018-01-09T18:30:00.000Z
-West,Office Supplies,Fasteners,275.1907,Consumer,72,923.216,2018-02-05T18:30:00.000Z
-Central,Office Supplies,Envelopes,1777.5283,Consumer,59,4636.872,2018-03-31T18:30:00.000Z
-East,Office Supplies,Envelopes,1812.409,Consumer,74,4375.874,2018-03-07T18:30:00.000Z
-South,Office Supplies,Envelopes,1465.477,Consumer,54,3345.556,2018-01-14T18:30:00.000Z
-West,Office Supplies,Envelopes,1908.7624,Consumer,67,4118.1,2018-01-19T18:30:00.000Z
-Central,Office Supplies,Appliances,-2638.6175,Consumer,123,23582.033,2018-01-25T18:30:00.000Z
-East,Office Supplies,Appliances,8391.4134,Consumer,126,34188.466,2018-05-01T18:30:00.000Z
-South,Office Supplies,Appliances,4123.9396,Consumer,81,19525.326,2018-03-12T18:30:00.000Z
-West,Office Supplies,Appliances,8261.2699,Consumer,136,30236.336,2018-01-20T18:30:00.000Z
-Central,Office Supplies,Supplies,-661.8881,Consumer,36,9467.372,2018-09-18T18:30:00.000Z
-East,Office Supplies,Supplies,-1155.1352,Consumer,56,10760.116,2018-03-07T18:30:00.000Z
-South,Office Supplies,Supplies,1.8773,Consumer,29,8318.928,2018-04-08T18:30:00.000Z
-West,Office Supplies,Supplies,626.0465,Consumer,69,18127.122,2018-02-17T18:30:00.000Z
-Central,Furniture,Chairs,6592.7221,Consumer,154,85230.646,2018-02-14T18:30:00.000Z
-East,Furniture,Chairs,9357.7706,Consumer,168,96260.683,2018-03-31T18:30:00.000Z
-South,Furniture,Chairs,6612.0893,Consumer,88,45176.446,2018-01-09T18:30:00.000Z
-West,Furniture,Chairs,4027.5843,Consumer,207,101781.328,2018-02-17T18:30:00.000Z
-Central,Furniture,Furnishings,-3906.2168,Consumer,205,15254.37,2018-01-11T18:30:00.000Z
-East,Furniture,Furnishings,5881.4071,Consumer,283,29071.38,2018-01-13T18:30:00.000Z
-South,Furniture,Furnishings,3442.6829,Consumer,165,17306.684,2018-01-14T18:30:00.000Z
-West,Furniture,Furnishings,7641.2704,Consumer,304,30072.73,2018-01-24T18:30:00.000Z
-Central,Furniture,Bookcases,-1997.9043,Consumer,50,24157.1768,2018-01-28T18:30:00.000Z
-East,Furniture,Bookcases,-1167.6318,Consumer,70,43819.334,2018-01-14T18:30:00.000Z
-South,Furniture,Bookcases,1339.4918,Consumer,28,10899.362,2018-08-09T18:30:00.000Z
-West,Furniture,Bookcases,-1646.5117,Consumer,80,36004.1235,2018-01-17T18:30:00.000Z
-Central,Furniture,Tables,-3559.6504,Consumer,72,39154.971,2018-03-06T18:30:00.000Z
-East,Furniture,Tables,-11025.3801,Consumer,80,39139.807,2018-03-20T18:30:00.000Z
-South,Furniture,Tables,-4623.0579,Consumer,51,43916.192,2018-02-14T18:30:00.000Z
-West,Furniture,Tables,1482.6073,Consumer,116,84754.562,2018-02-01T18:30:00.000Z
-Central,Technology,Phones,12323.0267,Consumer,200,72403.282,2018-03-31T18:30:00.000Z
-East,Technology,Phones,12314.686,Consumer,272,100614.982,2018-01-17T18:30:00.000Z
-South,Technology,Phones,10767.2753,Consumer,140,58304.438,2018-01-09T18:30:00.000Z
-West,Technology,Phones,9110.7426,Consumer,277,98684.352,2018-03-25T18:30:00.000Z
-Central,Technology,Accessories,7251.6306,Consumer,183,33956.076,2018-01-12T18:30:00.000Z
-East,Technology,Accessories,11195.8644,Consumer,206,45033.372,2018-02-11T18:30:00.000Z
-South,Technology,Accessories,7004.5424,Consumer,128,27276.754,2018-01-14T18:30:00.000Z
-West,Technology,Accessories,16484.5983,Consumer,258,61114.116,2018-02-17T18:30:00.000Z
-Central,Technology,Machines,-1486.0666,Consumer,21,26797.384,2018-03-16T18:30:00.000Z
-East,Technology,Machines,6928.6429,Consumer,37,66106.165,2018-06-22T18:30:00.000Z
-South,Technology,Machines,-1438.893,Consumer,18,53890.96,2018-03-22T18:30:00.000Z
-West,Technology,Machines,-618.9264,Consumer,39,42444.122,2018-03-23T18:30:00.000Z
-Central,Technology,Copiers,15608.8413,Consumer,16,37259.57,2018-06-02T18:30:00.000Z
-East,Technology,Copiers,17022.8418,Consumer,20,53219.462,2018-05-09T18:30:00.000Z
-South,Technology,Copiers,3658.9067,Consumer,7,9299.756,2018-05-03T18:30:00.000Z
-West,Technology,Copiers,19327.2351,Consumer,25,49749.242,2018-08-14T18:30:00.000Z
+Superstore 2023.Region,Superstore 2023.Category,Superstore 2023.Sub-Category,Superstore 2023.ProfitM,Sum(Superstore 2023.Sales)
+Central,Technology,Phones,12323.0267,72403.282
+East,Technology,Phones,12314.686,100614.982
+South,Technology,Phones,10767.2753,58304.438
+West,Technology,Phones,9110.7426,98684.352
+Central,Technology,Machines,-1486.0666,26797.384
+East,Technology,Machines,6928.6429,66106.165
+South,Technology,Machines,-1438.893,53890.96
+West,Technology,Machines,-618.9264,42444.122
+Central,Technology,Accessories,7251.6306,33956.076
+East,Technology,Accessories,11195.8644,45033.372
+South,Technology,Accessories,7004.5424,27276.754
+West,Technology,Accessories,16484.5983,61114.116
+Central,Technology,Copiers,15608.8413,37259.57
+East,Technology,Copiers,17022.8418,53219.462
+South,Technology,Copiers,3658.9067,9299.756
+West,Technology,Copiers,19327.2351,49749.242
+Central,Furniture,Chairs,6592.7221,85230.646
+East,Furniture,Chairs,9357.7706,96260.683
+South,Furniture,Chairs,6612.0893,45176.446
+West,Furniture,Chairs,4027.5843,101781.328
+Central,Furniture,Tables,-3559.6504,39154.971
+East,Furniture,Tables,-11025.3801,39139.807
+South,Furniture,Tables,-4623.0579,43916.192
+West,Furniture,Tables,1482.6073,84754.562
+Central,Furniture,Bookcases,-1997.9043,24157.1768
+East,Furniture,Bookcases,-1167.6318,43819.334
+South,Furniture,Bookcases,1339.4918,10899.362
+West,Furniture,Bookcases,-1646.5117,36004.1235
+Central,Furniture,Furnishings,-3906.2168,15254.37
+East,Furniture,Furnishings,5881.4071,29071.38
+South,Furniture,Furnishings,3442.6829,17306.684
+West,Furniture,Furnishings,7641.2704,30072.73
+Central,Office Supplies,Storage,1969.8365,45930.112
+East,Office Supplies,Storage,8389.3712,71612.584
+South,Office Supplies,Storage,2274.2965,35768.06
+West,Office Supplies,Storage,8645.3222,70532.852
+Central,Office Supplies,Binders,-1043.6369,56923.282
+East,Office Supplies,Binders,11267.9346,53497.997
+South,Office Supplies,Binders,3900.664,37030.341
+West,Office Supplies,Binders,16096.8016,55961.113
+Central,Office Supplies,Appliances,-2638.6175,23582.033
+East,Office Supplies,Appliances,8391.4134,34188.466
+South,Office Supplies,Appliances,4123.9396,19525.326
+West,Office Supplies,Appliances,8261.2699,30236.336
+Central,Office Supplies,Paper,6971.9005,17491.902
+East,Office Supplies,Paper,9015.371,20172.602
+South,Office Supplies,Paper,5947.0614,14150.984
+West,Office Supplies,Paper,12119.2364,26663.718
+Central,Office Supplies,Supplies,-661.8881,9467.372
+East,Office Supplies,Supplies,-1155.1352,10760.116
+South,Office Supplies,Supplies,1.8773,8318.928
+West,Office Supplies,Supplies,626.0465,18127.122
+Central,Office Supplies,Art,1195.1591,5765.34
+East,Office Supplies,Art,1899.9443,7485.764
+South,Office Supplies,Art,1058.5866,4655.622
+West,Office Supplies,Art,2374.097,9212.066
+Central,Office Supplies,Envelopes,1777.5283,4636.872
+East,Office Supplies,Envelopes,1812.409,4375.874
+South,Office Supplies,Envelopes,1465.477,3345.556
+West,Office Supplies,Envelopes,1908.7624,4118.1
+Central,Office Supplies,Labels,1073.0794,2451.472
+East,Office Supplies,Labels,1129.28,2602.934
+South,Office Supplies,Labels,1040.7723,2353.18
+West,Office Supplies,Labels,2303.1223,5078.726
+Central,Office Supplies,Fasteners,236.6186,778.03
+East,Office Supplies,Fasteners,263.9908,819.718
+South,Office Supplies,Fasteners,173.7181,503.316
+West,Office Supplies,Fasteners,275.1907,923.216
