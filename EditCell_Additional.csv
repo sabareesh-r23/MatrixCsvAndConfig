@@ -1,0 +1,834 @@
+Orders.State,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales),Sum(Orders.Profit)
+Alabama,Technology,Copiers,899.97,314.9895
+Arizona,Technology,Copiers,,
+Arkansas,Technology,Copiers,,
+California,Technology,Copiers,24559.520000000004,7889.8519
+Colorado,Technology,Copiers,439.992,164.997
+Connecticut,Technology,Copiers,,
+Delaware,Technology,Copiers,10499.97,5039.9856
+District of Columbia,Technology,Copiers,,
+Florida,Technology,Copiers,1439.968,401.9917999999999
+Georgia,Technology,Copiers,2999.95,1439.976
+Idaho,Technology,Copiers,,
+Illinois,Technology,Copiers,5919.888000000001,1831.9665999999997
+Indiana,Technology,Copiers,18499.929999999997,8849.966999999999
+Iowa,Technology,Copiers,,
+Kansas,Technology,Copiers,,
+Kentucky,Technology,Copiers,1399.98,629.991
+Louisiana,Technology,Copiers,,
+Maine,Technology,Copiers,,
+Maryland,Technology,Copiers,,
+Massachusetts,Technology,Copiers,1199.98,467.9922
+Michigan,Technology,Copiers,1149.97,484.988
+Minnesota,Technology,Copiers,549.99,274.995
+Mississippi,Technology,Copiers,,
+Missouri,Technology,Copiers,5499.92,2536.9631999999997
+Montana,Technology,Copiers,2999.95,1379.9769999999999
+Nebraska,Technology,Copiers,,
+Nevada,Technology,Copiers,,
+New Hampshire,Technology,Copiers,,
+New Jersey,Technology,Copiers,,
+New Mexico,Technology,Copiers,,
+New York,Technology,Copiers,17199.840000000004,5839.949999999999
+North Carolina,Technology,Copiers,959.9680000000001,119.99599999999992
+North Dakota,Technology,Copiers,,
+Ohio,Technology,Copiers,3839.9339999999997,446.99229999999983
+Oklahoma,Technology,Copiers,,
+Oregon,Technology,Copiers,,
+Pennsylvania,Technology,Copiers,13079.867999999999,1735.982899999999
+Rhode Island,Technology,Copiers,7399.87,3491.9388
+South Carolina,Technology,Copiers,,
+South Dakota,Technology,Copiers,,
+Tennessee,Technology,Copiers,,
+Texas,Technology,Copiers,5639.872,1629.9615000000001
+Utah,Technology,Copiers,1499.95,449.9849999999999
+Vermont,Technology,Copiers,,
+Virginia,Technology,Copiers,1599.92,751.9624
+Washington,Technology,Copiers,20249.83,9442.4242
+West Virginia,Technology,Copiers,,
+Wisconsin,Technology,Copiers,,
+Wyoming,Technology,Copiers,,
+Alabama,Technology,Phones,2706.2799999999997,707.1788000000001
+Arizona,Technology,Phones,7388.776000000001,818.6727999999997
+Arkansas,Technology,Phones,2136.81,577.7685999999999
+California,Technology,Phones,67964.536,6309.119699999999
+Colorado,Technology,Phones,4924.656000000001,523.1144999999997
+Connecticut,Technology,Phones,2133.34,587.1789
+Delaware,Technology,Phones,3434.5899999999997,992.3588999999998
+District of Columbia,Technology,Phones,,
+Florida,Technology,Phones,15092.184000000001,1354.7557
+Georgia,Technology,Phones,7004.73,1881.7586000000003
+Idaho,Technology,Phones,747.528,54.309900000000006
+Illinois,Technology,Phones,16771.784,1682.6886999999992
+Indiana,Technology,Phones,5460.390000000001,1558.0268999999996
+Iowa,Technology,Phones,1154.3,318.36819999999994
+Kansas,Technology,Phones,756.69,148.70259999999996
+Kentucky,Technology,Phones,5114.36,1406.3602
+Louisiana,Technology,Phones,683.0699999999999,181.472
+Maine,Technology,Phones,437.84999999999997,131.35499999999996
+Maryland,Technology,Phones,2577.2599999999998,698.1856000000001
+Massachusetts,Technology,Phones,3629.7400000000002,1016.1552999999998
+Michigan,Technology,Phones,6731.279999999995,1810.1694
+Minnesota,Technology,Phones,774.8899999999999,187.08220000000003
+Mississippi,Technology,Phones,812.6700000000001,231.75209999999996
+Missouri,Technology,Phones,564.9200000000001,222.78430000000003
+Montana,Technology,Phones,445.54400000000004,51.73359999999995
+Nebraska,Technology,Phones,3045.7999999999997,891.6314999999998
+Nevada,Technology,Phones,2511.0560000000005,243.68649999999985
+New Hampshire,Technology,Phones,824.95,247.48499999999993
+New Jersey,Technology,Phones,3577.7499999999995,1110.6172
+New Mexico,Technology,Phones,534.1279999999999,72.94550000000001
+New York,Technology,Phones,47502.62000000004,13399.189200000003
+North Carolina,Technology,Phones,8995.863999999998,860.4341999999997
+North Dakota,Technology,Phones,,
+Ohio,Technology,Phones,14634.948000000002,-2778.8577999999998
+Oklahoma,Technology,Phones,4550.9800000000005,1185.2144
+Oregon,Technology,Phones,4451.336,248.15029999999996
+Pennsylvania,Technology,Phones,19702.404000000002,-3606.9276
+Rhode Island,Technology,Phones,864.78,181.31130000000002
+South Carolina,Technology,Phones,1452.73,412.70470000000006
+South Dakota,Technology,Phones,,
+Tennessee,Technology,Phones,3656.2400000000002,305.22470000000004
+Texas,Technology,Phones,28589.568,3222.4607999999994
+Utah,Technology,Phones,615.224,90.42779999999996
+Vermont,Technology,Phones,1294.75,336.635
+Virginia,Technology,Phones,10649.5,2847.8657000000003
+Washington,Technology,Phones,9101.568000000001,698.5819999999998
+West Virginia,Technology,Phones,,
+Wisconsin,Technology,Phones,4002.6800000000003,1095.8977
+Wyoming,Technology,Phones,,
+Alabama,Technology,Accessories,2322.83,816.4346
+Arizona,Technology,Accessories,3396.16,224.76939999999973
+Arkansas,Technology,Accessories,1788.44,683.6698000000001
+California,Technology,Accessories,37255.01000000001,11095.656499999997
+Colorado,Technology,Accessories,2287.992,224.55939999999998
+Connecticut,Technology,Accessories,657.69,193.75470000000004
+Delaware,Technology,Accessories,561.6899999999999,175.7004
+District of Columbia,Technology,Accessories,,
+Florida,Technology,Accessories,5861.9439999999995,750.0682999999997
+Georgia,Technology,Accessories,3657.8699999999994,887.8450999999998
+Idaho,Technology,Accessories,89.97,37.787400000000005
+Illinois,Technology,Accessories,5535.696000000001,981.8643999999998
+Indiana,Technology,Accessories,2279.0299999999997,570.2304000000001
+Iowa,Technology,Accessories,,
+Kansas,Technology,Accessories,92.35000000000001,26.284
+Kentucky,Technology,Accessories,2976.2999999999997,703.4852000000001
+Louisiana,Technology,Accessories,1667.8000000000002,593.5581999999999
+Maine,Technology,Accessories,323.4,119.67779999999999
+Maryland,Technology,Accessories,1123.8100000000002,415.45550000000014
+Massachusetts,Technology,Accessories,896.91,271.6026
+Michigan,Technology,Accessories,4932.549999999999,1655.0608000000007
+Minnesota,Technology,Accessories,1520.38,556.7236
+Mississippi,Technology,Accessories,2009.66,754.6503
+Missouri,Technology,Accessories,1021.6800000000001,254.9793
+Montana,Technology,Accessories,217.44,91.32480000000001
+Nebraska,Technology,Accessories,239.94,69.8835
+Nevada,Technology,Accessories,229.55,89.4291
+New Hampshire,Technology,Accessories,2811.85,655.2223
+New Jersey,Technology,Accessories,1023.5599999999998,349.62859999999995
+New Mexico,Technology,Accessories,1163.8,264.33729999999997
+New York,Technology,Accessories,19597.539999999994,5627.570199999998
+North Carolina,Technology,Accessories,3506.6319999999996,821.0744
+North Dakota,Technology,Accessories,,
+Ohio,Technology,Accessories,8222.872,1452.8700999999994
+Oklahoma,Technology,Accessories,1817.47,395.6858999999999
+Oregon,Technology,Accessories,1160.3040000000003,152.1385
+Pennsylvania,Technology,Accessories,7299.280000000001,898.9686999999992
+Rhode Island,Technology,Accessories,2209.76,924.7622000000001
+South Carolina,Technology,Accessories,138.89,40.882799999999996
+South Dakota,Technology,Accessories,392.94000000000005,133.89660000000003
+Tennessee,Technology,Accessories,410.568,35.21849999999997
+Texas,Technology,Accessories,11328.560000000001,1105.8500999999992
+Utah,Technology,Accessories,194.73000000000002,41.32229999999999
+Vermont,Technology,Accessories,305.01,110.65129999999999
+Virginia,Technology,Accessories,2935.8199999999993,917.6551999999998
+Washington,Technology,Accessories,15119.159999999993,4263.2735999999995
+West Virginia,Technology,Accessories,,
+Wisconsin,Technology,Accessories,4795.48,1501.1719999999996
+Wyoming,Technology,Accessories,,
+Alabama,Technology,Machines,3040,1459.2
+Arizona,Technology,Machines,965.9490000000002,-930.9409999999999
+Arkansas,Technology,Machines,,
+California,Technology,Machines,29492.015999999996,4175.408699999997
+Colorado,Technology,Machines,3313.6890000000008,-4384.255400000001
+Connecticut,Technology,Machines,,
+Delaware,Technology,Machines,65.97,31.005899999999997
+District of Columbia,Technology,Machines,1379.92,648.5624
+Florida,Technology,Machines,24573.940000000002,-1976.0110000000022
+Georgia,Technology,Machines,396,190.07999999999998
+Idaho,Technology,Machines,,
+Illinois,Technology,Machines,3756.3049999999994,326.0394999999998
+Indiana,Technology,Machines,83.9,22.653000000000006
+Iowa,Technology,Machines,,
+Kansas,Technology,Machines,,
+Kentucky,Technology,Machines,3080,1416.7999999999997
+Louisiana,Technology,Machines,479.97,239.985
+Maine,Technology,Machines,,
+Maryland,Technology,Machines,464.97,209.23649999999998
+Massachusetts,Technology,Machines,,
+Michigan,Technology,Machines,3410.955,832.0842999999996
+Minnesota,Technology,Machines,,
+Mississippi,Technology,Machines,,
+Missouri,Technology,Machines,,
+Montana,Technology,Machines,,
+Nebraska,Technology,Machines,,
+Nevada,Technology,Machines,2396.4,179.73000000000013
+New Hampshire,Technology,Machines,,
+New Jersey,Technology,Machines,9899.85,2709.9521999999993
+New Mexico,Technology,Machines,,
+New York,Technology,Machines,43183.5,17320.076199999996
+North Carolina,Technology,Machines,12620.655,-5384.808599999999
+North Dakota,Technology,Machines,,
+Ohio,Technology,Machines,8978.238000000001,-11770.944700000002
+Oklahoma,Technology,Machines,,
+Oregon,Technology,Machines,209.91600000000005,-273.9323999999999
+Pennsylvania,Technology,Machines,2133.717,-2219.2455999999993
+Rhode Island,Technology,Machines,,
+South Carolina,Technology,Machines,,
+South Dakota,Technology,Machines,,
+Tennessee,Technology,Machines,740.475,-274.40950000000015
+Texas,Technology,Machines,19546.224,-2666.8434000000025
+Utah,Technology,Machines,,
+Vermont,Technology,Machines,,
+Virginia,Technology,Machines,8959.92,2890.2710999999995
+Washington,Technology,Machines,6066.152000000001,615.0637
+West Virginia,Technology,Machines,,
+Wisconsin,Technology,Machines,,
+Wyoming,Technology,Machines,,
+Alabama,Office Supplies,Paper,883.0199999999999,424.21239999999995
+Arizona,Office Supplies,Paper,2440.760000000001,842.0393999999999
+Arkansas,Office Supplies,Paper,805.5200000000001,382.76259999999996
+California,Office Supplies,Paper,16757.95,7977.539500000002
+Colorado,Office Supplies,Paper,883.2160000000002,298.5881999999999
+Connecticut,Office Supplies,Paper,788.2200000000001,378.8327999999999
+Delaware,Office Supplies,Paper,440.77000000000004,211.04019999999997
+District of Columbia,Office Supplies,Paper,72.22,34.4116
+Florida,Office Supplies,Paper,2425.56,833.0004000000001
+Georgia,Office Supplies,Paper,2957.2400000000002,1417.8822000000005
+Idaho,Office Supplies,Paper,172.86,81.322
+Illinois,Office Supplies,Paper,3455.8160000000003,1183.6765999999998
+Indiana,Office Supplies,Paper,1879.5200000000002,888.3797
+Iowa,Office Supplies,Paper,315.81,149.73549999999997
+Kansas,Office Supplies,Paper,303,147.6816
+Kentucky,Office Supplies,Paper,1058.5499999999997,502.21109999999993
+Louisiana,Office Supplies,Paper,103.68000000000002,49.89600000000001
+Maine,Office Supplies,Paper,259.74,124.6752
+Maryland,Office Supplies,Paper,1039.3500000000001,504.91610000000003
+Massachusetts,Office Supplies,Paper,1774.0900000000006,831.8217
+Michigan,Office Supplies,Paper,2010.7400000000002,961.3903999999999
+Minnesota,Office Supplies,Paper,319.88000000000005,155.50740000000005
+Mississippi,Office Supplies,Paper,725.2799999999999,344.06960000000004
+Missouri,Office Supplies,Paper,301.80999999999995,144.0062
+Montana,Office Supplies,Paper,41,19.321199999999997
+Nebraska,Office Supplies,Paper,332.79,160.31819999999996
+Nevada,Office Supplies,Paper,317.78,153.59199999999998
+New Hampshire,Office Supplies,Paper,284.88,132.9606
+New Jersey,Office Supplies,Paper,1421.76,683.3578
+New Mexico,Office Supplies,Paper,625.7799999999999,298.9393999999999
+New York,Office Supplies,Paper,8457.259999999995,4023.079900000001
+North Carolina,Office Supplies,Paper,2594.2639999999997,898.8403000000001
+North Dakota,Office Supplies,Paper,,
+Ohio,Office Supplies,Paper,2146.2880000000005,744.0522000000001
+Oklahoma,Office Supplies,Paper,196.62,92.8482
+Oregon,Office Supplies,Paper,953.352,324.05800000000005
+Pennsylvania,Office Supplies,Paper,2378.304000000001,813.0179
+Rhode Island,Office Supplies,Paper,569.68,270.4294
+South Carolina,Office Supplies,Paper,331.85,159.8973
+South Dakota,Office Supplies,Paper,,
+Tennessee,Office Supplies,Paper,1060.3200000000002,363.8583
+Texas,Office Supplies,Paper,6983.456000000002,2422.9702999999995
+Utah,Office Supplies,Paper,1152.2800000000002,553.4284000000001
+Vermont,Office Supplies,Paper,92.2,43.333999999999996
+Virginia,Office Supplies,Paper,1205.7000000000003,570.4312
+Washington,Office Supplies,Paper,3318.7400000000007,1570.4083000000003
+West Virginia,Office Supplies,Paper,447.84,219.4416
+Wisconsin,Office Supplies,Paper,1392.4599999999996,665.3864
+Wyoming,Office Supplies,Paper,,
+Alabama,Office Supplies,Binders,466.82000000000005,227.76879999999997
+Arizona,Office Supplies,Binders,2185.353000000001,-1646.7484000000002
+Arkansas,Office Supplies,Binders,2889.83,1356.2051999999999
+California,Office Supplies,Binders,28473.167999999987,10002.1537
+Colorado,Office Supplies,Binders,508.96800000000013,-379.4918999999999
+Connecticut,Office Supplies,Binders,371.86999999999995,176.28
+Delaware,Office Supplies,Binders,2434.0299999999997,1159.597
+District of Columbia,Office Supplies,Binders,9.64,4.4344
+Florida,Office Supplies,Binders,3690.4980000000005,-2760.7303999999986
+Georgia,Office Supplies,Binders,11672.32,5717.307499999999
+Idaho,Office Supplies,Binders,71.656,24.634699999999995
+Illinois,Office Supplies,Binders,4538.545999999999,-7204.324200000003
+Indiana,Office Supplies,Binders,4011.88,1827.1562000000004
+Iowa,Office Supplies,Binders,247.95999999999998,118.7179
+Kansas,Office Supplies,Binders,611.92,279.44319999999993
+Kentucky,Office Supplies,Binders,3695.8199999999997,1740.0312
+Louisiana,Office Supplies,Binders,628.52,290.5414
+Maine,Office Supplies,Binders,38.1,17.3102
+Maryland,Office Supplies,Binders,3225.05,1595.5108000000002
+Massachusetts,Office Supplies,Binders,2105.1899999999996,1000.7748
+Michigan,Office Supplies,Binders,22821.97,11079.505
+Minnesota,Office Supplies,Binders,12470.240000000002,6041.276000000001
+Mississippi,Office Supplies,Binders,966.8499999999999,457.68709999999993
+Missouri,Office Supplies,Binders,1875.6200000000001,898.4064
+Montana,Office Supplies,Binders,502.36800000000005,157.39839999999998
+Nebraska,Office Supplies,Binders,128.23,60.4036
+Nevada,Office Supplies,Binders,4897.184,1768.443
+New Hampshire,Office Supplies,Binders,763.4799999999999,359.06479999999993
+New Jersey,Office Supplies,Binders,3529.5199999999995,1649.0788
+New Mexico,Office Supplies,Binders,125.632,45.083999999999996
+New York,Office Supplies,Binders,32456.911999999975,11096.025999999994
+North Carolina,Office Supplies,Binders,2562.321,-2007.8254
+North Dakota,Office Supplies,Binders,25.9,12.690999999999999
+Ohio,Office Supplies,Binders,1917.0870000000007,-1400.6681000000005
+Oklahoma,Office Supplies,Binders,445.44,209.75369999999998
+Oregon,Office Supplies,Binders,281.06399999999996,-198.7411
+Pennsylvania,Office Supplies,Binders,6266.057999999999,-4570.975000000001
+Rhode Island,Office Supplies,Binders,292.42,138.0673
+South Carolina,Office Supplies,Binders,515.08,246.6088
+South Dakota,Office Supplies,Binders,114.50999999999999,55.6446
+Tennessee,Office Supplies,Binders,5148.042000000001,-3635.918099999999
+Texas,Office Supplies,Binders,9042.675999999994,-14705.073799999996
+Utah,Office Supplies,Binders,759.5920000000001,262.2578
+Vermont,Office Supplies,Binders,,
+Virginia,Office Supplies,Binders,4794.24,2268.9879
+Washington,Office Supplies,Binders,18156.127999999997,6061.8114
+West Virginia,Office Supplies,Binders,88.64,43.433600000000006
+Wisconsin,Office Supplies,Binders,588.39,282.7635
+Wyoming,Office Supplies,Binders,,
+Alabama,Office Supplies,Storage,1249.4099999999999,147.85639999999998
+Arizona,Office Supplies,Storage,2590.3840000000005,-271.1709000000001
+Arkansas,Office Supplies,Storage,430,32.089599999999976
+California,Office Supplies,Storage,45112.28999999996,7204.137199999992
+Colorado,Office Supplies,Storage,3387.168,-212.69980000000027
+Connecticut,Office Supplies,Storage,2428.26,355.60810000000004
+Delaware,Office Supplies,Storage,4179.42,1119.3837000000003
+District of Columbia,Office Supplies,Storage,,
+Florida,Office Supplies,Storage,7419.256,-203.10680000000025
+Georgia,Office Supplies,Storage,7381.290000000001,1109.9142
+Idaho,Office Supplies,Storage,477.15000000000003,28.628999999999962
+Illinois,Office Supplies,Storage,9080.328,-257.4584000000002
+Indiana,Office Supplies,Storage,4120.43,555.2860999999999
+Iowa,Office Supplies,Storage,13.48,3.5047999999999995
+Kansas,Office Supplies,Storage,393.67,101.6884
+Kentucky,Office Supplies,Storage,4822.43,855.3874
+Louisiana,Office Supplies,Storage,805.13,43.65679999999995
+Maine,Office Supplies,Storage,,
+Maryland,Office Supplies,Storage,3541.9800000000005,822.4622999999997
+Massachusetts,Office Supplies,Storage,4288.780000000001,933.1968999999998
+Michigan,Office Supplies,Storage,6187.48,940.4051999999999
+Minnesota,Office Supplies,Storage,3397.73,561.3061999999998
+Mississippi,Office Supplies,Storage,575.81,44.64479999999998
+Missouri,Office Supplies,Storage,1791.94,322.27779999999996
+Montana,Office Supplies,Storage,1304.45,104.94889999999998
+Nebraska,Office Supplies,Storage,1164.5,138.673
+Nevada,Office Supplies,Storage,1325.8500000000001,238.6529999999999
+New Hampshire,Office Supplies,Storage,337.29999999999995,33.71799999999999
+New Jersey,Office Supplies,Storage,4669.08,779.1128000000001
+New Mexico,Office Supplies,Storage,279.65999999999997,78.1557
+New York,Office Supplies,Storage,26928.349999999995,4338.2179
+North Carolina,Office Supplies,Storage,3438.0880000000006,-86.2088000000002
+North Dakota,Office Supplies,Storage,704.76,162.09479999999996
+Ohio,Office Supplies,Storage,7264.44,-276.33640000000014
+Oklahoma,Office Supplies,Storage,2345.05,100.37230000000001
+Oregon,Office Supplies,Storage,1991.1200000000001,-410.77290000000005
+Pennsylvania,Office Supplies,Storage,11784.624,-1434.3118000000004
+Rhode Island,Office Supplies,Storage,4626.0599999999995,1311.6042999999997
+South Carolina,Office Supplies,Storage,2567.21,118.35599999999994
+South Dakota,Office Supplies,Storage,,
+Tennessee,Office Supplies,Storage,3310.8560000000007,-333.57390000000015
+Texas,Office Supplies,Storage,15723.583999999997,-763.705400000001
+Utah,Office Supplies,Storage,901.58,153.7654
+Vermont,Office Supplies,Storage,1564.29,406.71539999999993
+Virginia,Office Supplies,Storage,3768.58,545.2807999999998
+Washington,Office Supplies,Storage,13163.199999999999,1731.6766000000002
+West Virginia,Office Supplies,Storage,,
+Wisconsin,Office Supplies,Storage,1007.1600000000001,105.39170000000001
+Wyoming,Office Supplies,Storage,,
+Alabama,Office Supplies,Appliances,208.16,56.20320000000001
+Arizona,Office Supplies,Appliances,774.4320000000001,83.25479999999997
+Arkansas,Office Supplies,Appliances,,
+California,Office Supplies,Appliances,24175.92,6992.231799999999
+Colorado,Office Supplies,Appliances,1367.296,141.42069999999995
+Connecticut,Office Supplies,Appliances,1479.18,471.8696999999999
+Delaware,Office Supplies,Appliances,140.42,44.364599999999996
+District of Columbia,Office Supplies,Appliances,,
+Florida,Office Supplies,Appliances,3558.4399999999996,349.75639999999976
+Georgia,Office Supplies,Appliances,3432.1499999999996,1058.5832
+Idaho,Office Supplies,Appliances,227.84,66.07359999999997
+Illinois,Office Supplies,Appliances,974.7199999999997,-2482.4187
+Indiana,Office Supplies,Appliances,4160.15,1259.8645
+Iowa,Office Supplies,Appliances,,
+Kansas,Office Supplies,Appliances,81.96,22.9488
+Kentucky,Office Supplies,Appliances,1335.6200000000001,371.18519999999995
+Louisiana,Office Supplies,Appliances,17.34,4.681800000000001
+Maine,Office Supplies,Appliances,101.96,27.529200000000003
+Maryland,Office Supplies,Appliances,1589.1599999999999,494.2301999999999
+Massachusetts,Office Supplies,Appliances,3347.7499999999995,999.7392999999997
+Michigan,Office Supplies,Appliances,4324.149000000001,1086.0807999999995
+Minnesota,Office Supplies,Appliances,2844.13,863.8521
+Mississippi,Office Supplies,Appliances,615.55,176.9454
+Missouri,Office Supplies,Appliances,3670.4300000000003,1226.0318000000002
+Montana,Office Supplies,Appliances,,
+Nebraska,Office Supplies,Appliances,500.56999999999994,170.1778
+Nevada,Office Supplies,Appliances,95.98,27.212599999999995
+New Hampshire,Office Supplies,Appliances,33.28,9.3184
+New Jersey,Office Supplies,Appliances,4204.360000000001,1203.438
+New Mexico,Office Supplies,Appliances,,
+New York,Office Supplies,Appliances,13276.379999999997,3807.7644999999993
+North Carolina,Office Supplies,Appliances,4137.552,485.6745999999998
+North Dakota,Office Supplies,Appliances,,
+Ohio,Office Supplies,Appliances,4807.536,486.2552999999997
+Oklahoma,Office Supplies,Appliances,1491.22,471.5794999999999
+Oregon,Office Supplies,Appliances,535.768,54.08559999999999
+Pennsylvania,Office Supplies,Appliances,4663.280000000001,694.2149999999999
+Rhode Island,Office Supplies,Appliances,2.22,0.6659999999999999
+South Carolina,Office Supplies,Appliances,,
+South Dakota,Office Supplies,Appliances,416.32,112.40640000000002
+Tennessee,Office Supplies,Appliances,1914.984,203.1673
+Texas,Office Supplies,Appliances,2407.8139999999994,-6147.222500000001
+Utah,Office Supplies,Appliances,1089.75,305.1300000000001
+Vermont,Office Supplies,Appliances,542.9399999999999,152.02319999999997
+Virginia,Office Supplies,Appliances,4305.53,1417.7424999999998
+Washington,Office Supplies,Appliances,1969.3500000000004,591.8607999999999
+West Virginia,Office Supplies,Appliances,,
+Wisconsin,Office Supplies,Appliances,2710.5699999999997,778.0820000000001
+Wyoming,Office Supplies,Appliances,,
+Alabama,Office Supplies,Envelopes,105.83999999999999,52.62479999999999
+Arizona,Office Supplies,Envelopes,214.52,75.1514
+Arkansas,Office Supplies,Envelopes,311.7,148.60739999999998
+California,Office Supplies,Envelopes,3237.3400000000006,1529.4161
+Colorado,Office Supplies,Envelopes,75.60000000000001,27.059699999999996
+Connecticut,Office Supplies,Envelopes,10.86,5.1042000000000005
+Delaware,Office Supplies,Envelopes,299.23,138.33769999999998
+District of Columbia,Office Supplies,Envelopes,,
+Florida,Office Supplies,Envelopes,211,72.56889999999999
+Georgia,Office Supplies,Envelopes,446.57,211.0561
+Idaho,Office Supplies,Envelopes,,
+Illinois,Office Supplies,Envelopes,384.10400000000004,132.52939999999998
+Indiana,Office Supplies,Envelopes,889.5600000000001,412.17470000000003
+Iowa,Office Supplies,Envelopes,13.4,6.370799999999999
+Kansas,Office Supplies,Envelopes,,
+Kentucky,Office Supplies,Envelopes,105.35,48.07659999999999
+Louisiana,Office Supplies,Envelopes,62.3,30.809199999999997
+Maine,Office Supplies,Envelopes,,
+Maryland,Office Supplies,Envelopes,337.15,153.08999999999997
+Massachusetts,Office Supplies,Envelopes,,
+Michigan,Office Supplies,Envelopes,310.02,141.62900000000002
+Minnesota,Office Supplies,Envelopes,30.56,14.9744
+Mississippi,Office Supplies,Envelopes,91.37,43.490899999999996
+Missouri,Office Supplies,Envelopes,71.17999999999999,33.4546
+Montana,Office Supplies,Envelopes,,
+Nebraska,Office Supplies,Envelopes,,
+Nevada,Office Supplies,Envelopes,,
+New Hampshire,Office Supplies,Envelopes,,
+New Jersey,Office Supplies,Envelopes,153.7,72.1862
+New Mexico,Office Supplies,Envelopes,28.4,13.347999999999997
+New York,Office Supplies,Envelopes,1776.8300000000004,831.0267
+North Carolina,Office Supplies,Envelopes,431.144,139.70609999999996
+North Dakota,Office Supplies,Envelopes,,
+Ohio,Office Supplies,Envelopes,562,194.6051
+Oklahoma,Office Supplies,Envelopes,407.4,188.2194
+Oregon,Office Supplies,Envelopes,49.52,18.0268
+Pennsylvania,Office Supplies,Envelopes,1234.0640000000003,417.10029999999995
+Rhode Island,Office Supplies,Envelopes,,
+South Carolina,Office Supplies,Envelopes,318.84999999999997,149.8595
+South Dakota,Office Supplies,Envelopes,,
+Tennessee,Office Supplies,Envelopes,177.35200000000003,62.26859999999999
+Texas,Office Supplies,Envelopes,2530.6479999999997,848.1759999999997
+Utah,Office Supplies,Envelopes,,
+Vermont,Office Supplies,Envelopes,2.04,0.9587999999999999
+Virginia,Office Supplies,Envelopes,1084.0799999999997,506.4088999999999
+Washington,Office Supplies,Envelopes,512.72,245.7604
+West Virginia,Office Supplies,Envelopes,,
+Wisconsin,Office Supplies,Envelopes,,
+Wyoming,Office Supplies,Envelopes,,
+Alabama,Office Supplies,Art,301.21,88.53439999999998
+Arizona,Office Supplies,Art,1389.1520000000003,140.94339999999997
+Arkansas,Office Supplies,Art,78.3,23.731799999999996
+California,Office Supplies,Art,5495.66,1614.8365
+Colorado,Office Supplies,Art,210.624,25.09429999999999
+Connecticut,Office Supplies,Art,191.66,70.4846
+Delaware,Office Supplies,Art,535.35,159.63119999999998
+District of Columbia,Office Supplies,Art,56.660000000000004,22.0974
+Florida,Office Supplies,Art,710.9200000000001,77.9391
+Georgia,Office Supplies,Art,526.6800000000001,159.71279999999996
+Idaho,Office Supplies,Art,,
+Illinois,Office Supplies,Art,930.0320000000002,138.95409999999998
+Indiana,Office Supplies,Art,389.19,123.61339999999998
+Iowa,Office Supplies,Art,146.57999999999998,45.49379999999999
+Kansas,Office Supplies,Art,162.72,45.95159999999999
+Kentucky,Office Supplies,Art,350.72,98.606
+Louisiana,Office Supplies,Art,129.5,36.992000000000004
+Maine,Office Supplies,Art,,
+Maryland,Office Supplies,Art,433.69,132.7864
+Massachusetts,Office Supplies,Art,226.05,66.8097
+Michigan,Office Supplies,Art,1004.8599999999999,301.3652
+Minnesota,Office Supplies,Art,102.81,36.5706
+Mississippi,Office Supplies,Art,606.66,162.5556
+Missouri,Office Supplies,Art,239.62,66.1596
+Montana,Office Supplies,Art,,
+Nebraska,Office Supplies,Art,19.459999999999997,5.0596
+Nevada,Office Supplies,Art,214.27999999999997,59.578799999999994
+New Hampshire,Office Supplies,Art,266.4,80.30519999999997
+New Jersey,Office Supplies,Art,742.8000000000001,203.29289999999995
+New Mexico,Office Supplies,Art,276.69999999999993,119.3198
+New York,Office Supplies,Art,2983.6,902.0926000000001
+North Carolina,Office Supplies,Art,603.392,78.91649999999998
+North Dakota,Office Supplies,Art,181.84,51.8812
+Ohio,Office Supplies,Art,840.1039999999999,103.23759999999997
+Oklahoma,Office Supplies,Art,58.910000000000004,19.086399999999998
+Oregon,Office Supplies,Art,461.76,65.27599999999998
+Pennsylvania,Office Supplies,Art,1152.16,137.75809999999998
+Rhode Island,Office Supplies,Art,49.25,18.715000000000003
+South Carolina,Office Supplies,Art,35.44,9.909600000000001
+South Dakota,Office Supplies,Art,,
+Tennessee,Office Supplies,Art,436.47999999999996,62.713499999999975
+Texas,Office Supplies,Art,2369.528,316.35380000000004
+Utah,Office Supplies,Art,100.05,28.8803
+Vermont,Office Supplies,Art,8.040000000000001,2.7336
+Virginia,Office Supplies,Art,876.3200000000002,258.97529999999995
+Washington,Office Supplies,Art,1063.8400000000001,320.1679
+West Virginia,Office Supplies,Art,,
+Wisconsin,Office Supplies,Art,159.79000000000002,44.6698
+Wyoming,Office Supplies,Art,,
+Alabama,Office Supplies,Labels,506.49,247.7319
+Arizona,Office Supplies,Labels,27.464000000000002,9.125599999999999
+Arkansas,Office Supplies,Labels,7.31,3.4356999999999998
+California,Office Supplies,Labels,2899.14,1370.1190999999997
+Colorado,Office Supplies,Labels,17.96,5.9832
+Connecticut,Office Supplies,Labels,33.43,15.696799999999998
+Delaware,Office Supplies,Labels,74.13000000000001,34.7388
+District of Columbia,Office Supplies,Labels,,
+Florida,Office Supplies,Labels,385.80800000000005,136.5696
+Georgia,Office Supplies,Labels,244.92,116.01679999999999
+Idaho,Office Supplies,Labels,,
+Illinois,Office Supplies,Labels,224.872,77.4622
+Indiana,Office Supplies,Labels,276.21000000000004,134.20829999999998
+Iowa,Office Supplies,Labels,,
+Kansas,Office Supplies,Labels,18.9,8.693999999999999
+Kentucky,Office Supplies,Labels,363.40000000000003,176.8009
+Louisiana,Office Supplies,Labels,11.07,5.2029
+Maine,Office Supplies,Labels,,
+Maryland,Office Supplies,Labels,171.51,82.5024
+Massachusetts,Office Supplies,Labels,165.65,76.66579999999999
+Michigan,Office Supplies,Labels,880.5600000000001,430.99210000000005
+Minnesota,Office Supplies,Labels,161.05,76.8852
+Mississippi,Office Supplies,Labels,14.62,6.8713999999999995
+Missouri,Office Supplies,Labels,14.940000000000001,6.8724
+Montana,Office Supplies,Labels,14.62,6.8713999999999995
+Nebraska,Office Supplies,Labels,14.399999999999999,7.056
+Nevada,Office Supplies,Labels,14.940000000000001,6.8724
+New Hampshire,Office Supplies,Labels,41.16,19.4264
+New Jersey,Office Supplies,Labels,66.34,32.1345
+New Mexico,Office Supplies,Labels,18.45,8.6715
+New York,Office Supplies,Labels,1290.57,611.1723
+North Carolina,Office Supplies,Labels,229.42399999999998,75.86840000000001
+North Dakota,Office Supplies,Labels,,
+Ohio,Office Supplies,Labels,161.84000000000003,55.522200000000005
+Oklahoma,Office Supplies,Labels,64.24000000000001,31.185200000000002
+Oregon,Office Supplies,Labels,902.1120000000001,320.3328
+Pennsylvania,Office Supplies,Labels,598.304,201.42079999999999
+Rhode Island,Office Supplies,Labels,,
+South Carolina,Office Supplies,Labels,,
+South Dakota,Office Supplies,Labels,34.85,16.3795
+Tennessee,Office Supplies,Labels,115.36800000000001,41.471199999999996
+Texas,Office Supplies,Labels,583.6000000000001,200.40199999999996
+Utah,Office Supplies,Labels,30.15,14.616
+Vermont,Office Supplies,Labels,,
+Virginia,Office Supplies,Labels,474.7699999999999,230.8035
+Washington,Office Supplies,Labels,1153.8899999999996,560.5303000000001
+West Virginia,Office Supplies,Labels,,
+Wisconsin,Office Supplies,Labels,177.85,82.9425
+Wyoming,Office Supplies,Labels,,
+Alabama,Office Supplies,Fasteners,3.62,1.1945999999999999
+Arizona,Office Supplies,Fasteners,101.232,2.099299999999995
+Arkansas,Office Supplies,Fasteners,42.67,18.961199999999998
+California,Office Supplies,Fasteners,479.53,195.75050000000002
+Colorado,Office Supplies,Fasteners,44.52,12.605399999999996
+Connecticut,Office Supplies,Fasteners,,
+Delaware,Office Supplies,Fasteners,26.18,0.5236000000000014
+District of Columbia,Office Supplies,Fasteners,,
+Florida,Office Supplies,Fasteners,49.256,16.508499999999998
+Georgia,Office Supplies,Fasteners,15.12,0.30240000000000045
+Idaho,Office Supplies,Fasteners,,
+Illinois,Office Supplies,Fasteners,141.336,43.994899999999994
+Indiana,Office Supplies,Fasteners,8.459999999999999,0.1008
+Iowa,Office Supplies,Fasteners,45.92,21.5824
+Kansas,Office Supplies,Fasteners,24.05,10.921100000000001
+Kentucky,Office Supplies,Fasteners,76.06,21.8478
+Louisiana,Office Supplies,Fasteners,,
+Maine,Office Supplies,Fasteners,,
+Maryland,Office Supplies,Fasteners,27.32,10.470399999999998
+Massachusetts,Office Supplies,Fasteners,51.160000000000004,23.8116
+Michigan,Office Supplies,Fasteners,109.49999999999999,42.755399999999995
+Minnesota,Office Supplies,Fasteners,42.9,19.328
+Mississippi,Office Supplies,Fasteners,35.019999999999996,5.489399999999999
+Missouri,Office Supplies,Fasteners,,
+Montana,Office Supplies,Fasteners,,
+Nebraska,Office Supplies,Fasteners,57.63999999999999,10.384599999999999
+Nevada,Office Supplies,Fasteners,4.71,0
+New Hampshire,Office Supplies,Fasteners,14.82,6.965400000000001
+New Jersey,Office Supplies,Fasteners,54.12,15.110800000000001
+New Mexico,Office Supplies,Fasteners,,
+New York,Office Supplies,Fasteners,286.51,116.6671
+North Carolina,Office Supplies,Fasteners,66.33600000000001,21.863699999999998
+North Dakota,Office Supplies,Fasteners,7.41,3.4827000000000004
+Ohio,Office Supplies,Fasteners,204.89600000000002,61.11969999999999
+Oklahoma,Office Supplies,Fasteners,,
+Oregon,Office Supplies,Fasteners,20.024,0.1695000000000011
+Pennsylvania,Office Supplies,Fasteners,154.712,29.322199999999995
+Rhode Island,Office Supplies,Fasteners,,
+South Carolina,Office Supplies,Fasteners,43.41,17.993999999999996
+South Dakota,Office Supplies,Fasteners,6.540000000000001,2.6814000000000004
+Tennessee,Office Supplies,Fasteners,86.66400000000002,28.89409999999999
+Texas,Office Supplies,Fasteners,332.46399999999994,80.7357
+Utah,Office Supplies,Fasteners,10,2.5328
+Vermont,Office Supplies,Fasteners,,
+Virginia,Office Supplies,Fasteners,85.16000000000001,40.6624
+Washington,Office Supplies,Fasteners,263.2,62.0332
+West Virginia,Office Supplies,Fasteners,,
+Wisconsin,Office Supplies,Fasteners,1.81,0.6516
+Wyoming,Office Supplies,Fasteners,,
+Alabama,Office Supplies,Supplies,484.51,11.50770000000001
+Arizona,Office Supplies,Supplies,282.528,-30.197600000000026
+Arkansas,Office Supplies,Supplies,,
+California,Office Supplies,Supplies,15720.950000000003,862.2002999999994
+Colorado,Office Supplies,Supplies,1403.3999999999999,-291.69899999999996
+Connecticut,Office Supplies,Supplies,114.86,30.401499999999995
+Delaware,Office Supplies,Supplies,,
+District of Columbia,Office Supplies,Supplies,,
+Florida,Office Supplies,Supplies,1067.896,-197.63149999999996
+Georgia,Office Supplies,Supplies,39.519999999999996,10.150399999999994
+Idaho,Office Supplies,Supplies,,
+Illinois,Office Supplies,Supplies,178.15200000000002,13.427299999999994
+Indiana,Office Supplies,Supplies,,
+Iowa,Office Supplies,Supplies,,
+Kansas,Office Supplies,Supplies,357.93,7.158600000000007
+Kentucky,Office Supplies,Supplies,86.32000000000001,17.920799999999996
+Louisiana,Office Supplies,Supplies,1665.62,33.312400000000025
+Maine,Office Supplies,Supplies,,
+Maryland,Office Supplies,Supplies,25.02,6.5052
+Massachusetts,Office Supplies,Supplies,30.07,6.859
+Michigan,Office Supplies,Supplies,74.48,21.210399999999993
+Minnesota,Office Supplies,Supplies,37.24,10.799599999999998
+Mississippi,Office Supplies,Supplies,,
+Missouri,Office Supplies,Supplies,4216.639999999999,99.05800000000006
+Montana,Office Supplies,Supplies,,
+Nebraska,Office Supplies,Supplies,16.9,5.0699999999999985
+Nevada,Office Supplies,Supplies,86.19999999999999,24.997999999999987
+New Hampshire,Office Supplies,Supplies,27.93,8.099699999999999
+New Jersey,Office Supplies,Supplies,114.43,32.674699999999994
+New Mexico,Office Supplies,Supplies,29.560000000000002,4.7232
+New York,Office Supplies,Supplies,2563.630000000001,268.0359
+North Carolina,Office Supplies,Supplies,302.04,-27.980300000000028
+North Dakota,Office Supplies,Supplies,,
+Ohio,Office Supplies,Supplies,478.80800000000005,-82.90289999999999
+Oklahoma,Office Supplies,Supplies,21.96,6.148800000000001
+Oregon,Office Supplies,Supplies,76.744,-1.6847000000000039
+Pennsylvania,Office Supplies,Supplies,6710.208000000002,-1459.5663
+Rhode Island,Office Supplies,Supplies,695.16,34.75799999999995
+South Carolina,Office Supplies,Supplies,,
+South Dakota,Office Supplies,Supplies,25.5,6.63
+Tennessee,Office Supplies,Supplies,97.792,8.020799999999987
+Texas,Office Supplies,Supplies,4516.760000000001,-837.2795000000003
+Utah,Office Supplies,Supplies,44.400000000000006,12.432000000000002
+Vermont,Office Supplies,Supplies,,
+Virginia,Office Supplies,Supplies,4575.23,146.57700000000006
+Washington,Office Supplies,Supplies,483.34000000000003,45.274300000000004
+West Virginia,Office Supplies,Supplies,,
+Wisconsin,Office Supplies,Supplies,21.81,5.888700000000001
+Wyoming,Office Supplies,Supplies,,
+Alabama,Furniture,Chairs,3915.54,660.9663999999999
+Arizona,Furniture,Chairs,6499.079999999999,121.60489999999949
+Arkansas,Furniture,Chairs,1673.2800000000002,369.54899999999986
+California,Furniture,Chairs,63079.36799999997,2435.971499999998
+Colorado,Furniture,Chairs,8244.816,556.5215999999998
+Connecticut,Furniture,Chairs,2782.42,696.2570000000001
+Delaware,Furniture,Chairs,1559.92,342.13819999999987
+District of Columbia,Furniture,Chairs,1267.53,316.8825
+Florida,Furniture,Chairs,11168.816,-37.55860000000027
+Georgia,Furniture,Chairs,1858.1599999999999,414.36289999999997
+Idaho,Furniture,Chairs,338.352,4.22939999999997
+Illinois,Furniture,Chairs,14563.178000000002,-1578.6955000000007
+Indiana,Furniture,Chairs,6463.389999999999,1587.5620999999996
+Iowa,Furniture,Chairs,1408.1,394.26800000000003
+Kansas,Furniture,Chairs,,
+Kentucky,Furniture,Chairs,9233.57,2552.2604999999994
+Louisiana,Furniture,Chairs,802.34,228.78879999999995
+Maine,Furniture,Chairs,,
+Maryland,Furniture,Chairs,4329.91,969.6909999999998
+Massachusetts,Furniture,Chairs,4245.599999999999,962.1228000000001
+Michigan,Furniture,Chairs,13878.059999999996,3001.650599999999
+Minnesota,Furniture,Chairs,6079.370000000001,1703.9146999999998
+Mississippi,Furniture,Chairs,866.4,225.264
+Missouri,Furniture,Chairs,60.89,15.222499999999997
+Montana,Furniture,Chairs,,
+Nebraska,Furniture,Chairs,563.9399999999999,112.78800000000001
+Nevada,Furniture,Chairs,674.3520000000001,-109.58220000000011
+New Hampshire,Furniture,Chairs,,
+New Jersey,Furniture,Chairs,2661.9,530.9126
+New Mexico,Furniture,Chairs,1114.192,119.58779999999994
+New York,Furniture,Chairs,46634.247,7111.011899999997
+North Carolina,Furniture,Chairs,2723.5919999999996,142.7238999999999
+North Dakota,Furniture,Chairs,,
+Ohio,Furniture,Chairs,10145.701999999997,-649.3542000000002
+Oklahoma,Furniture,Chairs,3963.38,1106.7992
+Oregon,Furniture,Chairs,3841.1600000000003,106.11000000000001
+Pennsylvania,Furniture,Chairs,18724.174,-1993.4180000000003
+Rhode Island,Furniture,Chairs,3194.0800000000004,892.7267999999999
+South Carolina,Furniture,Chairs,2537.9399999999996,543.076
+South Dakota,Furniture,Chairs,182.94,27.440999999999995
+Tennessee,Furniture,Chairs,5074.888,150.42539999999977
+Texas,Furniture,Chairs,26572.448000000004,-2515.649
+Utah,Furniture,Chairs,,
+Vermont,Furniture,Chairs,715.2,178.79999999999998
+Virginia,Furniture,Chairs,5321.92,1362.2309999999998
+Washington,Furniture,Chairs,16386.872,692.9452999999991
+West Virginia,Furniture,Chairs,,
+Wisconsin,Furniture,Chairs,11494.949999999999,2737.4204999999993
+Wyoming,Furniture,Chairs,1603.1360000000002,100.19599999999997
+Alabama,Furniture,Furnishings,40.480000000000004,14.348799999999999
+Arizona,Furniture,Furnishings,2511.6480000000006,284.5497
+Arkansas,Furniture,Furnishings,573.49,194.13080000000002
+California,Furniture,Furnishings,19996.479999999996,5611.560600000001
+Colorado,Furniture,Furnishings,1957.568,144.13589999999994
+Connecticut,Furniture,Furnishings,457.46999999999997,92.96109999999997
+Delaware,Furniture,Furnishings,637.39,137.531
+District of Columbia,Furniture,Furnishings,79.05,33.201
+Florida,Furniture,Furnishings,3746.192000000002,391.75959999999986
+Georgia,Furniture,Furnishings,1805.0800000000004,613.8860999999999
+Idaho,Furniture,Furnishings,432.32,110.0308
+Illinois,Furniture,Furnishings,2877.976000000001,-2631.976600000001
+Indiana,Furniture,Furnishings,1514.4800000000002,180.79139999999992
+Iowa,Furniture,Furnishings,49.49000000000001,19.1457
+Kansas,Furniture,Furnishings,111.12,36.96959999999999
+Kentucky,Furniture,Furnishings,1788.37,456.66049999999996
+Louisiana,Furniture,Furnishings,182.48999999999998,31.618599999999994
+Maine,Furniture,Furnishings,109.48,33.9388
+Maryland,Furniture,Furnishings,3147.7200000000003,901.648
+Massachusetts,Furniture,Furnishings,833.74,259.151
+Michigan,Furniture,Furnishings,1916.26,435.37790000000007
+Minnesota,Furniture,Furnishings,231.52,49.534200000000006
+Mississippi,Furniture,Furnishings,430.49,182.163
+Missouri,Furniture,Furnishings,941.0799999999999,195.236
+Montana,Furniture,Furnishings,63.980000000000004,21.7532
+Nebraska,Furniture,Furnishings,1380.7599999999998,405.64839999999987
+Nevada,Furniture,Furnishings,463.38,155.7951
+New Hampshire,Furniture,Furnishings,833.3100000000001,259.2534
+New Jersey,Furniture,Furnishings,950.97,311.31530000000004
+New Mexico,Furniture,Furnishings,587.22,132.0039
+New York,Furniture,Furnishings,10182.319999999996,2931.4346
+North Carolina,Furniture,Furnishings,1791.104,153.04469999999995
+North Dakota,Furniture,Furnishings,,
+Ohio,Furniture,Furnishings,4088.6240000000007,517.4190999999998
+Oklahoma,Furniture,Furnishings,1444.9199999999998,412.46639999999996
+Oregon,Furniture,Furnishings,468.464,72.026
+Pennsylvania,Furniture,Furnishings,7347.815999999998,282.2119999999997
+Rhode Island,Furniture,Furnishings,403.49,121.3418
+South Carolina,Furniture,Furnishings,540.31,69.76789999999995
+South Dakota,Furniture,Furnishings,,
+Tennessee,Furniture,Furnishings,1699.2479999999998,310.6829
+Texas,Furniture,Furnishings,3766.7240000000006,-3312.678600000001
+Utah,Furniture,Furnishings,165.17000000000002,54.570899999999995
+Vermont,Furniture,Furnishings,,
+Virginia,Furniture,Furnishings,4709.430000000001,1024.6199999999997
+Washington,Furniture,Furnishings,3426.5000000000005,1054.8443000000002
+West Virginia,Furniture,Furnishings,,
+Wisconsin,Furniture,Furnishings,1020.04,303.2688
+Wyoming,Furniture,Furnishings,,
+Alabama,Furniture,Bookcases,,
+Arizona,Furniture,Bookcases,519.2130000000001,-869.2072999999999
+Arkansas,Furniture,Bookcases,638.82,172.4814
+California,Furniture,Bookcases,27558.521500000006,1418.991499999999
+Colorado,Furniture,Bookcases,1583.5230000000001,-2408.9163000000003
+Connecticut,Furniture,Bookcases,1682.7400000000002,456.677
+Delaware,Furniture,Bookcases,2051.73,476.9343
+District of Columbia,Furniture,Bookcases,,
+Florida,Furniture,Bookcases,2587.056,-116.07059999999998
+Georgia,Furniture,Bookcases,3793.5,883.2619999999998
+Idaho,Furniture,Bookcases,,
+Illinois,Furniture,Bookcases,4282.697999999999,-555.8725999999999
+Indiana,Furniture,Bookcases,,
+Iowa,Furniture,Bookcases,,
+Kansas,Furniture,Bookcases,,
+Kentucky,Furniture,Bookcases,261.96,41.9136
+Louisiana,Furniture,Bookcases,387.70000000000005,57.19280000000002
+Maine,Furniture,Bookcases,,
+Maryland,Furniture,Bookcases,881.8199999999999,105.60539999999997
+Massachusetts,Furniture,Bookcases,1873.7200000000003,414.0936
+Michigan,Furniture,Bookcases,810.2,150.6456
+Minnesota,Furniture,Bookcases,,
+Mississippi,Furniture,Bookcases,504.90000000000003,126.22500000000002
+Missouri,Furniture,Bookcases,212.94,53.235000000000014
+Montana,Furniture,Bookcases,,
+Nebraska,Furniture,Bookcases,,
+Nevada,Furniture,Bookcases,141.96,41.16839999999999
+New Hampshire,Furniture,Bookcases,,
+New Jersey,Furniture,Bookcases,2275.88,141.39199999999988
+New Mexico,Furniture,Bookcases,,
+New York,Furniture,Bookcases,22777.143999999993,350.8743999999987
+North Carolina,Furniture,Bookcases,959.056,-97.978
+North Dakota,Furniture,Bookcases,,
+Ohio,Furniture,Bookcases,2077.705,-1359.0516
+Oklahoma,Furniture,Bookcases,341.96,54.713599999999985
+Oregon,Furniture,Bookcases,356.6460000000001,-616.8158
+Pennsylvania,Furniture,Bookcases,5230.755,-2896.760100000001
+Rhode Island,Furniture,Bookcases,562.9399999999999,129.4762
+South Carolina,Furniture,Bookcases,,
+South Dakota,Furniture,Bookcases,141.96,39.7488
+Tennessee,Furniture,Bookcases,518.24,-6.3236000000000345
+Texas,Furniture,Bookcases,14493.458799999999,-2391.137700000001
+Utah,Furniture,Bookcases,2699.8,218.26239999999981
+Vermont,Furniture,Bookcases,4404.9,1013.1270000000001
+Virginia,Furniture,Bookcases,1248.1299999999999,278.78919999999994
+Washington,Furniture,Bookcases,3144.46,570.0054
+West Virginia,Furniture,Bookcases,,
+Wisconsin,Furniture,Bookcases,3873.9600000000005,650.763
+Wyoming,Furniture,Bookcases,,
+Alabama,Furniture,Tables,2376.46,556.0730000000001
+Arizona,Furniture,Tables,3995.35,-2281.8701
+Arkansas,Furniture,Tables,301.96,45.29399999999998
+California,Furniture,Tables,45430.232,-303.5580000000013
+Colorado,Furniture,Tables,1457.13,-974.8754
+Connecticut,Furniture,Tables,252.35699999999997,-19.6146
+Delaware,Furniture,Tables,510.27900000000005,-85.89630000000007
+District of Columbia,Furniture,Tables,,
+Florida,Furniture,Tables,5484.974000000001,-2493.1111
+Georgia,Furniture,Tables,864.74,137.94699999999995
+Idaho,Furniture,Tables,1824.81,419.70630000000006
+Illinois,Furniture,Tables,6550.669999999999,-4309.744700000001
+Indiana,Furniture,Tables,3518.84,412.92179999999996
+Iowa,Furniture,Tables,1184.72,106.62480000000005
+Kansas,Furniture,Tables,,
+Kentucky,Furniture,Tables,842.94,160.1586
+Louisiana,Furniture,Tables,1590.5,368.3944000000001
+Maine,Furniture,Tables,,
+Maryland,Furniture,Tables,789.803,-71.11700000000002
+Massachusetts,Furniture,Tables,3966.0039999999995,-545.2946999999998
+Michigan,Furniture,Tables,5716.58,1087.8775
+Minnesota,Furniture,Tables,1300.46,270.43820000000005
+Mississippi,Furniture,Tables,2516.06,411.16760000000016
+Missouri,Furniture,Tables,1721.54,361.5233999999999
+Montana,Furniture,Tables,,
+Nebraska,Furniture,Tables,,
+Nevada,Furniture,Tables,3355.48,437.18919999999986
+New Hampshire,Furniture,Tables,1053.164,-105.31639999999993
+New Jersey,Furniture,Tables,418.2919999999999,-51.2906
+New Mexico,Furniture,Tables,,
+New York,Furniture,Tables,13779.017999999998,-4535.640800000001
+North Carolina,Furniture,Tables,9681.732,-3684.2539000000006
+North Dakota,Furniture,Tables,,
+Ohio,Furniture,Tables,7887.1140000000005,-2715.3345000000004
+Oklahoma,Furniture,Tables,2533.84,579.883
+Oregon,Furniture,Tables,1671.86,-1048.8971
+Pennsylvania,Furniture,Tables,8052.186000000001,-2588.753800000001
+Rhode Island,Furniture,Tables,1758.2459999999999,-230.16779999999994
+South Carolina,Furniture,Tables,,
+South Dakota,Furniture,Tables,,
+Tennessee,Furniture,Tables,6214.356,-2663.4138000000003
+Texas,Furniture,Tables,15760.661,-2216.6766000000002
+Utah,Furniture,Tables,1957.3799999999999,358.92240000000004
+Vermont,Furniture,Tables,,
+Virginia,Furniture,Tables,14042.470000000001,2538.6863
+Washington,Furniture,Tables,25062.320000000003,4875.99
+West Virginia,Furniture,Tables,673.3439999999999,-76.9536
+Wisconsin,Furniture,Tables,867.66,147.5021999999999
+Wyoming,Furniture,Tables,,
