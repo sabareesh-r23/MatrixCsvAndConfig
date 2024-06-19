@@ -1,0 +1,69 @@
+Orders.Region,Orders.Country,Sum(Orders.Sales),Sum(Orders.Profit),Orders.Category,Orders.Sub-Category
+Central,United States,37259.56999999999,15608.841299999996,Technology,Copiers
+East,United States,53219.46200000001,17022.8418,Technology,Copiers
+South,United States,9299.756,3658.9067,Technology,Copiers
+West,United States,49749.241999999984,19327.235099999994,Technology,Copiers
+Central,United States,72403.282,12323.0267,Technology,Phones
+East,United States,100614.9820000001,12314.686000000005,Technology,Phones
+South,United States,58304.437999999995,10767.275300000005,Technology,Phones
+West,United States,98684.35199999997,9110.742599999998,Technology,Phones
+Central,United States,33956.076,7251.630599999997,Technology,Accessories
+East,United States,45033.371999999974,11195.8644,Technology,Accessories
+South,United States,27276.753999999994,7004.542399999999,Technology,Accessories
+West,United States,61114.11600000006,16484.59830000001,Technology,Accessories
+Central,United States,26797.384,-1486.0666000000037,Technology,Machines
+East,United States,66106.165,6928.642899999997,Technology,Machines
+South,United States,53890.95999999999,-1438.8930000000028,Technology,Machines
+West,United States,42444.122,-618.9264000000037,Technology,Machines
+Central,United States,17491.902000000002,6971.900500000002,Office Supplies,Paper
+East,United States,20172.60199999997,9015.370999999994,Office Supplies,Paper
+South,United States,14150.983999999997,5947.061399999998,Office Supplies,Paper
+West,United States,26663.71799999998,12119.23639999999,Office Supplies,Paper
+Central,United States,56923.28199999998,-1043.6369000000086,Office Supplies,Binders
+East,United States,53497.99699999999,11267.934599999993,Office Supplies,Binders
+South,United States,37030.34100000001,3900.6640000000093,Office Supplies,Binders
+West,United States,55961.113000000034,16096.80159999999,Office Supplies,Binders
+Central,United States,45930.111999999994,1969.8364999999972,Office Supplies,Storage
+East,United States,71612.58400000003,8389.37119999999,Office Supplies,Storage
+South,United States,35768.059999999976,2274.296500000001,Office Supplies,Storage
+West,United States,70532.85199999994,8645.322199999986,Office Supplies,Storage
+Central,United States,23582.03299999998,-2638.617500000002,Office Supplies,Appliances
+East,United States,34188.46599999999,8391.4134,Office Supplies,Appliances
+South,United States,19525.325999999997,4123.939600000001,Office Supplies,Appliances
+West,United States,30236.335999999996,8261.269900000001,Office Supplies,Appliances
+Central,United States,4636.872,1777.5282999999997,Office Supplies,Envelopes
+East,United States,4375.874,1812.4089999999997,Office Supplies,Envelopes
+South,United States,3345.5560000000014,1465.4769999999999,Office Supplies,Envelopes
+West,United States,4118.1,1908.7624,Office Supplies,Envelopes
+Central,United States,5765.339999999999,1195.1590999999992,Office Supplies,Art
+East,United States,7485.7639999999965,1899.944300000002,Office Supplies,Art
+South,United States,4655.622000000002,1058.5865999999994,Office Supplies,Art
+West,United States,9212.065999999992,2374.0969999999998,Office Supplies,Art
+Central,United States,2451.472,1073.0793999999999,Office Supplies,Labels
+East,United States,2602.9339999999997,1129.28,Office Supplies,Labels
+South,United States,2353.1799999999994,1040.7722999999996,Office Supplies,Labels
+West,United States,5078.7260000000015,2303.1222999999995,Office Supplies,Labels
+Central,United States,778.0300000000002,236.61859999999993,Office Supplies,Fasteners
+East,United States,819.7179999999998,263.99080000000004,Office Supplies,Fasteners
+South,United States,503.31599999999986,173.71809999999996,Office Supplies,Fasteners
+West,United States,923.216,275.1907,Office Supplies,Fasteners
+Central,United States,9467.372,-661.8881000000002,Office Supplies,Supplies
+East,United States,10760.116,-1155.1352,Office Supplies,Supplies
+South,United States,8318.928,1.8773000000000573,Office Supplies,Supplies
+West,United States,18127.121999999996,626.0464999999994,Office Supplies,Supplies
+Central,United States,85230.64599999994,6592.722100000001,Furniture,Chairs
+East,United States,96260.683,9357.770600000002,Furniture,Chairs
+South,United States,45176.44599999998,6612.0893,Furniture,Chairs
+West,United States,101781.32799999992,4027.584299999994,Furniture,Chairs
+Central,United States,15254.369999999977,-3906.2167999999997,Furniture,Furnishings
+East,United States,29071.37999999999,5881.407100000002,Furniture,Furnishings
+South,United States,17306.684,3442.6829000000007,Furniture,Furnishings
+West,United States,30072.72999999999,7641.270400000004,Furniture,Furnishings
+Central,United States,24157.176799999994,-1997.9043000000006,Furniture,Bookcases
+East,United States,43819.33399999998,-1167.6318000000003,Furniture,Bookcases
+South,United States,10899.362,1339.4917999999993,Furniture,Bookcases
+West,United States,36004.123500000016,-1646.5117000000016,Furniture,Bookcases
+Central,United States,39154.97100000002,-3559.650400000001,Furniture,Tables
+East,United States,39139.80700000001,-11025.380100000002,Furniture,Tables
+South,United States,43916.192,-4623.057900000002,Furniture,Tables
+West,United States,84754.56200000005,1482.6072999999958,Furniture,Tables
