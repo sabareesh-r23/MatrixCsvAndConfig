@@ -1,1221 +1,1465 @@
-Orders.Region,Sum(Orders.Sales),Sum(Orders.Profit),Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Order Date.Variation.Date Hierarchy.Month,Orders.Order Date.Variation.Date Hierarchy.Day
-Central,16.448,5.551199999999998,Qtr 1,January,3
-East,,,Qtr 1,January,3
-South,,,Qtr 1,January,3
-West,,,Qtr 1,January,3
-Central,288.06,-65.99010000000001,Qtr 1,January,4
-East,,,Qtr 1,January,4
-South,,,Qtr 1,January,4
-West,,,Qtr 1,January,4
-Central,,,Qtr 1,January,5
-East,19.536,4.884,Qtr 1,January,5
-South,,,Qtr 1,January,5
-West,,,Qtr 1,January,5
-Central,,,Qtr 1,January,6
-East,,,Qtr 1,January,6
-South,4387.660000000001,1348.7211999999997,Qtr 1,January,6
-West,19.44,9.3312,Qtr 1,January,6
-Central,87.158,-71.96209999999999,Qtr 1,January,7
-East,,,Qtr 1,January,7
-South,,,Qtr 1,January,7
-West,,,Qtr 1,January,7
-Central,40.544000000000004,10.917999999999996,Qtr 1,January,9
-East,,,Qtr 1,January,9
-South,,,Qtr 1,January,9
-West,,,Qtr 1,January,9
-Central,,,Qtr 1,January,10
-East,,,Qtr 1,January,10
-South,54.83,22.6537,Qtr 1,January,10
-West,,,Qtr 1,January,10
-Central,,,Qtr 1,January,11
-East,9.94,3.0813999999999995,Qtr 1,January,11
-South,,,Qtr 1,January,11
-West,,,Qtr 1,January,11
-Central,,,Qtr 1,January,13
-East,40.846000000000004,10.5716,Qtr 1,January,13
-South,1833.1999999999998,413.91760000000005,Qtr 1,January,13
-West,1679.7490000000003,249.14939999999993,Qtr 1,January,13
-Central,,,Qtr 1,January,14
-East,61.96,-53.28560000000001,Qtr 1,January,14
-South,,,Qtr 1,January,14
-West,,,Qtr 1,January,14
-Central,,,Qtr 1,January,15
-East,,,Qtr 1,January,15
-South,149.95,65.97800000000001,Qtr 1,January,15
-West,,,Qtr 1,January,15
-Central,,,Qtr 1,January,16
-East,299.964,-5.933500000000016,Qtr 1,January,16
-South,,,Qtr 1,January,16
-West,,,Qtr 1,January,16
-Central,,,Qtr 1,January,18
-East,,,Qtr 1,January,18
-South,,,Qtr 1,January,18
-West,64.864,6.486400000000003,Qtr 1,January,18
-Central,,,Qtr 1,January,19
-East,,,Qtr 1,January,19
-South,,,Qtr 1,January,19
-West,378.59400000000005,-287.9976,Qtr 1,January,19
-Central,708.616,183.5546,Qtr 1,January,20
-East,,,Qtr 1,January,20
-South,1926.5939999999998,385.73209999999983,Qtr 1,January,20
-West,38.66,15.082799999999999,Qtr 1,January,20
-Central,,,Qtr 1,January,21
-East,,,Qtr 1,January,21
-South,25.248,4.102799999999999,Qtr 1,January,21
-West,,,Qtr 1,January,21
-Central,5.9399999999999995,0,Qtr 1,January,23
-East,,,Qtr 1,January,23
-South,,,Qtr 1,January,23
-West,40.08,19.2384,Qtr 1,January,23
-Central,152.64000000000001,44.7684,Qtr 1,January,26
-East,,,Qtr 1,January,26
-South,944.61,105.5586,Qtr 1,January,26
-West,,,Qtr 1,January,26
-Central,,,Qtr 1,January,27
-East,,,Qtr 1,January,27
-South,,,Qtr 1,January,27
-West,426.66999999999996,9.682700000000004,Qtr 1,January,27
-Central,,,Qtr 1,January,28
-East,3.9280000000000004,1.3256999999999999,Qtr 1,January,28
-South,,,Qtr 1,January,28
-West,,,Qtr 1,January,28
-Central,240.5,11.650200000000002,Qtr 1,January,30
-East,,,Qtr 1,January,30
-South,,,Qtr 1,January,30
-West,,,Qtr 1,January,30
-Central,,,Qtr 1,January,31
-East,,,Qtr 1,January,31
-South,,,Qtr 1,January,31
-West,290.666,3.4195999999999884,Qtr 1,January,31
-Central,468.90000000000003,206.31600000000006,Qtr 1,February,1
-East,,,Qtr 1,February,1
-South,,,Qtr 1,February,1
-West,,,Qtr 1,February,1
-Central,,,Qtr 1,February,2
-East,,,Qtr 1,February,2
-South,199.29600000000002,1.3479999999999954,Qtr 1,February,2
-West,12.350000000000001,5.8045,Qtr 1,February,2
-Central,,,Qtr 1,February,3
-East,,,Qtr 1,February,3
-South,,,Qtr 1,February,3
-West,97.11200000000001,31.5614,Qtr 1,February,3
-Central,,,Qtr 1,February,4
-East,,,Qtr 1,February,4
-South,,,Qtr 1,February,4
-West,134.384,51.1432,Qtr 1,February,4
-Central,8.951999999999998,-14.770800000000001,Qtr 1,February,6
-East,,,Qtr 1,February,6
-South,321.56,91.2541,Qtr 1,February,6
-West,,,Qtr 1,February,6
-Central,,,Qtr 1,February,7
-East,180.32,59.34880000000001,Qtr 1,February,7
-South,,,Qtr 1,February,7
-West,,,Qtr 1,February,7
-Central,,,Qtr 1,February,8
-East,,,Qtr 1,February,8
-South,,,Qtr 1,February,8
-West,14.56,5.5328,Qtr 1,February,8
-Central,535.27,106.79109999999999,Qtr 1,February,11
-East,,,Qtr 1,February,11
-South,1508.13,186.73739999999995,Qtr 1,February,11
-West,,,Qtr 1,February,11
-Central,,,Qtr 1,February,12
-East,,,Qtr 1,February,12
-South,,,Qtr 1,February,12
-West,129.568,-24.29400000000002,Qtr 1,February,12
-Central,16.176000000000002,6.065999999999999,Qtr 1,February,14
-East,,,Qtr 1,February,14
-South,,,Qtr 1,February,14
-West,560.55,114.1104,Qtr 1,February,14
-Central,,,Qtr 1,February,15
-East,,,Qtr 1,February,15
-South,,,Qtr 1,February,15
-West,21.36,7.209,Qtr 1,February,15
-Central,9.039999999999997,-15.658000000000003,Qtr 1,February,16
-East,,,Qtr 1,February,16
-South,,,Qtr 1,February,16
-West,,,Qtr 1,February,16
-Central,54.208,8.808799999999998,Qtr 1,February,17
-East,,,Qtr 1,February,17
-South,,,Qtr 1,February,17
-West,,,Qtr 1,February,17
-Central,37.784,-13.846800000000002,Qtr 1,February,18
-East,,,Qtr 1,February,18
-South,,,Qtr 1,February,18
-West,,,Qtr 1,February,18
-Central,82.63,29.3404,Qtr 1,February,20
-East,,,Qtr 1,February,20
-South,,,Qtr 1,February,20
-West,12.96,6.2208000000000006,Qtr 1,February,20
-Central,8.849999999999998,-13.717499999999998,Qtr 1,February,21
-East,,,Qtr 1,February,21
-South,,,Qtr 1,February,21
-West,,,Qtr 1,February,21
-Central,,,Qtr 1,February,22
-East,,,Qtr 1,February,22
-South,,,Qtr 1,February,22
-West,19.44,9.3312,Qtr 1,February,22
-Central,11.364,-4.522499999999998,Qtr 1,February,23
-East,,,Qtr 1,February,23
-South,,,Qtr 1,February,23
-West,,,Qtr 1,February,23
-Central,,,Qtr 1,February,24
-East,,,Qtr 1,February,24
-South,,,Qtr 1,February,24
-West,55.672000000000004,18.789299999999997,Qtr 1,February,24
-Central,,,Qtr 1,February,27
-East,19.456000000000003,3.404799999999998,Qtr 1,February,27
-South,,,Qtr 1,February,27
-West,,,Qtr 1,February,27
-Central,1739.6429999999998,-262.0416000000001,Qtr 1,March,1
-East,5.9399999999999995,1.6038,Qtr 1,March,1
-South,,,Qtr 1,March,1
-West,457.56800000000004,51.47639999999994,Qtr 1,March,1
-Central,,,Qtr 1,March,2
-East,202.38400000000001,56.0112,Qtr 1,March,2
-South,,,Qtr 1,March,2
-West,,,Qtr 1,March,2
-Central,176.77199999999996,-459.60720000000003,Qtr 1,March,3
-East,523.312,-150.1083,Qtr 1,March,3
-South,19.456000000000003,3.404799999999998,Qtr 1,March,3
-West,626.3520000000001,-23.48820000000009,Qtr 1,March,3
-Central,,,Qtr 1,March,4
-East,,,Qtr 1,March,4
-South,370.45200000000006,20.07779999999996,Qtr 1,March,4
-West,,,Qtr 1,March,4
-Central,,,Qtr 1,March,5
-East,705.5620000000001,261.19010000000003,Qtr 1,March,5
-South,,,Qtr 1,March,5
-West,,,Qtr 1,March,5
-Central,,,Qtr 1,March,7
-East,,,Qtr 1,March,7
-South,,,Qtr 1,March,7
-West,1561.062,134.1538999999999,Qtr 1,March,7
-Central,22.38,10.7424,Qtr 1,March,10
-East,,,Qtr 1,March,10
-South,,,Qtr 1,March,10
-West,719.5760000000001,-6.553800000000095,Qtr 1,March,10
-Central,,,Qtr 1,March,11
-East,127.70400000000001,53.002399999999994,Qtr 1,March,11
-South,782.6300000000001,223.98380000000006,Qtr 1,March,11
-West,7.98,2.0747999999999998,Qtr 1,March,11
-Central,583.358,158.68699999999995,Qtr 1,March,14
-East,,,Qtr 1,March,14
-South,1230.976,316.8496,Qtr 1,March,14
-West,294.216,52.96579999999999,Qtr 1,March,14
-Central,,,Qtr 1,March,15
-East,,,Qtr 1,March,15
-South,370.782,33.59799999999997,Qtr 1,March,15
-West,,,Qtr 1,March,15
-Central,,,Qtr 1,March,16
-East,,,Qtr 1,March,16
-South,471.92,29.49500000000002,Qtr 1,March,16
-West,,,Qtr 1,March,16
-Central,275.10400000000004,115.8478,Qtr 1,March,17
-East,3581.754,-990.5173,Qtr 1,March,17
-South,103.5,42.8123,Qtr 1,March,17
-West,,,Qtr 1,March,17
-Central,,,Qtr 1,March,18
-East,,,Qtr 1,March,18
-South,23661.228,-1789.7327000000023,Qtr 1,March,18
-West,4445.488,835.0237999999998,Qtr 1,March,18
-Central,,,Qtr 1,March,19
-East,,,Qtr 1,March,19
-South,590.7620000000001,68.63529999999997,Qtr 1,March,19
-West,,,Qtr 1,March,19
-Central,,,Qtr 1,March,21
-East,13.456,2.7914000000000003,Qtr 1,March,21
-South,4096.360000000001,1052.5821000000003,Qtr 1,March,21
-West,,,Qtr 1,March,21
-Central,16.28,6.5120000000000005,Qtr 1,March,22
-East,,,Qtr 1,March,22
-South,59.109000000000016,-45.31689999999999,Qtr 1,March,22
-West,388.70399999999995,-12.129600000000018,Qtr 1,March,22
-Central,,,Qtr 1,March,23
-East,,,Qtr 1,March,23
-South,9.912,3.2213999999999996,Qtr 1,March,23
-West,935.1519999999999,123.70100000000002,Qtr 1,March,23
-Central,,,Qtr 1,March,24
-East,24.900000000000002,11.703000000000001,Qtr 1,March,24
-South,,,Qtr 1,March,24
-West,40.48,14.572799999999997,Qtr 1,March,24
-Central,,,Qtr 1,March,25
-East,366.786,65.2064,Qtr 1,March,25
-South,,,Qtr 1,March,25
-West,92.36,31.461999999999996,Qtr 1,March,25
-Central,,,Qtr 1,March,26
-East,,,Qtr 1,March,26
-South,,,Qtr 1,March,26
-West,145.13000000000002,30.7658,Qtr 1,March,26
-Central,1190.84,109.50120000000005,Qtr 1,March,28
-East,330.588,-143.25480000000002,Qtr 1,March,28
-South,,,Qtr 1,March,28
-West,302.376,22.678200000000018,Qtr 1,March,28
-Central,890.8409999999999,-152.7156,Qtr 1,March,29
-East,,,Qtr 1,March,29
-South,,,Qtr 1,March,29
-West,,,Qtr 1,March,29
-Central,844.2660000000001,198.85789999999997,Qtr 1,March,30
-East,60.15,23.793000000000003,Qtr 1,March,30
-South,,,Qtr 1,March,30
-West,265.906,10.102000000000004,Qtr 1,March,30
-Central,88.11800000000001,0.169399999999996,Qtr 1,March,31
-East,0.8520000000000001,-0.5963999999999998,Qtr 1,March,31
-South,1144.0339999999997,88.11430000000009,Qtr 1,March,31
-West,726.5480000000001,267.4224,Qtr 1,March,31
-Central,,,Qtr 2,April,1
-East,73.19999999999999,5.735999999999996,Qtr 2,April,1
-South,,,Qtr 2,April,1
-West,46.688,20.3536,Qtr 2,April,1
-Central,60.20800000000001,19.817,Qtr 2,April,2
-East,,,Qtr 2,April,2
-South,1398.3500000000001,387.5792,Qtr 2,April,2
-West,,,Qtr 2,April,2
-Central,,,Qtr 2,April,3
-East,,,Qtr 2,April,3
-South,,,Qtr 2,April,3
-West,233.45,85.6044,Qtr 2,April,3
-Central,84.83,26.160099999999993,Qtr 2,April,4
-East,,,Qtr 2,April,4
-South,364.92999999999995,67.975,Qtr 2,April,4
-West,26.084,11.316999999999998,Qtr 2,April,4
-Central,872.338,58.47390000000001,Qtr 2,April,5
-East,55.48,26.630399999999998,Qtr 2,April,5
-South,4367.279999999999,168.80010000000007,Qtr 2,April,5
-West,,,Qtr 2,April,5
-Central,,,Qtr 2,April,6
-East,326.762,-52.332200000000014,Qtr 2,April,6
-South,,,Qtr 2,April,6
-West,1323.928,351.84739999999994,Qtr 2,April,6
-Central,,,Qtr 2,April,7
-East,,,Qtr 2,April,7
-South,1021.17,305.05600000000004,Qtr 2,April,7
-West,,,Qtr 2,April,7
-Central,,,Qtr 2,April,8
-East,172.11,-94.66050000000001,Qtr 2,April,8
-South,1215.92,316.1392000000001,Qtr 2,April,8
-West,570.72,138.36939999999998,Qtr 2,April,8
-Central,758.3520000000001,265.4232,Qtr 2,April,11
-East,,,Qtr 2,April,11
-South,737.2000000000002,129.54950000000002,Qtr 2,April,11
-West,419.688,128.30020000000002,Qtr 2,April,11
-Central,32.400000000000006,15.552000000000001,Qtr 2,April,12
-East,,,Qtr 2,April,12
-South,,,Qtr 2,April,12
-West,1879.723,137.10609999999997,Qtr 2,April,12
-Central,,,Qtr 2,April,13
-East,638.5760000000001,-384.79419999999993,Qtr 2,April,13
-South,,,Qtr 2,April,13
-West,,,Qtr 2,April,13
-Central,,,Qtr 2,April,15
-East,,,Qtr 2,April,15
-South,,,Qtr 2,April,15
-West,294.71999999999997,107.99999999999999,Qtr 2,April,15
-Central,,,Qtr 2,April,16
-East,,,Qtr 2,April,16
-South,39.072,9.768,Qtr 2,April,16
-West,,,Qtr 2,April,16
-Central,697.074,61.793699999999944,Qtr 2,April,18
-East,,,Qtr 2,April,18
-South,,,Qtr 2,April,18
-West,323.458,108.14369999999998,Qtr 2,April,18
-Central,,,Qtr 2,April,19
-East,,,Qtr 2,April,19
-South,129.33,60.9174,Qtr 2,April,19
-West,76.14,26.648999999999997,Qtr 2,April,19
-Central,1190.53,-222.01600000000008,Qtr 2,April,20
-East,,,Qtr 2,April,20
-South,,,Qtr 2,April,20
-West,59.92,27.563200000000002,Qtr 2,April,20
-Central,,,Qtr 2,April,21
-East,,,Qtr 2,April,21
-South,828.8399999999999,0,Qtr 2,April,21
-West,16.520000000000003,5.5755,Qtr 2,April,21
-Central,,,Qtr 2,April,22
-East,257.752,124.78689999999999,Qtr 2,April,22
-South,,,Qtr 2,April,22
-West,,,Qtr 2,April,22
-Central,,,Qtr 2,April,23
-East,595.0699999999999,-23.292999999999978,Qtr 2,April,23
-South,,,Qtr 2,April,23
-West,48.91,22.987699999999997,Qtr 2,April,23
-Central,16.608000000000004,4.174800000000001,Qtr 2,April,25
-East,,,Qtr 2,April,25
-South,302.376,37.797,Qtr 2,April,25
-West,2061.01,290.8953,Qtr 2,April,25
-Central,,,Qtr 2,April,26
-East,,,Qtr 2,April,26
-South,,,Qtr 2,April,26
-West,282.56800000000004,40.74499999999998,Qtr 2,April,26
-Central,,,Qtr 2,April,28
-East,898.5160000000001,166.17020000000002,Qtr 2,April,28
-South,,,Qtr 2,April,28
-West,1679.96,125.99700000000007,Qtr 2,April,28
-Central,,,Qtr 2,April,29
-East,37.44,11.1312,Qtr 2,April,29
-South,731.404,90.55019999999992,Qtr 2,April,29
-West,,,Qtr 2,April,29
-Central,,,Qtr 2,April,30
-East,,,Qtr 2,April,30
-South,1048.74,276.4956,Qtr 2,April,30
-West,,,Qtr 2,April,30
-Central,,,Qtr 2,May,2
-East,26.136000000000003,1.9602000000000004,Qtr 2,May,2
-South,479.98400000000004,89.99699999999999,Qtr 2,May,2
-West,,,Qtr 2,May,2
-Central,21.560000000000002,10.348799999999999,Qtr 2,May,3
-East,51.072,18.513599999999997,Qtr 2,May,3
-South,,,Qtr 2,May,3
-West,,,Qtr 2,May,3
-Central,90.11199999999998,25.744799999999994,Qtr 2,May,4
-East,27.46,9.8856,Qtr 2,May,4
-South,,,Qtr 2,May,4
-West,69.86,22.932,Qtr 2,May,4
-Central,173.11700000000002,-5.174300000000013,Qtr 2,May,5
-East,,,Qtr 2,May,5
-South,87.86,39.6874,Qtr 2,May,5
-West,,,Qtr 2,May,5
-Central,,,Qtr 2,May,6
-East,,,Qtr 2,May,6
-South,,,Qtr 2,May,6
-West,254.456,85.7158,Qtr 2,May,6
-Central,,,Qtr 2,May,7
-East,1091.35,215.8138,Qtr 2,May,7
-South,,,Qtr 2,May,7
-West,,,Qtr 2,May,7
-Central,,,Qtr 2,May,8
-East,1799.9699999999998,239.9960000000001,Qtr 2,May,8
-South,,,Qtr 2,May,8
-West,,,Qtr 2,May,8
-Central,,,Qtr 2,May,9
-East,,,Qtr 2,May,9
-South,158.70999999999998,50.7928,Qtr 2,May,9
-West,235.76999999999998,44.38080000000001,Qtr 2,May,9
-Central,,,Qtr 2,May,10
-East,372.28499999999997,-211.67730000000003,Qtr 2,May,10
-South,,,Qtr 2,May,10
-West,1971.5140000000004,269.5033,Qtr 2,May,10
-Central,1606.8919999999998,-299.30449999999996,Qtr 2,May,11
-East,35.910000000000004,9.695699999999999,Qtr 2,May,11
-South,,,Qtr 2,May,11
-West,,,Qtr 2,May,11
-Central,34.79,10.784899999999999,Qtr 2,May,12
-East,700.056,-130.0104,Qtr 2,May,12
-South,,,Qtr 2,May,12
-West,,,Qtr 2,May,12
-Central,,,Qtr 2,May,13
-East,,,Qtr 2,May,13
-South,405.456,-329.5623999999999,Qtr 2,May,13
-West,492.92600000000004,87.27869999999999,Qtr 2,May,13
-Central,,,Qtr 2,May,14
-East,,,Qtr 2,May,14
-South,310.88000000000005,23.31599999999999,Qtr 2,May,14
-West,,,Qtr 2,May,14
-Central,,,Qtr 2,May,16
-East,,,Qtr 2,May,16
-South,,,Qtr 2,May,16
-West,289.28,20.85000000000001,Qtr 2,May,16
-Central,91.67999999999999,45.839999999999996,Qtr 2,May,17
-East,,,Qtr 2,May,17
-South,,,Qtr 2,May,17
-West,,,Qtr 2,May,17
-Central,3.9840000000000004,1.4442000000000004,Qtr 2,May,18
-East,944.964,-159.44819999999996,Qtr 2,May,18
-South,,,Qtr 2,May,18
-West,,,Qtr 2,May,18
-Central,57.42,26.413199999999996,Qtr 2,May,19
-East,,,Qtr 2,May,19
-South,34.2,9.234,Qtr 2,May,19
-West,,,Qtr 2,May,19
-Central,108.44399999999999,-19.341300000000004,Qtr 2,May,20
-East,211.66000000000003,81.39940000000001,Qtr 2,May,20
-South,,,Qtr 2,May,20
-West,,,Qtr 2,May,20
-Central,186.90800000000002,-37.60560000000002,Qtr 2,May,21
-East,711.6800000000001,297.0884,Qtr 2,May,21
-South,3333.9000000000005,1449.5187,Qtr 2,May,21
-West,31.84,10.507199999999997,Qtr 2,May,21
-Central,,,Qtr 2,May,22
-East,,,Qtr 2,May,22
-South,180.93,46.581,Qtr 2,May,22
-West,,,Qtr 2,May,22
-Central,,,Qtr 2,May,23
-East,310.798,51.829400000000014,Qtr 2,May,23
-South,,,Qtr 2,May,23
-West,12.96,6.2208000000000006,Qtr 2,May,23
-Central,,,Qtr 2,May,24
-East,116.28,56.977199999999996,Qtr 2,May,24
-South,,,Qtr 2,May,24
-West,,,Qtr 2,May,24
-Central,104.91999999999999,-190.50900000000004,Qtr 2,May,25
-East,14.62,6.725199999999999,Qtr 2,May,25
-South,,,Qtr 2,May,25
-West,,,Qtr 2,May,25
-Central,475.788,5.737799999999945,Qtr 2,May,26
-East,,,Qtr 2,May,26
-South,,,Qtr 2,May,26
-West,849.9300000000001,124.77080000000002,Qtr 2,May,26
-Central,17.459999999999997,-30.555000000000007,Qtr 2,May,27
-East,,,Qtr 2,May,27
-South,,,Qtr 2,May,27
-West,2139.934,142.09579999999994,Qtr 2,May,27
-Central,,,Qtr 2,May,28
-East,,,Qtr 2,May,28
-South,,,Qtr 2,May,28
-West,221.96800000000002,59.30879999999999,Qtr 2,May,28
-Central,1075.431,-49.84110000000004,Qtr 2,May,30
-East,835.8620000000001,265.7478999999999,Qtr 2,May,30
-South,13.620000000000001,6.129,Qtr 2,May,30
-West,,,Qtr 2,May,30
-Central,,,Qtr 2,May,31
-East,,,Qtr 2,May,31
-South,773.7,230.97269999999995,Qtr 2,May,31
-West,,,Qtr 2,May,31
-Central,3949.71,1233.5583000000001,Qtr 2,June,1
-East,334.68000000000006,104.78879999999997,Qtr 2,June,1
-South,904.13,238.40380000000002,Qtr 2,June,1
-West,,,Qtr 2,June,1
-Central,,,Qtr 2,June,2
-East,,,Qtr 2,June,2
-South,605.4699999999999,176.92719999999997,Qtr 2,June,2
-West,133.12800000000001,41.43359999999999,Qtr 2,June,2
-Central,225.45600000000002,-17.385,Qtr 2,June,3
-East,,,Qtr 2,June,3
-South,,,Qtr 2,June,3
-West,515.88,113.49359999999999,Qtr 2,June,3
-Central,,,Qtr 2,June,4
-East,456.272,-6.493200000000022,Qtr 2,June,4
-South,,,Qtr 2,June,4
-West,,,Qtr 2,June,4
-Central,138.812,0.4391999999999783,Qtr 2,June,6
-East,1171.808,-287.2467000000001,Qtr 2,June,6
-South,63.381,21.570800000000002,Qtr 2,June,6
-West,,,Qtr 2,June,6
-Central,281.397,-230.33159999999998,Qtr 2,June,7
-East,,,Qtr 2,June,7
-South,,,Qtr 2,June,7
-West,,,Qtr 2,June,7
-Central,,,Qtr 2,June,8
-East,1745.3600000000001,109.52399999999993,Qtr 2,June,8
-South,170.35200000000003,10.647000000000006,Qtr 2,June,8
-West,585.552,73.19399999999996,Qtr 2,June,8
-Central,142.344,17.154,Qtr 2,June,9
-East,,,Qtr 2,June,9
-South,1441.3,245.0209999999999,Qtr 2,June,9
-West,3879.364,366.85389999999984,Qtr 2,June,9
-Central,491.55,240.8595,Qtr 2,June,10
-East,,,Qtr 2,June,10
-South,,,Qtr 2,June,10
-West,,,Qtr 2,June,10
-Central,,,Qtr 2,June,13
-East,,,Qtr 2,June,13
-South,,,Qtr 2,June,13
-West,14.52,4.7916,Qtr 2,June,13
-Central,212.94,57.4938,Qtr 2,June,14
-East,,,Qtr 2,June,14
-South,,,Qtr 2,June,14
-West,,,Qtr 2,June,14
-Central,942.9739999999999,-78.241,Qtr 2,June,15
-East,,,Qtr 2,June,15
-South,,,Qtr 2,June,15
-West,,,Qtr 2,June,15
-Central,647.84,32.39199999999994,Qtr 2,June,16
-East,115.95200000000001,44.29559999999999,Qtr 2,June,16
-South,,,Qtr 2,June,16
-West,,,Qtr 2,June,16
-Central,62.016,22.480800000000002,Qtr 2,June,17
-East,65.97,31.005899999999997,Qtr 2,June,17
-South,,,Qtr 2,June,17
-West,3290.516,1073.1429999999998,Qtr 2,June,17
-Central,,,Qtr 2,June,18
-East,,,Qtr 2,June,18
-South,,,Qtr 2,June,18
-West,139.8,12.232500000000009,Qtr 2,June,18
-Central,1828.9496,-62.959399999999995,Qtr 2,June,20
-East,,,Qtr 2,June,20
-South,,,Qtr 2,June,20
-West,,,Qtr 2,June,20
-Central,,,Qtr 2,June,21
-East,3645.5209999999997,775.3995,Qtr 2,June,21
-South,425.66999999999996,98.92980000000001,Qtr 2,June,21
-West,36.252,-24.907199999999996,Qtr 2,June,21
-Central,663.75,9.716399999999993,Qtr 2,June,22
-East,1106.7699999999998,-20.035499999999992,Qtr 2,June,22
-South,,,Qtr 2,June,22
-West,204.978,50.533800000000014,Qtr 2,June,22
-Central,,,Qtr 2,June,23
-East,86.376,1.079699999999999,Qtr 2,June,23
-South,23.119999999999997,2.1006,Qtr 2,June,23
-West,,,Qtr 2,June,23
-Central,,,Qtr 2,June,24
-East,,,Qtr 2,June,24
-South,,,Qtr 2,June,24
-West,4.272,0.9611999999999998,Qtr 2,June,24
-Central,,,Qtr 2,June,25
-East,,,Qtr 2,June,25
-South,,,Qtr 2,June,25
-West,792.76,49.71719999999997,Qtr 2,June,25
-Central,,,Qtr 2,June,27
-East,,,Qtr 2,June,27
-South,616.14,76.10520000000002,Qtr 2,June,27
-West,,,Qtr 2,June,27
-Central,6.08,3.04,Qtr 2,June,28
-East,1639.7109999999998,106.722,Qtr 2,June,28
-South,,,Qtr 2,June,28
-West,,,Qtr 2,June,28
-Central,,,Qtr 2,June,29
-East,46.67999999999999,8.557499999999997,Qtr 2,June,29
-South,,,Qtr 2,June,29
-West,,,Qtr 2,June,29
-Central,52.48000000000001,17.904799999999998,Qtr 2,June,30
-East,344.05600000000004,112.54359999999997,Qtr 2,June,30
-South,310.688,108.74079999999998,Qtr 2,June,30
-West,32.400000000000006,10.367999999999999,Qtr 2,June,30
-Central,,,Qtr 3,July,1
-East,,,Qtr 3,July,1
-South,581.1039999999999,68.36119999999998,Qtr 3,July,1
-West,19.92,6.9719999999999995,Qtr 3,July,1
-Central,,,Qtr 3,July,2
-East,79.56,22.150800000000004,Qtr 3,July,2
-South,,,Qtr 3,July,2
-West,,,Qtr 3,July,2
-Central,,,Qtr 3,July,4
-East,,,Qtr 3,July,4
-South,37.44,18.564,Qtr 3,July,4
-West,209.96800000000002,65.3808,Qtr 3,July,4
-Central,502.20000000000005,-79.33320000000003,Qtr 3,July,5
-East,,,Qtr 3,July,5
-South,760.9440000000002,194.2668,Qtr 3,July,5
-West,180.96000000000004,67.86,Qtr 3,July,5
-Central,,,Qtr 3,July,6
-East,559.9920000000001,174.99749999999997,Qtr 3,July,6
-South,,,Qtr 3,July,6
-West,478.48,47.84800000000001,Qtr 3,July,6
-Central,,,Qtr 3,July,7
-East,241.194,-34.65980000000001,Qtr 3,July,7
-South,,,Qtr 3,July,7
-West,,,Qtr 3,July,7
-Central,,,Qtr 3,July,8
-East,63.882000000000005,10.647000000000004,Qtr 3,July,8
-South,,,Qtr 3,July,8
-West,699.192,-19.08900000000007,Qtr 3,July,8
-Central,24.720000000000006,8.1138,Qtr 3,July,9
-East,,,Qtr 3,July,9
-South,,,Qtr 3,July,9
-West,240.801,49.093999999999994,Qtr 3,July,9
-Central,586.3360000000001,46.82640000000002,Qtr 3,July,11
-East,1600.87,490.9033999999999,Qtr 3,July,11
-South,,,Qtr 3,July,11
-West,,,Qtr 3,July,11
-Central,613.862,11.715400000000056,Qtr 3,July,12
-East,,,Qtr 3,July,12
-South,,,Qtr 3,July,12
-West,1346.1499999999999,76.73899999999986,Qtr 3,July,12
-Central,,,Qtr 3,July,13
-East,,,Qtr 3,July,13
-South,,,Qtr 3,July,13
-West,351.216,4.390199999999979,Qtr 3,July,13
-Central,68.204,-42.567400000000006,Qtr 3,July,14
-East,168.47,5.174999999999992,Qtr 3,July,14
-South,,,Qtr 3,July,14
-West,55.92,6.291,Qtr 3,July,14
-Central,9.510000000000002,3.988200000000001,Qtr 3,July,15
-East,,,Qtr 3,July,15
-South,,,Qtr 3,July,15
-West,,,Qtr 3,July,15
-Central,,,Qtr 3,July,18
-East,13.904,4.5188,Qtr 3,July,18
-South,,,Qtr 3,July,18
-West,259.136,-25.913599999999988,Qtr 3,July,18
-Central,,,Qtr 3,July,19
-East,455.23,100.99640000000002,Qtr 3,July,19
-South,,,Qtr 3,July,19
-West,6.096,2.2098,Qtr 3,July,19
-Central,1340.976,-115.85280000000002,Qtr 3,July,20
-East,53.344,-27.08479999999999,Qtr 3,July,20
-South,,,Qtr 3,July,20
-West,891.4659999999999,305.12569999999994,Qtr 3,July,20
-Central,787.866,-69.04879999999994,Qtr 3,July,21
-East,,,Qtr 3,July,21
-South,,,Qtr 3,July,21
-West,1173.6160000000002,103.17479999999999,Qtr 3,July,21
-Central,26.632,1.331599999999999,Qtr 3,July,22
-East,165.94,59.261599999999994,Qtr 3,July,22
-South,,,Qtr 3,July,22
-West,1155.7720000000002,169.24159999999998,Qtr 3,July,22
-Central,,,Qtr 3,July,23
-East,99.98,7.9983999999999895,Qtr 3,July,23
-South,,,Qtr 3,July,23
-West,2513.2039999999997,259.48599999999993,Qtr 3,July,23
-Central,,,Qtr 3,July,25
-East,,,Qtr 3,July,25
-South,,,Qtr 3,July,25
-West,8341.289999999999,384.50839999999965,Qtr 3,July,25
-Central,2780.2679999999996,-3820.507000000002,Qtr 3,July,26
-East,,,Qtr 3,July,26
-South,256.48,104.14149999999998,Qtr 3,July,26
-West,2003.246,145.3944999999998,Qtr 3,July,26
-Central,,,Qtr 3,July,27
-East,65.78,32.2322,Qtr 3,July,27
-South,,,Qtr 3,July,27
-West,514.28,38.08000000000001,Qtr 3,July,27
-Central,,,Qtr 3,July,28
-East,,,Qtr 3,July,28
-South,193.152,34.69839999999999,Qtr 3,July,28
-West,,,Qtr 3,July,28
-Central,,,Qtr 3,July,30
-East,,,Qtr 3,July,30
-South,,,Qtr 3,July,30
-West,1367.84,259.8896,Qtr 3,July,30
-Central,,,Qtr 3,August,1
-East,5.68,1.9169999999999998,Qtr 3,August,1
-South,202.89600000000002,57.64479999999999,Qtr 3,August,1
-West,19.752000000000002,6.9132,Qtr 3,August,1
-Central,886.2800000000001,248.02760000000006,Qtr 3,August,2
-East,,,Qtr 3,August,2
-South,,,Qtr 3,August,2
-West,,,Qtr 3,August,2
-Central,,,Qtr 3,August,3
-East,163.62,51.14640000000001,Qtr 3,August,3
-South,,,Qtr 3,August,3
-West,314.374,-127.8613,Qtr 3,August,3
-Central,,,Qtr 3,August,4
-East,617.12,256.9266,Qtr 3,August,4
-South,,,Qtr 3,August,4
-West,2126.034,576.5563,Qtr 3,August,4
-Central,489.22999999999996,41.934,Qtr 3,August,5
-East,1369.33,362.66870000000006,Qtr 3,August,5
-South,,,Qtr 3,August,5
-West,550.164,99.50319999999998,Qtr 3,August,5
-Central,,,Qtr 3,August,6
-East,199.98,83.9916,Qtr 3,August,6
-South,62.91,22.647599999999997,Qtr 3,August,6
-West,,,Qtr 3,August,6
-Central,1109.7250000000001,436.102,Qtr 3,August,8
-East,,,Qtr 3,August,8
-South,155.45600000000002,-7.7727999999999895,Qtr 3,August,8
-West,2690.4480000000003,700.8049999999998,Qtr 3,August,8
-Central,,,Qtr 3,August,9
-East,,,Qtr 3,August,9
-South,193.936,27.741199999999974,Qtr 3,August,9
-West,3411.749,673.1525999999999,Qtr 3,August,9
-Central,,,Qtr 3,August,11
-East,375.34,18.766999999999996,Qtr 3,August,11
-South,,,Qtr 3,August,11
-West,76.28,26.8774,Qtr 3,August,11
-Central,,,Qtr 3,August,12
-East,196.21,98.105,Qtr 3,August,12
-South,744.3940000000001,177.4792,Qtr 3,August,12
-West,891.7760000000001,82.00880000000002,Qtr 3,August,12
-Central,30.959999999999994,-52.63200000000002,Qtr 3,August,15
-East,62.94,30.211199999999998,Qtr 3,August,15
-South,243.60000000000002,46.81899999999998,Qtr 3,August,15
-West,505.282,93.7844,Qtr 3,August,15
-Central,,,Qtr 3,August,16
-East,853.0919999999999,-227.49120000000016,Qtr 3,August,16
-South,,,Qtr 3,August,16
-West,,,Qtr 3,August,16
-Central,15.552000000000003,5.4432,Qtr 3,August,17
-East,,,Qtr 3,August,17
-South,484.78999999999996,187.74039999999997,Qtr 3,August,17
-West,,,Qtr 3,August,17
-Central,,,Qtr 3,August,19
-East,96.68,-55.97159999999998,Qtr 3,August,19
-South,983.73,182.82870000000003,Qtr 3,August,19
-West,358.696,48.60480000000001,Qtr 3,August,19
-Central,421.372,-6.019600000000054,Qtr 3,August,20
-East,,,Qtr 3,August,20
-South,1417.35,575.9100999999998,Qtr 3,August,20
-West,,,Qtr 3,August,20
-Central,11.56,5.6644000000000005,Qtr 3,August,22
-East,3.912,1.0269000000000001,Qtr 3,August,22
-South,7.6320000000000014,-1.8126000000000002,Qtr 3,August,22
-West,,,Qtr 3,August,22
-Central,19.44,9.5256,Qtr 3,August,23
-East,71.84,34.942400000000006,Qtr 3,August,23
-South,,,Qtr 3,August,23
-West,473.944,115.93359999999997,Qtr 3,August,23
-Central,,,Qtr 3,August,24
-East,25.951999999999998,10.8096,Qtr 3,August,24
-South,25.5,6.63,Qtr 3,August,24
-West,8.288,2.693599999999999,Qtr 3,August,24
-Central,38.06399999999999,-59.61840000000001,Qtr 3,August,25
-East,229.50199999999998,44.1669,Qtr 3,August,25
-South,,,Qtr 3,August,25
-West,1184.0840000000003,134.2938,Qtr 3,August,25
-Central,,,Qtr 3,August,26
-East,190.01000000000002,69.10489999999999,Qtr 3,August,26
-South,,,Qtr 3,August,26
-West,176.8,22.98400000000001,Qtr 3,August,26
-Central,,,Qtr 3,August,27
-East,,,Qtr 3,August,27
-South,1825.3699999999997,487.85489999999993,Qtr 3,August,27
-West,244.76000000000002,25.87739999999998,Qtr 3,August,27
-Central,,,Qtr 3,August,29
-East,,,Qtr 3,August,29
-South,709.0425000000001,-436.74309999999986,Qtr 3,August,29
-West,123.28,60.273599999999995,Qtr 3,August,29
-Central,,,Qtr 3,August,30
-East,121.24,21.485,Qtr 3,August,30
-South,,,Qtr 3,August,30
-West,,,Qtr 3,August,30
-Central,,,Qtr 3,August,31
-East,,,Qtr 3,August,31
-South,,,Qtr 3,August,31
-West,92.52,18.50399999999999,Qtr 3,August,31
-Central,34.752,4.867199999999997,Qtr 3,September,1
-East,380.744,65.43040000000002,Qtr 3,September,1
-South,,,Qtr 3,September,1
-West,53.94,15.642599999999995,Qtr 3,September,1
-Central,1275.63,27.912900000000008,Qtr 3,September,2
-East,184.54,45.167699999999996,Qtr 3,September,2
-South,1793.98,843.1705999999999,Qtr 3,September,2
-West,,,Qtr 3,September,2
-Central,7.679999999999998,-11.52,Qtr 3,September,3
-East,14.399999999999999,7.056,Qtr 3,September,3
-South,,,Qtr 3,September,3
-West,,,Qtr 3,September,3
-Central,,,Qtr 3,September,5
-East,264.32,19.823999999999998,Qtr 3,September,5
-South,31.983999999999998,1.998999999999998,Qtr 3,September,5
-West,,,Qtr 3,September,5
-Central,,,Qtr 3,September,6
-East,,,Qtr 3,September,6
-South,,,Qtr 3,September,6
-West,100.36,39.630799999999994,Qtr 3,September,6
-Central,2474.991,-78.23680000000006,Qtr 3,September,7
-East,917.044,-451.5298999999999,Qtr 3,September,7
-South,,,Qtr 3,September,7
-West,131.84000000000003,48.520399999999995,Qtr 3,September,7
-Central,11757.795999999998,-1904.2052000000022,Qtr 3,September,8
-East,193.06400000000002,19.32179999999999,Qtr 3,September,8
-South,371.81999999999994,154.94219999999999,Qtr 3,September,8
-West,1905.7479999999998,277.25349999999986,Qtr 3,September,8
-Central,114.49600000000001,55.205000000000005,Qtr 3,September,9
-East,2629.1020000000003,533.1521999999999,Qtr 3,September,9
-South,1299.99,-571.9956,Qtr 3,September,9
-West,,,Qtr 3,September,9
-Central,,,Qtr 3,September,10
-East,336.82,98.58839999999998,Qtr 3,September,10
-South,9.64,4.7236,Qtr 3,September,10
-West,1508.768,156.30880000000008,Qtr 3,September,10
-Central,,,Qtr 3,September,11
-East,,,Qtr 3,September,11
-South,,,Qtr 3,September,11
-West,127.94999999999999,21.751499999999986,Qtr 3,September,11
-Central,793.0299999999999,172.39679999999998,Qtr 3,September,12
-East,3919.206,403.8061000000002,Qtr 3,September,12
-South,192.424,24.680699999999987,Qtr 3,September,12
-West,,,Qtr 3,September,12
-Central,340.116,-9.717599999999976,Qtr 3,September,13
-East,275.51400000000007,58.4658,Qtr 3,September,13
-South,18.648000000000003,-12.431999999999999,Qtr 3,September,13
-West,641.13,207.50750000000002,Qtr 3,September,13
-Central,104.01599999999999,-144.19500000000005,Qtr 3,September,14
-East,4744.012,1613.7558,Qtr 3,September,14
-South,175.688,61.1991,Qtr 3,September,14
-West,,,Qtr 3,September,14
-Central,,,Qtr 3,September,15
-East,133.43599999999998,30.1722,Qtr 3,September,15
-South,,,Qtr 3,September,15
-West,,,Qtr 3,September,15
-Central,,,Qtr 3,September,16
-East,33.552,12.581999999999999,Qtr 3,September,16
-South,,,Qtr 3,September,16
-West,,,Qtr 3,September,16
-Central,,,Qtr 3,September,17
-East,5.892000000000001,-4.1244,Qtr 3,September,17
-South,52.608000000000004,14.8718,Qtr 3,September,17
-West,762.0229999999999,222.78129999999996,Qtr 3,September,17
-Central,5579.94,-761.9928000000007,Qtr 3,September,19
-East,887.103,177.42059999999998,Qtr 3,September,19
-South,2692.329,-937.4184000000005,Qtr 3,September,19
-West,179.265,-17.1535,Qtr 3,September,19
-Central,1122.25,-474.6970000000001,Qtr 3,September,20
-East,4106.51,1106.3026,Qtr 3,September,20
-South,2.8160000000000003,0.9855999999999999,Qtr 3,September,20
-West,104.392,37.510200000000005,Qtr 3,September,20
-Central,77.25399999999999,14.043799999999997,Qtr 3,September,21
-East,104.76000000000002,23.2686,Qtr 3,September,21
-South,,,Qtr 3,September,21
-West,2497.638,840.1333,Qtr 3,September,21
-Central,331.536,-82.884,Qtr 3,September,22
-East,693.992,125.91999999999996,Qtr 3,September,22
-South,4.608,1.6704,Qtr 3,September,22
-West,210.13,42.769299999999994,Qtr 3,September,22
-Central,9900.19,4668.6935,Qtr 3,September,23
-East,242.164,87.89239999999998,Qtr 3,September,23
-South,,,Qtr 3,September,23
-West,519.9830000000001,52.01159999999999,Qtr 3,September,23
-Central,,,Qtr 3,September,24
-East,,,Qtr 3,September,24
-South,,,Qtr 3,September,24
-West,211.96,8.478399999999993,Qtr 3,September,24
-Central,340.3127999999999,-89.92800000000003,Qtr 3,September,25
-East,,,Qtr 3,September,25
-South,,,Qtr 3,September,25
-West,14.576,2.368599999999999,Qtr 3,September,25
-Central,154.70000000000002,37.0544,Qtr 3,September,26
-East,265.23400000000004,30.515800000000006,Qtr 3,September,26
-South,,,Qtr 3,September,26
-West,1060.68,163.15639999999996,Qtr 3,September,26
-Central,,,Qtr 3,September,27
-East,87.53999999999999,37.6422,Qtr 3,September,27
-South,,,Qtr 3,September,27
-West,685.9,85.4642,Qtr 3,September,27
-Central,,,Qtr 3,September,28
-East,46.26,12.490200000000003,Qtr 3,September,28
-South,444.03200000000004,51.87839999999997,Qtr 3,September,28
-West,,,Qtr 3,September,28
-Central,,,Qtr 3,September,29
-East,3967.9919999999997,32.38560000000002,Qtr 3,September,29
-South,,,Qtr 3,September,29
-West,4141.0779999999995,857.8952999999997,Qtr 3,September,29
-Central,,,Qtr 3,September,30
-East,859.5880000000001,89.3072,Qtr 3,September,30
-South,84.76800000000001,16.690799999999996,Qtr 3,September,30
-West,43.176,13.4925,Qtr 3,September,30
-Central,,,Qtr 4,October,1
-East,,,Qtr 4,October,1
-South,,,Qtr 4,October,1
-West,4.71,0,Qtr 4,October,1
-Central,,,Qtr 4,October,2
-East,,,Qtr 4,October,2
-South,,,Qtr 4,October,2
-West,598.1440000000001,133.76319999999998,Qtr 4,October,2
-Central,316.187,-93.38390000000003,Qtr 4,October,3
-East,212.952,5.523599999999993,Qtr 4,October,3
-South,67.75999999999999,5.082,Qtr 4,October,3
-West,265.784,17.35039999999998,Qtr 4,October,3
-Central,,,Qtr 4,October,4
-East,589.41,-6.549000000000049,Qtr 4,October,4
-South,,,Qtr 4,October,4
-West,139.33800000000002,51.61989999999999,Qtr 4,October,4
-Central,,,Qtr 4,October,5
-East,91.92,11.489999999999991,Qtr 4,October,5
-South,,,Qtr 4,October,5
-West,99.98,34.992999999999995,Qtr 4,October,5
-Central,401.7,61.76760000000001,Qtr 4,October,6
-East,83.92000000000002,-13.637000000000011,Qtr 4,October,6
-South,,,Qtr 4,October,6
-West,9.09,1.9088999999999996,Qtr 4,October,6
-Central,107.44,10.744000000000007,Qtr 4,October,7
-East,129.92,21.112000000000002,Qtr 4,October,7
-South,,,Qtr 4,October,7
-West,,,Qtr 4,October,7
-Central,,,Qtr 4,October,8
-East,123.92,55.763999999999996,Qtr 4,October,8
-South,23.472,4.987799999999998,Qtr 4,October,8
-West,,,Qtr 4,October,8
-Central,,,Qtr 4,October,9
-East,,,Qtr 4,October,9
-South,88.768,31.068799999999996,Qtr 4,October,9
-West,160.592,38.93549999999998,Qtr 4,October,9
-Central,1488.7740000000001,117.40079999999996,Qtr 4,October,10
-East,120.25800000000001,-84.78939999999997,Qtr 4,October,10
-South,,,Qtr 4,October,10
-West,440.3539999999999,137.34120000000001,Qtr 4,October,10
-Central,,,Qtr 4,October,11
-East,483.336,78.55469999999997,Qtr 4,October,11
-South,16.23,7.3605,Qtr 4,October,11
-West,881.598,24.698599999999928,Qtr 4,October,11
-Central,22.240000000000002,2.501999999999997,Qtr 4,October,12
-East,,,Qtr 4,October,12
-South,,,Qtr 4,October,12
-West,36.29,10.3751,Qtr 4,October,12
-Central,,,Qtr 4,October,13
-East,272.672,39.33789999999998,Qtr 4,October,13
-South,389.73999999999995,35.273000000000025,Qtr 4,October,13
-West,1549.77,379.4923999999999,Qtr 4,October,13
-Central,2347.394,719.2163999999998,Qtr 4,October,14
-East,2178.0899999999997,340.14280000000014,Qtr 4,October,14
-South,,,Qtr 4,October,14
-West,,,Qtr 4,October,14
-Central,,,Qtr 4,October,15
-East,191.33999999999997,-4.9704000000000015,Qtr 4,October,15
-South,15.384,4.038300000000001,Qtr 4,October,15
-West,,,Qtr 4,October,15
-Central,,,Qtr 4,October,16
-East,,,Qtr 4,October,16
-South,,,Qtr 4,October,16
-West,194.322,91.40880000000001,Qtr 4,October,16
-Central,136.068,-36.83800000000003,Qtr 4,October,17
-East,,,Qtr 4,October,17
-South,,,Qtr 4,October,17
-West,,,Qtr 4,October,17
-Central,,,Qtr 4,October,18
-East,249.472,-12.214000000000029,Qtr 4,October,18
-South,2822.14,589.9718,Qtr 4,October,18
-West,63.304,28.3524,Qtr 4,October,18
-Central,,,Qtr 4,October,19
-East,,,Qtr 4,October,19
-South,,,Qtr 4,October,19
-West,641.1039999999999,124.54770000000002,Qtr 4,October,19
-Central,1074.162,106.46969999999995,Qtr 4,October,20
-East,,,Qtr 4,October,20
-South,426.942,-172.4535,Qtr 4,October,20
-West,,,Qtr 4,October,20
-Central,,,Qtr 4,October,21
-East,531.3820000000001,-109.17540000000005,Qtr 4,October,21
-South,788.86,122.96619999999997,Qtr 4,October,21
-West,36.36,12.2715,Qtr 4,October,21
-Central,,,Qtr 4,October,22
-East,93.888,12.90959999999999,Qtr 4,October,22
-South,129.92,10.393599999999992,Qtr 4,October,22
-West,,,Qtr 4,October,22
-Central,,,Qtr 4,October,24
-East,,,Qtr 4,October,24
-South,22.218000000000004,7.4208,Qtr 4,October,24
-West,34.272,11.138399999999999,Qtr 4,October,24
-Central,,,Qtr 4,October,25
-East,54.474,-9.078899999999999,Qtr 4,October,25
-South,,,Qtr 4,October,25
-West,49.408,18.528,Qtr 4,October,25
-Central,,,Qtr 4,October,26
-East,,,Qtr 4,October,26
-South,,,Qtr 4,October,26
-West,447.88000000000005,41.59200000000001,Qtr 4,October,26
-Central,,,Qtr 4,October,27
-East,,,Qtr 4,October,27
-South,22.320000000000004,7.6626,Qtr 4,October,27
-West,,,Qtr 4,October,27
-Central,257.98,74.8142,Qtr 4,October,28
-East,,,Qtr 4,October,28
-South,,,Qtr 4,October,28
-West,1252.6019999999999,18.614000000000026,Qtr 4,October,28
-Central,2813.8120000000004,378.5485999999997,Qtr 4,October,29
-East,,,Qtr 4,October,29
-South,,,Qtr 4,October,29
-West,,,Qtr 4,October,29
-Central,,,Qtr 4,October,31
-East,3538.17,-262.442,Qtr 4,October,31
-South,,,Qtr 4,October,31
-West,1823.8560000000002,214.33449999999988,Qtr 4,October,31
-Central,15.696000000000002,5.1011999999999995,Qtr 4,November,1
-East,903.9439999999997,264.79359999999997,Qtr 4,November,1
-South,1119.6,149.0670999999999,Qtr 4,November,1
-West,2692.84,244.4021999999998,Qtr 4,November,1
-Central,88.77600000000001,7.767900000000001,Qtr 4,November,2
-East,733.6379999999999,-91.35120000000002,Qtr 4,November,2
-South,799.9200000000001,239.976,Qtr 4,November,2
-West,504.03600000000006,130.18269999999995,Qtr 4,November,2
-Central,89.97,18.893699999999995,Qtr 4,November,3
-East,1144.4560000000001,182.46320000000009,Qtr 4,November,3
-South,1543.017,-312.93820000000017,Qtr 4,November,3
-West,6.72,3.36,Qtr 4,November,3
-Central,,,Qtr 4,November,4
-East,4859.436,2261.7136,Qtr 4,November,4
-South,66.61600000000001,7.8182,Qtr 4,November,4
-West,1767.6960000000001,173.86019999999996,Qtr 4,November,4
-Central,,,Qtr 4,November,5
-East,1476.8339999999998,-127.1508,Qtr 4,November,5
-South,197.69,56.721599999999995,Qtr 4,November,5
-West,20.04,8.817600000000002,Qtr 4,November,5
-Central,,,Qtr 4,November,6
-East,,,Qtr 4,November,6
-South,43.68,20.9664,Qtr 4,November,6
-West,,,Qtr 4,November,6
-Central,1143.2099999999998,74.4533,Qtr 4,November,7
-East,36.1,16.7244,Qtr 4,November,7
-South,,,Qtr 4,November,7
-West,269.832,64.30859999999998,Qtr 4,November,7
-Central,,,Qtr 4,November,8
-East,,,Qtr 4,November,8
-South,,,Qtr 4,November,8
-West,333.576,25.018199999999993,Qtr 4,November,8
-Central,,,Qtr 4,November,9
-East,56.52,21.477600000000002,Qtr 4,November,9
-South,,,Qtr 4,November,9
-West,1517.5739999999998,201.2109999999999,Qtr 4,November,9
-Central,1194.87,299.79659999999996,Qtr 4,November,10
-East,,,Qtr 4,November,10
-South,,,Qtr 4,November,10
-West,807.6859999999999,136.8365,Qtr 4,November,10
-Central,3114.3039999999996,-1392.145900000001,Qtr 4,November,11
-East,823.498,-109.05589999999998,Qtr 4,November,11
-South,,,Qtr 4,November,11
-West,4176.746,1051.6707000000001,Qtr 4,November,11
-Central,405.8652,41.434799999999996,Qtr 4,November,12
-East,,,Qtr 4,November,12
-South,7.872,0.8855999999999988,Qtr 4,November,12
-West,641.0240000000001,37.31359999999995,Qtr 4,November,12
-Central,44.976000000000006,19.2624,Qtr 4,November,14
-East,957.3539999999999,274.09239999999994,Qtr 4,November,14
-South,32.400000000000006,15.552000000000001,Qtr 4,November,14
-West,,,Qtr 4,November,14
-Central,604.6560000000001,204.07139999999995,Qtr 4,November,15
-East,,,Qtr 4,November,15
-South,362.17600000000004,37.39760000000001,Qtr 4,November,15
-West,813.9900000000001,158.60909999999993,Qtr 4,November,15
-Central,619.856,117.60459999999996,Qtr 4,November,16
-East,,,Qtr 4,November,16
-South,,,Qtr 4,November,16
-West,736.0725,19.953599999999973,Qtr 4,November,16
-Central,486.98,84.06099999999996,Qtr 4,November,17
-East,9981.924,1437.3472,Qtr 4,November,17
-South,,,Qtr 4,November,17
-West,1075.37,432.7264,Qtr 4,November,17
-Central,1583.942,-248.6285000000001,Qtr 4,November,18
-East,751.405,-171.99360000000001,Qtr 4,November,18
-South,,,Qtr 4,November,18
-West,1071.508,73.09940000000009,Qtr 4,November,18
-Central,503.13,136.45319999999998,Qtr 4,November,19
-East,5873.606000000001,1582.5882000000004,Qtr 4,November,19
-South,682.91,180.2656,Qtr 4,November,19
-West,166.44,79.8912,Qtr 4,November,19
-Central,,,Qtr 4,November,20
-East,907.5600000000001,251.172,Qtr 4,November,20
-South,,,Qtr 4,November,20
-West,,,Qtr 4,November,20
-Central,269.592,17.298300000000015,Qtr 4,November,21
-East,,,Qtr 4,November,21
-South,865.5,323.12699999999995,Qtr 4,November,21
-West,114.52999999999999,37.744599999999984,Qtr 4,November,21
-Central,16.907999999999994,-27.551800000000007,Qtr 4,November,22
-East,,,Qtr 4,November,22
-South,1032.57,465.22490000000005,Qtr 4,November,22
-West,53.82000000000001,24.218999999999998,Qtr 4,November,22
-Central,239.80999999999997,-107.91820000000001,Qtr 4,November,23
-East,62.80800000000001,21.1977,Qtr 4,November,23
-South,,,Qtr 4,November,23
-West,1060.662,-18.517900000000033,Qtr 4,November,23
-Central,1266.6100000000001,254.598,Qtr 4,November,24
-East,3206.938,-489.80360000000013,Qtr 4,November,24
-South,111.15,48.906000000000006,Qtr 4,November,24
-West,993.908,88.94220000000001,Qtr 4,November,24
-Central,1273.6229999999996,-117.86009999999993,Qtr 4,November,25
-East,1446.832,38.077399999999926,Qtr 4,November,25
-South,,,Qtr 4,November,25
-West,1695.2400000000002,228.4098999999999,Qtr 4,November,25
-Central,19.3,-14.475000000000001,Qtr 4,November,26
-East,414.62999999999994,139.1934,Qtr 4,November,26
-South,,,Qtr 4,November,26
-West,1272.06,-186.87960000000007,Qtr 4,November,26
-Central,,,Qtr 4,November,27
-East,203.65999999999997,41.29599999999999,Qtr 4,November,27
-South,,,Qtr 4,November,27
-West,,,Qtr 4,November,27
-Central,1062.87,-170.3208000000001,Qtr 4,November,28
-East,17.248,6.036799999999999,Qtr 4,November,28
-South,557.01,114.80109999999996,Qtr 4,November,28
-West,643.702,61.956100000000006,Qtr 4,November,28
-Central,12.624,3.944999999999999,Qtr 4,November,29
-East,30.099999999999998,13.542199999999998,Qtr 4,November,29
-South,,,Qtr 4,November,29
-West,606.3199999999999,87.18999999999998,Qtr 4,November,29
-Central,,,Qtr 4,November,30
-East,62.28,29.2716,Qtr 4,November,30
-South,6.642000000000001,-4.427999999999999,Qtr 4,November,30
-West,150.23200000000003,-13.014600000000005,Qtr 4,November,30
-Central,3528.538,667.2156000000002,Qtr 4,December,1
-East,1941.6839999999997,169.81440000000003,Qtr 4,December,1
-South,95.968,9.596800000000005,Qtr 4,December,1
-West,58.199999999999996,28.517999999999994,Qtr 4,December,1
-Central,117.178,-53.6825,Qtr 4,December,2
-East,1633.44,157.0615999999999,Qtr 4,December,2
-South,21.19,7.9958,Qtr 4,December,2
-West,,,Qtr 4,December,2
-Central,505.88,146.8304,Qtr 4,December,3
-East,,,Qtr 4,December,3
-South,,,Qtr 4,December,3
-West,,,Qtr 4,December,3
-Central,,,Qtr 4,December,4
-East,129.98,62.3904,Qtr 4,December,4
-South,,,Qtr 4,December,4
-West,,,Qtr 4,December,4
-Central,433.55999999999995,78.50069999999998,Qtr 4,December,5
-East,883.6899999999999,50.60409999999996,Qtr 4,December,5
-South,24.56,6.876799999999999,Qtr 4,December,5
-West,1621.832,289.0591999999999,Qtr 4,December,5
-Central,338.526,-194.55320000000006,Qtr 4,December,6
-East,,,Qtr 4,December,6
-South,42.208,13.717599999999997,Qtr 4,December,6
-West,1590.244,161.8166,Qtr 4,December,6
-Central,,,Qtr 4,December,7
-East,,,Qtr 4,December,7
-South,105.52,48.539199999999994,Qtr 4,December,7
-West,442.87999999999994,153.244,Qtr 4,December,7
-Central,60.416,6.0416000000000025,Qtr 4,December,8
-East,,,Qtr 4,December,8
-South,,,Qtr 4,December,8
-West,1034.704,119.88569999999997,Qtr 4,December,8
-Central,276.62,-25.565300000000022,Qtr 4,December,9
-East,1110.648,135.58219999999992,Qtr 4,December,9
-South,,,Qtr 4,December,9
-West,135.38400000000001,15.7344,Qtr 4,December,9
-Central,,,Qtr 4,December,10
-East,117.704,42.446,Qtr 4,December,10
-South,,,Qtr 4,December,10
-West,455.63199999999995,58.69659999999997,Qtr 4,December,10
-Central,210.39199999999997,-336.62720000000013,Qtr 4,December,12
-East,,,Qtr 4,December,12
-South,23.472,7.628399999999997,Qtr 4,December,12
-West,4704.5405,256.8980000000001,Qtr 4,December,12
-Central,97.348,-42.12759999999998,Qtr 4,December,13
-East,,,Qtr 4,December,13
-South,12.39,5.8233,Qtr 4,December,13
-West,183.414,45.03569999999999,Qtr 4,December,13
-Central,52.28,-24.2907,Qtr 4,December,14
-East,7403.074,2230.8394,Qtr 4,December,14
-South,186.304,13.9728,Qtr 4,December,14
-West,,,Qtr 4,December,14
-Central,812.504,-38.437,Qtr 4,December,15
-East,445.802,-108.26620000000001,Qtr 4,December,15
-South,,,Qtr 4,December,15
-West,6.16,1.9711999999999996,Qtr 4,December,15
-Central,535.648,83.68340000000002,Qtr 4,December,16
-East,,,Qtr 4,December,16
-South,1146.423,118.91719999999998,Qtr 4,December,16
-West,2712.1160000000004,213.04179999999994,Qtr 4,December,16
-Central,,,Qtr 4,December,17
-East,5.484000000000001,-4.021599999999999,Qtr 4,December,17
-South,40.05,11.213999999999999,Qtr 4,December,17
-West,,,Qtr 4,December,17
-Central,372.12000000000006,34.14989999999997,Qtr 4,December,19
-East,,,Qtr 4,December,19
-South,2232.502,218.32850000000005,Qtr 4,December,19
-West,832.1379999999999,104.47849999999991,Qtr 4,December,19
-Central,1192.5320000000002,440.78919999999994,Qtr 4,December,20
-East,383.03400000000005,14.831399999999974,Qtr 4,December,20
-South,3616.6820000000002,710.6466,Qtr 4,December,20
-West,1770.192,390.74299999999994,Qtr 4,December,20
-Central,,,Qtr 4,December,21
-East,17.28,7.9487999999999985,Qtr 4,December,21
-South,18.240000000000002,-14.591999999999999,Qtr 4,December,21
-West,1897.92,184.90799999999987,Qtr 4,December,21
-Central,274.096,23.541599999999995,Qtr 4,December,22
-East,513.1120000000001,156.40429999999998,Qtr 4,December,22
-South,,,Qtr 4,December,22
-West,11.76,3.1752000000000002,Qtr 4,December,22
-Central,212.424,59.8416,Qtr 4,December,23
-East,109.83599999999998,-3.7236000000000065,Qtr 4,December,23
-South,619.8480000000002,11.261399999999949,Qtr 4,December,23
-West,,,Qtr 4,December,23
-Central,,,Qtr 4,December,24
-East,30.36,8.7285,Qtr 4,December,24
-South,9.568000000000001,3.4684,Qtr 4,December,24
-West,1910.2740000000003,252.1110999999999,Qtr 4,December,24
-Central,609.248,-23.352400000000078,Qtr 4,December,26
-East,561.504,-2.3469000000000353,Qtr 4,December,26
-South,,,Qtr 4,December,26
-West,870.662,22.1019,Qtr 4,December,26
-Central,67.95200000000001,-25.2424,Qtr 4,December,27
-East,1067.726,118.62319999999997,Qtr 4,December,27
-South,521.92,195.9808,Qtr 4,December,27
-West,1308.7900000000002,-625.6867,Qtr 4,December,27
-Central,,,Qtr 4,December,28
-East,2682.3259999999996,663.5937999999998,Qtr 4,December,28
-South,,,Qtr 4,December,28
-West,1049.97,43.26360000000007,Qtr 4,December,28
-Central,192.07199999999997,-0.6767999999999859,Qtr 4,December,29
-East,48.36,6.044999999999995,Qtr 4,December,29
-South,,,Qtr 4,December,29
-West,1831.6640000000004,562.6412999999999,Qtr 4,December,29
-Central,619.4540000000001,66.10440000000001,Qtr 4,December,30
-East,962.084,-191.86270000000007,Qtr 4,December,30
-South,39.128,-8.803799999999999,Qtr 4,December,30
-West,551.9850000000001,-459.9875000000002,Qtr 4,December,30
-Central,126.77800000000002,45.7038,Qtr 4,December,31
-East,4650.548,1339.3163,Qtr 4,December,31
-South,,,Qtr 4,December,31
-West,475.944,59.49299999999995,Qtr 4,December,31
+Orders.Region	Sum(Orders.Sales)	Sum(Orders.Profit)	Orders.Order Date.Variation.Date Hierarchy.Quarter	Orders.Order Date.Variation.Date Hierarchy.Month	Orders.Order Date.Variation.Date Hierarchy.Day
+Central	958.5020000000001	-389.2283	Qtr 1	January	1
+East	48.896	8.556799999999999	Qtr 1	January	1
+South			Qtr 1	January	1
+West	474.43	199.26060000000004	Qtr 1	January	1
+Central	1322.75	-151.3382	Qtr 1	January	2
+East	2338.016	-1056.0074	Qtr 1	January	2
+South	740.214	-61.5156	Qtr 1	January	2
+West	16.59	5.8065	Qtr 1	January	2
+Central	3766.0395999999996	14.964399999999728	Qtr 1	January	3
+East			Qtr 1	January	3
+South			Qtr 1	January	3
+West	2184.732	732.8950000000001	Qtr 1	January	3
+Central	360.3	-30.5169	Qtr 1	January	4
+East	109.25200000000001	-79.594	Qtr 1	January	4
+South	1152.188	189.19519999999994	Qtr 1	January	4
+West			Qtr 1	January	4
+Central			Qtr 1	January	5
+East	109.70400000000001	33.183600000000006	Qtr 1	January	5
+South	255.904	46.45680000000001	Qtr 1	January	5
+West	205.104	34.20899999999999	Qtr 1	January	5
+Central			Qtr 1	January	6
+East			Qtr 1	January	6
+South	4421.400000000001	1364.2415999999998	Qtr 1	January	6
+West	50.97800000000001	17.224599999999995	Qtr 1	January	6
+Central	3196.136	606.1447999999996	Qtr 1	January	7
+East			Qtr 1	January	7
+South	2.8080000000000007	-1.9656	Qtr 1	January	7
+West	367.38	90.71699999999997	Qtr 1	January	7
+Central	1671.93	456.9723000000001	Qtr 1	January	8
+East			Qtr 1	January	8
+South	187.22799999999998	-7.832	Qtr 1	January	8
+West	892.98	80.3682	Qtr 1	January	8
+Central	40.544000000000004	10.917999999999996	Qtr 1	January	9
+East	289.65900000000005	-224.9505	Qtr 1	January	9
+South	364.07	131.0797	Qtr 1	January	9
+West	727.878	260.706	Qtr 1	January	9
+Central			Qtr 1	January	10
+East	1018.1039999999999	-373.3048	Qtr 1	January	10
+South	54.83	22.6537	Qtr 1	January	10
+West	174.75	55.365300000000005	Qtr 1	January	10
+Central			Qtr 1	January	11
+East	159.384	28.164799999999993	Qtr 1	January	11
+South			Qtr 1	January	11
+West			Qtr 1	January	11
+Central	760.9799999999998	-1141.47	Qtr 1	January	12
+East	932.374	97.86879999999996	Qtr 1	January	12
+South			Qtr 1	January	12
+West	9.78	4.89	Qtr 1	January	12
+Central	4619.329999999999	206.65240000000009	Qtr 1	January	13
+East	40.846000000000004	10.5716	Qtr 1	January	13
+South	1843.0199999999998	418.7294	Qtr 1	January	13
+West	2292.2070000000003	404.64619999999985	Qtr 1	January	13
+Central	358.7	111.1794	Qtr 1	January	14
+East	61.96	-53.2856	Qtr 1	January	14
+South	610.0940000000002	92.00800000000002	Qtr 1	January	14
+West	492.5880000000001	69.6665	Qtr 1	January	14
+Central	147.636	-31.3862	Qtr 1	January	15
+East	2673.167	518.5085999999999	Qtr 1	January	15
+South	149.95	65.97800000000001	Qtr 1	January	15
+West	21.400000000000002	6.205999999999998	Qtr 1	January	15
+Central	5802.7	2602.0939	Qtr 1	January	16
+East	299.964	-5.9335	Qtr 1	January	16
+South			Qtr 1	January	16
+West	529.8100000000001	9.105599999999942	Qtr 1	January	16
+Central	254.74400000000003	-312.0614	Qtr 1	January	17
+East	731.2299999999999	146.67219999999995	Qtr 1	January	17
+South	404.96000000000004	41.607999999999954	Qtr 1	January	17
+West			Qtr 1	January	17
+Central			Qtr 1	January	18
+East			Qtr 1	January	18
+South			Qtr 1	January	18
+West	64.864	6.486400000000003	Qtr 1	January	18
+Central	307.742	-19.6122	Qtr 1	January	19
+East	2007.7149999999997	53.30430000000001	Qtr 1	January	19
+South			Qtr 1	January	19
+West	378.59400000000005	-287.9976	Qtr 1	January	19
+Central	720.136	187.7306	Qtr 1	January	20
+East	211.36600000000004	3.3301999999999894	Qtr 1	January	20
+South	1926.5939999999998	385.73209999999983	Qtr 1	January	20
+West	583.6120000000001	163.60860000000002	Qtr 1	January	20
+Central	1508.409	452.9510999999999	Qtr 1	January	21
+East			Qtr 1	January	21
+South	409.23999999999995	5.943800000000017	Qtr 1	January	21
+West	1821.2979999999998	234.67940000000002	Qtr 1	January	21
+Central	22.992	5.799599999999998	Qtr 1	January	22
+East	199.448	5.147499999999994	Qtr 1	January	22
+South	530.2719999999999	-56.9024	Qtr 1	January	22
+West	4377.29	1530.8373	Qtr 1	January	22
+Central	216.92	21.097999999999985	Qtr 1	January	23
+East	1672.31	452.44039999999995	Qtr 1	January	23
+South			Qtr 1	January	23
+West	383.084	101.09740000000001	Qtr 1	January	23
+Central			Qtr 1	January	24
+East			Qtr 1	January	24
+South	50.150000000000006	17.9254	Qtr 1	January	24
+West	412.99600000000004	104.95479999999999	Qtr 1	January	24
+Central			Qtr 1	January	25
+East	858.712	-65.8542	Qtr 1	January	25
+South			Qtr 1	January	25
+West			Qtr 1	January	25
+Central	170.8	46.5844	Qtr 1	January	26
+East			Qtr 1	January	26
+South	3969.89	902.0149	Qtr 1	January	26
+West	194.56	89.7344	Qtr 1	January	26
+Central			Qtr 1	January	27
+East	1101.2459999999999	-190.0193	Qtr 1	January	27
+South			Qtr 1	January	27
+West	3230.59	9.682700000000004	Qtr 1	January	27
+Central	279.9	137.151	Qtr 1	January	28
+East	453.838	158.7942	Qtr 1	January	28
+South	4297.644	-1862.3124	Qtr 1	January	28
+West	317.39	49.545100000000005	Qtr 1	January	28
+Central	148.32799999999997	39.25809999999999	Qtr 1	January	29
+East	9.988	2.878	Qtr 1	January	29
+South			Qtr 1	January	29
+West	136.526	44.766999999999996	Qtr 1	January	29
+Central	4932.898999999999	-12.5625	Qtr 1	January	30
+East			Qtr 1	January	30
+South	419.13599999999997	-68.1096	Qtr 1	January	30
+West	3906.7560000000003	419.39509999999973	Qtr 1	January	30
+Central	114.81200000000003	44.349799999999995	Qtr 1	January	31
+East	23.36	11.68	Qtr 1	January	31
+South	1396.35	694.4141999999999	Qtr 1	January	31
+West	456.958	39.42199999999998	Qtr 1	January	31
+Central	468.90000000000003	206.31600000000006	Qtr 1	February	1
+East			Qtr 1	February	1
+South	56.449999999999996	14.676999999999998	Qtr 1	February	1
+West	105.52	48.539199999999994	Qtr 1	February	1
+Central	73.784	-77.4732	Qtr 1	February	2
+East	277.69	30.2412	Qtr 1	February	2
+South	9004.336	2826.634199999999	Qtr 1	February	2
+West	765.9740000000002	152.13829999999996	Qtr 1	February	2
+Central	690.738	208.3594	Qtr 1	February	3
+East	381.663	46.657799999999966	Qtr 1	February	3
+South	1060.098	298.054	Qtr 1	February	3
+West	246.176	76.73599999999999	Qtr 1	February	3
+Central			Qtr 1	February	4
+East	123.15	32.019	Qtr 1	February	4
+South			Qtr 1	February	4
+West	241.772	58.8152	Qtr 1	February	4
+Central	251.11199999999997	-426.274	Qtr 1	February	5
+East			Qtr 1	February	5
+South	2075.51	688.7151	Qtr 1	February	5
+West	2930.8659999999995	533.7174999999999	Qtr 1	February	5
+Central	701.166	-141.1242	Qtr 1	February	6
+East	2072.904	462.2171999999998	Qtr 1	February	6
+South	990.384	168.6562999999999	Qtr 1	February	6
+West	35.18	14.986199999999998	Qtr 1	February	6
+Central			Qtr 1	February	7
+East	210.672	69.97200000000001	Qtr 1	February	7
+South	431.93999999999994	177.19269999999997	Qtr 1	February	7
+West	623.96	38.9975	Qtr 1	February	7
+Central	262.60999999999996	7.822099999999999	Qtr 1	February	8
+East	107.982	-26.9955	Qtr 1	February	8
+South	1127.976	126.8972999999998	Qtr 1	February	8
+West	14.56	5.5328	Qtr 1	February	8
+Central	979.376	-356.8294	Qtr 1	February	9
+East			Qtr 1	February	9
+South			Qtr 1	February	9
+West	701.77	97.97099999999998	Qtr 1	February	9
+Central			Qtr 1	February	10
+East	100.36000000000001	19.0528	Qtr 1	February	10
+South			Qtr 1	February	10
+West	203.98299999999998	16.79859999999998	Qtr 1	February	10
+Central	605.2	107.49039999999998	Qtr 1	February	11
+East	168.268	6.246799999999993	Qtr 1	February	11
+South	1508.13	186.73739999999995	Qtr 1	February	11
+West	1073.248	123.85499999999986	Qtr 1	February	11
+Central			Qtr 1	February	12
+East			Qtr 1	February	12
+South	1366.0400000000002	182.99800000000002	Qtr 1	February	12
+West	129.568	-24.294	Qtr 1	February	12
+Central	90.64	38.97520000000001	Qtr 1	February	13
+East	53.67	18.0804	Qtr 1	February	13
+South			Qtr 1	February	13
+West	1060.94	440.68890000000005	Qtr 1	February	13
+Central	16.176000000000002	6.065999999999999	Qtr 1	February	14
+East	1653.703	66.22679999999991	Qtr 1	February	14
+South	264.18	68.6868	Qtr 1	February	14
+West	560.55	114.1104	Qtr 1	February	14
+Central	974.9000000000001	287.3705	Qtr 1	February	15
+East	407.072	128.06019999999998	Qtr 1	February	15
+South			Qtr 1	February	15
+West	648.84	197.18409999999992	Qtr 1	February	15
+Central	881.2239999999999	-250.9795	Qtr 1	February	16
+East	1312.896	238.81750000000002	Qtr 1	February	16
+South	323.88	37.59879999999997	Qtr 1	February	16
+West	124.54999999999998	58.53849999999999	Qtr 1	February	16
+Central	1362.8023999999998	-301.6721	Qtr 1	February	17
+East	1627.063	-81.5233	Qtr 1	February	17
+South	29.160000000000004	8.456399999999999	Qtr 1	February	17
+West			Qtr 1	February	17
+Central	37.784	-13.8468	Qtr 1	February	18
+East			Qtr 1	February	18
+South			Qtr 1	February	18
+West	393.17	94.04240000000001	Qtr 1	February	18
+Central			Qtr 1	February	19
+East	321.78	35.14889999999999	Qtr 1	February	19
+South	1245.86	361.2993999999999	Qtr 1	February	19
+West	139.60999999999999	49.0657	Qtr 1	February	19
+Central	102.3	34.6514	Qtr 1	February	20
+East	286.78999999999996	74.56540000000001	Qtr 1	February	20
+South	46.486000000000004	8.566399999999998	Qtr 1	February	20
+West	1143.5800000000002	-106.6023	Qtr 1	February	20
+Central	56.754000000000005	-16.7115	Qtr 1	February	21
+East	3083.08	1448.5099	Qtr 1	February	21
+South	471.07800000000003	2.949399999999997	Qtr 1	February	21
+West	561.068	50.28159999999998	Qtr 1	February	21
+Central	569.68	157.92320000000004	Qtr 1	February	22
+East			Qtr 1	February	22
+South			Qtr 1	February	22
+West	512.2900000000001	85.30249999999995	Qtr 1	February	22
+Central	11.364	-4.5225	Qtr 1	February	23
+East	95.352	32.1246	Qtr 1	February	23
+South			Qtr 1	February	23
+West	117.79999999999998	42.36999999999999	Qtr 1	February	23
+Central			Qtr 1	February	24
+East	1448.676	249.3928999999998	Qtr 1	February	24
+South			Qtr 1	February	24
+West	55.672000000000004	18.789299999999997	Qtr 1	February	24
+Central	1.7879999999999996	-3.0396	Qtr 1	February	25
+East	72.59	29.256	Qtr 1	February	25
+South	428.704	-16.3402	Qtr 1	February	25
+West			Qtr 1	February	25
+Central			Qtr 1	February	26
+East			Qtr 1	February	26
+South			Qtr 1	February	26
+West	2847.646	447.3532	Qtr 1	February	26
+Central	73.012	21.52840000000001	Qtr 1	February	27
+East	810.6869999999999	24.612299999999976	Qtr 1	February	27
+South			Qtr 1	February	27
+West	538.9200000000001	80.838	Qtr 1	February	27
+Central			Qtr 1	February	28
+East	54.10000000000001	26.4642	Qtr 1	February	28
+South	551.264	15.566399999999952	Qtr 1	February	28
+West			Qtr 1	February	28
+Central			Qtr 1	February	29
+East	111.104	8.332800000000002	Qtr 1	February	29
+South			Qtr 1	February	29
+West			Qtr 1	February	29
+Central	3118.8094	-257.1928	Qtr 1	March	1
+East	6135.313999999999	2255.4742999999994	Qtr 1	March	1
+South	58.72	27.0112	Qtr 1	March	1
+West	818.2880000000001	45.889199999999924	Qtr 1	March	1
+Central	131.794	31.074899999999985	Qtr 1	March	2
+East	848.3919999999999	221.36599999999999	Qtr 1	March	2
+South			Qtr 1	March	2
+West	1571.8939999999998	266.57289999999995	Qtr 1	March	2
+Central	6594.1539999999995	-1192.0896	Qtr 1	March	3
+East	1617.562	278.8208	Qtr 1	March	3
+South	92.256	23.0608	Qtr 1	March	3
+West	2306.446	404.8538999999999	Qtr 1	March	3
+Central	332.652	20.55979999999998	Qtr 1	March	4
+East	159.98	57.5928	Qtr 1	March	4
+South	380.53200000000004	23.60579999999996	Qtr 1	March	4
+West	41.56	14.644899999999994	Qtr 1	March	4
+Central	944.068	-261.9843	Qtr 1	March	5
+East	2293.875	298.5400000000001	Qtr 1	March	5
+South	839.25	336.78499999999997	Qtr 1	March	5
+West			Qtr 1	March	5
+Central	377.49799999999993	-296.6706	Qtr 1	March	6
+East	600.5709999999999	-57.3106	Qtr 1	March	6
+South			Qtr 1	March	6
+West	2166.7140000000004	673.7035	Qtr 1	March	6
+Central	21.072	1.5804	Qtr 1	March	7
+East	974.1300000000001	327.52669999999995	Qtr 1	March	7
+South			Qtr 1	March	7
+West	1561.062	134.1538999999999	Qtr 1	March	7
+Central	2944.66	677.8534999999999	Qtr 1	March	8
+East	330.016	55.878	Qtr 1	March	8
+South	2134.86	259.78340000000003	Qtr 1	March	8
+West	187.67000000000002	58.85339999999999	Qtr 1	March	8
+Central	473.4	52.29149999999999	Qtr 1	March	9
+East	635.6000000000001	212.07860000000005	Qtr 1	March	9
+South	4.608	1.6704	Qtr 1	March	9
+West	710.8040000000001	139.62849999999995	Qtr 1	March	9
+Central	956.9	-164.4952	Qtr 1	March	10
+East	452.304	3.9837	Qtr 1	March	10
+South	61.876000000000005	-6.3784	Qtr 1	March	10
+West	8494.494	775.1503999999996	Qtr 1	March	10
+Central	959.3599999999999	449.05999999999995	Qtr 1	March	11
+East	1479.8339999999998	-165.2738	Qtr 1	March	11
+South	1340.8700000000001	380.66420000000005	Qtr 1	March	11
+West	7.98	2.0747999999999998	Qtr 1	March	11
+Central			Qtr 1	March	12
+East	99.27000000000001	45.664199999999994	Qtr 1	March	12
+South	104.38600000000001	34.8074	Qtr 1	March	12
+West	1895.282	157.75770000000003	Qtr 1	March	12
+Central	1995.795	369.7769000000001	Qtr 1	March	13
+East	3547.946999999999	-622.5138	Qtr 1	March	13
+South	334.2	106.5112	Qtr 1	March	13
+West	9165.146	664.6410999999996	Qtr 1	March	13
+Central	1041.774	172.05789999999996	Qtr 1	March	14
+East	710.3399999999999	329.70149999999995	Qtr 1	March	14
+South	1230.976	316.8496	Qtr 1	March	14
+West	552.344	54.30139999999997	Qtr 1	March	14
+Central	550.8159999999999	-179.2486	Qtr 1	March	15
+East	83.97600000000001	-13.6461	Qtr 1	March	15
+South	736.222	201.70039999999995	Qtr 1	March	15
+West	1373.3520000000003	87.82679999999995	Qtr 1	March	15
+Central			Qtr 1	March	16
+East	863.901	-28.5636	Qtr 1	March	16
+South	7383.62	3465.8174999999997	Qtr 1	March	16
+West	1468.99	282.57449999999994	Qtr 1	March	16
+Central	299.1520000000001	97.0162	Qtr 1	March	17
+East	6402.778	-108.8448	Qtr 1	March	17
+South	108.108	44.4827	Qtr 1	March	17
+West	102.24000000000001	-14.2448	Qtr 1	March	17
+Central	857.3979999999999	-310.7845	Qtr 1	March	18
+East			Qtr 1	March	18
+South	24722.91	-1797.4937	Qtr 1	March	18
+West	4615.848	895.6901999999998	Qtr 1	March	18
+Central	449.04959999999994	-43.8962	Qtr 1	March	19
+East	73.14999999999999	29.512	Qtr 1	March	19
+South	636.344	52.80369999999999	Qtr 1	March	19
+West	7390.085999999999	2037.0846999999992	Qtr 1	March	19
+Central	1116.0459999999998	297.2002999999999	Qtr 1	March	20
+East	1745.634	522.4952999999999	Qtr 1	March	20
+South	86.45	38.038000000000004	Qtr 1	March	20
+West	427.94300000000004	44.2414	Qtr 1	March	20
+Central	2734.766	655.5284	Qtr 1	March	21
+East	22.311999999999998	5.669599999999999	Qtr 1	March	21
+South	5431.1230000000005	1303.1450000000002	Qtr 1	March	21
+West	1170.336	241.64399999999992	Qtr 1	March	21
+Central	178.352	-35.2819	Qtr 1	March	22
+East			Qtr 1	March	22
+South	677.021	15.9069	Qtr 1	March	22
+West	2316.612	273.2601999999998	Qtr 1	March	22
+Central	251.5	-61.5912	Qtr 1	March	23
+East	373.26	28.934999999999974	Qtr 1	March	23
+South	69.39200000000001	17.981799999999996	Qtr 1	March	23
+West	15700.282000000001	7141.3072	Qtr 1	March	23
+Central	394.3059999999999	-24.6074	Qtr 1	March	24
+East	1589.556	111.47419999999988	Qtr 1	March	24
+South	6.992000000000001	0.5244	Qtr 1	March	24
+West	490.548	52.902800000000006	Qtr 1	March	24
+Central	3751.1940000000004	776.3749999999998	Qtr 1	March	25
+East	437.356	86.04589999999999	Qtr 1	March	25
+South			Qtr 1	March	25
+West	1184.592	227.23159999999996	Qtr 1	March	25
+Central	2798.512	393.9248000000001	Qtr 1	March	26
+East	1992.8159999999998	326.17099999999994	Qtr 1	March	26
+South	318.97800000000007	33.24059999999997	Qtr 1	March	26
+West	3593.3199999999997	661.7588000000001	Qtr 1	March	26
+Central	1875.1279999999997	-98.0704	Qtr 1	March	27
+East	15.008000000000003	1.5008	Qtr 1	March	27
+South	967.4999999999999	180.67460000000003	Qtr 1	March	27
+West	252.27999999999997	83.59159999999999	Qtr 1	March	27
+Central	1190.84	109.50120000000005	Qtr 1	March	28
+East	374.29200000000003	-124.8804	Qtr 1	March	28
+South	100.14200000000002	-40.2694	Qtr 1	March	28
+West	2031.876	174.43919999999997	Qtr 1	March	28
+Central	2674.6209999999996	-90.838	Qtr 1	March	29
+East	974.5989999999999	-41.5921	Qtr 1	March	29
+South	1172.48	132.72409999999996	Qtr 1	March	29
+West	368.96000000000004	156.06129999999996	Qtr 1	March	29
+Central	1741.35	260.8282999999999	Qtr 1	March	30
+East	77.205	24.5871	Qtr 1	March	30
+South	59.76	16.732800000000005	Qtr 1	March	30
+West	530.9780000000001	70.2723	Qtr 1	March	30
+Central	461.29479999999995	-121.9071	Qtr 1	March	31
+East	1508.9640000000004	236.75050000000002	Qtr 1	March	31
+South	5055.534	1817.8843000000002	Qtr 1	March	31
+West	756.248	275.4414	Qtr 1	March	31
+Central	135.58999999999997	37.1578	Qtr 2	April	1
+East	2195.876	494.59119999999996	Qtr 2	April	1
+South	404.39	3.9054999999999698	Qtr 2	April	1
+West	5518.5	519.1468999999996	Qtr 2	April	1
+Central	1654.5520000000001	305.04959999999994	Qtr 2	April	2
+East	11.12	2.8911999999999995	Qtr 2	April	2
+South	2185.09	594.0576000000001	Qtr 2	April	2
+West	184.886	63.74549999999999	Qtr 2	April	2
+Central	348.40799999999996	152.24300000000002	Qtr 2	April	3
+East	125.31800000000001	-75.5634	Qtr 2	April	3
+South			Qtr 2	April	3
+West	233.45	85.6044	Qtr 2	April	3
+Central	1742.2760000000003	400.41469999999987	Qtr 2	April	4
+East	1428.036	357.6848	Qtr 2	April	4
+South	542.71	87.04449999999997	Qtr 2	April	4
+West	26.084	11.316999999999998	Qtr 2	April	4
+Central	1030.7060000000001	72.3311	Qtr 2	April	5
+East	2603.7059999999997	-414.6881	Qtr 2	April	5
+South	4525.073999999999	53.08450000000008	Qtr 2	April	5
+West	1156.004	122.05260000000001	Qtr 2	April	5
+Central	198.37199999999999	33.61619999999999	Qtr 2	April	6
+East	1621.5120000000002	284.3028	Qtr 2	April	6
+South	56.05200000000001	10.2438	Qtr 2	April	6
+West	1323.928	351.84739999999994	Qtr 2	April	6
+Central	847.1999999999998	-1133.2884	Qtr 2	April	7
+East	830.834	191.1103	Qtr 2	April	7
+South	2992.4605	-36.1167	Qtr 2	April	7
+West	1199.976	374.99249999999995	Qtr 2	April	7
+Central	2197.564	-1639.2472	Qtr 2	April	8
+East	3384	461.84870000000006	Qtr 2	April	8
+South	4551.830000000001	1753.0649	Qtr 2	April	8
+West	1133.69	380.0003	Qtr 2	April	8
+Central	1001.42	357.07319999999993	Qtr 2	April	9
+East	1252.3600000000001	259.0711	Qtr 2	April	9
+South	284.19	79.62499999999999	Qtr 2	April	9
+West	961.929	5.4923999999999715	Qtr 2	April	9
+Central	119.672	27.195100000000004	Qtr 2	April	10
+East	798.3	186.89269999999996	Qtr 2	April	10
+South	16.739000000000004	-1.2453	Qtr 2	April	10
+West	940.9540000000001	165.80620000000002	Qtr 2	April	10
+Central	769.7160000000001	248.37720000000002	Qtr 2	April	11
+East	557.618	156.03179999999995	Qtr 2	April	11
+South	881.832	156.48200000000003	Qtr 2	April	11
+West	1354.226	404.78589999999997	Qtr 2	April	11
+Central	32.400000000000006	15.552000000000001	Qtr 2	April	12
+East	69.66	31.347	Qtr 2	April	12
+South	640.618	100.0993	Qtr 2	April	12
+West	2822.375	96.8461	Qtr 2	April	12
+Central	1078.758	-132.56	Qtr 2	April	13
+East	646.4960000000001	-383.1112	Qtr 2	April	13
+South			Qtr 2	April	13
+West	3457.944	363.2455999999999	Qtr 2	April	13
+Central	8.76	4.2048	Qtr 2	April	14
+East	470.958	73.39309999999998	Qtr 2	April	14
+South	279.472	-20.0392	Qtr 2	April	14
+West	1395.52	150.34099999999995	Qtr 2	April	14
+Central	62.26400000000001	16.032499999999995	Qtr 2	April	15
+East			Qtr 2	April	15
+South	931.0720000000001	-19.2325	Qtr 2	April	15
+West	1835.578	284.1024	Qtr 2	April	15
+Central	1561.534	426.3678999999999	Qtr 2	April	16
+East	9528.443999999994	2307.913899999999	Qtr 2	April	16
+South	3012.288	470.89599999999996	Qtr 2	April	16
+West	378.293	9.096200000000005	Qtr 2	April	16
+Central	224.18599999999998	-34.9001	Qtr 2	April	17
+East	232.918	65.9388	Qtr 2	April	17
+South	134.536	24.270699999999994	Qtr 2	April	17
+West	6006.01	-2714.7841	Qtr 2	April	17
+Central	3718.2620000000006	28.877899999999922	Qtr 2	April	18
+East	35.760000000000005	14.180999999999997	Qtr 2	April	18
+South	339.98	104.5746	Qtr 2	April	18
+West	1448.0280000000002	175.51180000000005	Qtr 2	April	18
+Central	329.9599999999999	-564.9804	Qtr 2	April	19
+East	1257.6159999999998	143.569	Qtr 2	April	19
+South	129.33	60.9174	Qtr 2	April	19
+West	232.656	77.85539999999999	Qtr 2	April	19
+Central	2064.144	-80.6948	Qtr 2	April	20
+East	1458.0420000000001	6.9111	Qtr 2	April	20
+South	896.31	381.6627	Qtr 2	April	20
+West	59.92	27.563200000000002	Qtr 2	April	20
+Central	367.5799999999999	-444.1321	Qtr 2	April	21
+East	976.1400000000001	256.57740000000007	Qtr 2	April	21
+South	1721.9299999999998	228.89280000000002	Qtr 2	April	21
+West	198.98000000000002	45.99149999999999	Qtr 2	April	21
+Central	110.572	11.057199999999995	Qtr 2	April	22
+East	547.114	133.9471	Qtr 2	April	22
+South	675.0600000000001	87.7578	Qtr 2	April	22
+West	1791.0789999999997	-816.1175	Qtr 2	April	22
+Central	155.34	55.922399999999996	Qtr 2	April	23
+East	1154.284	131.85759999999996	Qtr 2	April	23
+South	549.7360000000001	-1.9158	Qtr 2	April	23
+West	704.2099999999999	257.3277	Qtr 2	April	23
+Central	341.91	28.225500000000007	Qtr 2	April	24
+East	203.956	18.091899999999992	Qtr 2	April	24
+South	113.56800000000001	-21.294	Qtr 2	April	24
+West	1902.2139999999997	188.9615999999999	Qtr 2	April	24
+Central	695.84	17.57860000000003	Qtr 2	April	25
+East	314.85	52.88600000000001	Qtr 2	April	25
+South	412.344	49.845	Qtr 2	April	25
+West	2664.439	397.78040000000004	Qtr 2	April	25
+Central	410.41	-7.2759	Qtr 2	April	26
+East	434.646	62.782199999999975	Qtr 2	April	26
+South	1195.8995000000002	-207.554	Qtr 2	April	26
+West	827.9720000000001	147.83759999999995	Qtr 2	April	26
+Central	253.38559999999998	-30.5176	Qtr 2	April	27
+East	2670.1899999999996	974.3135	Qtr 2	April	27
+South			Qtr 2	April	27
+West	372.59000000000003	94.5352	Qtr 2	April	27
+Central	4459.9940000000015	1926.8687999999997	Qtr 2	April	28
+East	913.748	167.6742	Qtr 2	April	28
+South	780.0640000000001	89.86319999999988	Qtr 2	April	28
+West	1751	138.54180000000008	Qtr 2	April	28
+Central			Qtr 2	April	29
+East	1098.668	-53.4645	Qtr 2	April	29
+South	731.404	90.55019999999992	Qtr 2	April	29
+West			Qtr 2	April	29
+Central	279.09499999999997	-94.7913	Qtr 2	April	30
+East	2082.406	-296.3303	Qtr 2	April	30
+South	1332.43	282.0342	Qtr 2	April	30
+West	458.838	162.12649999999996	Qtr 2	April	30
+Central			Qtr 2	May	1
+East			Qtr 2	May	1
+South	4903.868	-499.3524	Qtr 2	May	1
+West	173.308	36.4754	Qtr 2	May	1
+Central	656.976	-92.9706	Qtr 2	May	2
+East	577.402	171.18699999999998	Qtr 2	May	2
+South	667.0400000000001	101.68799999999999	Qtr 2	May	2
+West	269.18	97.4014	Qtr 2	May	2
+Central	77.532	-61.8093	Qtr 2	May	3
+East	2656.807	-403.6824	Qtr 2	May	3
+South			Qtr 2	May	3
+West	2022.412	360.27159999999986	Qtr 2	May	3
+Central	1184.674	170.3829999999999	Qtr 2	May	4
+East	68.171	11.763900000000007	Qtr 2	May	4
+South	629.86	189.93479999999994	Qtr 2	May	4
+West	815.494	136.31219999999996	Qtr 2	May	4
+Central	173.11700000000002	-5.1743	Qtr 2	May	5
+East	6.68	3.2064	Qtr 2	May	5
+South	503.29999999999995	151.60109999999997	Qtr 2	May	5
+West	2464.2830000000004	211.62860000000003	Qtr 2	May	5
+Central	2098.1888	-83.1801	Qtr 2	May	6
+East	170.696	58.430099999999996	Qtr 2	May	6
+South	872.4890000000001	75.73509999999997	Qtr 2	May	6
+West	533.412	168.5888	Qtr 2	May	6
+Central	2309.476	542.1342999999999	Qtr 2	May	7
+East	5927.326	1537.9448	Qtr 2	May	7
+South	45.68	21.0128	Qtr 2	May	7
+West	499.93399999999997	81.28939999999997	Qtr 2	May	7
+Central	587.382	153.49320000000003	Qtr 2	May	8
+East	6729.134	1463.1971999999998	Qtr 2	May	8
+South			Qtr 2	May	8
+West	3464.2200000000003	1081.3508	Qtr 2	May	8
+Central	1032.9279999999999	-44.1244	Qtr 2	May	9
+East	96.70400000000001	16.86399999999999	Qtr 2	May	9
+South	507.61199999999997	131.79429999999996	Qtr 2	May	9
+West	1167.7800000000002	298.02759999999995	Qtr 2	May	9
+Central	114.826	-185.5538	Qtr 2	May	10
+East	1116.273	-335.6753	Qtr 2	May	10
+South			Qtr 2	May	10
+West	2030.1620000000003	272.44570000000004	Qtr 2	May	10
+Central	1701.3999999999999	-318.4538	Qtr 2	May	11
+East	79.83000000000001	22.432499999999997	Qtr 2	May	11
+South			Qtr 2	May	11
+West	508.98900000000003	-293.5242	Qtr 2	May	11
+Central	965.974	37.01949999999995	Qtr 2	May	12
+East	1718.22	271.0259	Qtr 2	May	12
+South	10.96	2.959200000000001	Qtr 2	May	12
+West	989.3040000000001	121.09309999999999	Qtr 2	May	12
+Central	2467.564	776.981	Qtr 2	May	13
+East	757.9499999999999	25.328999999999994	Qtr 2	May	13
+South	426.22400000000005	-327.226	Qtr 2	May	13
+West	551.406	114.76429999999998	Qtr 2	May	13
+Central	1078.4379999999999	36.71149999999983	Qtr 2	May	14
+East	1782.0099999999995	343.4987	Qtr 2	May	14
+South	550.5880000000001	9.561500000000013	Qtr 2	May	14
+West	4679.0355	1073.1814	Qtr 2	May	14
+Central	67.824	22.612599999999993	Qtr 2	May	15
+East	80.97599999999998	-0.3948	Qtr 2	May	15
+South	637.8439999999999	272.0966	Qtr 2	May	15
+West	353.44	51.362099999999984	Qtr 2	May	15
+Central			Qtr 2	May	16
+East	773.584	-55.256	Qtr 2	May	16
+South	255.968	31.995999999999974	Qtr 2	May	16
+West	617.18	62.45099999999998	Qtr 2	May	16
+Central	202.96999999999997	-2.0838	Qtr 2	May	17
+East	340.13000000000005	74.33869999999997	Qtr 2	May	17
+South	29.97000000000001	-23.7792	Qtr 2	May	17
+West			Qtr 2	May	17
+Central	911.282	197.9498	Qtr 2	May	18
+East	998.6200000000001	-153.0599	Qtr 2	May	18
+South	524.85	166.22050000000002	Qtr 2	May	18
+West	477.784	78.96119999999999	Qtr 2	May	18
+Central	226.04400000000004	60.29439999999998	Qtr 2	May	19
+East	1710.5140000000001	425.7984	Qtr 2	May	19
+South	3601.719999999999	886.0612999999998	Qtr 2	May	19
+West	1054.5320000000002	161.06740000000002	Qtr 2	May	19
+Central	1041.2540000000001	217.0638	Qtr 2	May	20
+East	211.66000000000003	81.39940000000001	Qtr 2	May	20
+South	1536.1979999999999	98.48169999999999	Qtr 2	May	20
+West	3170.0270000000005	282.10209999999984	Qtr 2	May	20
+Central	296.094	-68.6955	Qtr 2	May	21
+East	1386.248	411.9359	Qtr 2	May	21
+South	3333.9000000000005	1449.5187	Qtr 2	May	21
+West	2576.652	213.75640000000013	Qtr 2	May	21
+Central	205.922	-54.7089	Qtr 2	May	22
+East	1562.0860000000002	356.81860000000006	Qtr 2	May	22
+South	195.66	53.798700000000004	Qtr 2	May	22
+West	4215.122	495.7966999999996	Qtr 2	May	22
+Central	2975.9060000000004	354.12599999999986	Qtr 2	May	23
+East	8901.267999999998	1160.674099999999	Qtr 2	May	23
+South	191.67	90.18449999999999	Qtr 2	May	23
+West	362.28400000000005	17.005099999999963	Qtr 2	May	23
+Central	610.3069999999999	-176.5919	Qtr 2	May	24
+East	132.936	60.3084	Qtr 2	May	24
+South	261.1	112.12299999999999	Qtr 2	May	24
+West			Qtr 2	May	24
+Central	566.9760000000001	-83.769	Qtr 2	May	25
+East	820.67	234.90949999999992	Qtr 2	May	25
+South	1808.8499999999997	239.45879999999994	Qtr 2	May	25
+West	860.458	89.43369999999994	Qtr 2	May	25
+Central	1590.0259999999998	-183.1903	Qtr 2	May	26
+East	119.50200000000001	43.68619999999999	Qtr 2	May	26
+South	842.0720000000001	210.61919999999998	Qtr 2	May	26
+West	2002.278	215.8336999999999	Qtr 2	May	26
+Central	5786.4580000000005	1091.2728000000002	Qtr 2	May	27
+East			Qtr 2	May	27
+South	663.482	162.3576	Qtr 2	May	27
+West	3097.44	231.9337999999999	Qtr 2	May	27
+Central	451.201	-6.1067	Qtr 2	May	28
+East	1372.278	345.37599999999986	Qtr 2	May	28
+South	940.304	78.44619999999998	Qtr 2	May	28
+West	1869.7580000000003	360.41490000000005	Qtr 2	May	28
+Central	703.4979999999999	116.12930000000001	Qtr 2	May	29
+East	451.722	-58.5945	Qtr 2	May	29
+South	1063.1850000000002	291.99590000000006	Qtr 2	May	29
+West	740.7299999999999	219.0102	Qtr 2	May	29
+Central	2866.6274	472.45069999999976	Qtr 2	May	30
+East	2328.91	396.19569999999976	Qtr 2	May	30
+South	4878.552000000001	1188.322399999999	Qtr 2	May	30
+West	1359.3920000000003	105.84779999999998	Qtr 2	May	30
+Central	3054.363	717.7428	Qtr 2	May	31
+East	561.8720000000001	254.20319999999998	Qtr 2	May	31
+South	783.9720000000001	232.12829999999994	Qtr 2	May	31
+West	1990.4899999999998	305.4739999999999	Qtr 2	May	31
+Central	9298.367999999999	2926.5125000000003	Qtr 2	June	1
+East	866.8220000000001	2.056899999999999	Qtr 2	June	1
+South	904.13	238.40380000000002	Qtr 2	June	1
+West	11.76	5.7623999999999995	Qtr 2	June	1
+Central	10.688	3.7407999999999997	Qtr 2	June	2
+East	95.194	-11.1993	Qtr 2	June	2
+South	630.814	186.11439999999996	Qtr 2	June	2
+West	295.452	101.81099999999999	Qtr 2	June	2
+Central	225.45600000000002	-17.385	Qtr 2	June	3
+East	508.78799999999995	-57.0204	Qtr 2	June	3
+South	1146.8660000000002	57.72449999999998	Qtr 2	June	3
+West	1883.3500000000001	495.1577	Qtr 2	June	3
+Central	723.2950000000001	-487.4454	Qtr 2	June	4
+East	2084.6859999999997	417.2002999999999	Qtr 2	June	4
+South	309.948	126.90139999999997	Qtr 2	June	4
+West	1126.5900000000001	438.50640000000004	Qtr 2	June	4
+Central	480.9360000000001	57.66929999999996	Qtr 2	June	5
+East	2041.286	251.82520000000002	Qtr 2	June	5
+South	20.736000000000004	7.2576	Qtr 2	June	5
+West	141.172	38.688	Qtr 2	June	5
+Central	467.03599999999994	29.158799999999978	Qtr 2	June	6
+East	2540.588	3.4134999999998286	Qtr 2	June	6
+South	742.2509999999999	302.37649999999996	Qtr 2	June	6
+West	3681.7880000000005	451.47400000000005	Qtr 2	June	6
+Central	281.397	-230.3316	Qtr 2	June	7
+East	94.296	16.915400000000005	Qtr 2	June	7
+South			Qtr 2	June	7
+West	17.034	6.5045	Qtr 2	June	7
+Central	649.6959999999999	-356.7947	Qtr 2	June	8
+East	1755.72	114.60039999999994	Qtr 2	June	8
+South	1107.96	107.15710000000001	Qtr 2	June	8
+West	2298.038	166.2147	Qtr 2	June	8
+Central	1738.257	175.75069999999994	Qtr 2	June	9
+East			Qtr 2	June	9
+South	2474.54	218.8979	Qtr 2	June	9
+West	4674.932	501.75209999999987	Qtr 2	June	9
+Central	624.07	295.1927	Qtr 2	June	10
+East	86.178	27.8889	Qtr 2	June	10
+South	1347.5200000000002	84.21999999999986	Qtr 2	June	10
+West	2359.521	-163.5394	Qtr 2	June	10
+Central	22.16	-24.8936	Qtr 2	June	11
+East	239.96999999999997	71.99099999999999	Qtr 2	June	11
+South	3381.896	-63.32	Qtr 2	June	11
+West	2933.848	468.5185	Qtr 2	June	11
+Central	1924.6190000000001	-105.8313	Qtr 2	June	12
+East	1745.4	436.5287999999999	Qtr 2	June	12
+South	842.112	179.3982	Qtr 2	June	12
+West	304.876	115.06639999999996	Qtr 2	June	12
+Central	1079.8919999999998	-17.2821	Qtr 2	June	13
+East	143.07200000000003	44.31419999999999	Qtr 2	June	13
+South	1164.6300000000003	400.31550000000004	Qtr 2	June	13
+West	342.28000000000003	-6.9488	Qtr 2	June	13
+Central	212.94	57.4938	Qtr 2	June	14
+East	388.248	-112.9044	Qtr 2	June	14
+South	58.400000000000006	-24.316	Qtr 2	June	14
+West	3061.523	468.955	Qtr 2	June	14
+Central	1282.9119999999998	31.504599999999996	Qtr 2	June	15
+East			Qtr 2	June	15
+South	3730.5360000000005	334.12000000000006	Qtr 2	June	15
+West	894.6679999999999	-5.3731	Qtr 2	June	15
+Central	907.116	17.321799999999918	Qtr 2	June	16
+East	3819.838	1338.1736	Qtr 2	June	16
+South	846.0809999999999	213.06569999999996	Qtr 2	June	16
+West	1506.13	227.37509999999997	Qtr 2	June	16
+Central	85.904	6.960799999999999	Qtr 2	June	17
+East	5229.275999999999	1756.1255999999998	Qtr 2	June	17
+South			Qtr 2	June	17
+West	5000.914	1337.3318999999997	Qtr 2	June	17
+Central	151.216	50.137399999999985	Qtr 2	June	18
+East	465.074	89.00499999999997	Qtr 2	June	18
+South	1730.1030000000003	313.4384	Qtr 2	June	18
+West	1249.5874999999999	137.5777999999999	Qtr 2	June	18
+Central	1012.737	-81.8394	Qtr 2	June	19
+East	1268.9399999999998	33.870499999999964	Qtr 2	June	19
+South			Qtr 2	June	19
+West	297.73	135.59789999999998	Qtr 2	June	19
+Central	1999.8755999999998	-8.7345	Qtr 2	June	20
+East	1412.21	257.3581999999999	Qtr 2	June	20
+South	540.8240000000001	141.8768	Qtr 2	June	20
+West	963.36	219.63379999999998	Qtr 2	June	20
+Central	0.8359999999999997	-1.3376	Qtr 2	June	21
+East	4817.449000000001	1035.4554999999998	Qtr 2	June	21
+South	533.646	136.72140000000002	Qtr 2	June	21
+West	36.252	-24.9072	Qtr 2	June	21
+Central	1951.1710000000003	-374.5455	Qtr 2	June	22
+East	2374.7529999999997	405.7598000000001	Qtr 2	June	22
+South	37.608000000000004	12.692699999999995	Qtr 2	June	22
+West	209.93800000000002	52.86500000000001	Qtr 2	June	22
+Central			Qtr 2	June	23
+East	1563.536	204.18620000000004	Qtr 2	June	23
+South	291.52	104.11439999999999	Qtr 2	June	23
+West	1566.4920000000002	194.51039999999986	Qtr 2	June	23
+Central	642.8879999999999	-213.1767	Qtr 2	June	24
+East	574.128	137.60950000000003	Qtr 2	June	24
+South			Qtr 2	June	24
+West	5385.822	768.6977999999997	Qtr 2	June	24
+Central	395.366	-19.907	Qtr 2	June	25
+East	1224.642	-108.6208	Qtr 2	June	25
+South			Qtr 2	June	25
+West	2431.4500000000003	339.5971999999999	Qtr 2	June	25
+Central	2671.5	526.2023	Qtr 2	June	26
+East	3305.7699999999995	612.2197	Qtr 2	June	26
+South	958.7339999999999	204.6891	Qtr 2	June	26
+West	799.9280000000001	99.03699999999992	Qtr 2	June	26
+Central	597.192	13.698599999999896	Qtr 2	June	27
+East	191.64600000000002	31.94100000000001	Qtr 2	June	27
+South	616.14	76.10520000000002	Qtr 2	June	27
+West	1634.7740000000001	306.9616999999999	Qtr 2	June	27
+Central	366.05600000000004	39.037600000000005	Qtr 2	June	28
+East	2614.063	-88.7936	Qtr 2	June	28
+South	260.31	97.22259999999997	Qtr 2	June	28
+West	668.984	63.183499999999974	Qtr 2	June	28
+Central	1388.3491999999999	-19.3178	Qtr 2	June	29
+East	904.296	224.64999999999995	Qtr 2	June	29
+South	191.88	19.188000000000002	Qtr 2	June	29
+West	2708.952	779.621	Qtr 2	June	29
+Central	1687.4660000000001	-46.6829	Qtr 2	June	30
+East	2744.906	175.66940000000005	Qtr 2	June	30
+South	1633.038	415.19849999999985	Qtr 2	June	30
+West	749.1410000000001	141.50269999999995	Qtr 2	June	30
+Central	639.83	103.95460000000003	Qtr 3	July	1
+East	136.43	53.98879999999999	Qtr 3	July	1
+South	666.6039999999999	109.11719999999998	Qtr 3	July	1
+West	1522.3660000000002	457.8617999999999	Qtr 3	July	1
+Central	2077.688	-59.2656	Qtr 3	July	2
+East	99	31.482000000000006	Qtr 3	July	2
+South	281.56800000000004	68.108	Qtr 3	July	2
+West	195.184	19.518400000000007	Qtr 3	July	2
+Central	1038.996	205.18889999999993	Qtr 3	July	3
+East	1953.6159999999998	315.86059999999986	Qtr 3	July	3
+South	711.422	231.6061	Qtr 3	July	3
+West	4931.052000000001	1157.4520000000002	Qtr 3	July	3
+Central	1099.96	285.9896	Qtr 3	July	4
+East	15.48	4.4891999999999985	Qtr 3	July	4
+South	37.44	18.564	Qtr 3	July	4
+West	1884.117	365.9964999999999	Qtr 3	July	4
+Central	997.5540000000002	-407.8131	Qtr 3	July	5
+East	73.77600000000001	-0.261	Qtr 3	July	5
+South	789.8140000000001	194.23290000000003	Qtr 3	July	5
+West	180.96000000000004	67.86	Qtr 3	July	5
+Central			Qtr 3	July	6
+East	1788.4540000000002	471.35739999999987	Qtr 3	July	6
+South	239.24	23.924000000000007	Qtr 3	July	6
+West	770.9680000000001	17.072500000000016	Qtr 3	July	6
+Central	339.97999999999996	-33.0869	Qtr 3	July	7
+East	1940.713	-19.7109	Qtr 3	July	7
+South	45.584	5.1282	Qtr 3	July	7
+West	3417.3980000000006	1058.3918999999999	Qtr 3	July	7
+Central	932.3760000000001	118.12619999999998	Qtr 3	July	8
+East	591.5820000000001	163.0666	Qtr 3	July	8
+South	839.9440000000002	56.49249999999997	Qtr 3	July	8
+West	3017.0679999999993	721.2193999999998	Qtr 3	July	8
+Central	896.026	-210.7482	Qtr 3	July	9
+East	2954.068	887.1500999999998	Qtr 3	July	9
+South	5.16	0.8384999999999994	Qtr 3	July	9
+West	241.881	48.30199999999999	Qtr 3	July	9
+Central	790.744	9.663599999999988	Qtr 3	July	10
+East	341.99100000000004	-319.1916	Qtr 3	July	10
+South	60.75	18.809400000000004	Qtr 3	July	10
+West	104.91000000000001	-23.6876	Qtr 3	July	10
+Central	616.6560000000002	58.65120000000002	Qtr 3	July	11
+East	3547.1	728.8614000000002	Qtr 3	July	11
+South			Qtr 3	July	11
+West	1694.294	355.0149999999999	Qtr 3	July	11
+Central	2666.429	152.4169	Qtr 3	July	12
+East	3.816	1.1924999999999997	Qtr 3	July	12
+South			Qtr 3	July	12
+West	1441.91	83.92099999999985	Qtr 3	July	12
+Central	415.508	33.42759999999997	Qtr 3	July	13
+East	2083.41	342.8818999999999	Qtr 3	July	13
+South	38.88	18.6624	Qtr 3	July	13
+West	351.216	4.390199999999979	Qtr 3	July	13
+Central	707.988	89.61759999999994	Qtr 3	July	14
+East	3498.566	-127.8734	Qtr 3	July	14
+South	117.15	39.882999999999996	Qtr 3	July	14
+West	2578.7000000000003	71.997	Qtr 3	July	14
+Central	9.510000000000002	3.988200000000001	Qtr 3	July	15
+East	1066.3890000000001	71.47199999999998	Qtr 3	July	15
+South	1065.8400000000001	213.73319999999998	Qtr 3	July	15
+West	380.20000000000005	69.75399999999999	Qtr 3	July	15
+Central	69.70400000000001	7.0665999999999976	Qtr 3	July	16
+East	1696.1	199.49239999999986	Qtr 3	July	16
+South	441.53200000000004	86.8652	Qtr 3	July	16
+West	2048.856	-140.3973	Qtr 3	July	16
+Central	610.216	97.2858	Qtr 3	July	17
+East	1270.0400000000002	496.45420000000007	Qtr 3	July	17
+South	239.824	7.971600000000002	Qtr 3	July	17
+West	2704.755	498.7480999999999	Qtr 3	July	17
+Central	15.576	3.3099	Qtr 3	July	18
+East	1288.1	135.973	Qtr 3	July	18
+South	140.81	39.4268	Qtr 3	July	18
+West	4499.624000000001	-307.7502	Qtr 3	July	18
+Central			Qtr 3	July	19
+East	455.23	100.99640000000002	Qtr 3	July	19
+South	1110.5	363.4222000000001	Qtr 3	July	19
+West	434.075	137.94760000000002	Qtr 3	July	19
+Central	5956.308000000001	658.1192000000001	Qtr 3	July	20
+East	504.338	79.24479999999998	Qtr 3	July	20
+South			Qtr 3	July	20
+West	891.4659999999999	305.12569999999994	Qtr 3	July	20
+Central	1011.4379999999999	-263.1728	Qtr 3	July	21
+East	688.6350000000001	-37.6828	Qtr 3	July	21
+South	1322.1639999999998	197.60099999999997	Qtr 3	July	21
+West	3616.2840000000006	487.35720000000003	Qtr 3	July	21
+Central	1690.3760000000002	123.70610000000005	Qtr 3	July	22
+East	334.05800000000005	124.4087	Qtr 3	July	22
+South			Qtr 3	July	22
+West	1248.2720000000002	197.26359999999997	Qtr 3	July	22
+Central	1086.4279999999997	199.32549999999998	Qtr 3	July	23
+East	376.7	111.08799999999997	Qtr 3	July	23
+South	324.38700000000006	-102.3419	Qtr 3	July	23
+West	2586.7159999999994	292.9866999999999	Qtr 3	July	23
+Central			Qtr 3	July	24
+East	253.76399999999998	31.015599999999978	Qtr 3	July	24
+South	599.1499999999999	195.23739999999995	Qtr 3	July	24
+West	2399.96	839.9860000000001	Qtr 3	July	24
+Central	1296.174	283.9361	Qtr 3	July	25
+East	2189.4280000000003	155.92479999999995	Qtr 3	July	25
+South	2970.95	514.6996000000001	Qtr 3	July	25
+West	10998.991999999997	699.7592999999997	Qtr 3	July	25
+Central	2780.2679999999996	-3820.507	Qtr 3	July	26
+East	10.368000000000002	3.6288	Qtr 3	July	26
+South	256.48	104.14149999999998	Qtr 3	July	26
+West	4974.405000000001	775.6993999999997	Qtr 3	July	26
+Central			Qtr 3	July	27
+East	624.5899999999999	172.23250000000002	Qtr 3	July	27
+South	315.85	10.201899999999972	Qtr 3	July	27
+West	812.2700000000001	99.75300000000001	Qtr 3	July	27
+Central	457.78000000000003	-325.2212	Qtr 3	July	28
+East	1556.6940000000002	-990.543	Qtr 3	July	28
+South	193.152	34.69839999999999	Qtr 3	July	28
+West	1189.464	116.74760000000006	Qtr 3	July	28
+Central	1063.428	299.6396999999999	Qtr 3	July	29
+East	144.904	5.2875999999999905	Qtr 3	July	29
+South	795.586	13.153299999999959	Qtr 3	July	29
+West	206.53	37.28530000000001	Qtr 3	July	29
+Central	1272.808	86.20560000000003	Qtr 3	July	30
+East	166.726	-10.5672	Qtr 3	July	30
+South			Qtr 3	July	30
+West	2666.26	636.091	Qtr 3	July	30
+Central	1573.812	383.93190000000004	Qtr 3	July	31
+East	4632.764	843.2516	Qtr 3	July	31
+South	281.124	113.75280000000001	Qtr 3	July	31
+West	956.648	-5.6385	Qtr 3	July	31
+Central	1591.902	-238.6657	Qtr 3	August	1
+East	24.992	5.0552	Qtr 3	August	1
+South	474.856	74.6423	Qtr 3	August	1
+West	2358.572	8.059799999999978	Qtr 3	August	1
+Central	886.2800000000001	248.02760000000006	Qtr 3	August	2
+East	448.21000000000004	107.5103	Qtr 3	August	2
+South			Qtr 3	August	2
+West	1324.852	-91.257	Qtr 3	August	2
+Central	472.0079999999999	32.534100000000024	Qtr 3	August	3
+East	180.14000000000001	56.51540000000001	Qtr 3	August	3
+South			Qtr 3	August	3
+West	606.0140000000001	-63.7205	Qtr 3	August	3
+Central	7.297999999999998	-12.2076	Qtr 3	August	4
+East	617.12	256.9266	Qtr 3	August	4
+South	158.81	63.345600000000005	Qtr 3	August	4
+West	2477.9060000000004	623.9156999999999	Qtr 3	August	4
+Central	1051.796	186.2578	Qtr 3	August	5
+East	1369.33	362.66870000000006	Qtr 3	August	5
+South	210.80999999999997	65.44459999999998	Qtr 3	August	5
+West	550.164	99.50319999999998	Qtr 3	August	5
+Central	610.1651999999999	-40.9969	Qtr 3	August	6
+East	1456.7900000000002	481.73679999999996	Qtr 3	August	6
+South	224.05	53.358000000000004	Qtr 3	August	6
+West	211.168	18.47720000000001	Qtr 3	August	6
+Central	542.9079999999999	28.415099999999995	Qtr 3	August	7
+East	300.86	62.54039999999999	Qtr 3	August	7
+South	600.0219999999999	182.26699999999997	Qtr 3	August	7
+West	3184.0100000000007	764.8818000000001	Qtr 3	August	7
+Central	1185.405	462.018	Qtr 3	August	8
+East	681.43	284.2253999999999	Qtr 3	August	8
+South	178.79600000000002	-7.5394	Qtr 3	August	8
+West	3865.3040000000005	871.4011999999998	Qtr 3	August	8
+Central	1334.03	186.24479999999994	Qtr 3	August	9
+East	3539.7540000000004	873.6653000000001	Qtr 3	August	9
+South	859.8979999999999	96.6362	Qtr 3	August	9
+West	3411.749	673.1525999999999	Qtr 3	August	9
+Central	1962.7600000000002	585.2857000000001	Qtr 3	August	10
+East			Qtr 3	August	10
+South			Qtr 3	August	10
+West	711.7840000000001	21.88539999999999	Qtr 3	August	10
+Central	357.116	74.2934	Qtr 3	August	11
+East	551.22	68.81819999999999	Qtr 3	August	11
+South	523.662	231.7695	Qtr 3	August	11
+West	76.28	26.8774	Qtr 3	August	11
+Central	1406.4240000000002	55.608300000000014	Qtr 3	August	12
+East	4196.774	751.3667999999997	Qtr 3	August	12
+South	1327.4225000000001	-70.8507	Qtr 3	August	12
+West	2546.8040000000005	525.0277	Qtr 3	August	12
+Central	506.14	-154.0232	Qtr 3	August	13
+East	440.4	21.778199999999973	Qtr 3	August	13
+South	2689.9900000000002	-1057.1116	Qtr 3	August	13
+West	325.05400000000003	91.17469999999999	Qtr 3	August	13
+Central			Qtr 3	August	14
+East	787.044	-56.7554	Qtr 3	August	14
+South	15.552000000000003	5.4432	Qtr 3	August	14
+West	561.828	55.6263	Qtr 3	August	14
+Central	81.35999999999999	-29.448	Qtr 3	August	15
+East	1962.412	-282.1564	Qtr 3	August	15
+South	1174.44	139.90300000000002	Qtr 3	August	15
+West	1752.298	284.47490000000005	Qtr 3	August	15
+Central			Qtr 3	August	16
+East	2031.696	-545.0434	Qtr 3	August	16
+South	80.56400000000001	-12.0292	Qtr 3	August	16
+West	2404.868	351.91649999999976	Qtr 3	August	16
+Central	159.35999999999999	-118.069	Qtr 3	August	17
+East	5826.858	-207.3666	Qtr 3	August	17
+South	685.8800000000001	245.93349999999998	Qtr 3	August	17
+West	3742.8840000000005	884.7621999999997	Qtr 3	August	17
+Central	328.99199999999996	-11.0784	Qtr 3	August	18
+East	722.958	202.78699999999998	Qtr 3	August	18
+South			Qtr 3	August	18
+West	6522.648	1912.3701	Qtr 3	August	18
+Central	2.2959999999999994	-3.9032	Qtr 3	August	19
+East	952.902	289.85619999999994	Qtr 3	August	19
+South	983.73	182.82870000000003	Qtr 3	August	19
+West	461.41600000000005	85.8408	Qtr 3	August	19
+Central	436.152	-2.029	Qtr 3	August	20
+East	40.29	10.475399999999999	Qtr 3	August	20
+South	1453.31	579.5060999999998	Qtr 3	August	20
+West	616.7	169.54639999999995	Qtr 3	August	20
+Central	87.52000000000001	35.0868	Qtr 3	August	21
+East	7595.300000000001	1075.5073999999995	Qtr 3	August	21
+South	956.944	250.358	Qtr 3	August	21
+West	7537.102000000001	755.9405999999997	Qtr 3	August	21
+Central	15.872	-1.2348	Qtr 3	August	22
+East	636.2339999999999	-7.7785	Qtr 3	August	22
+South	7.6320000000000014	-1.8126	Qtr 3	August	22
+West	359.88800000000003	5.013099999999991	Qtr 3	August	22
+Central	1575.3319999999999	-177.2569	Qtr 3	August	23
+East	1163.28	332.6132000000001	Qtr 3	August	23
+South	5732.774000000001	722.9213	Qtr 3	August	23
+West	2073.808	231.03180000000003	Qtr 3	August	23
+Central	2645.0209999999997	-133.1877	Qtr 3	August	24
+East	1505.68	84.25439999999986	Qtr 3	August	24
+South	3773.4300000000003	1612.3320999999996	Qtr 3	August	24
+West	15.44	3.4087999999999994	Qtr 3	August	24
+Central	69.84599999999999	-86.221	Qtr 3	August	25
+East	386.178	-42.9723	Qtr 3	August	25
+South	205.31200000000004	70.02839999999998	Qtr 3	August	25
+West	1330.8280000000004	168.5508	Qtr 3	August	25
+Central	2509.33	328.3841000000001	Qtr 3	August	26
+East	673.104	225.5146	Qtr 3	August	26
+South	289.52799999999996	67.39500000000001	Qtr 3	August	26
+West	1959.8060000000003	204.70539999999997	Qtr 3	August	26
+Central	214.872	27.487199999999987	Qtr 3	August	27
+East	3619.5769999999998	211.2058	Qtr 3	August	27
+South	1857.0019999999995	494.8834999999999	Qtr 3	August	27
+West	3977.1020000000003	1142.3467	Qtr 3	August	27
+Central	4348.4118	899.8364999999997	Qtr 3	August	28
+East	488.792	110.0056	Qtr 3	August	28
+South			Qtr 3	August	28
+West	3419.746	665.9632999999998	Qtr 3	August	28
+Central	486.928	70.8451	Qtr 3	August	29
+East	479.20799999999997	-129.2529	Qtr 3	August	29
+South	709.0425000000001	-436.7431	Qtr 3	August	29
+West	271.3	101.71920000000001	Qtr 3	August	29
+Central			Qtr 3	August	30
+East	1391.1100000000001	-295.3664	Qtr 3	August	30
+South			Qtr 3	August	30
+West	387.00000000000006	58.48859999999995	Qtr 3	August	30
+Central	683.658	175.27859999999998	Qtr 3	August	31
+East			Qtr 3	August	31
+South	889.444	300.97669999999994	Qtr 3	August	31
+West	4308.013	576.3508999999999	Qtr 3	August	31
+Central	1010.5120000000001	254.055	Qtr 3	September	1
+East	7138.0960000000005	2279.742599999999	Qtr 3	September	1
+South			Qtr 3	September	1
+West	1716.3539999999998	541.3842000000001	Qtr 3	September	1
+Central	6744.596	1132.7392999999997	Qtr 3	September	2
+East	2820.772	494.67139999999995	Qtr 3	September	2
+South	5226.161000000001	1762.7806	Qtr 3	September	2
+West	4609.668000000001	876.3619000000001	Qtr 3	September	2
+Central	621.904	-248.0886	Qtr 3	September	3
+East	3757.773	-509.6019	Qtr 3	September	3
+South	312.712	112.69149999999998	Qtr 3	September	3
+West	1166.034	267.145	Qtr 3	September	3
+Central	1952.9099999999999	149.4344	Qtr 3	September	4
+East	330.44	71.79090000000004	Qtr 3	September	4
+South	1689.3859999999997	483.14199999999994	Qtr 3	September	4
+West	6990.792	1236.5975999999998	Qtr 3	September	4
+Central	1768.6959999999995	15.022599999999997	Qtr 3	September	5
+East	1720.1259999999997	41.64639999999997	Qtr 3	September	5
+South	2330.7940000000003	276.67959999999994	Qtr 3	September	5
+West	964.183	65.73899999999999	Qtr 3	September	5
+Central	460.16800000000006	75.66819999999997	Qtr 3	September	6
+East	1372.346	265.32849999999985	Qtr 3	September	6
+South	242.44	69.97949999999999	Qtr 3	September	6
+West	344.596	134.639	Qtr 3	September	6
+Central	4435.754999999999	789.9178000000003	Qtr 3	September	7
+East	3564.1569999999997	-343.6463	Qtr 3	September	7
+South	222.30399999999997	19.45160000000001	Qtr 3	September	7
+West	2072.891	262.20809999999994	Qtr 3	September	7
+Central	16639.3626	-3065.4952	Qtr 3	September	8
+East	1038.82	107.24729999999997	Qtr 3	September	8
+South	713.108	214.1215	Qtr 3	September	8
+West	2605.0879999999997	425.6759999999998	Qtr 3	September	8
+Central	156.84	54.8638	Qtr 3	September	9
+East	5221.728999999999	186.55780000000027	Qtr 3	September	9
+South	2444.234	-483.5822	Qtr 3	September	9
+West	661.8380000000002	117.80839999999999	Qtr 3	September	9
+Central	2934.398	-977.9697	Qtr 3	September	10
+East	1527.4579999999999	331.4056	Qtr 3	September	10
+South	599.6599999999999	72.99479999999997	Qtr 3	September	10
+West	2810.408	389.95760000000007	Qtr 3	September	10
+Central	887.316	38.25639999999997	Qtr 3	September	11
+East	2278.982	161.51029999999997	Qtr 3	September	11
+South	2107.954	926.2990999999998	Qtr 3	September	11
+West	8881.42	1750.1796999999992	Qtr 3	September	11
+Central	861.5499999999998	203.916	Qtr 3	September	12
+East	4962.280000000001	665.6645000000001	Qtr 3	September	12
+South	1351.4839999999997	339.3768999999999	Qtr 3	September	12
+West	972.5119999999998	183.49219999999994	Qtr 3	September	12
+Central	4608.902	1087.5719	Qtr 3	September	13
+East	277.92600000000004	56.4558	Qtr 3	September	13
+South	247.52000000000004	24.778299999999987	Qtr 3	September	13
+West	1977.4820000000002	480.0905000000001	Qtr 3	September	13
+Central	148.96599999999998	-122.741	Qtr 3	September	14
+East	11014.034999999996	2911.9240999999997	Qtr 3	September	14
+South	1488.2340000000002	196.5439	Qtr 3	September	14
+West	1139.586	136.23270000000005	Qtr 3	September	14
+Central	602.772	59.855299999999986	Qtr 3	September	15
+East	3524.4340000000007	968.9236999999999	Qtr 3	September	15
+South	2194.654	574.4712999999999	Qtr 3	September	15
+West	5733.634	1503.5921	Qtr 3	September	15
+Central	73.56	11.967600000000001	Qtr 3	September	16
+East	758.9420000000001	-352.6712	Qtr 3	September	16
+South	170.9	48.31139999999999	Qtr 3	September	16
+West	336.806	12.399799999999988	Qtr 3	September	16
+Central	1811.826	-4.0496	Qtr 3	September	17
+East	13153.594	-728.35	Qtr 3	September	17
+South	1366.0159999999998	454.03739999999993	Qtr 3	September	17
+West	3036.4449999999997	579.6996999999999	Qtr 3	September	17
+Central	210.04000000000002	51.67799999999999	Qtr 3	September	18
+East	3337.594	673.1242	Qtr 3	September	18
+South	3365.5280000000002	542.5774999999998	Qtr 3	September	18
+West	3274.1699999999996	372.44059999999996	Qtr 3	September	18
+Central	6283.619999999999	-815.5528	Qtr 3	September	19
+East	3897.8470000000007	1123.5214999999998	Qtr 3	September	19
+South	3206.655	-779.2119	Qtr 3	September	19
+West	1938.3950000000004	117.28819999999996	Qtr 3	September	19
+Central	1208.7579999999998	-438.1768	Qtr 3	September	20
+East	11983.206	2862.5479	Qtr 3	September	20
+South	1782.428	-981.0651	Qtr 3	September	20
+West	789.55	270.6306	Qtr 3	September	20
+Central	1420.1960000000004	211.4950999999999	Qtr 3	September	21
+East	1324.8079999999998	324.88259999999997	Qtr 3	September	21
+South	3724.734	771.5414999999999	Qtr 3	September	21
+West	3530.144	963.9155999999998	Qtr 3	September	21
+Central	1252.2260000000003	184.21589999999998	Qtr 3	September	22
+East	7916.221000000003	-521.6253	Qtr 3	September	22
+South	1748.364	325.14489999999995	Qtr 3	September	22
+West	593.742	139.48789999999997	Qtr 3	September	22
+Central	10335.294000000002	4574.9178999999995	Qtr 3	September	23
+East	842.461	67.22199999999998	Qtr 3	September	23
+South	951.77	273.74469999999997	Qtr 3	September	23
+West	2250.7430000000004	100.67499999999993	Qtr 3	September	23
+Central	4692.17	371.1697000000002	Qtr 3	September	24
+East	2402.464	30.022299999999973	Qtr 3	September	24
+South	1398.014	343.37839999999994	Qtr 3	September	24
+West	4676.418	883.8489999999999	Qtr 3	September	24
+Central	1536.8127999999995	226.96819999999994	Qtr 3	September	25
+East	2899.187	596.0702000000001	Qtr 3	September	25
+South	200.099	42.99570000000001	Qtr 3	September	25
+West	3607.8509999999997	469.6419999999998	Qtr 3	September	25
+Central	2608.0930000000008	-102.8002	Qtr 3	September	26
+East	1225.658	273.3286999999999	Qtr 3	September	26
+South	851.1120000000001	-133.227	Qtr 3	September	26
+West	4702.7665	765.5476999999998	Qtr 3	September	26
+Central	1038.3528	-243.2712	Qtr 3	September	27
+East	90.44699999999999	35.6073	Qtr 3	September	27
+South	2058.61	644.6433000000001	Qtr 3	September	27
+West	1961.9740000000002	320.42779999999993	Qtr 3	September	27
+Central	100.88000000000001	30.631199999999993	Qtr 3	September	28
+East	650.415	176.2611	Qtr 3	September	28
+South	454.40000000000003	55.50719999999997	Qtr 3	September	28
+West	1001.368	73.8434	Qtr 3	September	28
+Central	413.326	67.52559999999997	Qtr 3	September	29
+East	4811.0960000000005	-52.9969	Qtr 3	September	29
+South	542.7499999999999	54.49499999999998	Qtr 3	September	29
+West	5593.769999999999	1096.2241	Qtr 3	September	29
+Central	13.609999999999996	-20.7096	Qtr 3	September	30
+East	1569.0520000000001	150.8765	Qtr 3	September	30
+South	84.76800000000001	16.690799999999996	Qtr 3	September	30
+West	386.7459999999999	150.55089999999998	Qtr 3	September	30
+Central	442.896	109.25429999999997	Qtr 4	October	1
+East	2369.9080000000004	755.4156999999999	Qtr 4	October	1
+South	36.364	0.5435999999999996	Qtr 4	October	1
+West	2073.836	274.7701	Qtr 4	October	1
+Central	18649.597999999994	8775.201299999999	Qtr 4	October	2
+East	466.24	183.89299999999997	Qtr 4	October	2
+South	2455.212	-1036.7937	Qtr 4	October	2
+West	4167.353999999999	145.51059999999984	Qtr 4	October	2
+Central	2184.535	727.6822999999997	Qtr 4	October	3
+East	1451.8960000000002	157.84349999999995	Qtr 4	October	3
+South	101.23200000000001	11.645199999999999	Qtr 4	October	3
+West	1585.414	185.11889999999983	Qtr 4	October	3
+Central	59.751999999999995	19.4194	Qtr 4	October	4
+East	6483.852	2632.337	Qtr 4	October	4
+South	457.18799999999993	65.58119999999998	Qtr 4	October	4
+West	166.298	58.629499999999986	Qtr 4	October	4
+Central			Qtr 4	October	5
+East	6256.374	1513.3107999999997	Qtr 4	October	5
+South	75.04	22.4532	Qtr 4	October	5
+West	1396.1940000000002	-35.3261	Qtr 4	October	5
+Central	740.038	110.05239999999996	Qtr 4	October	6
+East	957	211.73540000000003	Qtr 4	October	6
+South			Qtr 4	October	6
+West	1127.724	-870.5324	Qtr 4	October	6
+Central	197.2	26.619200000000006	Qtr 4	October	7
+East	134.84799999999998	22.8368	Qtr 4	October	7
+South	1027.21	18.174299999999874	Qtr 4	October	7
+West	2601.024	262.0742	Qtr 4	October	7
+Central	188.07600000000002	-82.4229	Qtr 4	October	8
+East	312.444	70.1208	Qtr 4	October	8
+South	411.192	-62.8632	Qtr 4	October	8
+West	627.692	224.2957	Qtr 4	October	8
+Central	2436.65	-258.4642	Qtr 4	October	9
+East	1442.1	292.4	Qtr 4	October	9
+South	180.88600000000002	40.478199999999994	Qtr 4	October	9
+West	366.7680000000001	55.63789999999998	Qtr 4	October	9
+Central	1766.5400000000002	38.00399999999998	Qtr 4	October	10
+East	120.25800000000001	-84.7894	Qtr 4	October	10
+South	1826.335	-344.9152	Qtr 4	October	10
+West	1106.5579999999998	-60.5649	Qtr 4	October	10
+Central	33.064	4.132999999999999	Qtr 4	October	11
+East	515.2860000000001	80.79119999999998	Qtr 4	October	11
+South	996.1754999999999	-373.1541	Qtr 4	October	11
+West	881.598	24.698599999999928	Qtr 4	October	11
+Central	1900.8599999999997	255.17969999999997	Qtr 4	October	12
+East	4820.242000000001	285.0823999999998	Qtr 4	October	12
+South	7.968000000000001	2.6892000000000005	Qtr 4	October	12
+West	1355.5720000000001	308.62030000000004	Qtr 4	October	12
+Central	532.914	-264.6317	Qtr 4	October	13
+East	1571.6179999999997	417.21169999999995	Qtr 4	October	13
+South	2651.4700000000003	604.7105000000001	Qtr 4	October	13
+West	7884.259999999999	1954.1773999999996	Qtr 4	October	13
+Central	4037.996	1197.6220999999998	Qtr 4	October	14
+East	3419.6399999999994	686.4391000000002	Qtr 4	October	14
+South	305.248	79.1866	Qtr 4	October	14
+West	232.82	49.07819999999998	Qtr 4	October	14
+Central	4277.8240000000005	7.6564	Qtr 4	October	15
+East	204.39	1.0325999999999986	Qtr 4	October	15
+South	358.144	167.3987	Qtr 4	October	15
+West	1224.01	319.9801	Qtr 4	October	15
+Central			Qtr 4	October	16
+East	1514.452	351.71299999999997	Qtr 4	October	16
+South	2018.536	-907.0979	Qtr 4	October	16
+West	1102.083	-277.0104	Qtr 4	October	16
+Central	2513.6280000000006	935.4074	Qtr 4	October	17
+East	499.88	176.3218	Qtr 4	October	17
+South			Qtr 4	October	17
+West	280.13800000000003	39.15669999999999	Qtr 4	October	17
+Central	100.85999999999999	-183.1062	Qtr 4	October	18
+East	249.472	-12.214	Qtr 4	October	18
+South	2822.14	589.9718	Qtr 4	October	18
+West	648.8580000000001	21.336199999999973	Qtr 4	October	18
+Central	657.8481999999999	-87.9094	Qtr 4	October	19
+East	580.212	0.3161999999999807	Qtr 4	October	19
+South	1633.1880000000003	-1306.5504	Qtr 4	October	19
+West	2686.816	721.4726999999998	Qtr 4	October	19
+Central	1545.652	204.21659999999991	Qtr 4	October	20
+East	1051.5620000000001	30.933099999999897	Qtr 4	October	20
+South	777.3720000000001	-46.4287	Qtr 4	October	20
+West	1126.6360000000002	164.01379999999997	Qtr 4	October	20
+Central	2801.9420000000005	404.6376	Qtr 4	October	21
+East	3286.272	-131.7924	Qtr 4	October	21
+South	1722.356	168.44069999999996	Qtr 4	October	21
+West	6034.825000000001	1793.0061	Qtr 4	October	21
+Central	655.0860000000001	92.40109999999999	Qtr 4	October	22
+East	13874.726000000002	4614.623299999999	Qtr 4	October	22
+South	179.79199999999997	22.566399999999994	Qtr 4	October	22
+West	876.489	-115.964	Qtr 4	October	22
+Central	1980.0500000000002	177.4448	Qtr 4	October	23
+East	1692.3	180.80120000000005	Qtr 4	October	23
+South	942.3359999999998	98.00409999999995	Qtr 4	October	23
+West	1467.4260000000002	170.4155	Qtr 4	October	23
+Central	909.8300000000002	-142.5495	Qtr 4	October	24
+East			Qtr 4	October	24
+South	273.87399999999997	30.674999999999997	Qtr 4	October	24
+West	1598.5140000000001	227.91369999999992	Qtr 4	October	24
+Central			Qtr 4	October	25
+East	504.564	107.9445	Qtr 4	October	25
+South	783.9600000000002	78.39600000000004	Qtr 4	October	25
+West	1024.7299999999998	-2.1063	Qtr 4	October	25
+Central	81.76599999999999	15.315	Qtr 4	October	26
+East	309.672	-81.463	Qtr 4	October	26
+South	608.4300000000001	173.87549999999993	Qtr 4	October	26
+West	1843.2130000000002	-17.4742	Qtr 4	October	26
+Central	58.528	12.427799999999998	Qtr 4	October	27
+East	551.722	117.30329999999998	Qtr 4	October	27
+South	382.26700000000005	100.55210000000001	Qtr 4	October	27
+West	1094.913	119.05690000000001	Qtr 4	October	27
+Central	323.708	74.2854	Qtr 4	October	28
+East	2102.8	213.47990000000007	Qtr 4	October	28
+South	747.797	23.48899999999998	Qtr 4	October	28
+West	1748.534	110.16660000000006	Qtr 4	October	28
+Central	2880.8120000000004	410.7085999999997	Qtr 4	October	29
+East	99.37	25.9824	Qtr 4	October	29
+South			Qtr 4	October	29
+West	255.984	123.1604	Qtr 4	October	29
+Central	632.97	5.912400000000005	Qtr 4	October	30
+East	1660.974	261.98759999999993	Qtr 4	October	30
+South	387.89000000000004	91.36489999999998	Qtr 4	October	30
+West	3624.9420000000005	757.4670999999998	Qtr 4	October	30
+Central	1330.3080000000002	163.785	Qtr 4	October	31
+East	4113.745	-239.8182	Qtr 4	October	31
+South	32.064	11.222399999999999	Qtr 4	October	31
+West	7371.345	1139.5857999999996	Qtr 4	October	31
+Central	195.48	29.960099999999986	Qtr 4	November	1
+East	3930.9000000000005	1250.9242	Qtr 4	November	1
+South	1695.1499999999999	318.8063999999999	Qtr 4	November	1
+West	5391.46	493.931	Qtr 4	November	1
+Central	658.868	50.01029999999996	Qtr 4	November	2
+East	4896.192	171.97589999999985	Qtr 4	November	2
+South	4294.27	1126.4229	Qtr 4	November	2
+West	4099.977	626.7001999999999	Qtr 4	November	2
+Central	284.926	85.40169999999998	Qtr 4	November	3
+East	3187.88	385.4319	Qtr 4	November	3
+South	3909.959	238.58669999999984	Qtr 4	November	3
+West	6541.977000000001	925.8666000000003	Qtr 4	November	3
+Central	167.00800000000004	-115.5638	Qtr 4	November	4
+East	5124.508	2211.7963999999997	Qtr 4	November	4
+South	11548.279999999999	-4213.3544	Qtr 4	November	4
+West	4410.866000000002	515.9366999999996	Qtr 4	November	4
+Central	2984.8468	-118.9919	Qtr 4	November	5
+East	2747.3699999999994	153.0728	Qtr 4	November	5
+South	1912.556	272.5959	Qtr 4	November	5
+West	1506.6280000000002	332.4299	Qtr 4	November	5
+Central	90.24799999999999	-4.2336	Qtr 4	November	6
+East	540.544	147.18939999999998	Qtr 4	November	6
+South	1249.2600000000002	43.204999999999984	Qtr 4	November	6
+West	3237.115	457.6007999999999	Qtr 4	November	6
+Central	2287.56	-20.4563	Qtr 4	November	7
+East	3066.7220000000007	371.6533	Qtr 4	November	7
+South	1361.631	-1044.4553	Qtr 4	November	7
+West	4030.144	645.8246	Qtr 4	November	7
+Central	274.436	59.26299999999998	Qtr 4	November	8
+East	10721.375999999997	3696.6993999999995	Qtr 4	November	8
+South	1825.9649999999997	452.36099999999993	Qtr 4	November	8
+West	1086.796	230.21909999999994	Qtr 4	November	8
+Central	1095.9	249.01619999999994	Qtr 4	November	9
+East	6688.742	2245.7110999999995	Qtr 4	November	9
+South	691.144	69.59319999999998	Qtr 4	November	9
+West	2950.0620000000004	497.5113999999998	Qtr 4	November	9
+Central	5379.394000000001	946.1937999999996	Qtr 4	November	10
+East	3879.8160000000003	752.2358999999999	Qtr 4	November	10
+South	53.38	2.7850000000000037	Qtr 4	November	10
+West	4957.896000000001	635.7815999999999	Qtr 4	November	10
+Central	7086.9540000000015	-840.6037	Qtr 4	November	11
+East	1505.642	6.687000000000005	Qtr 4	November	11
+South	1928.472	188.18219999999974	Qtr 4	November	11
+West	4895.1720000000005	1139.3893	Qtr 4	November	11
+Central	2151.5012	218.6049	Qtr 4	November	12
+East	4240.773999999999	-124.1609	Qtr 4	November	12
+South	827.1000000000001	-41.7043	Qtr 4	November	12
+West	2789.7020000000007	182.8469999999999	Qtr 4	November	12
+Central	1383.3023999999998	-23.8256	Qtr 4	November	13
+East	5330.714999999999	315.8640000000005	Qtr 4	November	13
+South	1456.4080000000004	-85.2484	Qtr 4	November	13
+West	4999.210000000001	389.9404999999998	Qtr 4	November	13
+Central	297.53400000000005	-32.9268	Qtr 4	November	14
+East	3705.5519999999997	693.5002	Qtr 4	November	14
+South	1405.9900000000002	475.96850000000006	Qtr 4	November	14
+West	1747.084	200.81859999999995	Qtr 4	November	14
+Central	875.0120000000002	200.92339999999996	Qtr 4	November	15
+East	391.854	-48.7629	Qtr 4	November	15
+South	1591.3600000000001	-92.7084	Qtr 4	November	15
+West	2329.684	621.1067999999999	Qtr 4	November	15
+Central	3148.843999999999	668.7828999999999	Qtr 4	November	16
+East	1970.5680000000002	322.05449999999985	Qtr 4	November	16
+South			Qtr 4	November	16
+West	5100.804499999999	586.0706999999998	Qtr 4	November	16
+Central	3149.4608	608.2101999999999	Qtr 4	November	17
+East	22050.914	6957.165200000001	Qtr 4	November	17
+South	1020.5300000000001	298.3814	Qtr 4	November	17
+West	3046.9220000000005	632.5183	Qtr 4	November	17
+Central	3680.0040000000004	-108.7741	Qtr 4	November	18
+East	969.1869999999999	-110.6005	Qtr 4	November	18
+South	1920.1440000000002	577.7522	Qtr 4	November	18
+West	2266.208	329.0098000000001	Qtr 4	November	18
+Central	4230.076999999999	-2405.7941	Qtr 4	November	19
+East	9752.159	2492.7118	Qtr 4	November	19
+South	1593.25	429.90919999999994	Qtr 4	November	19
+West	727.1179999999998	198.3505	Qtr 4	November	19
+Central	2389.688	445.32429999999994	Qtr 4	November	20
+East	4542.526999999999	808.1279999999997	Qtr 4	November	20
+South	1241.8020000000004	-58.7708	Qtr 4	November	20
+West	1653.3000000000002	-104.0805	Qtr 4	November	20
+Central	2157.2828	359.4794999999999	Qtr 4	November	21
+East	2213.899	-500.2134	Qtr 4	November	21
+South	883.676	327.8982	Qtr 4	November	21
+West	3021.4139999999998	433.72119999999995	Qtr 4	November	21
+Central	467.98400000000004	-176.2814	Qtr 4	November	22
+East	310.774	100.64200000000001	Qtr 4	November	22
+South	1123.6049999999998	479.7812	Qtr 4	November	22
+West	168.19	71.7792	Qtr 4	November	22
+Central	1642.4750000000001	162.70969999999994	Qtr 4	November	23
+East	3258.6479999999997	922.7278999999999	Qtr 4	November	23
+South	105.40800000000002	20.7748	Qtr 4	November	23
+West	1060.662	-18.5179	Qtr 4	November	23
+Central	2509.262	309.2402	Qtr 4	November	24
+East	5545.054000000001	-62.902	Qtr 4	November	24
+South	2453.291	642.6819999999998	Qtr 4	November	24
+West	7643.941999999999	1584.4502999999997	Qtr 4	November	24
+Central	4761.7609999999995	119.31060000000002	Qtr 4	November	25
+East	7346.701000000001	-6668.319	Qtr 4	November	25
+South	1626.29	151.9039000000001	Qtr 4	November	25
+West	2338.7709999999997	241.24299999999994	Qtr 4	November	25
+Central	3918.9940000000006	1128.2647	Qtr 4	November	26
+East	3319.9809999999998	278.1921	Qtr 4	November	26
+South	3945.466	1748.2278000000001	Qtr 4	November	26
+West	5383.546	303.5787999999998	Qtr 4	November	26
+Central	1361.5159999999998	482.2246999999999	Qtr 4	November	27
+East	2833.5040000000004	374.75129999999996	Qtr 4	November	27
+South	965.8005	-249.6351	Qtr 4	November	27
+West	1422.116	349.35669999999993	Qtr 4	November	27
+Central	2346.674	-202.56	Qtr 4	November	28
+East	8053.1399999999985	301.3022000000001	Qtr 4	November	28
+South	3238.134	540.3039999999999	Qtr 4	November	28
+West	848.68	141.3432	Qtr 4	November	28
+Central	3012.78	279.5255999999998	Qtr 4	November	29
+East	30.099999999999998	13.542199999999998	Qtr 4	November	29
+South	491.88800000000003	67.83099999999996	Qtr 4	November	29
+West	666.9239999999999	104.51419999999997	Qtr 4	November	29
+Central	1036.1760000000002	67.15839999999994	Qtr 4	November	30
+East	5135.517	542.9630999999995	Qtr 4	November	30
+South	3178.34	-428.5766	Qtr 4	November	30
+West	282.942	38.129699999999985	Qtr 4	November	30
+Central	4886.726000000001	728.4703999999998	Qtr 4	December	1
+East	6542.004000000001	1106.8227000000004	Qtr 4	December	1
+South	3235.4899999999993	850.0600999999998	Qtr 4	December	1
+West	10787.397	1514.6573999999996	Qtr 4	December	1
+Central	3841.1899999999996	-151.1993	Qtr 4	December	2
+East	6993.84	991.2377	Qtr 4	December	2
+South	884.196	160.03190000000006	Qtr 4	December	2
+West	4688.38	96.40679999999992	Qtr 4	December	2
+Central	1141.7800000000002	249.035	Qtr 4	December	3
+East	3141.316	172.71570000000025	Qtr 4	December	3
+South	435.288	-51.0272	Qtr 4	December	3
+West	4433.799000000001	1016.7872000000001	Qtr 4	December	3
+Central	699.078	221.5408	Qtr 4	December	4
+East	5331.614	899.3337	Qtr 4	December	4
+South	2292.244	-1331.9724	Qtr 4	December	4
+West	576.7819999999999	215.62859999999998	Qtr 4	December	4
+Central	3516.6520000000005	1018.8542	Qtr 4	December	5
+East	2710.204	539.8937999999998	Qtr 4	December	5
+South	1598.6039999999998	358.81960000000004	Qtr 4	December	5
+West	2755.6440000000002	641.3702	Qtr 4	December	5
+Central	1341.278	250.58679999999998	Qtr 4	December	6
+East	4062.0840000000003	526.5942	Qtr 4	December	6
+South	216.148	64.16019999999997	Qtr 4	December	6
+West	6301.9259999999995	1090.8644999999997	Qtr 4	December	6
+Central	1909.0939999999998	-2922.7981	Qtr 4	December	7
+East	929.9720000000001	259.5892	Qtr 4	December	7
+South	997.4	299.53000000000003	Qtr 4	December	7
+West	966.7460000000001	261.25359999999995	Qtr 4	December	7
+Central	6565.132	905.5662	Qtr 4	December	8
+East	1362.8410000000006	129.68839999999997	Qtr 4	December	8
+South	334.25600000000003	46.59339999999998	Qtr 4	December	8
+West	7857.755000000001	688.4285999999998	Qtr 4	December	8
+Central	1998.3990000000006	481.5294999999999	Qtr 4	December	9
+East	1344.954	199.9362999999999	Qtr 4	December	9
+South	3007.9700000000003	882.8736999999998	Qtr 4	December	9
+West	2531.222	405.2627	Qtr 4	December	9
+Central	2512.9180000000006	498.76439999999997	Qtr 4	December	10
+East	4027.457	1244.2708999999998	Qtr 4	December	10
+South	848.2840000000001	325.12870000000004	Qtr 4	December	10
+West	3598.326	530.7892999999998	Qtr 4	December	10
+Central	1269.4840000000002	92.09560000000006	Qtr 4	December	11
+East	3592.9320000000002	459.6345000000002	Qtr 4	December	11
+South	1175.1550000000002	-350.8521	Qtr 4	December	11
+West	4479.538	72.55269999999985	Qtr 4	December	11
+Central	964.93	-126.9422	Qtr 4	December	12
+East	517.9350000000001	99.35559999999998	Qtr 4	December	12
+South	322.542	50.71079999999997	Qtr 4	December	12
+West	6562.966500000001	776.9527	Qtr 4	December	12
+Central	161.228	-17.2144	Qtr 4	December	13
+East	345.296	35.47059999999997	Qtr 4	December	13
+South	12.39	5.8233	Qtr 4	December	13
+West	2572.648	331.948	Qtr 4	December	13
+Central	1767.1319999999998	-374.5109	Qtr 4	December	14
+East	9725.526	2894.1614	Qtr 4	December	14
+South	590.4540000000001	171.01450000000006	Qtr 4	December	14
+West	1143.218	193.10689999999994	Qtr 4	December	14
+Central	2772.0060000000003	274.01370000000003	Qtr 4	December	15
+East	4641.5019999999995	-2088.7112	Qtr 4	December	15
+South	265.608	30.8709	Qtr 4	December	15
+West	2024.1209999999999	194.81330000000014	Qtr 4	December	15
+Central	551.2360000000001	80.96719999999998	Qtr 4	December	16
+East	37.056	12.233199999999998	Qtr 4	December	16
+South	1181.367	121.97479999999997	Qtr 4	December	16
+West	4116.752000000001	382.4926999999999	Qtr 4	December	16
+Central	11705.482	5019.9119	Qtr 4	December	17
+East	321.37999999999994	73.393	Qtr 4	December	17
+South	1089.33	249.86819999999994	Qtr 4	December	17
+West	3060.7259999999997	-51.3344	Qtr 4	December	17
+Central	712.0699999999999	152.6611	Qtr 4	December	18
+East	6687.525999999998	1565.9250999999997	Qtr 4	December	18
+South	1517.4260000000002	-319.5201	Qtr 4	December	18
+West	2715.5270000000005	84.93699999999984	Qtr 4	December	18
+Central	686.144	110.39439999999998	Qtr 4	December	19
+East	4208.3099999999995	463.159	Qtr 4	December	19
+South	3898.1220000000003	251.64090000000007	Qtr 4	December	19
+West	3475.8779999999997	329.48270000000014	Qtr 4	December	19
+Central	2191.042	466.9639999999998	Qtr 4	December	20
+East	816.25	218.37330000000003	Qtr 4	December	20
+South	3765.2880000000005	748.4118	Qtr 4	December	20
+West	1809.6	405.1701999999999	Qtr 4	December	20
+Central	1740.89	279.07759999999996	Qtr 4	December	21
+East	538.1980000000001	187.285	Qtr 4	December	21
+South	239.288	52.96500000000002	Qtr 4	December	21
+West	4813.764	909.4534999999997	Qtr 4	December	21
+Central	4160.885999999999	954.6957	Qtr 4	December	22
+East	2542.628	345.80139999999994	Qtr 4	December	22
+South	1240.132	-182.1382	Qtr 4	December	22
+West	1813.7839999999999	256.6714999999999	Qtr 4	December	22
+Central	1547.366	139.13629999999995	Qtr 4	December	23
+East	3832.696999999999	567.978	Qtr 4	December	23
+South	3129.498	569.5786999999998	Qtr 4	December	23
+West	1519.5000000000002	139.39739999999995	Qtr 4	December	23
+Central	5173.93	2326.5663	Qtr 4	December	24
+East	2232.724	75.1451	Qtr 4	December	24
+South	1546.028	313.0052	Qtr 4	December	24
+West	8653.400000000001	855.6095999999994	Qtr 4	December	24
+Central	415.74199999999996	-72.2518	Qtr 4	December	25
+East	6803.197	837.2315999999994	Qtr 4	December	25
+South	2684.0739999999996	950.0415999999997	Qtr 4	December	25
+West	7488.936999999999	943.7348999999999	Qtr 4	December	25
+Central	1695.768	-49.9984	Qtr 4	December	26
+East	1185.456	143.4899999999999	Qtr 4	December	26
+South			Qtr 4	December	26
+West	2365.688	124.49500000000005	Qtr 4	December	26
+Central	2624.6531999999997	149.50879999999984	Qtr 4	December	27
+East	3256.268	-247.2226	Qtr 4	December	27
+South	914.39	263.267	Qtr 4	December	27
+West	2456.65	-434.3993	Qtr 4	December	27
+Central	285.1968	-3.4928	Qtr 4	December	28
+East	2871.2339999999995	721.3870999999997	Qtr 4	December	28
+South	64.784	-12.9568	Qtr 4	December	28
+West	2247.6320000000005	257.9493	Qtr 4	December	28
+Central	1494.79	274.7168000000001	Qtr 4	December	29
+East	60.75	9.063299999999995	Qtr 4	December	29
+South	1918.3279999999997	486.93129999999996	Qtr 4	December	29
+West	2797.802	634.291	Qtr 4	December	29
+Central	835.6780000000001	112.2294	Qtr 4	December	30
+East	1635.848	-152.5532	Qtr 4	December	30
+South	111.352	16.474600000000002	Qtr 4	December	30
+West	4328.677000000001	168.30309999999952	Qtr 4	December	30
+Central	423.658	53.316799999999986	Qtr 4	December	31
+East	4807.0599999999995	1304.1010999999999	Qtr 4	December	31
+South	667.576	290.16939999999994	Qtr 4	December	31
+West	1468.088	303.65749999999997	Qtr 4	December	31
