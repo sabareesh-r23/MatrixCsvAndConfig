@@ -1,2609 +1,1221 @@
-Orders.Region	Sum(Orders.Sales)	Sum(Orders.Profit)	Orders.Category	Orders.Order Date
-Central			Furniture	Monday, January 06, 2014
-East			Furniture	Monday, January 06, 2014
-South	2573.82	746.4077999999997	Furniture	Monday, January 06, 2014
-West			Furniture	Monday, January 06, 2014
-Central	76.72800000000001	-53.7096	Furniture	Tuesday, January 07, 2014
-East			Furniture	Tuesday, January 07, 2014
-South			Furniture	Tuesday, January 07, 2014
-West			Furniture	Tuesday, January 07, 2014
-Central			Furniture	Friday, January 10, 2014
-East			Furniture	Friday, January 10, 2014
-South	51.94	21.2954	Furniture	Friday, January 10, 2014
-West			Furniture	Friday, January 10, 2014
-Central			Furniture	Saturday, January 11, 2014
-East	9.94	3.0813999999999995	Furniture	Saturday, January 11, 2014
-South			Furniture	Saturday, January 11, 2014
-West			Furniture	Saturday, January 11, 2014
-Central			Furniture	Monday, January 13, 2014
-East			Furniture	Monday, January 13, 2014
-South	545.9399999999999	87.35040000000004	Furniture	Monday, January 13, 2014
-West	333.99899999999997	3.929400000000008	Furniture	Monday, January 13, 2014
-Central			Furniture	Tuesday, January 14, 2014
-East	61.96	-53.2856	Furniture	Tuesday, January 14, 2014
-South			Furniture	Tuesday, January 14, 2014
-West			Furniture	Tuesday, January 14, 2014
-Central			Furniture	Thursday, January 16, 2014
-East	127.10400000000001	28.598399999999998	Furniture	Thursday, January 16, 2014
-South			Furniture	Thursday, January 16, 2014
-West			Furniture	Thursday, January 16, 2014
-Central			Furniture	Sunday, January 19, 2014
-East			Furniture	Sunday, January 19, 2014
-South			Furniture	Sunday, January 19, 2014
-West	181.47000000000003	-320.597	Furniture	Sunday, January 19, 2014
-Central	287.67	34.88430000000001	Furniture	Monday, January 20, 2014
-East			Furniture	Monday, January 20, 2014
-South	1106.54	235.84739999999988	Furniture	Monday, January 20, 2014
-West	19.3	5.789999999999999	Furniture	Monday, January 20, 2014
-Central			Furniture	Tuesday, January 21, 2014
-East			Furniture	Tuesday, January 21, 2014
-South	25.248	4.102799999999999	Furniture	Tuesday, January 21, 2014
-West			Furniture	Tuesday, January 21, 2014
-Central	141.96	39.7488	Furniture	Sunday, January 26, 2014
-East			Furniture	Sunday, January 26, 2014
-South	75.24000000000001	35.253	Furniture	Sunday, January 26, 2014
-West			Furniture	Sunday, January 26, 2014
-Central			Furniture	Monday, January 27, 2014
-East			Furniture	Monday, January 27, 2014
-South			Furniture	Monday, January 27, 2014
-West	333	-16.65	Furniture	Monday, January 27, 2014
-Central			Furniture	Friday, January 31, 2014
-East			Furniture	Friday, January 31, 2014
-South			Furniture	Friday, January 31, 2014
-West	290.666	3.4195999999999884	Furniture	Friday, January 31, 2014
-Central			Furniture	Saturday, February 08, 2014
-East			Furniture	Saturday, February 08, 2014
-South			Furniture	Saturday, February 08, 2014
-West	14.56	5.5328	Furniture	Saturday, February 08, 2014
-Central	393.83	68.49289999999999	Furniture	Tuesday, February 11, 2014
-East			Furniture	Tuesday, February 11, 2014
-South	1256.22	75.37319999999994	Furniture	Tuesday, February 11, 2014
-West			Furniture	Tuesday, February 11, 2014
-Central			Furniture	Wednesday, February 12, 2014
-East			Furniture	Wednesday, February 12, 2014
-South			Furniture	Wednesday, February 12, 2014
-West	129.568	-24.294	Furniture	Wednesday, February 12, 2014
-Central	25.16	-11.322	Furniture	Tuesday, February 18, 2014
-East			Furniture	Tuesday, February 18, 2014
-South			Furniture	Tuesday, February 18, 2014
-West			Furniture	Tuesday, February 18, 2014
-Central	20.32	6.908799999999999	Furniture	Thursday, February 20, 2014
-East			Furniture	Thursday, February 20, 2014
-South			Furniture	Thursday, February 20, 2014
-West			Furniture	Thursday, February 20, 2014
-Central	1436.427	-250.1004	Furniture	Saturday, March 01, 2014
-East			Furniture	Saturday, March 01, 2014
-South			Furniture	Saturday, March 01, 2014
-West	457.56800000000004	51.47639999999994	Furniture	Saturday, March 01, 2014
-Central			Furniture	Monday, March 03, 2014
-East	302.45	-199.617	Furniture	Monday, March 03, 2014
-South			Furniture	Monday, March 03, 2014
-West	626.3520000000001	-23.4882	Furniture	Monday, March 03, 2014
-Central			Furniture	Friday, March 07, 2014
-East			Furniture	Friday, March 07, 2014
-South			Furniture	Friday, March 07, 2014
-West	966.9840000000002	81.49169999999991	Furniture	Friday, March 07, 2014
-Central			Furniture	Tuesday, March 11, 2014
-East	8.32	2.2880000000000003	Furniture	Tuesday, March 11, 2014
-South			Furniture	Tuesday, March 11, 2014
-West			Furniture	Tuesday, March 11, 2014
-Central			Furniture	Friday, March 14, 2014
-East			Furniture	Friday, March 14, 2014
-South	1139.92	284.98	Furniture	Friday, March 14, 2014
-West			Furniture	Friday, March 14, 2014
-Central			Furniture	Saturday, March 15, 2014
-East			Furniture	Saturday, March 15, 2014
-South	45.696	5.140799999999992	Furniture	Saturday, March 15, 2014
-West			Furniture	Saturday, March 15, 2014
-Central			Furniture	Monday, March 17, 2014
-East	3265.23	-1124.0239	Furniture	Monday, March 17, 2014
-South			Furniture	Monday, March 17, 2014
-West			Furniture	Monday, March 17, 2014
-Central			Furniture	Tuesday, March 18, 2014
-East			Furniture	Tuesday, March 18, 2014
-South	153.12	23.370599999999992	Furniture	Tuesday, March 18, 2014
-West	1309.33	84.92000000000002	Furniture	Tuesday, March 18, 2014
-Central			Furniture	Wednesday, March 19, 2014
-East			Furniture	Wednesday, March 19, 2014
-South	25.008000000000003	6.877200000000002	Furniture	Wednesday, March 19, 2014
-West			Furniture	Wednesday, March 19, 2014
-Central			Furniture	Friday, March 21, 2014
-East			Furniture	Friday, March 21, 2014
-South	251.328	-4.3284	Furniture	Friday, March 21, 2014
-West			Furniture	Friday, March 21, 2014
-Central			Furniture	Saturday, March 22, 2014
-East			Furniture	Saturday, March 22, 2014
-South			Furniture	Saturday, March 22, 2014
-West	314.352	-35.3646	Furniture	Saturday, March 22, 2014
-Central			Furniture	Monday, March 24, 2014
-East			Furniture	Monday, March 24, 2014
-South			Furniture	Monday, March 24, 2014
-West	40.48	14.572799999999997	Furniture	Monday, March 24, 2014
-Central			Furniture	Tuesday, March 25, 2014
-East	366.786	65.2064	Furniture	Tuesday, March 25, 2014
-South			Furniture	Tuesday, March 25, 2014
-West			Furniture	Tuesday, March 25, 2014
-Central	1184.72	106.62480000000005	Furniture	Friday, March 28, 2014
-East	330.588	-143.2548	Furniture	Friday, March 28, 2014
-South			Furniture	Friday, March 28, 2014
-West			Furniture	Friday, March 28, 2014
-Central	890.8409999999999	-152.7156	Furniture	Saturday, March 29, 2014
-East			Furniture	Saturday, March 29, 2014
-South			Furniture	Saturday, March 29, 2014
-West			Furniture	Saturday, March 29, 2014
-Central	127.30199999999999	-9.093	Furniture	Sunday, March 30, 2014
-East			Furniture	Sunday, March 30, 2014
-South			Furniture	Sunday, March 30, 2014
-West	205.666	-12.098	Furniture	Sunday, March 30, 2014
-Central			Furniture	Monday, March 31, 2014
-East			Furniture	Monday, March 31, 2014
-South	1125.4879999999998	98.48020000000008	Furniture	Monday, March 31, 2014
-West			Furniture	Monday, March 31, 2014
-Central			Furniture	Wednesday, April 02, 2014
-East			Furniture	Wednesday, April 02, 2014
-South	177.68	46.196799999999996	Furniture	Wednesday, April 02, 2014
-West			Furniture	Wednesday, April 02, 2014
-Central	5.47	2.3521	Furniture	Friday, April 04, 2014
-East			Furniture	Friday, April 04, 2014
-South			Furniture	Friday, April 04, 2014
-West			Furniture	Friday, April 04, 2014
-Central			Furniture	Sunday, April 06, 2014
-East	154.764	-36.1116	Furniture	Sunday, April 06, 2014
-South			Furniture	Sunday, April 06, 2014
-West	778.6199999999999	139.64959999999994	Furniture	Sunday, April 06, 2014
-Central			Furniture	Monday, April 07, 2014
-East			Furniture	Monday, April 07, 2014
-South	8.96	2.7775999999999996	Furniture	Monday, April 07, 2014
-West			Furniture	Monday, April 07, 2014
-Central			Furniture	Tuesday, April 08, 2014
-East	172.11	-94.6605	Furniture	Tuesday, April 08, 2014
-South	1215.92	316.1392000000001	Furniture	Tuesday, April 08, 2014
-West	99.592	2.489799999999999	Furniture	Tuesday, April 08, 2014
-Central			Furniture	Saturday, April 12, 2014
-East			Furniture	Saturday, April 12, 2014
-South			Furniture	Saturday, April 12, 2014
-West	308.499	-18.147	Furniture	Saturday, April 12, 2014
-Central			Furniture	Tuesday, April 15, 2014
-East			Furniture	Tuesday, April 15, 2014
-South			Furniture	Tuesday, April 15, 2014
-West	187.76	76.9816	Furniture	Tuesday, April 15, 2014
-Central	317.058	-18.1176	Furniture	Friday, April 18, 2014
-East			Furniture	Friday, April 18, 2014
-South			Furniture	Friday, April 18, 2014
-West			Furniture	Friday, April 18, 2014
-Central			Furniture	Saturday, April 19, 2014
-East			Furniture	Saturday, April 19, 2014
-South			Furniture	Saturday, April 19, 2014
-West	76.14	26.648999999999997	Furniture	Saturday, April 19, 2014
-Central	1145.69	-227.621	Furniture	Sunday, April 20, 2014
-East			Furniture	Sunday, April 20, 2014
-South			Furniture	Sunday, April 20, 2014
-West	59.92	27.563200000000002	Furniture	Sunday, April 20, 2014
-Central			Furniture	Wednesday, April 23, 2014
-East	585.0799999999999	-16.3	Furniture	Wednesday, April 23, 2014
-South			Furniture	Wednesday, April 23, 2014
-West			Furniture	Wednesday, April 23, 2014
-Central			Furniture	Friday, April 25, 2014
-East			Furniture	Friday, April 25, 2014
-South			Furniture	Friday, April 25, 2014
-West	1790.29	212.38650000000007	Furniture	Friday, April 25, 2014
-Central			Furniture	Saturday, April 26, 2014
-East			Furniture	Saturday, April 26, 2014
-South			Furniture	Saturday, April 26, 2014
-West	230.28000000000003	23.02799999999999	Furniture	Saturday, April 26, 2014
-Central			Furniture	Tuesday, April 29, 2014
-East	17.46	5.936399999999999	Furniture	Tuesday, April 29, 2014
-South	613.5440000000001	83.18799999999993	Furniture	Tuesday, April 29, 2014
-West			Furniture	Tuesday, April 29, 2014
-Central			Furniture	Sunday, May 04, 2014
-East	27.46	9.8856	Furniture	Sunday, May 04, 2014
-South			Furniture	Sunday, May 04, 2014
-West	12.18	3.8975999999999997	Furniture	Sunday, May 04, 2014
-Central	127.869	-9.1335	Furniture	Monday, May 05, 2014
-East			Furniture	Monday, May 05, 2014
-South			Furniture	Monday, May 05, 2014
-West			Furniture	Monday, May 05, 2014
-Central			Furniture	Wednesday, May 07, 2014
-East	1066.5700000000002	205.3996	Furniture	Wednesday, May 07, 2014
-South			Furniture	Wednesday, May 07, 2014
-West			Furniture	Wednesday, May 07, 2014
-Central			Furniture	Saturday, May 10, 2014
-East	349.965	-216.9783	Furniture	Saturday, May 10, 2014
-South			Furniture	Saturday, May 10, 2014
-West	256.78400000000005	32.09799999999997	Furniture	Saturday, May 10, 2014
-Central	1279.072	-153.6048	Furniture	Sunday, May 11, 2014
-East			Furniture	Sunday, May 11, 2014
-South			Furniture	Sunday, May 11, 2014
-West			Furniture	Sunday, May 11, 2014
-Central	34.79	10.784899999999999	Furniture	Monday, May 12, 2014
-East	700.056	-130.0104	Furniture	Monday, May 12, 2014
-South			Furniture	Monday, May 12, 2014
-West			Furniture	Monday, May 12, 2014
-Central			Furniture	Tuesday, May 13, 2014
-East			Furniture	Tuesday, May 13, 2014
-South			Furniture	Tuesday, May 13, 2014
-West	279.456	20.959199999999996	Furniture	Tuesday, May 13, 2014
-Central			Furniture	Wednesday, May 14, 2014
-East			Furniture	Wednesday, May 14, 2014
-South	310.88000000000005	23.31599999999999	Furniture	Wednesday, May 14, 2014
-West			Furniture	Wednesday, May 14, 2014
-Central			Furniture	Friday, May 16, 2014
-East			Furniture	Friday, May 16, 2014
-South			Furniture	Friday, May 16, 2014
-West	232.88	17.466000000000008	Furniture	Friday, May 16, 2014
-Central			Furniture	Sunday, May 18, 2014
-East	149.232	3.730800000000002	Furniture	Sunday, May 18, 2014
-South			Furniture	Sunday, May 18, 2014
-West			Furniture	Sunday, May 18, 2014
-Central	10.332	-5.9409	Furniture	Tuesday, May 20, 2014
-East	139.86	60.139800000000015	Furniture	Tuesday, May 20, 2014
-South			Furniture	Tuesday, May 20, 2014
-West			Furniture	Tuesday, May 20, 2014
-Central	107.772	-29.2524	Furniture	Wednesday, May 21, 2014
-East			Furniture	Wednesday, May 21, 2014
-South			Furniture	Wednesday, May 21, 2014
-West			Furniture	Wednesday, May 21, 2014
-Central	29.32	-24.189	Furniture	Sunday, May 25, 2014
-East			Furniture	Sunday, May 25, 2014
-South			Furniture	Sunday, May 25, 2014
-West			Furniture	Sunday, May 25, 2014
-Central	359.772	-5.1396	Furniture	Monday, May 26, 2014
-East			Furniture	Monday, May 26, 2014
-South			Furniture	Monday, May 26, 2014
-West	515.962	49.8864	Furniture	Monday, May 26, 2014
-Central			Furniture	Tuesday, May 27, 2014
-East			Furniture	Tuesday, May 27, 2014
-South			Furniture	Tuesday, May 27, 2014
-West	567.12	-28.356	Furniture	Tuesday, May 27, 2014
-Central	355.455	-184.8366	Furniture	Friday, May 30, 2014
-East			Furniture	Friday, May 30, 2014
-South			Furniture	Friday, May 30, 2014
-West			Furniture	Friday, May 30, 2014
-Central	2001.8600000000001	580.5393999999999	Furniture	Sunday, June 01, 2014
-East			Furniture	Sunday, June 01, 2014
-South	22.200000000000003	9.102000000000002	Furniture	Sunday, June 01, 2014
-West			Furniture	Sunday, June 01, 2014
-Central			Furniture	Monday, June 02, 2014
-East			Furniture	Monday, June 02, 2014
-South			Furniture	Monday, June 02, 2014
-West	73.32000000000001	21.99599999999999	Furniture	Monday, June 02, 2014
-Central	61.544	-40.0036	Furniture	Tuesday, June 03, 2014
-East			Furniture	Tuesday, June 03, 2014
-South			Furniture	Tuesday, June 03, 2014
-West	515.88	113.49359999999999	Furniture	Tuesday, June 03, 2014
-Central			Furniture	Wednesday, June 04, 2014
-East	424.488	-16.42	Furniture	Wednesday, June 04, 2014
-South			Furniture	Wednesday, June 04, 2014
-West			Furniture	Wednesday, June 04, 2014
-Central			Furniture	Friday, June 06, 2014
-East	991.7640000000001	-347.1174	Furniture	Friday, June 06, 2014
-South			Furniture	Friday, June 06, 2014
-West			Furniture	Friday, June 06, 2014
-Central	268.935	-209.7693	Furniture	Saturday, June 07, 2014
-East			Furniture	Saturday, June 07, 2014
-South			Furniture	Saturday, June 07, 2014
-West			Furniture	Saturday, June 07, 2014
-Central			Furniture	Sunday, June 08, 2014
-East			Furniture	Sunday, June 08, 2014
-South	170.35200000000003	10.647000000000006	Furniture	Sunday, June 08, 2014
-West	585.552	73.19399999999996	Furniture	Sunday, June 08, 2014
-Central			Furniture	Monday, June 09, 2014
-East			Furniture	Monday, June 09, 2014
-South	1441.3	245.0209999999999	Furniture	Monday, June 09, 2014
-West	1792.4440000000002	113.6905999999998	Furniture	Monday, June 09, 2014
-Central	212.94	57.4938	Furniture	Saturday, June 14, 2014
-East			Furniture	Saturday, June 14, 2014
-South			Furniture	Saturday, June 14, 2014
-West			Furniture	Saturday, June 14, 2014
-Central	897.862	-75.5522	Furniture	Sunday, June 15, 2014
-East			Furniture	Sunday, June 15, 2014
-South			Furniture	Sunday, June 15, 2014
-West			Furniture	Sunday, June 15, 2014
-Central	647.84	32.39199999999994	Furniture	Monday, June 16, 2014
-East			Furniture	Monday, June 16, 2014
-South			Furniture	Monday, June 16, 2014
-West			Furniture	Monday, June 16, 2014
-Central			Furniture	Tuesday, June 17, 2014
-East			Furniture	Tuesday, June 17, 2014
-South			Furniture	Tuesday, June 17, 2014
-West	6.24	2.6208000000000005	Furniture	Tuesday, June 17, 2014
-Central	193.0656	-19.8744	Furniture	Friday, June 20, 2014
-East			Furniture	Friday, June 20, 2014
-South			Furniture	Friday, June 20, 2014
-West			Furniture	Friday, June 20, 2014
-Central			Furniture	Saturday, June 21, 2014
-East	3.9840000000000004	0.6473999999999996	Furniture	Saturday, June 21, 2014
-South	104.01	14.561400000000006	Furniture	Saturday, June 21, 2014
-West			Furniture	Saturday, June 21, 2014
-Central			Furniture	Sunday, June 22, 2014
-East	1023.9879999999998	-4.8588	Furniture	Sunday, June 22, 2014
-South			Furniture	Sunday, June 22, 2014
-West			Furniture	Sunday, June 22, 2014
-Central			Furniture	Tuesday, June 24, 2014
-East			Furniture	Tuesday, June 24, 2014
-South			Furniture	Tuesday, June 24, 2014
-West	4.272	0.9611999999999998	Furniture	Tuesday, June 24, 2014
-Central			Furniture	Wednesday, June 25, 2014
-East			Furniture	Wednesday, June 25, 2014
-South			Furniture	Wednesday, June 25, 2014
-West	447.84	11.19599999999997	Furniture	Wednesday, June 25, 2014
-Central			Furniture	Friday, June 27, 2014
-East			Furniture	Friday, June 27, 2014
-South	85.98	22.354800000000004	Furniture	Friday, June 27, 2014
-West			Furniture	Friday, June 27, 2014
-Central			Furniture	Saturday, June 28, 2014
-East	1228.465	0	Furniture	Saturday, June 28, 2014
-South			Furniture	Saturday, June 28, 2014
-West			Furniture	Saturday, June 28, 2014
-Central			Furniture	Saturday, July 05, 2014
-East			Furniture	Saturday, July 05, 2014
-South	232.73600000000002	21.359199999999994	Furniture	Saturday, July 05, 2014
-West			Furniture	Saturday, July 05, 2014
-Central			Furniture	Sunday, July 06, 2014
-East			Furniture	Sunday, July 06, 2014
-South			Furniture	Sunday, July 06, 2014
-West	478.48	47.84800000000001	Furniture	Sunday, July 06, 2014
-Central			Furniture	Monday, July 07, 2014
-East	241.194	-34.6598	Furniture	Monday, July 07, 2014
-South			Furniture	Monday, July 07, 2014
-West			Furniture	Monday, July 07, 2014
-Central			Furniture	Tuesday, July 08, 2014
-East	63.882000000000005	10.647000000000004	Furniture	Tuesday, July 08, 2014
-South			Furniture	Tuesday, July 08, 2014
-West	502.48800000000006	-87.9354	Furniture	Tuesday, July 08, 2014
-Central			Furniture	Wednesday, July 09, 2014
-East			Furniture	Wednesday, July 09, 2014
-South			Furniture	Wednesday, July 09, 2014
-West	119.83299999999998	7.0489999999999995	Furniture	Wednesday, July 09, 2014
-Central			Furniture	Friday, July 11, 2014
-East	979.0500000000001	265.8612	Furniture	Friday, July 11, 2014
-South			Furniture	Friday, July 11, 2014
-West			Furniture	Friday, July 11, 2014
-Central	512.358	-14.6388	Furniture	Saturday, July 12, 2014
-East			Furniture	Saturday, July 12, 2014
-South			Furniture	Saturday, July 12, 2014
-West	821.488	-3.606	Furniture	Saturday, July 12, 2014
-Central			Furniture	Sunday, July 13, 2014
-East			Furniture	Sunday, July 13, 2014
-South			Furniture	Sunday, July 13, 2014
-West	351.216	4.390199999999979	Furniture	Sunday, July 13, 2014
-Central			Furniture	Monday, July 14, 2014
-East	31.983999999999998	1.1993999999999998	Furniture	Monday, July 14, 2014
-South			Furniture	Monday, July 14, 2014
-West			Furniture	Monday, July 14, 2014
-Central			Furniture	Friday, July 18, 2014
-East			Furniture	Friday, July 18, 2014
-South			Furniture	Friday, July 18, 2014
-West	259.136	-25.9136	Furniture	Friday, July 18, 2014
-Central			Furniture	Saturday, July 19, 2014
-East	70.55999999999999	-4.032	Furniture	Saturday, July 19, 2014
-South			Furniture	Saturday, July 19, 2014
-West			Furniture	Saturday, July 19, 2014
-Central	998.112	-154.425	Furniture	Sunday, July 20, 2014
-East			Furniture	Sunday, July 20, 2014
-South			Furniture	Sunday, July 20, 2014
-West	43.019999999999996	15.4872	Furniture	Sunday, July 20, 2014
-Central	657.93	-93.99	Furniture	Monday, July 21, 2014
-East			Furniture	Monday, July 21, 2014
-South			Furniture	Monday, July 21, 2014
-West	1074.4160000000002	77.38279999999999	Furniture	Monday, July 21, 2014
-Central			Furniture	Tuesday, July 22, 2014
-East			Furniture	Tuesday, July 22, 2014
-South			Furniture	Tuesday, July 22, 2014
-West	888.0720000000001	90.9366	Furniture	Tuesday, July 22, 2014
-Central			Furniture	Friday, July 25, 2014
-East			Furniture	Friday, July 25, 2014
-South			Furniture	Friday, July 25, 2014
-West	77.92	34.284800000000004	Furniture	Friday, July 25, 2014
-Central	17.496000000000002	-10.0602	Furniture	Saturday, July 26, 2014
-East			Furniture	Saturday, July 26, 2014
-South	93.59	27.583199999999998	Furniture	Saturday, July 26, 2014
-West	808.3620000000001	-73.3995	Furniture	Saturday, July 26, 2014
-Central			Furniture	Monday, July 28, 2014
-East			Furniture	Monday, July 28, 2014
-South	129.888	12.98879999999999	Furniture	Monday, July 28, 2014
-West			Furniture	Monday, July 28, 2014
-Central			Furniture	Wednesday, July 30, 2014
-East			Furniture	Wednesday, July 30, 2014
-South			Furniture	Wednesday, July 30, 2014
-West	1367.84	259.8896	Furniture	Wednesday, July 30, 2014
-Central			Furniture	Friday, August 01, 2014
-East			Furniture	Friday, August 01, 2014
-South	44.128	12.135200000000001	Furniture	Friday, August 01, 2014
-West			Furniture	Friday, August 01, 2014
-Central			Furniture	Sunday, August 03, 2014
-East			Furniture	Sunday, August 03, 2014
-South			Furniture	Sunday, August 03, 2014
-West	218.75	-161.875	Furniture	Sunday, August 03, 2014
-Central	489.22999999999996	41.934	Furniture	Tuesday, August 05, 2014
-East	1133.35	294.67100000000005	Furniture	Tuesday, August 05, 2014
-South			Furniture	Tuesday, August 05, 2014
-West	340.14400000000006	21.259	Furniture	Tuesday, August 05, 2014
-Central	53.88	22.629600000000003	Furniture	Friday, August 08, 2014
-East			Furniture	Friday, August 08, 2014
-South	155.45600000000002	-7.7728	Furniture	Friday, August 08, 2014
-West	449.13599999999997	88.73840000000001	Furniture	Friday, August 08, 2014
-Central			Furniture	Monday, August 11, 2014
-East			Furniture	Monday, August 11, 2014
-South			Furniture	Monday, August 11, 2014
-West	12.35	5.434	Furniture	Monday, August 11, 2014
-Central			Furniture	Tuesday, August 12, 2014
-East			Furniture	Tuesday, August 12, 2014
-South			Furniture	Tuesday, August 12, 2014
-West	85.44	31.612800000000004	Furniture	Tuesday, August 12, 2014
-Central			Furniture	Friday, August 15, 2014
-East			Furniture	Friday, August 15, 2014
-South			Furniture	Friday, August 15, 2014
-West	195.136	-12.196	Furniture	Friday, August 15, 2014
-Central			Furniture	Saturday, August 16, 2014
-East	853.0919999999999	-227.4912	Furniture	Saturday, August 16, 2014
-South			Furniture	Saturday, August 16, 2014
-West			Furniture	Saturday, August 16, 2014
-Central			Furniture	Tuesday, August 19, 2014
-East			Furniture	Tuesday, August 19, 2014
-South	638.82	172.4814	Furniture	Tuesday, August 19, 2014
-West	289.24	26.03160000000001	Furniture	Tuesday, August 19, 2014
-Central	421.372	-6.0196	Furniture	Wednesday, August 20, 2014
-East			Furniture	Wednesday, August 20, 2014
-South	500.23999999999995	145.06959999999992	Furniture	Wednesday, August 20, 2014
-West			Furniture	Wednesday, August 20, 2014
-Central			Furniture	Saturday, August 23, 2014
-East			Furniture	Saturday, August 23, 2014
-South			Furniture	Saturday, August 23, 2014
-West	4.224	1.2672000000000003	Furniture	Saturday, August 23, 2014
-Central			Furniture	Sunday, August 24, 2014
-East	13.28	6.3744	Furniture	Sunday, August 24, 2014
-South			Furniture	Sunday, August 24, 2014
-West			Furniture	Sunday, August 24, 2014
-Central			Furniture	Monday, August 25, 2014
-East			Furniture	Monday, August 25, 2014
-South			Furniture	Monday, August 25, 2014
-West	6.28	2.6376000000000004	Furniture	Monday, August 25, 2014
-Central			Furniture	Tuesday, August 26, 2014
-East	10.68	4.0584	Furniture	Tuesday, August 26, 2014
-South			Furniture	Tuesday, August 26, 2014
-West			Furniture	Tuesday, August 26, 2014
-Central			Furniture	Wednesday, August 27, 2014
-East			Furniture	Wednesday, August 27, 2014
-South	1232.06	313.2566	Furniture	Wednesday, August 27, 2014
-West			Furniture	Wednesday, August 27, 2014
-Central			Furniture	Friday, August 29, 2014
-East			Furniture	Friday, August 29, 2014
-South	174.0585	-110.7645	Furniture	Friday, August 29, 2014
-West			Furniture	Friday, August 29, 2014
-Central			Furniture	Tuesday, September 02, 2014
-East	70.71	4.949699999999993	Furniture	Tuesday, September 02, 2014
-South			Furniture	Tuesday, September 02, 2014
-West			Furniture	Tuesday, September 02, 2014
-Central			Furniture	Friday, September 05, 2014
-East			Furniture	Friday, September 05, 2014
-South	31.983999999999998	1.998999999999998	Furniture	Friday, September 05, 2014
-West			Furniture	Friday, September 05, 2014
-Central			Furniture	Saturday, September 06, 2014
-East			Furniture	Saturday, September 06, 2014
-South			Furniture	Saturday, September 06, 2014
-West	41.88	12.145199999999997	Furniture	Saturday, September 06, 2014
-Central	1672.225	371.51650000000006	Furniture	Sunday, September 07, 2014
-East	42.368	8.473599999999996	Furniture	Sunday, September 07, 2014
-South			Furniture	Sunday, September 07, 2014
-West			Furniture	Sunday, September 07, 2014
-Central	2706.7599999999993	-38.668	Furniture	Monday, September 08, 2014
-East	172.764	13.437199999999986	Furniture	Monday, September 08, 2014
-South			Furniture	Monday, September 08, 2014
-West	975.92	121.98999999999992	Furniture	Monday, September 08, 2014
-Central			Furniture	Tuesday, September 09, 2014
-East	864.0239999999999	230.10359999999997	Furniture	Tuesday, September 09, 2014
-South			Furniture	Tuesday, September 09, 2014
-West			Furniture	Tuesday, September 09, 2014
-Central			Furniture	Wednesday, September 10, 2014
-East	254.89999999999998	76.46999999999998	Furniture	Wednesday, September 10, 2014
-South			Furniture	Wednesday, September 10, 2014
-West	1487.04	148.70400000000006	Furniture	Wednesday, September 10, 2014
-Central			Furniture	Thursday, September 11, 2014
-East			Furniture	Thursday, September 11, 2014
-South			Furniture	Thursday, September 11, 2014
-West	127.94999999999999	21.751499999999986	Furniture	Thursday, September 11, 2014
-Central	40.56	12.979199999999999	Furniture	Friday, September 12, 2014
-East	3785.2920000000004	420.5880000000002	Furniture	Friday, September 12, 2014
-South			Furniture	Friday, September 12, 2014
-West			Furniture	Friday, September 12, 2014
-Central	340.116	-9.7176	Furniture	Saturday, September 13, 2014
-East			Furniture	Saturday, September 13, 2014
-South			Furniture	Saturday, September 13, 2014
-West	14.190000000000001	5.534100000000001	Furniture	Saturday, September 13, 2014
-Central	9.96	-6.723	Furniture	Sunday, September 14, 2014
-East	464.29200000000003	-108.3348	Furniture	Sunday, September 14, 2014
-South	155.52800000000002	56.4623	Furniture	Sunday, September 14, 2014
-West			Furniture	Sunday, September 14, 2014
-Central			Furniture	Monday, September 15, 2014
-East	118.496	23.150399999999998	Furniture	Monday, September 15, 2014
-South			Furniture	Monday, September 15, 2014
-West			Furniture	Monday, September 15, 2014
-Central			Furniture	Wednesday, September 17, 2014
-East			Furniture	Wednesday, September 17, 2014
-South			Furniture	Wednesday, September 17, 2014
-West	35.34	13.429200000000002	Furniture	Wednesday, September 17, 2014
-Central			Furniture	Friday, September 19, 2014
-East	887.103	177.42059999999998	Furniture	Friday, September 19, 2014
-South			Furniture	Friday, September 19, 2014
-West	73.915	-45.8273	Furniture	Friday, September 19, 2014
-Central	1111.13	-478.172	Furniture	Saturday, September 20, 2014
-East	1960.5100000000002	217.57859999999988	Furniture	Saturday, September 20, 2014
-South			Furniture	Saturday, September 20, 2014
-West			Furniture	Saturday, September 20, 2014
-Central	8.544	-7.476	Furniture	Sunday, September 21, 2014
-East			Furniture	Sunday, September 21, 2014
-South			Furniture	Sunday, September 21, 2014
-West			Furniture	Sunday, September 21, 2014
-Central			Furniture	Monday, September 22, 2014
-East	676.9680000000001	118.78799999999995	Furniture	Monday, September 22, 2014
-South			Furniture	Monday, September 22, 2014
-West			Furniture	Monday, September 22, 2014
-Central			Furniture	Tuesday, September 23, 2014
-East			Furniture	Tuesday, September 23, 2014
-South			Furniture	Tuesday, September 23, 2014
-West	435.999	20.517599999999987	Furniture	Tuesday, September 23, 2014
-Central	300.53279999999995	-97.2312	Furniture	Thursday, September 25, 2014
-East			Furniture	Thursday, September 25, 2014
-South			Furniture	Thursday, September 25, 2014
-West			Furniture	Thursday, September 25, 2014
-Central			Furniture	Friday, September 26, 2014
-East	21.184	4.7664	Furniture	Friday, September 26, 2014
-South			Furniture	Friday, September 26, 2014
-West	731.12	73.19399999999996	Furniture	Friday, September 26, 2014
-Central			Furniture	Saturday, September 27, 2014
-East	87.53999999999999	37.6422	Furniture	Saturday, September 27, 2014
-South			Furniture	Saturday, September 27, 2014
-West	603.92	45.29400000000001	Furniture	Saturday, September 27, 2014
-Central			Furniture	Sunday, September 28, 2014
-East			Furniture	Sunday, September 28, 2014
-South	337.088	16.854399999999984	Furniture	Sunday, September 28, 2014
-West			Furniture	Sunday, September 28, 2014
-Central			Furniture	Monday, September 29, 2014
-East	593.808	-65.6256	Furniture	Monday, September 29, 2014
-South			Furniture	Monday, September 29, 2014
-West	2559.58	455.4521999999998	Furniture	Monday, September 29, 2014
-Central			Furniture	Tuesday, September 30, 2014
-East	15.24	5.1815999999999995	Furniture	Tuesday, September 30, 2014
-South			Furniture	Tuesday, September 30, 2014
-West			Furniture	Tuesday, September 30, 2014
-Central	290.055	-89.1699	Furniture	Friday, October 03, 2014
-East			Furniture	Friday, October 03, 2014
-South			Furniture	Friday, October 03, 2014
-West	265.784	17.35039999999998	Furniture	Friday, October 03, 2014
-Central			Furniture	Saturday, October 04, 2014
-East	589.41	-6.549	Furniture	Saturday, October 04, 2014
-South			Furniture	Saturday, October 04, 2014
-West			Furniture	Saturday, October 04, 2014
-Central			Furniture	Tuesday, October 07, 2014
-East	129.92	21.112000000000002	Furniture	Tuesday, October 07, 2014
-South			Furniture	Tuesday, October 07, 2014
-West			Furniture	Tuesday, October 07, 2014
-Central			Furniture	Friday, October 10, 2014
-East			Furniture	Friday, October 10, 2014
-South			Furniture	Friday, October 10, 2014
-West	169.224	17.279999999999994	Furniture	Friday, October 10, 2014
-Central			Furniture	Saturday, October 11, 2014
-East			Furniture	Saturday, October 11, 2014
-South	8.92	3.9248000000000003	Furniture	Saturday, October 11, 2014
-West	497.038	-45.9942	Furniture	Saturday, October 11, 2014
-Central			Furniture	Monday, October 13, 2014
-East	245.98	27.057799999999986	Furniture	Monday, October 13, 2014
-South			Furniture	Monday, October 13, 2014
-West	1298.55	311.652	Furniture	Monday, October 13, 2014
-Central			Furniture	Tuesday, October 14, 2014
-East	1628.82	260.61120000000017	Furniture	Tuesday, October 14, 2014
-South			Furniture	Tuesday, October 14, 2014
-West			Furniture	Tuesday, October 14, 2014
-Central			Furniture	Wednesday, October 15, 2014
-East	183.37199999999999	-7.8588	Furniture	Wednesday, October 15, 2014
-South	15.384	4.038300000000001	Furniture	Wednesday, October 15, 2014
-West			Furniture	Wednesday, October 15, 2014
-Central	5.312	-1.5936	Furniture	Friday, October 17, 2014
-East			Furniture	Friday, October 17, 2014
-South			Furniture	Friday, October 17, 2014
-West			Furniture	Friday, October 17, 2014
-Central			Furniture	Saturday, October 18, 2014
-East			Furniture	Saturday, October 18, 2014
-South	1151.22	216.24599999999998	Furniture	Saturday, October 18, 2014
-West			Furniture	Saturday, October 18, 2014
-Central			Furniture	Monday, October 20, 2014
-East			Furniture	Monday, October 20, 2014
-South	328.59000000000003	-147.8655	Furniture	Monday, October 20, 2014
-West			Furniture	Monday, October 20, 2014
-Central			Furniture	Tuesday, October 21, 2014
-East	409.59000000000003	-122.877	Furniture	Tuesday, October 21, 2014
-South	591.32	112.35079999999999	Furniture	Tuesday, October 21, 2014
-West			Furniture	Tuesday, October 21, 2014
-Central			Furniture	Wednesday, October 22, 2014
-East	93.888	12.90959999999999	Furniture	Wednesday, October 22, 2014
-South	129.92	10.393599999999992	Furniture	Wednesday, October 22, 2014
-West			Furniture	Wednesday, October 22, 2014
-Central			Furniture	Sunday, October 26, 2014
-East			Furniture	Sunday, October 26, 2014
-South			Furniture	Sunday, October 26, 2014
-West	63.92	3.195999999999998	Furniture	Sunday, October 26, 2014
-Central			Furniture	Tuesday, October 28, 2014
-East			Furniture	Tuesday, October 28, 2014
-South			Furniture	Tuesday, October 28, 2014
-West	616.998	-36.294	Furniture	Tuesday, October 28, 2014
-Central			Furniture	Friday, October 31, 2014
-East	3444.6800000000003	-301.609	Furniture	Friday, October 31, 2014
-South			Furniture	Friday, October 31, 2014
-West	146.352	-9.147	Furniture	Friday, October 31, 2014
-Central			Furniture	Saturday, November 01, 2014
-East	100.38399999999999	26.138	Furniture	Saturday, November 01, 2014
-South			Furniture	Saturday, November 01, 2014
-West			Furniture	Saturday, November 01, 2014
-Central			Furniture	Sunday, November 02, 2014
-East	89.34	24.121800000000004	Furniture	Sunday, November 02, 2014
-South			Furniture	Sunday, November 02, 2014
-West			Furniture	Sunday, November 02, 2014
-Central			Furniture	Monday, November 03, 2014
-East			Furniture	Monday, November 03, 2014
-South	1355.388	-350.5554	Furniture	Monday, November 03, 2014
-West			Furniture	Monday, November 03, 2014
-Central			Furniture	Tuesday, November 04, 2014
-East	135.882	24.156800000000004	Furniture	Tuesday, November 04, 2014
-South			Furniture	Tuesday, November 04, 2014
-West	609.068	-51.1152	Furniture	Tuesday, November 04, 2014
-Central			Furniture	Wednesday, November 05, 2014
-East	273.568	-34.196	Furniture	Wednesday, November 05, 2014
-South	149.9	40.473	Furniture	Wednesday, November 05, 2014
-West	20.04	8.817600000000002	Furniture	Wednesday, November 05, 2014
-Central	683.1439999999999	0	Furniture	Friday, November 07, 2014
-East			Furniture	Friday, November 07, 2014
-South			Furniture	Friday, November 07, 2014
-West			Furniture	Friday, November 07, 2014
-Central			Furniture	Sunday, November 09, 2014
-East	56.52	21.477600000000002	Furniture	Sunday, November 09, 2014
-South			Furniture	Sunday, November 09, 2014
-West	222.66599999999997	10.47839999999998	Furniture	Sunday, November 09, 2014
-Central	563.9399999999999	112.78800000000001	Furniture	Monday, November 10, 2014
-East			Furniture	Monday, November 10, 2014
-South			Furniture	Monday, November 10, 2014
-West	93.08000000000001	26.062400000000004	Furniture	Monday, November 10, 2014
-Central	808.928	-64.9594	Furniture	Tuesday, November 11, 2014
-East	545.928	-242.7512	Furniture	Tuesday, November 11, 2014
-South			Furniture	Tuesday, November 11, 2014
-West	716.568	86.75479999999992	Furniture	Tuesday, November 11, 2014
-Central	93.12119999999999	-19.9089	Furniture	Wednesday, November 12, 2014
-East			Furniture	Wednesday, November 12, 2014
-South			Furniture	Wednesday, November 12, 2014
-West	629.0640000000001	31.453199999999953	Furniture	Wednesday, November 12, 2014
-Central			Furniture	Friday, November 14, 2014
-East	69.264	14.62239999999999	Furniture	Friday, November 14, 2014
-South			Furniture	Friday, November 14, 2014
-West			Furniture	Friday, November 14, 2014
-Central			Furniture	Saturday, November 15, 2014
-East			Furniture	Saturday, November 15, 2014
-South			Furniture	Saturday, November 15, 2014
-West	10.11	3.2351999999999994	Furniture	Saturday, November 15, 2014
-Central	37.296	-1.0656	Furniture	Sunday, November 16, 2014
-East			Furniture	Sunday, November 16, 2014
-South			Furniture	Sunday, November 16, 2014
-West	305.9745	25.19789999999997	Furniture	Sunday, November 16, 2014
-Central	479.90000000000003	81.58299999999997	Furniture	Monday, November 17, 2014
-East	4790.180000000001	-129.1588	Furniture	Monday, November 17, 2014
-South			Furniture	Monday, November 17, 2014
-West			Furniture	Monday, November 17, 2014
-Central	1117.6999999999998	-169.8066	Furniture	Tuesday, November 18, 2014
-East	60.312	5.2773	Furniture	Tuesday, November 18, 2014
-South			Furniture	Tuesday, November 18, 2014
-West	1013.72	50.67560000000009	Furniture	Tuesday, November 18, 2014
-Central			Furniture	Wednesday, November 19, 2014
-East	1025.8799999999999	235.9524	Furniture	Wednesday, November 19, 2014
-South			Furniture	Wednesday, November 19, 2014
-West			Furniture	Wednesday, November 19, 2014
-Central	161.73999999999998	-38.0608	Furniture	Sunday, November 23, 2014
-East			Furniture	Sunday, November 23, 2014
-South			Furniture	Sunday, November 23, 2014
-West	985.36	-44.101	Furniture	Sunday, November 23, 2014
-Central			Furniture	Monday, November 24, 2014
-East	646.226	-25.2464	Furniture	Monday, November 24, 2014
-South	111.15	48.906000000000006	Furniture	Monday, November 24, 2014
-West	272.432	9.202799999999996	Furniture	Monday, November 24, 2014
-Central	1224.8309999999997	-125.8359	Furniture	Tuesday, November 25, 2014
-East	328.912	-17.8186	Furniture	Tuesday, November 25, 2014
-South			Furniture	Tuesday, November 25, 2014
-West	749.224	64.908	Furniture	Tuesday, November 25, 2014
-Central	19.3	-14.475	Furniture	Wednesday, November 26, 2014
-East			Furniture	Wednesday, November 26, 2014
-South			Furniture	Wednesday, November 26, 2014
-West			Furniture	Wednesday, November 26, 2014
-Central			Furniture	Thursday, November 27, 2014
-East	199.89999999999998	39.97999999999999	Furniture	Thursday, November 27, 2014
-South			Furniture	Thursday, November 27, 2014
-West			Furniture	Thursday, November 27, 2014
-Central			Furniture	Friday, November 28, 2014
-East			Furniture	Friday, November 28, 2014
-South	397.59999999999997	43.73599999999996	Furniture	Friday, November 28, 2014
-West	411.332	-4.8392	Furniture	Friday, November 28, 2014
-Central	3481.898	654.6228000000001	Furniture	Monday, December 01, 2014
-East	973.5079999999998	-31.7354	Furniture	Monday, December 01, 2014
-South			Furniture	Monday, December 01, 2014
-West	58.199999999999996	28.517999999999994	Furniture	Monday, December 01, 2014
-Central	98.32000000000001	-48.779	Furniture	Tuesday, December 02, 2014
-East	1184.48	-22.0524	Furniture	Tuesday, December 02, 2014
-South			Furniture	Tuesday, December 02, 2014
-West			Furniture	Tuesday, December 02, 2014
-Central	249.70200000000003	-139.6068	Furniture	Saturday, December 06, 2014
-East			Furniture	Saturday, December 06, 2014
-South			Furniture	Saturday, December 06, 2014
-West	275.49	-170.8038	Furniture	Saturday, December 06, 2014
-Central			Furniture	Monday, December 08, 2014
-East			Furniture	Monday, December 08, 2014
-South			Furniture	Monday, December 08, 2014
-West	723.24	85.0588	Furniture	Monday, December 08, 2014
-Central			Furniture	Wednesday, December 10, 2014
-East			Furniture	Wednesday, December 10, 2014
-South			Furniture	Wednesday, December 10, 2014
-West	338.352	4.2294	Furniture	Wednesday, December 10, 2014
-Central			Furniture	Friday, December 12, 2014
-East			Furniture	Friday, December 12, 2014
-South			Furniture	Friday, December 12, 2014
-West	4695.6005000000005	256.2722000000001	Furniture	Friday, December 12, 2014
-Central	94.428	-42.4926	Furniture	Saturday, December 13, 2014
-East			Furniture	Saturday, December 13, 2014
-South			Furniture	Saturday, December 13, 2014
-West	87.96000000000001	7.696500000000004	Furniture	Saturday, December 13, 2014
-Central			Furniture	Sunday, December 14, 2014
-East	136.53	-52.3365	Furniture	Sunday, December 14, 2014
-South	186.304	13.9728	Furniture	Sunday, December 14, 2014
-West			Furniture	Sunday, December 14, 2014
-Central	771.824	-29.284	Furniture	Monday, December 15, 2014
-East	445.802	-108.2662	Furniture	Monday, December 15, 2014
-South			Furniture	Monday, December 15, 2014
-West	6.16	1.9711999999999996	Furniture	Monday, December 15, 2014
-Central	65.19200000000001	-77.5398	Furniture	Tuesday, December 16, 2014
-East			Furniture	Tuesday, December 16, 2014
-South	1043.2920000000001	111.10499999999999	Furniture	Tuesday, December 16, 2014
-West	1689.9480000000003	102.98540000000003	Furniture	Tuesday, December 16, 2014
-Central			Furniture	Friday, December 19, 2014
-East			Furniture	Friday, December 19, 2014
-South	1819.8600000000001	163.78740000000002	Furniture	Friday, December 19, 2014
-West			Furniture	Friday, December 19, 2014
-Central			Furniture	Saturday, December 20, 2014
-East	383.03400000000005	14.831399999999974	Furniture	Saturday, December 20, 2014
-South	3362.46	668.4816	Furniture	Saturday, December 20, 2014
-West	294.32000000000005	-32.018	Furniture	Saturday, December 20, 2014
-Central			Furniture	Sunday, December 21, 2014
-East			Furniture	Sunday, December 21, 2014
-South			Furniture	Sunday, December 21, 2014
-West	1897.92	184.90799999999987	Furniture	Sunday, December 21, 2014
-Central			Furniture	Tuesday, December 23, 2014
-East	53.315999999999995	-19.5492	Furniture	Tuesday, December 23, 2014
-South	64.784	6.478400000000004	Furniture	Tuesday, December 23, 2014
-West			Furniture	Tuesday, December 23, 2014
-Central			Furniture	Wednesday, December 24, 2014
-East	30.36	8.7285	Furniture	Wednesday, December 24, 2014
-South			Furniture	Wednesday, December 24, 2014
-West	316.26200000000006	23.784699999999965	Furniture	Wednesday, December 24, 2014
-Central	600.558	-8.5794	Furniture	Friday, December 26, 2014
-East			Furniture	Friday, December 26, 2014
-South			Furniture	Friday, December 26, 2014
-West	752.6000000000001	75.56400000000001	Furniture	Friday, December 26, 2014
-Central	32.952000000000005	-19.7712	Furniture	Saturday, December 27, 2014
-East	949.566	143.73219999999995	Furniture	Saturday, December 27, 2014
-South			Furniture	Saturday, December 27, 2014
-West	230.28000000000003	23.02799999999999	Furniture	Saturday, December 27, 2014
-Central	47.712	-55.4736	Furniture	Monday, December 29, 2014
-East			Furniture	Monday, December 29, 2014
-South			Furniture	Monday, December 29, 2014
-West	95.46000000000001	32.20739999999999	Furniture	Monday, December 29, 2014
-Central			Furniture	Tuesday, December 30, 2014
-East	523.764	-192.0468	Furniture	Tuesday, December 30, 2014
-South			Furniture	Tuesday, December 30, 2014
-West			Furniture	Tuesday, December 30, 2014
-Central			Furniture	Wednesday, December 31, 2014
-East	2584.5280000000002	450.1907999999999	Furniture	Wednesday, December 31, 2014
-South			Furniture	Wednesday, December 31, 2014
-West			Furniture	Wednesday, December 31, 2014
-Central	16.448	5.551199999999998	Office Supplies	Friday, January 03, 2014
-East			Office Supplies	Friday, January 03, 2014
-South			Office Supplies	Friday, January 03, 2014
-West			Office Supplies	Friday, January 03, 2014
-Central	288.06	-65.9901	Office Supplies	Saturday, January 04, 2014
-East			Office Supplies	Saturday, January 04, 2014
-South			Office Supplies	Saturday, January 04, 2014
-West			Office Supplies	Saturday, January 04, 2014
-Central			Office Supplies	Sunday, January 05, 2014
-East	19.536	4.884	Office Supplies	Sunday, January 05, 2014
-South			Office Supplies	Sunday, January 05, 2014
-West			Office Supplies	Sunday, January 05, 2014
-Central			Office Supplies	Monday, January 06, 2014
-East			Office Supplies	Monday, January 06, 2014
-South	665.9	284.53	Office Supplies	Monday, January 06, 2014
-West	19.44	9.3312	Office Supplies	Monday, January 06, 2014
-Central	10.429999999999998	-18.2525	Office Supplies	Tuesday, January 07, 2014
-East			Office Supplies	Tuesday, January 07, 2014
-South			Office Supplies	Tuesday, January 07, 2014
-West			Office Supplies	Tuesday, January 07, 2014
-Central	9.344	1.1679999999999997	Office Supplies	Thursday, January 09, 2014
-East			Office Supplies	Thursday, January 09, 2014
-South			Office Supplies	Thursday, January 09, 2014
-West			Office Supplies	Thursday, January 09, 2014
-Central			Office Supplies	Friday, January 10, 2014
-East			Office Supplies	Friday, January 10, 2014
-South	2.89	1.3583	Office Supplies	Friday, January 10, 2014
-West			Office Supplies	Friday, January 10, 2014
-Central			Office Supplies	Monday, January 13, 2014
-East	40.846000000000004	10.5716	Office Supplies	Monday, January 13, 2014
-South	640.5200000000001	67.87119999999996	Office Supplies	Monday, January 13, 2014
-West	1345.7500000000002	245.2199999999999	Office Supplies	Monday, January 13, 2014
-Central			Office Supplies	Thursday, January 16, 2014
-East	48.66000000000001	-3.4819	Office Supplies	Thursday, January 16, 2014
-South			Office Supplies	Thursday, January 16, 2014
-West			Office Supplies	Thursday, January 16, 2014
-Central			Office Supplies	Saturday, January 18, 2014
-East			Office Supplies	Saturday, January 18, 2014
-South			Office Supplies	Saturday, January 18, 2014
-West	64.864	6.486400000000003	Office Supplies	Saturday, January 18, 2014
-Central			Office Supplies	Sunday, January 19, 2014
-East			Office Supplies	Sunday, January 19, 2014
-South			Office Supplies	Sunday, January 19, 2014
-West	197.124	32.599399999999996	Office Supplies	Sunday, January 19, 2014
-Central	420.946	148.6703	Office Supplies	Monday, January 20, 2014
-East			Office Supplies	Monday, January 20, 2014
-South	120.124	-32.0971	Office Supplies	Monday, January 20, 2014
-West	19.36	9.2928	Office Supplies	Monday, January 20, 2014
-Central	5.9399999999999995	0	Office Supplies	Thursday, January 23, 2014
-East			Office Supplies	Thursday, January 23, 2014
-South			Office Supplies	Thursday, January 23, 2014
-West	40.08	19.2384	Office Supplies	Thursday, January 23, 2014
-Central	10.68	5.0196	Office Supplies	Sunday, January 26, 2014
-East			Office Supplies	Sunday, January 26, 2014
-South	526.04	17.6712	Office Supplies	Sunday, January 26, 2014
-West			Office Supplies	Sunday, January 26, 2014
-Central			Office Supplies	Monday, January 27, 2014
-East			Office Supplies	Monday, January 27, 2014
-South			Office Supplies	Monday, January 27, 2014
-West	93.66999999999999	26.332699999999996	Office Supplies	Monday, January 27, 2014
-Central			Office Supplies	Tuesday, January 28, 2014
-East	3.9280000000000004	1.3256999999999999	Office Supplies	Tuesday, January 28, 2014
-South			Office Supplies	Tuesday, January 28, 2014
-West			Office Supplies	Tuesday, January 28, 2014
-Central	240.5	11.650200000000002	Office Supplies	Thursday, January 30, 2014
-East			Office Supplies	Thursday, January 30, 2014
-South			Office Supplies	Thursday, January 30, 2014
-West			Office Supplies	Thursday, January 30, 2014
-Central			Office Supplies	Sunday, February 02, 2014
-East			Office Supplies	Sunday, February 02, 2014
-South	18.336000000000002	-12.224	Office Supplies	Sunday, February 02, 2014
-West	12.350000000000001	5.8045	Office Supplies	Sunday, February 02, 2014
-Central			Office Supplies	Monday, February 03, 2014
-East			Office Supplies	Monday, February 03, 2014
-South			Office Supplies	Monday, February 03, 2014
-West	97.11200000000001	31.5614	Office Supplies	Monday, February 03, 2014
-Central			Office Supplies	Tuesday, February 04, 2014
-East			Office Supplies	Tuesday, February 04, 2014
-South			Office Supplies	Tuesday, February 04, 2014
-West	134.384	51.1432	Office Supplies	Tuesday, February 04, 2014
-Central	8.951999999999998	-14.7708	Office Supplies	Thursday, February 06, 2014
-East			Office Supplies	Thursday, February 06, 2014
-South	15	7.199999999999999	Office Supplies	Thursday, February 06, 2014
-West			Office Supplies	Thursday, February 06, 2014
-Central			Office Supplies	Friday, February 07, 2014
-East	64.96	9.744	Office Supplies	Friday, February 07, 2014
-South			Office Supplies	Friday, February 07, 2014
-West			Office Supplies	Friday, February 07, 2014
-Central	141.44	38.298199999999994	Office Supplies	Tuesday, February 11, 2014
-East			Office Supplies	Tuesday, February 11, 2014
-South	17.46	8.206199999999999	Office Supplies	Tuesday, February 11, 2014
-West			Office Supplies	Tuesday, February 11, 2014
-Central	16.176000000000002	6.065999999999999	Office Supplies	Friday, February 14, 2014
-East			Office Supplies	Friday, February 14, 2014
-South			Office Supplies	Friday, February 14, 2014
-West	320.58	27.721200000000003	Office Supplies	Friday, February 14, 2014
-Central			Office Supplies	Saturday, February 15, 2014
-East			Office Supplies	Saturday, February 15, 2014
-South			Office Supplies	Saturday, February 15, 2014
-West	21.36	7.209	Office Supplies	Saturday, February 15, 2014
-Central	9.039999999999997	-15.658	Office Supplies	Sunday, February 16, 2014
-East			Office Supplies	Sunday, February 16, 2014
-South			Office Supplies	Sunday, February 16, 2014
-West			Office Supplies	Sunday, February 16, 2014
-Central	54.208	8.808799999999998	Office Supplies	Monday, February 17, 2014
-East			Office Supplies	Monday, February 17, 2014
-South			Office Supplies	Monday, February 17, 2014
-West			Office Supplies	Monday, February 17, 2014
-Central	12.624	-2.5248	Office Supplies	Tuesday, February 18, 2014
-East			Office Supplies	Tuesday, February 18, 2014
-South			Office Supplies	Tuesday, February 18, 2014
-West			Office Supplies	Tuesday, February 18, 2014
-Central			Office Supplies	Thursday, February 20, 2014
-East			Office Supplies	Thursday, February 20, 2014
-South			Office Supplies	Thursday, February 20, 2014
-West	12.96	6.2208000000000006	Office Supplies	Thursday, February 20, 2014
-Central	8.849999999999998	-13.7175	Office Supplies	Friday, February 21, 2014
-East			Office Supplies	Friday, February 21, 2014
-South			Office Supplies	Friday, February 21, 2014
-West			Office Supplies	Friday, February 21, 2014
-Central			Office Supplies	Saturday, February 22, 2014
-East			Office Supplies	Saturday, February 22, 2014
-South			Office Supplies	Saturday, February 22, 2014
-West	19.44	9.3312	Office Supplies	Saturday, February 22, 2014
-Central	11.364	-4.5225	Office Supplies	Sunday, February 23, 2014
-East			Office Supplies	Sunday, February 23, 2014
-South			Office Supplies	Sunday, February 23, 2014
-West			Office Supplies	Sunday, February 23, 2014
-Central			Office Supplies	Monday, February 24, 2014
-East			Office Supplies	Monday, February 24, 2014
-South			Office Supplies	Monday, February 24, 2014
-West	55.672000000000004	18.789299999999997	Office Supplies	Monday, February 24, 2014
-Central			Office Supplies	Thursday, February 27, 2014
-East	19.456000000000003	3.404799999999998	Office Supplies	Thursday, February 27, 2014
-South			Office Supplies	Thursday, February 27, 2014
-West			Office Supplies	Thursday, February 27, 2014
-Central	303.216	-11.9412	Office Supplies	Saturday, March 01, 2014
-East			Office Supplies	Saturday, March 01, 2014
-South			Office Supplies	Saturday, March 01, 2014
-West			Office Supplies	Saturday, March 01, 2014
-Central			Office Supplies	Sunday, March 02, 2014
-East	51.184	23.8812	Office Supplies	Sunday, March 02, 2014
-South			Office Supplies	Sunday, March 02, 2014
-West			Office Supplies	Sunday, March 02, 2014
-Central	176.77199999999996	-459.6072	Office Supplies	Monday, March 03, 2014
-East	210.872	44.91329999999999	Office Supplies	Monday, March 03, 2014
-South	19.456000000000003	3.404799999999998	Office Supplies	Monday, March 03, 2014
-West			Office Supplies	Monday, March 03, 2014
-Central			Office Supplies	Tuesday, March 04, 2014
-East			Office Supplies	Tuesday, March 04, 2014
-South	370.45200000000006	20.07779999999996	Office Supplies	Tuesday, March 04, 2014
-West			Office Supplies	Tuesday, March 04, 2014
-Central			Office Supplies	Wednesday, March 05, 2014
-East	225.59199999999998	83.60119999999999	Office Supplies	Wednesday, March 05, 2014
-South			Office Supplies	Wednesday, March 05, 2014
-West			Office Supplies	Wednesday, March 05, 2014
-Central			Office Supplies	Friday, March 07, 2014
-East			Office Supplies	Friday, March 07, 2014
-South			Office Supplies	Friday, March 07, 2014
-West	594.078	52.6622	Office Supplies	Friday, March 07, 2014
-Central	22.38	10.7424	Office Supplies	Monday, March 10, 2014
-East			Office Supplies	Monday, March 10, 2014
-South			Office Supplies	Monday, March 10, 2014
-West	719.5760000000001	-6.5538	Office Supplies	Monday, March 10, 2014
-Central			Office Supplies	Tuesday, March 11, 2014
-East	119.384	50.7144	Office Supplies	Tuesday, March 11, 2014
-South	161.7	45.1794	Office Supplies	Tuesday, March 11, 2014
-West	7.98	2.0747999999999998	Office Supplies	Tuesday, March 11, 2014
-Central	8.448	2.6399999999999997	Office Supplies	Friday, March 14, 2014
-East			Office Supplies	Friday, March 14, 2014
-South	91.056	31.869599999999995	Office Supplies	Friday, March 14, 2014
-West	211.416	46.34179999999999	Office Supplies	Friday, March 14, 2014
-Central			Office Supplies	Saturday, March 15, 2014
-East			Office Supplies	Saturday, March 15, 2014
-South	325.086	28.457199999999986	Office Supplies	Saturday, March 15, 2014
-West			Office Supplies	Saturday, March 15, 2014
-Central	275.10400000000004	115.8478	Office Supplies	Monday, March 17, 2014
-East	316.524	133.5066	Office Supplies	Monday, March 17, 2014
-South	103.5	42.8123	Office Supplies	Monday, March 17, 2014
-West			Office Supplies	Monday, March 17, 2014
-Central			Office Supplies	Tuesday, March 18, 2014
-East			Office Supplies	Tuesday, March 18, 2014
-South	48.328	14.401099999999996	Office Supplies	Tuesday, March 18, 2014
-West	1856.19	334.11419999999987	Office Supplies	Tuesday, March 18, 2014
-Central			Office Supplies	Wednesday, March 19, 2014
-East			Office Supplies	Wednesday, March 19, 2014
-South	71.53800000000001	-19.7898	Office Supplies	Wednesday, March 19, 2014
-West			Office Supplies	Wednesday, March 19, 2014
-Central			Office Supplies	Friday, March 21, 2014
-East	13.456	2.7914000000000003	Office Supplies	Friday, March 21, 2014
-South	345.102	146.9287	Office Supplies	Friday, March 21, 2014
-West			Office Supplies	Friday, March 21, 2014
-Central	16.28	6.5120000000000005	Office Supplies	Saturday, March 22, 2014
-East			Office Supplies	Saturday, March 22, 2014
-South	59.109000000000016	-45.3169	Office Supplies	Saturday, March 22, 2014
-West	74.352	23.234999999999992	Office Supplies	Saturday, March 22, 2014
-Central			Office Supplies	Sunday, March 23, 2014
-East			Office Supplies	Sunday, March 23, 2014
-South	9.912	3.2213999999999996	Office Supplies	Sunday, March 23, 2014
-West	330.4	85.904	Office Supplies	Sunday, March 23, 2014
-Central			Office Supplies	Monday, March 24, 2014
-East	24.900000000000002	11.703000000000001	Office Supplies	Monday, March 24, 2014
-South			Office Supplies	Monday, March 24, 2014
-West			Office Supplies	Monday, March 24, 2014
-Central			Office Supplies	Tuesday, March 25, 2014
-East			Office Supplies	Tuesday, March 25, 2014
-South			Office Supplies	Tuesday, March 25, 2014
-West	46.88	15.544	Office Supplies	Tuesday, March 25, 2014
-Central			Office Supplies	Wednesday, March 26, 2014
-East			Office Supplies	Wednesday, March 26, 2014
-South			Office Supplies	Wednesday, March 26, 2014
-West	50.04600000000001	19.268399999999996	Office Supplies	Wednesday, March 26, 2014
-Central	6.12	2.8763999999999994	Office Supplies	Friday, March 28, 2014
-East			Office Supplies	Friday, March 28, 2014
-South			Office Supplies	Friday, March 28, 2014
-West			Office Supplies	Friday, March 28, 2014
-Central	465.02000000000004	119.77049999999998	Office Supplies	Sunday, March 30, 2014
-East	60.15	23.793000000000003	Office Supplies	Sunday, March 30, 2014
-South			Office Supplies	Sunday, March 30, 2014
-West	60.24000000000001	22.200000000000003	Office Supplies	Sunday, March 30, 2014
-Central	8.133999999999999	-13.8278	Office Supplies	Monday, March 31, 2014
-East	0.8520000000000001	-0.5964	Office Supplies	Monday, March 31, 2014
-South	18.546000000000003	-10.3659	Office Supplies	Monday, March 31, 2014
-West	726.5480000000001	267.4224	Office Supplies	Monday, March 31, 2014
-Central			Office Supplies	Tuesday, April 01, 2014
-East	73.19999999999999	5.735999999999996	Office Supplies	Tuesday, April 01, 2014
-South			Office Supplies	Tuesday, April 01, 2014
-West	46.688	20.3536	Office Supplies	Tuesday, April 01, 2014
-Central	60.20800000000001	19.817	Office Supplies	Wednesday, April 02, 2014
-East			Office Supplies	Wednesday, April 02, 2014
-South	170.74	47.402	Office Supplies	Wednesday, April 02, 2014
-West			Office Supplies	Wednesday, April 02, 2014
-Central			Office Supplies	Thursday, April 03, 2014
-East			Office Supplies	Thursday, April 03, 2014
-South			Office Supplies	Thursday, April 03, 2014
-West	11.16	5.58	Office Supplies	Thursday, April 03, 2014
-Central	79.36	23.807999999999993	Office Supplies	Friday, April 04, 2014
-East			Office Supplies	Friday, April 04, 2014
-South	264.95	24.983599999999996	Office Supplies	Friday, April 04, 2014
-West	26.084	11.316999999999998	Office Supplies	Friday, April 04, 2014
-Central	872.338	58.47390000000001	Office Supplies	Saturday, April 05, 2014
-East	55.48	26.630399999999998	Office Supplies	Saturday, April 05, 2014
-South	4338.289999999999	160.39300000000006	Office Supplies	Saturday, April 05, 2014
-West			Office Supplies	Saturday, April 05, 2014
-Central			Office Supplies	Sunday, April 06, 2014
-East	55.21400000000001	-38.1176	Office Supplies	Sunday, April 06, 2014
-South			Office Supplies	Sunday, April 06, 2014
-West	211.438	78.17699999999999	Office Supplies	Sunday, April 06, 2014
-Central			Office Supplies	Monday, April 07, 2014
-East			Office Supplies	Monday, April 07, 2014
-South	181.29000000000002	88.2489	Office Supplies	Monday, April 07, 2014
-West			Office Supplies	Monday, April 07, 2014
-Central			Office Supplies	Tuesday, April 08, 2014
-East			Office Supplies	Tuesday, April 08, 2014
-South			Office Supplies	Tuesday, April 08, 2014
-West	71.168	-4.1064	Office Supplies	Tuesday, April 08, 2014
-Central			Office Supplies	Friday, April 11, 2014
-East			Office Supplies	Friday, April 11, 2014
-South	17.28	5.9616	Office Supplies	Friday, April 11, 2014
-West	96.664	27.7368	Office Supplies	Friday, April 11, 2014
-Central	32.400000000000006	15.552000000000001	Office Supplies	Saturday, April 12, 2014
-East			Office Supplies	Saturday, April 12, 2014
-South			Office Supplies	Saturday, April 12, 2014
-West	57.768	22.825700000000005	Office Supplies	Saturday, April 12, 2014
-Central			Office Supplies	Sunday, April 13, 2014
-East	566.6480000000001	-393.1858	Office Supplies	Sunday, April 13, 2014
-South			Office Supplies	Sunday, April 13, 2014
-West			Office Supplies	Sunday, April 13, 2014
-Central			Office Supplies	Tuesday, April 15, 2014
-East			Office Supplies	Tuesday, April 15, 2014
-South			Office Supplies	Tuesday, April 15, 2014
-West	106.96	31.018399999999986	Office Supplies	Tuesday, April 15, 2014
-Central			Office Supplies	Wednesday, April 16, 2014
-East			Office Supplies	Wednesday, April 16, 2014
-South	39.072	9.768	Office Supplies	Wednesday, April 16, 2014
-West			Office Supplies	Wednesday, April 16, 2014
-Central	152.04	51.41429999999998	Office Supplies	Friday, April 18, 2014
-East			Office Supplies	Friday, April 18, 2014
-South			Office Supplies	Friday, April 18, 2014
-West	35.489999999999995	10.954499999999998	Office Supplies	Friday, April 18, 2014
-Central			Office Supplies	Saturday, April 19, 2014
-East			Office Supplies	Saturday, April 19, 2014
-South	129.33	60.9174	Office Supplies	Saturday, April 19, 2014
-West			Office Supplies	Saturday, April 19, 2014
-Central	44.84000000000001	5.604999999999995	Office Supplies	Sunday, April 20, 2014
-East			Office Supplies	Sunday, April 20, 2014
-South			Office Supplies	Sunday, April 20, 2014
-West			Office Supplies	Sunday, April 20, 2014
-Central			Office Supplies	Monday, April 21, 2014
-East			Office Supplies	Monday, April 21, 2014
-South	828.8399999999999	0	Office Supplies	Monday, April 21, 2014
-West	16.520000000000003	5.5755	Office Supplies	Monday, April 21, 2014
-Central			Office Supplies	Tuesday, April 22, 2014
-East	257.752	124.78689999999999	Office Supplies	Tuesday, April 22, 2014
-South			Office Supplies	Tuesday, April 22, 2014
-West			Office Supplies	Tuesday, April 22, 2014
-Central			Office Supplies	Wednesday, April 23, 2014
-East	9.990000000000002	-6.993	Office Supplies	Wednesday, April 23, 2014
-South			Office Supplies	Wednesday, April 23, 2014
-West	48.91	22.987699999999997	Office Supplies	Wednesday, April 23, 2014
-Central	16.608000000000004	4.174800000000001	Office Supplies	Friday, April 25, 2014
-East			Office Supplies	Friday, April 25, 2014
-South			Office Supplies	Friday, April 25, 2014
-West	270.71999999999997	78.50879999999997	Office Supplies	Friday, April 25, 2014
-Central			Office Supplies	Saturday, April 26, 2014
-East			Office Supplies	Saturday, April 26, 2014
-South			Office Supplies	Saturday, April 26, 2014
-West	52.288	17.716999999999995	Office Supplies	Saturday, April 26, 2014
-Central			Office Supplies	Monday, April 28, 2014
-East	738.536	108.57740000000001	Office Supplies	Monday, April 28, 2014
-South			Office Supplies	Monday, April 28, 2014
-West			Office Supplies	Monday, April 28, 2014
-Central			Office Supplies	Tuesday, April 29, 2014
-East			Office Supplies	Tuesday, April 29, 2014
-South	117.86000000000001	7.362199999999987	Office Supplies	Tuesday, April 29, 2014
-West			Office Supplies	Tuesday, April 29, 2014
-Central			Office Supplies	Wednesday, April 30, 2014
-East			Office Supplies	Wednesday, April 30, 2014
-South	1000.95	260.247	Office Supplies	Wednesday, April 30, 2014
-West			Office Supplies	Wednesday, April 30, 2014
-Central			Office Supplies	Friday, May 02, 2014
-East	26.136000000000003	1.9602000000000004	Office Supplies	Friday, May 02, 2014
-South			Office Supplies	Friday, May 02, 2014
-West			Office Supplies	Friday, May 02, 2014
-Central	21.560000000000002	10.348799999999999	Office Supplies	Saturday, May 03, 2014
-East	51.072	18.513599999999997	Office Supplies	Saturday, May 03, 2014
-South			Office Supplies	Saturday, May 03, 2014
-West			Office Supplies	Saturday, May 03, 2014
-Central	90.11199999999998	25.744799999999994	Office Supplies	Sunday, May 04, 2014
-East			Office Supplies	Sunday, May 04, 2014
-South			Office Supplies	Sunday, May 04, 2014
-West	57.68	19.034399999999998	Office Supplies	Sunday, May 04, 2014
-Central	45.248000000000005	3.959199999999999	Office Supplies	Monday, May 05, 2014
-East			Office Supplies	Monday, May 05, 2014
-South	87.86	39.6874	Office Supplies	Monday, May 05, 2014
-West			Office Supplies	Monday, May 05, 2014
-Central			Office Supplies	Tuesday, May 06, 2014
-East			Office Supplies	Tuesday, May 06, 2014
-South			Office Supplies	Tuesday, May 06, 2014
-West	254.456	85.7158	Office Supplies	Tuesday, May 06, 2014
-Central			Office Supplies	Wednesday, May 07, 2014
-East	24.78	10.4142	Office Supplies	Wednesday, May 07, 2014
-South			Office Supplies	Wednesday, May 07, 2014
-West			Office Supplies	Wednesday, May 07, 2014
-Central			Office Supplies	Friday, May 09, 2014
-East			Office Supplies	Friday, May 09, 2014
-South	158.70999999999998	50.7928	Office Supplies	Friday, May 09, 2014
-West			Office Supplies	Friday, May 09, 2014
-Central			Office Supplies	Saturday, May 10, 2014
-East	22.32	5.301	Office Supplies	Saturday, May 10, 2014
-South			Office Supplies	Saturday, May 10, 2014
-West	239.13	107.7453	Office Supplies	Saturday, May 10, 2014
-Central	122.05199999999999	-166.8786	Office Supplies	Sunday, May 11, 2014
-East	35.910000000000004	9.695699999999999	Office Supplies	Sunday, May 11, 2014
-South			Office Supplies	Sunday, May 11, 2014
-West			Office Supplies	Sunday, May 11, 2014
-Central			Office Supplies	Tuesday, May 13, 2014
-East			Office Supplies	Tuesday, May 13, 2014
-South	405.456	-329.5624	Office Supplies	Tuesday, May 13, 2014
-West	63.5	13.829999999999995	Office Supplies	Tuesday, May 13, 2014
-Central	91.67999999999999	45.839999999999996	Office Supplies	Saturday, May 17, 2014
-East			Office Supplies	Saturday, May 17, 2014
-South			Office Supplies	Saturday, May 17, 2014
-West			Office Supplies	Saturday, May 17, 2014
-Central	3.9840000000000004	1.4442000000000004	Office Supplies	Sunday, May 18, 2014
-East	15.936000000000002	5.7768000000000015	Office Supplies	Sunday, May 18, 2014
-South			Office Supplies	Sunday, May 18, 2014
-West			Office Supplies	Sunday, May 18, 2014
-Central	57.42	26.413199999999996	Office Supplies	Monday, May 19, 2014
-East			Office Supplies	Monday, May 19, 2014
-South	34.2	9.234	Office Supplies	Monday, May 19, 2014
-West			Office Supplies	Monday, May 19, 2014
-Central	77.328	-9.7632	Office Supplies	Tuesday, May 20, 2014
-East	71.80000000000001	21.2596	Office Supplies	Tuesday, May 20, 2014
-South			Office Supplies	Tuesday, May 20, 2014
-West			Office Supplies	Tuesday, May 20, 2014
-Central	79.136	-8.3532	Office Supplies	Wednesday, May 21, 2014
-East	711.6800000000001	297.0884	Office Supplies	Wednesday, May 21, 2014
-South	2715.9300000000003	1276.4871	Office Supplies	Wednesday, May 21, 2014
-West	31.84	10.507199999999997	Office Supplies	Wednesday, May 21, 2014
-Central			Office Supplies	Friday, May 23, 2014
-East	255.61	61.94720000000002	Office Supplies	Friday, May 23, 2014
-South			Office Supplies	Friday, May 23, 2014
-West	12.96	6.2208000000000006	Office Supplies	Friday, May 23, 2014
-Central			Office Supplies	Saturday, May 24, 2014
-East	116.28	56.977199999999996	Office Supplies	Saturday, May 24, 2014
-South			Office Supplies	Saturday, May 24, 2014
-West			Office Supplies	Saturday, May 24, 2014
-Central	75.59999999999998	-166.32	Office Supplies	Sunday, May 25, 2014
-East	14.62	6.725199999999999	Office Supplies	Sunday, May 25, 2014
-South			Office Supplies	Sunday, May 25, 2014
-West			Office Supplies	Sunday, May 25, 2014
-Central	116.01599999999999	10.877400000000003	Office Supplies	Monday, May 26, 2014
-East			Office Supplies	Monday, May 26, 2014
-South			Office Supplies	Monday, May 26, 2014
-West	48.4	23.232	Office Supplies	Monday, May 26, 2014
-Central	17.459999999999997	-30.555	Office Supplies	Tuesday, May 27, 2014
-East			Office Supplies	Tuesday, May 27, 2014
-South			Office Supplies	Tuesday, May 27, 2014
-West	359.32	7.186399999999992	Office Supplies	Tuesday, May 27, 2014
-Central			Office Supplies	Wednesday, May 28, 2014
-East			Office Supplies	Wednesday, May 28, 2014
-South			Office Supplies	Wednesday, May 28, 2014
-West	136.96	51.35999999999999	Office Supplies	Wednesday, May 28, 2014
-Central			Office Supplies	Friday, May 30, 2014
-East	371.862	131.18789999999998	Office Supplies	Friday, May 30, 2014
-South	13.620000000000001	6.129	Office Supplies	Friday, May 30, 2014
-West			Office Supplies	Friday, May 30, 2014
-Central	1947.8500000000001	653.0188999999999	Office Supplies	Sunday, June 01, 2014
-East	334.68000000000006	104.78879999999997	Office Supplies	Sunday, June 01, 2014
-South			Office Supplies	Sunday, June 01, 2014
-West			Office Supplies	Sunday, June 01, 2014
-Central			Office Supplies	Monday, June 02, 2014
-East			Office Supplies	Monday, June 02, 2014
-South	365.5	109.73559999999996	Office Supplies	Monday, June 02, 2014
-West	59.80800000000001	19.4376	Office Supplies	Monday, June 02, 2014
-Central	163.912	22.618599999999997	Office Supplies	Tuesday, June 03, 2014
-East			Office Supplies	Tuesday, June 03, 2014
-South			Office Supplies	Tuesday, June 03, 2014
-West			Office Supplies	Tuesday, June 03, 2014
-Central			Office Supplies	Wednesday, June 04, 2014
-East	31.784	9.9268	Office Supplies	Wednesday, June 04, 2014
-South			Office Supplies	Wednesday, June 04, 2014
-West			Office Supplies	Wednesday, June 04, 2014
-Central	138.812	0.4391999999999783	Office Supplies	Friday, June 06, 2014
-East	180.04399999999998	59.87069999999999	Office Supplies	Friday, June 06, 2014
-South	63.381	21.570800000000002	Office Supplies	Friday, June 06, 2014
-West			Office Supplies	Friday, June 06, 2014
-Central	12.461999999999996	-20.5623	Office Supplies	Saturday, June 07, 2014
-East			Office Supplies	Saturday, June 07, 2014
-South			Office Supplies	Saturday, June 07, 2014
-West			Office Supplies	Saturday, June 07, 2014
-Central			Office Supplies	Sunday, June 08, 2014
-East	1745.3600000000001	109.52399999999993	Office Supplies	Sunday, June 08, 2014
-South			Office Supplies	Sunday, June 08, 2014
-West			Office Supplies	Sunday, June 08, 2014
-Central	70.368	6.157200000000003	Office Supplies	Monday, June 09, 2014
-East			Office Supplies	Monday, June 09, 2014
-South			Office Supplies	Monday, June 09, 2014
-West	268.34400000000005	94.09129999999999	Office Supplies	Monday, June 09, 2014
-Central	491.55	240.8595	Office Supplies	Tuesday, June 10, 2014
-East			Office Supplies	Tuesday, June 10, 2014
-South			Office Supplies	Tuesday, June 10, 2014
-West			Office Supplies	Tuesday, June 10, 2014
-Central			Office Supplies	Friday, June 13, 2014
-East			Office Supplies	Friday, June 13, 2014
-South			Office Supplies	Friday, June 13, 2014
-West	14.52	4.7916	Office Supplies	Friday, June 13, 2014
-Central	45.112	-2.6888	Office Supplies	Sunday, June 15, 2014
-East			Office Supplies	Sunday, June 15, 2014
-South			Office Supplies	Sunday, June 15, 2014
-West			Office Supplies	Sunday, June 15, 2014
-Central			Office Supplies	Monday, June 16, 2014
-East	115.95200000000001	44.29559999999999	Office Supplies	Monday, June 16, 2014
-South			Office Supplies	Monday, June 16, 2014
-West			Office Supplies	Monday, June 16, 2014
-Central	62.016	22.480800000000002	Office Supplies	Tuesday, June 17, 2014
-East			Office Supplies	Tuesday, June 17, 2014
-South			Office Supplies	Tuesday, June 17, 2014
-West	3284.2760000000003	1070.5221999999999	Office Supplies	Tuesday, June 17, 2014
-Central	1015.5000000000002	34.47659999999997	Office Supplies	Friday, June 20, 2014
-East			Office Supplies	Friday, June 20, 2014
-South			Office Supplies	Friday, June 20, 2014
-West			Office Supplies	Friday, June 20, 2014
-Central			Office Supplies	Saturday, June 21, 2014
-East	182.828	48.28439999999999	Office Supplies	Saturday, June 21, 2014
-South	36.839999999999996	10.315199999999999	Office Supplies	Saturday, June 21, 2014
-West	36.252	-24.9072	Office Supplies	Saturday, June 21, 2014
-Central	663.75	9.716399999999993	Office Supplies	Sunday, June 22, 2014
-East			Office Supplies	Sunday, June 22, 2014
-South			Office Supplies	Sunday, June 22, 2014
-West	8.226	-6.0324	Office Supplies	Sunday, June 22, 2014
-Central			Office Supplies	Monday, June 23, 2014
-East			Office Supplies	Monday, June 23, 2014
-South	23.119999999999997	2.1006	Office Supplies	Monday, June 23, 2014
-West			Office Supplies	Monday, June 23, 2014
-Central			Office Supplies	Wednesday, June 25, 2014
-East			Office Supplies	Wednesday, June 25, 2014
-South			Office Supplies	Wednesday, June 25, 2014
-West	80.96000000000001	18.724200000000003	Office Supplies	Wednesday, June 25, 2014
-Central			Office Supplies	Friday, June 27, 2014
-East			Office Supplies	Friday, June 27, 2014
-South	306.2	0	Office Supplies	Friday, June 27, 2014
-West			Office Supplies	Friday, June 27, 2014
-Central	6.08	3.04	Office Supplies	Saturday, June 28, 2014
-East	411.246	106.722	Office Supplies	Saturday, June 28, 2014
-South			Office Supplies	Saturday, June 28, 2014
-West			Office Supplies	Saturday, June 28, 2014
-Central			Office Supplies	Sunday, June 29, 2014
-East	46.67999999999999	8.557499999999997	Office Supplies	Sunday, June 29, 2014
-South			Office Supplies	Sunday, June 29, 2014
-West			Office Supplies	Sunday, June 29, 2014
-Central	52.48000000000001	17.904799999999998	Office Supplies	Monday, June 30, 2014
-East	344.05600000000004	112.54359999999997	Office Supplies	Monday, June 30, 2014
-South	310.688	108.74079999999998	Office Supplies	Monday, June 30, 2014
-West	32.400000000000006	10.367999999999999	Office Supplies	Monday, June 30, 2014
-Central			Office Supplies	Tuesday, July 01, 2014
-East			Office Supplies	Tuesday, July 01, 2014
-South	5.184000000000001	-3.6288	Office Supplies	Tuesday, July 01, 2014
-West	19.92	6.9719999999999995	Office Supplies	Tuesday, July 01, 2014
-Central			Office Supplies	Wednesday, July 02, 2014
-East	5.58	2.1762	Office Supplies	Wednesday, July 02, 2014
-South			Office Supplies	Wednesday, July 02, 2014
-West			Office Supplies	Wednesday, July 02, 2014
-Central			Office Supplies	Friday, July 04, 2014
-East			Office Supplies	Friday, July 04, 2014
-South	37.44	18.564	Office Supplies	Friday, July 04, 2014
-West	209.96800000000002	65.3808	Office Supplies	Friday, July 04, 2014
-Central	502.20000000000005	-79.3332	Office Supplies	Saturday, July 05, 2014
-East			Office Supplies	Saturday, July 05, 2014
-South	48.23800000000001	9.717800000000004	Office Supplies	Saturday, July 05, 2014
-West	180.96000000000004	67.86	Office Supplies	Saturday, July 05, 2014
-Central			Office Supplies	Tuesday, July 08, 2014
-East			Office Supplies	Tuesday, July 08, 2014
-South			Office Supplies	Tuesday, July 08, 2014
-West	196.704	68.84639999999997	Office Supplies	Tuesday, July 08, 2014
-Central	24.720000000000006	8.1138	Office Supplies	Wednesday, July 09, 2014
-East			Office Supplies	Wednesday, July 09, 2014
-South			Office Supplies	Wednesday, July 09, 2014
-West	120.96800000000002	42.044999999999995	Office Supplies	Wednesday, July 09, 2014
-Central	10.368000000000002	3.6288	Office Supplies	Friday, July 11, 2014
-East	259	119.82439999999998	Office Supplies	Friday, July 11, 2014
-South			Office Supplies	Friday, July 11, 2014
-West			Office Supplies	Friday, July 11, 2014
-Central	77.664	23.076200000000004	Office Supplies	Saturday, July 12, 2014
-East			Office Supplies	Saturday, July 12, 2014
-South			Office Supplies	Saturday, July 12, 2014
-West	268.726	51.55219999999998	Office Supplies	Saturday, July 12, 2014
-Central	29.93199999999999	-46.3946	Office Supplies	Monday, July 14, 2014
-East	99.004	20.217599999999997	Office Supplies	Monday, July 14, 2014
-South			Office Supplies	Monday, July 14, 2014
-West	55.92	6.291	Office Supplies	Monday, July 14, 2014
-Central	6.540000000000001	2.6814000000000004	Office Supplies	Tuesday, July 15, 2014
-East			Office Supplies	Tuesday, July 15, 2014
-South			Office Supplies	Tuesday, July 15, 2014
-West			Office Supplies	Tuesday, July 15, 2014
-Central			Office Supplies	Friday, July 18, 2014
-East	13.904	4.5188	Office Supplies	Friday, July 18, 2014
-South			Office Supplies	Friday, July 18, 2014
-West			Office Supplies	Friday, July 18, 2014
-Central			Office Supplies	Saturday, July 19, 2014
-East	24.689999999999998	11.433599999999998	Office Supplies	Saturday, July 19, 2014
-South			Office Supplies	Saturday, July 19, 2014
-West	6.096	2.2098	Office Supplies	Saturday, July 19, 2014
-Central	342.86400000000003	38.57219999999995	Office Supplies	Sunday, July 20, 2014
-East	53.344	-27.0848	Office Supplies	Sunday, July 20, 2014
-South			Office Supplies	Sunday, July 20, 2014
-West	806.506	274.5400999999999	Office Supplies	Sunday, July 20, 2014
-Central	93.956	14.866800000000001	Office Supplies	Monday, July 21, 2014
-East			Office Supplies	Monday, July 21, 2014
-South			Office Supplies	Monday, July 21, 2014
-West	99.2	25.792	Office Supplies	Monday, July 21, 2014
-Central	26.632	1.331599999999999	Office Supplies	Tuesday, July 22, 2014
-East	5.96	1.6688	Office Supplies	Tuesday, July 22, 2014
-South			Office Supplies	Tuesday, July 22, 2014
-West	267.7	78.30499999999999	Office Supplies	Tuesday, July 22, 2014
-Central			Office Supplies	Wednesday, July 23, 2014
-East			Office Supplies	Wednesday, July 23, 2014
-South			Office Supplies	Wednesday, July 23, 2014
-West	58.10000000000001	7.014999999999999	Office Supplies	Wednesday, July 23, 2014
-Central			Office Supplies	Friday, July 25, 2014
-East			Office Supplies	Friday, July 25, 2014
-South			Office Supplies	Friday, July 25, 2014
-West	8263.369999999999	350.22359999999964	Office Supplies	Friday, July 25, 2014
-Central	2331.6359999999995	-3783.5008	Office Supplies	Saturday, July 26, 2014
-East			Office Supplies	Saturday, July 26, 2014
-South	162.89	76.55829999999999	Office Supplies	Saturday, July 26, 2014
-West			Office Supplies	Saturday, July 26, 2014
-Central			Office Supplies	Sunday, July 27, 2014
-East	65.78	32.2322	Office Supplies	Sunday, July 27, 2014
-South			Office Supplies	Sunday, July 27, 2014
-West	276.28	0	Office Supplies	Sunday, July 27, 2014
-Central			Office Supplies	Monday, July 28, 2014
-East			Office Supplies	Monday, July 28, 2014
-South	63.264	21.709600000000002	Office Supplies	Monday, July 28, 2014
-West			Office Supplies	Monday, July 28, 2014
-Central			Office Supplies	Friday, August 01, 2014
-East	5.68	1.9169999999999998	Office Supplies	Friday, August 01, 2014
-South	158.76800000000003	45.50959999999999	Office Supplies	Friday, August 01, 2014
-West	19.752000000000002	6.9132	Office Supplies	Friday, August 01, 2014
-Central	865.08	238.91160000000005	Office Supplies	Saturday, August 02, 2014
-East			Office Supplies	Saturday, August 02, 2014
-South			Office Supplies	Saturday, August 02, 2014
-West			Office Supplies	Saturday, August 02, 2014
-Central			Office Supplies	Sunday, August 03, 2014
-East	163.62	51.14640000000001	Office Supplies	Sunday, August 03, 2014
-South			Office Supplies	Sunday, August 03, 2014
-West	95.624	34.01369999999999	Office Supplies	Sunday, August 03, 2014
-Central			Office Supplies	Monday, August 04, 2014
-East	361.7	152.20440000000002	Office Supplies	Monday, August 04, 2014
-South			Office Supplies	Monday, August 04, 2014
-West	1726.0739999999998	541.5598	Office Supplies	Monday, August 04, 2014
-Central			Office Supplies	Tuesday, August 05, 2014
-East	99.99	31.280400000000004	Office Supplies	Tuesday, August 05, 2014
-South			Office Supplies	Tuesday, August 05, 2014
-West	193.66	76.6082	Office Supplies	Tuesday, August 05, 2014
-Central	205.875	54.48299999999998	Office Supplies	Friday, August 08, 2014
-East			Office Supplies	Friday, August 08, 2014
-South			Office Supplies	Friday, August 08, 2014
-West	499.4	132.12759999999997	Office Supplies	Friday, August 08, 2014
-Central			Office Supplies	Saturday, August 09, 2014
-East			Office Supplies	Saturday, August 09, 2014
-South	15.552000000000003	5.4432	Office Supplies	Saturday, August 09, 2014
-West	2101.413	648.7882	Office Supplies	Saturday, August 09, 2014
-Central			Office Supplies	Monday, August 11, 2014
-East	375.34	18.766999999999996	Office Supplies	Monday, August 11, 2014
-South			Office Supplies	Monday, August 11, 2014
-West	63.93	21.4434	Office Supplies	Monday, August 11, 2014
-Central			Office Supplies	Tuesday, August 12, 2014
-East	196.21	98.105	Office Supplies	Tuesday, August 12, 2014
-South	312.85599999999994	37.62099999999999	Office Supplies	Tuesday, August 12, 2014
-West			Office Supplies	Tuesday, August 12, 2014
-Central	30.959999999999994	-52.632	Office Supplies	Friday, August 15, 2014
-East	62.94	30.211199999999998	Office Supplies	Friday, August 15, 2014
-South	243.60000000000002	46.81899999999998	Office Supplies	Friday, August 15, 2014
-West	310.146	105.9804	Office Supplies	Friday, August 15, 2014
-Central	15.552000000000003	5.4432	Office Supplies	Sunday, August 17, 2014
-East			Office Supplies	Sunday, August 17, 2014
-South	144.83	65.3548	Office Supplies	Sunday, August 17, 2014
-West			Office Supplies	Sunday, August 17, 2014
-Central			Office Supplies	Tuesday, August 19, 2014
-East	96.68	-55.9716	Office Supplies	Tuesday, August 19, 2014
-South	344.90999999999997	10.347300000000004	Office Supplies	Tuesday, August 19, 2014
-West	69.456	22.573199999999996	Office Supplies	Tuesday, August 19, 2014
-Central			Office Supplies	Wednesday, August 20, 2014
-East			Office Supplies	Wednesday, August 20, 2014
-South	917.11	430.84049999999996	Office Supplies	Wednesday, August 20, 2014
-West			Office Supplies	Wednesday, August 20, 2014
-Central	11.56	5.6644000000000005	Office Supplies	Friday, August 22, 2014
-East	3.912	1.0269000000000001	Office Supplies	Friday, August 22, 2014
-South	7.6320000000000014	-1.8126	Office Supplies	Friday, August 22, 2014
-West			Office Supplies	Friday, August 22, 2014
-Central	19.44	9.5256	Office Supplies	Saturday, August 23, 2014
-East	71.84	34.942400000000006	Office Supplies	Saturday, August 23, 2014
-South			Office Supplies	Saturday, August 23, 2014
-West	326.08	103.89339999999999	Office Supplies	Saturday, August 23, 2014
-Central			Office Supplies	Sunday, August 24, 2014
-East	12.672	4.435200000000001	Office Supplies	Sunday, August 24, 2014
-South	25.5	6.63	Office Supplies	Sunday, August 24, 2014
-West	8.288	2.693599999999999	Office Supplies	Sunday, August 24, 2014
-Central	38.06399999999999	-59.6184	Office Supplies	Monday, August 25, 2014
-East	229.50199999999998	44.1669	Office Supplies	Monday, August 25, 2014
-South			Office Supplies	Monday, August 25, 2014
-West	74.76	25.628400000000006	Office Supplies	Monday, August 25, 2014
-Central			Office Supplies	Tuesday, August 26, 2014
-East	29.36	12.557	Office Supplies	Tuesday, August 26, 2014
-South			Office Supplies	Tuesday, August 26, 2014
-West			Office Supplies	Tuesday, August 26, 2014
-Central			Office Supplies	Wednesday, August 27, 2014
-East			Office Supplies	Wednesday, August 27, 2014
-South	13.36	6.4128	Office Supplies	Wednesday, August 27, 2014
-West	31.28	9.866399999999999	Office Supplies	Wednesday, August 27, 2014
-Central			Office Supplies	Friday, August 29, 2014
-East			Office Supplies	Friday, August 29, 2014
-South	534.9840000000002	-325.9786	Office Supplies	Friday, August 29, 2014
-West	123.28	60.273599999999995	Office Supplies	Friday, August 29, 2014
-Central			Office Supplies	Saturday, August 30, 2014
-East	121.24	21.485	Office Supplies	Saturday, August 30, 2014
-South			Office Supplies	Saturday, August 30, 2014
-West			Office Supplies	Saturday, August 30, 2014
-Central	34.752	4.867199999999997	Office Supplies	Monday, September 01, 2014
-East	23.744	8.3104	Office Supplies	Monday, September 01, 2014
-South			Office Supplies	Monday, September 01, 2014
-West	53.94	15.642599999999995	Office Supplies	Monday, September 01, 2014
-Central			Office Supplies	Tuesday, September 02, 2014
-East	113.83	40.218	Office Supplies	Tuesday, September 02, 2014
-South	1793.98	843.1705999999999	Office Supplies	Tuesday, September 02, 2014
-West			Office Supplies	Tuesday, September 02, 2014
-Central	7.679999999999998	-11.52	Office Supplies	Wednesday, September 03, 2014
-East	14.399999999999999	7.056	Office Supplies	Wednesday, September 03, 2014
-South			Office Supplies	Wednesday, September 03, 2014
-West			Office Supplies	Wednesday, September 03, 2014
-Central			Office Supplies	Friday, September 05, 2014
-East	264.32	19.823999999999998	Office Supplies	Friday, September 05, 2014
-South			Office Supplies	Friday, September 05, 2014
-West			Office Supplies	Friday, September 05, 2014
-Central			Office Supplies	Saturday, September 06, 2014
-East			Office Supplies	Saturday, September 06, 2014
-South			Office Supplies	Saturday, September 06, 2014
-West	58.48	27.485599999999998	Office Supplies	Saturday, September 06, 2014
-Central	454.45199999999994	-489.903	Office Supplies	Sunday, September 07, 2014
-East	64.784	-14.5764	Office Supplies	Sunday, September 07, 2014
-South			Office Supplies	Sunday, September 07, 2014
-West	131.84000000000003	48.520399999999995	Office Supplies	Sunday, September 07, 2014
-Central	747.108	-514.5437	Office Supplies	Monday, September 08, 2014
-East	20.3	5.884600000000001	Office Supplies	Monday, September 08, 2014
-South	45	21.599999999999998	Office Supplies	Monday, September 08, 2014
-West	879.848	146.76689999999994	Office Supplies	Monday, September 08, 2014
-Central	114.49600000000001	55.205000000000005	Office Supplies	Tuesday, September 09, 2014
-East	1564.8580000000002	339.5217999999999	Office Supplies	Tuesday, September 09, 2014
-South			Office Supplies	Tuesday, September 09, 2014
-West			Office Supplies	Tuesday, September 09, 2014
-Central			Office Supplies	Wednesday, September 10, 2014
-East	81.92	22.1184	Office Supplies	Wednesday, September 10, 2014
-South	9.64	4.7236	Office Supplies	Wednesday, September 10, 2014
-West	21.728	7.604799999999999	Office Supplies	Wednesday, September 10, 2014
-Central	695.0699999999999	148.5116	Office Supplies	Friday, September 12, 2014
-East	63.92400000000001	-46.8776	Office Supplies	Friday, September 12, 2014
-South	177.208	22.398299999999985	Office Supplies	Friday, September 12, 2014
-West			Office Supplies	Friday, September 12, 2014
-Central			Office Supplies	Saturday, September 13, 2014
-East	23.514000000000003	4.915800000000001	Office Supplies	Saturday, September 13, 2014
-South	18.648000000000003	-12.432	Office Supplies	Saturday, September 13, 2014
-West	164	45.037800000000004	Office Supplies	Saturday, September 13, 2014
-Central	94.05599999999998	-137.472	Office Supplies	Sunday, September 14, 2014
-East	1174.8	265.0612	Office Supplies	Sunday, September 14, 2014
-South	20.16	4.736800000000001	Office Supplies	Sunday, September 14, 2014
-West			Office Supplies	Sunday, September 14, 2014
-Central			Office Supplies	Monday, September 15, 2014
-East	14.940000000000001	7.021800000000001	Office Supplies	Monday, September 15, 2014
-South			Office Supplies	Monday, September 15, 2014
-West			Office Supplies	Monday, September 15, 2014
-Central			Office Supplies	Tuesday, September 16, 2014
-East	33.552	12.581999999999999	Office Supplies	Tuesday, September 16, 2014
-South			Office Supplies	Tuesday, September 16, 2014
-West			Office Supplies	Tuesday, September 16, 2014
-Central			Office Supplies	Wednesday, September 17, 2014
-East	5.892000000000001	-4.1244	Office Supplies	Wednesday, September 17, 2014
-South	4.6240000000000006	1.6762000000000001	Office Supplies	Wednesday, September 17, 2014
-West	640.838	214.52109999999996	Office Supplies	Wednesday, September 17, 2014
-Central			Office Supplies	Friday, September 19, 2014
-East			Office Supplies	Friday, September 19, 2014
-South	67.344	7.576199999999989	Office Supplies	Friday, September 19, 2014
-West	105.35	28.673800000000007	Office Supplies	Friday, September 19, 2014
-Central			Office Supplies	Saturday, September 20, 2014
-East	106.16	43.389399999999995	Office Supplies	Saturday, September 20, 2014
-South	2.8160000000000003	0.9855999999999999	Office Supplies	Saturday, September 20, 2014
-West	104.392	37.510200000000005	Office Supplies	Saturday, September 20, 2014
-Central	68.71	21.519799999999996	Office Supplies	Sunday, September 21, 2014
-East	104.76000000000002	23.2686	Office Supplies	Sunday, September 21, 2014
-South			Office Supplies	Sunday, September 21, 2014
-West	211.3	86.4284	Office Supplies	Sunday, September 21, 2014
-Central	331.536	-82.884	Office Supplies	Monday, September 22, 2014
-East	17.024	7.132000000000001	Office Supplies	Monday, September 22, 2014
-South	4.608	1.6704	Office Supplies	Monday, September 22, 2014
-West	210.13	42.769299999999994	Office Supplies	Monday, September 22, 2014
-Central	9900.19	4668.6935	Office Supplies	Tuesday, September 23, 2014
-East	242.164	87.89239999999998	Office Supplies	Tuesday, September 23, 2014
-South			Office Supplies	Tuesday, September 23, 2014
-West			Office Supplies	Tuesday, September 23, 2014
-Central			Office Supplies	Wednesday, September 24, 2014
-East			Office Supplies	Wednesday, September 24, 2014
-South			Office Supplies	Wednesday, September 24, 2014
-West	211.96	8.478399999999993	Office Supplies	Wednesday, September 24, 2014
-Central	39.78	7.303199999999997	Office Supplies	Thursday, September 25, 2014
-East			Office Supplies	Thursday, September 25, 2014
-South			Office Supplies	Thursday, September 25, 2014
-West	14.576	2.368599999999999	Office Supplies	Thursday, September 25, 2014
-Central	0.8759999999999998	-1.4016	Office Supplies	Friday, September 26, 2014
-East	240.898	25.27660000000001	Office Supplies	Friday, September 26, 2014
-South			Office Supplies	Friday, September 26, 2014
-West	329.56	89.9624	Office Supplies	Friday, September 26, 2014
-Central			Office Supplies	Saturday, September 27, 2014
-East			Office Supplies	Saturday, September 27, 2014
-South			Office Supplies	Saturday, September 27, 2014
-West	81.98	40.1702	Office Supplies	Saturday, September 27, 2014
-Central			Office Supplies	Sunday, September 28, 2014
-East	46.26	12.490200000000003	Office Supplies	Sunday, September 28, 2014
-South	106.944	35.02399999999999	Office Supplies	Sunday, September 28, 2014
-West			Office Supplies	Sunday, September 28, 2014
-Central			Office Supplies	Monday, September 29, 2014
-East	3374.184	98.01120000000002	Office Supplies	Monday, September 29, 2014
-South			Office Supplies	Monday, September 29, 2014
-West	895.178	179.3891	Office Supplies	Monday, September 29, 2014
-Central			Office Supplies	Tuesday, September 30, 2014
-East	844.3480000000002	84.12559999999999	Office Supplies	Tuesday, September 30, 2014
-South	84.76800000000001	16.690799999999996	Office Supplies	Tuesday, September 30, 2014
-West	43.176	13.4925	Office Supplies	Tuesday, September 30, 2014
-Central			Office Supplies	Wednesday, October 01, 2014
-East			Office Supplies	Wednesday, October 01, 2014
-South			Office Supplies	Wednesday, October 01, 2014
-West	4.71	0	Office Supplies	Wednesday, October 01, 2014
-Central			Office Supplies	Thursday, October 02, 2014
-East			Office Supplies	Thursday, October 02, 2014
-South			Office Supplies	Thursday, October 02, 2014
-West	42.208	6.234800000000002	Office Supplies	Thursday, October 02, 2014
-Central	26.132	-4.214	Office Supplies	Friday, October 03, 2014
-East	70.46400000000001	9.085799999999997	Office Supplies	Friday, October 03, 2014
-South	67.75999999999999	5.082	Office Supplies	Friday, October 03, 2014
-West			Office Supplies	Friday, October 03, 2014
-Central			Office Supplies	Saturday, October 04, 2014
-East			Office Supplies	Saturday, October 04, 2014
-South			Office Supplies	Saturday, October 04, 2014
-West	139.33800000000002	51.61989999999999	Office Supplies	Saturday, October 04, 2014
-Central			Office Supplies	Sunday, October 05, 2014
-East	91.92	11.489999999999991	Office Supplies	Sunday, October 05, 2014
-South			Office Supplies	Sunday, October 05, 2014
-West			Office Supplies	Sunday, October 05, 2014
-Central	401.7	61.76760000000001	Office Supplies	Monday, October 06, 2014
-East	83.92000000000002	-13.637	Office Supplies	Monday, October 06, 2014
-South			Office Supplies	Monday, October 06, 2014
-West			Office Supplies	Monday, October 06, 2014
-Central	107.44	10.744000000000007	Office Supplies	Tuesday, October 07, 2014
-East			Office Supplies	Tuesday, October 07, 2014
-South			Office Supplies	Tuesday, October 07, 2014
-West			Office Supplies	Tuesday, October 07, 2014
-Central			Office Supplies	Wednesday, October 08, 2014
-East	123.92	55.763999999999996	Office Supplies	Wednesday, October 08, 2014
-South			Office Supplies	Wednesday, October 08, 2014
-West			Office Supplies	Wednesday, October 08, 2014
-Central			Office Supplies	Thursday, October 09, 2014
-East			Office Supplies	Thursday, October 09, 2014
-South	88.768	31.068799999999996	Office Supplies	Thursday, October 09, 2014
-West	144.60000000000002	41.93399999999998	Office Supplies	Thursday, October 09, 2014
-Central	12.877999999999997	-20.7395	Office Supplies	Friday, October 10, 2014
-East	18.264000000000003	-13.3936	Office Supplies	Friday, October 10, 2014
-South			Office Supplies	Friday, October 10, 2014
-West	271.12999999999994	120.06120000000001	Office Supplies	Friday, October 10, 2014
-Central			Office Supplies	Saturday, October 11, 2014
-East	483.336	78.55469999999997	Office Supplies	Saturday, October 11, 2014
-South	7.31	3.4356999999999998	Office Supplies	Saturday, October 11, 2014
-West	39.56	12.0428	Office Supplies	Saturday, October 11, 2014
-Central	22.240000000000002	2.501999999999997	Office Supplies	Sunday, October 12, 2014
-East			Office Supplies	Sunday, October 12, 2014
-South			Office Supplies	Sunday, October 12, 2014
-West	36.29	10.3751	Office Supplies	Sunday, October 12, 2014
-Central			Office Supplies	Monday, October 13, 2014
-East	26.692	12.280100000000001	Office Supplies	Monday, October 13, 2014
-South	366.78	30.91060000000003	Office Supplies	Monday, October 13, 2014
-West	225.44	65.26239999999997	Office Supplies	Monday, October 13, 2014
-Central	347.4340000000001	94.22889999999998	Office Supplies	Tuesday, October 14, 2014
-East	372.27	49.441599999999994	Office Supplies	Tuesday, October 14, 2014
-South			Office Supplies	Tuesday, October 14, 2014
-West			Office Supplies	Tuesday, October 14, 2014
-Central			Office Supplies	Wednesday, October 15, 2014
-East	7.968000000000001	2.8884000000000007	Office Supplies	Wednesday, October 15, 2014
-South			Office Supplies	Wednesday, October 15, 2014
-West			Office Supplies	Wednesday, October 15, 2014
-Central			Office Supplies	Thursday, October 16, 2014
-East			Office Supplies	Thursday, October 16, 2014
-South			Office Supplies	Thursday, October 16, 2014
-West	14.352000000000002	5.023199999999999	Office Supplies	Thursday, October 16, 2014
-Central	10.779999999999996	-17.248	Office Supplies	Friday, October 17, 2014
-East			Office Supplies	Friday, October 17, 2014
-South			Office Supplies	Friday, October 17, 2014
-West			Office Supplies	Friday, October 17, 2014
-Central			Office Supplies	Saturday, October 18, 2014
-East	249.472	-12.214	Office Supplies	Saturday, October 18, 2014
-South	275.96999999999997	11.03879999999998	Office Supplies	Saturday, October 18, 2014
-West	63.304	28.3524	Office Supplies	Saturday, October 18, 2014
-Central			Office Supplies	Sunday, October 19, 2014
-East			Office Supplies	Sunday, October 19, 2014
-South			Office Supplies	Sunday, October 19, 2014
-West	201.97599999999997	92.6931	Office Supplies	Sunday, October 19, 2014
-Central	754.1940000000001	34.476899999999944	Office Supplies	Monday, October 20, 2014
-East			Office Supplies	Monday, October 20, 2014
-South	98.352	-24.588	Office Supplies	Monday, October 20, 2014
-West			Office Supplies	Monday, October 20, 2014
-Central			Office Supplies	Tuesday, October 21, 2014
-East	121.79200000000002	13.701599999999988	Office Supplies	Tuesday, October 21, 2014
-South	197.54	10.615399999999978	Office Supplies	Tuesday, October 21, 2014
-West	36.36	12.2715	Office Supplies	Tuesday, October 21, 2014
-Central			Office Supplies	Friday, October 24, 2014
-East			Office Supplies	Friday, October 24, 2014
-South	22.218000000000004	7.4208	Office Supplies	Friday, October 24, 2014
-West	34.272	11.138399999999999	Office Supplies	Friday, October 24, 2014
-Central			Office Supplies	Saturday, October 25, 2014
-East	13.698000000000002	-9.5886	Office Supplies	Saturday, October 25, 2014
-South			Office Supplies	Saturday, October 25, 2014
-West	49.408	18.528	Office Supplies	Saturday, October 25, 2014
-Central			Office Supplies	Monday, October 27, 2014
-East			Office Supplies	Monday, October 27, 2014
-South	22.320000000000004	7.6626	Office Supplies	Monday, October 27, 2014
-West			Office Supplies	Monday, October 27, 2014
-Central			Office Supplies	Tuesday, October 28, 2014
-East			Office Supplies	Tuesday, October 28, 2014
-South			Office Supplies	Tuesday, October 28, 2014
-West	635.6039999999999	54.90800000000002	Office Supplies	Tuesday, October 28, 2014
-Central	75.88	35.663599999999995	Office Supplies	Wednesday, October 29, 2014
-East			Office Supplies	Wednesday, October 29, 2014
-South			Office Supplies	Wednesday, October 29, 2014
-West			Office Supplies	Wednesday, October 29, 2014
-Central			Office Supplies	Friday, October 31, 2014
-East	93.49	39.167	Office Supplies	Friday, October 31, 2014
-South			Office Supplies	Friday, October 31, 2014
-West	609.674	83.82759999999999	Office Supplies	Friday, October 31, 2014
-Central	15.696000000000002	5.1011999999999995	Office Supplies	Saturday, November 01, 2014
-East	803.56	238.6555999999999	Office Supplies	Saturday, November 01, 2014
-South	140.76	38.9476	Office Supplies	Saturday, November 01, 2014
-West	552.8960000000001	-58.1854	Office Supplies	Saturday, November 01, 2014
-Central			Office Supplies	Sunday, November 02, 2014
-East	54.102000000000004	2.5661999999999985	Office Supplies	Sunday, November 02, 2014
-South			Office Supplies	Sunday, November 02, 2014
-West	362.92	105.24679999999995	Office Supplies	Sunday, November 02, 2014
-Central			Office Supplies	Monday, November 03, 2014
-East	360.49600000000004	-37.0456	Office Supplies	Monday, November 03, 2014
-South	187.62900000000002	37.61719999999999	Office Supplies	Monday, November 03, 2014
-West	6.72	3.36	Office Supplies	Monday, November 03, 2014
-Central			Office Supplies	Tuesday, November 04, 2014
-East	95.634	31.944199999999995	Office Supplies	Tuesday, November 04, 2014
-South	66.61600000000001	7.8182	Office Supplies	Tuesday, November 04, 2014
-West	44.316	18.351	Office Supplies	Tuesday, November 04, 2014
-Central			Office Supplies	Wednesday, November 05, 2014
-East	1093.29	-103.3044	Office Supplies	Wednesday, November 05, 2014
-South			Office Supplies	Wednesday, November 05, 2014
-West			Office Supplies	Wednesday, November 05, 2014
-Central			Office Supplies	Thursday, November 06, 2014
-East			Office Supplies	Thursday, November 06, 2014
-South	43.68	20.9664	Office Supplies	Thursday, November 06, 2014
-West			Office Supplies	Thursday, November 06, 2014
-Central	460.066	74.4533	Office Supplies	Friday, November 07, 2014
-East	36.1	16.7244	Office Supplies	Friday, November 07, 2014
-South			Office Supplies	Friday, November 07, 2014
-West	269.832	64.30859999999998	Office Supplies	Friday, November 07, 2014
-Central			Office Supplies	Sunday, November 09, 2014
-East			Office Supplies	Sunday, November 09, 2014
-South			Office Supplies	Sunday, November 09, 2014
-West	590.9399999999999	102.73659999999998	Office Supplies	Sunday, November 09, 2014
-Central	630.93	187.0085999999999	Office Supplies	Monday, November 10, 2014
-East			Office Supplies	Monday, November 10, 2014
-South			Office Supplies	Monday, November 10, 2014
-West	102.08000000000001	46.334399999999995	Office Supplies	Monday, November 10, 2014
-Central	1915.7199999999998	-1358.964	Office Supplies	Tuesday, November 11, 2014
-East	277.57	133.6953	Office Supplies	Tuesday, November 11, 2014
-South			Office Supplies	Tuesday, November 11, 2014
-West	2222.136	836.0052000000001	Office Supplies	Tuesday, November 11, 2014
-Central	105.24800000000002	14.875	Office Supplies	Wednesday, November 12, 2014
-East			Office Supplies	Wednesday, November 12, 2014
-South	7.872	0.8855999999999988	Office Supplies	Wednesday, November 12, 2014
-West	11.96	5.8604	Office Supplies	Wednesday, November 12, 2014
-Central	44.976000000000006	19.2624	Office Supplies	Friday, November 14, 2014
-East	55.16	26.249599999999997	Office Supplies	Friday, November 14, 2014
-South	32.400000000000006	15.552000000000001	Office Supplies	Friday, November 14, 2014
-West			Office Supplies	Friday, November 14, 2014
-Central	604.6560000000001	204.07139999999995	Office Supplies	Saturday, November 15, 2014
-East			Office Supplies	Saturday, November 15, 2014
-South	362.17600000000004	37.39760000000001	Office Supplies	Saturday, November 15, 2014
-West	31.41	8.604600000000001	Office Supplies	Saturday, November 15, 2014
-Central	308.59999999999997	107.71179999999998	Office Supplies	Sunday, November 16, 2014
-East			Office Supplies	Sunday, November 16, 2014
-South			Office Supplies	Sunday, November 16, 2014
-West	350.13	12.748500000000003	Office Supplies	Sunday, November 16, 2014
-Central	7.080000000000001	2.477999999999999	Office Supplies	Monday, November 17, 2014
-East	5191.744000000001	1566.506	Office Supplies	Monday, November 17, 2014
-South			Office Supplies	Monday, November 17, 2014
-West	975.3899999999999	424.72799999999995	Office Supplies	Monday, November 17, 2014
-Central	466.242	-78.8219	Office Supplies	Tuesday, November 18, 2014
-East	141.541	-67.2007	Office Supplies	Tuesday, November 18, 2014
-South			Office Supplies	Tuesday, November 18, 2014
-West	57.788	22.4238	Office Supplies	Tuesday, November 18, 2014
-Central	221.16	57.501599999999996	Office Supplies	Wednesday, November 19, 2014
-East	251.42000000000002	119.6445	Office Supplies	Wednesday, November 19, 2014
-South			Office Supplies	Wednesday, November 19, 2014
-West	166.44	79.8912	Office Supplies	Wednesday, November 19, 2014
-Central			Office Supplies	Thursday, November 20, 2014
-East	73.62	34.3476	Office Supplies	Thursday, November 20, 2014
-South			Office Supplies	Thursday, November 20, 2014
-West			Office Supplies	Thursday, November 20, 2014
-Central	1.6320000000000001	0.5507999999999998	Office Supplies	Friday, November 21, 2014
-East			Office Supplies	Friday, November 21, 2014
-South	828.51	313.13969999999995	Office Supplies	Friday, November 21, 2014
-West	19.54	9.2476	Office Supplies	Friday, November 21, 2014
-Central	16.907999999999994	-27.5518	Office Supplies	Saturday, November 22, 2014
-East			Office Supplies	Saturday, November 22, 2014
-South	1032.57	465.22490000000005	Office Supplies	Saturday, November 22, 2014
-West	53.82000000000001	24.218999999999998	Office Supplies	Saturday, November 22, 2014
-Central	72.526	-71.5206	Office Supplies	Sunday, November 23, 2014
-East	62.80800000000001	21.1977	Office Supplies	Sunday, November 23, 2014
-South			Office Supplies	Sunday, November 23, 2014
-West	45.312	19.285199999999996	Office Supplies	Sunday, November 23, 2014
-Central	1154.82	210.99989999999997	Office Supplies	Monday, November 24, 2014
-East	8.366000000000001	-4.1672	Office Supplies	Monday, November 24, 2014
-South			Office Supplies	Monday, November 24, 2014
-West	721.476	79.73940000000002	Office Supplies	Monday, November 24, 2014
-Central	24.12	7.9758	Office Supplies	Tuesday, November 25, 2014
-East	1117.92	55.89599999999996	Office Supplies	Tuesday, November 25, 2014
-South			Office Supplies	Tuesday, November 25, 2014
-West	406.096	116.25889999999995	Office Supplies	Tuesday, November 25, 2014
-Central			Office Supplies	Wednesday, November 26, 2014
-East	134.67	60.80460000000001	Office Supplies	Wednesday, November 26, 2014
-South			Office Supplies	Wednesday, November 26, 2014
-West	833.7240000000002	-99.2124	Office Supplies	Wednesday, November 26, 2014
-Central			Office Supplies	Thursday, November 27, 2014
-East	3.76	1.3159999999999998	Office Supplies	Thursday, November 27, 2014
-South			Office Supplies	Thursday, November 27, 2014
-West			Office Supplies	Thursday, November 27, 2014
-Central	64.02	29.449199999999998	Office Supplies	Friday, November 28, 2014
-East	17.248	6.036799999999999	Office Supplies	Friday, November 28, 2014
-South	159.41	71.0651	Office Supplies	Friday, November 28, 2014
-West	92.44	31.812800000000003	Office Supplies	Friday, November 28, 2014
-Central	12.624	3.944999999999999	Office Supplies	Saturday, November 29, 2014
-East	30.099999999999998	13.542199999999998	Office Supplies	Saturday, November 29, 2014
-South			Office Supplies	Saturday, November 29, 2014
-West	30.4	15.2	Office Supplies	Saturday, November 29, 2014
-Central			Office Supplies	Sunday, November 30, 2014
-East	62.28	29.2716	Office Supplies	Sunday, November 30, 2014
-South	6.642000000000001	-4.428	Office Supplies	Sunday, November 30, 2014
-West	47.992000000000004	3.5993999999999993	Office Supplies	Sunday, November 30, 2014
-Central	46.64	12.592800000000004	Office Supplies	Monday, December 01, 2014
-East	36.28800000000001	12.700800000000001	Office Supplies	Monday, December 01, 2014
-South			Office Supplies	Monday, December 01, 2014
-West			Office Supplies	Monday, December 01, 2014
-Central	18.857999999999997	-4.9035	Office Supplies	Tuesday, December 02, 2014
-East	209.2	96.38159999999999	Office Supplies	Tuesday, December 02, 2014
-South	15.24	7.1628	Office Supplies	Tuesday, December 02, 2014
-West			Office Supplies	Tuesday, December 02, 2014
-Central	25.92	12.441600000000001	Office Supplies	Wednesday, December 03, 2014
-East			Office Supplies	Wednesday, December 03, 2014
-South			Office Supplies	Wednesday, December 03, 2014
-West			Office Supplies	Wednesday, December 03, 2014
-Central	24.816000000000003	1.8612000000000002	Office Supplies	Friday, December 05, 2014
-East	667.012	104.77359999999996	Office Supplies	Friday, December 05, 2014
-South	24.56	6.876799999999999	Office Supplies	Friday, December 05, 2014
-West	1453.864	226.07119999999995	Office Supplies	Friday, December 05, 2014
-Central	53.784	-47.9384	Office Supplies	Saturday, December 06, 2014
-East			Office Supplies	Saturday, December 06, 2014
-South	42.208	13.717599999999997	Office Supplies	Saturday, December 06, 2014
-West	1314.754	332.6204	Office Supplies	Saturday, December 06, 2014
-Central			Office Supplies	Sunday, December 07, 2014
-East			Office Supplies	Sunday, December 07, 2014
-South	105.52	48.539199999999994	Office Supplies	Sunday, December 07, 2014
-West	442.87999999999994	153.244	Office Supplies	Sunday, December 07, 2014
-Central	60.416	6.0416000000000025	Office Supplies	Monday, December 08, 2014
-East			Office Supplies	Monday, December 08, 2014
-South			Office Supplies	Monday, December 08, 2014
-West	154.864	33.25789999999999	Office Supplies	Monday, December 08, 2014
-Central	276.62	-25.5653	Office Supplies	Tuesday, December 09, 2014
-East	30.672	9.585	Office Supplies	Tuesday, December 09, 2014
-South			Office Supplies	Tuesday, December 09, 2014
-West	135.38400000000001	15.7344	Office Supplies	Tuesday, December 09, 2014
-Central			Office Supplies	Wednesday, December 10, 2014
-East	117.704	42.446	Office Supplies	Wednesday, December 10, 2014
-South			Office Supplies	Wednesday, December 10, 2014
-West	117.28	54.4672	Office Supplies	Wednesday, December 10, 2014
-Central	210.39199999999997	-336.6272	Office Supplies	Friday, December 12, 2014
-East			Office Supplies	Friday, December 12, 2014
-South	23.472	7.628399999999997	Office Supplies	Friday, December 12, 2014
-West	8.94	0.6258	Office Supplies	Friday, December 12, 2014
-Central	2.92	0.36499999999999977	Office Supplies	Saturday, December 13, 2014
-East			Office Supplies	Saturday, December 13, 2014
-South	12.39	5.8233	Office Supplies	Saturday, December 13, 2014
-West	95.454	37.33919999999999	Office Supplies	Saturday, December 13, 2014
-Central	17.263999999999996	-22.1022	Office Supplies	Sunday, December 14, 2014
-East	2.624	0.2951999999999996	Office Supplies	Sunday, December 14, 2014
-South			Office Supplies	Sunday, December 14, 2014
-West			Office Supplies	Sunday, December 14, 2014
-Central	150.488	65.2328	Office Supplies	Tuesday, December 16, 2014
-East			Office Supplies	Tuesday, December 16, 2014
-South	3.1510000000000002	-0.1862	Office Supplies	Tuesday, December 16, 2014
-West			Office Supplies	Tuesday, December 16, 2014
-Central			Office Supplies	Wednesday, December 17, 2014
-East	5.484000000000001	-4.0216	Office Supplies	Wednesday, December 17, 2014
-South	40.05	11.213999999999999	Office Supplies	Wednesday, December 17, 2014
-West			Office Supplies	Wednesday, December 17, 2014
-Central	48.144000000000005	-2.2974	Office Supplies	Friday, December 19, 2014
-East			Office Supplies	Friday, December 19, 2014
-South	164.842	73.12610000000001	Office Supplies	Friday, December 19, 2014
-West	37.169999999999995	15.6659	Office Supplies	Friday, December 19, 2014
-Central	1127.092	448.96919999999994	Office Supplies	Saturday, December 20, 2014
-East			Office Supplies	Saturday, December 20, 2014
-South	254.22200000000004	42.165000000000006	Office Supplies	Saturday, December 20, 2014
-West	955.952	311.57939999999996	Office Supplies	Saturday, December 20, 2014
-Central			Office Supplies	Sunday, December 21, 2014
-East	17.28	7.9487999999999985	Office Supplies	Sunday, December 21, 2014
-South	18.240000000000002	-14.592	Office Supplies	Sunday, December 21, 2014
-West			Office Supplies	Sunday, December 21, 2014
-Central	274.096	23.541599999999995	Office Supplies	Monday, December 22, 2014
-East	513.1120000000001	156.40429999999998	Office Supplies	Monday, December 22, 2014
-South			Office Supplies	Monday, December 22, 2014
-West	11.76	3.1752000000000002	Office Supplies	Monday, December 22, 2014
-Central	212.424	59.8416	Office Supplies	Tuesday, December 23, 2014
-East	56.519999999999996	15.8256	Office Supplies	Tuesday, December 23, 2014
-South	555.0640000000001	4.782999999999944	Office Supplies	Tuesday, December 23, 2014
-West			Office Supplies	Tuesday, December 23, 2014
-Central			Office Supplies	Wednesday, December 24, 2014
-East			Office Supplies	Wednesday, December 24, 2014
-South	9.568000000000001	3.4684	Office Supplies	Wednesday, December 24, 2014
-West	539.13	146.61379999999997	Office Supplies	Wednesday, December 24, 2014
-Central	8.689999999999998	-14.773	Office Supplies	Friday, December 26, 2014
-East	561.504	-2.3469	Office Supplies	Friday, December 26, 2014
-South			Office Supplies	Friday, December 26, 2014
-West	118.06200000000001	-53.4621	Office Supplies	Friday, December 26, 2014
-Central	35.00000000000001	-5.4712	Office Supplies	Saturday, December 27, 2014
-East	118.16	-25.109	Office Supplies	Saturday, December 27, 2014
-South	23.92	11.7208	Office Supplies	Saturday, December 27, 2014
-West	1078.5100000000002	-648.7147	Office Supplies	Saturday, December 27, 2014
-Central			Office Supplies	Sunday, December 28, 2014
-East	2682.3259999999996	663.5937999999998	Office Supplies	Sunday, December 28, 2014
-South			Office Supplies	Sunday, December 28, 2014
-West	1049.97	43.26360000000007	Office Supplies	Sunday, December 28, 2014
-Central	24.56	6.876799999999999	Office Supplies	Monday, December 29, 2014
-East	48.36	6.044999999999995	Office Supplies	Monday, December 29, 2014
-South			Office Supplies	Monday, December 29, 2014
-West	432.332	192.9522	Office Supplies	Monday, December 29, 2014
-Central	25.11	3.9026999999999976	Office Supplies	Tuesday, December 30, 2014
-East	158.388	43.58489999999999	Office Supplies	Tuesday, December 30, 2014
-South	39.128	-8.8038	Office Supplies	Tuesday, December 30, 2014
-West	551.9850000000001	-459.9875	Office Supplies	Tuesday, December 30, 2014
-Central	79.248	29.543599999999994	Office Supplies	Wednesday, December 31, 2014
-East	229.48	107.66659999999999	Office Supplies	Wednesday, December 31, 2014
-South			Office Supplies	Wednesday, December 31, 2014
-West			Office Supplies	Wednesday, December 31, 2014
-Central			Technology	Monday, January 06, 2014
-East			Technology	Monday, January 06, 2014
-South	1147.94	317.7834	Technology	Monday, January 06, 2014
-West			Technology	Monday, January 06, 2014
-Central	31.200000000000003	9.749999999999996	Technology	Thursday, January 09, 2014
-East			Technology	Thursday, January 09, 2014
-South			Technology	Thursday, January 09, 2014
-West			Technology	Thursday, January 09, 2014
-Central			Technology	Monday, January 13, 2014
-East			Technology	Monday, January 13, 2014
-South	646.74	258.696	Technology	Monday, January 13, 2014
-West			Technology	Monday, January 13, 2014
-Central			Technology	Wednesday, January 15, 2014
-East			Technology	Wednesday, January 15, 2014
-South	149.95	65.97800000000001	Technology	Wednesday, January 15, 2014
-West			Technology	Wednesday, January 15, 2014
-Central			Technology	Thursday, January 16, 2014
-East	124.19999999999999	-31.05	Technology	Thursday, January 16, 2014
-South			Technology	Thursday, January 16, 2014
-West			Technology	Thursday, January 16, 2014
-Central			Technology	Monday, January 20, 2014
-East			Technology	Monday, January 20, 2014
-South	699.93	181.9818	Technology	Monday, January 20, 2014
-West			Technology	Monday, January 20, 2014
-Central			Technology	Sunday, January 26, 2014
-East			Technology	Sunday, January 26, 2014
-South	343.33	52.6344	Technology	Sunday, January 26, 2014
-West			Technology	Sunday, January 26, 2014
-Central	468.90000000000003	206.31600000000006	Technology	Saturday, February 01, 2014
-East			Technology	Saturday, February 01, 2014
-South			Technology	Saturday, February 01, 2014
-West			Technology	Saturday, February 01, 2014
-Central			Technology	Sunday, February 02, 2014
-East			Technology	Sunday, February 02, 2014
-South	180.96	13.571999999999996	Technology	Sunday, February 02, 2014
-West			Technology	Sunday, February 02, 2014
-Central			Technology	Thursday, February 06, 2014
-East			Technology	Thursday, February 06, 2014
-South	306.56	84.05409999999999	Technology	Thursday, February 06, 2014
-West			Technology	Thursday, February 06, 2014
-Central			Technology	Friday, February 07, 2014
-East	115.36	49.60480000000001	Technology	Friday, February 07, 2014
-South			Technology	Friday, February 07, 2014
-West			Technology	Friday, February 07, 2014
-Central			Technology	Tuesday, February 11, 2014
-East			Technology	Tuesday, February 11, 2014
-South	234.45000000000002	103.15800000000003	Technology	Tuesday, February 11, 2014
-West			Technology	Tuesday, February 11, 2014
-Central			Technology	Friday, February 14, 2014
-East			Technology	Friday, February 14, 2014
-South			Technology	Friday, February 14, 2014
-West	239.96999999999997	86.38919999999999	Technology	Friday, February 14, 2014
-Central	62.31	22.4316	Technology	Thursday, February 20, 2014
-East			Technology	Thursday, February 20, 2014
-South			Technology	Thursday, February 20, 2014
-West			Technology	Thursday, February 20, 2014
-Central			Technology	Saturday, March 01, 2014
-East	5.9399999999999995	1.6038	Technology	Saturday, March 01, 2014
-South			Technology	Saturday, March 01, 2014
-West			Technology	Saturday, March 01, 2014
-Central			Technology	Sunday, March 02, 2014
-East	151.20000000000002	32.13	Technology	Sunday, March 02, 2014
-South			Technology	Sunday, March 02, 2014
-West			Technology	Sunday, March 02, 2014
-Central			Technology	Monday, March 03, 2014
-East	9.99	4.5954	Technology	Monday, March 03, 2014
-South			Technology	Monday, March 03, 2014
-West			Technology	Monday, March 03, 2014
-Central			Technology	Wednesday, March 05, 2014
-East	479.97	177.58890000000002	Technology	Wednesday, March 05, 2014
-South			Technology	Wednesday, March 05, 2014
-West			Technology	Wednesday, March 05, 2014
-Central			Technology	Tuesday, March 11, 2014
-East			Technology	Tuesday, March 11, 2014
-South	620.9300000000001	178.80440000000004	Technology	Tuesday, March 11, 2014
-West			Technology	Tuesday, March 11, 2014
-Central	574.91	156.04699999999997	Technology	Friday, March 14, 2014
-East			Technology	Friday, March 14, 2014
-South			Technology	Friday, March 14, 2014
-West	82.80000000000001	6.623999999999995	Technology	Friday, March 14, 2014
-Central			Technology	Sunday, March 16, 2014
-East			Technology	Sunday, March 16, 2014
-South	471.92	29.49500000000002	Technology	Sunday, March 16, 2014
-West			Technology	Sunday, March 16, 2014
-Central			Technology	Tuesday, March 18, 2014
-East			Technology	Tuesday, March 18, 2014
-South	23459.78	-1827.5044	Technology	Tuesday, March 18, 2014
-West	1279.968	415.98959999999994	Technology	Tuesday, March 18, 2014
-Central			Technology	Wednesday, March 19, 2014
-East			Technology	Wednesday, March 19, 2014
-South	494.21600000000007	81.54789999999997	Technology	Wednesday, March 19, 2014
-West			Technology	Wednesday, March 19, 2014
-Central			Technology	Friday, March 21, 2014
-East			Technology	Friday, March 21, 2014
-South	3499.9300000000003	909.9818000000002	Technology	Friday, March 21, 2014
-West			Technology	Friday, March 21, 2014
-Central			Technology	Sunday, March 23, 2014
-East			Technology	Sunday, March 23, 2014
-South			Technology	Sunday, March 23, 2014
-West	604.752	37.797000000000025	Technology	Sunday, March 23, 2014
-Central			Technology	Tuesday, March 25, 2014
-East			Technology	Tuesday, March 25, 2014
-South			Technology	Tuesday, March 25, 2014
-West	45.48	15.918	Technology	Tuesday, March 25, 2014
-Central			Technology	Wednesday, March 26, 2014
-East			Technology	Wednesday, March 26, 2014
-South			Technology	Wednesday, March 26, 2014
-West	95.084	11.497400000000004	Technology	Wednesday, March 26, 2014
-Central			Technology	Friday, March 28, 2014
-East			Technology	Friday, March 28, 2014
-South			Technology	Friday, March 28, 2014
-West	302.376	22.678200000000018	Technology	Friday, March 28, 2014
-Central	251.94400000000002	88.18039999999998	Technology	Sunday, March 30, 2014
-East			Technology	Sunday, March 30, 2014
-South			Technology	Sunday, March 30, 2014
-West			Technology	Sunday, March 30, 2014
-Central	79.98400000000001	13.9972	Technology	Monday, March 31, 2014
-East			Technology	Monday, March 31, 2014
-South			Technology	Monday, March 31, 2014
-West			Technology	Monday, March 31, 2014
-Central			Technology	Wednesday, April 02, 2014
-East			Technology	Wednesday, April 02, 2014
-South	1049.93	293.98040000000003	Technology	Wednesday, April 02, 2014
-West			Technology	Wednesday, April 02, 2014
-Central			Technology	Thursday, April 03, 2014
-East			Technology	Thursday, April 03, 2014
-South			Technology	Thursday, April 03, 2014
-West	222.29	80.0244	Technology	Thursday, April 03, 2014
-Central			Technology	Friday, April 04, 2014
-East			Technology	Friday, April 04, 2014
-South	99.98	42.991400000000006	Technology	Friday, April 04, 2014
-West			Technology	Friday, April 04, 2014
-Central			Technology	Saturday, April 05, 2014
-East			Technology	Saturday, April 05, 2014
-South	28.99	8.407099999999996	Technology	Saturday, April 05, 2014
-West			Technology	Saturday, April 05, 2014
-Central			Technology	Sunday, April 06, 2014
-East	116.78399999999999	21.89699999999999	Technology	Sunday, April 06, 2014
-South			Technology	Sunday, April 06, 2014
-West	333.86999999999995	134.0208	Technology	Sunday, April 06, 2014
-Central			Technology	Monday, April 07, 2014
-East			Technology	Monday, April 07, 2014
-South	830.9199999999998	214.02950000000004	Technology	Monday, April 07, 2014
-West			Technology	Monday, April 07, 2014
-Central			Technology	Tuesday, April 08, 2014
-East			Technology	Tuesday, April 08, 2014
-South			Technology	Tuesday, April 08, 2014
-West	399.96	139.986	Technology	Tuesday, April 08, 2014
-Central	758.3520000000001	265.4232	Technology	Friday, April 11, 2014
-East			Technology	Friday, April 11, 2014
-South	719.9200000000001	123.5879	Technology	Friday, April 11, 2014
-West	323.024	100.56340000000002	Technology	Friday, April 11, 2014
-Central			Technology	Saturday, April 12, 2014
-East			Technology	Saturday, April 12, 2014
-South			Technology	Saturday, April 12, 2014
-West	1513.4560000000001	132.42739999999995	Technology	Saturday, April 12, 2014
-Central			Technology	Sunday, April 13, 2014
-East	71.928	8.3916	Technology	Sunday, April 13, 2014
-South			Technology	Sunday, April 13, 2014
-West			Technology	Sunday, April 13, 2014
-Central	227.976	28.496999999999957	Technology	Friday, April 18, 2014
-East			Technology	Friday, April 18, 2014
-South			Technology	Friday, April 18, 2014
-West	287.968	97.18919999999999	Technology	Friday, April 18, 2014
-Central			Technology	Friday, April 25, 2014
-East			Technology	Friday, April 25, 2014
-South	302.376	37.797	Technology	Friday, April 25, 2014
-West			Technology	Friday, April 25, 2014
-Central			Technology	Monday, April 28, 2014
-East	159.98	57.5928	Technology	Monday, April 28, 2014
-South			Technology	Monday, April 28, 2014
-West	1679.96	125.99700000000007	Technology	Monday, April 28, 2014
-Central			Technology	Tuesday, April 29, 2014
-East	19.98	5.194800000000001	Technology	Tuesday, April 29, 2014
-South			Technology	Tuesday, April 29, 2014
-West			Technology	Tuesday, April 29, 2014
-Central			Technology	Wednesday, April 30, 2014
-East			Technology	Wednesday, April 30, 2014
-South	47.79	16.2486	Technology	Wednesday, April 30, 2014
-West			Technology	Wednesday, April 30, 2014
-Central			Technology	Friday, May 02, 2014
-East			Technology	Friday, May 02, 2014
-South	479.98400000000004	89.99699999999999	Technology	Friday, May 02, 2014
-West			Technology	Friday, May 02, 2014
-Central			Technology	Thursday, May 08, 2014
-East	1799.9699999999998	239.9960000000001	Technology	Thursday, May 08, 2014
-South			Technology	Thursday, May 08, 2014
-West			Technology	Thursday, May 08, 2014
-Central			Technology	Friday, May 09, 2014
-East			Technology	Friday, May 09, 2014
-South			Technology	Friday, May 09, 2014
-West	235.76999999999998	44.38080000000001	Technology	Friday, May 09, 2014
-Central			Technology	Saturday, May 10, 2014
-East			Technology	Saturday, May 10, 2014
-South			Technology	Saturday, May 10, 2014
-West	1475.6000000000001	129.66000000000008	Technology	Saturday, May 10, 2014
-Central	205.768	21.17889999999999	Technology	Sunday, May 11, 2014
-East			Technology	Sunday, May 11, 2014
-South			Technology	Sunday, May 11, 2014
-West			Technology	Sunday, May 11, 2014
-Central			Technology	Tuesday, May 13, 2014
-East			Technology	Tuesday, May 13, 2014
-South			Technology	Tuesday, May 13, 2014
-West	149.97	52.48949999999999	Technology	Tuesday, May 13, 2014
-Central			Technology	Friday, May 16, 2014
-East			Technology	Friday, May 16, 2014
-South			Technology	Friday, May 16, 2014
-West	56.400000000000006	3.3840000000000003	Technology	Friday, May 16, 2014
-Central			Technology	Sunday, May 18, 2014
-East	779.796	-168.9558	Technology	Sunday, May 18, 2014
-South			Technology	Sunday, May 18, 2014
-West			Technology	Sunday, May 18, 2014
-Central	20.784000000000002	-3.6372	Technology	Tuesday, May 20, 2014
-East			Technology	Tuesday, May 20, 2014
-South			Technology	Tuesday, May 20, 2014
-West			Technology	Tuesday, May 20, 2014
-Central			Technology	Wednesday, May 21, 2014
-East			Technology	Wednesday, May 21, 2014
-South	617.97	173.0316	Technology	Wednesday, May 21, 2014
-West			Technology	Wednesday, May 21, 2014
-Central			Technology	Thursday, May 22, 2014
-East			Technology	Thursday, May 22, 2014
-South	180.93	46.581	Technology	Thursday, May 22, 2014
-West			Technology	Thursday, May 22, 2014
-Central			Technology	Friday, May 23, 2014
-East	55.188	-10.1178	Technology	Friday, May 23, 2014
-South			Technology	Friday, May 23, 2014
-West			Technology	Friday, May 23, 2014
-Central			Technology	Monday, May 26, 2014
-East			Technology	Monday, May 26, 2014
-South			Technology	Monday, May 26, 2014
-West	285.568	51.652400000000014	Technology	Monday, May 26, 2014
-Central			Technology	Tuesday, May 27, 2014
-East			Technology	Tuesday, May 27, 2014
-South			Technology	Tuesday, May 27, 2014
-West	1213.494	163.2653999999999	Technology	Tuesday, May 27, 2014
-Central			Technology	Wednesday, May 28, 2014
-East			Technology	Wednesday, May 28, 2014
-South			Technology	Wednesday, May 28, 2014
-West	85.00800000000001	7.9488	Technology	Wednesday, May 28, 2014
-Central	719.9760000000001	134.9955	Technology	Friday, May 30, 2014
-East	464	134.55999999999995	Technology	Friday, May 30, 2014
-South			Technology	Friday, May 30, 2014
-West			Technology	Friday, May 30, 2014
-Central			Technology	Saturday, May 31, 2014
-East			Technology	Saturday, May 31, 2014
-South	773.7	230.97269999999995	Technology	Saturday, May 31, 2014
-West			Technology	Saturday, May 31, 2014
-Central			Technology	Sunday, June 01, 2014
-East			Technology	Sunday, June 01, 2014
-South	881.93	229.30180000000001	Technology	Sunday, June 01, 2014
-West			Technology	Sunday, June 01, 2014
-Central			Technology	Monday, June 02, 2014
-East			Technology	Monday, June 02, 2014
-South	239.96999999999997	67.1916	Technology	Monday, June 02, 2014
-West			Technology	Monday, June 02, 2014
-Central	71.97600000000001	10.996799999999997	Technology	Monday, June 09, 2014
-East			Technology	Monday, June 09, 2014
-South			Technology	Monday, June 09, 2014
-West	1818.576	159.07200000000006	Technology	Monday, June 09, 2014
-Central			Technology	Tuesday, June 17, 2014
-East	65.97	31.005899999999997	Technology	Tuesday, June 17, 2014
-South			Technology	Tuesday, June 17, 2014
-West			Technology	Tuesday, June 17, 2014
-Central			Technology	Wednesday, June 18, 2014
-East			Technology	Wednesday, June 18, 2014
-South			Technology	Wednesday, June 18, 2014
-West	139.8	12.232500000000009	Technology	Wednesday, June 18, 2014
-Central	620.384	-77.5616	Technology	Friday, June 20, 2014
-East			Technology	Friday, June 20, 2014
-South			Technology	Friday, June 20, 2014
-West			Technology	Friday, June 20, 2014
-Central			Technology	Saturday, June 21, 2014
-East	3458.709	726.4676999999999	Technology	Saturday, June 21, 2014
-South	284.82	74.0532	Technology	Saturday, June 21, 2014
-West			Technology	Saturday, June 21, 2014
-Central			Technology	Sunday, June 22, 2014
-East	82.78200000000001	-15.1767	Technology	Sunday, June 22, 2014
-South			Technology	Sunday, June 22, 2014
-West	196.752	56.56620000000001	Technology	Sunday, June 22, 2014
-Central			Technology	Monday, June 23, 2014
-East	86.376	1.079699999999999	Technology	Monday, June 23, 2014
-South			Technology	Monday, June 23, 2014
-West			Technology	Monday, June 23, 2014
-Central			Technology	Wednesday, June 25, 2014
-East			Technology	Wednesday, June 25, 2014
-South			Technology	Wednesday, June 25, 2014
-West	263.96000000000004	19.796999999999997	Technology	Wednesday, June 25, 2014
-Central			Technology	Friday, June 27, 2014
-East			Technology	Friday, June 27, 2014
-South	223.96	53.75040000000001	Technology	Friday, June 27, 2014
-West			Technology	Friday, June 27, 2014
-Central			Technology	Tuesday, July 01, 2014
-East			Technology	Tuesday, July 01, 2014
-South	575.92	71.98999999999998	Technology	Tuesday, July 01, 2014
-West			Technology	Tuesday, July 01, 2014
-Central			Technology	Wednesday, July 02, 2014
-East	73.98	19.974600000000002	Technology	Wednesday, July 02, 2014
-South			Technology	Wednesday, July 02, 2014
-West			Technology	Wednesday, July 02, 2014
-Central			Technology	Saturday, July 05, 2014
-East			Technology	Saturday, July 05, 2014
-South	479.97	163.1898	Technology	Saturday, July 05, 2014
-West			Technology	Saturday, July 05, 2014
-Central			Technology	Sunday, July 06, 2014
-East	559.9920000000001	174.99749999999997	Technology	Sunday, July 06, 2014
-South			Technology	Sunday, July 06, 2014
-West			Technology	Sunday, July 06, 2014
-Central	575.9680000000001	43.19760000000002	Technology	Friday, July 11, 2014
-East	362.82	105.21779999999998	Technology	Friday, July 11, 2014
-South			Technology	Friday, July 11, 2014
-West			Technology	Friday, July 11, 2014
-Central	23.840000000000003	3.2779999999999987	Technology	Saturday, July 12, 2014
-East			Technology	Saturday, July 12, 2014
-South			Technology	Saturday, July 12, 2014
-West	255.93600000000004	28.79279999999997	Technology	Saturday, July 12, 2014
-Central	38.272000000000006	3.8272000000000013	Technology	Monday, July 14, 2014
-East	37.48199999999999	-16.242	Technology	Monday, July 14, 2014
-South			Technology	Monday, July 14, 2014
-West			Technology	Monday, July 14, 2014
-Central	2.9699999999999998	1.3068000000000004	Technology	Tuesday, July 15, 2014
-East			Technology	Tuesday, July 15, 2014
-South			Technology	Tuesday, July 15, 2014
-West			Technology	Tuesday, July 15, 2014
-Central			Technology	Saturday, July 19, 2014
-East	359.98	93.59480000000002	Technology	Saturday, July 19, 2014
-South			Technology	Saturday, July 19, 2014
-West			Technology	Saturday, July 19, 2014
-Central			Technology	Sunday, July 20, 2014
-East			Technology	Sunday, July 20, 2014
-South			Technology	Sunday, July 20, 2014
-West	41.94	15.098399999999998	Technology	Sunday, July 20, 2014
-Central	35.98	10.0744	Technology	Monday, July 21, 2014
-East			Technology	Monday, July 21, 2014
-South			Technology	Monday, July 21, 2014
-West			Technology	Monday, July 21, 2014
-Central			Technology	Tuesday, July 22, 2014
-East	159.98	57.5928	Technology	Tuesday, July 22, 2014
-South			Technology	Tuesday, July 22, 2014
-West			Technology	Tuesday, July 22, 2014
-Central			Technology	Wednesday, July 23, 2014
-East	99.98	7.9983999999999895	Technology	Wednesday, July 23, 2014
-South			Technology	Wednesday, July 23, 2014
-West	2455.1040000000003	252.47099999999995	Technology	Wednesday, July 23, 2014
-Central	431.136	-26.946	Technology	Saturday, July 26, 2014
-East			Technology	Saturday, July 26, 2014
-South			Technology	Saturday, July 26, 2014
-West	1194.884	218.7939999999999	Technology	Saturday, July 26, 2014
-Central			Technology	Sunday, July 27, 2014
-East			Technology	Sunday, July 27, 2014
-South			Technology	Sunday, July 27, 2014
-West	238	38.08000000000001	Technology	Sunday, July 27, 2014
-Central	21.2	9.116000000000001	Technology	Saturday, August 02, 2014
-East			Technology	Saturday, August 02, 2014
-South			Technology	Saturday, August 02, 2014
-West			Technology	Saturday, August 02, 2014
-Central			Technology	Monday, August 04, 2014
-East	255.42	104.7222	Technology	Monday, August 04, 2014
-South			Technology	Monday, August 04, 2014
-West	399.96000000000004	34.99649999999997	Technology	Monday, August 04, 2014
-Central			Technology	Tuesday, August 05, 2014
-East	135.99	36.71730000000001	Technology	Tuesday, August 05, 2014
-South			Technology	Tuesday, August 05, 2014
-West	16.36	1.6359999999999992	Technology	Tuesday, August 05, 2014
-Central			Technology	Wednesday, August 06, 2014
-East	199.98	83.9916	Technology	Wednesday, August 06, 2014
-South	62.91	22.647599999999997	Technology	Wednesday, August 06, 2014
-West			Technology	Wednesday, August 06, 2014
-Central	849.97	358.98940000000005	Technology	Friday, August 08, 2014
-East			Technology	Friday, August 08, 2014
-South			Technology	Friday, August 08, 2014
-West	1741.9120000000003	479.93899999999996	Technology	Friday, August 08, 2014
-Central			Technology	Saturday, August 09, 2014
-East			Technology	Saturday, August 09, 2014
-South	178.38400000000001	22.297999999999973	Technology	Saturday, August 09, 2014
-West	1310.3360000000002	24.36439999999996	Technology	Saturday, August 09, 2014
-Central			Technology	Tuesday, August 12, 2014
-East			Technology	Tuesday, August 12, 2014
-South	431.538	139.85819999999998	Technology	Tuesday, August 12, 2014
-West	806.336	50.396000000000015	Technology	Tuesday, August 12, 2014
-Central			Technology	Sunday, August 17, 2014
-East			Technology	Sunday, August 17, 2014
-South	339.96	122.38559999999998	Technology	Sunday, August 17, 2014
-West			Technology	Sunday, August 17, 2014
-Central			Technology	Saturday, August 23, 2014
-East			Technology	Saturday, August 23, 2014
-South			Technology	Saturday, August 23, 2014
-West	143.64000000000001	10.772999999999989	Technology	Saturday, August 23, 2014
-Central			Technology	Monday, August 25, 2014
-East			Technology	Monday, August 25, 2014
-South			Technology	Monday, August 25, 2014
-West	1103.044	106.02779999999998	Technology	Monday, August 25, 2014
-Central			Technology	Tuesday, August 26, 2014
-East	149.97	52.48949999999999	Technology	Tuesday, August 26, 2014
-South			Technology	Tuesday, August 26, 2014
-West	176.8	22.98400000000001	Technology	Tuesday, August 26, 2014
-Central			Technology	Wednesday, August 27, 2014
-East			Technology	Wednesday, August 27, 2014
-South	579.9499999999999	168.18549999999993	Technology	Wednesday, August 27, 2014
-West	213.48000000000002	16.01099999999998	Technology	Wednesday, August 27, 2014
-Central			Technology	Sunday, August 31, 2014
-East			Technology	Sunday, August 31, 2014
-South			Technology	Sunday, August 31, 2014
-West	92.52	18.50399999999999	Technology	Sunday, August 31, 2014
-Central			Technology	Monday, September 01, 2014
-East	357	57.12000000000002	Technology	Monday, September 01, 2014
-South			Technology	Monday, September 01, 2014
-West			Technology	Monday, September 01, 2014
-Central	1275.63	27.912900000000008	Technology	Tuesday, September 02, 2014
-East			Technology	Tuesday, September 02, 2014
-South			Technology	Tuesday, September 02, 2014
-West			Technology	Tuesday, September 02, 2014
-Central	348.314	40.149699999999996	Technology	Sunday, September 07, 2014
-East	809.8919999999999	-445.4271	Technology	Sunday, September 07, 2014
-South			Technology	Sunday, September 07, 2014
-West			Technology	Sunday, September 07, 2014
-Central	8303.928	-1350.9935	Technology	Monday, September 08, 2014
-East			Technology	Monday, September 08, 2014
-South	326.81999999999994	133.3422	Technology	Monday, September 08, 2014
-West	49.98	8.496599999999994	Technology	Monday, September 08, 2014
-Central			Technology	Tuesday, September 09, 2014
-East	200.22	-36.4732	Technology	Tuesday, September 09, 2014
-South	1299.99	-571.9956	Technology	Tuesday, September 09, 2014
-West			Technology	Tuesday, September 09, 2014
-Central	57.400000000000006	10.905999999999993	Technology	Friday, September 12, 2014
-East	69.99	30.0957	Technology	Friday, September 12, 2014
-South	15.216000000000001	2.282399999999999	Technology	Friday, September 12, 2014
-West			Technology	Friday, September 12, 2014
-Central			Technology	Saturday, September 13, 2014
-East	252.00000000000003	53.550000000000004	Technology	Saturday, September 13, 2014
-South			Technology	Saturday, September 13, 2014
-West	462.94	156.93560000000002	Technology	Saturday, September 13, 2014
-Central			Technology	Sunday, September 14, 2014
-East	3104.9199999999996	1457.0294	Technology	Sunday, September 14, 2014
-South			Technology	Sunday, September 14, 2014
-West			Technology	Sunday, September 14, 2014
-Central			Technology	Wednesday, September 17, 2014
-East			Technology	Wednesday, September 17, 2014
-South	47.984	13.1956	Technology	Wednesday, September 17, 2014
-West	85.845	-5.169	Technology	Wednesday, September 17, 2014
-Central	5579.94	-761.9928	Technology	Friday, September 19, 2014
-East			Technology	Friday, September 19, 2014
-South	2624.985	-944.9946	Technology	Friday, September 19, 2014
-West			Technology	Friday, September 19, 2014
-Central	11.120000000000001	3.4749999999999996	Technology	Saturday, September 20, 2014
-East	2039.8400000000001	845.3346	Technology	Saturday, September 20, 2014
-South			Technology	Saturday, September 20, 2014
-West			Technology	Saturday, September 20, 2014
-Central			Technology	Sunday, September 21, 2014
-East			Technology	Sunday, September 21, 2014
-South			Technology	Sunday, September 21, 2014
-West	2286.338	753.7049	Technology	Sunday, September 21, 2014
-Central			Technology	Tuesday, September 23, 2014
-East			Technology	Tuesday, September 23, 2014
-South			Technology	Tuesday, September 23, 2014
-West	83.98400000000001	31.494	Technology	Tuesday, September 23, 2014
-Central	153.824	38.456	Technology	Friday, September 26, 2014
-East	3.152	0.47279999999999966	Technology	Friday, September 26, 2014
-South			Technology	Friday, September 26, 2014
-West			Technology	Friday, September 26, 2014
-Central			Technology	Monday, September 29, 2014
-East			Technology	Monday, September 29, 2014
-South			Technology	Monday, September 29, 2014
-West	686.32	223.05399999999995	Technology	Monday, September 29, 2014
-Central			Technology	Thursday, October 02, 2014
-East			Technology	Thursday, October 02, 2014
-South			Technology	Thursday, October 02, 2014
-West	555.936	127.52839999999999	Technology	Thursday, October 02, 2014
-Central			Technology	Friday, October 03, 2014
-East	142.488	-3.5622	Technology	Friday, October 03, 2014
-South			Technology	Friday, October 03, 2014
-West			Technology	Friday, October 03, 2014
-Central			Technology	Sunday, October 05, 2014
-East			Technology	Sunday, October 05, 2014
-South			Technology	Sunday, October 05, 2014
-West	99.98	34.992999999999995	Technology	Sunday, October 05, 2014
-Central			Technology	Monday, October 06, 2014
-East			Technology	Monday, October 06, 2014
-South			Technology	Monday, October 06, 2014
-West	9.09	1.9088999999999996	Technology	Monday, October 06, 2014
-Central			Technology	Wednesday, October 08, 2014
-East			Technology	Wednesday, October 08, 2014
-South	23.472	4.987799999999998	Technology	Wednesday, October 08, 2014
-West			Technology	Wednesday, October 08, 2014
-Central			Technology	Thursday, October 09, 2014
-East			Technology	Thursday, October 09, 2014
-South			Technology	Thursday, October 09, 2014
-West	15.991999999999999	-2.9985	Technology	Thursday, October 09, 2014
-Central	1475.8960000000002	138.14029999999997	Technology	Friday, October 10, 2014
-East	101.99400000000001	-71.3958	Technology	Friday, October 10, 2014
-South			Technology	Friday, October 10, 2014
-West			Technology	Friday, October 10, 2014
-Central			Technology	Saturday, October 11, 2014
-East			Technology	Saturday, October 11, 2014
-South			Technology	Saturday, October 11, 2014
-West	345	58.649999999999984	Technology	Saturday, October 11, 2014
-Central			Technology	Monday, October 13, 2014
-East			Technology	Monday, October 13, 2014
-South	22.96	4.362399999999997	Technology	Monday, October 13, 2014
-West	25.78	2.5779999999999994	Technology	Monday, October 13, 2014
-Central	1999.96	624.9875	Technology	Tuesday, October 14, 2014
-East	177	30.089999999999982	Technology	Tuesday, October 14, 2014
-South			Technology	Tuesday, October 14, 2014
-West			Technology	Tuesday, October 14, 2014
-Central			Technology	Thursday, October 16, 2014
-East			Technology	Thursday, October 16, 2014
-South			Technology	Thursday, October 16, 2014
-West	179.97	86.38560000000001	Technology	Thursday, October 16, 2014
-Central	119.97600000000001	-17.9964	Technology	Friday, October 17, 2014
-East			Technology	Friday, October 17, 2014
-South			Technology	Friday, October 17, 2014
-West			Technology	Friday, October 17, 2014
-Central			Technology	Saturday, October 18, 2014
-East			Technology	Saturday, October 18, 2014
-South	1394.95	362.68699999999995	Technology	Saturday, October 18, 2014
-West			Technology	Saturday, October 18, 2014
-Central			Technology	Sunday, October 19, 2014
-East			Technology	Sunday, October 19, 2014
-South			Technology	Sunday, October 19, 2014
-West	439.12800000000004	31.85460000000002	Technology	Sunday, October 19, 2014
-Central	319.968	71.9928	Technology	Monday, October 20, 2014
-East			Technology	Monday, October 20, 2014
-South			Technology	Monday, October 20, 2014
-West			Technology	Monday, October 20, 2014
-Central			Technology	Saturday, October 25, 2014
-East	40.775999999999996	0.5097000000000005	Technology	Saturday, October 25, 2014
-South			Technology	Saturday, October 25, 2014
-West			Technology	Saturday, October 25, 2014
-Central			Technology	Sunday, October 26, 2014
-East			Technology	Sunday, October 26, 2014
-South			Technology	Sunday, October 26, 2014
-West	383.96000000000004	38.396000000000015	Technology	Sunday, October 26, 2014
-Central	257.98	74.8142	Technology	Tuesday, October 28, 2014
-East			Technology	Tuesday, October 28, 2014
-South			Technology	Tuesday, October 28, 2014
-West			Technology	Tuesday, October 28, 2014
-Central	2737.9320000000002	342.8849999999997	Technology	Wednesday, October 29, 2014
-East			Technology	Wednesday, October 29, 2014
-South			Technology	Wednesday, October 29, 2014
-West			Technology	Wednesday, October 29, 2014
-Central			Technology	Friday, October 31, 2014
-East			Technology	Friday, October 31, 2014
-South			Technology	Friday, October 31, 2014
-West	1067.83	139.65389999999988	Technology	Friday, October 31, 2014
-Central			Technology	Saturday, November 01, 2014
-East			Technology	Saturday, November 01, 2014
-South	978.8399999999999	110.1194999999999	Technology	Saturday, November 01, 2014
-West	2139.944	302.58759999999984	Technology	Saturday, November 01, 2014
-Central	88.77600000000001	7.767900000000001	Technology	Sunday, November 02, 2014
-East	590.1959999999999	-118.0392	Technology	Sunday, November 02, 2014
-South	799.9200000000001	239.976	Technology	Sunday, November 02, 2014
-West	141.11599999999999	24.935899999999993	Technology	Sunday, November 02, 2014
-Central	89.97	18.893699999999995	Technology	Monday, November 03, 2014
-East	783.96	219.50880000000006	Technology	Monday, November 03, 2014
-South			Technology	Monday, November 03, 2014
-West			Technology	Monday, November 03, 2014
-Central			Technology	Tuesday, November 04, 2014
-East	4627.92	2205.6126	Technology	Tuesday, November 04, 2014
-South			Technology	Tuesday, November 04, 2014
-West	1114.3120000000001	206.62439999999992	Technology	Tuesday, November 04, 2014
-Central			Technology	Wednesday, November 05, 2014
-East	109.976	10.3496	Technology	Wednesday, November 05, 2014
-South	47.79	16.2486	Technology	Wednesday, November 05, 2014
-West			Technology	Wednesday, November 05, 2014
-Central			Technology	Saturday, November 08, 2014
-East			Technology	Saturday, November 08, 2014
-South			Technology	Saturday, November 08, 2014
-West	333.576	25.018199999999993	Technology	Saturday, November 08, 2014
-Central			Technology	Sunday, November 09, 2014
-East			Technology	Sunday, November 09, 2014
-South			Technology	Sunday, November 09, 2014
-West	703.9680000000001	87.99599999999992	Technology	Sunday, November 09, 2014
-Central			Technology	Monday, November 10, 2014
-East			Technology	Monday, November 10, 2014
-South			Technology	Monday, November 10, 2014
-West	612.526	64.43970000000002	Technology	Monday, November 10, 2014
-Central	389.65599999999995	31.777499999999996	Technology	Tuesday, November 11, 2014
-East			Technology	Tuesday, November 11, 2014
-South			Technology	Tuesday, November 11, 2014
-West	1238.042	128.91070000000002	Technology	Tuesday, November 11, 2014
-Central	207.496	46.4687	Technology	Wednesday, November 12, 2014
-East			Technology	Wednesday, November 12, 2014
-South			Technology	Wednesday, November 12, 2014
-West			Technology	Wednesday, November 12, 2014
-Central			Technology	Friday, November 14, 2014
-East	832.93	233.22039999999998	Technology	Friday, November 14, 2014
-South			Technology	Friday, November 14, 2014
-West			Technology	Friday, November 14, 2014
-Central			Technology	Saturday, November 15, 2014
-East			Technology	Saturday, November 15, 2014
-South			Technology	Saturday, November 15, 2014
-West	772.47	146.76929999999993	Technology	Saturday, November 15, 2014
-Central	273.96	10.958399999999983	Technology	Sunday, November 16, 2014
-East			Technology	Sunday, November 16, 2014
-South			Technology	Sunday, November 16, 2014
-West	79.968	-17.9928	Technology	Sunday, November 16, 2014
-Central			Technology	Monday, November 17, 2014
-East			Technology	Monday, November 17, 2014
-South			Technology	Monday, November 17, 2014
-West	99.98	7.9983999999999895	Technology	Monday, November 17, 2014
-Central			Technology	Tuesday, November 18, 2014
-East	549.5519999999999	-110.0702	Technology	Tuesday, November 18, 2014
-South			Technology	Tuesday, November 18, 2014
-West			Technology	Tuesday, November 18, 2014
-Central	281.96999999999997	78.9516	Technology	Wednesday, November 19, 2014
-East	4596.3060000000005	1226.9913000000004	Technology	Wednesday, November 19, 2014
-South	682.91	180.2656	Technology	Wednesday, November 19, 2014
-West			Technology	Wednesday, November 19, 2014
-Central			Technology	Thursday, November 20, 2014
-East	833.94	216.8244	Technology	Thursday, November 20, 2014
-South			Technology	Thursday, November 20, 2014
-West			Technology	Thursday, November 20, 2014
-Central	267.96	16.747500000000016	Technology	Friday, November 21, 2014
-East			Technology	Friday, November 21, 2014
-South	36.99	9.987300000000001	Technology	Friday, November 21, 2014
-West	94.99	28.496999999999986	Technology	Friday, November 21, 2014
-Central	5.5440000000000005	1.6632000000000007	Technology	Sunday, November 23, 2014
-East			Technology	Sunday, November 23, 2014
-South			Technology	Sunday, November 23, 2014
-West	29.99	6.2978999999999985	Technology	Sunday, November 23, 2014
-Central	111.79	43.5981	Technology	Monday, November 24, 2014
-East	2552.346	-460.39	Technology	Monday, November 24, 2014
-South			Technology	Monday, November 24, 2014
-West			Technology	Monday, November 24, 2014
-Central	24.672	0	Technology	Tuesday, November 25, 2014
-East			Technology	Tuesday, November 25, 2014
-South			Technology	Tuesday, November 25, 2014
-West	539.92	47.24299999999997	Technology	Tuesday, November 25, 2014
-Central			Technology	Wednesday, November 26, 2014
-East	279.96	78.3888	Technology	Wednesday, November 26, 2014
-South			Technology	Wednesday, November 26, 2014
-West	438.336	-87.6672	Technology	Wednesday, November 26, 2014
-Central	998.8499999999999	-199.77	Technology	Friday, November 28, 2014
-East			Technology	Friday, November 28, 2014
-South			Technology	Friday, November 28, 2014
-West	139.92999999999998	34.98249999999999	Technology	Friday, November 28, 2014
-Central			Technology	Saturday, November 29, 2014
-East			Technology	Saturday, November 29, 2014
-South			Technology	Saturday, November 29, 2014
-West	575.92	71.98999999999998	Technology	Saturday, November 29, 2014
-Central			Technology	Sunday, November 30, 2014
-East			Technology	Sunday, November 30, 2014
-South			Technology	Sunday, November 30, 2014
-West	102.24000000000001	-16.614	Technology	Sunday, November 30, 2014
-Central			Technology	Monday, December 01, 2014
-East	931.8879999999999	188.84899999999996	Technology	Monday, December 01, 2014
-South	95.968	9.596800000000005	Technology	Monday, December 01, 2014
-West			Technology	Monday, December 01, 2014
-Central			Technology	Tuesday, December 02, 2014
-East	239.76	82.73240000000001	Technology	Tuesday, December 02, 2014
-South	5.95	0.8330000000000002	Technology	Tuesday, December 02, 2014
-West			Technology	Tuesday, December 02, 2014
-Central	479.96	134.3888	Technology	Wednesday, December 03, 2014
-East			Technology	Wednesday, December 03, 2014
-South			Technology	Wednesday, December 03, 2014
-West			Technology	Wednesday, December 03, 2014
-Central			Technology	Thursday, December 04, 2014
-East	129.98	62.3904	Technology	Thursday, December 04, 2014
-South			Technology	Thursday, December 04, 2014
-West			Technology	Thursday, December 04, 2014
-Central	408.74399999999997	76.63949999999998	Technology	Friday, December 05, 2014
-East	216.67799999999997	-54.1695	Technology	Friday, December 05, 2014
-South			Technology	Friday, December 05, 2014
-West	167.96800000000002	62.988	Technology	Friday, December 05, 2014
-Central	35.04	-7.008	Technology	Saturday, December 06, 2014
-East			Technology	Saturday, December 06, 2014
-South			Technology	Saturday, December 06, 2014
-West			Technology	Saturday, December 06, 2014
-Central			Technology	Monday, December 08, 2014
-East			Technology	Monday, December 08, 2014
-South			Technology	Monday, December 08, 2014
-West	156.60000000000002	1.5689999999999849	Technology	Monday, December 08, 2014
-Central			Technology	Tuesday, December 09, 2014
-East	1079.9759999999999	125.9971999999999	Technology	Tuesday, December 09, 2014
-South			Technology	Tuesday, December 09, 2014
-West			Technology	Tuesday, December 09, 2014
-Central	35.016000000000005	-2.1885	Technology	Sunday, December 14, 2014
-East	7263.92	2282.8806999999997	Technology	Sunday, December 14, 2014
-South			Technology	Sunday, December 14, 2014
-West			Technology	Sunday, December 14, 2014
-Central	40.68	-9.153	Technology	Monday, December 15, 2014
-East			Technology	Monday, December 15, 2014
-South			Technology	Monday, December 15, 2014
-West			Technology	Monday, December 15, 2014
-Central	319.968	95.99040000000001	Technology	Tuesday, December 16, 2014
-East			Technology	Tuesday, December 16, 2014
-South	99.98	7.9983999999999895	Technology	Tuesday, December 16, 2014
-West	1022.1680000000001	110.0563999999999	Technology	Tuesday, December 16, 2014
-Central	323.97600000000006	36.44729999999997	Technology	Friday, December 19, 2014
-East			Technology	Friday, December 19, 2014
-South	247.8	-18.585	Technology	Friday, December 19, 2014
-West	794.968	88.81259999999992	Technology	Friday, December 19, 2014
-Central	65.44	-8.18	Technology	Saturday, December 20, 2014
-East			Technology	Saturday, December 20, 2014
-South			Technology	Saturday, December 20, 2014
-West	519.92	111.1816	Technology	Saturday, December 20, 2014
-Central			Technology	Wednesday, December 24, 2014
-East			Technology	Wednesday, December 24, 2014
-South			Technology	Wednesday, December 24, 2014
-West	1054.882	81.71259999999998	Technology	Wednesday, December 24, 2014
-Central			Technology	Saturday, December 27, 2014
-East			Technology	Saturday, December 27, 2014
-South	498	184.26	Technology	Saturday, December 27, 2014
-West			Technology	Saturday, December 27, 2014
-Central	119.8	47.92	Technology	Monday, December 29, 2014
-East			Technology	Monday, December 29, 2014
-South			Technology	Monday, December 29, 2014
-West	1303.8720000000003	337.48169999999993	Technology	Monday, December 29, 2014
-Central	594.3440000000002	62.20170000000001	Technology	Tuesday, December 30, 2014
-East	279.93199999999996	-43.4008	Technology	Tuesday, December 30, 2014
-South			Technology	Tuesday, December 30, 2014
-West			Technology	Tuesday, December 30, 2014
-Central	47.53	16.160200000000003	Technology	Wednesday, December 31, 2014
-East	1836.54	781.4589000000001	Technology	Wednesday, December 31, 2014
-South			Technology	Wednesday, December 31, 2014
-West	475.944	59.49299999999995	Technology	Wednesday, December 31, 2014
+Orders.Region	Sum(Orders.Sales)	Sum(Orders.Profit)	Orders.Order Date.Variation.Date Hierarchy.Year	Orders.Order Date.Variation.Date Hierarchy.Quarter	Orders.Order Date.Variation.Date Hierarchy.Month	Orders.Order Date.Variation.Date Hierarchy.Day
+Central	16.448	5.551199999999998	2014	Qtr 1	January	3
+East			2014	Qtr 1	January	3
+South			2014	Qtr 1	January	3
+West			2014	Qtr 1	January	3
+Central	288.06	-65.9901	2014	Qtr 1	January	4
+East			2014	Qtr 1	January	4
+South			2014	Qtr 1	January	4
+West			2014	Qtr 1	January	4
+Central			2014	Qtr 1	January	5
+East	19.536	4.884	2014	Qtr 1	January	5
+South			2014	Qtr 1	January	5
+West			2014	Qtr 1	January	5
+Central			2014	Qtr 1	January	6
+East			2014	Qtr 1	January	6
+South	4387.660000000001	1348.7211999999997	2014	Qtr 1	January	6
+West	19.44	9.3312	2014	Qtr 1	January	6
+Central	87.158	-71.9621	2014	Qtr 1	January	7
+East			2014	Qtr 1	January	7
+South			2014	Qtr 1	January	7
+West			2014	Qtr 1	January	7
+Central	40.544000000000004	10.917999999999996	2014	Qtr 1	January	9
+East			2014	Qtr 1	January	9
+South			2014	Qtr 1	January	9
+West			2014	Qtr 1	January	9
+Central			2014	Qtr 1	January	10
+East			2014	Qtr 1	January	10
+South	54.83	22.6537	2014	Qtr 1	January	10
+West			2014	Qtr 1	January	10
+Central			2014	Qtr 1	January	11
+East	9.94	3.0813999999999995	2014	Qtr 1	January	11
+South			2014	Qtr 1	January	11
+West			2014	Qtr 1	January	11
+Central			2014	Qtr 1	January	13
+East	40.846000000000004	10.5716	2014	Qtr 1	January	13
+South	1833.1999999999998	413.91760000000005	2014	Qtr 1	January	13
+West	1679.7490000000003	249.14939999999993	2014	Qtr 1	January	13
+Central			2014	Qtr 1	January	14
+East	61.96	-53.2856	2014	Qtr 1	January	14
+South			2014	Qtr 1	January	14
+West			2014	Qtr 1	January	14
+Central			2014	Qtr 1	January	15
+East			2014	Qtr 1	January	15
+South	149.95	65.97800000000001	2014	Qtr 1	January	15
+West			2014	Qtr 1	January	15
+Central			2014	Qtr 1	January	16
+East	299.964	-5.9335	2014	Qtr 1	January	16
+South			2014	Qtr 1	January	16
+West			2014	Qtr 1	January	16
+Central			2014	Qtr 1	January	18
+East			2014	Qtr 1	January	18
+South			2014	Qtr 1	January	18
+West	64.864	6.486400000000003	2014	Qtr 1	January	18
+Central			2014	Qtr 1	January	19
+East			2014	Qtr 1	January	19
+South			2014	Qtr 1	January	19
+West	378.59400000000005	-287.9976	2014	Qtr 1	January	19
+Central	708.616	183.5546	2014	Qtr 1	January	20
+East			2014	Qtr 1	January	20
+South	1926.5939999999998	385.73209999999983	2014	Qtr 1	January	20
+West	38.66	15.082799999999999	2014	Qtr 1	January	20
+Central			2014	Qtr 1	January	21
+East			2014	Qtr 1	January	21
+South	25.248	4.102799999999999	2014	Qtr 1	January	21
+West			2014	Qtr 1	January	21
+Central	5.9399999999999995	0	2014	Qtr 1	January	23
+East			2014	Qtr 1	January	23
+South			2014	Qtr 1	January	23
+West	40.08	19.2384	2014	Qtr 1	January	23
+Central	152.64000000000001	44.7684	2014	Qtr 1	January	26
+East			2014	Qtr 1	January	26
+South	944.61	105.5586	2014	Qtr 1	January	26
+West			2014	Qtr 1	January	26
+Central			2014	Qtr 1	January	27
+East			2014	Qtr 1	January	27
+South			2014	Qtr 1	January	27
+West	426.66999999999996	9.682700000000004	2014	Qtr 1	January	27
+Central			2014	Qtr 1	January	28
+East	3.9280000000000004	1.3256999999999999	2014	Qtr 1	January	28
+South			2014	Qtr 1	January	28
+West			2014	Qtr 1	January	28
+Central	240.5	11.650200000000002	2014	Qtr 1	January	30
+East			2014	Qtr 1	January	30
+South			2014	Qtr 1	January	30
+West			2014	Qtr 1	January	30
+Central			2014	Qtr 1	January	31
+East			2014	Qtr 1	January	31
+South			2014	Qtr 1	January	31
+West	290.666	3.4195999999999884	2014	Qtr 1	January	31
+Central	468.90000000000003	206.31600000000006	2014	Qtr 1	February	1
+East			2014	Qtr 1	February	1
+South			2014	Qtr 1	February	1
+West			2014	Qtr 1	February	1
+Central			2014	Qtr 1	February	2
+East			2014	Qtr 1	February	2
+South	199.29600000000002	1.3479999999999954	2014	Qtr 1	February	2
+West	12.350000000000001	5.8045	2014	Qtr 1	February	2
+Central			2014	Qtr 1	February	3
+East			2014	Qtr 1	February	3
+South			2014	Qtr 1	February	3
+West	97.11200000000001	31.5614	2014	Qtr 1	February	3
+Central			2014	Qtr 1	February	4
+East			2014	Qtr 1	February	4
+South			2014	Qtr 1	February	4
+West	134.384	51.1432	2014	Qtr 1	February	4
+Central	8.951999999999998	-14.7708	2014	Qtr 1	February	6
+East			2014	Qtr 1	February	6
+South	321.56	91.2541	2014	Qtr 1	February	6
+West			2014	Qtr 1	February	6
+Central			2014	Qtr 1	February	7
+East	180.32	59.34880000000001	2014	Qtr 1	February	7
+South			2014	Qtr 1	February	7
+West			2014	Qtr 1	February	7
+Central			2014	Qtr 1	February	8
+East			2014	Qtr 1	February	8
+South			2014	Qtr 1	February	8
+West	14.56	5.5328	2014	Qtr 1	February	8
+Central	535.27	106.79109999999999	2014	Qtr 1	February	11
+East			2014	Qtr 1	February	11
+South	1508.13	186.73739999999995	2014	Qtr 1	February	11
+West			2014	Qtr 1	February	11
+Central			2014	Qtr 1	February	12
+East			2014	Qtr 1	February	12
+South			2014	Qtr 1	February	12
+West	129.568	-24.294	2014	Qtr 1	February	12
+Central	16.176000000000002	6.065999999999999	2014	Qtr 1	February	14
+East			2014	Qtr 1	February	14
+South			2014	Qtr 1	February	14
+West	560.55	114.1104	2014	Qtr 1	February	14
+Central			2014	Qtr 1	February	15
+East			2014	Qtr 1	February	15
+South			2014	Qtr 1	February	15
+West	21.36	7.209	2014	Qtr 1	February	15
+Central	9.039999999999997	-15.658	2014	Qtr 1	February	16
+East			2014	Qtr 1	February	16
+South			2014	Qtr 1	February	16
+West			2014	Qtr 1	February	16
+Central	54.208	8.808799999999998	2014	Qtr 1	February	17
+East			2014	Qtr 1	February	17
+South			2014	Qtr 1	February	17
+West			2014	Qtr 1	February	17
+Central	37.784	-13.8468	2014	Qtr 1	February	18
+East			2014	Qtr 1	February	18
+South			2014	Qtr 1	February	18
+West			2014	Qtr 1	February	18
+Central	82.63	29.3404	2014	Qtr 1	February	20
+East			2014	Qtr 1	February	20
+South			2014	Qtr 1	February	20
+West	12.96	6.2208000000000006	2014	Qtr 1	February	20
+Central	8.849999999999998	-13.7175	2014	Qtr 1	February	21
+East			2014	Qtr 1	February	21
+South			2014	Qtr 1	February	21
+West			2014	Qtr 1	February	21
+Central			2014	Qtr 1	February	22
+East			2014	Qtr 1	February	22
+South			2014	Qtr 1	February	22
+West	19.44	9.3312	2014	Qtr 1	February	22
+Central	11.364	-4.5225	2014	Qtr 1	February	23
+East			2014	Qtr 1	February	23
+South			2014	Qtr 1	February	23
+West			2014	Qtr 1	February	23
+Central			2014	Qtr 1	February	24
+East			2014	Qtr 1	February	24
+South			2014	Qtr 1	February	24
+West	55.672000000000004	18.789299999999997	2014	Qtr 1	February	24
+Central			2014	Qtr 1	February	27
+East	19.456000000000003	3.404799999999998	2014	Qtr 1	February	27
+South			2014	Qtr 1	February	27
+West			2014	Qtr 1	February	27
+Central	1739.6429999999998	-262.0416	2014	Qtr 1	March	1
+East	5.9399999999999995	1.6038	2014	Qtr 1	March	1
+South			2014	Qtr 1	March	1
+West	457.56800000000004	51.47639999999994	2014	Qtr 1	March	1
+Central			2014	Qtr 1	March	2
+East	202.38400000000001	56.0112	2014	Qtr 1	March	2
+South			2014	Qtr 1	March	2
+West			2014	Qtr 1	March	2
+Central	176.77199999999996	-459.6072	2014	Qtr 1	March	3
+East	523.312	-150.1083	2014	Qtr 1	March	3
+South	19.456000000000003	3.404799999999998	2014	Qtr 1	March	3
+West	626.3520000000001	-23.4882	2014	Qtr 1	March	3
+Central			2014	Qtr 1	March	4
+East			2014	Qtr 1	March	4
+South	370.45200000000006	20.07779999999996	2014	Qtr 1	March	4
+West			2014	Qtr 1	March	4
+Central			2014	Qtr 1	March	5
+East	705.5620000000001	261.19010000000003	2014	Qtr 1	March	5
+South			2014	Qtr 1	March	5
+West			2014	Qtr 1	March	5
+Central			2014	Qtr 1	March	7
+East			2014	Qtr 1	March	7
+South			2014	Qtr 1	March	7
+West	1561.062	134.1538999999999	2014	Qtr 1	March	7
+Central	22.38	10.7424	2014	Qtr 1	March	10
+East			2014	Qtr 1	March	10
+South			2014	Qtr 1	March	10
+West	719.5760000000001	-6.5538	2014	Qtr 1	March	10
+Central			2014	Qtr 1	March	11
+East	127.70400000000001	53.002399999999994	2014	Qtr 1	March	11
+South	782.6300000000001	223.98380000000006	2014	Qtr 1	March	11
+West	7.98	2.0747999999999998	2014	Qtr 1	March	11
+Central	583.358	158.68699999999995	2014	Qtr 1	March	14
+East			2014	Qtr 1	March	14
+South	1230.976	316.8496	2014	Qtr 1	March	14
+West	294.216	52.96579999999999	2014	Qtr 1	March	14
+Central			2014	Qtr 1	March	15
+East			2014	Qtr 1	March	15
+South	370.782	33.59799999999997	2014	Qtr 1	March	15
+West			2014	Qtr 1	March	15
+Central			2014	Qtr 1	March	16
+East			2014	Qtr 1	March	16
+South	471.92	29.49500000000002	2014	Qtr 1	March	16
+West			2014	Qtr 1	March	16
+Central	275.10400000000004	115.8478	2014	Qtr 1	March	17
+East	3581.754	-990.5173	2014	Qtr 1	March	17
+South	103.5	42.8123	2014	Qtr 1	March	17
+West			2014	Qtr 1	March	17
+Central			2014	Qtr 1	March	18
+East			2014	Qtr 1	March	18
+South	23661.228	-1789.7327	2014	Qtr 1	March	18
+West	4445.488	835.0237999999998	2014	Qtr 1	March	18
+Central			2014	Qtr 1	March	19
+East			2014	Qtr 1	March	19
+South	590.7620000000001	68.63529999999997	2014	Qtr 1	March	19
+West			2014	Qtr 1	March	19
+Central			2014	Qtr 1	March	21
+East	13.456	2.7914000000000003	2014	Qtr 1	March	21
+South	4096.360000000001	1052.5821000000003	2014	Qtr 1	March	21
+West			2014	Qtr 1	March	21
+Central	16.28	6.5120000000000005	2014	Qtr 1	March	22
+East			2014	Qtr 1	March	22
+South	59.109000000000016	-45.3169	2014	Qtr 1	March	22
+West	388.70399999999995	-12.1296	2014	Qtr 1	March	22
+Central			2014	Qtr 1	March	23
+East			2014	Qtr 1	March	23
+South	9.912	3.2213999999999996	2014	Qtr 1	March	23
+West	935.1519999999999	123.70100000000002	2014	Qtr 1	March	23
+Central			2014	Qtr 1	March	24
+East	24.900000000000002	11.703000000000001	2014	Qtr 1	March	24
+South			2014	Qtr 1	March	24
+West	40.48	14.572799999999997	2014	Qtr 1	March	24
+Central			2014	Qtr 1	March	25
+East	366.786	65.2064	2014	Qtr 1	March	25
+South			2014	Qtr 1	March	25
+West	92.36	31.461999999999996	2014	Qtr 1	March	25
+Central			2014	Qtr 1	March	26
+East			2014	Qtr 1	March	26
+South			2014	Qtr 1	March	26
+West	145.13000000000002	30.7658	2014	Qtr 1	March	26
+Central	1190.84	109.50120000000005	2014	Qtr 1	March	28
+East	330.588	-143.2548	2014	Qtr 1	March	28
+South			2014	Qtr 1	March	28
+West	302.376	22.678200000000018	2014	Qtr 1	March	28
+Central	890.8409999999999	-152.7156	2014	Qtr 1	March	29
+East			2014	Qtr 1	March	29
+South			2014	Qtr 1	March	29
+West			2014	Qtr 1	March	29
+Central	844.2660000000001	198.85789999999997	2014	Qtr 1	March	30
+East	60.15	23.793000000000003	2014	Qtr 1	March	30
+South			2014	Qtr 1	March	30
+West	265.906	10.102000000000004	2014	Qtr 1	March	30
+Central	88.11800000000001	0.1694	2014	Qtr 1	March	31
+East	0.8520000000000001	-0.5964	2014	Qtr 1	March	31
+South	1144.0339999999997	88.11430000000009	2014	Qtr 1	March	31
+West	726.5480000000001	267.4224	2014	Qtr 1	March	31
+Central			2014	Qtr 2	April	1
+East	73.19999999999999	5.735999999999996	2014	Qtr 2	April	1
+South			2014	Qtr 2	April	1
+West	46.688	20.3536	2014	Qtr 2	April	1
+Central	60.20800000000001	19.817	2014	Qtr 2	April	2
+East			2014	Qtr 2	April	2
+South	1398.3500000000001	387.5792	2014	Qtr 2	April	2
+West			2014	Qtr 2	April	2
+Central			2014	Qtr 2	April	3
+East			2014	Qtr 2	April	3
+South			2014	Qtr 2	April	3
+West	233.45	85.6044	2014	Qtr 2	April	3
+Central	84.83	26.160099999999993	2014	Qtr 2	April	4
+East			2014	Qtr 2	April	4
+South	364.92999999999995	67.975	2014	Qtr 2	April	4
+West	26.084	11.316999999999998	2014	Qtr 2	April	4
+Central	872.338	58.47390000000001	2014	Qtr 2	April	5
+East	55.48	26.630399999999998	2014	Qtr 2	April	5
+South	4367.279999999999	168.80010000000007	2014	Qtr 2	April	5
+West			2014	Qtr 2	April	5
+Central			2014	Qtr 2	April	6
+East	326.762	-52.3322	2014	Qtr 2	April	6
+South			2014	Qtr 2	April	6
+West	1323.928	351.84739999999994	2014	Qtr 2	April	6
+Central			2014	Qtr 2	April	7
+East			2014	Qtr 2	April	7
+South	1021.17	305.05600000000004	2014	Qtr 2	April	7
+West			2014	Qtr 2	April	7
+Central			2014	Qtr 2	April	8
+East	172.11	-94.6605	2014	Qtr 2	April	8
+South	1215.92	316.1392000000001	2014	Qtr 2	April	8
+West	570.72	138.36939999999998	2014	Qtr 2	April	8
+Central	758.3520000000001	265.4232	2014	Qtr 2	April	11
+East			2014	Qtr 2	April	11
+South	737.2000000000002	129.54950000000002	2014	Qtr 2	April	11
+West	419.688	128.30020000000002	2014	Qtr 2	April	11
+Central	32.400000000000006	15.552000000000001	2014	Qtr 2	April	12
+East			2014	Qtr 2	April	12
+South			2014	Qtr 2	April	12
+West	1879.723	137.10609999999997	2014	Qtr 2	April	12
+Central			2014	Qtr 2	April	13
+East	638.5760000000001	-384.7942	2014	Qtr 2	April	13
+South			2014	Qtr 2	April	13
+West			2014	Qtr 2	April	13
+Central			2014	Qtr 2	April	15
+East			2014	Qtr 2	April	15
+South			2014	Qtr 2	April	15
+West	294.71999999999997	107.99999999999999	2014	Qtr 2	April	15
+Central			2014	Qtr 2	April	16
+East			2014	Qtr 2	April	16
+South	39.072	9.768	2014	Qtr 2	April	16
+West			2014	Qtr 2	April	16
+Central	697.074	61.793699999999944	2014	Qtr 2	April	18
+East			2014	Qtr 2	April	18
+South			2014	Qtr 2	April	18
+West	323.458	108.14369999999998	2014	Qtr 2	April	18
+Central			2014	Qtr 2	April	19
+East			2014	Qtr 2	April	19
+South	129.33	60.9174	2014	Qtr 2	April	19
+West	76.14	26.648999999999997	2014	Qtr 2	April	19
+Central	1190.53	-222.016	2014	Qtr 2	April	20
+East			2014	Qtr 2	April	20
+South			2014	Qtr 2	April	20
+West	59.92	27.563200000000002	2014	Qtr 2	April	20
+Central			2014	Qtr 2	April	21
+East			2014	Qtr 2	April	21
+South	828.8399999999999	0	2014	Qtr 2	April	21
+West	16.520000000000003	5.5755	2014	Qtr 2	April	21
+Central			2014	Qtr 2	April	22
+East	257.752	124.78689999999999	2014	Qtr 2	April	22
+South			2014	Qtr 2	April	22
+West			2014	Qtr 2	April	22
+Central			2014	Qtr 2	April	23
+East	595.0699999999999	-23.293	2014	Qtr 2	April	23
+South			2014	Qtr 2	April	23
+West	48.91	22.987699999999997	2014	Qtr 2	April	23
+Central	16.608000000000004	4.174800000000001	2014	Qtr 2	April	25
+East			2014	Qtr 2	April	25
+South	302.376	37.797	2014	Qtr 2	April	25
+West	2061.01	290.8953	2014	Qtr 2	April	25
+Central			2014	Qtr 2	April	26
+East			2014	Qtr 2	April	26
+South			2014	Qtr 2	April	26
+West	282.56800000000004	40.74499999999998	2014	Qtr 2	April	26
+Central			2014	Qtr 2	April	28
+East	898.5160000000001	166.17020000000002	2014	Qtr 2	April	28
+South			2014	Qtr 2	April	28
+West	1679.96	125.99700000000007	2014	Qtr 2	April	28
+Central			2014	Qtr 2	April	29
+East	37.44	11.1312	2014	Qtr 2	April	29
+South	731.404	90.55019999999992	2014	Qtr 2	April	29
+West			2014	Qtr 2	April	29
+Central			2014	Qtr 2	April	30
+East			2014	Qtr 2	April	30
+South	1048.74	276.4956	2014	Qtr 2	April	30
+West			2014	Qtr 2	April	30
+Central			2014	Qtr 2	May	2
+East	26.136000000000003	1.9602000000000004	2014	Qtr 2	May	2
+South	479.98400000000004	89.99699999999999	2014	Qtr 2	May	2
+West			2014	Qtr 2	May	2
+Central	21.560000000000002	10.348799999999999	2014	Qtr 2	May	3
+East	51.072	18.513599999999997	2014	Qtr 2	May	3
+South			2014	Qtr 2	May	3
+West			2014	Qtr 2	May	3
+Central	90.11199999999998	25.744799999999994	2014	Qtr 2	May	4
+East	27.46	9.8856	2014	Qtr 2	May	4
+South			2014	Qtr 2	May	4
+West	69.86	22.932	2014	Qtr 2	May	4
+Central	173.11700000000002	-5.1743	2014	Qtr 2	May	5
+East			2014	Qtr 2	May	5
+South	87.86	39.6874	2014	Qtr 2	May	5
+West			2014	Qtr 2	May	5
+Central			2014	Qtr 2	May	6
+East			2014	Qtr 2	May	6
+South			2014	Qtr 2	May	6
+West	254.456	85.7158	2014	Qtr 2	May	6
+Central			2014	Qtr 2	May	7
+East	1091.35	215.8138	2014	Qtr 2	May	7
+South			2014	Qtr 2	May	7
+West			2014	Qtr 2	May	7
+Central			2014	Qtr 2	May	8
+East	1799.9699999999998	239.9960000000001	2014	Qtr 2	May	8
+South			2014	Qtr 2	May	8
+West			2014	Qtr 2	May	8
+Central			2014	Qtr 2	May	9
+East			2014	Qtr 2	May	9
+South	158.70999999999998	50.7928	2014	Qtr 2	May	9
+West	235.76999999999998	44.38080000000001	2014	Qtr 2	May	9
+Central			2014	Qtr 2	May	10
+East	372.28499999999997	-211.6773	2014	Qtr 2	May	10
+South			2014	Qtr 2	May	10
+West	1971.5140000000004	269.5033	2014	Qtr 2	May	10
+Central	1606.8919999999998	-299.3045	2014	Qtr 2	May	11
+East	35.910000000000004	9.695699999999999	2014	Qtr 2	May	11
+South			2014	Qtr 2	May	11
+West			2014	Qtr 2	May	11
+Central	34.79	10.784899999999999	2014	Qtr 2	May	12
+East	700.056	-130.0104	2014	Qtr 2	May	12
+South			2014	Qtr 2	May	12
+West			2014	Qtr 2	May	12
+Central			2014	Qtr 2	May	13
+East			2014	Qtr 2	May	13
+South	405.456	-329.5624	2014	Qtr 2	May	13
+West	492.92600000000004	87.27869999999999	2014	Qtr 2	May	13
+Central			2014	Qtr 2	May	14
+East			2014	Qtr 2	May	14
+South	310.88000000000005	23.31599999999999	2014	Qtr 2	May	14
+West			2014	Qtr 2	May	14
+Central			2014	Qtr 2	May	16
+East			2014	Qtr 2	May	16
+South			2014	Qtr 2	May	16
+West	289.28	20.85000000000001	2014	Qtr 2	May	16
+Central	91.67999999999999	45.839999999999996	2014	Qtr 2	May	17
+East			2014	Qtr 2	May	17
+South			2014	Qtr 2	May	17
+West			2014	Qtr 2	May	17
+Central	3.9840000000000004	1.4442000000000004	2014	Qtr 2	May	18
+East	944.964	-159.4482	2014	Qtr 2	May	18
+South			2014	Qtr 2	May	18
+West			2014	Qtr 2	May	18
+Central	57.42	26.413199999999996	2014	Qtr 2	May	19
+East			2014	Qtr 2	May	19
+South	34.2	9.234	2014	Qtr 2	May	19
+West			2014	Qtr 2	May	19
+Central	108.44399999999999	-19.3413	2014	Qtr 2	May	20
+East	211.66000000000003	81.39940000000001	2014	Qtr 2	May	20
+South			2014	Qtr 2	May	20
+West			2014	Qtr 2	May	20
+Central	186.90800000000002	-37.6056	2014	Qtr 2	May	21
+East	711.6800000000001	297.0884	2014	Qtr 2	May	21
+South	3333.9000000000005	1449.5187	2014	Qtr 2	May	21
+West	31.84	10.507199999999997	2014	Qtr 2	May	21
+Central			2014	Qtr 2	May	22
+East			2014	Qtr 2	May	22
+South	180.93	46.581	2014	Qtr 2	May	22
+West			2014	Qtr 2	May	22
+Central			2014	Qtr 2	May	23
+East	310.798	51.829400000000014	2014	Qtr 2	May	23
+South			2014	Qtr 2	May	23
+West	12.96	6.2208000000000006	2014	Qtr 2	May	23
+Central			2014	Qtr 2	May	24
+East	116.28	56.977199999999996	2014	Qtr 2	May	24
+South			2014	Qtr 2	May	24
+West			2014	Qtr 2	May	24
+Central	104.91999999999999	-190.509	2014	Qtr 2	May	25
+East	14.62	6.725199999999999	2014	Qtr 2	May	25
+South			2014	Qtr 2	May	25
+West			2014	Qtr 2	May	25
+Central	475.788	5.737799999999945	2014	Qtr 2	May	26
+East			2014	Qtr 2	May	26
+South			2014	Qtr 2	May	26
+West	849.9300000000001	124.77080000000002	2014	Qtr 2	May	26
+Central	17.459999999999997	-30.555	2014	Qtr 2	May	27
+East			2014	Qtr 2	May	27
+South			2014	Qtr 2	May	27
+West	2139.934	142.09579999999994	2014	Qtr 2	May	27
+Central			2014	Qtr 2	May	28
+East			2014	Qtr 2	May	28
+South			2014	Qtr 2	May	28
+West	221.96800000000002	59.30879999999999	2014	Qtr 2	May	28
+Central	1075.431	-49.8411	2014	Qtr 2	May	30
+East	835.8620000000001	265.7478999999999	2014	Qtr 2	May	30
+South	13.620000000000001	6.129	2014	Qtr 2	May	30
+West			2014	Qtr 2	May	30
+Central			2014	Qtr 2	May	31
+East			2014	Qtr 2	May	31
+South	773.7	230.97269999999995	2014	Qtr 2	May	31
+West			2014	Qtr 2	May	31
+Central	3949.71	1233.5583000000001	2014	Qtr 2	June	1
+East	334.68000000000006	104.78879999999997	2014	Qtr 2	June	1
+South	904.13	238.40380000000002	2014	Qtr 2	June	1
+West			2014	Qtr 2	June	1
+Central			2014	Qtr 2	June	2
+East			2014	Qtr 2	June	2
+South	605.4699999999999	176.92719999999997	2014	Qtr 2	June	2
+West	133.12800000000001	41.43359999999999	2014	Qtr 2	June	2
+Central	225.45600000000002	-17.385	2014	Qtr 2	June	3
+East			2014	Qtr 2	June	3
+South			2014	Qtr 2	June	3
+West	515.88	113.49359999999999	2014	Qtr 2	June	3
+Central			2014	Qtr 2	June	4
+East	456.272	-6.4932	2014	Qtr 2	June	4
+South			2014	Qtr 2	June	4
+West			2014	Qtr 2	June	4
+Central	138.812	0.4391999999999783	2014	Qtr 2	June	6
+East	1171.808	-287.2467	2014	Qtr 2	June	6
+South	63.381	21.570800000000002	2014	Qtr 2	June	6
+West			2014	Qtr 2	June	6
+Central	281.397	-230.3316	2014	Qtr 2	June	7
+East			2014	Qtr 2	June	7
+South			2014	Qtr 2	June	7
+West			2014	Qtr 2	June	7
+Central			2014	Qtr 2	June	8
+East	1745.3600000000001	109.52399999999993	2014	Qtr 2	June	8
+South	170.35200000000003	10.647000000000006	2014	Qtr 2	June	8
+West	585.552	73.19399999999996	2014	Qtr 2	June	8
+Central	142.344	17.154	2014	Qtr 2	June	9
+East			2014	Qtr 2	June	9
+South	1441.3	245.0209999999999	2014	Qtr 2	June	9
+West	3879.364	366.85389999999984	2014	Qtr 2	June	9
+Central	491.55	240.8595	2014	Qtr 2	June	10
+East			2014	Qtr 2	June	10
+South			2014	Qtr 2	June	10
+West			2014	Qtr 2	June	10
+Central			2014	Qtr 2	June	13
+East			2014	Qtr 2	June	13
+South			2014	Qtr 2	June	13
+West	14.52	4.7916	2014	Qtr 2	June	13
+Central	212.94	57.4938	2014	Qtr 2	June	14
+East			2014	Qtr 2	June	14
+South			2014	Qtr 2	June	14
+West			2014	Qtr 2	June	14
+Central	942.9739999999999	-78.241	2014	Qtr 2	June	15
+East			2014	Qtr 2	June	15
+South			2014	Qtr 2	June	15
+West			2014	Qtr 2	June	15
+Central	647.84	32.39199999999994	2014	Qtr 2	June	16
+East	115.95200000000001	44.29559999999999	2014	Qtr 2	June	16
+South			2014	Qtr 2	June	16
+West			2014	Qtr 2	June	16
+Central	62.016	22.480800000000002	2014	Qtr 2	June	17
+East	65.97	31.005899999999997	2014	Qtr 2	June	17
+South			2014	Qtr 2	June	17
+West	3290.516	1073.1429999999998	2014	Qtr 2	June	17
+Central			2014	Qtr 2	June	18
+East			2014	Qtr 2	June	18
+South			2014	Qtr 2	June	18
+West	139.8	12.232500000000009	2014	Qtr 2	June	18
+Central	1828.9496	-62.9594	2014	Qtr 2	June	20
+East			2014	Qtr 2	June	20
+South			2014	Qtr 2	June	20
+West			2014	Qtr 2	June	20
+Central			2014	Qtr 2	June	21
+East	3645.5209999999997	775.3995	2014	Qtr 2	June	21
+South	425.66999999999996	98.92980000000001	2014	Qtr 2	June	21
+West	36.252	-24.9072	2014	Qtr 2	June	21
+Central	663.75	9.716399999999993	2014	Qtr 2	June	22
+East	1106.7699999999998	-20.0355	2014	Qtr 2	June	22
+South			2014	Qtr 2	June	22
+West	204.978	50.533800000000014	2014	Qtr 2	June	22
+Central			2014	Qtr 2	June	23
+East	86.376	1.079699999999999	2014	Qtr 2	June	23
+South	23.119999999999997	2.1006	2014	Qtr 2	June	23
+West			2014	Qtr 2	June	23
+Central			2014	Qtr 2	June	24
+East			2014	Qtr 2	June	24
+South			2014	Qtr 2	June	24
+West	4.272	0.9611999999999998	2014	Qtr 2	June	24
+Central			2014	Qtr 2	June	25
+East			2014	Qtr 2	June	25
+South			2014	Qtr 2	June	25
+West	792.76	49.71719999999997	2014	Qtr 2	June	25
+Central			2014	Qtr 2	June	27
+East			2014	Qtr 2	June	27
+South	616.14	76.10520000000002	2014	Qtr 2	June	27
+West			2014	Qtr 2	June	27
+Central	6.08	3.04	2014	Qtr 2	June	28
+East	1639.7109999999998	106.722	2014	Qtr 2	June	28
+South			2014	Qtr 2	June	28
+West			2014	Qtr 2	June	28
+Central			2014	Qtr 2	June	29
+East	46.67999999999999	8.557499999999997	2014	Qtr 2	June	29
+South			2014	Qtr 2	June	29
+West			2014	Qtr 2	June	29
+Central	52.48000000000001	17.904799999999998	2014	Qtr 2	June	30
+East	344.05600000000004	112.54359999999997	2014	Qtr 2	June	30
+South	310.688	108.74079999999998	2014	Qtr 2	June	30
+West	32.400000000000006	10.367999999999999	2014	Qtr 2	June	30
+Central			2014	Qtr 3	July	1
+East			2014	Qtr 3	July	1
+South	581.1039999999999	68.36119999999998	2014	Qtr 3	July	1
+West	19.92	6.9719999999999995	2014	Qtr 3	July	1
+Central			2014	Qtr 3	July	2
+East	79.56	22.150800000000004	2014	Qtr 3	July	2
+South			2014	Qtr 3	July	2
+West			2014	Qtr 3	July	2
+Central			2014	Qtr 3	July	4
+East			2014	Qtr 3	July	4
+South	37.44	18.564	2014	Qtr 3	July	4
+West	209.96800000000002	65.3808	2014	Qtr 3	July	4
+Central	502.20000000000005	-79.3332	2014	Qtr 3	July	5
+East			2014	Qtr 3	July	5
+South	760.9440000000002	194.2668	2014	Qtr 3	July	5
+West	180.96000000000004	67.86	2014	Qtr 3	July	5
+Central			2014	Qtr 3	July	6
+East	559.9920000000001	174.99749999999997	2014	Qtr 3	July	6
+South			2014	Qtr 3	July	6
+West	478.48	47.84800000000001	2014	Qtr 3	July	6
+Central			2014	Qtr 3	July	7
+East	241.194	-34.6598	2014	Qtr 3	July	7
+South			2014	Qtr 3	July	7
+West			2014	Qtr 3	July	7
+Central			2014	Qtr 3	July	8
+East	63.882000000000005	10.647000000000004	2014	Qtr 3	July	8
+South			2014	Qtr 3	July	8
+West	699.192	-19.089	2014	Qtr 3	July	8
+Central	24.720000000000006	8.1138	2014	Qtr 3	July	9
+East			2014	Qtr 3	July	9
+South			2014	Qtr 3	July	9
+West	240.801	49.093999999999994	2014	Qtr 3	July	9
+Central	586.3360000000001	46.82640000000002	2014	Qtr 3	July	11
+East	1600.87	490.9033999999999	2014	Qtr 3	July	11
+South			2014	Qtr 3	July	11
+West			2014	Qtr 3	July	11
+Central	613.862	11.715400000000056	2014	Qtr 3	July	12
+East			2014	Qtr 3	July	12
+South			2014	Qtr 3	July	12
+West	1346.1499999999999	76.73899999999986	2014	Qtr 3	July	12
+Central			2014	Qtr 3	July	13
+East			2014	Qtr 3	July	13
+South			2014	Qtr 3	July	13
+West	351.216	4.390199999999979	2014	Qtr 3	July	13
+Central	68.204	-42.5674	2014	Qtr 3	July	14
+East	168.47	5.174999999999992	2014	Qtr 3	July	14
+South			2014	Qtr 3	July	14
+West	55.92	6.291	2014	Qtr 3	July	14
+Central	9.510000000000002	3.988200000000001	2014	Qtr 3	July	15
+East			2014	Qtr 3	July	15
+South			2014	Qtr 3	July	15
+West			2014	Qtr 3	July	15
+Central			2014	Qtr 3	July	18
+East	13.904	4.5188	2014	Qtr 3	July	18
+South			2014	Qtr 3	July	18
+West	259.136	-25.9136	2014	Qtr 3	July	18
+Central			2014	Qtr 3	July	19
+East	455.23	100.99640000000002	2014	Qtr 3	July	19
+South			2014	Qtr 3	July	19
+West	6.096	2.2098	2014	Qtr 3	July	19
+Central	1340.976	-115.8528	2014	Qtr 3	July	20
+East	53.344	-27.0848	2014	Qtr 3	July	20
+South			2014	Qtr 3	July	20
+West	891.4659999999999	305.12569999999994	2014	Qtr 3	July	20
+Central	787.866	-69.0488	2014	Qtr 3	July	21
+East			2014	Qtr 3	July	21
+South			2014	Qtr 3	July	21
+West	1173.6160000000002	103.17479999999999	2014	Qtr 3	July	21
+Central	26.632	1.331599999999999	2014	Qtr 3	July	22
+East	165.94	59.261599999999994	2014	Qtr 3	July	22
+South			2014	Qtr 3	July	22
+West	1155.7720000000002	169.24159999999998	2014	Qtr 3	July	22
+Central			2014	Qtr 3	July	23
+East	99.98	7.9983999999999895	2014	Qtr 3	July	23
+South			2014	Qtr 3	July	23
+West	2513.2039999999997	259.48599999999993	2014	Qtr 3	July	23
+Central			2014	Qtr 3	July	25
+East			2014	Qtr 3	July	25
+South			2014	Qtr 3	July	25
+West	8341.289999999999	384.50839999999965	2014	Qtr 3	July	25
+Central	2780.2679999999996	-3820.507	2014	Qtr 3	July	26
+East			2014	Qtr 3	July	26
+South	256.48	104.14149999999998	2014	Qtr 3	July	26
+West	2003.246	145.3944999999998	2014	Qtr 3	July	26
+Central			2014	Qtr 3	July	27
+East	65.78	32.2322	2014	Qtr 3	July	27
+South			2014	Qtr 3	July	27
+West	514.28	38.08000000000001	2014	Qtr 3	July	27
+Central			2014	Qtr 3	July	28
+East			2014	Qtr 3	July	28
+South	193.152	34.69839999999999	2014	Qtr 3	July	28
+West			2014	Qtr 3	July	28
+Central			2014	Qtr 3	July	30
+East			2014	Qtr 3	July	30
+South			2014	Qtr 3	July	30
+West	1367.84	259.8896	2014	Qtr 3	July	30
+Central			2014	Qtr 3	August	1
+East	5.68	1.9169999999999998	2014	Qtr 3	August	1
+South	202.89600000000002	57.64479999999999	2014	Qtr 3	August	1
+West	19.752000000000002	6.9132	2014	Qtr 3	August	1
+Central	886.2800000000001	248.02760000000006	2014	Qtr 3	August	2
+East			2014	Qtr 3	August	2
+South			2014	Qtr 3	August	2
+West			2014	Qtr 3	August	2
+Central			2014	Qtr 3	August	3
+East	163.62	51.14640000000001	2014	Qtr 3	August	3
+South			2014	Qtr 3	August	3
+West	314.374	-127.8613	2014	Qtr 3	August	3
+Central			2014	Qtr 3	August	4
+East	617.12	256.9266	2014	Qtr 3	August	4
+South			2014	Qtr 3	August	4
+West	2126.034	576.5563	2014	Qtr 3	August	4
+Central	489.22999999999996	41.934	2014	Qtr 3	August	5
+East	1369.33	362.66870000000006	2014	Qtr 3	August	5
+South			2014	Qtr 3	August	5
+West	550.164	99.50319999999998	2014	Qtr 3	August	5
+Central			2014	Qtr 3	August	6
+East	199.98	83.9916	2014	Qtr 3	August	6
+South	62.91	22.647599999999997	2014	Qtr 3	August	6
+West			2014	Qtr 3	August	6
+Central	1109.7250000000001	436.102	2014	Qtr 3	August	8
+East			2014	Qtr 3	August	8
+South	155.45600000000002	-7.7728	2014	Qtr 3	August	8
+West	2690.4480000000003	700.8049999999998	2014	Qtr 3	August	8
+Central			2014	Qtr 3	August	9
+East			2014	Qtr 3	August	9
+South	193.936	27.741199999999974	2014	Qtr 3	August	9
+West	3411.749	673.1525999999999	2014	Qtr 3	August	9
+Central			2014	Qtr 3	August	11
+East	375.34	18.766999999999996	2014	Qtr 3	August	11
+South			2014	Qtr 3	August	11
+West	76.28	26.8774	2014	Qtr 3	August	11
+Central			2014	Qtr 3	August	12
+East	196.21	98.105	2014	Qtr 3	August	12
+South	744.3940000000001	177.4792	2014	Qtr 3	August	12
+West	891.7760000000001	82.00880000000002	2014	Qtr 3	August	12
+Central	30.959999999999994	-52.632	2014	Qtr 3	August	15
+East	62.94	30.211199999999998	2014	Qtr 3	August	15
+South	243.60000000000002	46.81899999999998	2014	Qtr 3	August	15
+West	505.282	93.7844	2014	Qtr 3	August	15
+Central			2014	Qtr 3	August	16
+East	853.0919999999999	-227.4912	2014	Qtr 3	August	16
+South			2014	Qtr 3	August	16
+West			2014	Qtr 3	August	16
+Central	15.552000000000003	5.4432	2014	Qtr 3	August	17
+East			2014	Qtr 3	August	17
+South	484.78999999999996	187.74039999999997	2014	Qtr 3	August	17
+West			2014	Qtr 3	August	17
+Central			2014	Qtr 3	August	19
+East	96.68	-55.9716	2014	Qtr 3	August	19
+South	983.73	182.82870000000003	2014	Qtr 3	August	19
+West	358.696	48.60480000000001	2014	Qtr 3	August	19
+Central	421.372	-6.0196	2014	Qtr 3	August	20
+East			2014	Qtr 3	August	20
+South	1417.35	575.9100999999998	2014	Qtr 3	August	20
+West			2014	Qtr 3	August	20
+Central	11.56	5.6644000000000005	2014	Qtr 3	August	22
+East	3.912	1.0269000000000001	2014	Qtr 3	August	22
+South	7.6320000000000014	-1.8126	2014	Qtr 3	August	22
+West			2014	Qtr 3	August	22
+Central	19.44	9.5256	2014	Qtr 3	August	23
+East	71.84	34.942400000000006	2014	Qtr 3	August	23
+South			2014	Qtr 3	August	23
+West	473.944	115.93359999999997	2014	Qtr 3	August	23
+Central			2014	Qtr 3	August	24
+East	25.951999999999998	10.8096	2014	Qtr 3	August	24
+South	25.5	6.63	2014	Qtr 3	August	24
+West	8.288	2.693599999999999	2014	Qtr 3	August	24
+Central	38.06399999999999	-59.6184	2014	Qtr 3	August	25
+East	229.50199999999998	44.1669	2014	Qtr 3	August	25
+South			2014	Qtr 3	August	25
+West	1184.0840000000003	134.2938	2014	Qtr 3	August	25
+Central			2014	Qtr 3	August	26
+East	190.01000000000002	69.10489999999999	2014	Qtr 3	August	26
+South			2014	Qtr 3	August	26
+West	176.8	22.98400000000001	2014	Qtr 3	August	26
+Central			2014	Qtr 3	August	27
+East			2014	Qtr 3	August	27
+South	1825.3699999999997	487.85489999999993	2014	Qtr 3	August	27
+West	244.76000000000002	25.87739999999998	2014	Qtr 3	August	27
+Central			2014	Qtr 3	August	29
+East			2014	Qtr 3	August	29
+South	709.0425000000001	-436.7431	2014	Qtr 3	August	29
+West	123.28	60.273599999999995	2014	Qtr 3	August	29
+Central			2014	Qtr 3	August	30
+East	121.24	21.485	2014	Qtr 3	August	30
+South			2014	Qtr 3	August	30
+West			2014	Qtr 3	August	30
+Central			2014	Qtr 3	August	31
+East			2014	Qtr 3	August	31
+South			2014	Qtr 3	August	31
+West	92.52	18.50399999999999	2014	Qtr 3	August	31
+Central	34.752	4.867199999999997	2014	Qtr 3	September	1
+East	380.744	65.43040000000002	2014	Qtr 3	September	1
+South			2014	Qtr 3	September	1
+West	53.94	15.642599999999995	2014	Qtr 3	September	1
+Central	1275.63	27.912900000000008	2014	Qtr 3	September	2
+East	184.54	45.167699999999996	2014	Qtr 3	September	2
+South	1793.98	843.1705999999999	2014	Qtr 3	September	2
+West			2014	Qtr 3	September	2
+Central	7.679999999999998	-11.52	2014	Qtr 3	September	3
+East	14.399999999999999	7.056	2014	Qtr 3	September	3
+South			2014	Qtr 3	September	3
+West			2014	Qtr 3	September	3
+Central			2014	Qtr 3	September	5
+East	264.32	19.823999999999998	2014	Qtr 3	September	5
+South	31.983999999999998	1.998999999999998	2014	Qtr 3	September	5
+West			2014	Qtr 3	September	5
+Central			2014	Qtr 3	September	6
+East			2014	Qtr 3	September	6
+South			2014	Qtr 3	September	6
+West	100.36	39.630799999999994	2014	Qtr 3	September	6
+Central	2474.991	-78.2368	2014	Qtr 3	September	7
+East	917.044	-451.5299	2014	Qtr 3	September	7
+South			2014	Qtr 3	September	7
+West	131.84000000000003	48.520399999999995	2014	Qtr 3	September	7
+Central	11757.795999999998	-1904.2052	2014	Qtr 3	September	8
+East	193.06400000000002	19.32179999999999	2014	Qtr 3	September	8
+South	371.81999999999994	154.94219999999999	2014	Qtr 3	September	8
+West	1905.7479999999998	277.25349999999986	2014	Qtr 3	September	8
+Central	114.49600000000001	55.205000000000005	2014	Qtr 3	September	9
+East	2629.1020000000003	533.1521999999999	2014	Qtr 3	September	9
+South	1299.99	-571.9956	2014	Qtr 3	September	9
+West			2014	Qtr 3	September	9
+Central			2014	Qtr 3	September	10
+East	336.82	98.58839999999998	2014	Qtr 3	September	10
+South	9.64	4.7236	2014	Qtr 3	September	10
+West	1508.768	156.30880000000008	2014	Qtr 3	September	10
+Central			2014	Qtr 3	September	11
+East			2014	Qtr 3	September	11
+South			2014	Qtr 3	September	11
+West	127.94999999999999	21.751499999999986	2014	Qtr 3	September	11
+Central	793.0299999999999	172.39679999999998	2014	Qtr 3	September	12
+East	3919.206	403.8061000000002	2014	Qtr 3	September	12
+South	192.424	24.680699999999987	2014	Qtr 3	September	12
+West			2014	Qtr 3	September	12
+Central	340.116	-9.7176	2014	Qtr 3	September	13
+East	275.51400000000007	58.4658	2014	Qtr 3	September	13
+South	18.648000000000003	-12.432	2014	Qtr 3	September	13
+West	641.13	207.50750000000002	2014	Qtr 3	September	13
+Central	104.01599999999999	-144.195	2014	Qtr 3	September	14
+East	4744.012	1613.7558	2014	Qtr 3	September	14
+South	175.688	61.1991	2014	Qtr 3	September	14
+West			2014	Qtr 3	September	14
+Central			2014	Qtr 3	September	15
+East	133.43599999999998	30.1722	2014	Qtr 3	September	15
+South			2014	Qtr 3	September	15
+West			2014	Qtr 3	September	15
+Central			2014	Qtr 3	September	16
+East	33.552	12.581999999999999	2014	Qtr 3	September	16
+South			2014	Qtr 3	September	16
+West			2014	Qtr 3	September	16
+Central			2014	Qtr 3	September	17
+East	5.892000000000001	-4.1244	2014	Qtr 3	September	17
+South	52.608000000000004	14.8718	2014	Qtr 3	September	17
+West	762.0229999999999	222.78129999999996	2014	Qtr 3	September	17
+Central	5579.94	-761.9928	2014	Qtr 3	September	19
+East	887.103	177.42059999999998	2014	Qtr 3	September	19
+South	2692.329	-937.4184	2014	Qtr 3	September	19
+West	179.265	-17.1535	2014	Qtr 3	September	19
+Central	1122.25	-474.697	2014	Qtr 3	September	20
+East	4106.51	1106.3026	2014	Qtr 3	September	20
+South	2.8160000000000003	0.9855999999999999	2014	Qtr 3	September	20
+West	104.392	37.510200000000005	2014	Qtr 3	September	20
+Central	77.25399999999999	14.043799999999997	2014	Qtr 3	September	21
+East	104.76000000000002	23.2686	2014	Qtr 3	September	21
+South			2014	Qtr 3	September	21
+West	2497.638	840.1333	2014	Qtr 3	September	21
+Central	331.536	-82.884	2014	Qtr 3	September	22
+East	693.992	125.91999999999996	2014	Qtr 3	September	22
+South	4.608	1.6704	2014	Qtr 3	September	22
+West	210.13	42.769299999999994	2014	Qtr 3	September	22
+Central	9900.19	4668.6935	2014	Qtr 3	September	23
+East	242.164	87.89239999999998	2014	Qtr 3	September	23
+South			2014	Qtr 3	September	23
+West	519.9830000000001	52.01159999999999	2014	Qtr 3	September	23
+Central			2014	Qtr 3	September	24
+East			2014	Qtr 3	September	24
+South			2014	Qtr 3	September	24
+West	211.96	8.478399999999993	2014	Qtr 3	September	24
+Central	340.3127999999999	-89.928	2014	Qtr 3	September	25
+East			2014	Qtr 3	September	25
+South			2014	Qtr 3	September	25
+West	14.576	2.368599999999999	2014	Qtr 3	September	25
+Central	154.70000000000002	37.0544	2014	Qtr 3	September	26
+East	265.23400000000004	30.515800000000006	2014	Qtr 3	September	26
+South			2014	Qtr 3	September	26
+West	1060.68	163.15639999999996	2014	Qtr 3	September	26
+Central			2014	Qtr 3	September	27
+East	87.53999999999999	37.6422	2014	Qtr 3	September	27
+South			2014	Qtr 3	September	27
+West	685.9	85.4642	2014	Qtr 3	September	27
+Central			2014	Qtr 3	September	28
+East	46.26	12.490200000000003	2014	Qtr 3	September	28
+South	444.03200000000004	51.87839999999997	2014	Qtr 3	September	28
+West			2014	Qtr 3	September	28
+Central			2014	Qtr 3	September	29
+East	3967.9919999999997	32.38560000000002	2014	Qtr 3	September	29
+South			2014	Qtr 3	September	29
+West	4141.0779999999995	857.8952999999997	2014	Qtr 3	September	29
+Central			2014	Qtr 3	September	30
+East	859.5880000000001	89.3072	2014	Qtr 3	September	30
+South	84.76800000000001	16.690799999999996	2014	Qtr 3	September	30
+West	43.176	13.4925	2014	Qtr 3	September	30
+Central			2014	Qtr 4	October	1
+East			2014	Qtr 4	October	1
+South			2014	Qtr 4	October	1
+West	4.71	0	2014	Qtr 4	October	1
+Central			2014	Qtr 4	October	2
+East			2014	Qtr 4	October	2
+South			2014	Qtr 4	October	2
+West	598.1440000000001	133.76319999999998	2014	Qtr 4	October	2
+Central	316.187	-93.3839	2014	Qtr 4	October	3
+East	212.952	5.523599999999993	2014	Qtr 4	October	3
+South	67.75999999999999	5.082	2014	Qtr 4	October	3
+West	265.784	17.35039999999998	2014	Qtr 4	October	3
+Central			2014	Qtr 4	October	4
+East	589.41	-6.549	2014	Qtr 4	October	4
+South			2014	Qtr 4	October	4
+West	139.33800000000002	51.61989999999999	2014	Qtr 4	October	4
+Central			2014	Qtr 4	October	5
+East	91.92	11.489999999999991	2014	Qtr 4	October	5
+South			2014	Qtr 4	October	5
+West	99.98	34.992999999999995	2014	Qtr 4	October	5
+Central	401.7	61.76760000000001	2014	Qtr 4	October	6
+East	83.92000000000002	-13.637	2014	Qtr 4	October	6
+South			2014	Qtr 4	October	6
+West	9.09	1.9088999999999996	2014	Qtr 4	October	6
+Central	107.44	10.744000000000007	2014	Qtr 4	October	7
+East	129.92	21.112000000000002	2014	Qtr 4	October	7
+South			2014	Qtr 4	October	7
+West			2014	Qtr 4	October	7
+Central			2014	Qtr 4	October	8
+East	123.92	55.763999999999996	2014	Qtr 4	October	8
+South	23.472	4.987799999999998	2014	Qtr 4	October	8
+West			2014	Qtr 4	October	8
+Central			2014	Qtr 4	October	9
+East			2014	Qtr 4	October	9
+South	88.768	31.068799999999996	2014	Qtr 4	October	9
+West	160.592	38.93549999999998	2014	Qtr 4	October	9
+Central	1488.7740000000001	117.40079999999996	2014	Qtr 4	October	10
+East	120.25800000000001	-84.7894	2014	Qtr 4	October	10
+South			2014	Qtr 4	October	10
+West	440.3539999999999	137.34120000000001	2014	Qtr 4	October	10
+Central			2014	Qtr 4	October	11
+East	483.336	78.55469999999997	2014	Qtr 4	October	11
+South	16.23	7.3605	2014	Qtr 4	October	11
+West	881.598	24.698599999999928	2014	Qtr 4	October	11
+Central	22.240000000000002	2.501999999999997	2014	Qtr 4	October	12
+East			2014	Qtr 4	October	12
+South			2014	Qtr 4	October	12
+West	36.29	10.3751	2014	Qtr 4	October	12
+Central			2014	Qtr 4	October	13
+East	272.672	39.33789999999998	2014	Qtr 4	October	13
+South	389.73999999999995	35.273000000000025	2014	Qtr 4	October	13
+West	1549.77	379.4923999999999	2014	Qtr 4	October	13
+Central	2347.394	719.2163999999998	2014	Qtr 4	October	14
+East	2178.0899999999997	340.14280000000014	2014	Qtr 4	October	14
+South			2014	Qtr 4	October	14
+West			2014	Qtr 4	October	14
+Central			2014	Qtr 4	October	15
+East	191.33999999999997	-4.9704	2014	Qtr 4	October	15
+South	15.384	4.038300000000001	2014	Qtr 4	October	15
+West			2014	Qtr 4	October	15
+Central			2014	Qtr 4	October	16
+East			2014	Qtr 4	October	16
+South			2014	Qtr 4	October	16
+West	194.322	91.40880000000001	2014	Qtr 4	October	16
+Central	136.068	-36.838	2014	Qtr 4	October	17
+East			2014	Qtr 4	October	17
+South			2014	Qtr 4	October	17
+West			2014	Qtr 4	October	17
+Central			2014	Qtr 4	October	18
+East	249.472	-12.214	2014	Qtr 4	October	18
+South	2822.14	589.9718	2014	Qtr 4	October	18
+West	63.304	28.3524	2014	Qtr 4	October	18
+Central			2014	Qtr 4	October	19
+East			2014	Qtr 4	October	19
+South			2014	Qtr 4	October	19
+West	641.1039999999999	124.54770000000002	2014	Qtr 4	October	19
+Central	1074.162	106.46969999999995	2014	Qtr 4	October	20
+East			2014	Qtr 4	October	20
+South	426.942	-172.4535	2014	Qtr 4	October	20
+West			2014	Qtr 4	October	20
+Central			2014	Qtr 4	October	21
+East	531.3820000000001	-109.1754	2014	Qtr 4	October	21
+South	788.86	122.96619999999997	2014	Qtr 4	October	21
+West	36.36	12.2715	2014	Qtr 4	October	21
+Central			2014	Qtr 4	October	22
+East	93.888	12.90959999999999	2014	Qtr 4	October	22
+South	129.92	10.393599999999992	2014	Qtr 4	October	22
+West			2014	Qtr 4	October	22
+Central			2014	Qtr 4	October	24
+East			2014	Qtr 4	October	24
+South	22.218000000000004	7.4208	2014	Qtr 4	October	24
+West	34.272	11.138399999999999	2014	Qtr 4	October	24
+Central			2014	Qtr 4	October	25
+East	54.474	-9.0789	2014	Qtr 4	October	25
+South			2014	Qtr 4	October	25
+West	49.408	18.528	2014	Qtr 4	October	25
+Central			2014	Qtr 4	October	26
+East			2014	Qtr 4	October	26
+South			2014	Qtr 4	October	26
+West	447.88000000000005	41.59200000000001	2014	Qtr 4	October	26
+Central			2014	Qtr 4	October	27
+East			2014	Qtr 4	October	27
+South	22.320000000000004	7.6626	2014	Qtr 4	October	27
+West			2014	Qtr 4	October	27
+Central	257.98	74.8142	2014	Qtr 4	October	28
+East			2014	Qtr 4	October	28
+South			2014	Qtr 4	October	28
+West	1252.6019999999999	18.614000000000026	2014	Qtr 4	October	28
+Central	2813.8120000000004	378.5485999999997	2014	Qtr 4	October	29
+East			2014	Qtr 4	October	29
+South			2014	Qtr 4	October	29
+West			2014	Qtr 4	October	29
+Central			2014	Qtr 4	October	31
+East	3538.17	-262.442	2014	Qtr 4	October	31
+South			2014	Qtr 4	October	31
+West	1823.8560000000002	214.33449999999988	2014	Qtr 4	October	31
+Central	15.696000000000002	5.1011999999999995	2014	Qtr 4	November	1
+East	903.9439999999997	264.79359999999997	2014	Qtr 4	November	1
+South	1119.6	149.0670999999999	2014	Qtr 4	November	1
+West	2692.84	244.4021999999998	2014	Qtr 4	November	1
+Central	88.77600000000001	7.767900000000001	2014	Qtr 4	November	2
+East	733.6379999999999	-91.3512	2014	Qtr 4	November	2
+South	799.9200000000001	239.976	2014	Qtr 4	November	2
+West	504.03600000000006	130.18269999999995	2014	Qtr 4	November	2
+Central	89.97	18.893699999999995	2014	Qtr 4	November	3
+East	1144.4560000000001	182.46320000000009	2014	Qtr 4	November	3
+South	1543.017	-312.9382	2014	Qtr 4	November	3
+West	6.72	3.36	2014	Qtr 4	November	3
+Central			2014	Qtr 4	November	4
+East	4859.436	2261.7136	2014	Qtr 4	November	4
+South	66.61600000000001	7.8182	2014	Qtr 4	November	4
+West	1767.6960000000001	173.86019999999996	2014	Qtr 4	November	4
+Central			2014	Qtr 4	November	5
+East	1476.8339999999998	-127.1508	2014	Qtr 4	November	5
+South	197.69	56.721599999999995	2014	Qtr 4	November	5
+West	20.04	8.817600000000002	2014	Qtr 4	November	5
+Central			2014	Qtr 4	November	6
+East			2014	Qtr 4	November	6
+South	43.68	20.9664	2014	Qtr 4	November	6
+West			2014	Qtr 4	November	6
+Central	1143.2099999999998	74.4533	2014	Qtr 4	November	7
+East	36.1	16.7244	2014	Qtr 4	November	7
+South			2014	Qtr 4	November	7
+West	269.832	64.30859999999998	2014	Qtr 4	November	7
+Central			2014	Qtr 4	November	8
+East			2014	Qtr 4	November	8
+South			2014	Qtr 4	November	8
+West	333.576	25.018199999999993	2014	Qtr 4	November	8
+Central			2014	Qtr 4	November	9
+East	56.52	21.477600000000002	2014	Qtr 4	November	9
+South			2014	Qtr 4	November	9
+West	1517.5739999999998	201.2109999999999	2014	Qtr 4	November	9
+Central	1194.87	299.79659999999996	2014	Qtr 4	November	10
+East			2014	Qtr 4	November	10
+South			2014	Qtr 4	November	10
+West	807.6859999999999	136.8365	2014	Qtr 4	November	10
+Central	3114.3039999999996	-1392.1459	2014	Qtr 4	November	11
+East	823.498	-109.0559	2014	Qtr 4	November	11
+South			2014	Qtr 4	November	11
+West	4176.746	1051.6707000000001	2014	Qtr 4	November	11
+Central	405.8652	41.434799999999996	2014	Qtr 4	November	12
+East			2014	Qtr 4	November	12
+South	7.872	0.8855999999999988	2014	Qtr 4	November	12
+West	641.0240000000001	37.31359999999995	2014	Qtr 4	November	12
+Central	44.976000000000006	19.2624	2014	Qtr 4	November	14
+East	957.3539999999999	274.09239999999994	2014	Qtr 4	November	14
+South	32.400000000000006	15.552000000000001	2014	Qtr 4	November	14
+West			2014	Qtr 4	November	14
+Central	604.6560000000001	204.07139999999995	2014	Qtr 4	November	15
+East			2014	Qtr 4	November	15
+South	362.17600000000004	37.39760000000001	2014	Qtr 4	November	15
+West	813.9900000000001	158.60909999999993	2014	Qtr 4	November	15
+Central	619.856	117.60459999999996	2014	Qtr 4	November	16
+East			2014	Qtr 4	November	16
+South			2014	Qtr 4	November	16
+West	736.0725	19.953599999999973	2014	Qtr 4	November	16
+Central	486.98	84.06099999999996	2014	Qtr 4	November	17
+East	9981.924	1437.3472	2014	Qtr 4	November	17
+South			2014	Qtr 4	November	17
+West	1075.37	432.7264	2014	Qtr 4	November	17
+Central	1583.942	-248.6285	2014	Qtr 4	November	18
+East	751.405	-171.9936	2014	Qtr 4	November	18
+South			2014	Qtr 4	November	18
+West	1071.508	73.09940000000009	2014	Qtr 4	November	18
+Central	503.13	136.45319999999998	2014	Qtr 4	November	19
+East	5873.606000000001	1582.5882000000004	2014	Qtr 4	November	19
+South	682.91	180.2656	2014	Qtr 4	November	19
+West	166.44	79.8912	2014	Qtr 4	November	19
+Central			2014	Qtr 4	November	20
+East	907.5600000000001	251.172	2014	Qtr 4	November	20
+South			2014	Qtr 4	November	20
+West			2014	Qtr 4	November	20
+Central	269.592	17.298300000000015	2014	Qtr 4	November	21
+East			2014	Qtr 4	November	21
+South	865.5	323.12699999999995	2014	Qtr 4	November	21
+West	114.52999999999999	37.744599999999984	2014	Qtr 4	November	21
+Central	16.907999999999994	-27.5518	2014	Qtr 4	November	22
+East			2014	Qtr 4	November	22
+South	1032.57	465.22490000000005	2014	Qtr 4	November	22
+West	53.82000000000001	24.218999999999998	2014	Qtr 4	November	22
+Central	239.80999999999997	-107.9182	2014	Qtr 4	November	23
+East	62.80800000000001	21.1977	2014	Qtr 4	November	23
+South			2014	Qtr 4	November	23
+West	1060.662	-18.5179	2014	Qtr 4	November	23
+Central	1266.6100000000001	254.598	2014	Qtr 4	November	24
+East	3206.938	-489.8036	2014	Qtr 4	November	24
+South	111.15	48.906000000000006	2014	Qtr 4	November	24
+West	993.908	88.94220000000001	2014	Qtr 4	November	24
+Central	1273.6229999999996	-117.8601	2014	Qtr 4	November	25
+East	1446.832	38.077399999999926	2014	Qtr 4	November	25
+South			2014	Qtr 4	November	25
+West	1695.2400000000002	228.4098999999999	2014	Qtr 4	November	25
+Central	19.3	-14.475	2014	Qtr 4	November	26
+East	414.62999999999994	139.1934	2014	Qtr 4	November	26
+South			2014	Qtr 4	November	26
+West	1272.06	-186.8796	2014	Qtr 4	November	26
+Central			2014	Qtr 4	November	27
+East	203.65999999999997	41.29599999999999	2014	Qtr 4	November	27
+South			2014	Qtr 4	November	27
+West			2014	Qtr 4	November	27
+Central	1062.87	-170.3208	2014	Qtr 4	November	28
+East	17.248	6.036799999999999	2014	Qtr 4	November	28
+South	557.01	114.80109999999996	2014	Qtr 4	November	28
+West	643.702	61.956100000000006	2014	Qtr 4	November	28
+Central	12.624	3.944999999999999	2014	Qtr 4	November	29
+East	30.099999999999998	13.542199999999998	2014	Qtr 4	November	29
+South			2014	Qtr 4	November	29
+West	606.3199999999999	87.18999999999998	2014	Qtr 4	November	29
+Central			2014	Qtr 4	November	30
+East	62.28	29.2716	2014	Qtr 4	November	30
+South	6.642000000000001	-4.428	2014	Qtr 4	November	30
+West	150.23200000000003	-13.0146	2014	Qtr 4	November	30
+Central	3528.538	667.2156000000002	2014	Qtr 4	December	1
+East	1941.6839999999997	169.81440000000003	2014	Qtr 4	December	1
+South	95.968	9.596800000000005	2014	Qtr 4	December	1
+West	58.199999999999996	28.517999999999994	2014	Qtr 4	December	1
+Central	117.178	-53.6825	2014	Qtr 4	December	2
+East	1633.44	157.0615999999999	2014	Qtr 4	December	2
+South	21.19	7.9958	2014	Qtr 4	December	2
+West			2014	Qtr 4	December	2
+Central	505.88	146.8304	2014	Qtr 4	December	3
+East			2014	Qtr 4	December	3
+South			2014	Qtr 4	December	3
+West			2014	Qtr 4	December	3
+Central			2014	Qtr 4	December	4
+East	129.98	62.3904	2014	Qtr 4	December	4
+South			2014	Qtr 4	December	4
+West			2014	Qtr 4	December	4
+Central	433.55999999999995	78.50069999999998	2014	Qtr 4	December	5
+East	883.6899999999999	50.60409999999996	2014	Qtr 4	December	5
+South	24.56	6.876799999999999	2014	Qtr 4	December	5
+West	1621.832	289.0591999999999	2014	Qtr 4	December	5
+Central	338.526	-194.5532	2014	Qtr 4	December	6
+East			2014	Qtr 4	December	6
+South	42.208	13.717599999999997	2014	Qtr 4	December	6
+West	1590.244	161.8166	2014	Qtr 4	December	6
+Central			2014	Qtr 4	December	7
+East			2014	Qtr 4	December	7
+South	105.52	48.539199999999994	2014	Qtr 4	December	7
+West	442.87999999999994	153.244	2014	Qtr 4	December	7
+Central	60.416	6.0416000000000025	2014	Qtr 4	December	8
+East			2014	Qtr 4	December	8
+South			2014	Qtr 4	December	8
+West	1034.704	119.88569999999997	2014	Qtr 4	December	8
+Central	276.62	-25.5653	2014	Qtr 4	December	9
+East	1110.648	135.58219999999992	2014	Qtr 4	December	9
+South			2014	Qtr 4	December	9
+West	135.38400000000001	15.7344	2014	Qtr 4	December	9
+Central			2014	Qtr 4	December	10
+East	117.704	42.446	2014	Qtr 4	December	10
+South			2014	Qtr 4	December	10
+West	455.63199999999995	58.69659999999997	2014	Qtr 4	December	10
+Central	210.39199999999997	-336.6272	2014	Qtr 4	December	12
+East			2014	Qtr 4	December	12
+South	23.472	7.628399999999997	2014	Qtr 4	December	12
+West	4704.5405	256.8980000000001	2014	Qtr 4	December	12
+Central	97.348	-42.1276	2014	Qtr 4	December	13
+East			2014	Qtr 4	December	13
+South	12.39	5.8233	2014	Qtr 4	December	13
+West	183.414	45.03569999999999	2014	Qtr 4	December	13
+Central	52.28	-24.2907	2014	Qtr 4	December	14
+East	7403.074	2230.8394	2014	Qtr 4	December	14
+South	186.304	13.9728	2014	Qtr 4	December	14
+West			2014	Qtr 4	December	14
+Central	812.504	-38.437	2014	Qtr 4	December	15
+East	445.802	-108.2662	2014	Qtr 4	December	15
+South			2014	Qtr 4	December	15
+West	6.16	1.9711999999999996	2014	Qtr 4	December	15
+Central	535.648	83.68340000000002	2014	Qtr 4	December	16
+East			2014	Qtr 4	December	16
+South	1146.423	118.91719999999998	2014	Qtr 4	December	16
+West	2712.1160000000004	213.04179999999994	2014	Qtr 4	December	16
+Central			2014	Qtr 4	December	17
+East	5.484000000000001	-4.0216	2014	Qtr 4	December	17
+South	40.05	11.213999999999999	2014	Qtr 4	December	17
+West			2014	Qtr 4	December	17
+Central	372.12000000000006	34.14989999999997	2014	Qtr 4	December	19
+East			2014	Qtr 4	December	19
+South	2232.502	218.32850000000005	2014	Qtr 4	December	19
+West	832.1379999999999	104.47849999999991	2014	Qtr 4	December	19
+Central	1192.5320000000002	440.78919999999994	2014	Qtr 4	December	20
+East	383.03400000000005	14.831399999999974	2014	Qtr 4	December	20
+South	3616.6820000000002	710.6466	2014	Qtr 4	December	20
+West	1770.192	390.74299999999994	2014	Qtr 4	December	20
+Central			2014	Qtr 4	December	21
+East	17.28	7.9487999999999985	2014	Qtr 4	December	21
+South	18.240000000000002	-14.592	2014	Qtr 4	December	21
+West	1897.92	184.90799999999987	2014	Qtr 4	December	21
+Central	274.096	23.541599999999995	2014	Qtr 4	December	22
+East	513.1120000000001	156.40429999999998	2014	Qtr 4	December	22
+South			2014	Qtr 4	December	22
+West	11.76	3.1752000000000002	2014	Qtr 4	December	22
+Central	212.424	59.8416	2014	Qtr 4	December	23
+East	109.83599999999998	-3.7236	2014	Qtr 4	December	23
+South	619.8480000000002	11.261399999999949	2014	Qtr 4	December	23
+West			2014	Qtr 4	December	23
+Central			2014	Qtr 4	December	24
+East	30.36	8.7285	2014	Qtr 4	December	24
+South	9.568000000000001	3.4684	2014	Qtr 4	December	24
+West	1910.2740000000003	252.1110999999999	2014	Qtr 4	December	24
+Central	609.248	-23.3524	2014	Qtr 4	December	26
+East	561.504	-2.3469	2014	Qtr 4	December	26
+South			2014	Qtr 4	December	26
+West	870.662	22.1019	2014	Qtr 4	December	26
+Central	67.95200000000001	-25.2424	2014	Qtr 4	December	27
+East	1067.726	118.62319999999997	2014	Qtr 4	December	27
+South	521.92	195.9808	2014	Qtr 4	December	27
+West	1308.7900000000002	-625.6867	2014	Qtr 4	December	27
+Central			2014	Qtr 4	December	28
+East	2682.3259999999996	663.5937999999998	2014	Qtr 4	December	28
+South			2014	Qtr 4	December	28
+West	1049.97	43.26360000000007	2014	Qtr 4	December	28
+Central	192.07199999999997	-0.6768	2014	Qtr 4	December	29
+East	48.36	6.044999999999995	2014	Qtr 4	December	29
+South			2014	Qtr 4	December	29
+West	1831.6640000000004	562.6412999999999	2014	Qtr 4	December	29
+Central	619.4540000000001	66.10440000000001	2014	Qtr 4	December	30
+East	962.084	-191.8627	2014	Qtr 4	December	30
+South	39.128	-8.8038	2014	Qtr 4	December	30
+West	551.9850000000001	-459.9875	2014	Qtr 4	December	30
+Central	126.77800000000002	45.7038	2014	Qtr 4	December	31
+East	4650.548	1339.3163	2014	Qtr 4	December	31
+South			2014	Qtr 4	December	31
+West	475.944	59.49299999999995	2014	Qtr 4	December	31
