@@ -1,0 +1,69 @@
+Orders.Region,Orders.Country,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales),Sum(Orders.Profit)
+Central,United States,Technology,Copiers,28558.54966404774,02791.279317839776
+East,United States,Technology,Copiers,88357.12581044367,58963.1639
+South,United States,Technology,Copiers,4313.160,4341.6250
+West,United States,Technology,Copiers,51399.346986030634,62509.162558218793
+Central,United States,Technology,Phones,64876.109,92268.6950
+East,United States,Technology,Phones,131968.9814313609,32399.683192474009
+South,United States,Technology,Phones,41830.002049722394,23628.833127546541
+West,United States,Technology,Phones,71015.29395740275,2543.749736729585
+Central,United States,Technology,Accessories,42160.247,6938.573708013618
+East,United States,Technology,Accessories,07561.930794251481,16095.3317
+South,United States,Technology,Accessories,71659.712948429717,3533.679415788851
+West,United States,Technology,Accessories,30861.76793174065,08726.34559254273
+Central,United States,Technology,Machines,31335.552,18395.7064850663164
+East,United States,Technology,Machines,43181.162,9868.782429089786
+South,United States,Technology,Machines,02410.87926614646,32460.8754830063823
+West,United States,Technology,Machines,11555.772,3758.4789223148078
+Central,United States,Office Supplies,Paper,38723.054313933602,2026.237170572765
+East,United States,Office Supplies,Paper,75504.83391910290,2183.699933259139
+South,United States,Office Supplies,Paper,00436.196406971891,0143.833410065369
+West,United States,Office Supplies,Paper,30962.94043597216,76559.58004221003
+Central,United States,Office Supplies,Binders,09339.12549427462,60383.0831421004208
+East,United States,Office Supplies,Binders,55895.45483186988,55085.534682858437
+South,United States,Office Supplies,Binders,99386.00180459611,3192.2296454733401
+West,United States,Office Supplies,Binders,64896.160311852962,20493.63888139306
+Central,United States,Office Supplies,Storage,34967.091838120796,4588.3494879641412
+East,United States,Office Supplies,Storage,19368.97651096086,0578.10718697591
+South,United States,Office Supplies,Storage,69162.402064165611,3290.403227191266
+West,United States,Office Supplies,Storage,74828.80579506775,1203.161435976631
+Central,United States,Office Supplies,Appliances,86246.05256376401,88949.492477941269
+East,United States,Office Supplies,Appliances,38017.78430708870,4495.7163
+South,United States,Office Supplies,Appliances,04177.568551360363,3694.839728734360
+West,United States,Office Supplies,Appliances,79612.226548040635,5765.226783158795
+Central,United States,Office Supplies,Envelopes,2387.900,9487.9700561042621
+East,United States,Office Supplies,Envelopes,9539.849,9978.3215501907048
+South,United States,Office Supplies,Envelopes,8192.5941354571903,8468.5534854420986
+West,United States,Office Supplies,Envelopes,5155.4,7737.1364
+Central,United States,Office Supplies,Art,1462.169397977018,3416.4102138987685
+East,United States,Office Supplies,Art,0323.3243637545809,6610.138686414903
+South,United States,Office Supplies,Art,6547.099233133554,7475.5577383266238
+West,United States,Office Supplies,Art,7938.329605165136,2332.3602232222418
+Central,United States,Office Supplies,Labels,3926.567,6799.7719949894328
+East,United States,Office Supplies,Labels,4108.9453757866017,5356.22
+South,United States,Office Supplies,Labels,9004.1163914289685,5706.7209271270125
+West,United States,Office Supplies,Labels,9974.2772671626714,8383.4056629538537
+Central,United States,Office Supplies,Fasteners,338.6871930908259,625.75639608208244
+East,United States,Office Supplies,Fasteners,643.0156561337802,248.75682622281331
+South,United States,Office Supplies,Fasteners,816.74457952878944,151.92834260550520
+West,United States,Office Supplies,Fasteners,284.145,211.9961
+Central,United States,Office Supplies,Supplies,4994.307,5487.9667144484355
+East,United States,Office Supplies,Supplies,05702.209,91455.1126
+South,United States,Office Supplies,Supplies,1505.160,7.5276233540966063
+West,United States,Office Supplies,Supplies,28039.206786923001,060.4512383767133
+Central,United States,Furniture,Chairs,74949.45354808032,6147.303722628280
+East,United States,Furniture,Chairs,19201.570,2785.704162614412
+South,United States,Furniture,Chairs,28861.02222886050,8979.3419
+West,United States,Furniture,Chairs,685563.74234439304,7338.574997518140
+Central,United States,Furniture,Furnishings,72327.176188102671,05900.2533170684957
+East,United States,Furniture,Furnishings,04619.54736358529,3249.257571445195
+South,United States,Furniture,Furnishings,65924.897,7009.0336171582539
+West,United States,Furniture,Furnishings,00910.51101498973,2487.889293530788
+Central,United States,Furniture,Bookcases,93303.845979370128,31320.5108119981458
+East,United States,Furniture,Bookcases,64779.78990858710,29800.6874272666336
+South,United States,Furniture,Bookcases,30352.951,5003.7369362690455
+West,United States,Furniture,Bookcases,15355.896625545893,95712.9848651624358
+Central,United States,Furniture,Tables,05000.59266424180,66276.745928242639
+East,United States,Furniture,Tables,19364.23419246522,563168.298141386635
+South,United States,Furniture,Tables,18687.188,54311.369000966267
+West,United States,Furniture,Tables,39665.94344525417,9572.4271471351673
