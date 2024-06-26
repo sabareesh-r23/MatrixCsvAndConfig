@@ -1,0 +1,290 @@
+Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.Ship Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales),Sum(Orders.Quantity)
+2014,Qtr 1,Furniture,Bookcases,2510.835,31
+2014,Qtr 2,Furniture,Bookcases,1914.3695999999998,23
+2014,Qtr 3,Furniture,Bookcases,4676.4188,37
+2014,Qtr 4,Furniture,Bookcases,9019.606200000004,53
+2015,Qtr 1,Furniture,Bookcases,6629.6376,45
+2015,Qtr 2,Furniture,Bookcases,2792.5274999999997,26
+2015,Qtr 3,Furniture,Bookcases,17833.4972,95
+2015,Qtr 4,Furniture,Bookcases,13042.378199999997,84
+2016,Qtr 1,Furniture,Bookcases,3432.3759999999997,27
+2016,Qtr 2,Furniture,Bookcases,3186.926,34
+2016,Qtr 3,Furniture,Bookcases,9121.177399999999,57
+2016,Qtr 4,Furniture,Bookcases,10695.967100000002,80
+2017,Qtr 1,Furniture,Bookcases,2123.1714,20
+2017,Qtr 2,Furniture,Bookcases,11173.5553,108
+2017,Qtr 3,Furniture,Bookcases,6871.0419999999995,55
+2017,Qtr 4,Furniture,Bookcases,9454.5222,87
+2018,Qtr 1,Furniture,Bookcases,401.9888,6
+2014,Qtr 1,Furniture,Chairs,9597.212,61
+2014,Qtr 2,Furniture,Chairs,12607.399,99
+2014,Qtr 3,Furniture,Chairs,23283.344000000005,134
+2014,Qtr 4,Furniture,Chairs,30917.461,237
+2015,Qtr 1,Furniture,Chairs,9916.329000000002,76
+2015,Qtr 2,Furniture,Chairs,14140.303999999995,104
+2015,Qtr 3,Furniture,Chairs,18390.381,134
+2015,Qtr 4,Furniture,Chairs,30123.675,223
+2016,Qtr 1,Furniture,Chairs,8176.614,67
+2016,Qtr 2,Furniture,Chairs,19611.70299999999,137
+2016,Qtr 3,Furniture,Chairs,20709.66799999999,149
+2016,Qtr 4,Furniture,Chairs,34234.51600000001,250
+2017,Qtr 1,Furniture,Chairs,11699.836999999998,73
+2017,Qtr 2,Furniture,Chairs,19508.863,139
+2017,Qtr 3,Furniture,Chairs,30773.257000000005,201
+2017,Qtr 4,Furniture,Chairs,32484.030000000002,254
+2018,Qtr 1,Furniture,Chairs,2274.5099999999998,18
+2014,Qtr 1,Furniture,Furnishings,1584.8780000000004,79
+2014,Qtr 2,Furniture,Furnishings,2196.9620000000004,112
+2014,Qtr 3,Furniture,Furnishings,4093.3480000000004,174
+2014,Qtr 4,Furniture,Furnishings,5562.321999999999,270
+2015,Qtr 1,Furniture,Furnishings,3278.5200000000004,120
+2015,Qtr 2,Furniture,Furnishings,6402.823999999999,186
+2015,Qtr 3,Furniture,Furnishings,5099.852,193
+2015,Qtr 4,Furniture,Furnishings,6682.48,291
+2016,Qtr 1,Furniture,Furnishings,3798.9480000000003,169
+2016,Qtr 2,Furniture,Furnishings,5623.336000000001,219
+2016,Qtr 3,Furniture,Furnishings,6377.377999999997,255
+2016,Qtr 4,Furniture,Furnishings,11997.541999999996,388
+2017,Qtr 1,Furniture,Furnishings,2604.9599999999996,126
+2017,Qtr 2,Furniture,Furnishings,5505.013999999999,228
+2017,Qtr 3,Furniture,Furnishings,8255.992,294
+2017,Qtr 4,Furniture,Furnishings,12452.9,442
+2018,Qtr 1,Furniture,Furnishings,187.90800000000002,17
+2014,Qtr 1,Furniture,Tables,5857.311000000001,29
+2014,Qtr 2,Furniture,Tables,13136.476999999999,84
+2014,Qtr 3,Furniture,Tables,6876.468500000001,53
+2014,Qtr 4,Furniture,Tables,19694.345,101
+2015,Qtr 1,Furniture,Tables,10824.583999999999,42
+2015,Qtr 2,Furniture,Tables,3375.6105,24
+2015,Qtr 3,Furniture,Tables,9504.991,69
+2015,Qtr 4,Furniture,Tables,15969.001999999999,103
+2016,Qtr 1,Furniture,Tables,7231.101,50
+2016,Qtr 2,Furniture,Tables,13000.220999999998,74
+2016,Qtr 3,Furniture,Tables,15159.7585,85
+2016,Qtr 4,Furniture,Tables,25406.675,136
+2017,Qtr 1,Furniture,Tables,6322.826000000001,56
+2017,Qtr 2,Furniture,Tables,8414.300500000001,54
+2017,Qtr 3,Furniture,Tables,12397.153999999999,78
+2017,Qtr 4,Furniture,Tables,33794.707,203
+2018,Qtr 1,Furniture,Tables,,
+2014,Qtr 1,Office Supplies,Appliances,852.482,23
+2014,Qtr 2,Office Supplies,Appliances,3779.401999999999,68
+2014,Qtr 3,Office Supplies,Appliances,4378.589000000002,98
+2014,Qtr 4,Office Supplies,Appliances,4443.032,116
+2015,Qtr 1,Office Supplies,Appliances,3906.6440000000007,53
+2015,Qtr 2,Office Supplies,Appliances,6684.0059999999985,109
+2015,Qtr 3,Office Supplies,Appliances,2755.0980000000004,54
+2015,Qtr 4,Office Supplies,Appliances,11755.661,158
+2016,Qtr 1,Office Supplies,Appliances,3274.4959999999996,46
+2016,Qtr 2,Office Supplies,Appliances,4327.446,88
+2016,Qtr 3,Office Supplies,Appliances,7761.788,120
+2016,Qtr 4,Office Supplies,Appliances,10559.414999999997,137
+2017,Qtr 1,Office Supplies,Appliances,8636.646,118
+2017,Qtr 2,Office Supplies,Appliances,6053.281999999999,122
+2017,Qtr 3,Office Supplies,Appliances,11454.225999999999,175
+2017,Qtr 4,Office Supplies,Appliances,16700.647999999997,242
+2018,Qtr 1,Office Supplies,Appliances,209.3,2
+2014,Qtr 1,Office Supplies,Art,614.2719999999999,117
+2014,Qtr 2,Office Supplies,Art,1514.8899999999999,178
+2014,Qtr 3,Office Supplies,Art,1292.3460000000005,158
+2014,Qtr 4,Office Supplies,Art,2596.9539999999997,150
+2015,Qtr 1,Office Supplies,Art,734.154,73
+2015,Qtr 2,Office Supplies,Art,1411.7220000000002,127
+2015,Qtr 3,Office Supplies,Art,1918.528,182
+2015,Qtr 4,Office Supplies,Art,2208.67,235
+2016,Qtr 1,Office Supplies,Art,849.2760000000001,62
+2016,Qtr 2,Office Supplies,Art,1417.504,161
+2016,Qtr 3,Office Supplies,Art,1861.626,191
+2016,Qtr 4,Office Supplies,Art,1768.0060000000005,255
+2017,Qtr 1,Office Supplies,Art,1191.5220000000002,167
+2017,Qtr 2,Office Supplies,Art,1850.6280000000004,235
+2017,Qtr 3,Office Supplies,Art,2892.3759999999993,298
+2017,Qtr 4,Office Supplies,Art,2900.3460000000005,405
+2018,Qtr 1,Office Supplies,Art,95.972,6
+2014,Qtr 1,Office Supplies,Binders,1995.8739999999998,156
+2014,Qtr 2,Office Supplies,Binders,9931.789999999997,239
+2014,Qtr 3,Office Supplies,Binders,20261.901000000005,336
+2014,Qtr 4,Office Supplies,Binders,10694.628999999999,340
+2015,Qtr 1,Office Supplies,Binders,11873.516999999998,125
+2015,Qtr 2,Office Supplies,Binders,11009.821000000002,238
+2015,Qtr 3,Office Supplies,Binders,6329.929,373
+2015,Qtr 4,Office Supplies,Binders,7639.381999999999,459
+2016,Qtr 1,Office Supplies,Binders,4675.384999999999,205
+2016,Qtr 2,Office Supplies,Binders,4759.0250000000015,347
+2016,Qtr 3,Office Supplies,Binders,12493.238999999994,452
+2016,Qtr 4,Office Supplies,Binders,28702.999999999964,611
+2017,Qtr 1,Office Supplies,Binders,12919.644,340
+2017,Qtr 2,Office Supplies,Binders,10057.881000000003,435
+2017,Qtr 3,Office Supplies,Binders,27763.982000000015,524
+2017,Qtr 4,Office Supplies,Binders,22059.230000000003,752
+2018,Qtr 1,Office Supplies,Binders,244.504,42
+2014,Qtr 1,Office Supplies,Envelopes,205.72,15
+2014,Qtr 2,Office Supplies,Envelopes,1059.946,43
+2014,Qtr 3,Office Supplies,Envelopes,721.5679999999999,54
+2014,Qtr 4,Office Supplies,Envelopes,1805.9640000000002,89
+2015,Qtr 1,Office Supplies,Envelopes,659.9,39
+2015,Qtr 2,Office Supplies,Envelopes,841.788,27
+2015,Qtr 3,Office Supplies,Envelopes,1026.2640000000001,55
+2015,Qtr 4,Office Supplies,Envelopes,1775.3479999999997,118
+2016,Qtr 1,Office Supplies,Envelopes,1353.38,50
+2016,Qtr 2,Office Supplies,Envelopes,416.80800000000005,50
+2016,Qtr 3,Office Supplies,Envelopes,1577.774,52
+2016,Qtr 4,Office Supplies,Envelopes,1653.368,73
+2017,Qtr 1,Office Supplies,Envelopes,848.1320000000001,40
+2017,Qtr 2,Office Supplies,Envelopes,578.398,49
+2017,Qtr 3,Office Supplies,Envelopes,529.4119999999999,58
+2017,Qtr 4,Office Supplies,Envelopes,1422.632,94
+2018,Qtr 1,Office Supplies,Envelopes,,
+2014,Qtr 1,Office Supplies,Fasteners,97.65,26
+2014,Qtr 2,Office Supplies,Fasteners,132.16,41
+2014,Qtr 3,Office Supplies,Fasteners,224.36800000000002,75
+2014,Qtr 4,Office Supplies,Fasteners,207.14999999999998,59
+2015,Qtr 1,Office Supplies,Fasteners,74.238,25
+2015,Qtr 2,Office Supplies,Fasteners,72.27000000000001,36
+2015,Qtr 3,Office Supplies,Fasteners,97.47399999999999,37
+2015,Qtr 4,Office Supplies,Fasteners,275.55400000000003,71
+2016,Qtr 1,Office Supplies,Fasteners,113.812,38
+2016,Qtr 2,Office Supplies,Fasteners,151.21,42
+2016,Qtr 3,Office Supplies,Fasteners,248.11,86
+2016,Qtr 4,Office Supplies,Fasteners,472.69000000000005,129
+2017,Qtr 1,Office Supplies,Fasteners,132.836,50
+2017,Qtr 2,Office Supplies,Fasteners,92.634,32
+2017,Qtr 3,Office Supplies,Fasteners,216.524,57
+2017,Qtr 4,Office Supplies,Fasteners,379.01599999999996,98
+2018,Qtr 1,Office Supplies,Fasteners,36.584,12
+2014,Qtr 1,Office Supplies,Labels,210.81200000000004,42
+2014,Qtr 2,Office Supplies,Labels,788.5580000000001,56
+2014,Qtr 3,Office Supplies,Labels,543.3620000000001,76
+2014,Qtr 4,Office Supplies,Labels,916.1919999999998,134
+2015,Qtr 1,Office Supplies,Labels,1164.184,56
+2015,Qtr 2,Office Supplies,Labels,417.58200000000005,69
+2015,Qtr 3,Office Supplies,Labels,682.506,63
+2015,Qtr 4,Office Supplies,Labels,1074.66,93
+2016,Qtr 1,Office Supplies,Labels,132.37,30
+2016,Qtr 2,Office Supplies,Labels,572.2919999999999,92
+2016,Qtr 3,Office Supplies,Labels,759.89,122
+2016,Qtr 4,Office Supplies,Labels,1354.1740000000002,116
+2017,Qtr 1,Office Supplies,Labels,285.87399999999997,47
+2017,Qtr 2,Office Supplies,Labels,675.3119999999999,95
+2017,Qtr 3,Office Supplies,Labels,1979.718,161
+2017,Qtr 4,Office Supplies,Labels,856.3760000000002,141
+2018,Qtr 1,Office Supplies,Labels,72.45,7
+2014,Qtr 1,Office Supplies,Paper,1580.83,143
+2014,Qtr 2,Office Supplies,Paper,1791.822,149
+2014,Qtr 3,Office Supplies,Paper,4303.642000000002,306
+2014,Qtr 4,Office Supplies,Paper,6748.442000000004,397
+2015,Qtr 1,Office Supplies,Paper,2533.3320000000003,175
+2015,Qtr 2,Office Supplies,Paper,2554.8680000000013,222
+2015,Qtr 3,Office Supplies,Paper,3761.5360000000005,255
+2015,Qtr 4,Office Supplies,Paper,6762.262000000002,451
+2016,Qtr 1,Office Supplies,Paper,2749.730000000001,146
+2016,Qtr 2,Office Supplies,Paper,6742.943999999999,375
+2016,Qtr 3,Office Supplies,Paper,4959.308000000002,414
+2016,Qtr 4,Office Supplies,Paper,6166.0199999999995,428
+2017,Qtr 1,Office Supplies,Paper,4784.644000000002,241
+2017,Qtr 2,Office Supplies,Paper,5406.825999999999,342
+2017,Qtr 3,Office Supplies,Paper,7854.195999999999,497
+2017,Qtr 4,Office Supplies,Paper,9504.042000000005,626
+2018,Qtr 1,Office Supplies,Paper,274.76199999999994,11
+2014,Qtr 1,Office Supplies,Storage,7396.221999999996,83
+2014,Qtr 2,Office Supplies,Storage,8081.368,118
+2014,Qtr 3,Office Supplies,Storage,9778.523999999996,165
+2014,Qtr 4,Office Supplies,Storage,22962.840000000004,281
+2015,Qtr 1,Office Supplies,Storage,7103.886,91
+2015,Qtr 2,Office Supplies,Storage,8323.162,111
+2015,Qtr 3,Office Supplies,Storage,17625.561999999998,251
+2015,Qtr 4,Office Supplies,Storage,13840.609999999999,218
+2016,Qtr 1,Office Supplies,Storage,9113.22,114
+2016,Qtr 2,Office Supplies,Storage,12894.052000000001,191
+2016,Qtr 3,Office Supplies,Storage,14847.266,208
+2016,Qtr 4,Office Supplies,Storage,22028.735999999997,300
+2017,Qtr 1,Office Supplies,Storage,8697.652,150
+2017,Qtr 2,Office Supplies,Storage,15839.474000000002,186
+2017,Qtr 3,Office Supplies,Storage,16652.119999999995,293
+2017,Qtr 4,Office Supplies,Storage,27750.04,388
+2018,Qtr 1,Office Supplies,Storage,908.874,10
+2014,Qtr 1,Office Supplies,Supplies,257.24,4
+2014,Qtr 2,Office Supplies,Supplies,4282.237999999999,24
+2014,Qtr 3,Office Supplies,Supplies,8793.427999999998,44
+2014,Qtr 4,Office Supplies,Supplies,1010.0139999999998,53
+2015,Qtr 1,Office Supplies,Supplies,173.47000000000003,17
+2015,Qtr 2,Office Supplies,Supplies,531.054,17
+2015,Qtr 3,Office Supplies,Supplies,1010.426,38
+2015,Qtr 4,Office Supplies,Supplies,276.434,38
+2016,Qtr 1,Office Supplies,Supplies,8905.970000000001,16
+2016,Qtr 2,Office Supplies,Supplies,2445.4900000000002,60
+2016,Qtr 3,Office Supplies,Supplies,743.242,69
+2016,Qtr 4,Office Supplies,Supplies,2153.4500000000003,71
+2017,Qtr 1,Office Supplies,Supplies,6068.1539999999995,33
+2017,Qtr 2,Office Supplies,Supplies,1376.3960000000002,47
+2017,Qtr 3,Office Supplies,Supplies,5456.764000000002,56
+2017,Qtr 4,Office Supplies,Supplies,3145.0800000000004,53
+2018,Qtr 1,Office Supplies,Supplies,44.688,7
+2014,Qtr 1,Technology,Accessories,2977.83,65
+2014,Qtr 2,Technology,Accessories,3764.5440000000003,83
+2014,Qtr 3,Technology,Accessories,7776.12,198
+2014,Qtr 4,Technology,Accessories,7917.955999999997,204
+2015,Qtr 1,Technology,Accessories,5561.3099999999995,97
+2015,Qtr 2,Technology,Accessories,4766.488,104
+2015,Qtr 3,Technology,Accessories,11734.083999999999,180
+2015,Qtr 4,Technology,Accessories,21039.9,284
+2016,Qtr 1,Technology,Accessories,4858.942000000001,94
+2016,Qtr 2,Technology,Accessories,7043.491999999999,131
+2016,Qtr 3,Technology,Accessories,11978.275999999994,165
+2016,Qtr 4,Technology,Accessories,17869.22399999999,287
+2017,Qtr 1,Technology,Accessories,8568.03,147
+2017,Qtr 2,Technology,Accessories,10835.108000000004,222
+2017,Qtr 3,Technology,Accessories,22063.27199999999,314
+2017,Qtr 4,Technology,Accessories,18625.741999999995,401
+2018,Qtr 1,Technology,Accessories,,
+2014,Qtr 1,Technology,Copiers,,
+2014,Qtr 2,Technology,Copiers,2999.93,10
+2014,Qtr 3,Technology,Copiers,4109.928,8
+2014,Qtr 4,Technology,Copiers,3739.924,11
+2015,Qtr 1,Technology,Copiers,4269.914000000001,9
+2015,Qtr 2,Technology,Copiers,6379.83,20
+2015,Qtr 3,Technology,Copiers,5119.912000000001,11
+2015,Qtr 4,Technology,Copiers,10409.794000000002,23
+2016,Qtr 1,Technology,Copiers,959.9680000000001,4
+2016,Qtr 2,Technology,Copiers,10439.939999999999,9
+2016,Qtr 3,Technology,Copiers,11139.746000000003,29
+2016,Qtr 4,Technology,Copiers,27059.755999999994,27
+2017,Qtr 1,Technology,Copiers,21319.822,20
+2017,Qtr 2,Technology,Copiers,6359.902,11
+2017,Qtr 3,Technology,Copiers,4979.872,17
+2017,Qtr 4,Technology,Copiers,30239.792,25
+2018,Qtr 1,Technology,Copiers,,
+2014,Qtr 1,Technology,Machines,25314.658,16
+2014,Qtr 2,Technology,Machines,979.729,12
+2014,Qtr 3,Technology,Machines,21733.962,43
+2014,Qtr 4,Technology,Machines,13227.072000000002,19
+2015,Qtr 1,Technology,Machines,3875.928000000001,18
+2015,Qtr 2,Technology,Machines,4824.756,20
+2015,Qtr 3,Technology,Machines,4343.346,15
+2015,Qtr 4,Technology,Machines,12939.059000000001,41
+2016,Qtr 1,Technology,Machines,20293.05,27
+2016,Qtr 2,Technology,Machines,24273.397,43
+2016,Qtr 3,Technology,Machines,3309.518,20
+2016,Qtr 4,Technology,Machines,10309.511000000002,43
+2017,Qtr 1,Technology,Machines,5359.3150000000005,15
+2017,Qtr 2,Technology,Machines,11562.129,24
+2017,Qtr 3,Technology,Machines,5672.349,22
+2017,Qtr 4,Technology,Machines,21220.852,62
+2018,Qtr 1,Technology,Machines,,
+2014,Qtr 1,Technology,Phones,8336.182,69
+2014,Qtr 2,Technology,Phones,19897.415999999994,178
+2014,Qtr 3,Technology,Phones,13515.171999999999,139
+2014,Qtr 4,Technology,Phones,34307.792,277
+2015,Qtr 1,Technology,Phones,8963.952000000001,95
+2015,Qtr 2,Technology,Phones,13425.424000000005,168
+2015,Qtr 3,Technology,Phones,20898.989999999998,182
+2015,Qtr 4,Technology,Phones,25997.719999999998,268
+2016,Qtr 1,Technology,Phones,14961.413999999999,124
+2016,Qtr 2,Technology,Phones,18915.417999999998,182
+2016,Qtr 3,Technology,Phones,17040.561999999998,240
+2016,Qtr 4,Technology,Phones,28104.119999999995,274
+2017,Qtr 1,Technology,Phones,17132.146,195
+2017,Qtr 2,Technology,Phones,16727.408000000003,184
+2017,Qtr 3,Technology,Phones,36559.50399999998,315
+2017,Qtr 4,Technology,Phones,34815.67799999998,386
+2018,Qtr 1,Technology,Phones,408.15599999999995,13
