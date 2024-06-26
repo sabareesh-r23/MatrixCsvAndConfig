@@ -1,0 +1,69 @@
+Sai's Invert sign data.Region,Sai's Invert sign data.Category,Sai's Invert sign data.Sub-Category,Sum(Sai's Invert sign data.Profit),Sum(Sai's Invert sign data.Sign)
+Central,Technology,Copiers,15608.8413,4
+East,Technology,Copiers,17022.8418,1
+South,Technology,Copiers,3658.9067,-2
+West,Technology,Copiers,19327.2351,1
+Central,Technology,Phones,12323.0267,1
+East,Technology,Phones,12314.686,-5
+South,Technology,Phones,10767.2753,5
+West,Technology,Phones,9110.7426,0
+Central,Technology,Accessories,7251.6306,-2
+East,Technology,Accessories,11195.8644,4
+South,Technology,Accessories,7004.5424,-4
+West,Technology,Accessories,16484.5983,0
+Central,Technology,Machines,-1486.0666,-3
+East,Technology,Machines,6928.6429,-7
+South,Technology,Machines,-1438.893,2
+West,Technology,Machines,-618.9264,3
+Central,Office Supplies,Paper,6971.9005,-1
+East,Office Supplies,Paper,9015.371,0
+South,Office Supplies,Paper,5947.0614,2
+West,Office Supplies,Paper,12119.2364,0
+Central,Office Supplies,Binders,-1043.6369,-4
+East,Office Supplies,Binders,11267.9346,-2
+South,Office Supplies,Binders,3900.664,2
+West,Office Supplies,Binders,16096.8016,-4
+Central,Office Supplies,Storage,1969.8365,4
+East,Office Supplies,Storage,8389.3712,1
+South,Office Supplies,Storage,2274.2965,-2
+West,Office Supplies,Storage,8645.3222,-10
+Central,Office Supplies,Appliances,-2638.6175,-2
+East,Office Supplies,Appliances,8391.4134,1
+South,Office Supplies,Appliances,4123.9396,1
+West,Office Supplies,Appliances,8261.2699,6
+Central,Office Supplies,Envelopes,1777.5283,-2
+East,Office Supplies,Envelopes,1812.409,-2
+South,Office Supplies,Envelopes,1465.477,2
+West,Office Supplies,Envelopes,1908.7624,1
+Central,Office Supplies,Art,1195.1591,5
+East,Office Supplies,Art,1899.9443,1
+South,Office Supplies,Art,1058.5866,0
+West,Office Supplies,Art,2374.097,-8
+Central,Office Supplies,Labels,1073.0794,1
+East,Office Supplies,Labels,1129.28,3
+South,Office Supplies,Labels,1040.7723,6
+West,Office Supplies,Labels,2303.1223,7
+Central,Office Supplies,Fasteners,236.6186,5
+East,Office Supplies,Fasteners,263.9908,-3
+South,Office Supplies,Fasteners,173.7181,-2
+West,Office Supplies,Fasteners,275.1907,-2
+Central,Office Supplies,Supplies,-661.8881,-6
+East,Office Supplies,Supplies,-1155.1352,8
+South,Office Supplies,Supplies,1.8773,7
+West,Office Supplies,Supplies,626.0465,-2
+Central,Furniture,Chairs,6592.7221,-3
+East,Furniture,Chairs,9357.7706,0
+South,Furniture,Chairs,6612.0893,6
+West,Furniture,Chairs,4027.5843,10
+Central,Furniture,Furnishings,-3906.2168,0
+East,Furniture,Furnishings,5881.4071,-8
+South,Furniture,Furnishings,3442.6829,0
+West,Furniture,Furnishings,7641.2704,-8
+Central,Furniture,Bookcases,-1997.9043,-3
+East,Furniture,Bookcases,-1167.6318,2
+South,Furniture,Bookcases,1339.4918,1
+West,Furniture,Bookcases,-1646.5117,-7
+Central,Furniture,Tables,-3559.6504,2
+East,Furniture,Tables,-11025.3801,-2
+South,Furniture,Tables,-4623.0579,1
+West,Furniture,Tables,1482.6073,-3
