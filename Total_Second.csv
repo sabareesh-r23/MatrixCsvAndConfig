@@ -1,19 +1,19 @@
-Calendar.Quarter,Calendar.Year,Sales.Brand Name,Sales.Color,DAX.YoY Sales,DAX.Units
-Q1,2014,Contoso,Black,82481,586
-Q2,2014,Contoso,Black,41347,455
-Q1,2014,Contoso,Blue,28564,183
-Q2,2014,Contoso,Blue,37892,116
-Q1,2014,Contoso,Brown,9250,85
-Q2,2014,Contoso,Brown,2220,48
-Q1,2014,Adventure Works,Black,52377,278
-Q2,2014,Adventure Works,Black,-15098,146
-Q1,2014,Adventure Works,Brown,44793,97
-Q2,2014,Adventure Works,Brown,-25539,45
-Q1,2014,Adventure Works,Blue,6125,28
-Q2,2014,Adventure Works,Blue,-10497,21
-Q1,2014,Fabrikam,Black,26041,105
-Q2,2014,Fabrikam,Black,77720,119
-Q1,2014,Fabrikam,Blue,41234,75
-Q2,2014,Fabrikam,Blue,14988,24
-Q1,2014,Fabrikam,Brown,21413,19
-Q2,2014,Fabrikam,Brown,4495,5
+Calendar.Dependent Hierarchy.Year,Calendar.Dependent Hierarchy.Quarter,Sales.Brand Name,Sales.Color,DAX.Units,DAX.YoY Sales
+2014,Q1,Contoso,Black,586,82481
+2014,Q2,Contoso,Black,455,41347
+2014,Q1,Contoso,Blue,183,28564
+2014,Q2,Contoso,Blue,116,37892
+2014,Q1,Contoso,Brown,85,9250
+2014,Q2,Contoso,Brown,48,2220
+2014,Q1,Fabrikam,Black,105,26041
+2014,Q2,Fabrikam,Black,119,77720
+2014,Q1,Fabrikam,Blue,75,41234
+2014,Q2,Fabrikam,Blue,24,14988
+2014,Q1,Fabrikam,Brown,19,21413
+2014,Q2,Fabrikam,Brown,5,4495
+2014,Q1,Adventure Works,Black,278,52377
+2014,Q2,Adventure Works,Black,146,-15098
+2014,Q1,Adventure Works,Brown,97,44793
+2014,Q2,Adventure Works,Brown,45,-25539
+2014,Q1,Adventure Works,Blue,28,6125
+2014,Q2,Adventure Works,Blue,21,-10497
