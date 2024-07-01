@@ -1,0 +1,193 @@
+Orders.Category,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Order Date.Variation.Date Hierarchy.Month,Sum(Orders.Quantity),Sum(Orders.Sales)
+Furniture,2014,Qtr 1,January,70,6242.525
+New Office Supplies,2014,Qtr 1,January,,
+Office Supplies,2014,Qtr 1,January,169,4851.080000000001
+Technology,2014,Qtr 1,January,45,3143.289999999999
+Furniture,2014,Qtr 1,February,23,1839.6580000000001
+New Office Supplies,2014,Qtr 1,February,,
+Office Supplies,2014,Qtr 1,February,103,1071.724
+Technology,2014,Qtr 1,February,33,1608.51
+Furniture,2014,Qtr 1,March,131,14573.956
+New Office Supplies,2014,Qtr 1,March,,
+Office Supplies,2014,Qtr 1,March,370,8605.879
+Technology,2014,Qtr 1,March,84,32511.174
+Furniture,2014,Qtr 2,April,81,7944.836999999999
+New Office Supplies,2014,Qtr 2,April,,
+Office Supplies,2014,Qtr 2,April,345,11155.073999999997
+Technology,2014,Qtr 2,April,110,9195.434000000001
+Furniture,2014,Qtr 2,May,97,6912.787
+New Office Supplies,2014,Qtr 2,May,,
+Office Supplies,2014,Qtr 2,May,281,7135.624
+Technology,2014,Qtr 2,May,88,9599.876
+Furniture,2014,Qtr 2,June,122,13206.1256
+New Office Supplies,2014,Qtr 2,June,,
+Office Supplies,2014,Qtr 2,June,322,12953.036999999998
+Technology,2014,Qtr 2,June,81,9347.389
+Furniture,2014,Qtr 3,July,114,10821.051
+New Office Supplies,2014,Qtr 3,July,,
+Office Supplies,2014,Qtr 3,July,333,15121.207999999997
+Technology,2014,Qtr 3,July,103,8004.134000000001
+Furniture,2014,Qtr 3,August,107,7320.346500000001
+New Office Supplies,2014,Qtr 3,August,,
+Office Supplies,2014,Qtr 3,August,376,11379.461999999992
+Technology,2014,Qtr 3,August,126,9209.66
+Furniture,2014,Qtr 3,September,208,23816.4808
+New Office Supplies,2014,Qtr 3,September,,
+Office Supplies,2014,Qtr 3,September,624,27423.298
+Technology,2014,Qtr 3,September,168,30537.571999999996
+Furniture,2014,Qtr 4,October,130,12304.247000000001
+New Office Supplies,2014,Qtr 4,October,,
+Office Supplies,2014,Qtr 4,October,332,7211.128000000001
+Technology,2014,Qtr 4,October,111,11938.018
+Furniture,2014,Qtr 4,November,228,21564.8727
+New Office Supplies,2014,Qtr 4,November,15,600
+Office Supplies,2014,Qtr 4,November,747,27528.31600000001
+Technology,2014,Qtr 4,November,250,30201.408
+Furniture,2014,Qtr 4,December,312,30645.966500000006
+New Office Supplies,2014,Qtr 4,December,,
+Office Supplies,2014,Qtr 4,December,573,18006.461999999996
+Technology,2014,Qtr 4,December,194,20893.192
+Furniture,2015,Qtr 1,January,88,11739.941600000002
+New Office Supplies,2015,Qtr 1,January,,
+Office Supplies,2015,Qtr 1,January,110,1808.7799999999997
+Technology,2015,Qtr 1,January,38,4625.354
+Furniture,2015,Qtr 1,February,45,3134.3740000000007
+New Office Supplies,2015,Qtr 1,February,,
+Office Supplies,2015,Qtr 1,February,149,5368.067000000001
+Technology,2015,Qtr 1,February,45,3448.9700000000003
+Furniture,2015,Qtr 1,March,111,12499.782999999998
+New Office Supplies,2015,Qtr 1,March,,
+Office Supplies,2015,Qtr 1,March,314,15882.546999999993
+Technology,2015,Qtr 1,March,90,10343.922000000002
+Furniture,2015,Qtr 2,April,107,10475.6985
+New Office Supplies,2015,Qtr 2,April,,
+Office Supplies,2015,Qtr 2,April,298,12558.557999999994
+Technology,2015,Qtr 2,April,138,11160.951999999996
+Furniture,2015,Qtr 2,May,126,9374.950499999999
+New Office Supplies,2015,Qtr 2,May,,
+Office Supplies,2015,Qtr 2,May,362,9113.735999999997
+Technology,2015,Qtr 2,May,87,11643
+Furniture,2015,Qtr 2,June,112,7714.179
+New Office Supplies,2015,Qtr 2,June,,
+Office Supplies,2015,Qtr 2,June,296,10647.747000000003
+Technology,2015,Qtr 2,June,78,6435.366
+Furniture,2015,Qtr 3,July,162,13674.419999999998
+New Office Supplies,2015,Qtr 3,July,,
+Office Supplies,2015,Qtr 3,July,293,4719.9389999999985
+Technology,2015,Qtr 3,July,102,10370.966
+Furniture,2015,Qtr 3,August,112,9638.592200000001
+New Office Supplies,2015,Qtr 3,August,,
+Office Supplies,2015,Qtr 3,August,370,11735.108000000002
+Technology,2015,Qtr 3,August,116,15524.632
+Furniture,2015,Qtr 3,September,205,26273.022999999994
+New Office Supplies,2015,Qtr 3,September,,
+Office Supplies,2015,Qtr 3,September,685,19305.76699999999
+Technology,2015,Qtr 3,September,196,19017.128000000004
+Furniture,2015,Qtr 4,October,140,12026.6235
+New Office Supplies,2015,Qtr 4,October,,
+Office Supplies,2015,Qtr 4,October,355,8673.41
+Technology,2015,Qtr 4,October,136,10704.890000000003
+Furniture,2015,Qtr 4,November,310,30880.832499999982
+New Office Supplies,2015,Qtr 4,November,,
+Office Supplies,2015,Qtr 4,November,807,21289.484000000015
+Technology,2015,Qtr 4,November,201,23873.601000000006
+Furniture,2015,Qtr 4,December,257,23085.819199999998
+New Office Supplies,2015,Qtr 4,December,,
+Office Supplies,2015,Qtr 4,December,684,16201.674000000006
+Technology,2015,Qtr 4,December,262,35632.027999999984
+Furniture,2016,Qtr 1,January,101,7622.743
+New Office Supplies,2016,Qtr 1,January,,
+Office Supplies,2016,Qtr 1,January,185,5299.682
+Technology,2016,Qtr 1,January,72,5620.066
+Furniture,2016,Qtr 1,February,69,3925.5510000000004
+New Office Supplies,2016,Qtr 1,February,,
+Office Supplies,2016,Qtr 1,February,184,6794.3499999999985
+Technology,2016,Qtr 1,February,53,12258.914
+Furniture,2016,Qtr 1,March,162,12801.092000000002
+New Office Supplies,2016,Qtr 1,March,,
+Office Supplies,2016,Qtr 1,March,287,17346.930999999993
+Technology,2016,Qtr 1,March,130,21567.851999999995
+Furniture,2016,Qtr 2,April,146,13212.089999999997
+New Office Supplies,2016,Qtr 2,April,,
+Office Supplies,2016,Qtr 2,April,408,10647.447000000002
+Technology,2016,Qtr 2,April,81,14890.501999999995
+Furniture,2016,Qtr 2,May,181,15119.835000000001
+New Office Supplies,2016,Qtr 2,May,,
+Office Supplies,2016,Qtr 2,May,521,13035.202
+Technology,2016,Qtr 2,May,161,28832.691000000003
+Furniture,2016,Qtr 2,June,128,13070.571999999996
+New Office Supplies,2016,Qtr 2,June,,
+Office Supplies,2016,Qtr 2,June,490,10901.809999999996
+Technology,2016,Qtr 2,June,124,16372.152000000002
+Furniture,2016,Qtr 3,July,159,13068.519
+New Office Supplies,2016,Qtr 3,July,,
+Office Supplies,2016,Qtr 3,July,473,12924.443999999996
+Technology,2016,Qtr 3,July,126,13269.000000000004
+Furniture,2016,Qtr 3,August,115,12483.232299999996
+New Office Supplies,2016,Qtr 3,August,,
+Office Supplies,2016,Qtr 3,August,443,8959.739999999994
+Technology,2016,Qtr 3,August,135,9672.401999999998
+Furniture,2016,Qtr 3,September,284,27262.8809
+New Office Supplies,2016,Qtr 3,September,,
+Office Supplies,2016,Qtr 3,September,834,23263.738000000005
+Technology,2016,Qtr 3,September,198,22883.406000000003
+Furniture,2016,Qtr 4,October,187,11872.577000000003
+New Office Supplies,2016,Qtr 4,October,,
+Office Supplies,2016,Qtr 4,October,465,16281.793999999998
+Technology,2016,Qtr 4,October,115,31533.373999999993
+Furniture,2016,Qtr 4,November,318,31783.628800000002
+New Office Supplies,2016,Qtr 4,November,,
+Office Supplies,2016,Qtr 4,November,819,20487.27799999999
+Technology,2016,Qtr 4,November,269,27141.058999999994
+Furniture,2016,Qtr 4,December,343,36678.71499999998
+New Office Supplies,2016,Qtr 4,December,,
+Office Supplies,2016,Qtr 4,December,840,38405.541999999994
+Technology,2016,Qtr 4,December,234,22322.762000000006
+Furniture,2017,Qtr 1,January,86,5964.032
+New Office Supplies,2017,Qtr 1,January,,
+Office Supplies,2017,Qtr 1,January,395,21274.28900000001
+Technology,2017,Qtr 1,January,116,16733.053000000004
+Furniture,2017,Qtr 1,February,71,6866.337400000001
+New Office Supplies,2017,Qtr 1,February,,
+Office Supplies,2017,Qtr 1,February,222,7407.771999999999
+Technology,2017,Qtr 1,February,70,6027.024000000002
+Furniture,2017,Qtr 1,March,123,10893.444800000003
+New Office Supplies,2017,Qtr 1,March,,
+Office Supplies,2017,Qtr 1,March,557,14550.286000000004
+Technology,2017,Qtr 1,March,205,33428.622
+Furniture,2017,Qtr 2,April,175,9065.958099999998
+New Office Supplies,2017,Qtr 2,April,,
+Office Supplies,2017,Qtr 2,April,471,15087.742999999999
+Technology,2017,Qtr 2,April,90,12383.387
+Furniture,2017,Qtr 2,May,184,16957.558200000003
+New Office Supplies,2017,Qtr 2,May,,
+Office Supplies,2017,Qtr 2,May,544,13736.964
+Technology,2017,Qtr 2,May,159,13566.588000000003
+Furniture,2017,Qtr 2,June,176,19008.5867
+New Office Supplies,2017,Qtr 2,June,,
+Office Supplies,2017,Qtr 2,June,566,16912.039
+Technology,2017,Qtr 2,June,189,17061.099999999995
+Furniture,2017,Qtr 3,July,183,11813.022000000003
+New Office Supplies,2017,Qtr 3,July,,
+Office Supplies,2017,Qtr 3,July,459,10241.467999999999
+Technology,2017,Qtr 3,July,198,23209.926000000007
+Furniture,2017,Qtr 3,August,127,15441.873999999996
+New Office Supplies,2017,Qtr 3,August,,
+Office Supplies,2017,Qtr 3,August,613,30059.852000000006
+Technology,2017,Qtr 3,August,144,17619.162000000004
+Furniture,2017,Qtr 3,September,302,29028.20600000001
+New Office Supplies,2017,Qtr 3,September,,
+Office Supplies,2017,Qtr 3,September,1046,31895.843
+Technology,2017,Qtr 3,September,312,26942.602999999992
+Furniture,2017,Qtr 4,October,252,21884.068199999998
+New Office Supplies,2017,Qtr 4,October,,
+Office Supplies,2017,Qtr 4,October,652,23037.191999999992
+Technology,2017,Qtr 4,October,229,32855.66300000001
+Furniture,2017,Qtr 4,November,364,37056.715
+New Office Supplies,2017,Qtr 4,November,,
+Office Supplies,2017,Qtr 4,November,1093,31472.336999999967
+Technology,2017,Qtr 4,November,383,49918.77299999999
+Furniture,2017,Qtr 4,December,394,31407.4668
+New Office Supplies,2017,Qtr 4,December,,
+Office Supplies,2017,Qtr 4,December,1061,30436.942
+Technology,2017,Qtr 4,December,268,21984.909999999996
