@@ -1,0 +1,91 @@
+Orders.Region,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales),Sum(Orders.Quantity)
+Central,Technology,Phones,72403.28199999996,713
+East,Technology,Phones,100614.98200000008,982
+New Central,Technology,Phones,,
+South,Technology,Phones,58304.43799999998,526
+West,Technology,Phones,99595.77600000003,1072
+Central,Technology,Machines,26797.384,66
+East,Technology,Machines,66106.165,165
+New Central,Technology,Machines,,
+South,Technology,Machines,53890.96,62
+West,Technology,Machines,42444.122,147
+Central,Technology,Accessories,33956.07600000001,716
+East,Technology,Accessories,45033.37199999999,724
+New Central,Technology,Accessories,,
+South,Technology,Accessories,27276.753999999983,504
+West,Technology,Accessories,61114.11600000001,1032
+Central,Technology,Copiers,37259.57,49
+East,Technology,Copiers,53219.46199999999,71
+New Central,Technology,Copiers,,
+South,Technology,Copiers,9299.756000000001,26
+West,Technology,Copiers,49749.24199999999,88
+Central,Furniture,Chairs,85230.64599999994,615
+East,Furniture,Chairs,96260.683,676
+New Central,Furniture,Chairs,,
+South,Furniture,Chairs,45176.445999999974,331
+West,Furniture,Chairs,101781.32799999994,734
+Central,Furniture,Tables,39154.97099999998,262
+East,Furniture,Tables,39139.80699999999,271
+New Central,Furniture,Tables,,
+South,Furniture,Tables,43916.19199999999,227
+West,Furniture,Tables,84754.562,481
+Central,Furniture,Bookcases,24157.176799999994,192
+East,Furniture,Bookcases,43819.33399999997,252
+New Central,Furniture,Bookcases,,
+South,Furniture,Bookcases,10899.361999999997,118
+West,Furniture,Bookcases,36004.1235,306
+Central,Furniture,Furnishings,15254.369999999979,758
+East,Furniture,Furnishings,29071.37999999999,1015
+New Central,Furniture,Furnishings,,
+South,Furniture,Furnishings,17306.68400000001,615
+West,Furniture,Furnishings,30072.72999999998,1175
+Central,Office Supplies,Storage,46595.99200000001,730
+East,Office Supplies,Storage,71612.584,907
+New Central,Office Supplies,Storage,,
+South,Office Supplies,Storage,35768.06,488
+West,Office Supplies,Storage,70532.85200000001,1039
+Central,Office Supplies,Binders,56925.82599999997,1476
+East,Office Supplies,Binders,53497.99700000003,1652
+New Central,Office Supplies,Binders,,
+South,Office Supplies,Binders,37030.34100000003,981
+West,Office Supplies,Binders,56369.089000000014,1871
+Central,Office Supplies,Appliances,23650.842999999997,475
+East,Office Supplies,Appliances,34188.466,474
+New Central,Office Supplies,Appliances,,
+South,Office Supplies,Appliances,19525.325999999997,293
+West,Office Supplies,Appliances,30236.335999999978,492
+Central,Office Supplies,Paper,17491.90199999999,1225
+East,Office Supplies,Paper,20172.601999999988,1400
+New Central,Office Supplies,Paper,,
+South,Office Supplies,Paper,14166.535999999995,854
+West,Office Supplies,Paper,26663.71799999999,1702
+Central,Office Supplies,Supplies,9467.372000000003,122
+East,Office Supplies,Supplies,10760.115999999998,195
+New Central,Office Supplies,Supplies,,
+South,Office Supplies,Supplies,8318.928,92
+West,Office Supplies,Supplies,18127.122,238
+Central,Office Supplies,Art,5765.339999999998,678
+East,Office Supplies,Art,7485.763999999997,849
+New Central,Office Supplies,Art,,
+South,Office Supplies,Art,4655.622000000001,547
+West,Office Supplies,Art,9212.066000000004,926
+Central,Office Supplies,Envelopes,4636.872000000001,206
+East,Office Supplies,Envelopes,4375.874,267
+New Central,Office Supplies,Envelopes,,
+South,Office Supplies,Envelopes,3345.5560000000014,206
+West,Office Supplies,Envelopes,4118.1,227
+Central,Office Supplies,Labels,2451.471999999999,284
+East,Office Supplies,Labels,2602.933999999999,420
+New Central,Office Supplies,Labels,,
+South,Office Supplies,Labels,2353.1799999999994,216
+West,Office Supplies,Labels,5078.726000000002,480
+Central,Office Supplies,Fasteners,778.0300000000003,227
+East,Office Supplies,Fasteners,819.7179999999998,298
+New Central,Office Supplies,Fasteners,,
+South,Office Supplies,Fasteners,503.31599999999986,126
+West,Office Supplies,Fasteners,923.2160000000002,263
+Central,New Office Supplies,New Storage,,
+East,New Office Supplies,New Storage,,
+New Central,New Office Supplies,New Storage,600,15
+South,New Office Supplies,New Storage,,
+West,New Office Supplies,New Storage,,
