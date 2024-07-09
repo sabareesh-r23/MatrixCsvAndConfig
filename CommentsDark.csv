@@ -1,0 +1,205 @@
+Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Category,Orders.Region,Sum(Orders.Sales),Sum(Orders.Profit)
+2016,Furniture,Bookcases,Central,8545.919999999998,-447.11339999999996
+2017,Furniture,Bookcases,Central,5561.624400000001,-499.4294000000002
+2018,Furniture,Bookcases,Central,78.85279999999999,-11.595999999999997
+2016,Furniture,Bookcases,East,5964.221000000001,-198.08580000000018
+2017,Furniture,Bookcases,East,7015.085999999999,431.3465999999997
+2018,Furniture,Bookcases,East,323.136,12.117599999999968
+2016,Furniture,Bookcases,South,3709.224,552.7233999999999
+2017,Furniture,Bookcases,South,5157.266,514.4422000000001
+2018,Furniture,Bookcases,South,,
+2016,Furniture,Bookcases,West,8217.0815,325.8741999999997
+2017,Furniture,Bookcases,West,11888.314499999997,-1030.5071000000003
+2018,Furniture,Bookcases,West,,
+2016,Furniture,Chairs,Central,22595.173999999995,1443.8819999999992
+2017,Furniture,Chairs,Central,23859.543000000005,2775.8697999999986
+2018,Furniture,Chairs,Central,113.372,-3.2391999999999896
+2016,Furniture,Chairs,East,22626.756999999994,1757.2482999999993
+2017,Furniture,Chairs,East,31616.386,2402.3366999999994
+2018,Furniture,Chairs,East,,
+2016,Furniture,Chairs,South,6331.122,1276.07
+2017,Furniture,Chairs,South,13888.738000000001,1452.1300999999999
+2018,Furniture,Chairs,South,1767.57,478.94759999999997
+2016,Furniture,Chairs,West,31179.447999999986,1195.8475999999982
+2017,Furniture,Chairs,West,25101.319999999985,671.8866999999987
+2018,Furniture,Chairs,West,393.568,-44.276400000000024
+2016,Furniture,Furnishings,Central,5059.892000000001,-1617.7549000000001
+2017,Furniture,Furnishings,Central,5133.654000000001,-1291.8966
+2018,Furniture,Furnishings,Central,10.928,-3.7963999999999993
+2016,Furniture,Furnishings,East,9566.020000000002,2128.6285
+2017,Furniture,Furnishings,East,10478.130000000001,2271.3236999999995
+2018,Furniture,Furnishings,East,,
+2016,Furniture,Furnishings,South,5382.784000000001,1278.3998999999994
+2017,Furniture,Furnishings,South,3385.590000000001,568.9786999999999
+2018,Furniture,Furnishings,South,,
+2016,Furniture,Furnishings,West,7788.5080000000025,2104.0199
+2017,Furniture,Furnishings,West,9821.492,2524.1045999999997
+2018,Furniture,Furnishings,West,176.98000000000002,60.986399999999996
+2016,Furniture,Tables,Central,13922.926,292.6210999999996
+2017,Furniture,Tables,Central,10589.307000000003,-2162.8466000000008
+2018,Furniture,Tables,Central,,
+2016,Furniture,Tables,East,7825.328,-2306.7783
+2017,Furniture,Tables,East,11825.968999999997,-2904.9002
+2018,Furniture,Tables,East,,
+2016,Furniture,Tables,South,12498.3115,39.22299999999967
+2017,Furniture,Tables,South,14106.261499999999,-3598.8946
+2018,Furniture,Tables,South,,
+2016,Furniture,Tables,West,26551.190000000006,-951.905
+2017,Furniture,Tables,West,24407.449999999993,501.8440999999998
+2018,Furniture,Tables,West,,
+2016,Office Supplies,Appliances,Central,5933.051000000001,355.74589999999955
+2017,Office Supplies,Appliances,Central,8805.968,-346.94590000000017
+2018,Office Supplies,Appliances,Central,209.3,56.510999999999996
+2016,Office Supplies,Appliances,East,9400.092000000002,2295.1885999999995
+2017,Office Supplies,Appliances,East,12317.919999999998,2833.662099999999
+2018,Office Supplies,Appliances,East,,
+2016,Office Supplies,Appliances,South,5607.47,1159.3742999999997
+2017,Office Supplies,Appliances,South,7947.794,1512.0825999999995
+2018,Office Supplies,Appliances,South,,
+2016,Office Supplies,Appliances,West,4982.532000000002,1457.1566999999998
+2017,Office Supplies,Appliances,West,13773.119999999995,3843.8345
+2018,Office Supplies,Appliances,West,,
+2016,Office Supplies,Art,Central,1523.2300000000002,262.3665
+2017,Office Supplies,Art,Central,2229.8840000000005,491.86609999999996
+2018,Office Supplies,Art,Central,61.392,5.9656
+2016,Office Supplies,Art,East,1866.0459999999996,475.26780000000014
+2017,Office Supplies,Art,East,2622.15,691.3702
+2018,Office Supplies,Art,East,,
+2016,Office Supplies,Art,South,1390.6539999999995,349.06519999999995
+2017,Office Supplies,Art,South,1301.9379999999999,272.38960000000014
+2018,Office Supplies,Art,South,34.58,10.028199999999998
+2016,Office Supplies,Art,West,1116.4820000000004,321.35309999999987
+2017,Office Supplies,Art,West,2680.8999999999987,757.2045999999999
+2018,Office Supplies,Art,West,,
+2016,Office Supplies,Binders,Central,14169.511999999997,2976.252999999998
+2017,Office Supplies,Binders,Central,21000.989999999998,-3847.521700000005
+2018,Office Supplies,Binders,Central,111.30999999999997,-120.00679999999997
+2016,Office Supplies,Binders,East,18955.548,2802.6458
+2017,Office Supplies,Binders,East,13903.101,2529.8258
+2018,Office Supplies,Binders,East,86.03999999999999,31.0176
+2016,Office Supplies,Binders,South,4667.800000000001,926.3024000000003
+2017,Office Supplies,Binders,South,11171.728000000003,370.1877000000021
+2018,Office Supplies,Binders,South,12.53,5.889099999999999
+2016,Office Supplies,Binders,West,12837.788999999999,3956.836800000001
+2017,Office Supplies,Binders,West,26724.917999999994,8720.358000000002
+2018,Office Supplies,Binders,West,34.623999999999995,10.993799999999997
+2016,Office Supplies,Envelopes,Central,970.7959999999999,371.9226999999999
+2017,Office Supplies,Envelopes,Central,1196.5320000000002,487.80459999999994
+2018,Office Supplies,Envelopes,Central,,
+2016,Office Supplies,Envelopes,East,1304.7500000000002,556.6349999999999
+2017,Office Supplies,Envelopes,East,846.6619999999999,367.4188
+2018,Office Supplies,Envelopes,East,,
+2016,Office Supplies,Envelopes,South,895.7420000000001,399.8763999999999
+2017,Office Supplies,Envelopes,South,788.906,335.8732
+2018,Office Supplies,Envelopes,South,,
+2016,Office Supplies,Envelopes,West,1830.0420000000006,860.4621999999999
+2017,Office Supplies,Envelopes,West,546.4739999999999,250.6624
+2018,Office Supplies,Envelopes,West,,
+2016,Office Supplies,Fasteners,Central,250.86199999999997,83.7923
+2017,Office Supplies,Fasteners,Central,320.23,112.23140000000004
+2018,Office Supplies,Fasteners,Central,,
+2016,Office Supplies,Fasteners,East,366.3700000000001,122.91130000000001
+2017,Office Supplies,Fasteners,East,173.02200000000002,62.50679999999999
+2018,Office Supplies,Fasteners,East,13.96,6.4216
+2016,Office Supplies,Fasteners,South,104.87,34.901399999999995
+2017,Office Supplies,Fasteners,South,107.24600000000001,42.1215
+2018,Office Supplies,Fasteners,South,,
+2016,Office Supplies,Fasteners,West,263.72,63.469199999999994
+2017,Office Supplies,Fasteners,West,220.512,72.6684
+2018,Office Supplies,Fasteners,West,22.624000000000002,8.999199999999998
+2016,Office Supplies,Labels,Central,511.24999999999994,204.96179999999998
+2017,Office Supplies,Labels,Central,587.2420000000001,259.83129999999994
+2018,Office Supplies,Labels,Central,,
+2016,Office Supplies,Labels,East,773.252,333.706
+2017,Office Supplies,Labels,East,724.8279999999999,322.5329
+2018,Office Supplies,Labels,East,72.45,34.775999999999996
+2016,Office Supplies,Labels,South,285.59000000000003,131.3035
+2017,Office Supplies,Labels,South,548.504,205.6684
+2018,Office Supplies,Labels,South,,
+2016,Office Supplies,Labels,West,1248.6340000000002,519.4473999999999
+2017,Office Supplies,Labels,West,1936.706,924.9939
+2018,Office Supplies,Labels,West,,
+2016,Office Supplies,Paper,Central,5348.899999999998,2202.8385
+2017,Office Supplies,Paper,Central,5998.846000000001,2355.7566000000006
+2018,Office Supplies,Paper,Central,270.48199999999997,126.85219999999998
+2016,Office Supplies,Paper,East,4926.120000000001,2135.0231999999996
+2017,Office Supplies,Paper,East,7361.655999999999,3322.4314
+2018,Office Supplies,Paper,East,,
+2016,Office Supplies,Paper,South,3827.459999999999,1690.5658000000003
+2017,Office Supplies,Paper,South,4835.695999999997,1968.9979999999991
+2018,Office Supplies,Paper,South,,
+2016,Office Supplies,Paper,West,6515.521999999997,3038.5976000000005
+2017,Office Supplies,Paper,West,9353.509999999995,4309.404400000003
+2018,Office Supplies,Paper,West,4.28,1.9259999999999997
+2016,Office Supplies,Storage,Central,13001.688000000002,750.6390999999996
+2017,Office Supplies,Storage,Central,13693.739999999998,409.0048999999998
+2018,Office Supplies,Storage,Central,,
+2016,Office Supplies,Storage,East,21939.54599999999,2839.504100000002
+2017,Office Supplies,Storage,East,20156.569999999992,2505.3028999999974
+2018,Office Supplies,Storage,East,,
+2016,Office Supplies,Storage,South,10840.395999999997,1088.0691999999997
+2017,Office Supplies,Storage,South,10660.648000000003,1005.0053999999996
+2018,Office Supplies,Storage,South,64.784,-12.956800000000005
+2016,Office Supplies,Storage,West,13101.644000000002,1543.1220999999998
+2017,Office Supplies,Storage,West,24428.328000000012,3220.5116999999987
+2018,Office Supplies,Storage,West,844.09,244.7860999999999
+2016,Office Supplies,Supplies,Central,4300.796,-813.0766000000002
+2017,Office Supplies,Supplies,Central,4362.8719999999985,112.69260000000007
+2018,Office Supplies,Supplies,Central,44.688,5.0273999999999965
+2016,Office Supplies,Supplies,East,2078.9060000000004,-28.169099999999986
+2017,Office Supplies,Supplies,East,7031.392000000002,-980.8708
+2018,Office Supplies,Supplies,East,,
+2016,Office Supplies,Supplies,South,1456.3000000000002,-184.8886
+2017,Office Supplies,Supplies,South,2484.984,73.49960000000002
+2018,Office Supplies,Supplies,South,,
+2016,Office Supplies,Supplies,West,6412.1500000000015,317.61119999999966
+2017,Office Supplies,Supplies,West,2167.1460000000006,-157.36360000000005
+2018,Office Supplies,Supplies,West,,
+2016,Technology,Accessories,Central,10802.213999999994,1888.0898999999997
+2017,Technology,Accessories,Central,10919.664000000004,2941.231499999999
+2018,Technology,Accessories,Central,,
+2016,Technology,Accessories,East,6231.378,1260.0029
+2017,Technology,Accessories,East,14836.790000000003,3359.366599999999
+2018,Technology,Accessories,East,,
+2016,Technology,Accessories,South,9379.843999999997,2543.8409
+2017,Technology,Accessories,South,8160.085999999998,1946.9387999999992
+2018,Technology,Accessories,South,,
+2016,Technology,Accessories,West,15336.497999999992,3958.8307999999993
+2017,Technology,Accessories,West,26175.612000000005,7438.344099999998
+2018,Technology,Accessories,West,,
+2016,Technology,Copiers,Central,17499.949999999997,8399.975999999999
+2017,Technology,Copiers,Central,3679.928,1013.9795000000001
+2018,Technology,Copiers,Central,,
+2016,Technology,Copiers,East,19759.77,5143.924799999999
+2017,Technology,Copiers,East,24399.87,9572.961599999999
+2018,Technology,Copiers,East,,
+2016,Technology,Copiers,South,2559.888,871.9584
+2017,Technology,Copiers,South,5359.914000000001,2381.9618
+2018,Technology,Copiers,South,,
+2016,Technology,Copiers,West,9779.802000000001,3326.9334
+2017,Technology,Copiers,West,29459.676000000003,12062.8873
+2018,Technology,Copiers,West,,
+2016,Technology,Machines,Central,2658.7889999999998,57.31859999999989
+2017,Technology,Machines,Central,5994.5650000000005,671.7159999999993
+2018,Technology,Machines,Central,,
+2016,Technology,Machines,East,25215.938000000002,-1342.346500000002
+2017,Technology,Machines,East,11827.2,2950.4840999999997
+2018,Technology,Machines,East,,
+2016,Technology,Machines,South,13238.600000000002,4308.107
+2017,Technology,Machines,South,9944.65,-3907.6133999999984
+2018,Technology,Machines,South,,
+2016,Technology,Machines,West,17072.149,557.9088999999992
+2017,Technology,Machines,West,16048.230000000001,-2970.7593000000015
+2018,Technology,Machines,West,,
+2016,Technology,Phones,Central,19976.43199999999,3435.108199999999
+2017,Technology,Phones,Central,23211.15599999999,4119.7203
+2018,Technology,Phones,Central,,
+2016,Technology,Phones,East,21290.356000000007,2167.8120999999983
+2017,Technology,Phones,East,35968.78999999998,3411.3670000000043
+2018,Technology,Phones,East,105.78,6.7373999999999965
+2016,Technology,Phones,South,11843.822000000004,1507.925
+2017,Technology,Phones,South,21363.270000000008,3231.601600000001
+2018,Technology,Phones,South,,
+2016,Technology,Phones,West,25910.904000000002,2382.0290000000005
+2017,Technology,Phones,West,24691.52,2079.8986999999997
+2018,Technology,Phones,West,302.376,22.678200000000018
