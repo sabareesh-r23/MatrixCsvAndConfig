@@ -1088,25 +1088,16 @@
                 "role": "delPYPL_PER"
             },
             {
-                "id": "CALC_1720509366021",
-                "label": "Sum of Profit (Simulation)",
-                "order": 9,
-                "visible": true,
-                "columnType": "SIMULATION_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_1720509366021"
-            },
-            {
                 "id": "LAST_UPDATED_AT",
                 "label": "Last Updated At",
-                "order": 10,
+                "order": 9,
                 "visible": false,
                 "name": "LAST_UPDATED_AT"
             },
             {
                 "id": "LAST_UPDATED_BY",
                 "label": "Last Updated By",
-                "order": 11,
+                "order": 10,
                 "visible": false,
                 "name": "LAST_UPDATED_BY"
             }
@@ -1637,113 +1628,7 @@
             "suffix": ""
         },
         "showSubtotalLevels": {},
-        "customInputColumn": {
-            "scenario_y5pB": {
-                "id": "scenario_y5pB",
-                "title": "Sum of Sales",
-                "type": "NUMBER_COLUMN",
-                "meta": {
-                    "range": {
-                        "from": 0,
-                        "to": 100
-                    },
-                    "aggregationType": "sum"
-                },
-                "columnId": "8598",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "109",
-                "createdByUser": "Deepak Raju Murugesan",
-                "createdByUserEmail": "DeepakRM@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "scenario_ygT2": {
-                "id": "scenario_ygT2",
-                "title": "Sum of Profit",
-                "type": "NUMBER_COLUMN",
-                "meta": {
-                    "range": {
-                        "from": 0,
-                        "to": 100
-                    },
-                    "aggregationType": "sum"
-                },
-                "columnId": "8599",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "109",
-                "createdByUser": "Deepak Raju Murugesan",
-                "createdByUserEmail": "DeepakRM@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "scenario_oBNP": {
-                "id": "scenario_oBNP",
-                "title": "Sum of Discount",
-                "type": "NUMBER_COLUMN",
-                "meta": {
-                    "range": {
-                        "from": 0,
-                        "to": 100
-                    },
-                    "aggregationType": "sum"
-                },
-                "columnId": "8600",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "109",
-                "createdByUser": "Deepak Raju Murugesan",
-                "createdByUserEmail": "DeepakRM@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_1720509366021": {
-                "id": "CALC_1720509366021",
-                "title": "Sum of Profit (Simulation)",
-                "type": "SIMULATION_COLUMN",
-                "description": "",
-                "meta": {
-                    "selectedOptions": {}
-                },
-                "columnId": "8596",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "109",
-                "createdByUser": "Deepak Raju Murugesan",
-                "createdByUserEmail": "DeepakRM@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            }
-        },
+        "customInputColumn": {},
         "storedColumnTooltip": false,
         "diagnose": false,
         "viewConfig": {
@@ -1880,15 +1765,7 @@
                         "isTimeInterval": false
                     }
                 ],
-                "columnHierarchy": [
-                    {
-                        "id": "default_scenario",
-                        "label": "Default Scenario",
-                        "level": 0,
-                        "path": "Default Scenario",
-                        "date": null
-                    }
-                ],
+                "columnHierarchy": [],
                 "visualSignature": {
                     "dimensions": [
                         {
@@ -1953,11 +1830,6 @@
                             "id": "delPYPL_PER",
                             "name": "(Sum of Profit - Sum of Discount)%",
                             "dataType": "NUMERIC"
-                        },
-                        {
-                            "id": "CALC_1720509366021",
-                            "name": "Sum of Profit (Simulation)",
-                            "dataType": "NUMERIC"
                         }
                     ],
                     "hasFormulaRows": false,
@@ -1991,13 +1863,13 @@
             "createdBy": "109",
             "createdAt": 1720500843,
             "updatedBy": "109",
-            "updatedAt": 1720509416,
+            "updatedAt": 1720517613,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
             "snapshotSchedule": {},
             "snapshotScheduleStatus": null,
-            "reportAssetId": null,
+            "reportAssetId": "190",
             "mdeSettings": {},
             "visualIdentifier": "inforiver_LGDPMBCPGHHCDKK",
             "languages": {
@@ -2216,6 +2088,6 @@
             }
         ]
     },
-    "value": {"visualId":"LGDPMBCPGHHCDKK","visualTemplateGuid":"GBIBDDAGOOIJOML","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+    "visual": {"visualId":"LGDPMBCPGHHCDKK","visualTemplateGuid":"GBIBDDAGOOIJOML","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.0.2.0"
 }
