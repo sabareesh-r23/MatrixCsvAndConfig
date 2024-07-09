@@ -284,7 +284,7 @@
             "trillionFullText": "in Trillions",
             "crores": "c",
             "lakhs": "l",
-            "semanticFormatting": true,
+            "semanticFormatting": false,
             "positiveValueColor": "#1AAB40",
             "positiveValueFormat": "x",
             "negativeValueColor": "#D64554",
@@ -950,85 +950,22 @@
         "isInFocus": false,
         "manageMeasures": [
             {
-                "id": "Sum__Orders__Discount__U3VtKE9yZGVycy5EaXNjb3VudCk__",
-                "label": "Sum of Discount",
-                "name": "Sum(Orders.Discount)",
-                "order": 0,
-                "visible": true,
-                "measureType": "data",
-                "role": "PY"
-            },
-            {
-                "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
-                "label": "Sum of Profit",
-                "name": "Sum(Orders.Profit)",
-                "order": 1,
-                "visible": true,
-                "measureType": "data",
-                "role": "PL"
-            },
-            {
                 "label": "Sum of Sales",
                 "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
                 "name": "Sum(Orders.Sales)",
-                "order": 2,
+                "order": 0,
                 "visible": true,
                 "measureType": "data",
                 "role": "AC"
             },
             {
-                "id": "delPY",
-                "label": "Sum of Sales - Sum of Discount",
-                "name": "delPY",
-                "order": 3,
-                "visible": false,
+                "id": "Min__Orders__Order__Date__TWluKE9yZGVycy5PcmRlciUyMERhdGUp",
+                "label": "Latest Order Date",
+                "name": "Min(Orders.Order Date)",
+                "order": 1,
+                "visible": true,
                 "measureType": "data",
-                "role": "delPY"
-            },
-            {
-                "id": "delPY_PER",
-                "label": "(Sum of Sales - Sum of Discount)%",
-                "name": "delPY_PER",
-                "order": 4,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPY_PER"
-            },
-            {
-                "id": "delPL",
-                "label": "Sum of Sales - Sum of Profit",
-                "name": "delPL",
-                "order": 5,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPL"
-            },
-            {
-                "id": "delPL_PER",
-                "label": "(Sum of Sales - Sum of Profit)%",
-                "name": "delPL_PER",
-                "order": 6,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPL_PER"
-            },
-            {
-                "id": "delPYPL",
-                "label": "Sum of Profit - Sum of Discount",
-                "name": "delPYPL",
-                "order": 7,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPYPL"
-            },
-            {
-                "id": "delPYPL_PER",
-                "label": "(Sum of Profit - Sum of Discount)%",
-                "name": "delPYPL_PER",
-                "order": 8,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPYPL_PER"
+                "role": "OM"
             }
         ],
         "invertRows": {
@@ -1641,24 +1578,24 @@
         },
         "fiscalMonth": 0,
         "visualSettings": {
-            "id": "3993",
-            "visualGuid": "LGDPMBCPGHHCDKK",
+            "id": "3772",
+            "visualGuid": "LIAJENLHGADMHIB",
             "tenantId": "6",
             "allowComment": true,
             "allowWriteBack": true,
             "accessType": 1,
             "notification": true,
             "reportIdentifier": "ea4fc2cf-339a-4e5f-a05e-890591432112",
-            "reportDisplayName": "Latest Order Date, Sum of Sales by Region, Category, Sub-Category",
-            "reportSection": "74a2f2b0334c99a579ee",
-            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ea4fc2cf-339a-4e5f-a05e-890591432112/74a2f2b0334c99a579ee?experience=power-bi",
+            "reportDisplayName": "Sum of Profit, Sum of Sales by Category, Sub-Category, Year, Region",
+            "reportSection": "18d207176d1d10cbee0c",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ea4fc2cf-339a-4e5f-a05e-890591432112/18d207176d1d10cbee0c?experience=power-bi",
             "visualMeta": {
                 "product": "inforiver",
                 "duplicateIdentifiers": [
                     {
                         "reportIdentifier": "ea4fc2cf-339a-4e5f-a05e-890591432112",
-                        "reportSection": "74a2f2b0334c99a579ee",
-                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ea4fc2cf-339a-4e5f-a05e-890591432112/74a2f2b0334c99a579ee?experience=power-bi"
+                        "reportSection": "18d207176d1d10cbee0c",
+                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ea4fc2cf-339a-4e5f-a05e-890591432112/18d207176d1d10cbee0c?experience=power-bi"
                     }
                 ],
                 "columns": [],
@@ -1719,7 +1656,7 @@
                     ],
                     "hasFormulaRows": false,
                     "hasNativeMeasures": true,
-                    "reportDisplayName": "Latest Order Date, Sum of Sales by Region, Category, Sub-Category"
+                    "reportDisplayName": "Sum of Profit, Sum of Sales by Category, Sub-Category, Year, Region"
                 },
                 "includedIdDimensions": [
                     {
@@ -1746,9 +1683,9 @@
             "scheduleStatus": null,
             "status": 10,
             "createdBy": "109",
-            "createdAt": 1720500843,
+            "createdAt": 1720423522,
             "updatedBy": "109",
-            "updatedAt": 1720500847,
+            "updatedAt": 1720423526,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -1756,7 +1693,7 @@
             "snapshotScheduleStatus": null,
             "reportAssetId": null,
             "mdeSettings": {},
-            "visualIdentifier": "inforiver_LGDPMBCPGHHCDKK",
+            "visualIdentifier": "inforiver_LIAJENLHGADMHIB",
             "languages": {
                 "GERMAN": "de-DE"
             },
@@ -1767,8 +1704,7 @@
         "timeExtension": {
             "enabled": false,
             "start": null,
-            "end": null,
-            "backupTimeSeriesStart": null
+            "end": null
         },
         "prefixNullWithUnit": true,
         "rowAggregation": {},
@@ -1792,37 +1728,37 @@
         "filterList": [
             {
                 "combinator": "and",
-                "id": "NYYNEWEE",
-                "name": "Region",
-                "rules": [
-                    {
-                        "field": "Orders.Region",
-                        "operator": "isOneof",
-                        "value": "South"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "FQRHJUZE",
+                "id": "MCLWDWYF",
                 "name": "Category",
                 "rules": [
                     {
                         "field": "Orders.Category",
                         "operator": "isOneof",
-                        "value": "Furniture"
+                        "value": "Technology"
                     }
                 ]
             },
             {
                 "combinator": "and",
-                "id": "JGSMBIBQ",
+                "id": "TIGPXJKY",
                 "name": "Sub-Category",
                 "rules": [
                     {
                         "field": "Orders.Sub-Category",
                         "operator": "isOneof",
-                        "value": "Bookcases"
+                        "value": "Phones"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "MVSRFOLO",
+                "name": "Region",
+                "rules": [
+                    {
+                        "field": "Orders.Region",
+                        "operator": "is",
+                        "value": "Central"
                     }
                 ]
             }
@@ -1946,44 +1882,33 @@
             "Orders.Region": "TEXT",
             "Orders.Category": "TEXT",
             "Orders.Sub-Category": "TEXT",
-            "Sum(Orders.Discount)": "NUMERIC",
-            "Sum(Orders.Profit)": "NUMERIC",
-            "Sum(Orders.Sales)": "NUMERIC"
+            "Sum(Orders.Sales)": "NUMERIC",
+            "Min(Orders.Order Date)": "DATETIME"
         },
         "labelMap": {
             "Orders.Region": "Region",
             "Orders.Category": "Category",
             "Orders.Sub-Category": "Sub-Category",
-            "Sum(Orders.Discount)": "Sum of Discount",
-            "Sum(Orders.Profit)": "Sum of Profit",
-            "Sum(Orders.Sales)": "Sum of Sales"
+            "Sum(Orders.Sales)": "Sum of Sales",
+            "Min(Orders.Order Date)": "Latest Order Date"
         },
         "ac_roles": [
             "Sum(Orders.Sales)"
         ],
-        "pl_roles": [
-            "Sum(Orders.Profit)"
-        ],
-        "py_roles": [
-            "Sum(Orders.Discount)"
-        ],
+        "pl_roles": [],
+        "py_roles": [],
         "fc_roles": [],
-        "om_roles": []
+        "om_roles": [
+            "Min(Orders.Order Date)"
+        ]
     },
     "metadata": {
         "measures": {
-            "PY": [
+            "OM": [
                 {
-                    "label": "Sum of Discount",
-                    "name": "Sum(Orders.Discount)",
-                    "role": "PY"
-                }
-            ],
-            "PL": [
-                {
-                    "label": "Sum of Profit",
-                    "name": "Sum(Orders.Profit)",
-                    "role": "PL"
+                    "label": "Latest Order Date",
+                    "name": "Min(Orders.Order Date)",
+                    "role": "OM"
                 }
             ],
             "AC": [
@@ -2010,6 +1935,6 @@
             }
         ]
     },
-    "value": {"visualId":"LGDPMBCPGHHCDKK","visualTemplateGuid":"GBIBDDAGOOIJOML","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+    "visual": {"visualId":"LIAJENLHGADMHIB","visualTemplateGuid":"GBIBDDAGOOIJOML","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.0.2.0"
 }
