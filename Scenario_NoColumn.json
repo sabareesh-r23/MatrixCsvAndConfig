@@ -38,7 +38,7 @@
             "columnHierarchyLevel": {}
         },
         "measureBasedHeader": true,
-        "isReadModeConfigModified": false,
+        "isReadModeConfigModified": true,
         "layout": "HIERARCHICAL",
         "rowExpandCollapseOptions": {
             "rows": {},
@@ -298,7 +298,64 @@
             "customNullText": "",
             "tooltipDecimal": "1"
         },
-        "calculatedColumns": [],
+        "calculatedColumns": [
+            {
+                "id": "LAST_UPDATED_AT",
+                "name": "Last Updated At",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": false,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "meta": null,
+                "isStoredColumn": false,
+                "order": 4
+            },
+            {
+                "id": "LAST_UPDATED_BY",
+                "name": "Last Updated By",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": false,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "meta": null,
+                "isStoredColumn": false,
+                "order": 5
+            }
+        ],
         "calculatedColumnMeta": {
             "newColumnIndex": 0
         },
@@ -306,8 +363,8 @@
             "rowGrandTotal": true,
             "rowGrandTotalPosition": "above",
             "rowSubTotalPosition": "above",
-            "columnGrandTotal": false,
-            "columnGrandTotalPosition": "clear",
+            "columnGrandTotal": true,
+            "columnGrandTotalPosition": "left",
             "columnSubTotalPosition": "clear",
             "freezeTotal": false,
             "summaryTotal": false,
@@ -1029,6 +1086,29 @@
                 "visible": false,
                 "measureType": "data",
                 "role": "delPYPL_PER"
+            },
+            {
+                "id": "CALC_1720509366021",
+                "label": "Sum of Profit (Simulation)",
+                "order": 9,
+                "visible": true,
+                "columnType": "SIMULATION_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_1720509366021"
+            },
+            {
+                "id": "LAST_UPDATED_AT",
+                "label": "Last Updated At",
+                "order": 10,
+                "visible": false,
+                "name": "LAST_UPDATED_AT"
+            },
+            {
+                "id": "LAST_UPDATED_BY",
+                "label": "Last Updated By",
+                "order": 11,
+                "visible": false,
+                "name": "LAST_UPDATED_BY"
             }
         ],
         "invertRows": {
@@ -1039,7 +1119,12 @@
         "columnMeta": {},
         "chartTypes": {},
         "gridLineCount": 1,
-        "measureAggMap": {},
+        "measureAggMap": {
+            "CALC_1720509366021": "formula",
+            "Sum__Orders__Discount__U3VtKE9yZGVycy5EaXNjb3VudCk__": "sum",
+            "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp": "sum",
+            "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__": "sum"
+        },
         "outliers": {
             "min": 0,
             "max": 0,
@@ -1428,14 +1513,14 @@
                 "reportPlus": true
             },
             "scenario": {
+                "modifiedByUser": false,
                 "scenario": false,
                 "export": false,
                 "writeBack": false,
                 "analyze": false,
                 "annotate": false,
                 "monitor": false,
-                "reset": false,
-                "modifiedByUser": false
+                "reset": false
             },
             "snapshot": {
                 "export": true,
@@ -1494,7 +1579,11 @@
             "hierarchyHeader": false,
             "separator": " - "
         },
-        "measureAttributes": {},
+        "measureAttributes": {
+            "CALC_1720509366021": {
+                "width": 111
+            }
+        },
         "powerBiTheme": {
             "isHighContrast": false,
             "foreground": null,
@@ -1548,7 +1637,113 @@
             "suffix": ""
         },
         "showSubtotalLevels": {},
-        "customInputColumn": {},
+        "customInputColumn": {
+            "scenario_y5pB": {
+                "id": "scenario_y5pB",
+                "title": "Sum of Sales",
+                "type": "NUMBER_COLUMN",
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum"
+                },
+                "columnId": "8598",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "109",
+                "createdByUser": "Deepak Raju Murugesan",
+                "createdByUserEmail": "DeepakRM@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "scenario_ygT2": {
+                "id": "scenario_ygT2",
+                "title": "Sum of Profit",
+                "type": "NUMBER_COLUMN",
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum"
+                },
+                "columnId": "8599",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "109",
+                "createdByUser": "Deepak Raju Murugesan",
+                "createdByUserEmail": "DeepakRM@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "scenario_oBNP": {
+                "id": "scenario_oBNP",
+                "title": "Sum of Discount",
+                "type": "NUMBER_COLUMN",
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum"
+                },
+                "columnId": "8600",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "109",
+                "createdByUser": "Deepak Raju Murugesan",
+                "createdByUserEmail": "DeepakRM@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_1720509366021": {
+                "id": "CALC_1720509366021",
+                "title": "Sum of Profit (Simulation)",
+                "type": "SIMULATION_COLUMN",
+                "description": "",
+                "meta": {
+                    "selectedOptions": {}
+                },
+                "columnId": "8596",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "109",
+                "createdByUser": "Deepak Raju Murugesan",
+                "createdByUserEmail": "DeepakRM@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            }
+        },
         "storedColumnTooltip": false,
         "diagnose": false,
         "viewConfig": {
@@ -1685,7 +1880,15 @@
                         "isTimeInterval": false
                     }
                 ],
-                "columnHierarchy": [],
+                "columnHierarchy": [
+                    {
+                        "id": "default_scenario",
+                        "label": "Default Scenario",
+                        "level": 0,
+                        "path": "Default Scenario",
+                        "date": null
+                    }
+                ],
                 "visualSignature": {
                     "dimensions": [
                         {
@@ -1707,14 +1910,54 @@
                     "dimensionHash": "d26e0a638befb8afec02250ade33ffd8",
                     "measures": [
                         {
+                            "id": "Sum__Orders__Discount__U3VtKE9yZGVycy5EaXNjb3VudCk__",
+                            "name": "Sum of Discount",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
+                            "name": "Sum of Profit",
+                            "dataType": "NUMERIC"
+                        },
+                        {
                             "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
                             "name": "Sum of Sales",
                             "dataType": "NUMERIC"
                         },
                         {
-                            "id": "Min__Orders__Order__Date__TWluKE9yZGVycy5PcmRlciUyMERhdGUp",
-                            "name": "Latest Order Date",
-                            "dataType": "DATETIME"
+                            "id": "delPY",
+                            "name": "Sum of Sales - Sum of Discount",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "delPY_PER",
+                            "name": "(Sum of Sales - Sum of Discount)%",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "delPL",
+                            "name": "Sum of Sales - Sum of Profit",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "delPL_PER",
+                            "name": "(Sum of Sales - Sum of Profit)%",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "delPYPL",
+                            "name": "Sum of Profit - Sum of Discount",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "delPYPL_PER",
+                            "name": "(Sum of Profit - Sum of Discount)%",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "CALC_1720509366021",
+                            "name": "Sum of Profit (Simulation)",
+                            "dataType": "NUMERIC"
                         }
                     ],
                     "hasFormulaRows": false,
@@ -1748,7 +1991,7 @@
             "createdBy": "109",
             "createdAt": 1720500843,
             "updatedBy": "109",
-            "updatedAt": 1720500847,
+            "updatedAt": 1720509416,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -1789,44 +2032,7 @@
             "variables": [],
             "onLoadFormula": ""
         },
-        "filterList": [
-            {
-                "combinator": "and",
-                "id": "NYYNEWEE",
-                "name": "Region",
-                "rules": [
-                    {
-                        "field": "Orders.Region",
-                        "operator": "isOneof",
-                        "value": "South"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "FQRHJUZE",
-                "name": "Category",
-                "rules": [
-                    {
-                        "field": "Orders.Category",
-                        "operator": "isOneof",
-                        "value": "Furniture"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "JGSMBIBQ",
-                "name": "Sub-Category",
-                "rules": [
-                    {
-                        "field": "Orders.Sub-Category",
-                        "operator": "isOneof",
-                        "value": "Bookcases"
-                    }
-                ]
-            }
-        ],
+        "filterList": [],
         "customIcons": [],
         "scrollThickness": false,
         "dynamicRowScale": {},
