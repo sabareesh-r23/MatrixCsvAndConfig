@@ -1,0 +1,2 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Sum(Orders.Sales)
+2015,Office Supplies,137233.463
