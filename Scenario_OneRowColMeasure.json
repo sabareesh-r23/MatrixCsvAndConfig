@@ -1859,6 +1859,6 @@
             }
         ]
     },
-    "value": {"visualId":"GKDKPNIGBOLNPHK","visualTemplateGuid":"HLJGGMMKMKGLKDA","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+    "visual": {"visualId":"GKDKPNIGBOLNPHK","visualTemplateGuid":"HLJGGMMKMKGLKDA","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.0.2.0"
 }

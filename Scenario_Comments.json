@@ -121,8 +121,11 @@
         },
         "miscellaneous": {
             "enableFooter": true,
+            "showInfoRiverLogo": true,
             "footerUrl": "https://inforiver.com/",
             "footerText": "inforiver.com",
+            "showTooltip": true,
+            "isUserChangedFooter": false,
             "pinIcon": "solid",
             "enableReadViewBookmarking": false
         },
@@ -159,16 +162,13 @@
             "columnStyle": null
         },
         "notes": {
-            "annotationColumnCount": 0,
-            "annotationNote": null,
             "show": true,
             "displayAnnotations": "view",
-            "annotations": [],
             "autoFit": true,
+            "annotations": [],
             "columnAnnotations": [],
             "indicatorType": "numbered",
             "indicatorPosition": "default",
-            "customIcon": "CIRCLE_FILL",
             "persistProperty": {
                 "bgColor": "rgba(255,255,255,0.9)",
                 "lineColor": "rgba(3,169,244,0.7)",
@@ -181,12 +181,16 @@
             "showFootnote": false,
             "rowLevelComments": false,
             "enableReply": true,
+            "annotationNote": "",
+            "annotationHeight": 15,
+            "annotationColumnCount": 0,
             "indicatorSize": 12,
             "footNoteHeight": 15,
             "footNoteColumn": 3,
             "showTimestamp": true,
             "showUsername": true,
-            "defaultReference": false
+            "defaultReference": false,
+            "customIcon": "CIRCLE_FILL"
         },
         "themeColors": {
             "showTable": false,
@@ -947,25 +951,25 @@
         "isInFocus": false,
         "manageMeasures": [
             {
-                "label": "Sum of Sales",
-                "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
-                "name": "Sum(Orders.Sales)",
+                "label": "Sum of Profit",
+                "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
+                "name": "Sum(Orders.Profit)",
                 "order": 0,
                 "visible": true,
                 "measureType": "data",
                 "role": "PY"
             },
             {
-                "label": "Sum of Profit",
-                "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
-                "name": "Sum(Orders.Profit)",
+                "label": "Sum of Sales",
+                "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+                "name": "Sum(Orders.Sales)",
                 "order": 1,
                 "visible": true,
                 "measureType": "data",
                 "role": "AC"
             },
             {
-                "label": "Sum of Profit - Sum of Sales",
+                "label": "Sum of Sales - Sum of Profit",
                 "id": "delPY",
                 "name": "delPY",
                 "order": 2,
@@ -974,7 +978,7 @@
                 "role": "delPY"
             },
             {
-                "label": "(Sum of Profit - Sum of Sales)%",
+                "label": "(Sum of Sales - Sum of Profit)%",
                 "id": "delPY_PER",
                 "name": "delPY_PER",
                 "order": 3,
@@ -1041,7 +1045,7 @@
         },
         "absoluteSort": false,
         "signSort": false,
-        "absoluteSearch": false,
+        "absoluteSearch": true,
         "invertSettings": "additionMethod",
         "enableDrillThrough": false,
         "wizardComplete": true,
@@ -1050,7 +1054,7 @@
         "varianceInvertColumn": {},
         "landingPage": false,
         "columnExpandCollapse": {
-            "2015": {
+            "2014": {
                 "expanded": true
             }
         },
@@ -1252,7 +1256,8 @@
             "showTabContent": true,
             "toolbarTheme": "light",
             "showFloatingToolbar": true,
-            "showForecastTab": false
+            "showForecastTab": false,
+            "hideDuplicateReportWarning": false
         },
         "warningModal": {
             "show": false,
@@ -1464,7 +1469,7 @@
             "not": false
         },
         "selectionDataNote": {
-            "enable": false,
+            "enable": true,
             "aggregateOption": {
                 "sum": true,
                 "avg": true,
@@ -1592,24 +1597,24 @@
         },
         "fiscalMonth": 0,
         "visualSettings": {
-            "id": "4621",
-            "visualGuid": "HMNCDAJKNJOPCMC",
+            "id": "4630",
+            "visualGuid": "FGJNDBEPOLIMEEP",
             "tenantId": "6",
             "allowComment": true,
             "allowWriteBack": true,
             "accessType": 1,
             "notification": true,
             "reportIdentifier": "ea4fc2cf-339a-4e5f-a05e-890591432112",
-            "reportDisplayName": " by Category",
-            "reportSection": "5e860c8d28a8bb090b36",
-            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ea4fc2cf-339a-4e5f-a05e-890591432112/5e860c8d28a8bb090b36?experience=power-bi",
+            "reportDisplayName": "Sum of Profit, Sum of Sales by Category, Sub-Category, Year, Region",
+            "reportSection": "8e1aa36876459b315cd3",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ea4fc2cf-339a-4e5f-a05e-890591432112/8e1aa36876459b315cd3?experience=power-bi",
             "visualMeta": {
                 "product": "inforiver",
                 "duplicateIdentifiers": [
                     {
                         "reportIdentifier": "ea4fc2cf-339a-4e5f-a05e-890591432112",
-                        "reportSection": "5e860c8d28a8bb090b36",
-                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ea4fc2cf-339a-4e5f-a05e-890591432112/5e860c8d28a8bb090b36?experience=power-bi"
+                        "reportSection": "8e1aa36876459b315cd3",
+                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ea4fc2cf-339a-4e5f-a05e-890591432112/8e1aa36876459b315cd3?experience=power-bi"
                     }
                 ],
                 "columns": [
@@ -1618,22 +1623,22 @@
                         "name": "Year",
                         "isTimeInterval": true,
                         "values": [
-                            "2015"
+                            "2014"
                         ],
                         "timeIntervalUnit": "YEAR",
                         "level": 0
                     },
                     {
-                        "alias": "Quarter",
-                        "name": "Quarter",
-                        "isTimeInterval": true,
+                        "alias": "Region",
+                        "name": "Region",
+                        "isTimeInterval": false,
                         "values": [
-                            "Qtr 1",
-                            "Qtr 2",
-                            "Qtr 3",
-                            "Qtr 4"
+                            "Central",
+                            "East",
+                            "South",
+                            "West"
                         ],
-                        "timeIntervalUnit": "QUARTER",
+                        "timeIntervalUnit": null,
                         "level": 1
                     }
                 ],
@@ -1655,39 +1660,39 @@
                 ],
                 "columnHierarchy": [
                     {
-                        "id": "2015",
-                        "label": "2015",
+                        "id": "2014",
+                        "label": "2014",
                         "level": 0,
-                        "path": "2015",
-                        "date": "2015-01-01T00:00:00+05:30"
+                        "path": "2014",
+                        "date": "2014-01-01T00:00:00+05:30"
                     },
                     {
-                        "id": "2015__Qtr__1__UXRyJTIwMQ__",
-                        "label": "Qtr 1",
+                        "id": "2014__Central",
+                        "label": "Central",
                         "level": 1,
-                        "path": "2015|Qtr 1",
-                        "date": "2015-01-01T00:00:00+05:30"
+                        "path": "2014|Central",
+                        "date": null
                     },
                     {
-                        "id": "2015__Qtr__2__UXRyJTIwMg__",
-                        "label": "Qtr 2",
+                        "id": "2014__East",
+                        "label": "East",
                         "level": 1,
-                        "path": "2015|Qtr 2",
-                        "date": "2015-04-01T00:00:00+05:30"
+                        "path": "2014|East",
+                        "date": null
                     },
                     {
-                        "id": "2015__Qtr__3__UXRyJTIwMw__",
-                        "label": "Qtr 3",
+                        "id": "2014__South",
+                        "label": "South",
                         "level": 1,
-                        "path": "2015|Qtr 3",
-                        "date": "2015-07-01T00:00:00+05:30"
+                        "path": "2014|South",
+                        "date": null
                     },
                     {
-                        "id": "2015__Qtr__4__UXRyJTIwNA__",
-                        "label": "Qtr 4",
+                        "id": "2014__West",
+                        "label": "West",
                         "level": 1,
-                        "path": "2015|Qtr 4",
-                        "date": "2015-10-01T00:00:00+05:30"
+                        "path": "2014|West",
+                        "date": null
                     }
                 ],
                 "visualSignature": {
@@ -1708,37 +1713,37 @@
                             "dataType": "NUMERIC"
                         },
                         {
-                            "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
-                            "name": "Quarter",
+                            "id": "Orders.Region",
+                            "name": "Region",
                             "dataType": "TEXT"
                         }
                     ],
-                    "dimensionHash": "cae534c9f81ddfc8cebe921c2de0d772",
+                    "dimensionHash": "43899a54aaa6f6b360fa9cba26eb77f4",
                     "measures": [
-                        {
-                            "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
-                            "name": "Sum of Sales",
-                            "dataType": "NUMERIC"
-                        },
                         {
                             "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
                             "name": "Sum of Profit",
                             "dataType": "NUMERIC"
                         },
                         {
+                            "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
+                            "name": "Sum of Sales",
+                            "dataType": "NUMERIC"
+                        },
+                        {
                             "id": "delPY",
-                            "name": "Sum of Profit - Sum of Sales",
+                            "name": "Sum of Sales - Sum of Profit",
                             "dataType": "NUMERIC"
                         },
                         {
                             "id": "delPY_PER",
-                            "name": "(Sum of Profit - Sum of Sales)%",
+                            "name": "(Sum of Sales - Sum of Profit)%",
                             "dataType": "NUMERIC"
                         }
                     ],
                     "hasFormulaRows": false,
                     "hasNativeMeasures": true,
-                    "reportDisplayName": " by Category"
+                    "reportDisplayName": "Sum of Profit, Sum of Sales by Category, Sub-Category, Year, Region"
                 },
                 "includedIdDimensions": [
                     {
@@ -1754,8 +1759,8 @@
                         "name": "Year"
                     },
                     {
-                        "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
-                        "name": "Quarter"
+                        "id": "Orders.Region",
+                        "name": "Region"
                     }
                 ],
                 "dimensionIdMapping": [],
@@ -1769,9 +1774,9 @@
             "scheduleStatus": null,
             "status": 10,
             "createdBy": "109",
-            "createdAt": 1720689695,
+            "createdAt": 1720692202,
             "updatedBy": "109",
-            "updatedAt": 1720690481,
+            "updatedAt": 1720692208,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -1779,7 +1784,7 @@
             "snapshotScheduleStatus": null,
             "reportAssetId": null,
             "mdeSettings": {},
-            "visualIdentifier": "inforiver_HMNCDAJKNJOPCMC",
+            "visualIdentifier": "inforiver_FGJNDBEPOLIMEEP",
             "languages": {
                 "GERMAN": "de-DE"
             },
@@ -1790,7 +1795,8 @@
         "timeExtension": {
             "enabled": false,
             "start": null,
-            "end": null
+            "end": null,
+            "backupTimeSeriesStart": null
         },
         "prefixNullWithUnit": true,
         "rowAggregation": {},
@@ -1804,7 +1810,7 @@
                 "backGround": "#5db0d742"
             }
         },
-        "showInfoRiverLogo": false,
+        "showInfoRiverLogo": true,
         "allowNativeCellEdit": false,
         "calculatedVariables": {},
         "formFieldsVariables": {
@@ -1902,10 +1908,7 @@
         "customCells": [],
         "subTotals": {
             "rowSubtotals": true,
-            "columnSubtotals": true,
-            "levelSubtotalEnabled": true,
-            "perColumnLevel": true,
-            "perRowLevel": true
+            "columnSubtotals": true
         },
         "hideBlankLabel": false,
         "skippedRowDimensions": [],
@@ -1930,31 +1933,31 @@
         ],
         "columns": [
             "Orders.Order Date.Variation.Date Hierarchy.Year",
-            "Orders.Order Date.Variation.Date Hierarchy.Quarter"
+            "Orders.Region"
         ],
         "rolesMap": {},
         "typesMap": {
             "Orders.Category": "TEXT",
             "Orders.Sub-Category": "TEXT",
             "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC",
-            "Orders.Order Date.Variation.Date Hierarchy.Quarter": "TEXT",
-            "Sum(Orders.Sales)": "NUMERIC",
-            "Sum(Orders.Profit)": "NUMERIC"
+            "Orders.Region": "TEXT",
+            "Sum(Orders.Profit)": "NUMERIC",
+            "Sum(Orders.Sales)": "NUMERIC"
         },
         "labelMap": {
             "Orders.Category": "Category",
             "Orders.Sub-Category": "Sub-Category",
             "Orders.Order Date.Variation.Date Hierarchy.Year": "Year",
-            "Orders.Order Date.Variation.Date Hierarchy.Quarter": "Quarter",
-            "Sum(Orders.Sales)": "Sum of Sales",
-            "Sum(Orders.Profit)": "Sum of Profit"
+            "Orders.Region": "Region",
+            "Sum(Orders.Profit)": "Sum of Profit",
+            "Sum(Orders.Sales)": "Sum of Sales"
         },
         "ac_roles": [
-            "Sum(Orders.Profit)"
+            "Sum(Orders.Sales)"
         ],
         "pl_roles": [],
         "py_roles": [
-            "Sum(Orders.Sales)"
+            "Sum(Orders.Profit)"
         ],
         "fc_roles": [],
         "om_roles": []
@@ -1963,15 +1966,15 @@
         "measures": {
             "PY": [
                 {
-                    "label": "Sum of Sales",
-                    "name": "Sum(Orders.Sales)",
+                    "label": "Sum of Profit",
+                    "name": "Sum(Orders.Profit)",
                     "role": "PY"
                 }
             ],
             "AC": [
                 {
-                    "label": "Sum of Profit",
-                    "name": "Sum(Orders.Profit)",
+                    "label": "Sum of Sales",
+                    "name": "Sum(Orders.Sales)",
                     "role": "AC"
                 }
             ]
@@ -1982,8 +1985,8 @@
                 "label": "Year"
             },
             {
-                "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
-                "label": "Quarter"
+                "id": "Orders.Region",
+                "label": "Region"
             }
         ],
         "rows": [
@@ -1997,6 +2000,6 @@
             }
         ]
     },
-    "visual": {"visualId":"HMNCDAJKNJOPCMC","visualTemplateGuid":"HIFPIELMIBAMBCB","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+    "visual": {"visualId":"FGJNDBEPOLIMEEP","visualTemplateGuid":"GBIBDDAGOOIJOML","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.0.2.0"
 }
