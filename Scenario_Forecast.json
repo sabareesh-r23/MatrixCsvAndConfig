@@ -1771,13 +1771,13 @@
             "createdBy": "109",
             "createdAt": 1720689695,
             "updatedBy": "109",
-            "updatedAt": 1720690481,
+            "updatedAt": 1720695591,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
             "snapshotSchedule": {},
             "snapshotScheduleStatus": null,
-            "reportAssetId": null,
+            "reportAssetId": "190",
             "mdeSettings": {},
             "visualIdentifier": "inforiver_HMNCDAJKNJOPCMC",
             "languages": {
@@ -1804,7 +1804,7 @@
                 "backGround": "#5db0d742"
             }
         },
-        "showInfoRiverLogo": false,
+        "showInfoRiverLogo": true,
         "allowNativeCellEdit": false,
         "calculatedVariables": {},
         "formFieldsVariables": {
@@ -1997,6 +1997,6 @@
             }
         ]
     },
-    "visual": {"visualId":"HMNCDAJKNJOPCMC","visualTemplateGuid":"HIFPIELMIBAMBCB","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+    "visual":{"visualId":"HMNCDAJKNJOPCMC","visualTemplateGuid":"HIFPIELMIBAMBCB","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.0.2.0"
 }
