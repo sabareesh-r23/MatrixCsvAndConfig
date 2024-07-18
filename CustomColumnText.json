@@ -1460,7 +1460,7 @@
             "not": false
         },
         "selectionDataNote": {
-            "enable": false,
+            "enable": true,
             "aggregateOption": {
                 "sum": true,
                 "avg": true,
