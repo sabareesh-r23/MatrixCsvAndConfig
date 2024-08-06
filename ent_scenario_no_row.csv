@@ -1,0 +1,10 @@
+Table5.Year,Table5.Region,Sum(Table5.AC)
+2019,Americas,1049000
+2017,Americas,928000
+2018,Americas,901000
+2019,Europe,1283000
+2017,Europe,734000
+2018,Europe,510000
+2018,Asia-Pacific,949000
+2017,Asia-Pacific,804000
+2019,Asia-Pacific,523000
