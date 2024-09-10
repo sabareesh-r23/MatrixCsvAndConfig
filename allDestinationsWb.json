@@ -1254,6 +1254,6 @@
       { "id": "Orders.Sub-Category", "label": "Sub-Category" }
     ]
   },
-  "visual": { "visualId": "LHLHIAJPHFBMHFE", "visualTemplateGuid": "BLEPNDHAMJBNJEJ", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" },
+  "visual": { "visualId": "CAKJAAMFOFJHIOD", "visualTemplateGuid": "BLJLKAMHBMOAMML", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" },
   "currentVersion": "v3.3.0.0"
 }
