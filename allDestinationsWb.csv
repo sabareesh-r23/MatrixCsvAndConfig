@@ -1,0 +1,52 @@
+Orders.Segment,Orders.Category,Orders.Sub-Category,Sum(Orders.Sales)
+Consumer,Technology,Phones,169932.764
+Corporate,Technology,Phones,91153.414
+Home Office,Technology,Phones,68920.87599999999
+Consumer,Technology,Machines,79542.82500000004
+Corporate,Technology,Machines,60276.754999999976
+Home Office,Technology,Machines,49419.051
+Consumer,Technology,Accessories,87105.23800000004
+Corporate,Technology,Accessories,48190.564
+Home Office,Technology,Accessories,32084.515999999978
+Consumer,Technology,Copiers,69819.06999999999
+Corporate,Technology,Copiers,46829.385999999984
+Home Office,Technology,Copiers,32879.574
+Consumer,Furniture,Chairs,172862.74199999977
+Corporate,Furniture,Chairs,99140.87799999991
+Home Office,Furniture,Chairs,56445.48300000002
+Consumer,Furniture,Tables,99933.79499999998
+Corporate,Furniture,Tables,70871.7175
+Home Office,Furniture,Tables,36160.01950000001
+Consumer,Furniture,Bookcases,68632.72899999998
+Corporate,Furniture,Bookcases,34005.9243
+Home Office,Furniture,Bookcases,12241.342999999997
+Consumer,Furniture,Furnishings,49620.04599999995
+Corporate,Furniture,Furnishings,25001.26599999999
+Home Office,Furniture,Furnishings,17083.852
+Consumer,Office Supplies,Storage,100492.40200000005
+Corporate,Office Supplies,Storage,79790.99799999999
+Home Office,Office Supplies,Storage,43560.20799999998
+Consumer,Office Supplies,Binders,118161.00899999998
+Corporate,Office Supplies,Binders,51560.313000000046
+Home Office,Office Supplies,Binders,33691.41100000001
+Consumer,Office Supplies,Appliances,52819.58100000005
+Corporate,Office Supplies,Appliances,36588.68299999998
+Home Office,Office Supplies,Appliances,18123.897
+Consumer,Office Supplies,Paper,36324.36799999989
+Corporate,Office Supplies,Paper,23883.129999999972
+Home Office,Office Supplies,Paper,18271.708000000006
+Consumer,Office Supplies,Supplies,25741.496000000003
+Corporate,Office Supplies,Supplies,19435.284
+Home Office,Office Supplies,Supplies,1496.7580000000003
+Consumer,Office Supplies,Art,14251.929999999997
+Corporate,Office Supplies,Art,8590.448000000006
+Home Office,Office Supplies,Art,4276.413999999999
+Consumer,Office Supplies,Envelopes,7771.146000000002
+Corporate,Office Supplies,Envelopes,5942.67
+Home Office,Office Supplies,Envelopes,2762.585999999999
+Consumer,Office Supplies,Labels,6709.2620000000015
+Corporate,Office Supplies,Labels,4101.646000000001
+Home Office,Office Supplies,Labels,1675.4039999999995
+Consumer,Office Supplies,Fasteners,1680.9419999999998
+Corporate,Office Supplies,Fasteners,783.2900000000001
+Home Office,Office Supplies,Fasteners,560.0479999999999
