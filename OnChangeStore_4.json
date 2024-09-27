@@ -8,8 +8,8 @@
             "autoRowCount": "layout",
             "view": "browser",
             "pageNo": 1,
-            "paginationHeight": 20,
-            "currentPageNumber": 0
+            "currentPageNumber": 0,
+            "paginationHeight": 20
         },
         "headerOption": {
             "showHeaderIndicator": true,
@@ -33,26 +33,29 @@
         },
         "tableState": {
             "rowHierarchyLevel": {},
-            "compareMeasure": null,
             "expandCollapseIcon": "plusMinusSquare",
             "columnExpandCollapseIcon": "arrows",
-            "columnHierarchyLevel": {},
-            "headerHeight": 25
+            "columnHierarchyLevel": {}
         },
         "measureBasedHeader": true,
         "isReadModeConfigModified": false,
         "layout": "HIERARCHICAL",
         "rowExpandCollapseOptions": {
             "rows": {},
-            "expandTillDescendant": {},
             "gridState": null,
             "levelStates": [],
-            "maxLevelExpanded": null
+            "maxLevelExpanded": null,
+            "expandTillDescendant": {}
         },
         "chartTitleOption": {
             "show": true
         },
         "chartCustomTitle": {
+            "alignment": "",
+            "bgColor": "",
+            "customFooter": null,
+            "formattedTitle": "",
+            "showCustomFooter": false,
             "secondaryTitle": "",
             "measureTitle": "",
             "primaryTitle": "",
@@ -66,7 +69,7 @@
                             "left": 0
                         },
                         "dimension": {
-                            "width": "150",
+                            "width": "624",
                             "height": "30"
                         },
                         "layout": {
@@ -97,11 +100,16 @@
                 "layout": "left-col",
                 "layoutType": "CUSTOM",
                 "containerMeta": {
-                    "width": 1270,
+                    "width": 1262,
                     "height": 45
                 },
                 "containerPosition": "top"
-            }
+            },
+            "customTitleHeight": 45,
+            "customFooterHeight": 28,
+            "showContainerControls": true,
+            "customTitleWidth": 80,
+            "customFooterWidth": 80
         },
         "breakConfig": {
             "sectionBreak": [],
@@ -112,13 +120,9 @@
         },
         "miscellaneous": {
             "enableFooter": true,
-            "showInfoRiverLogo": true,
             "footerUrl": "https://inforiver.com/",
             "footerText": "inforiver.com",
-            "showTooltip": true,
-            "isUserChangedFooter": false,
             "pinIcon": "solid",
-            "hideOnReadMode": false,
             "enableReadViewBookmarking": false
         },
         "globalStyles": {
@@ -148,37 +152,40 @@
             "showRowLabelEditor": false,
             "chartScale": "universal",
             "variableColor": "#0078D4",
-            "kpiFontSize": "45"
+            "kpiFontSize": 45,
+            "blankRowLabel": "(Blank)",
+            "blankColumnLabel": "(Blank)",
+            "columnStyle": null
         },
         "notes": {
+            "annotationColumnCount": 0,
+            "annotationNote": null,
             "show": true,
             "displayAnnotations": "view",
-            "autoFit": true,
             "annotations": [],
+            "autoFit": true,
             "columnAnnotations": [],
             "indicatorType": "numbered",
             "indicatorPosition": "default",
+            "customIcon": "CIRCLE_FILL",
             "persistProperty": {
                 "bgColor": "rgba(255,255,255,0.9)",
                 "lineColor": "rgba(3,169,244,0.7)",
                 "borderColor": "rgba(3,169,244,0.7)",
-                "iconColor": "rgba(0, 120, 212, 0.7)",
+                "iconColor": "rgba(0, 120, 212, 1)",
                 "displayOptions": 4,
-                "iconSize": 14
+                "iconSize": 14,
+                "indicatorIcon": "CIRCLE_FILL"
             },
             "showFootnote": false,
             "rowLevelComments": false,
             "enableReply": true,
-            "annotationNote": "grid",
-            "annotationHeight": 15,
-            "annotationColumnCount": 2,
             "indicatorSize": 12,
             "footNoteHeight": 15,
             "footNoteColumn": 3,
             "showTimestamp": true,
             "showUsername": true,
-            "defaultReference": false,
-            "customIcon": "CIRCLE_FILL"
+            "defaultReference": false
         },
         "themeColors": {
             "showTable": false,
@@ -198,20 +205,21 @@
             "rowOddColor": "#f5f5f5",
             "rowEvenColor": "#ffffff",
             "measureOnlyHighlight": false,
-            "lineStyleRecentColor": ""
+            "lineStyleRecentColor": "",
+            "highContrast": null
         },
         "rowReorder": {
             "enabled": true,
-            "siblingRowReorder": true,
             "rowOrderConfig": {},
-            "rowOrderConfigMeta": {}
+            "rowOrderConfigMeta": {},
+            "siblingRowReorder": true
         },
         "columnHierarchySort": {},
         "verticalLabelColumn": false,
         "compareMesLabelAlign": false,
         "gridStyles": {
             "majorGridLines": "off",
-            "horizontalMinorGridLines": "solid",
+            "horizontalMinorGridLines": "off",
             "headerGridLines": true,
             "verticalMinorGridLines": "solid",
             "compactSplitLine": true,
@@ -247,34 +255,23 @@
         "groupInColumn": true,
         "numberFormatting": {
             "enabled": true,
-            "prefix": "",
-            "suffix": "",
-            "semanticFormatting": false,
-            "enablePrefixAsUnit": true,
-            "negativeValueColor": "#D64554",
-            "negativeValueFormat": "-x",
-            "positiveValueColor": "#1AAB40",
-            "positiveValueFormat": "x",
-            "neutralValueColor": "#D9B300",
-            "showNegativeSign": false,
-            "showScalingUnit": false,
-            "showDataLabel": true,
             "formatType": "default",
+            "enablePrefixAsUnit": true,
+            "enableSuffixAsUnit": false,
             "ibcsformat": true,
-            "enableDataLabelFormatting": true,
-            "decimalSeperator": ".",
             "thousandSeperator": ",",
+            "decimalSeperator": ".",
             "noOfDecimal": 2,
             "noOfDecimalPercent": 2,
-            "dlIBCSNoOfDecimal": 0,
+            "prefix": "",
+            "suffix": "",
             "scalingFactor": "autoFixed",
-            "dlFlexibleScalingFactor": "auto",
-            "dlCustomScalingFactor": "none",
+            "showScalingUnit": false,
             "customizeScalingLabel": false,
             "scalingTextType": "full",
             "thousands": "k",
-            "millions": "m",
             "billions": "b",
+            "millions": "m",
             "trillion": "t",
             "thousandsMediumText": "in k",
             "millionsMediumText": "in m",
@@ -284,16 +281,21 @@
             "billionsFullText": "in Billions",
             "millionsFullText": "in Millions",
             "trillionFullText": "in Trillions",
-            "showNullAs": "blank",
-            "showPercentageSymbol": false,
-            "customNullText": "",
-            "showZeroAs": "zero",
-            "customZeroText": "",
             "crores": "c",
             "lakhs": "l",
-            "showTooltipAsUnit": false,
-            "showTooltipDecimal": false,
-            "tooltipDecimal": 1
+            "semanticFormatting": false,
+            "positiveValueColor": "#1AAB40",
+            "positiveValueFormat": "x",
+            "negativeValueColor": "#D64554",
+            "negativeValueFormat": "-x",
+            "neutralValueColor": "#D9B300",
+            "showNegativeSign": false,
+            "showPercentageSymbol": false,
+            "showZeroAs": "zero",
+            "customZeroText": "",
+            "showNullAs": "blank",
+            "customNullText": "",
+            "tooltipDecimal": "1"
         },
         "calculatedColumns": [],
         "calculatedColumnMeta": {
@@ -306,6 +308,7 @@
             "columnGrandTotal": false,
             "columnGrandTotalPosition": "clear",
             "columnSubTotalPosition": "clear",
+            "freezeTotal": false,
             "summaryTotal": false,
             "rowForSubtotal": false
         },
@@ -946,26 +949,26 @@
         "isInFocus": false,
         "manageMeasures": [
             {
-                "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
-                "label": "Sum of Profit",
-                "name": "Sum(Orders.Profit)",
+                "label": "PY",
+                "id": "Sum__Table5__PY__U3VtKFRhYmxlNS5QWSk__",
+                "name": "Sum(Table5.PY)",
                 "order": 0,
                 "visible": true,
                 "measureType": "data",
                 "role": "PY"
             },
             {
-                "label": "Sum of Sales",
-                "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
-                "name": "Sum(Orders.Sales)",
+                "label": "AC",
+                "id": "Sum__Table5__AC__U3VtKFRhYmxlNS5BQyk__",
+                "name": "Sum(Table5.AC)",
                 "order": 1,
                 "visible": true,
                 "measureType": "data",
                 "role": "AC"
             },
             {
+                "label": "AC - PY",
                 "id": "delPY",
-                "label": "Sum of Sales - Sum of Profit",
                 "name": "delPY",
                 "order": 2,
                 "visible": false,
@@ -973,8 +976,8 @@
                 "role": "delPY"
             },
             {
+                "label": "(AC - PY)%",
                 "id": "delPY_PER",
-                "label": "(Sum of Sales - Sum of Profit)%",
                 "name": "delPY_PER",
                 "order": 3,
                 "visible": false,
@@ -992,19 +995,20 @@
         "gridLineCount": 1,
         "measureAggMap": {},
         "outliers": {
-            "enableOutlier": false,
             "min": 0,
-            "max": 0
+            "max": 0,
+            "enableOutlier": false
         },
         "headerLabelFormat": {},
         "sparklineConfig": {},
         "displayAllCols": false,
         "bulletConfig": {},
         "stackedConfig": {},
-        "dynamicRowIcon": true,
+        "dynamicRowIcon": false,
         "showNullRefAsZero": true,
         "calcCellIcon": true,
         "filter": {
+            "id": null,
             "rules": [],
             "combinator": "and",
             "not": false
@@ -1012,7 +1016,8 @@
         "search": {
             "category": null,
             "searchString": "",
-            "tokens": []
+            "tokens": [],
+            "enableMatchCase": false
         },
         "ranking": {
             "rules": [],
@@ -1023,24 +1028,23 @@
             "exemptions": {}
         },
         "kpiExplorer": {
+            "panelWidthMeta": {},
             "showExplorer": false,
             "selectedMeasure": "",
             "filterValues": {},
-            "panelWidthMeta": {},
             "showKPI": {
                 "column": {},
                 "row": {},
                 "rowGroup": {}
             },
             "sort": {},
-            "expanded": true,
             "timeInterval": [],
-            "showTimeSlider": false,
-            "mode": "detailed"
+            "expanded": false,
+            "showTimeSlider": true
         },
         "absoluteSort": false,
         "signSort": false,
-        "absoluteSearch": true,
+        "absoluteSearch": false,
         "invertSettings": "additionMethod",
         "enableDrillThrough": false,
         "wizardComplete": true,
@@ -1078,21 +1082,21 @@
             "groupHeaderColor": "#edebe9",
             "groupBorderColor": "#cccccc",
             "groupBorderThickness": 1,
+            "summaryGlobalHeader": {
+                "elements": []
+            },
             "summaryHeader": {
                 "elements": []
             },
             "summaryFooter": {
                 "elements": []
             },
-            "summaryGlobalHeader": {
-                "elements": []
-            },
+            "showSummaryGlobalHeader": false,
             "showSummaryHeader": true,
             "showSummaryFooter": true,
-            "showSummaryGlobalHeader": false,
+            "summaryGlobalHeaderHeight": 180,
             "summaryHeaderHeight": 30,
             "summaryFooterHeight": 30,
-            "summaryGlobalHeaderHeight": 180,
             "masterRowExpandCollapseConfig": {},
             "multiColumn": {
                 "enabled": false,
@@ -1110,7 +1114,7 @@
         },
         "readViewToolbar": {
             "show": true,
-            "selection": false,
+            "selection": true,
             "showTooltip": true,
             "readViewToolbarMode": "auto",
             "showSearch": false,
@@ -1118,7 +1122,19 @@
             "showToastMessage": true,
             "sortOnClick": false,
             "showFloatingToolbar": false,
-            "showZoom": true
+            "readModeAccessSetByUser": false,
+            "showZoom": true,
+            "viewAllNotes": false,
+            "order": {
+                "home": 1,
+                "advanced": 2,
+                "export": 3,
+                "forecast": 4,
+                "scenario": 5,
+                "dataEntry": 6,
+                "snapshot": 7,
+                "infoBridge": 8
+            }
         },
         "showChildCount": false,
         "showCategorySign": false,
@@ -1146,10 +1162,10 @@
             "pageNumber": true,
             "pageLabel": "1",
             "footerNote": "dynamic",
-            "displayHeaderFooter": "everyPage",
-            "fileName": "",
             "pdfFont": "inforiversans",
             "printApproach": "rowFirst",
+            "fileName": "",
+            "displayHeaderFooter": "everyPage",
             "showCommentReply": "hide",
             "imageEnabled": false,
             "imageBase64": "",
@@ -1166,8 +1182,7 @@
             "showFilterContext": "hide",
             "footComments": "hide",
             "exportCfSettings": {},
-            "showGlobalVariable": "show",
-            "noOfDecimal": "auto"
+            "showGlobalVariable": "show"
         },
         "exportExcelSettings": {
             "exportType": "matrix",
@@ -1183,6 +1198,7 @@
             "hierarchyView": "visualView",
             "includeComments": true,
             "fileName": "",
+            "pdfFont": "inforiversans",
             "excelCustomHeader": [],
             "showCustomHeaderImage": false,
             "smartFit": true
@@ -1217,10 +1233,8 @@
             "tableWidth": 80,
             "chartWidth": 150,
             "labelWidth": 120,
-            "isResponsive": false,
             "bulletWidth": 300,
             "maximumChartWidth": 200,
-            "isMaximumChartWidthAllowed": false,
             "preferedWidthSelection": "measure"
         },
         "pinnedRowIds": [],
@@ -1234,18 +1248,18 @@
         "rowLabelMeta": {},
         "hiddenRows": [],
         "toolbar": {
-            "currentTab": "Export",
-            "isPinned": true,
-            "showTabContent": true,
-            "showMinimalView": false,
-            "toolbarTheme": "light",
             "showOnHover": false,
+            "currentTab": "Export",
             "enableHoverToolbar": true,
+            "isPinned": true,
             "readViewPin": true,
+            "showMinimalView": false,
+            "previousCurrentTab": null,
+            "showTabContent": true,
+            "toolbarTheme": "light",
             "showFloatingToolbar": true,
-            "setCanvasResize": false,
-            "hideDuplicateReportWarning": false,
-            "showForecastTab": false
+            "showForecastTab": false,
+            "setCanvasResize": false
         },
         "warningModal": {
             "show": false,
@@ -1258,7 +1272,7 @@
         "showComments": true,
         "showHeaderFooter": true,
         "urlMetaConfig": {
-            "hasURL": false,
+            "hasUrl": false,
             "hasImg": false,
             "urlColId": "",
             "urlColIndex": null
@@ -1291,30 +1305,31 @@
             "unbalancedHierarchy": "off"
         },
         "totalsDisplay": {
+            "showColumnGTAsTable": true,
             "showSubTotalsAsTable": false,
             "showVarSubTotalsAsTable": false,
             "showTotalAsTable": true,
             "showVarTotalAsTable": false,
-            "showColumnGTAsTable": true,
             "advancedSteppedLayout": false,
             "removeSingleChildren": true
         },
         "rowAutoGroupConfig": {
-            "ruleName": "none"
+            "ruleName": "none",
+            "dimensions": []
         },
         "chartStyles": {
             "variancePin": "square",
-            "showDataLabel": true,
-            "isBarOverlap": false
+            "showDataLabel": true
         },
         "autoFitOptions": {
             "autoFit": false,
             "lockColumnWidth": false,
-            "wrapCols": false,
             "uniformColumnWidth": {
                 "enabled": false,
                 "width": null
-            }
+            },
+            "bestFit": false,
+            "wrapCols": false
         },
         "readViewConfig": {
             "home": {
@@ -1404,10 +1419,6 @@
                 "export": false,
                 "configure": false,
                 "import": false
-            },
-            "buttonVariablesFloatingView": {
-                "variables": {},
-                "showOnReadMode": true
             }
         },
         "totalCustomTitle": {
@@ -1415,7 +1426,7 @@
             "columnGrandTotalTitle": "Grand Total",
             "totalColumnSuffix": "Total",
             "steppedSubTotalTitle": "none",
-            "steppedSubTotalText": "Total",
+            "steppedSubTotalText": "Total ",
             "splitTotalRowSuffix": "Total",
             "columnSubTotalTitle": "none"
         },
@@ -1433,7 +1444,8 @@
         },
         "rulerMeta": {
             "width": 20,
-            "showNumbers": false
+            "showNumbers": false,
+            "loading": false
         },
         "commonRunTimeProps": {
             "showBrokenImage": false
@@ -1455,12 +1467,13 @@
             "neutral": "#D9B300"
         },
         "quickFilter": {
+            "id": null,
             "rules": [],
             "combinator": "and",
             "not": false
         },
         "selectionDataNote": {
-            "enable": true,
+            "enable": false,
             "aggregateOption": {
                 "sum": true,
                 "avg": true,
@@ -1485,7 +1498,7 @@
             "rails": true,
             "reset": true,
             "aggregation": false,
-            "crossFilter": false
+            "disableCrossFilter": true
         },
         "columnHierarchyHeader": {},
         "customColumnCategory": {
@@ -1589,141 +1602,140 @@
         },
         "fiscalMonth": 0,
         "visualSettings": {
-            "id": "11720",
-            "visualGuid": "PGCHMMALJDJHKDA",
-            "tenantId": "6",
+            "id": "10487",
+            "visualGuid": "IBBEBAPNADJEAHL",
+            "tenantId": "3",
             "allowComment": true,
             "allowWriteBack": true,
             "accessType": 1,
             "notification": true,
-            "reportIdentifier": null,
-            "reportDisplayName": " by Category, Sub-Category",
-            "reportSection": null,
-            "reportUrl": null,
+            "reportIdentifier": "40b875ff-475f-46db-911a-6ecf1cf2af1b",
+            "reportDisplayName": "PY, AC by Region, Country, Year",
+            "reportSection": "3d5404dc5206b5bc7044",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/40b875ff-475f-46db-911a-6ecf1cf2af1b/3d5404dc5206b5bc7044?experience=power-bi",
             "visualMeta": {
                 "product": "inforiver",
+                "duplicateIdentifiers": [
+                    {
+                        "reportIdentifier": "40b875ff-475f-46db-911a-6ecf1cf2af1b",
+                        "reportSection": "3d5404dc5206b5bc7044",
+                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/40b875ff-475f-46db-911a-6ecf1cf2af1b/3d5404dc5206b5bc7044?experience=power-bi"
+                    }
+                ],
                 "columns": [
                     {
-                        "alias": "Region",
-                        "name": "Region",
+                        "alias": "Year",
+                        "name": "Year",
                         "isTimeInterval": false,
                         "values": [
-                            "Central",
-                            "East",
-                            "South",
-                            "West"
+                            "2017",
+                            "2018",
+                            "2019"
                         ],
                         "timeIntervalUnit": null,
                         "level": 0,
-                        "id": "Orders.Region"
+                        "id": "Table5.Year"
                     }
                 ],
                 "rows": [
                     {
-                        "alias": "Category",
-                        "name": "Category",
+                        "alias": "Region",
+                        "name": "Region",
                         "timeIntervalUnit": null,
                         "level": 0,
                         "isTimeInterval": false,
-                        "id": "Orders.Category"
+                        "id": "Table5.Region"
                     },
                     {
-                        "alias": "Sub-Category",
-                        "name": "Sub-Category",
+                        "alias": "Country",
+                        "name": "Country",
                         "timeIntervalUnit": null,
                         "level": 1,
                         "isTimeInterval": false,
-                        "id": "Orders.Sub-Category"
+                        "id": "Table5.Country"
                     }
                 ],
                 "columnHierarchy": [
                     {
-                        "id": "Central",
-                        "label": "Central",
+                        "id": "2017",
+                        "label": "2017",
                         "level": 0,
-                        "path": "Central",
+                        "path": "2017",
                         "date": null
                     },
                     {
-                        "id": "East",
-                        "label": "East",
+                        "id": "2018",
+                        "label": "2018",
                         "level": 0,
-                        "path": "East",
+                        "path": "2018",
                         "date": null
                     },
                     {
-                        "id": "South",
-                        "label": "South",
+                        "id": "2019",
+                        "label": "2019",
                         "level": 0,
-                        "path": "South",
-                        "date": null
-                    },
-                    {
-                        "id": "West",
-                        "label": "West",
-                        "level": 0,
-                        "path": "West",
+                        "path": "2019",
                         "date": null
                     }
                 ],
                 "visualSignature": {
                     "dimensions": [
                         {
-                            "id": "Orders.Category",
-                            "name": "Category",
-                            "dataType": "TEXT"
-                        },
-                        {
-                            "id": "Orders.Sub-Category",
-                            "name": "Sub-Category",
-                            "dataType": "TEXT"
-                        },
-                        {
-                            "id": "Orders.Region",
+                            "id": "Table5.Region",
                             "name": "Region",
                             "dataType": "TEXT"
+                        },
+                        {
+                            "id": "Table5.Country",
+                            "name": "Country",
+                            "dataType": "TEXT"
+                        },
+                        {
+                            "id": "Table5.Year",
+                            "name": "Year",
+                            "dataType": "NUMERIC"
                         }
                     ],
-                    "dimensionHash": "09ff6f80053ba1d20ee33de4c57834f2",
+                    "dimensionHash": "facd0362b4df0a9dae46e56f50f5ccec",
                     "measures": [
                         {
-                            "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
-                            "name": "Sum of Profit",
+                            "id": "Sum__Table5__PY__U3VtKFRhYmxlNS5QWSk__",
+                            "name": "PY",
                             "dataType": "NUMERIC"
                         },
                         {
-                            "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
-                            "name": "Sum of Sales",
+                            "id": "Sum__Table5__AC__U3VtKFRhYmxlNS5BQyk__",
+                            "name": "AC",
                             "dataType": "NUMERIC"
                         },
                         {
                             "id": "delPY",
-                            "name": "Sum of Sales - Sum of Profit",
+                            "name": "AC - PY",
                             "dataType": "NUMERIC"
                         },
                         {
                             "id": "delPY_PER",
-                            "name": "(Sum of Sales - Sum of Profit)%",
+                            "name": "(AC - PY)%",
                             "dataType": "NUMERIC"
                         }
                     ],
                     "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
                     "hasNativeMeasures": true,
-                    "reportDisplayName": " by Category, Sub-Category"
+                    "reportDisplayName": "PY, AC by Region, Country, Year"
                 },
                 "includedIdDimensions": [
                     {
-                        "id": "Orders.Category",
-                        "name": "Category"
-                    },
-                    {
-                        "id": "Orders.Sub-Category",
-                        "name": "Sub-Category"
-                    },
-                    {
-                        "id": "Orders.Region",
+                        "id": "Table5.Region",
                         "name": "Region"
+                    },
+                    {
+                        "id": "Table5.Country",
+                        "name": "Country"
+                    },
+                    {
+                        "id": "Table5.Year",
+                        "name": "Year"
                     }
                 ],
                 "dimensionIdMapping": [],
@@ -1736,10 +1748,10 @@
             "schedule": {},
             "scheduleStatus": null,
             "status": 10,
-            "createdBy": "154",
-            "createdAt": 1725964663,
-            "updatedBy": "154",
-            "updatedAt": 1725964666,
+            "createdBy": "0",
+            "createdAt": 1725345724,
+            "updatedBy": "28",
+            "updatedAt": 1725348691,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -1747,7 +1759,7 @@
             "snapshotScheduleStatus": null,
             "reportAssetId": null,
             "mdeSettings": {},
-            "visualIdentifier": "inforiver_PGCHMMALJDJHKDA",
+            "visualIdentifier": "inforiver_IBBEBAPNADJEAHL",
             "languages": {
                 "GERMAN": "de-DE"
             },
@@ -1780,44 +1792,7 @@
             "onLoadFormula": "",
             "onDataChangeFormula": ""
         },
-        "filterList": [
-            {
-                "combinator": "and",
-                "id": "HCWAFPVF",
-                "name": "Category",
-                "rules": [
-                    {
-                        "field": "Orders.Category",
-                        "operator": "isOneof",
-                        "value": "Furniture"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "JXCXUHPY",
-                "name": "Sub-Category",
-                "rules": [
-                    {
-                        "field": "Orders.Sub-Category",
-                        "operator": "isOneof",
-                        "value": "Bookcases"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "ICVYNTCP",
-                "name": "Region",
-                "rules": [
-                    {
-                        "field": "Orders.Region",
-                        "operator": "is",
-                        "value": "Central"
-                    }
-                ]
-            }
-        ],
+        "filterList": [],
         "customIcons": [],
         "scrollThickness": false,
         "dynamicRowScale": {},
@@ -1844,15 +1819,16 @@
         "compareSnapshotConfig": {
             "baseSnapshotId": "",
             "comparingSnapshotId": "",
-            "configId": ""
+            "configId": "",
+            "hideUnchangedRows": false
         },
         "globalScript": [],
         "disableCrossFilter": false,
         "contextNotes": {},
         "filterContextHashMap": {},
         "filterContextSettings": {
-            "isNoteFilterContext": true,
             "isNoteColumnFilterContext": true,
+            "isNoteFilterContext": true,
             "isCommentFilterContext": true,
             "isCommentColumnFilterContext": true,
             "filterContextStatus": null
@@ -1906,11 +1882,14 @@
             "activeGroup": "GROUP_VARIABLE_1",
             "isGroupEnabled": false
         },
-        "showMeasureTextLabel": true,
+        "showMeasureTextLabel": false,
         "customCells": [],
         "subTotals": {
             "rowSubtotals": true,
-            "columnSubtotals": true
+            "columnSubtotals": true,
+            "levelSubtotalEnabled": true,
+            "perColumnLevel": true,
+            "perRowLevel": true
         },
         "hideBlankLabel": false,
         "skippedRowDimensions": [],
@@ -1983,17 +1962,36 @@
         "canvasColumnFilter": false,
         "replaceActualWithForecast": false,
         "insertRowsConfig": {
-            "rowsTypeConfig": [],
-            "allowInReadMode": true
+            "allowInReadMode": true,
+            "rowsTypeConfig": []
         },
         "language": "en-US",
         "allowColumnReorder": true,
         "measureColAggMap": {},
-        "rowEditPermissions": {},
+        "rowEditPermissions": {
+            "dataConfig": {
+                "isMultiSelect": false,
+                "position": "left",
+                "linkedDataset": {
+                    "workspaceId": "",
+                    "datasetId": "",
+                    "optionDetails": {
+                        "tableName": "",
+                        "optionColumnName": "",
+                        "optionColumnID": ""
+                    },
+                    "isJoin": false,
+                    "joins": [],
+                    "filterColumnDetail": {
+                        "filterColumnsMapping": {}
+                    }
+                },
+                "selectedDataInputCols": []
+            }
+        },
         "showReadViewBookmark": false,
         "indianNumberSystem": false,
         "replaceForecastWithPYorPL": "none",
-        "nullSuppressMeasures": [],
         "pivot": [
             {
                 "id": "default_pivot",
@@ -2006,47 +2004,39 @@
             "showPivotExplorer": false,
             "activePivot": null
         },
-        "fieldParamGroupConfig": {
-            "activeGroup": "",
-            "groups": {},
-            "defaultLabel": "",
-            "isFieldParamGroupEnabled": false
-        },
-        "localizationVariables": {},
-        "hideRepeatingRows": false,
         "adjustments": {
             "enableAdjustments": true
         }
     },
     "csvOptions": {
         "rows": [
-            "Orders.Category",
-            "Orders.Sub-Category"
+            "Table5.Region",
+            "Table5.Country"
         ],
         "columns": [
-            "Orders.Region"
+            "Table5.Year"
         ],
         "rolesMap": {},
         "typesMap": {
-            "Orders.Category": "TEXT",
-            "Orders.Sub-Category": "TEXT",
-            "Orders.Region": "TEXT",
-            "Sum(Orders.Profit)": "NUMERIC",
-            "Sum(Orders.Sales)": "NUMERIC"
+            "Table5.Region": "TEXT",
+            "Table5.Country": "TEXT",
+            "Table5.Year": "NUMERIC",
+            "Sum(Table5.PY)": "NUMERIC",
+            "Sum(Table5.AC)": "NUMERIC"
         },
         "labelMap": {
-            "Orders.Category": "Category",
-            "Orders.Sub-Category": "Sub-Category",
-            "Orders.Region": "Region",
-            "Sum(Orders.Profit)": "Sum of Profit",
-            "Sum(Orders.Sales)": "Sum of Sales"
+            "Table5.Region": "Region",
+            "Table5.Country": "Country",
+            "Table5.Year": "Year",
+            "Sum(Table5.PY)": "PY",
+            "Sum(Table5.AC)": "AC"
         },
         "ac_roles": [
-            "Sum(Orders.Sales)"
+            "Sum(Table5.AC)"
         ],
         "pl_roles": [],
         "py_roles": [
-            "Sum(Orders.Profit)"
+            "Sum(Table5.PY)"
         ],
         "fc_roles": [],
         "om_roles": []
@@ -2055,40 +2045,40 @@
         "measures": {
             "PY": [
                 {
-                    "label": "Sum of Profit",
-                    "name": "Sum(Orders.Profit)",
+                    "label": "PY",
+                    "name": "Sum(Table5.PY)",
                     "role": "PY"
                 }
             ],
             "AC": [
                 {
-                    "label": "Sum of Sales",
-                    "name": "Sum(Orders.Sales)",
+                    "label": "AC",
+                    "name": "Sum(Table5.AC)",
                     "role": "AC"
                 }
             ]
         },
         "columns": [
             {
-                "id": "Orders.Region",
-                "label": "Region"
+                "id": "Table5.Year",
+                "label": "Year"
             }
         ],
         "rows": [
             {
-                "id": "Orders.Category",
-                "label": "Category"
+                "id": "Table5.Region",
+                "label": "Region"
             },
             {
-                "id": "Orders.Sub-Category",
-                "label": "Sub-Category"
+                "id": "Table5.Country",
+                "label": "Country"
             }
         ]
     },
     "currentVersion": "v3.3.0.0",
     "visual": {
-        "visualId": "PGCHMMALJDJHKDA",
-        "visualTemplateGuid": "MDNCMDAEIECJBCG",
-        "tenantId": "ddec66fe92e4aa2436a44c7a0c220078"
+        "visualId": "MFGMNHMEBPIBFBA",
+        "visualTemplateGuid": "OPEECCLPOICMLPJ",
+        "tenantId": "e3f53631e41bcfe7b85ce463178b4360"
     }
 }

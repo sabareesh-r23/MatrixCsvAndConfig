@@ -8,8 +8,8 @@
             "autoRowCount": "layout",
             "view": "browser",
             "pageNo": 1,
-            "currentPageNumber": 0,
-            "paginationHeight": 20
+            "paginationHeight": 20,
+            "currentPageNumber": 0
         },
         "headerOption": {
             "showHeaderIndicator": true,
@@ -33,29 +33,26 @@
         },
         "tableState": {
             "rowHierarchyLevel": {},
+            "compareMeasure": null,
             "expandCollapseIcon": "plusMinusSquare",
             "columnExpandCollapseIcon": "arrows",
-            "columnHierarchyLevel": {}
+            "columnHierarchyLevel": {},
+            "headerHeight": 25
         },
         "measureBasedHeader": true,
-        "isReadModeConfigModified": false,
+        "isReadModeConfigModified": true,
         "layout": "HIERARCHICAL",
         "rowExpandCollapseOptions": {
             "rows": {},
+            "expandTillDescendant": {},
             "gridState": null,
             "levelStates": [],
-            "maxLevelExpanded": null,
-            "expandTillDescendant": {}
+            "maxLevelExpanded": null
         },
         "chartTitleOption": {
             "show": true
         },
         "chartCustomTitle": {
-            "alignment": "",
-            "bgColor": "",
-            "customFooter": null,
-            "formattedTitle": "",
-            "showCustomFooter": false,
             "secondaryTitle": "",
             "measureTitle": "",
             "primaryTitle": "",
@@ -69,7 +66,7 @@
                             "left": 0
                         },
                         "dimension": {
-                            "width": "624",
+                            "width": "150",
                             "height": "30"
                         },
                         "layout": {
@@ -100,16 +97,11 @@
                 "layout": "left-col",
                 "layoutType": "CUSTOM",
                 "containerMeta": {
-                    "width": 1262,
+                    "width": 1258,
                     "height": 45
                 },
                 "containerPosition": "top"
-            },
-            "customTitleHeight": 45,
-            "customFooterHeight": 28,
-            "showContainerControls": true,
-            "customTitleWidth": 80,
-            "customFooterWidth": 80
+            }
         },
         "breakConfig": {
             "sectionBreak": [],
@@ -120,9 +112,13 @@
         },
         "miscellaneous": {
             "enableFooter": true,
+            "showInfoRiverLogo": true,
             "footerUrl": "https://inforiver.com/",
             "footerText": "inforiver.com",
+            "showTooltip": true,
+            "isUserChangedFooter": false,
             "pinIcon": "solid",
+            "hideOnReadMode": false,
             "enableReadViewBookmarking": false
         },
         "globalStyles": {
@@ -152,40 +148,37 @@
             "showRowLabelEditor": false,
             "chartScale": "universal",
             "variableColor": "#0078D4",
-            "kpiFontSize": 45,
-            "blankRowLabel": "(Blank)",
-            "blankColumnLabel": "(Blank)",
-            "columnStyle": null
+            "kpiFontSize": "45"
         },
         "notes": {
-            "annotationColumnCount": 0,
-            "annotationNote": null,
             "show": true,
             "displayAnnotations": "view",
-            "annotations": [],
             "autoFit": true,
+            "annotations": [],
             "columnAnnotations": [],
             "indicatorType": "numbered",
             "indicatorPosition": "default",
-            "customIcon": "CIRCLE_FILL",
             "persistProperty": {
                 "bgColor": "rgba(255,255,255,0.9)",
                 "lineColor": "rgba(3,169,244,0.7)",
                 "borderColor": "rgba(3,169,244,0.7)",
-                "iconColor": "rgba(0, 120, 212, 1)",
+                "iconColor": "rgba(0, 120, 212, 0.7)",
                 "displayOptions": 4,
-                "iconSize": 14,
-                "indicatorIcon": "CIRCLE_FILL"
+                "iconSize": 14
             },
             "showFootnote": false,
             "rowLevelComments": false,
             "enableReply": true,
+            "annotationNote": "grid",
+            "annotationHeight": 15,
+            "annotationColumnCount": 2,
             "indicatorSize": 12,
             "footNoteHeight": 15,
             "footNoteColumn": 3,
             "showTimestamp": true,
             "showUsername": true,
-            "defaultReference": false
+            "defaultReference": false,
+            "customIcon": "CIRCLE_FILL"
         },
         "themeColors": {
             "showTable": false,
@@ -205,21 +198,20 @@
             "rowOddColor": "#f5f5f5",
             "rowEvenColor": "#ffffff",
             "measureOnlyHighlight": false,
-            "lineStyleRecentColor": "",
-            "highContrast": null
+            "lineStyleRecentColor": ""
         },
         "rowReorder": {
             "enabled": true,
+            "siblingRowReorder": true,
             "rowOrderConfig": {},
-            "rowOrderConfigMeta": {},
-            "siblingRowReorder": true
+            "rowOrderConfigMeta": {}
         },
         "columnHierarchySort": {},
         "verticalLabelColumn": false,
         "compareMesLabelAlign": false,
         "gridStyles": {
             "majorGridLines": "off",
-            "horizontalMinorGridLines": "off",
+            "horizontalMinorGridLines": "solid",
             "headerGridLines": true,
             "verticalMinorGridLines": "solid",
             "compactSplitLine": true,
@@ -255,23 +247,34 @@
         "groupInColumn": true,
         "numberFormatting": {
             "enabled": true,
-            "formatType": "default",
-            "enablePrefixAsUnit": true,
-            "enableSuffixAsUnit": false,
-            "ibcsformat": true,
-            "thousandSeperator": ",",
-            "decimalSeperator": ".",
-            "noOfDecimal": 2,
-            "noOfDecimalPercent": 2,
             "prefix": "",
             "suffix": "",
-            "scalingFactor": "autoFixed",
+            "semanticFormatting": false,
+            "enablePrefixAsUnit": true,
+            "negativeValueColor": "#D64554",
+            "negativeValueFormat": "-x",
+            "positiveValueColor": "#1AAB40",
+            "positiveValueFormat": "x",
+            "neutralValueColor": "#D9B300",
+            "showNegativeSign": false,
             "showScalingUnit": false,
+            "showDataLabel": true,
+            "formatType": "default",
+            "ibcsformat": true,
+            "enableDataLabelFormatting": true,
+            "decimalSeperator": ".",
+            "thousandSeperator": ",",
+            "noOfDecimal": 2,
+            "noOfDecimalPercent": 2,
+            "dlIBCSNoOfDecimal": 0,
+            "scalingFactor": "autoFixed",
+            "dlFlexibleScalingFactor": "auto",
+            "dlCustomScalingFactor": "none",
             "customizeScalingLabel": false,
             "scalingTextType": "full",
             "thousands": "k",
-            "billions": "b",
             "millions": "m",
+            "billions": "b",
             "trillion": "t",
             "thousandsMediumText": "in k",
             "millionsMediumText": "in m",
@@ -281,23 +284,75 @@
             "billionsFullText": "in Billions",
             "millionsFullText": "in Millions",
             "trillionFullText": "in Trillions",
-            "crores": "c",
-            "lakhs": "l",
-            "semanticFormatting": false,
-            "positiveValueColor": "#1AAB40",
-            "positiveValueFormat": "x",
-            "negativeValueColor": "#D64554",
-            "negativeValueFormat": "-x",
-            "neutralValueColor": "#D9B300",
-            "showNegativeSign": false,
+            "showNullAs": "blank",
             "showPercentageSymbol": false,
+            "customNullText": "",
             "showZeroAs": "zero",
             "customZeroText": "",
-            "showNullAs": "blank",
-            "customNullText": "",
-            "tooltipDecimal": "1"
+            "crores": "c",
+            "lakhs": "l",
+            "showTooltipAsUnit": false,
+            "showTooltipDecimal": false,
+            "tooltipDecimal": 1
         },
-        "calculatedColumns": [],
+        "calculatedColumns": [
+            {
+                "id": "LAST_UPDATED_AT",
+                "name": "Last Updated At",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": false,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "meta": null,
+                "isStoredColumn": false,
+                "order": 7
+            },
+            {
+                "id": "LAST_UPDATED_BY",
+                "name": "Last Updated By",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": false,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "meta": null,
+                "isStoredColumn": false,
+                "order": 8
+            }
+        ],
         "calculatedColumnMeta": {
             "newColumnIndex": 0
         },
@@ -305,10 +360,9 @@
             "rowGrandTotal": true,
             "rowGrandTotalPosition": "above",
             "rowSubTotalPosition": "above",
-            "columnGrandTotal": false,
-            "columnGrandTotalPosition": "clear",
+            "columnGrandTotal": true,
+            "columnGrandTotalPosition": "left",
             "columnSubTotalPosition": "clear",
-            "freezeTotal": false,
             "summaryTotal": false,
             "rowForSubtotal": false
         },
@@ -949,40 +1003,90 @@
         "isInFocus": false,
         "manageMeasures": [
             {
-                "label": "PY",
-                "id": "Sum__Table5__PY__U3VtKFRhYmxlNS5QWSk__",
-                "name": "Sum(Table5.PY)",
+                "label": "Sum of Quantity",
+                "id": "Sum__Orders__Quantity__U3VtKE9yZGVycy5RdWFudGl0eSk__",
+                "name": "Sum(Orders.Quantity)",
                 "order": 0,
-                "visible": true,
-                "measureType": "data",
-                "role": "PY"
-            },
-            {
-                "label": "AC",
-                "id": "Sum__Table5__AC__U3VtKFRhYmxlNS5BQyk__",
-                "name": "Sum(Table5.AC)",
-                "order": 1,
                 "visible": true,
                 "measureType": "data",
                 "role": "AC"
             },
             {
-                "label": "AC - PY",
-                "id": "delPY",
-                "name": "delPY",
-                "order": 2,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPY"
+                "id": "CALC_17270792250491472",
+                "label": "Number",
+                "order": 1,
+                "visible": true,
+                "columnType": "NUMBER_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17270792250491472"
             },
             {
-                "label": "(AC - PY)%",
-                "id": "delPY_PER",
-                "name": "delPY_PER",
+                "id": "CALC_17270792492097455",
+                "label": "Text",
+                "order": 2,
+                "visible": true,
+                "columnType": "TEXT_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17270792492097455"
+            },
+            {
+                "id": "CALC_17270792658017723",
+                "label": "Single Select",
                 "order": 3,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPY_PER"
+                "visible": true,
+                "columnType": "OPTIONS_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17270792658017723"
+            },
+            {
+                "id": "CALC_17270793072809003",
+                "label": "Multi Select",
+                "order": 4,
+                "visible": true,
+                "columnType": "MULTI_SELECT",
+                "isStoredColumn": true,
+                "name": "CALC_17270793072809003"
+            },
+            {
+                "id": "CALC_17270793500631073",
+                "label": "Check Box",
+                "order": 5,
+                "visible": true,
+                "columnType": "CHECK_BOX",
+                "isStoredColumn": true,
+                "name": "CALC_17270793500631073"
+            },
+            {
+                "id": "CALC_17270794116413122",
+                "label": "Date",
+                "order": 6,
+                "visible": true,
+                "columnType": "DATE_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17270794116413122"
+            },
+            {
+                "id": "CALC_17270794234184679",
+                "label": "Person",
+                "order": 7,
+                "visible": true,
+                "columnType": "PERSON_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17270794234184679"
+            },
+            {
+                "id": "LAST_UPDATED_AT",
+                "label": "Last Updated At",
+                "order": 8,
+                "visible": true,
+                "name": "LAST_UPDATED_AT"
+            },
+            {
+                "id": "LAST_UPDATED_BY",
+                "label": "Last Updated By",
+                "order": 9,
+                "visible": true,
+                "name": "LAST_UPDATED_BY"
             }
         ],
         "invertRows": {
@@ -993,22 +1097,29 @@
         "columnMeta": {},
         "chartTypes": {},
         "gridLineCount": 1,
-        "measureAggMap": {},
+        "measureAggMap": {
+            "CALC_17270792250491472": "sum",
+            "CALC_17270792492097455": "sum",
+            "CALC_17270792658017723": "sum",
+            "CALC_17270793072809003": "sum",
+            "CALC_17270793500631073": "sum",
+            "CALC_17270794116413122": "sum",
+            "CALC_17270794234184679": "sum"
+        },
         "outliers": {
+            "enableOutlier": false,
             "min": 0,
-            "max": 0,
-            "enableOutlier": false
+            "max": 0
         },
         "headerLabelFormat": {},
         "sparklineConfig": {},
         "displayAllCols": false,
         "bulletConfig": {},
         "stackedConfig": {},
-        "dynamicRowIcon": false,
+        "dynamicRowIcon": true,
         "showNullRefAsZero": true,
         "calcCellIcon": true,
         "filter": {
-            "id": null,
             "rules": [],
             "combinator": "and",
             "not": false
@@ -1016,8 +1127,7 @@
         "search": {
             "category": null,
             "searchString": "",
-            "tokens": [],
-            "enableMatchCase": false
+            "tokens": []
         },
         "ranking": {
             "rules": [],
@@ -1028,23 +1138,24 @@
             "exemptions": {}
         },
         "kpiExplorer": {
-            "panelWidthMeta": {},
             "showExplorer": false,
             "selectedMeasure": "",
             "filterValues": {},
+            "panelWidthMeta": {},
             "showKPI": {
                 "column": {},
                 "row": {},
                 "rowGroup": {}
             },
             "sort": {},
+            "expanded": true,
             "timeInterval": [],
-            "expanded": false,
-            "showTimeSlider": true
+            "showTimeSlider": false,
+            "mode": "detailed"
         },
         "absoluteSort": false,
         "signSort": false,
-        "absoluteSearch": false,
+        "absoluteSearch": true,
         "invertSettings": "additionMethod",
         "enableDrillThrough": false,
         "wizardComplete": true,
@@ -1052,7 +1163,17 @@
         "aggregationType": "sum",
         "varianceInvertColumn": {},
         "landingPage": false,
-        "columnExpandCollapse": {},
+        "columnExpandCollapse": {
+            "Consumer": {
+                "expanded": true
+            },
+            "Corporate": {
+                "expanded": true
+            },
+            "Home__Office__SG9tZSUyME9mZmljZQ__": {
+                "expanded": true
+            }
+        },
         "layoutType": "default",
         "calculatedCells": [],
         "enablePersistFilter": false,
@@ -1082,21 +1203,21 @@
             "groupHeaderColor": "#edebe9",
             "groupBorderColor": "#cccccc",
             "groupBorderThickness": 1,
-            "summaryGlobalHeader": {
-                "elements": []
-            },
             "summaryHeader": {
                 "elements": []
             },
             "summaryFooter": {
                 "elements": []
             },
-            "showSummaryGlobalHeader": false,
+            "summaryGlobalHeader": {
+                "elements": []
+            },
             "showSummaryHeader": true,
             "showSummaryFooter": true,
-            "summaryGlobalHeaderHeight": 180,
+            "showSummaryGlobalHeader": false,
             "summaryHeaderHeight": 30,
             "summaryFooterHeight": 30,
+            "summaryGlobalHeaderHeight": 180,
             "masterRowExpandCollapseConfig": {},
             "multiColumn": {
                 "enabled": false,
@@ -1114,27 +1235,15 @@
         },
         "readViewToolbar": {
             "show": true,
-            "selection": true,
+            "selection": false,
             "showTooltip": true,
-            "readViewToolbarMode": "auto",
+            "readViewToolbarMode": "minimal",
             "showSearch": false,
             "showReportFilter": true,
             "showToastMessage": true,
             "sortOnClick": false,
             "showFloatingToolbar": false,
-            "readModeAccessSetByUser": false,
-            "showZoom": true,
-            "viewAllNotes": false,
-            "order": {
-                "home": 1,
-                "advanced": 2,
-                "export": 3,
-                "forecast": 4,
-                "scenario": 5,
-                "dataEntry": 6,
-                "snapshot": 7,
-                "infoBridge": 8
-            }
+            "showZoom": true
         },
         "showChildCount": false,
         "showCategorySign": false,
@@ -1162,10 +1271,10 @@
             "pageNumber": true,
             "pageLabel": "1",
             "footerNote": "dynamic",
+            "displayHeaderFooter": "everyPage",
+            "fileName": "",
             "pdfFont": "inforiversans",
             "printApproach": "rowFirst",
-            "fileName": "",
-            "displayHeaderFooter": "everyPage",
             "showCommentReply": "hide",
             "imageEnabled": false,
             "imageBase64": "",
@@ -1182,7 +1291,8 @@
             "showFilterContext": "hide",
             "footComments": "hide",
             "exportCfSettings": {},
-            "showGlobalVariable": "show"
+            "showGlobalVariable": "show",
+            "noOfDecimal": "auto"
         },
         "exportExcelSettings": {
             "exportType": "matrix",
@@ -1198,10 +1308,12 @@
             "hierarchyView": "visualView",
             "includeComments": true,
             "fileName": "",
-            "pdfFont": "inforiversans",
             "excelCustomHeader": [],
             "showCustomHeaderImage": false,
             "smartFit": true
+        },
+        "schedulerSettings": {
+            "hierarchyView": "flatIntended"
         },
         "ruler": {
             "enabled": false,
@@ -1233,8 +1345,10 @@
             "tableWidth": 80,
             "chartWidth": 150,
             "labelWidth": 120,
+            "isResponsive": false,
             "bulletWidth": 300,
             "maximumChartWidth": 200,
+            "isMaximumChartWidthAllowed": false,
             "preferedWidthSelection": "measure"
         },
         "pinnedRowIds": [],
@@ -1248,18 +1362,18 @@
         "rowLabelMeta": {},
         "hiddenRows": [],
         "toolbar": {
-            "showOnHover": false,
             "currentTab": "Export",
-            "enableHoverToolbar": true,
             "isPinned": true,
-            "readViewPin": true,
-            "showMinimalView": false,
-            "previousCurrentTab": null,
             "showTabContent": true,
+            "showMinimalView": false,
             "toolbarTheme": "light",
+            "showOnHover": false,
+            "enableHoverToolbar": true,
+            "readViewPin": true,
             "showFloatingToolbar": true,
-            "showForecastTab": false,
-            "setCanvasResize": false
+            "setCanvasResize": false,
+            "hideDuplicateReportWarning": false,
+            "showForecastTab": false
         },
         "warningModal": {
             "show": false,
@@ -1272,7 +1386,7 @@
         "showComments": true,
         "showHeaderFooter": true,
         "urlMetaConfig": {
-            "hasUrl": false,
+            "hasURL": false,
             "hasImg": false,
             "urlColId": "",
             "urlColIndex": null
@@ -1305,31 +1419,30 @@
             "unbalancedHierarchy": "off"
         },
         "totalsDisplay": {
-            "showColumnGTAsTable": true,
             "showSubTotalsAsTable": false,
             "showVarSubTotalsAsTable": false,
             "showTotalAsTable": true,
             "showVarTotalAsTable": false,
+            "showColumnGTAsTable": true,
             "advancedSteppedLayout": false,
             "removeSingleChildren": true
         },
         "rowAutoGroupConfig": {
-            "ruleName": "none",
-            "dimensions": []
+            "ruleName": "none"
         },
         "chartStyles": {
             "variancePin": "square",
-            "showDataLabel": true
+            "showDataLabel": true,
+            "isBarOverlap": false
         },
         "autoFitOptions": {
             "autoFit": false,
             "lockColumnWidth": false,
+            "wrapCols": false,
             "uniformColumnWidth": {
                 "enabled": false,
                 "width": null
-            },
-            "bestFit": false,
-            "wrapCols": false
+            }
         },
         "readViewConfig": {
             "home": {
@@ -1368,12 +1481,12 @@
                 "writeBack": false
             },
             "dataEntry": {
-                "scenario": false,
-                "audit": false,
-                "comment": false,
-                "action": false,
-                "column": false,
-                "display": false
+                "scenario": true,
+                "audit": true,
+                "comment": true,
+                "action": true,
+                "column": true,
+                "display": true
             },
             "advancedTabMenu": {
                 "rowColumnConfig": true
@@ -1419,6 +1532,10 @@
                 "export": false,
                 "configure": false,
                 "import": false
+            },
+            "buttonVariablesFloatingView": {
+                "variables": {},
+                "showOnReadMode": true
             }
         },
         "totalCustomTitle": {
@@ -1426,7 +1543,7 @@
             "columnGrandTotalTitle": "Grand Total",
             "totalColumnSuffix": "Total",
             "steppedSubTotalTitle": "none",
-            "steppedSubTotalText": "Total ",
+            "steppedSubTotalText": "Total",
             "splitTotalRowSuffix": "Total",
             "columnSubTotalTitle": "none"
         },
@@ -1444,8 +1561,7 @@
         },
         "rulerMeta": {
             "width": 20,
-            "showNumbers": false,
-            "loading": false
+            "showNumbers": false
         },
         "commonRunTimeProps": {
             "showBrokenImage": false
@@ -1467,13 +1583,12 @@
             "neutral": "#D9B300"
         },
         "quickFilter": {
-            "id": null,
             "rules": [],
             "combinator": "and",
             "not": false
         },
         "selectionDataNote": {
-            "enable": false,
+            "enable": true,
             "aggregateOption": {
                 "sum": true,
                 "avg": true,
@@ -1498,7 +1613,7 @@
             "rails": true,
             "reset": true,
             "aggregation": false,
-            "disableCrossFilter": true
+            "crossFilter": false
         },
         "columnHierarchyHeader": {},
         "customColumnCategory": {
@@ -1508,7 +1623,283 @@
             "suffix": ""
         },
         "showSubtotalLevels": {},
-        "customInputColumn": {},
+        "customInputColumn": {
+            "CALC_17270792250491472": {
+                "id": "CALC_17270792250491472",
+                "title": "Number",
+                "type": "NUMBER_COLUMN",
+                "description": "",
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum",
+                    "selectedOptions": {}
+                },
+                "columnId": "39322",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "49",
+                "createdByUser": "Aneez Fathima Kudbudeen",
+                "createdByUserEmail": "AneezFathimaK@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17270792492097455": {
+                "id": "CALC_17270792492097455",
+                "title": "Text",
+                "type": "TEXT_COLUMN",
+                "description": "",
+                "meta": {
+                    "characterLimit": "",
+                    "fieldValidation": {
+                        "type": "Any Value"
+                    },
+                    "textLength": {},
+                    "selectedOptions": {}
+                },
+                "columnId": "39323",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "49",
+                "createdByUser": "Aneez Fathima Kudbudeen",
+                "createdByUserEmail": "AneezFathimaK@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17270792658017723": {
+                "id": "CALC_17270792658017723",
+                "title": "Single Select",
+                "type": "OPTIONS_COLUMN",
+                "description": "",
+                "meta": {
+                    "isMultiSelect": false,
+                    "options": [
+                        {
+                            "displayName": "Option 1",
+                            "value": "custom_select_womK2XMB",
+                            "color": "#9CD740",
+                            "icon": "left",
+                            "order": 1
+                        },
+                        {
+                            "displayName": "Option 2",
+                            "value": "custom_select_n7QjP5fu",
+                            "color": "#FF8A00",
+                            "icon": "heart",
+                            "order": 2
+                        },
+                        {
+                            "displayName": "Option 3",
+                            "value": "custom_select_lAWteDcj",
+                            "color": "#FF000A",
+                            "icon": "alert_solid",
+                            "order": 3
+                        }
+                    ],
+                    "position": "left",
+                    "shouldAddNewOptions": false,
+                    "linkedColumn": {},
+                    "linkedDataset": {
+                        "workspaceId": "",
+                        "datasetId": "",
+                        "optionDetails": {
+                            "tableName": "",
+                            "optionColumnName": "",
+                            "optionColumnID": ""
+                        },
+                        "isJoin": false,
+                        "joins": [],
+                        "filterColumnDetail": {
+                            "filterColumnsMapping": {}
+                        }
+                    },
+                    "linkedHelperVisual": {},
+                    "optionStyle": "arrow",
+                    "schedule": {},
+                    "isSyncRequired": false,
+                    "selectedOptions": {}
+                },
+                "columnId": "39324",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "49",
+                "createdByUser": "Aneez Fathima Kudbudeen",
+                "createdByUserEmail": "AneezFathimaK@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17270793072809003": {
+                "id": "CALC_17270793072809003",
+                "title": "Multi Select",
+                "type": "MULTI_SELECT",
+                "description": "",
+                "meta": {
+                    "isMultiSelect": true,
+                    "options": [
+                        {
+                            "displayName": "Option 1",
+                            "value": "custom_select_c6GwCYPE",
+                            "color": "#9CD740",
+                            "icon": "circle-fill",
+                            "order": 1
+                        },
+                        {
+                            "displayName": "Option 2",
+                            "value": "custom_select_IZ5TnKkQ",
+                            "color": "#FF8A00",
+                            "icon": "circle-fill",
+                            "order": 2
+                        },
+                        {
+                            "displayName": "Option 3",
+                            "value": "custom_select_iRbe7l0X",
+                            "color": "#FF000A",
+                            "icon": "circle-fill",
+                            "order": 3
+                        }
+                    ],
+                    "position": "left",
+                    "shouldAddNewOptions": false,
+                    "linkedColumn": {},
+                    "linkedDataset": {
+                        "workspaceId": "",
+                        "datasetId": "",
+                        "optionDetails": {
+                            "tableName": "",
+                            "optionColumnName": "",
+                            "optionColumnID": ""
+                        },
+                        "isJoin": false,
+                        "joins": [],
+                        "filterColumnDetail": {
+                            "filterColumnsMapping": {}
+                        }
+                    },
+                    "linkedHelperVisual": {},
+                    "optionStyle": "chip",
+                    "schedule": {},
+                    "isSyncRequired": false,
+                    "selectedOptions": {}
+                },
+                "columnId": "39325",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "49",
+                "createdByUser": "Aneez Fathima Kudbudeen",
+                "createdByUserEmail": "AneezFathimaK@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17270793500631073": {
+                "id": "CALC_17270793500631073",
+                "title": "Check Box",
+                "type": "CHECK_BOX",
+                "description": "",
+                "meta": {
+                    "selectedOptions": {}
+                },
+                "columnId": "39326",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "49",
+                "createdByUser": "Aneez Fathima Kudbudeen",
+                "createdByUserEmail": "AneezFathimaK@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17270794116413122": {
+                "id": "CALC_17270794116413122",
+                "title": "Date",
+                "type": "DATE_COLUMN",
+                "description": "",
+                "meta": {
+                    "date": null,
+                    "format": "DEFAULT_LOCALE",
+                    "selectedOptions": {}
+                },
+                "columnId": "39327",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "49",
+                "createdByUser": "Aneez Fathima Kudbudeen",
+                "createdByUserEmail": "AneezFathimaK@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17270794234184679": {
+                "id": "CALC_17270794234184679",
+                "title": "Person",
+                "type": "PERSON_COLUMN",
+                "description": "",
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum",
+                    "selectedOptions": {}
+                },
+                "columnId": "39328",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "49",
+                "createdByUser": "Aneez Fathima Kudbudeen",
+                "createdByUserEmail": "AneezFathimaK@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            }
+        },
         "storedColumnTooltip": false,
         "diagnose": false,
         "viewConfig": {
@@ -1528,8 +1919,8 @@
         "toastSettings": {
             "disableToasts": false
         },
-        "dataReductionRowCount": 2000,
-        "dataReductionColCount": 15,
+        "dataReductionRowCount": 500,
+        "dataReductionColCount": 60,
         "dataReductionSettings": {
             "userOverride": false
         },
@@ -1587,7 +1978,6 @@
             },
             "keyColumnsForAllAdditionalColumns": [],
             "additionalColumnMappings": [],
-            "dateAdditionalColumnMapping": null,
             "openDateAdditionalColumnModal": false,
             "dateFormValues": {
                 "dateKeyColumnName": "",
@@ -1602,140 +1992,267 @@
         },
         "fiscalMonth": 0,
         "visualSettings": {
-            "id": "10487",
-            "visualGuid": "IBBEBAPNADJEAHL",
-            "tenantId": "3",
+            "id": "15260",
+            "visualGuid": "OMKAOCDGJKPGMIC",
+            "tenantId": "6",
             "allowComment": true,
             "allowWriteBack": true,
             "accessType": 1,
             "notification": true,
-            "reportIdentifier": "40b875ff-475f-46db-911a-6ecf1cf2af1b",
-            "reportDisplayName": "PY, AC by Region, Country, Year",
-            "reportSection": "3d5404dc5206b5bc7044",
-            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/40b875ff-475f-46db-911a-6ecf1cf2af1b/3d5404dc5206b5bc7044?experience=power-bi",
+            "reportIdentifier": "4522f1e9-441b-41ed-a7cf-ee8c7faa44c6",
+            "reportDisplayName": "Sum of Quantity by Category, SubCategory, Segment, Ship Mode",
+            "reportSection": "7a8bd41f7392291a7e04",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/4522f1e9-441b-41ed-a7cf-ee8c7faa44c6/34d583e009cd3de396f8?experience=power-bi",
             "visualMeta": {
                 "product": "inforiver",
                 "duplicateIdentifiers": [
                     {
-                        "reportIdentifier": "40b875ff-475f-46db-911a-6ecf1cf2af1b",
-                        "reportSection": "3d5404dc5206b5bc7044",
-                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/40b875ff-475f-46db-911a-6ecf1cf2af1b/3d5404dc5206b5bc7044?experience=power-bi"
+                        "reportIdentifier": "4522f1e9-441b-41ed-a7cf-ee8c7faa44c6",
+                        "reportSection": "34d583e009cd3de396f8",
+                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/4522f1e9-441b-41ed-a7cf-ee8c7faa44c6/34d583e009cd3de396f8?experience=power-bi"
                     }
                 ],
                 "columns": [
                     {
-                        "alias": "Year",
-                        "name": "Year",
+                        "alias": "Segment",
+                        "name": "Segment",
                         "isTimeInterval": false,
                         "values": [
-                            "2017",
-                            "2018",
-                            "2019"
+                            "Consumer",
+                            "Corporate",
+                            "Home Office"
                         ],
                         "timeIntervalUnit": null,
                         "level": 0,
-                        "id": "Table5.Year"
+                        "id": "Orders.Segment"
+                    },
+                    {
+                        "alias": "Ship Mode",
+                        "name": "Ship Mode",
+                        "isTimeInterval": false,
+                        "values": [
+                            "First Class",
+                            "Same Day",
+                            "Second Class",
+                            "Standard Class"
+                        ],
+                        "timeIntervalUnit": null,
+                        "level": 1,
+                        "id": "Orders.Ship Mode"
                     }
                 ],
                 "rows": [
                     {
-                        "alias": "Region",
-                        "name": "Region",
+                        "alias": "Category",
+                        "name": "Category",
                         "timeIntervalUnit": null,
                         "level": 0,
                         "isTimeInterval": false,
-                        "id": "Table5.Region"
+                        "id": "Orders.Category"
                     },
                     {
-                        "alias": "Country",
-                        "name": "Country",
+                        "alias": "SubCategory",
+                        "name": "SubCategory",
                         "timeIntervalUnit": null,
                         "level": 1,
                         "isTimeInterval": false,
-                        "id": "Table5.Country"
+                        "id": "Orders.Sub-Category"
                     }
                 ],
                 "columnHierarchy": [
                     {
-                        "id": "2017",
-                        "label": "2017",
+                        "id": "Consumer",
+                        "label": "Consumer",
                         "level": 0,
-                        "path": "2017",
+                        "path": "Consumer",
                         "date": null
                     },
                     {
-                        "id": "2018",
-                        "label": "2018",
-                        "level": 0,
-                        "path": "2018",
+                        "id": "Consumer__First__Class__Rmlyc3QlMjBDbGFzcw__",
+                        "label": "First Class",
+                        "level": 1,
+                        "path": "Consumer|First Class",
                         "date": null
                     },
                     {
-                        "id": "2019",
-                        "label": "2019",
+                        "id": "Consumer__Same__Day__U2FtZSUyMERheQ__",
+                        "label": "Same Day",
+                        "level": 1,
+                        "path": "Consumer|Same Day",
+                        "date": null
+                    },
+                    {
+                        "id": "Consumer__Second__Class__U2Vjb25kJTIwQ2xhc3M__",
+                        "label": "Second Class",
+                        "level": 1,
+                        "path": "Consumer|Second Class",
+                        "date": null
+                    },
+                    {
+                        "id": "Consumer__Standard__Class__U3RhbmRhcmQlMjBDbGFzcw__",
+                        "label": "Standard Class",
+                        "level": 1,
+                        "path": "Consumer|Standard Class",
+                        "date": null
+                    },
+                    {
+                        "id": "Corporate",
+                        "label": "Corporate",
                         "level": 0,
-                        "path": "2019",
+                        "path": "Corporate",
+                        "date": null
+                    },
+                    {
+                        "id": "Corporate__First__Class__Rmlyc3QlMjBDbGFzcw__",
+                        "label": "First Class",
+                        "level": 1,
+                        "path": "Corporate|First Class",
+                        "date": null
+                    },
+                    {
+                        "id": "Corporate__Same__Day__U2FtZSUyMERheQ__",
+                        "label": "Same Day",
+                        "level": 1,
+                        "path": "Corporate|Same Day",
+                        "date": null
+                    },
+                    {
+                        "id": "Corporate__Second__Class__U2Vjb25kJTIwQ2xhc3M__",
+                        "label": "Second Class",
+                        "level": 1,
+                        "path": "Corporate|Second Class",
+                        "date": null
+                    },
+                    {
+                        "id": "Corporate__Standard__Class__U3RhbmRhcmQlMjBDbGFzcw__",
+                        "label": "Standard Class",
+                        "level": 1,
+                        "path": "Corporate|Standard Class",
+                        "date": null
+                    },
+                    {
+                        "id": "Home__Office__SG9tZSUyME9mZmljZQ__",
+                        "label": "Home Office",
+                        "level": 0,
+                        "path": "Home Office",
+                        "date": null
+                    },
+                    {
+                        "id": "Home__Office__SG9tZSUyME9mZmljZQ____First__Class__Rmlyc3QlMjBDbGFzcw__",
+                        "label": "First Class",
+                        "level": 1,
+                        "path": "Home Office|First Class",
+                        "date": null
+                    },
+                    {
+                        "id": "Home__Office__SG9tZSUyME9mZmljZQ____Same__Day__U2FtZSUyMERheQ__",
+                        "label": "Same Day",
+                        "level": 1,
+                        "path": "Home Office|Same Day",
+                        "date": null
+                    },
+                    {
+                        "id": "Home__Office__SG9tZSUyME9mZmljZQ____Second__Class__U2Vjb25kJTIwQ2xhc3M__",
+                        "label": "Second Class",
+                        "level": 1,
+                        "path": "Home Office|Second Class",
+                        "date": null
+                    },
+                    {
+                        "id": "Home__Office__SG9tZSUyME9mZmljZQ____Standard__Class__U3RhbmRhcmQlMjBDbGFzcw__",
+                        "label": "Standard Class",
+                        "level": 1,
+                        "path": "Home Office|Standard Class",
                         "date": null
                     }
                 ],
                 "visualSignature": {
                     "dimensions": [
                         {
-                            "id": "Table5.Region",
-                            "name": "Region",
+                            "id": "Orders.Category",
+                            "name": "Category",
                             "dataType": "TEXT"
                         },
                         {
-                            "id": "Table5.Country",
-                            "name": "Country",
+                            "id": "Orders.Sub-Category",
+                            "name": "SubCategory",
                             "dataType": "TEXT"
                         },
                         {
-                            "id": "Table5.Year",
-                            "name": "Year",
-                            "dataType": "NUMERIC"
+                            "id": "Orders.Segment",
+                            "name": "Segment",
+                            "dataType": "TEXT"
+                        },
+                        {
+                            "id": "Orders.Ship Mode",
+                            "name": "Ship Mode",
+                            "dataType": "TEXT"
                         }
                     ],
-                    "dimensionHash": "facd0362b4df0a9dae46e56f50f5ccec",
+                    "dimensionHash": "7e38f586a82db9db2452d6c8325e5336",
                     "measures": [
                         {
-                            "id": "Sum__Table5__PY__U3VtKFRhYmxlNS5QWSk__",
-                            "name": "PY",
+                            "id": "Sum__Orders__Quantity__U3VtKE9yZGVycy5RdWFudGl0eSk__",
+                            "name": "Sum of Quantity",
                             "dataType": "NUMERIC"
                         },
                         {
-                            "id": "Sum__Table5__AC__U3VtKFRhYmxlNS5BQyk__",
-                            "name": "AC",
+                            "id": "CALC_17270792250491472",
+                            "name": "Number",
                             "dataType": "NUMERIC"
                         },
                         {
-                            "id": "delPY",
-                            "name": "AC - PY",
-                            "dataType": "NUMERIC"
+                            "id": "CALC_17270792492097455",
+                            "name": "Text",
+                            "dataType": "TEXT"
                         },
                         {
-                            "id": "delPY_PER",
-                            "name": "(AC - PY)%",
-                            "dataType": "NUMERIC"
+                            "id": "CALC_17270792658017723",
+                            "name": "Single Select",
+                            "dataType": "OPTIONS"
+                        },
+                        {
+                            "id": "CALC_17270793072809003",
+                            "name": "Multi Select",
+                            "dataType": "MULTI_SELECT"
+                        },
+                        {
+                            "id": "CALC_17270793500631073",
+                            "name": "Check Box",
+                            "dataType": "CHECK_BOX"
+                        },
+                        {
+                            "id": "CALC_17270794116413122",
+                            "name": "Date",
+                            "dataType": "DATE"
+                        },
+                        {
+                            "id": "CALC_17270794234184679",
+                            "name": "Person",
+                            "dataType": "PERSON"
                         }
                     ],
                     "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
                     "hasNativeMeasures": true,
-                    "reportDisplayName": "PY, AC by Region, Country, Year"
+                    "reportDisplayName": "Sum of Quantity by Category, SubCategory, Segment, Ship Mode"
                 },
                 "includedIdDimensions": [
                     {
-                        "id": "Table5.Region",
-                        "name": "Region"
+                        "id": "Orders.Category",
+                        "name": "Category"
                     },
                     {
-                        "id": "Table5.Country",
-                        "name": "Country"
+                        "id": "Orders.Sub-Category",
+                        "name": "SubCategory"
                     },
                     {
-                        "id": "Table5.Year",
-                        "name": "Year"
+                        "id": "Orders.Segment",
+                        "name": "Segment"
+                    },
+                    {
+                        "id": "Orders.Ship Mode",
+                        "name": "Ship Mode"
                     }
                 ],
                 "dimensionIdMapping": [],
@@ -1748,20 +2265,22 @@
             "schedule": {},
             "scheduleStatus": null,
             "status": 10,
-            "createdBy": "0",
-            "createdAt": 1725345724,
+            "createdBy": "49",
+            "createdAt": 1727335225,
             "updatedBy": "28",
-            "updatedAt": 1725348691,
+            "updatedAt": 1727342287,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
             "snapshotSchedule": {},
             "snapshotScheduleStatus": null,
-            "reportAssetId": null,
+            "reportAssetId": "817",
             "mdeSettings": {},
-            "visualIdentifier": "inforiver_IBBEBAPNADJEAHL",
+            "visualIdentifier": "inforiver_OMKAOCDGJKPGMIC",
             "languages": {
-                "GERMAN": "de-DE"
+                "GERMAN": "de-DE",
+                "FRENCH": "fr-FR",
+                "SPANISH": "es-ES"
             },
             "filterContextMapping": {}
         },
@@ -1801,7 +2320,8 @@
         },
         "customDateFormat": {
             "isCustomDateFormat": false,
-            "categories": {}
+            "categories": [],
+            "newCategories": {}
         },
         "hidePinnedRows": false,
         "skippedRows": [],
@@ -1819,16 +2339,15 @@
         "compareSnapshotConfig": {
             "baseSnapshotId": "",
             "comparingSnapshotId": "",
-            "configId": "",
-            "hideUnchangedRows": false
+            "configId": ""
         },
         "globalScript": [],
         "disableCrossFilter": false,
         "contextNotes": {},
         "filterContextHashMap": {},
         "filterContextSettings": {
-            "isNoteColumnFilterContext": true,
             "isNoteFilterContext": true,
+            "isNoteColumnFilterContext": true,
             "isCommentFilterContext": true,
             "isCommentColumnFilterContext": true,
             "filterContextStatus": null
@@ -1882,14 +2401,11 @@
             "activeGroup": "GROUP_VARIABLE_1",
             "isGroupEnabled": false
         },
-        "showMeasureTextLabel": false,
+        "showMeasureTextLabel": true,
         "customCells": [],
         "subTotals": {
             "rowSubtotals": true,
-            "columnSubtotals": true,
-            "levelSubtotalEnabled": true,
-            "perColumnLevel": true,
-            "perRowLevel": true
+            "columnSubtotals": true
         },
         "hideBlankLabel": false,
         "skippedRowDimensions": [],
@@ -1962,12 +2478,20 @@
         "canvasColumnFilter": false,
         "replaceActualWithForecast": false,
         "insertRowsConfig": {
-            "allowInReadMode": true,
-            "rowsTypeConfig": []
+            "rowsTypeConfig": [],
+            "allowInReadMode": true
         },
         "language": "en-US",
         "allowColumnReorder": true,
-        "measureColAggMap": {},
+        "measureColAggMap": {
+            "CALC_17270792250491472": "sum",
+            "CALC_17270792492097455": "sum",
+            "CALC_17270792658017723": "sum",
+            "CALC_17270793072809003": "sum",
+            "CALC_17270793500631073": "sum",
+            "CALC_17270794116413122": "sum",
+            "CALC_17270794234184679": "sum"
+        },
         "rowEditPermissions": {
             "dataConfig": {
                 "isMultiSelect": false,
@@ -1992,6 +2516,8 @@
         "showReadViewBookmark": false,
         "indianNumberSystem": false,
         "replaceForecastWithPYorPL": "none",
+        "scalingInMeasureHeader": false,
+        "nullSuppressMeasures": [],
         "pivot": [
             {
                 "id": "default_pivot",
@@ -2004,81 +2530,85 @@
             "showPivotExplorer": false,
             "activePivot": null
         },
+        "fieldParamGroupConfig": {
+            "activeGroup": "",
+            "groups": {},
+            "defaultLabel": "",
+            "isFieldParamGroupEnabled": false
+        },
+        "localizationVariables": {},
+        "hideRepeatingRows": false,
         "adjustments": {
             "enableAdjustments": true
         }
     },
     "csvOptions": {
         "rows": [
-            "Table5.Region",
-            "Table5.Country"
+            "Orders.Category",
+            "Orders.Sub-Category"
         ],
         "columns": [
-            "Table5.Year"
+            "Orders.Segment",
+            "Orders.Ship Mode"
         ],
         "rolesMap": {},
         "typesMap": {
-            "Table5.Region": "TEXT",
-            "Table5.Country": "TEXT",
-            "Table5.Year": "NUMERIC",
-            "Sum(Table5.PY)": "NUMERIC",
-            "Sum(Table5.AC)": "NUMERIC"
+            "Orders.Category": "TEXT",
+            "Orders.Sub-Category": "TEXT",
+            "Orders.Segment": "TEXT",
+            "Orders.Ship Mode": "TEXT",
+            "Sum(Orders.Quantity)": "NUMERIC"
         },
         "labelMap": {
-            "Table5.Region": "Region",
-            "Table5.Country": "Country",
-            "Table5.Year": "Year",
-            "Sum(Table5.PY)": "PY",
-            "Sum(Table5.AC)": "AC"
+            "Orders.Category": "Category",
+            "Orders.Sub-Category": "SubCategory",
+            "Orders.Segment": "Segment",
+            "Orders.Ship Mode": "Ship Mode",
+            "Sum(Orders.Quantity)": "Sum of Quantity"
         },
         "ac_roles": [
-            "Sum(Table5.AC)"
+            "Sum(Orders.Quantity)"
         ],
         "pl_roles": [],
-        "py_roles": [
-            "Sum(Table5.PY)"
-        ],
+        "py_roles": [],
         "fc_roles": [],
         "om_roles": []
     },
     "metadata": {
         "measures": {
-            "PY": [
-                {
-                    "label": "PY",
-                    "name": "Sum(Table5.PY)",
-                    "role": "PY"
-                }
-            ],
             "AC": [
                 {
-                    "label": "AC",
-                    "name": "Sum(Table5.AC)",
+                    "label": "Sum of Quantity",
+                    "name": "Sum(Orders.Quantity)",
                     "role": "AC"
                 }
             ]
         },
         "columns": [
             {
-                "id": "Table5.Year",
-                "label": "Year"
+                "id": "Orders.Segment",
+                "label": "Segment"
+            },
+            {
+                "id": "Orders.Ship Mode",
+                "label": "Ship Mode"
             }
         ],
         "rows": [
             {
-                "id": "Table5.Region",
-                "label": "Region"
+                "id": "Orders.Category",
+                "label": "Category"
             },
             {
-                "id": "Table5.Country",
-                "label": "Country"
+                "id": "Orders.Sub-Category",
+                "label": "SubCategory"
             }
         ]
     },
-    "currentVersion": "v3.3.0.0",
+    "currentVersion": "v3.5.0.0",
     "visual": {
-        "visualId": "NFEFEMLNCIKIMEL",
-        "visualTemplateGuid": "OPEECCLPOICMLPJ",
-        "tenantId": "e3f53631e41bcfe7b85ce463178b4360"
+        "visualId": "OMKAOCDGJKPGMIC",
+        "visualTemplateGuid": "CJPEGIPACJNNNAK",
+        "tenantId": "ddec66fe92e4aa2436a44c7a0c220078"
     }
 }
