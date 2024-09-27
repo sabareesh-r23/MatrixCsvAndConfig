@@ -1751,5 +1751,6 @@
     ],
     "rows": [{ "id": "15000.Category Name", "label": "Category Name" }]
   },
-  "currentVersion": "v3.5.0.0"
+  "currentVersion": "v3.5.0.0",
+  "visual": { "visualId": "EDEFGFDOIPBFCAD", "visualTemplateGuid": "CEIDAJKEDEOHKEF", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" }
 }
