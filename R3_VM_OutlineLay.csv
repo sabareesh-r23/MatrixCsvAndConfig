@@ -1,0 +1,2125 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.City,Sum(Orders.Quantity)
+2014,Aberdeen,
+2015,Aberdeen,
+2016,Aberdeen,
+2017,Aberdeen,3
+2014,Abilene,
+2015,Abilene,
+2016,Abilene,
+2017,Abilene,2
+2014,Akron,10
+2015,Akron,13
+2016,Akron,15
+2017,Akron,27
+2014,Albuquerque,14
+2015,Albuquerque,
+2016,Albuquerque,
+2017,Albuquerque,51
+2014,Alexandria,58
+2015,Alexandria,14
+2016,Alexandria,5
+2017,Alexandria,7
+2014,Allen,
+2015,Allen,13
+2016,Allen,
+2017,Allen,
+2014,Allentown,
+2015,Allentown,16
+2016,Allentown,4
+2017,Allentown,
+2014,Altoona,
+2015,Altoona,9
+2016,Altoona,
+2017,Altoona,
+2014,Amarillo,
+2015,Amarillo,12
+2016,Amarillo,18
+2017,Amarillo,2
+2014,Anaheim,14
+2015,Anaheim,23
+2016,Anaheim,53
+2017,Anaheim,22
+2014,Andover,
+2015,Andover,
+2016,Andover,13
+2017,Andover,
+2014,Ann Arbor,
+2015,Ann Arbor,23
+2016,Ann Arbor,
+2017,Ann Arbor,
+2014,Antioch,
+2015,Antioch,
+2016,Antioch,3
+2017,Antioch,
+2014,Apopka,18
+2015,Apopka,
+2016,Apopka,13
+2017,Apopka,
+2014,Apple Valley,2
+2015,Apple Valley,
+2016,Apple Valley,5
+2017,Apple Valley,25
+2014,Appleton,7
+2015,Appleton,
+2016,Appleton,5
+2017,Appleton,
+2014,Arlington,39
+2015,Arlington,76
+2016,Arlington,88
+2017,Arlington,56
+2014,Arlington Heights,
+2015,Arlington Heights,
+2016,Arlington Heights,6
+2017,Arlington Heights,
+2014,Arvada,
+2015,Arvada,
+2016,Arvada,10
+2017,Arvada,
+2014,Asheville,4
+2015,Asheville,
+2016,Asheville,5
+2017,Asheville,19
+2014,Athens,18
+2015,Athens,
+2016,Athens,6
+2017,Athens,6
+2014,Atlanta,20
+2015,Atlanta,52
+2016,Atlanta,31
+2017,Atlanta,53
+2014,Atlantic City,
+2015,Atlantic City,
+2016,Atlantic City,2
+2017,Atlantic City,
+2014,Auburn,
+2015,Auburn,20
+2016,Auburn,42
+2017,Auburn,18
+2014,Aurora,22
+2015,Aurora,74
+2016,Aurora,83
+2017,Aurora,79
+2014,Austin,6
+2015,Austin,29
+2016,Austin,29
+2017,Austin,67
+2014,Avondale,19
+2015,Avondale,11
+2016,Avondale,
+2017,Avondale,
+2014,Bakersfield,
+2015,Bakersfield,5
+2016,Bakersfield,13
+2017,Bakersfield,29
+2014,Baltimore,20
+2015,Baltimore,49
+2016,Baltimore,32
+2017,Baltimore,83
+2014,Bangor,24
+2015,Bangor,
+2016,Bangor,5
+2017,Bangor,
+2014,Bartlett,
+2015,Bartlett,8
+2016,Bartlett,
+2017,Bartlett,
+2014,Bayonne,
+2015,Bayonne,9
+2016,Bayonne,
+2017,Bayonne,
+2014,Baytown,
+2015,Baytown,2
+2016,Baytown,
+2017,Baytown,
+2014,Beaumont,19
+2015,Beaumont,
+2016,Beaumont,
+2017,Beaumont,2
+2014,Bedford,
+2015,Bedford,4
+2016,Bedford,
+2017,Bedford,21
+2014,Belleville,
+2015,Belleville,
+2016,Belleville,23
+2017,Belleville,9
+2014,Bellevue,2
+2015,Bellevue,4
+2016,Bellevue,3
+2017,Bellevue,9
+2014,Bellingham,
+2015,Bellingham,
+2016,Bellingham,
+2017,Bellingham,24
+2014,Bethlehem,
+2015,Bethlehem,4
+2016,Bethlehem,14
+2017,Bethlehem,
+2014,Beverly,15
+2015,Beverly,
+2016,Beverly,
+2017,Beverly,
+2014,Billings,2
+2015,Billings,
+2016,Billings,
+2017,Billings,
+2014,Bloomington,31
+2015,Bloomington,14
+2016,Bloomington,6
+2017,Bloomington,7
+2014,Boca Raton,2
+2015,Boca Raton,
+2016,Boca Raton,6
+2017,Boca Raton,
+2014,Boise,
+2015,Boise,6
+2016,Boise,
+2017,Boise,3
+2014,Bolingbrook,5
+2015,Bolingbrook,16
+2016,Bolingbrook,
+2017,Bolingbrook,2
+2014,Bossier City,24
+2015,Bossier City,
+2016,Bossier City,
+2017,Bossier City,
+2014,Bowling Green,2
+2015,Bowling Green,9
+2016,Bowling Green,4
+2017,Bowling Green,15
+2014,Boynton Beach,3
+2015,Boynton Beach,
+2016,Boynton Beach,13
+2017,Boynton Beach,12
+2014,Bozeman,
+2015,Bozeman,5
+2016,Bozeman,
+2017,Bozeman,
+2014,Brentwood,23
+2015,Brentwood,2
+2016,Brentwood,
+2017,Brentwood,41
+2014,Bridgeton,
+2015,Bridgeton,
+2016,Bridgeton,6
+2017,Bridgeton,
+2014,Bristol,17
+2015,Bristol,4
+2016,Bristol,10
+2017,Bristol,
+2014,Broken Arrow,
+2015,Broken Arrow,6
+2016,Broken Arrow,11
+2017,Broken Arrow,
+2014,Broomfield,
+2015,Broomfield,
+2016,Broomfield,23
+2017,Broomfield,
+2014,Brownsville,24
+2015,Brownsville,
+2016,Brownsville,
+2017,Brownsville,3
+2014,Bryan,
+2015,Bryan,
+2016,Bryan,12
+2017,Bryan,15
+2014,Buffalo,19
+2015,Buffalo,13
+2016,Buffalo,7
+2017,Buffalo,7
+2014,Buffalo Grove,10
+2015,Buffalo Grove,
+2016,Buffalo Grove,
+2017,Buffalo Grove,
+2014,Bullhead City,
+2015,Bullhead City,3
+2016,Bullhead City,
+2017,Bullhead City,
+2014,Burbank,13
+2015,Burbank,
+2016,Burbank,
+2017,Burbank,
+2014,Burlington,
+2015,Burlington,8
+2016,Burlington,30
+2017,Burlington,67
+2014,Caldwell,11
+2015,Caldwell,
+2016,Caldwell,
+2017,Caldwell,
+2014,Camarillo,
+2015,Camarillo,13
+2016,Camarillo,
+2017,Camarillo,3
+2014,Cambridge,
+2015,Cambridge,14
+2016,Cambridge,
+2017,Cambridge,5
+2014,Canton,
+2015,Canton,
+2016,Canton,
+2017,Canton,13
+2014,Carlsbad,
+2015,Carlsbad,
+2016,Carlsbad,11
+2017,Carlsbad,24
+2014,Carol Stream,
+2015,Carol Stream,18
+2016,Carol Stream,
+2017,Carol Stream,
+2014,Carrollton,5
+2015,Carrollton,17
+2016,Carrollton,13
+2017,Carrollton,15
+2014,Cary,16
+2015,Cary,3
+2016,Cary,
+2017,Cary,
+2014,Cedar Hill,3
+2015,Cedar Hill,
+2016,Cedar Hill,
+2017,Cedar Hill,3
+2014,Cedar Rapids,
+2015,Cedar Rapids,
+2016,Cedar Rapids,3
+2017,Cedar Rapids,
+2014,Champaign,
+2015,Champaign,5
+2016,Champaign,
+2017,Champaign,
+2014,Chandler,9
+2015,Chandler,
+2016,Chandler,
+2017,Chandler,14
+2014,Chapel Hill,
+2015,Chapel Hill,
+2016,Chapel Hill,
+2017,Chapel Hill,3
+2014,Charlotte,58
+2015,Charlotte,7
+2016,Charlotte,81
+2017,Charlotte,97
+2014,Charlottesville,
+2015,Charlottesville,4
+2016,Charlottesville,
+2017,Charlottesville,3
+2014,Chattanooga,
+2015,Chattanooga,
+2016,Chattanooga,10
+2017,Chattanooga,28
+2014,Chesapeake,42
+2015,Chesapeake,12
+2016,Chesapeake,13
+2017,Chesapeake,5
+2014,Chester,11
+2015,Chester,29
+2016,Chester,
+2017,Chester,15
+2014,Cheyenne,
+2015,Cheyenne,
+2016,Cheyenne,4
+2017,Cheyenne,
+2014,Chicago,249
+2015,Chicago,189
+2016,Chicago,300
+2017,Chicago,394
+2014,Chico,
+2015,Chico,21
+2016,Chico,
+2017,Chico,22
+2014,Chula Vista,3
+2015,Chula Vista,6
+2016,Chula Vista,4
+2017,Chula Vista,
+2014,Cincinnati,8
+2015,Cincinnati,3
+2016,Cincinnati,25
+2017,Cincinnati,22
+2014,Citrus Heights,
+2015,Citrus Heights,
+2016,Citrus Heights,
+2017,Citrus Heights,3
+2014,Clarksville,6
+2015,Clarksville,11
+2016,Clarksville,
+2017,Clarksville,10
+2014,Cleveland,12
+2015,Cleveland,16
+2016,Cleveland,37
+2017,Cleveland,73
+2014,Clifton,9
+2015,Clifton,
+2016,Clifton,
+2017,Clifton,
+2014,Clinton,20
+2015,Clinton,75
+2016,Clinton,13
+2017,Clinton,11
+2014,Clovis,
+2015,Clovis,
+2016,Clovis,
+2017,Clovis,10
+2014,Coachella,
+2015,Coachella,
+2016,Coachella,
+2017,Coachella,3
+2014,College Station,
+2015,College Station,
+2016,College Station,
+2017,College Station,19
+2014,Colorado Springs,22
+2015,Colorado Springs,68
+2016,Colorado Springs,20
+2017,Colorado Springs,
+2014,Columbia,88
+2015,Columbia,56
+2016,Columbia,83
+2017,Columbia,89
+2014,Columbus,198
+2015,Columbus,121
+2016,Columbus,218
+2017,Columbus,299
+2014,Commerce City,
+2015,Commerce City,
+2016,Commerce City,
+2017,Commerce City,3
+2014,Concord,27
+2015,Concord,25
+2016,Concord,33
+2017,Concord,49
+2014,Conroe,
+2015,Conroe,
+2016,Conroe,9
+2017,Conroe,
+2014,Conway,
+2015,Conway,2
+2016,Conway,
+2017,Conway,
+2014,Coon Rapids,7
+2015,Coon Rapids,
+2016,Coon Rapids,
+2017,Coon Rapids,
+2014,Coppell,
+2015,Coppell,4
+2016,Coppell,
+2017,Coppell,13
+2014,Coral Gables,
+2015,Coral Gables,
+2016,Coral Gables,6
+2017,Coral Gables,
+2014,Coral Springs,
+2015,Coral Springs,16
+2016,Coral Springs,
+2017,Coral Springs,5
+2014,Corpus Christi,30
+2015,Corpus Christi,
+2016,Corpus Christi,
+2017,Corpus Christi,3
+2014,Costa Mesa,
+2015,Costa Mesa,3
+2016,Costa Mesa,23
+2017,Costa Mesa,16
+2014,Cottage Grove,6
+2015,Cottage Grove,
+2016,Cottage Grove,
+2017,Cottage Grove,
+2014,Covington,
+2015,Covington,5
+2016,Covington,15
+2017,Covington,
+2014,Cranston,20
+2015,Cranston,
+2016,Cranston,
+2017,Cranston,32
+2014,Cuyahoga Falls,
+2015,Cuyahoga Falls,6
+2016,Cuyahoga Falls,3
+2017,Cuyahoga Falls,4
+2014,Dallas,80
+2015,Dallas,83
+2016,Dallas,145
+2017,Dallas,247
+2014,Danbury,
+2015,Danbury,
+2016,Danbury,
+2017,Danbury,2
+2014,Danville,
+2015,Danville,
+2016,Danville,
+2017,Danville,38
+2014,Davis,
+2015,Davis,
+2016,Davis,5
+2017,Davis,
+2014,Daytona Beach,
+2015,Daytona Beach,10
+2016,Daytona Beach,
+2017,Daytona Beach,
+2014,Dearborn,
+2015,Dearborn,20
+2016,Dearborn,
+2017,Dearborn,3
+2014,Dearborn Heights,16
+2015,Dearborn Heights,
+2016,Dearborn Heights,
+2017,Dearborn Heights,3
+2014,Decatur,53
+2015,Decatur,23
+2016,Decatur,21
+2017,Decatur,32
+2014,Deer Park,
+2015,Deer Park,
+2016,Deer Park,6
+2017,Deer Park,
+2014,Delray Beach,3
+2015,Delray Beach,
+2016,Delray Beach,8
+2017,Delray Beach,
+2014,Deltona,12
+2015,Deltona,3
+2016,Deltona,
+2017,Deltona,4
+2014,Denver,48
+2015,Denver,20
+2016,Denver,26
+2017,Denver,70
+2014,Des Moines,14
+2015,Des Moines,7
+2016,Des Moines,19
+2017,Des Moines,20
+2014,Des Plaines,20
+2015,Des Plaines,
+2016,Des Plaines,
+2017,Des Plaines,4
+2014,Detroit,42
+2015,Detroit,156
+2016,Detroit,131
+2017,Detroit,112
+2014,Dover,30
+2015,Dover,36
+2016,Dover,9
+2017,Dover,
+2014,Draper,7
+2015,Draper,
+2016,Draper,
+2017,Draper,6
+2014,Dublin,
+2015,Dublin,22
+2016,Dublin,
+2017,Dublin,34
+2014,Dubuque,
+2015,Dubuque,18
+2016,Dubuque,
+2017,Dubuque,
+2014,Durham,5
+2015,Durham,23
+2016,Durham,
+2017,Durham,5
+2014,Eagan,
+2015,Eagan,8
+2016,Eagan,4
+2017,Eagan,10
+2014,East Orange,
+2015,East Orange,
+2016,East Orange,17
+2017,East Orange,3
+2014,East Point,
+2015,East Point,7
+2016,East Point,
+2017,East Point,
+2014,Eau Claire,3
+2015,Eau Claire,6
+2016,Eau Claire,10
+2017,Eau Claire,2
+2014,Edinburg,
+2015,Edinburg,
+2016,Edinburg,9
+2017,Edinburg,2
+2014,Edmond,
+2015,Edmond,
+2016,Edmond,9
+2017,Edmond,
+2014,Edmonds,15
+2015,Edmonds,
+2016,Edmonds,13
+2017,Edmonds,14
+2014,El Cajon,2
+2015,El Cajon,
+2016,El Cajon,4
+2017,El Cajon,
+2014,El Paso,44
+2015,El Paso,2
+2016,El Paso,4
+2017,El Paso,15
+2014,Elkhart,
+2015,Elkhart,
+2016,Elkhart,
+2017,Elkhart,7
+2014,Elmhurst,9
+2015,Elmhurst,
+2016,Elmhurst,5
+2017,Elmhurst,
+2014,Elyria,
+2015,Elyria,
+2016,Elyria,
+2017,Elyria,1
+2014,Encinitas,
+2015,Encinitas,
+2016,Encinitas,8
+2017,Encinitas,5
+2014,Englewood,
+2015,Englewood,
+2016,Englewood,6
+2017,Englewood,
+2014,Escondido,5
+2015,Escondido,
+2016,Escondido,
+2017,Escondido,4
+2014,Eugene,
+2015,Eugene,
+2016,Eugene,23
+2017,Eugene,
+2014,Evanston,3
+2015,Evanston,7
+2016,Evanston,1
+2017,Evanston,
+2014,Everett,19
+2015,Everett,29
+2016,Everett,
+2017,Everett,36
+2014,Fairfield,53
+2015,Fairfield,11
+2016,Fairfield,26
+2017,Fairfield,95
+2014,Fargo,
+2015,Fargo,
+2016,Fargo,
+2017,Fargo,30
+2014,Farmington,
+2015,Farmington,1
+2016,Farmington,
+2017,Farmington,10
+2014,Fayetteville,22
+2015,Fayetteville,14
+2016,Fayetteville,55
+2017,Fayetteville,77
+2014,Florence,21
+2015,Florence,37
+2016,Florence,7
+2017,Florence,26
+2014,Fort Collins,
+2015,Fort Collins,
+2016,Fort Collins,3
+2017,Fort Collins,17
+2014,Fort Lauderdale,12
+2015,Fort Lauderdale,7
+2016,Fort Lauderdale,29
+2017,Fort Lauderdale,17
+2014,Fort Worth,17
+2015,Fort Worth,37
+2016,Fort Worth,17
+2017,Fort Worth,31
+2014,Frankfort,
+2015,Frankfort,8
+2016,Frankfort,2
+2017,Frankfort,
+2014,Franklin,14
+2015,Franklin,37
+2016,Franklin,66
+2017,Franklin,22
+2014,Freeport,4
+2015,Freeport,15
+2016,Freeport,
+2017,Freeport,10
+2014,Fremont,
+2015,Fremont,
+2016,Fremont,19
+2017,Fremont,14
+2014,Fresno,33
+2015,Fresno,
+2016,Fresno,16
+2017,Fresno,57
+2014,Frisco,
+2015,Frisco,4
+2016,Frisco,
+2017,Frisco,6
+2014,Gaithersburg,
+2015,Gaithersburg,
+2016,Gaithersburg,5
+2017,Gaithersburg,
+2014,Garden City,2
+2015,Garden City,5
+2016,Garden City,
+2017,Garden City,1
+2014,Garland,2
+2015,Garland,
+2016,Garland,
+2017,Garland,10
+2014,Gastonia,
+2015,Gastonia,
+2016,Gastonia,16
+2017,Gastonia,
+2014,Georgetown,
+2015,Georgetown,
+2016,Georgetown,27
+2017,Georgetown,8
+2014,Gilbert,12
+2015,Gilbert,24
+2016,Gilbert,
+2017,Gilbert,22
+2014,Gladstone,
+2015,Gladstone,
+2016,Gladstone,
+2017,Gladstone,5
+2014,Glendale,15
+2015,Glendale,4
+2016,Glendale,17
+2017,Glendale,31
+2014,Glenview,
+2015,Glenview,3
+2016,Glenview,
+2017,Glenview,
+2014,Goldsboro,
+2015,Goldsboro,
+2016,Goldsboro,3
+2017,Goldsboro,
+2014,Grand Island,
+2015,Grand Island,
+2016,Grand Island,
+2017,Grand Island,2
+2014,Grand Prairie,7
+2015,Grand Prairie,17
+2016,Grand Prairie,11
+2017,Grand Prairie,10
+2014,Grand Rapids,3
+2015,Grand Rapids,
+2016,Grand Rapids,21
+2017,Grand Rapids,7
+2014,Grapevine,
+2015,Grapevine,
+2016,Grapevine,12
+2017,Grapevine,
+2014,Great Falls,17
+2015,Great Falls,
+2016,Great Falls,
+2017,Great Falls,13
+2014,Greeley,
+2015,Greeley,
+2016,Greeley,
+2017,Greeley,5
+2014,Green Bay,6
+2015,Green Bay,
+2016,Green Bay,4
+2017,Green Bay,4
+2014,Greensboro,9
+2015,Greensboro,7
+2016,Greensboro,17
+2017,Greensboro,17
+2014,Greenville,2
+2015,Greenville,
+2016,Greenville,18
+2017,Greenville,7
+2014,Greenwood,
+2015,Greenwood,
+2016,Greenwood,5
+2017,Greenwood,14
+2014,Gresham,12
+2015,Gresham,
+2016,Gresham,16
+2017,Gresham,
+2014,Grove City,
+2015,Grove City,
+2016,Grove City,
+2017,Grove City,12
+2014,Gulfport,
+2015,Gulfport,
+2016,Gulfport,11
+2017,Gulfport,9
+2014,Hackensack,28
+2015,Hackensack,
+2016,Hackensack,
+2017,Hackensack,
+2014,Hagerstown,
+2015,Hagerstown,
+2016,Hagerstown,
+2017,Hagerstown,6
+2014,Haltom City,
+2015,Haltom City,13
+2016,Haltom City,
+2017,Haltom City,
+2014,Hamilton,8
+2015,Hamilton,
+2016,Hamilton,5
+2017,Hamilton,
+2014,Hampton,21
+2015,Hampton,26
+2016,Hampton,1
+2017,Hampton,
+2014,Harlingen,
+2015,Harlingen,
+2016,Harlingen,13
+2017,Harlingen,8
+2014,Harrisonburg,21
+2015,Harrisonburg,2
+2016,Harrisonburg,
+2017,Harrisonburg,2
+2014,Hattiesburg,
+2015,Hattiesburg,6
+2016,Hattiesburg,24
+2017,Hattiesburg,8
+2014,Helena,
+2015,Helena,12
+2016,Helena,
+2017,Helena,5
+2014,Hempstead,12
+2015,Hempstead,14
+2016,Hempstead,22
+2017,Hempstead,3
+2014,Henderson,51
+2015,Henderson,64
+2016,Henderson,34
+2017,Henderson,49
+2014,Hendersonville,
+2015,Hendersonville,
+2016,Hendersonville,8
+2017,Hendersonville,14
+2014,Hesperia,
+2015,Hesperia,
+2016,Hesperia,12
+2017,Hesperia,6
+2014,Hialeah,22
+2015,Hialeah,3
+2016,Hialeah,30
+2017,Hialeah,21
+2014,Hickory,
+2015,Hickory,
+2016,Hickory,1
+2017,Hickory,4
+2014,Highland Park,
+2015,Highland Park,16
+2016,Highland Park,12
+2017,Highland Park,
+2014,Hillsboro,
+2015,Hillsboro,4
+2016,Hillsboro,
+2017,Hillsboro,10
+2014,Holland,
+2015,Holland,2
+2016,Holland,9
+2017,Holland,
+2014,Hollywood,14
+2015,Hollywood,7
+2016,Hollywood,10
+2017,Hollywood,13
+2014,Holyoke,
+2015,Holyoke,2
+2016,Holyoke,
+2017,Holyoke,
+2014,Homestead,
+2015,Homestead,
+2016,Homestead,3
+2017,Homestead,2
+2014,Hoover,
+2015,Hoover,
+2016,Hoover,
+2017,Hoover,15
+2014,Hot Springs,
+2015,Hot Springs,1
+2016,Hot Springs,14
+2017,Hot Springs,
+2014,Houston,295
+2015,Houston,363
+2016,Houston,416
+2017,Houston,392
+2014,Huntington Beach,5
+2015,Huntington Beach,
+2016,Huntington Beach,1
+2017,Huntington Beach,13
+2014,Huntsville,51
+2015,Huntsville,13
+2016,Huntsville,40
+2017,Huntsville,57
+2014,Independence,
+2015,Independence,
+2016,Independence,
+2017,Independence,6
+2014,Indianapolis,6
+2015,Indianapolis,22
+2016,Indianapolis,3
+2017,Indianapolis,64
+2014,Inglewood,
+2015,Inglewood,
+2016,Inglewood,
+2017,Inglewood,53
+2014,Iowa City,
+2015,Iowa City,
+2016,Iowa City,1
+2017,Iowa City,
+2014,Irving,3
+2015,Irving,
+2016,Irving,20
+2017,Irving,
+2014,Jackson,46
+2015,Jackson,33
+2016,Jackson,136
+2017,Jackson,103
+2014,Jacksonville,72
+2015,Jacksonville,115
+2016,Jacksonville,101
+2017,Jacksonville,141
+2014,Jamestown,9
+2015,Jamestown,
+2016,Jamestown,
+2017,Jamestown,
+2014,Jefferson City,
+2015,Jefferson City,
+2016,Jefferson City,2
+2017,Jefferson City,
+2014,Johnson City,9
+2015,Johnson City,
+2016,Johnson City,15
+2017,Johnson City,19
+2014,Jonesboro,36
+2015,Jonesboro,
+2016,Jonesboro,7
+2017,Jonesboro,10
+2014,Jupiter,
+2015,Jupiter,
+2016,Jupiter,
+2017,Jupiter,1
+2014,Keller,
+2015,Keller,
+2016,Keller,
+2017,Keller,2
+2014,Kenner,
+2015,Kenner,
+2016,Kenner,4
+2017,Kenner,
+2014,Kenosha,
+2015,Kenosha,32
+2016,Kenosha,
+2017,Kenosha,5
+2014,Kent,13
+2015,Kent,
+2016,Kent,6
+2017,Kent,29
+2014,Kirkwood,
+2015,Kirkwood,7
+2016,Kirkwood,
+2017,Kirkwood,
+2014,Kissimmee,
+2015,Kissimmee,
+2016,Kissimmee,
+2017,Kissimmee,2
+2014,Knoxville,20
+2015,Knoxville,
+2016,Knoxville,9
+2017,Knoxville,52
+2014,La Crosse,
+2015,La Crosse,
+2016,La Crosse,22
+2017,La Crosse,
+2014,La Mesa,
+2015,La Mesa,
+2016,La Mesa,
+2017,La Mesa,8
+2014,La Porte,
+2015,La Porte,
+2016,La Porte,34
+2017,La Porte,5
+2014,La Quinta,
+2015,La Quinta,4
+2016,La Quinta,
+2017,La Quinta,
+2014,Lafayette,15
+2015,Lafayette,7
+2016,Lafayette,28
+2017,Lafayette,54
+2014,Laguna Niguel,
+2015,Laguna Niguel,
+2016,Laguna Niguel,2
+2017,Laguna Niguel,13
+2014,Lake Charles,5
+2015,Lake Charles,
+2016,Lake Charles,
+2017,Lake Charles,11
+2014,Lake Elsinore,
+2015,Lake Elsinore,5
+2016,Lake Elsinore,
+2017,Lake Elsinore,
+2014,Lake Forest,
+2015,Lake Forest,
+2016,Lake Forest,10
+2017,Lake Forest,7
+2014,Lakeland,25
+2015,Lakeland,36
+2016,Lakeland,7
+2017,Lakeland,6
+2014,Lakeville,55
+2015,Lakeville,6
+2016,Lakeville,
+2017,Lakeville,23
+2014,Lakewood,44
+2015,Lakewood,37
+2016,Lakewood,25
+2017,Lakewood,98
+2014,Lancaster,36
+2015,Lancaster,8
+2016,Lancaster,65
+2017,Lancaster,62
+2014,Lansing,
+2015,Lansing,9
+2016,Lansing,5
+2017,Lansing,11
+2014,Laredo,18
+2015,Laredo,
+2016,Laredo,19
+2017,Laredo,
+2014,Las Cruces,
+2015,Las Cruces,6
+2016,Las Cruces,
+2017,Las Cruces,3
+2014,Las Vegas,6
+2015,Las Vegas,36
+2016,Las Vegas,
+2017,Las Vegas,19
+2014,Laurel,
+2015,Laurel,
+2016,Laurel,
+2017,Laurel,5
+2014,Lawrence,31
+2015,Lawrence,65
+2016,Lawrence,23
+2017,Lawrence,47
+2014,Lawton,8
+2015,Lawton,
+2016,Lawton,
+2017,Lawton,5
+2014,Layton,
+2015,Layton,4
+2016,Layton,
+2017,Layton,
+2014,League City,15
+2015,League City,
+2016,League City,
+2017,League City,10
+2014,Lebanon,
+2015,Lebanon,6
+2016,Lebanon,3
+2017,Lebanon,5
+2014,Lehi,
+2015,Lehi,3
+2016,Lehi,5
+2017,Lehi,
+2014,Leominster,
+2015,Leominster,20
+2016,Leominster,
+2017,Leominster,
+2014,Lewiston,1
+2015,Lewiston,6
+2016,Lewiston,
+2017,Lewiston,
+2014,Lincoln Park,
+2015,Lincoln Park,5
+2016,Lincoln Park,6
+2017,Lincoln Park,
+2014,Linden,7
+2015,Linden,
+2016,Linden,
+2017,Linden,
+2014,Lindenhurst,
+2015,Lindenhurst,1
+2016,Lindenhurst,
+2017,Lindenhurst,
+2014,Little Rock,33
+2015,Little Rock,
+2016,Little Rock,30
+2017,Little Rock,27
+2014,Littleton,
+2015,Littleton,
+2016,Littleton,1
+2017,Littleton,
+2014,Lodi,2
+2015,Lodi,
+2016,Lodi,
+2017,Lodi,7
+2014,Logan,21
+2015,Logan,
+2016,Logan,
+2017,Logan,
+2014,Long Beach,47
+2015,Long Beach,74
+2016,Long Beach,67
+2017,Long Beach,68
+2014,Longmont,
+2015,Longmont,
+2016,Longmont,10
+2017,Longmont,
+2014,Longview,
+2015,Longview,
+2016,Longview,5
+2017,Longview,5
+2014,Lorain,8
+2015,Lorain,
+2016,Lorain,20
+2017,Lorain,7
+2014,Los Angeles,590
+2015,Los Angeles,604
+2016,Los Angeles,845
+2017,Los Angeles,840
+2014,Louisville,30
+2015,Louisville,69
+2016,Louisville,16
+2017,Louisville,106
+2014,Loveland,
+2015,Loveland,
+2016,Loveland,
+2017,Loveland,8
+2014,Lowell,23
+2015,Lowell,
+2016,Lowell,9
+2017,Lowell,28
+2014,Lubbock,5
+2015,Lubbock,12
+2016,Lubbock,
+2017,Lubbock,5
+2014,Macon,14
+2015,Macon,10
+2016,Macon,
+2017,Macon,
+2014,Madison,18
+2015,Madison,
+2016,Madison,3
+2017,Madison,16
+2014,Malden,
+2015,Malden,
+2016,Malden,9
+2017,Malden,
+2014,Manchester,
+2015,Manchester,6
+2016,Manchester,17
+2017,Manchester,19
+2014,Manhattan,2
+2015,Manhattan,
+2016,Manhattan,
+2017,Manhattan,
+2014,Mansfield,
+2015,Mansfield,
+2016,Mansfield,
+2017,Mansfield,13
+2014,Manteca,5
+2015,Manteca,
+2016,Manteca,
+2017,Manteca,3
+2014,Maple Grove,
+2015,Maple Grove,
+2016,Maple Grove,
+2017,Maple Grove,13
+2014,Margate,3
+2015,Margate,
+2016,Margate,
+2017,Margate,
+2014,Marietta,12
+2015,Marietta,3
+2016,Marietta,18
+2017,Marietta,
+2014,Marion,3
+2015,Marion,28
+2016,Marion,8
+2017,Marion,24
+2014,Marlborough,
+2015,Marlborough,
+2016,Marlborough,6
+2017,Marlborough,
+2014,Marysville,
+2015,Marysville,
+2016,Marysville,15
+2017,Marysville,
+2014,Mason,7
+2015,Mason,
+2016,Mason,
+2017,Mason,
+2014,Mcallen,
+2015,Mcallen,30
+2016,Mcallen,14
+2017,Mcallen,10
+2014,Medford,7
+2015,Medford,2
+2016,Medford,1
+2017,Medford,
+2014,Medina,16
+2015,Medina,22
+2016,Medina,
+2017,Medina,
+2014,Melbourne,
+2015,Melbourne,
+2016,Melbourne,
+2017,Melbourne,2
+2014,Memphis,10
+2015,Memphis,40
+2016,Memphis,9
+2017,Memphis,57
+2014,Mentor,
+2015,Mentor,
+2016,Mentor,
+2017,Mentor,15
+2014,Meriden,15
+2015,Meriden,5
+2016,Meriden,
+2017,Meriden,12
+2014,Meridian,
+2015,Meridian,
+2016,Meridian,
+2017,Meridian,11
+2014,Mesa,6
+2015,Mesa,64
+2016,Mesa,16
+2017,Mesa,42
+2014,Mesquite,13
+2015,Mesquite,
+2016,Mesquite,
+2017,Mesquite,1
+2014,Miami,60
+2015,Miami,73
+2016,Miami,41
+2017,Miami,41
+2014,Middletown,2
+2015,Middletown,5
+2016,Middletown,11
+2017,Middletown,10
+2014,Midland,35
+2015,Midland,4
+2016,Midland,
+2017,Midland,
+2014,Milford,
+2015,Milford,
+2016,Milford,16
+2017,Milford,14
+2014,Milwaukee,7
+2015,Milwaukee,52
+2016,Milwaukee,46
+2017,Milwaukee,96
+2014,Minneapolis,28
+2015,Minneapolis,23
+2016,Minneapolis,6
+2017,Minneapolis,23
+2014,Miramar,
+2015,Miramar,
+2016,Miramar,
+2017,Miramar,41
+2014,Mishawaka,8
+2015,Mishawaka,
+2016,Mishawaka,3
+2017,Mishawaka,
+2014,Mission Viejo,2
+2015,Mission Viejo,
+2016,Mission Viejo,7
+2017,Mission Viejo,9
+2014,Missoula,
+2015,Missoula,2
+2016,Missoula,
+2017,Missoula,
+2014,Missouri City,
+2015,Missouri City,
+2016,Missouri City,
+2017,Missouri City,7
+2014,Mobile,2
+2015,Mobile,12
+2016,Mobile,38
+2017,Mobile,
+2014,Modesto,
+2015,Modesto,
+2016,Modesto,
+2017,Modesto,10
+2014,Monroe,11
+2015,Monroe,32
+2016,Monroe,17
+2017,Monroe,13
+2014,Montebello,
+2015,Montebello,
+2016,Montebello,2
+2017,Montebello,
+2014,Montgomery,17
+2015,Montgomery,19
+2016,Montgomery,10
+2017,Montgomery,2
+2014,Moorhead,5
+2015,Moorhead,
+2016,Moorhead,
+2017,Moorhead,4
+2014,Moreno Valley,13
+2015,Moreno Valley,19
+2016,Moreno Valley,10
+2017,Moreno Valley,
+2014,Morgan Hill,
+2015,Morgan Hill,
+2016,Morgan Hill,16
+2017,Morgan Hill,
+2014,Morristown,
+2015,Morristown,11
+2016,Morristown,8
+2017,Morristown,12
+2014,Mount Pleasant,6
+2015,Mount Pleasant,2
+2016,Mount Pleasant,
+2017,Mount Pleasant,
+2014,Mount Vernon,7
+2015,Mount Vernon,
+2016,Mount Vernon,
+2017,Mount Vernon,26
+2014,Murfreesboro,
+2015,Murfreesboro,26
+2016,Murfreesboro,3
+2017,Murfreesboro,1
+2014,Murray,5
+2015,Murray,
+2016,Murray,3
+2017,Murray,15
+2014,Murrieta,
+2015,Murrieta,3
+2016,Murrieta,
+2017,Murrieta,
+2014,Muskogee,
+2015,Muskogee,
+2016,Muskogee,
+2017,Muskogee,14
+2014,Naperville,8
+2015,Naperville,16
+2016,Naperville,
+2017,Naperville,9
+2014,Nashua,
+2015,Nashua,
+2016,Nashua,4
+2017,Nashua,6
+2014,Nashville,11
+2015,Nashville,26
+2016,Nashville,27
+2017,Nashville,50
+2014,New Albany,
+2015,New Albany,15
+2016,New Albany,
+2017,New Albany,
+2014,New Bedford,
+2015,New Bedford,9
+2016,New Bedford,
+2017,New Bedford,13
+2014,New Brunswick,
+2015,New Brunswick,
+2016,New Brunswick,
+2017,New Brunswick,3
+2014,New Castle,
+2015,New Castle,9
+2016,New Castle,
+2017,New Castle,
+2014,New Rochelle,14
+2015,New Rochelle,
+2016,New Rochelle,5
+2017,New Rochelle,8
+2014,New York City,550
+2015,New York City,776
+2016,New York City,959
+2017,New York City,1132
+2014,Newark,64
+2015,Newark,91
+2016,Newark,104
+2017,Newark,103
+2014,Newport News,10
+2015,Newport News,4
+2016,Newport News,18
+2017,Newport News,11
+2014,Niagara Falls,3
+2015,Niagara Falls,
+2016,Niagara Falls,9
+2017,Niagara Falls,
+2014,Noblesville,
+2015,Noblesville,9
+2016,Noblesville,6
+2017,Noblesville,
+2014,Norfolk,
+2015,Norfolk,3
+2016,Norfolk,
+2017,Norfolk,
+2014,Normal,
+2015,Normal,4
+2016,Normal,
+2017,Normal,
+2014,Norman,
+2015,Norman,
+2016,Norman,9
+2017,Norman,
+2014,North Charleston,
+2015,North Charleston,3
+2016,North Charleston,
+2017,North Charleston,2
+2014,North Las Vegas,31
+2015,North Las Vegas,9
+2016,North Las Vegas,14
+2017,North Las Vegas,4
+2014,North Miami,3
+2015,North Miami,3
+2016,North Miami,
+2017,North Miami,
+2014,Norwich,
+2015,Norwich,9
+2016,Norwich,1
+2017,Norwich,2
+2014,Oak Park,
+2015,Oak Park,
+2016,Oak Park,
+2017,Oak Park,12
+2014,Oakland,12
+2015,Oakland,28
+2016,Oakland,8
+2017,Oakland,59
+2014,Oceanside,5
+2015,Oceanside,39
+2016,Oceanside,35
+2017,Oceanside,28
+2014,Odessa,6
+2015,Odessa,
+2016,Odessa,12
+2017,Odessa,4
+2014,Oklahoma City,4
+2015,Oklahoma City,12
+2016,Oklahoma City,41
+2017,Oklahoma City,21
+2014,Olathe,12
+2015,Olathe,
+2016,Olathe,3
+2017,Olathe,
+2014,Olympia,7
+2015,Olympia,4
+2016,Olympia,
+2017,Olympia,4
+2014,Omaha,13
+2015,Omaha,16
+2016,Omaha,54
+2017,Omaha,15
+2014,Ontario,
+2015,Ontario,
+2016,Ontario,
+2017,Ontario,5
+2014,Orange,4
+2015,Orange,
+2016,Orange,9
+2017,Orange,4
+2014,Orem,9
+2015,Orem,17
+2016,Orem,4
+2017,Orem,2
+2014,Orland Park,
+2015,Orland Park,5
+2016,Orland Park,
+2017,Orland Park,
+2014,Orlando,9
+2015,Orlando,3
+2016,Orlando,11
+2017,Orlando,16
+2014,Ormond Beach,
+2015,Ormond Beach,
+2016,Ormond Beach,
+2017,Ormond Beach,3
+2014,Oswego,13
+2015,Oswego,
+2016,Oswego,
+2017,Oswego,
+2014,Overland Park,
+2015,Overland Park,
+2016,Overland Park,10
+2017,Overland Park,13
+2014,Owensboro,3
+2015,Owensboro,2
+2016,Owensboro,
+2017,Owensboro,
+2014,Oxnard,3
+2015,Oxnard,14
+2016,Oxnard,9
+2017,Oxnard,5
+2014,Palatine,
+2015,Palatine,
+2016,Palatine,
+2017,Palatine,7
+2014,Palm Coast,10
+2015,Palm Coast,
+2016,Palm Coast,6
+2017,Palm Coast,4
+2014,Park Ridge,
+2015,Park Ridge,7
+2016,Park Ridge,1
+2017,Park Ridge,9
+2014,Parker,
+2015,Parker,
+2016,Parker,10
+2017,Parker,14
+2014,Parma,4
+2015,Parma,
+2016,Parma,28
+2017,Parma,8
+2014,Pasadena,11
+2015,Pasadena,10
+2016,Pasadena,64
+2017,Pasadena,71
+2014,Pasco,21
+2015,Pasco,
+2016,Pasco,
+2017,Pasco,6
+2014,Passaic,
+2015,Passaic,
+2016,Passaic,24
+2017,Passaic,
+2014,Paterson,
+2015,Paterson,29
+2016,Paterson,12
+2017,Paterson,21
+2014,Pearland,
+2015,Pearland,
+2016,Pearland,
+2017,Pearland,13
+2014,Pembroke Pines,
+2015,Pembroke Pines,6
+2016,Pembroke Pines,11
+2017,Pembroke Pines,30
+2014,Pensacola,
+2015,Pensacola,
+2016,Pensacola,3
+2017,Pensacola,
+2014,Peoria,3
+2015,Peoria,40
+2016,Peoria,5
+2017,Peoria,32
+2014,Perth Amboy,
+2015,Perth Amboy,7
+2016,Perth Amboy,8
+2017,Perth Amboy,7
+2014,Pharr,
+2015,Pharr,
+2016,Pharr,18
+2017,Pharr,4
+2014,Philadelphia,403
+2015,Philadelphia,436
+2016,Philadelphia,477
+2017,Philadelphia,665
+2014,Phoenix,39
+2015,Phoenix,59
+2016,Phoenix,55
+2017,Phoenix,71
+2014,Pico Rivera,
+2015,Pico Rivera,
+2016,Pico Rivera,
+2017,Pico Rivera,5
+2014,Pine Bluff,
+2015,Pine Bluff,
+2016,Pine Bluff,
+2017,Pine Bluff,7
+2014,Plainfield,3
+2015,Plainfield,
+2016,Plainfield,20
+2017,Plainfield,26
+2014,Plano,27
+2015,Plano,
+2016,Plano,2
+2017,Plano,19
+2014,Plantation,
+2015,Plantation,45
+2016,Plantation,
+2017,Plantation,
+2014,Pleasant Grove,27
+2015,Pleasant Grove,3
+2016,Pleasant Grove,
+2017,Pleasant Grove,
+2014,Pocatello,
+2015,Pocatello,7
+2016,Pocatello,6
+2017,Pocatello,12
+2014,Pomona,7
+2015,Pomona,10
+2016,Pomona,
+2017,Pomona,17
+2014,Pompano Beach,
+2015,Pompano Beach,
+2016,Pompano Beach,
+2017,Pompano Beach,12
+2014,Port Arthur,1
+2015,Port Arthur,5
+2016,Port Arthur,6
+2017,Port Arthur,
+2014,Port Orange,
+2015,Port Orange,
+2016,Port Orange,
+2017,Port Orange,1
+2014,Port Saint Lucie,
+2015,Port Saint Lucie,5
+2016,Port Saint Lucie,2
+2017,Port Saint Lucie,4
+2014,Portage,2
+2015,Portage,
+2016,Portage,
+2017,Portage,
+2014,Portland,17
+2015,Portland,30
+2016,Portland,23
+2017,Portland,22
+2014,Providence,19
+2015,Providence,17
+2016,Providence,57
+2017,Providence,25
+2014,Provo,7
+2015,Provo,5
+2016,Provo,5
+2017,Provo,21
+2014,Pueblo,9
+2015,Pueblo,14
+2016,Pueblo,19
+2017,Pueblo,
+2014,Quincy,
+2015,Quincy,19
+2016,Quincy,31
+2017,Quincy,34
+2014,Raleigh,5
+2015,Raleigh,23
+2016,Raleigh,33
+2017,Raleigh,16
+2014,Rancho Cucamonga,3
+2015,Rancho Cucamonga,2
+2016,Rancho Cucamonga,
+2017,Rancho Cucamonga,9
+2014,Rapid City,4
+2015,Rapid City,
+2016,Rapid City,
+2017,Rapid City,
+2014,Reading,6
+2015,Reading,2
+2016,Reading,5
+2017,Reading,3
+2014,Redding,3
+2015,Redding,
+2016,Redding,
+2017,Redding,
+2014,Redlands,
+2015,Redlands,45
+2016,Redlands,16
+2017,Redlands,
+2014,Redmond,
+2015,Redmond,15
+2016,Redmond,19
+2017,Redmond,18
+2014,Redondo Beach,29
+2015,Redondo Beach,
+2016,Redondo Beach,6
+2017,Redondo Beach,
+2014,Redwood City,
+2015,Redwood City,
+2016,Redwood City,6
+2017,Redwood City,
+2014,Reno,8
+2015,Reno,
+2016,Reno,9
+2017,Reno,
+2014,Renton,
+2015,Renton,
+2016,Renton,
+2017,Renton,14
+2014,Revere,6
+2015,Revere,18
+2016,Revere,
+2017,Revere,
+2014,Richardson,
+2015,Richardson,
+2016,Richardson,12
+2017,Richardson,
+2014,Richmond,92
+2015,Richmond,49
+2016,Richmond,44
+2017,Richmond,151
+2014,Rio Rancho,
+2015,Rio Rancho,7
+2016,Rio Rancho,
+2017,Rio Rancho,
+2014,Riverside,11
+2015,Riverside,8
+2016,Riverside,18
+2017,Riverside,3
+2014,Rochester,12
+2015,Rochester,58
+2016,Rochester,26
+2017,Rochester,74
+2014,Rochester Hills,
+2015,Rochester Hills,
+2016,Rochester Hills,
+2017,Rochester Hills,4
+2014,Rock Hill,3
+2015,Rock Hill,
+2016,Rock Hill,
+2017,Rock Hill,
+2014,Rockford,
+2015,Rockford,7
+2016,Rockford,21
+2017,Rockford,36
+2014,Rockville,
+2015,Rockville,4
+2016,Rockville,7
+2017,Rockville,
+2014,Rogers,
+2015,Rogers,
+2016,Rogers,
+2017,Rogers,9
+2014,Rome,
+2015,Rome,1
+2016,Rome,10
+2017,Rome,11
+2014,Romeoville,2
+2015,Romeoville,
+2016,Romeoville,
+2017,Romeoville,
+2014,Roseville,3
+2015,Roseville,17
+2016,Roseville,61
+2017,Roseville,15
+2014,Roswell,12
+2015,Roswell,29
+2016,Roswell,
+2017,Roswell,23
+2014,Round Rock,
+2015,Round Rock,
+2016,Round Rock,14
+2017,Round Rock,9
+2014,Royal Oak,2
+2015,Royal Oak,2
+2016,Royal Oak,
+2017,Royal Oak,
+2014,Sacramento,6
+2015,Sacramento,5
+2016,Sacramento,12
+2017,Sacramento,13
+2014,Saginaw,
+2015,Saginaw,
+2016,Saginaw,
+2017,Saginaw,24
+2014,Saint Charles,5
+2015,Saint Charles,17
+2016,Saint Charles,2
+2017,Saint Charles,9
+2014,Saint Cloud,
+2015,Saint Cloud,
+2016,Saint Cloud,
+2017,Saint Cloud,13
+2014,Saint Louis,11
+2015,Saint Louis,3
+2016,Saint Louis,
+2017,Saint Louis,12
+2014,Saint Paul,
+2015,Saint Paul,
+2016,Saint Paul,11
+2017,Saint Paul,
+2014,Saint Peters,
+2015,Saint Peters,
+2016,Saint Peters,4
+2017,Saint Peters,
+2014,Saint Petersburg,16
+2015,Saint Petersburg,35
+2016,Saint Petersburg,
+2017,Saint Petersburg,2
+2014,Salem,56
+2015,Salem,6
+2016,Salem,48
+2017,Salem,40
+2014,Salinas,
+2015,Salinas,26
+2016,Salinas,8
+2017,Salinas,5
+2014,Salt Lake City,3
+2015,Salt Lake City,
+2016,Salt Lake City,24
+2017,Salt Lake City,15
+2014,San Angelo,
+2015,San Angelo,
+2016,San Angelo,11
+2017,San Angelo,2
+2014,San Antonio,86
+2015,San Antonio,77
+2016,San Antonio,46
+2017,San Antonio,38
+2014,San Bernardino,
+2015,San Bernardino,33
+2016,San Bernardino,
+2017,San Bernardino,
+2014,San Clemente,
+2015,San Clemente,
+2016,San Clemente,10
+2017,San Clemente,
+2014,San Diego,162
+2015,San Diego,222
+2016,San Diego,149
+2017,San Diego,137
+2014,San Francisco,489
+2015,San Francisco,256
+2016,San Francisco,419
+2017,San Francisco,771
+2014,San Gabriel,13
+2015,San Gabriel,
+2016,San Gabriel,
+2017,San Gabriel,
+2014,San Jose,28
+2015,San Jose,25
+2016,San Jose,63
+2017,San Jose,43
+2014,San Luis Obispo,
+2015,San Luis Obispo,
+2016,San Luis Obispo,2
+2017,San Luis Obispo,
+2014,San Marcos,12
+2015,San Marcos,
+2016,San Marcos,
+2017,San Marcos,
+2014,San Mateo,
+2015,San Mateo,
+2016,San Mateo,
+2017,San Mateo,6
+2014,Sandy Springs,4
+2015,Sandy Springs,
+2016,Sandy Springs,10
+2017,Sandy Springs,33
+2014,Sanford,
+2015,Sanford,
+2016,Sanford,
+2017,Sanford,9
+2014,Santa Ana,
+2015,Santa Ana,2
+2016,Santa Ana,31
+2017,Santa Ana,22
+2014,Santa Barbara,
+2015,Santa Barbara,8
+2016,Santa Barbara,14
+2017,Santa Barbara,8
+2014,Santa Clara,11
+2015,Santa Clara,
+2016,Santa Clara,10
+2017,Santa Clara,2
+2014,Santa Fe,9
+2015,Santa Fe,5
+2016,Santa Fe,
+2017,Santa Fe,
+2014,Santa Maria,
+2015,Santa Maria,3
+2016,Santa Maria,
+2017,Santa Maria,
+2014,Scottsdale,27
+2015,Scottsdale,6
+2016,Scottsdale,15
+2017,Scottsdale,7
+2014,Seattle,291
+2015,Seattle,246
+2016,Seattle,371
+2017,Seattle,682
+2014,Sheboygan,
+2015,Sheboygan,
+2016,Sheboygan,10
+2017,Sheboygan,
+2014,Shelton,
+2015,Shelton,
+2016,Shelton,5
+2017,Shelton,
+2014,Sierra Vista,
+2015,Sierra Vista,
+2016,Sierra Vista,9
+2017,Sierra Vista,
+2014,Sioux Falls,6
+2015,Sioux Falls,
+2016,Sioux Falls,
+2017,Sioux Falls,29
+2014,Skokie,12
+2015,Skokie,
+2016,Skokie,
+2017,Skokie,32
+2014,Smyrna,1
+2015,Smyrna,18
+2016,Smyrna,59
+2017,Smyrna,8
+2014,South Bend,
+2015,South Bend,25
+2016,South Bend,
+2017,South Bend,
+2014,Southaven,10
+2015,Southaven,
+2016,Southaven,
+2017,Southaven,15
+2014,Sparks,
+2015,Sparks,4
+2016,Sparks,15
+2017,Sparks,
+2014,Spokane,
+2015,Spokane,14
+2016,Spokane,3
+2017,Spokane,19
+2014,Springdale,
+2015,Springdale,
+2016,Springdale,
+2017,Springdale,2
+2014,Springfield,106
+2015,Springfield,128
+2016,Springfield,218
+2017,Springfield,197
+2014,Sterling Heights,
+2015,Sterling Heights,9
+2016,Sterling Heights,2
+2017,Sterling Heights,
+2014,Stockton,
+2015,Stockton,
+2016,Stockton,19
+2017,Stockton,15
+2014,Suffolk,
+2015,Suffolk,10
+2016,Suffolk,14
+2017,Suffolk,8
+2014,Summerville,
+2015,Summerville,
+2016,Summerville,
+2017,Summerville,10
+2014,Sunnyvale,
+2015,Sunnyvale,
+2016,Sunnyvale,
+2017,Sunnyvale,23
+2014,Superior,
+2015,Superior,4
+2016,Superior,33
+2017,Superior,
+2014,Tallahassee,
+2015,Tallahassee,3
+2016,Tallahassee,40
+2017,Tallahassee,46
+2014,Tamarac,
+2015,Tamarac,1
+2016,Tamarac,14
+2017,Tamarac,
+2014,Tampa,48
+2015,Tampa,18
+2016,Tampa,18
+2017,Tampa,21
+2014,Taylor,3
+2015,Taylor,2
+2016,Taylor,2
+2017,Taylor,
+2014,Temecula,
+2015,Temecula,14
+2016,Temecula,
+2017,Temecula,
+2014,Tempe,23
+2015,Tempe,3
+2016,Tempe,5
+2017,Tempe,10
+2014,Texarkana,6
+2015,Texarkana,
+2016,Texarkana,
+2017,Texarkana,5
+2014,Texas City,2
+2015,Texas City,5
+2016,Texas City,
+2017,Texas City,
+2014,The Colony,
+2015,The Colony,
+2016,The Colony,14
+2017,The Colony,
+2014,Thomasville,
+2015,Thomasville,
+2016,Thomasville,12
+2017,Thomasville,
+2014,Thornton,7
+2015,Thornton,2
+2016,Thornton,
+2017,Thornton,38
+2014,Thousand Oaks,
+2015,Thousand Oaks,7
+2016,Thousand Oaks,
+2017,Thousand Oaks,13
+2014,Tigard,12
+2015,Tigard,
+2016,Tigard,10
+2017,Tigard,4
+2014,Tinley Park,
+2015,Tinley Park,7
+2016,Tinley Park,
+2017,Tinley Park,
+2014,Toledo,12
+2015,Toledo,48
+2016,Toledo,23
+2017,Toledo,39
+2014,Torrance,
+2015,Torrance,
+2016,Torrance,6
+2017,Torrance,10
+2014,Trenton,15
+2015,Trenton,
+2016,Trenton,15
+2017,Trenton,24
+2014,Troy,11
+2015,Troy,22
+2016,Troy,52
+2017,Troy,27
+2014,Tucson,51
+2015,Tucson,36
+2016,Tucson,22
+2017,Tucson,36
+2014,Tulsa,28
+2015,Tulsa,3
+2016,Tulsa,52
+2017,Tulsa,24
+2014,Tuscaloosa,
+2015,Tuscaloosa,
+2016,Tuscaloosa,
+2017,Tuscaloosa,9
+2014,Twin Falls,
+2015,Twin Falls,
+2016,Twin Falls,7
+2017,Twin Falls,
+2014,Tyler,4
+2015,Tyler,
+2016,Tyler,
+2017,Tyler,12
+2014,Urbandale,
+2015,Urbandale,
+2016,Urbandale,8
+2017,Urbandale,4
+2014,Utica,24
+2015,Utica,1
+2016,Utica,2
+2017,Utica,6
+2014,Vacaville,11
+2015,Vacaville,
+2016,Vacaville,
+2017,Vacaville,
+2014,Vallejo,13
+2015,Vallejo,
+2016,Vallejo,9
+2017,Vallejo,
+2014,Vancouver,
+2015,Vancouver,
+2016,Vancouver,13
+2017,Vancouver,2
+2014,Vineland,
+2015,Vineland,4
+2016,Vineland,6
+2017,Vineland,14
+2014,Virginia Beach,28
+2015,Virginia Beach,3
+2016,Virginia Beach,14
+2017,Virginia Beach,17
+2014,Visalia,
+2015,Visalia,8
+2016,Visalia,12
+2017,Visalia,
+2014,Waco,
+2015,Waco,
+2016,Waco,2
+2017,Waco,15
+2014,Warner Robins,
+2015,Warner Robins,3
+2016,Warner Robins,7
+2017,Warner Robins,
+2014,Warwick,
+2015,Warwick,
+2016,Warwick,6
+2017,Warwick,8
+2014,Washington,
+2015,Washington,14
+2016,Washington,18
+2017,Washington,8
+2014,Waterbury,
+2015,Waterbury,
+2016,Waterbury,21
+2017,Waterbury,12
+2014,Waterloo,
+2015,Waterloo,
+2016,Waterloo,
+2017,Waterloo,4
+2014,Watertown,12
+2015,Watertown,
+2016,Watertown,7
+2017,Watertown,16
+2014,Waukesha,
+2015,Waukesha,
+2016,Waukesha,5
+2017,Waukesha,
+2014,Wausau,14
+2015,Wausau,
+2016,Wausau,
+2017,Wausau,
+2014,Waynesboro,5
+2015,Waynesboro,19
+2016,Waynesboro,8
+2017,Waynesboro,
+2014,West Allis,
+2015,West Allis,
+2016,West Allis,5
+2017,West Allis,
+2014,West Jordan,2
+2015,West Jordan,14
+2016,West Jordan,
+2017,West Jordan,
+2014,West Palm Beach,
+2015,West Palm Beach,7
+2016,West Palm Beach,4
+2017,West Palm Beach,
+2014,Westfield,
+2015,Westfield,
+2016,Westfield,10
+2017,Westfield,6
+2014,Westland,30
+2015,Westland,
+2016,Westland,16
+2017,Westland,
+2014,Westminster,
+2015,Westminster,
+2016,Westminster,
+2017,Westminster,50
+2014,Wheeling,
+2015,Wheeling,
+2016,Wheeling,5
+2017,Wheeling,22
+2014,Whittier,
+2015,Whittier,
+2016,Whittier,
+2017,Whittier,4
+2014,Wichita,
+2015,Wichita,5
+2016,Wichita,16
+2017,Wichita,5
+2014,Wilmington,41
+2015,Wilmington,58
+2016,Wilmington,31
+2017,Wilmington,27
+2014,Wilson,
+2015,Wilson,13
+2016,Wilson,7
+2017,Wilson,
+2014,Woodbury,
+2015,Woodbury,8
+2016,Woodbury,3
+2017,Woodbury,
+2014,Woodland,
+2015,Woodland,
+2016,Woodland,2
+2017,Woodland,5
+2014,Woodstock,21
+2015,Woodstock,
+2016,Woodstock,8
+2017,Woodstock,2
+2014,Woonsocket,2
+2015,Woonsocket,3
+2016,Woonsocket,
+2017,Woonsocket,10
+2014,Yonkers,22
+2015,Yonkers,
+2016,Yonkers,18
+2017,Yonkers,17
+2014,York,
+2015,York,
+2016,York,13
+2017,York,6
+2014,Yucaipa,
+2015,Yucaipa,5
+2016,Yucaipa,
+2017,Yucaipa,
+2014,Yuma,
+2015,Yuma,
+2016,Yuma,17
+2017,Yuma,5
