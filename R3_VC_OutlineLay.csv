@@ -1,0 +1,197 @@
+Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.State,CountNonNull(Orders.Row ID),Sum(Orders.Sales)
+Qtr 1,Alabama,6,574.86
+Qtr 2,Alabama,19,4175.239999999999
+Qtr 3,Alabama,14,4186.209999999999
+Qtr 4,Alabama,22,10574.330000000002
+Qtr 1,Arizona,19,2241.0800000000004
+Qtr 2,Arizona,53,7074.578000000002
+Qtr 3,Arizona,66,10838.273
+Qtr 4,Arizona,86,15128.070000000002
+Qtr 1,Arkansas,8,1929.8
+Qtr 2,Arkansas,18,2105.88
+Qtr 3,Arkansas,11,4096.91
+Qtr 4,Arkansas,23,3545.54
+Qtr 1,California,267,68123.66399999998
+Qtr 2,California,393,93839.28699999997
+Qtr 3,California,550,128336.58149999996
+Qtr 4,California,791,167388.09899999984
+Qtr 1,Colorado,11,2666.4159999999997
+Qtr 2,Colorado,33,7883.3949999999995
+Qtr 3,Colorado,54,6770.4439999999995
+Qtr 4,Colorado,84,14787.863
+Qtr 1,Connecticut,13,1831.647
+Qtr 2,Connecticut,23,3100.7200000000007
+Qtr 3,Connecticut,26,3860.26
+Qtr 4,Connecticut,20,4591.729999999998
+Qtr 1,Delaware,21,4840.729999999999
+Qtr 2,Delaware,16,1577.5600000000002
+Qtr 3,Delaware,23,3492.979000000001
+Qtr 4,Delaware,36,17539.79999999999
+Qtr 1,District of Columbia,2,77.75999999999999
+Qtr 2,District of Columbia,7,2753.3399999999992
+Qtr 3,District of Columbia,,
+Qtr 4,District of Columbia,1,33.92
+Qtr 1,Florida,55,30985.667999999998
+Qtr 2,Florida,106,19848.266
+Qtr 3,Florida,86,15252.469999999996
+Qtr 4,Florida,136,23387.303999999993
+Qtr 1,Georgia,40,20604.490000000005
+Qtr 2,Georgia,48,14577.65
+Qtr 3,Georgia,65,7927.759999999996
+Qtr 4,Georgia,31,5985.939999999999
+Qtr 1,Idaho,2,34.68
+Qtr 2,Idaho,6,1319.846
+Qtr 3,Idaho,4,1242.08
+Qtr 4,Idaho,9,1785.8799999999999
+Qtr 1,Illinois,74,14264.673000000003
+Qtr 2,Illinois,132,19720.249999999996
+Qtr 3,Illinois,122,23228.996
+Qtr 4,Illinois,164,22952.182
+Qtr 1,Indiana,23,1313.42
+Qtr 2,Indiana,29,9752.139999999998
+Qtr 3,Indiana,29,7557.5099999999975
+Qtr 4,Indiana,68,34932.290000000015
+Qtr 1,Iowa,12,1667.2599999999998
+Qtr 2,Iowa,1,106.32
+Qtr 3,Iowa,7,1774.43
+Qtr 4,Iowa,10,1031.7499999999998
+Qtr 1,Kansas,4,301.01
+Qtr 2,Kansas,3,168.1
+Qtr 3,Kansas,8,1494.48
+Qtr 4,Kansas,9,950.72
+Qtr 1,Kentucky,21,7517.59
+Qtr 2,Kentucky,26,4784.22
+Qtr 3,Kentucky,26,7215.040000000001
+Qtr 4,Kentucky,66,17074.89999999999
+Qtr 1,Louisiana,7,1329.38
+Qtr 2,Louisiana,15,1003.01
+Qtr 3,Louisiana,10,2151.83
+Qtr 4,Louisiana,10,4732.8099999999995
+Qtr 1,Maine,,
+Qtr 2,Maine,3,106.08000000000001
+Qtr 3,Maine,5,1164.45
+Qtr 4,Maine,,
+Qtr 1,Maryland,17,6057.521000000001
+Qtr 2,Maryland,16,2219.1300000000006
+Qtr 3,Maryland,40,8047.63
+Qtr 4,Maryland,32,7381.242
+Qtr 1,Massachusetts,12,681.3100000000001
+Qtr 2,Massachusetts,18,3764.866
+Qtr 3,Massachusetts,50,11942.149000000001
+Qtr 4,Massachusetts,55,12246.109000000006
+Qtr 1,Michigan,28,12823.115
+Qtr 2,Michigan,54,19029.902
+Qtr 3,Michigan,60,11968.194999999996
+Qtr 4,Michigan,113,32448.401999999984
+Qtr 1,Minnesota,18,1080.5100000000002
+Qtr 2,Minnesota,18,8746.080000000002
+Qtr 3,Minnesota,24,13355.37
+Qtr 4,Minnesota,29,6681.1900000000005
+Qtr 1,Mississippi,14,1690.18
+Qtr 2,Mississippi,11,2284.34
+Qtr 3,Mississippi,15,5257.4400000000005
+Qtr 4,Mississippi,13,1539.38
+Qtr 1,Missouri,11,5851.759999999999
+Qtr 2,Missouri,9,1148.02
+Qtr 3,Missouri,25,4713.4800000000005
+Qtr 4,Missouri,21,10491.889999999998
+Qtr 1,Montana,6,4233.04
+Qtr 2,Montana,3,410.104
+Qtr 3,Montana,3,54.284000000000006
+Qtr 4,Montana,3,891.9240000000001
+Qtr 1,Nebraska,2,178.37
+Qtr 2,Nebraska,6,413.98
+Qtr 3,Nebraska,16,2575.34
+Qtr 4,Nebraska,14,4297.24
+Qtr 1,Nevada,3,113.22
+Qtr 2,Nevada,11,5691.166
+Qtr 3,Nevada,6,2023.1000000000001
+Qtr 4,Nevada,19,8901.616000000002
+Qtr 1,New Hampshire,7,1608.87
+Qtr 2,New Hampshire,4,459.1
+Qtr 3,New Hampshire,8,1358.54
+Qtr 4,New Hampshire,8,3866.014
+Qtr 1,New Jersey,14,1431.366
+Qtr 2,New Jersey,35,16478.475999999995
+Qtr 3,New Jersey,34,5258.83
+Qtr 4,New Jersey,47,12595.640000000001
+Qtr 1,New Mexico,7,1131.5819999999999
+Qtr 2,New Mexico,4,241.16
+Qtr 3,New Mexico,6,785.37
+Qtr 4,New Mexico,20,2625.41
+Qtr 1,New York,132,26954.150999999998
+Qtr 2,New York,243,53161.756000000016
+Qtr 3,New York,328,89193.51
+Qtr 4,New York,425,141566.85400000002
+Qtr 1,North Carolina,34,11187.282
+Qtr 2,North Carolina,45,6305.955000000001
+Qtr 3,North Carolina,67,11881.646
+Qtr 4,North Carolina,103,26228.280999999995
+Qtr 1,North Dakota,,
+Qtr 2,North Dakota,5,891.53
+Qtr 3,North Dakota,,
+Qtr 4,North Dakota,2,28.38
+Qtr 1,Ohio,67,8683.872000000001
+Qtr 2,Ohio,98,13722.735999999999
+Qtr 3,Ohio,116,15792.455999999998
+Qtr 4,Ohio,188,40059.072
+Qtr 1,Oklahoma,8,5113.52
+Qtr 2,Oklahoma,5,1017.31
+Qtr 3,Oklahoma,24,4172.61
+Qtr 4,Oklahoma,29,9379.949999999997
+Qtr 1,Oregon,9,685.717
+Qtr 2,Oregon,12,1023.5120000000002
+Qtr 3,Oregon,35,5687.447000000001
+Qtr 4,Oregon,68,10034.474000000004
+Qtr 1,Pennsylvania,68,11475.115999999996
+Qtr 2,Pennsylvania,141,27849.656
+Qtr 3,Pennsylvania,204,44182.224999999984
+Qtr 4,Pennsylvania,174,33004.917
+Qtr 1,Rhode Island,2,599.8999999999999
+Qtr 2,Rhode Island,7,420.88
+Qtr 3,Rhode Island,15,3475.810000000001
+Qtr 4,Rhode Island,32,18131.365999999998
+Qtr 1,South Carolina,4,960.3199999999998
+Qtr 2,South Carolina,6,1561.3999999999999
+Qtr 3,South Carolina,23,4960.22
+Qtr 4,South Carolina,9,999.77
+Qtr 1,South Dakota,2,152.64000000000001
+Qtr 2,South Dakota,,
+Qtr 3,South Dakota,9,1137.4199999999998
+Qtr 4,South Dakota,1,25.5
+Qtr 1,Tennessee,18,2439.1279999999997
+Qtr 2,Tennessee,43,7944.169000000001
+Qtr 3,Tennessee,50,6707.243000000001
+Qtr 4,Tennessee,72,13571.332999999997
+Qtr 1,Texas,154,30086.013799999986
+Qtr 2,Texas,220,30835.241599999998
+Qtr 3,Texas,252,57403.5052
+Qtr 4,Texas,359,51863.285199999926
+Qtr 1,Utah,7,309.196
+Qtr 2,Utah,8,1987.6979999999999
+Qtr 3,Utah,26,8228.151999999996
+Qtr 4,Utah,12,695.01
+Qtr 1,Vermont,7,2309.4900000000002
+Qtr 2,Vermont,1,1294.75
+Qtr 3,Vermont,,
+Qtr 4,Vermont,3,5325.129999999999
+Qtr 1,Virginia,46,19063.829999999998
+Qtr 2,Virginia,63,21895.42
+Qtr 3,Virginia,50,13393.829999999998
+Qtr 4,Virginia,65,16283.639999999996
+Qtr 1,Washington,75,34197.918
+Qtr 2,Washington,84,17023.299999999996
+Qtr 3,Washington,174,44660.77999999997
+Qtr 4,Washington,173,42759.27199999998
+Qtr 1,West Virginia,,
+Qtr 2,West Virginia,3,536.48
+Qtr 3,West Virginia,,
+Qtr 4,West Virginia,1,673.3439999999999
+Qtr 1,Wisconsin,20,8278.509999999998
+Qtr 2,Wisconsin,16,3255.62
+Qtr 3,Wisconsin,33,5124.820000000002
+Qtr 4,Wisconsin,41,15455.659999999994
+Qtr 1,Wyoming,,
+Qtr 2,Wyoming,,
+Qtr 3,Wyoming,,
+Qtr 4,Wyoming,1,1603.1360000000002
