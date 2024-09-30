@@ -1407,6 +1407,6 @@
     ],
     "rows": [{ "id": "15000.County", "label": "County" }]
   },
-  "currentVersion": "v3.5.0.0",
-  "visualId": { "visualId": "OMLCIGOKPCNKCAE", "visualTemplateGuid": "HEIFNHJOLBIFLKB", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" }
+  "visual": { "visualId": "OMLCIGOKPCNKCAE", "visualTemplateGuid": "HEIFNHJOLBIFLKB", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" },
+  "currentVersion": "v3.5.0.0"
 }
