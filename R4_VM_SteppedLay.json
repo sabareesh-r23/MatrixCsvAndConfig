@@ -986,7 +986,7 @@
     "scaleDelta": { "height": 0, "width": 0, "scale": 1 },
     "hideRowChildren": [],
     "hideExpandLevel": {},
-    "commentSettings": { "rowLevelComments": true, "expandRowLevelComments": false, "rollUpComments": true },
+    "commentSettings": { "rowLevelComments": false, "expandRowLevelComments": false, "rollUpComments": true },
     "rulerMeta": { "width": 20, "showNumbers": false },
     "commonRunTimeProps": { "showBrokenImage": false },
     "hideHeader": { "hierarchyHeader": false, "separator": " - " },
@@ -1091,8 +1091,7 @@
           "dimensionHash": "1514e1ac3dfa652ba42ecffcec8acb90",
           "measures": [
             { "id": "Sum__15000__Pack__U3VtKDE1MDAwLlBhY2sp", "name": "Sum of Pack", "dataType": "NUMERIC" },
-            { "name": "Notes", "dataType": "TEXT" },
-            { "name": "Comments", "dataType": "TEXT" }
+            { "name": "Notes", "dataType": "TEXT" }
           ],
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
