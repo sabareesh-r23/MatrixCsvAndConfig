@@ -1262,9 +1262,9 @@
         "meta": {
           "isMultiSelect": true,
           "options": [
-            { "displayName": "Option 1", "value": "custom_select_7geAmlc0", "color": "#9CD740", "icon": "circle-fill", "order": 1 },
-            { "displayName": "Option 2", "value": "custom_select_nvO4gLXW", "color": "#FF8A00", "icon": "circle-fill", "order": 2 },
-            { "displayName": "Option 3", "value": "custom_select_e8JJyD12", "color": "#FF000A", "icon": "circle-fill", "order": 3 }
+            { "displayName": "Option 1", "value": "custom_select_72kMFpO2", "color": "#9CD740", "icon": "circle-fill", "order": 1 },
+            { "displayName": "Option 2", "value": "custom_select_r9EwWUKT", "color": "#FF8A00", "icon": "circle-fill", "order": 2 },
+            { "displayName": "Option 3", "value": "custom_select_gb8Ux1kK", "color": "#FF000A", "icon": "circle-fill", "order": 3 }
           ],
           "position": "left",
           "shouldAddNewOptions": false,
@@ -1470,7 +1470,7 @@
       "createdBy": "91",
       "createdAt": 1727680973,
       "updatedBy": "55",
-      "updatedAt": 1727682958,
+      "updatedAt": 1728027579,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
@@ -1611,7 +1611,8 @@
     "localizationVariables": {},
     "hideRepeatingRows": false,
     "adjustments": { "enableAdjustments": true },
-    "forecastTimeFilter": { "isFilterActive": false, "startDate": null, "endDate": null }
+    "forecastTimeFilter": { "isFilterActive": false, "startDate": null, "endDate": null },
+    "groupExpandCollapseIcon": false
   },
   "csvOptions": {
     "rows": ["15000.County"],
