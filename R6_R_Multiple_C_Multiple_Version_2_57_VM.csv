@@ -1,205 +1,273 @@
-Orders.Segment,Orders.Ship Mode,Orders.Category,Orders.Sub-Category,Sum(Orders.Quantity)
-Consumer,First Class,Office Supplies,Binders,427
-Consumer,Same Day,Office Supplies,Binders,160
-Consumer,Second Class,Office Supplies,Binders,539
-Consumer,Standard Class,Office Supplies,Binders,1889
-Corporate,First Class,Office Supplies,Binders,313
-Corporate,Same Day,Office Supplies,Binders,49
-Corporate,Second Class,Office Supplies,Binders,342
-Corporate,Standard Class,Office Supplies,Binders,1144
-Home Office,First Class,Office Supplies,Binders,178
-Home Office,Same Day,Office Supplies,Binders,49
-Home Office,Second Class,Office Supplies,Binders,140
-Home Office,Standard Class,Office Supplies,Binders,744
-Consumer,First Class,Office Supplies,Paper,361
-Consumer,Same Day,Office Supplies,Paper,152
-Consumer,Second Class,Office Supplies,Paper,587
-Consumer,Standard Class,Office Supplies,Paper,1502
-Corporate,First Class,Office Supplies,Paper,287
-Corporate,Same Day,Office Supplies,Paper,35
-Corporate,Second Class,Office Supplies,Paper,290
-Corporate,Standard Class,Office Supplies,Paper,943
-Home Office,First Class,Office Supplies,Paper,137
-Home Office,Same Day,Office Supplies,Paper,100
-Home Office,Second Class,Office Supplies,Paper,245
-Home Office,Standard Class,Office Supplies,Paper,539
-Consumer,First Class,Office Supplies,Storage,209
-Consumer,Same Day,Office Supplies,Storage,104
-Consumer,Second Class,Office Supplies,Storage,342
-Consumer,Standard Class,Office Supplies,Storage,964
-Corporate,First Class,Office Supplies,Storage,156
-Corporate,Same Day,Office Supplies,Storage,57
-Corporate,Second Class,Office Supplies,Storage,233
-Corporate,Standard Class,Office Supplies,Storage,554
-Home Office,First Class,Office Supplies,Storage,93
-Home Office,Same Day,Office Supplies,Storage,18
-Home Office,Second Class,Office Supplies,Storage,95
-Home Office,Standard Class,Office Supplies,Storage,333
-Consumer,First Class,Office Supplies,Art,217
-Consumer,Same Day,Office Supplies,Art,79
-Consumer,Second Class,Office Supplies,Art,324
-Consumer,Standard Class,Office Supplies,Art,1005
-Corporate,First Class,Office Supplies,Art,96
-Corporate,Same Day,Office Supplies,Art,27
-Corporate,Second Class,Office Supplies,Art,177
-Corporate,Standard Class,Office Supplies,Art,550
-Home Office,First Class,Office Supplies,Art,101
-Home Office,Same Day,Office Supplies,Art,27
-Home Office,Second Class,Office Supplies,Art,84
-Home Office,Standard Class,Office Supplies,Art,313
-Consumer,First Class,Office Supplies,Appliances,153
-Consumer,Same Day,Office Supplies,Appliances,41
-Consumer,Second Class,Office Supplies,Appliances,152
-Consumer,Standard Class,Office Supplies,Appliances,562
-Corporate,First Class,Office Supplies,Appliances,91
-Corporate,Same Day,Office Supplies,Appliances,25
-Corporate,Second Class,Office Supplies,Appliances,125
-Corporate,Standard Class,Office Supplies,Appliances,328
-Home Office,First Class,Office Supplies,Appliances,9
-Home Office,Same Day,Office Supplies,Appliances,11
-Home Office,Second Class,Office Supplies,Appliances,47
-Home Office,Standard Class,Office Supplies,Appliances,185
-Consumer,First Class,Office Supplies,Labels,133
-Consumer,Same Day,Office Supplies,Labels,41
-Consumer,Second Class,Office Supplies,Labels,124
-Consumer,Standard Class,Office Supplies,Labels,417
-Corporate,First Class,Office Supplies,Labels,69
-Corporate,Same Day,Office Supplies,Labels,10
-Corporate,Second Class,Office Supplies,Labels,105
-Corporate,Standard Class,Office Supplies,Labels,214
-Home Office,First Class,Office Supplies,Labels,48
-Home Office,Same Day,Office Supplies,Labels,17
-Home Office,Second Class,Office Supplies,Labels,23
-Home Office,Standard Class,Office Supplies,Labels,199
-Consumer,First Class,Office Supplies,Fasteners,51
-Consumer,Same Day,Office Supplies,Fasteners,35
-Consumer,Second Class,Office Supplies,Fasteners,85
-Consumer,Standard Class,Office Supplies,Fasteners,302
-Corporate,First Class,Office Supplies,Fasteners,43
-Corporate,Same Day,Office Supplies,Fasteners,10
-Corporate,Second Class,Office Supplies,Fasteners,60
-Corporate,Standard Class,Office Supplies,Fasteners,160
-Home Office,First Class,Office Supplies,Fasteners,12
-Home Office,Same Day,Office Supplies,Fasteners,8
-Home Office,Second Class,Office Supplies,Fasteners,23
-Home Office,Standard Class,Office Supplies,Fasteners,125
-Consumer,First Class,Office Supplies,Envelopes,46
-Consumer,Same Day,Office Supplies,Envelopes,39
-Consumer,Second Class,Office Supplies,Envelopes,89
-Consumer,Standard Class,Office Supplies,Envelopes,268
-Corporate,First Class,Office Supplies,Envelopes,34
-Corporate,Same Day,Office Supplies,Envelopes,10
-Corporate,Second Class,Office Supplies,Envelopes,78
-Corporate,Standard Class,Office Supplies,Envelopes,201
-Home Office,First Class,Office Supplies,Envelopes,34
-Home Office,Same Day,Office Supplies,Envelopes,9
-Home Office,Second Class,Office Supplies,Envelopes,19
-Home Office,Standard Class,Office Supplies,Envelopes,79
-Consumer,First Class,Office Supplies,Supplies,44
-Consumer,Same Day,Office Supplies,Supplies,13
-Consumer,Second Class,Office Supplies,Supplies,66
-Consumer,Standard Class,Office Supplies,Supplies,236
-Corporate,First Class,Office Supplies,Supplies,21
-Corporate,Same Day,Office Supplies,Supplies,14
-Corporate,Second Class,Office Supplies,Supplies,74
-Corporate,Standard Class,Office Supplies,Supplies,93
-Home Office,First Class,Office Supplies,Supplies,9
-Home Office,Same Day,Office Supplies,Supplies,7
-Home Office,Second Class,Office Supplies,Supplies,12
-Home Office,Standard Class,Office Supplies,Supplies,58
-Consumer,First Class,Furniture,Furnishings,287
-Consumer,Same Day,Furniture,Furnishings,122
-Consumer,Second Class,Furniture,Furnishings,350
-Consumer,Standard Class,Furniture,Furnishings,1075
-Corporate,First Class,Furniture,Furnishings,186
-Corporate,Same Day,Furniture,Furnishings,39
-Corporate,Second Class,Furniture,Furnishings,175
-Corporate,Standard Class,Furniture,Furnishings,686
-Home Office,First Class,Furniture,Furnishings,67
-Home Office,Same Day,Furniture,Furnishings,28
-Home Office,Second Class,Furniture,Furnishings,123
-Home Office,Standard Class,Furniture,Furnishings,425
-Consumer,First Class,Furniture,Chairs,157
-Consumer,Same Day,Furniture,Chairs,83
-Consumer,Second Class,Furniture,Chairs,269
-Consumer,Standard Class,Furniture,Chairs,725
-Corporate,First Class,Furniture,Chairs,101
-Corporate,Same Day,Furniture,Chairs,49
-Corporate,Second Class,Furniture,Chairs,141
-Corporate,Standard Class,Furniture,Chairs,428
-Home Office,First Class,Furniture,Chairs,77
-Home Office,Same Day,Furniture,Chairs,28
-Home Office,Second Class,Furniture,Chairs,79
-Home Office,Standard Class,Furniture,Chairs,219
-Consumer,First Class,Furniture,Tables,62
-Consumer,Same Day,Furniture,Tables,44
-Consumer,Second Class,Furniture,Tables,156
-Consumer,Standard Class,Furniture,Tables,340
-Corporate,First Class,Furniture,Tables,51
-Corporate,Same Day,Furniture,Tables,35
-Corporate,Second Class,Furniture,Tables,46
-Corporate,Standard Class,Furniture,Tables,287
-Home Office,First Class,Furniture,Tables,63
-Home Office,Same Day,Furniture,Tables,6
-Home Office,Second Class,Furniture,Tables,55
-Home Office,Standard Class,Furniture,Tables,96
-Consumer,First Class,Furniture,Bookcases,88
-Consumer,Same Day,Furniture,Bookcases,2
-Consumer,Second Class,Furniture,Bookcases,93
-Consumer,Standard Class,Furniture,Bookcases,313
-Corporate,First Class,Furniture,Bookcases,77
-Corporate,Same Day,Furniture,Bookcases,4
-Corporate,Second Class,Furniture,Bookcases,53
-Corporate,Standard Class,Furniture,Bookcases,137
-Home Office,First Class,Furniture,Bookcases,22
-Home Office,Same Day,Furniture,Bookcases,13
-Home Office,Second Class,Furniture,Bookcases,29
-Home Office,Standard Class,Furniture,Bookcases,37
-Consumer,First Class,Technology,Phones,236
-Consumer,Same Day,Technology,Phones,85
-Consumer,Second Class,Technology,Phones,318
-Consumer,Standard Class,Technology,Phones,1046
-Corporate,First Class,Technology,Phones,154
-Corporate,Same Day,Technology,Phones,19
-Corporate,Second Class,Technology,Phones,194
-Corporate,Standard Class,Technology,Phones,636
-Home Office,First Class,Technology,Phones,111
-Home Office,Same Day,Technology,Phones,39
-Home Office,Second Class,Technology,Phones,146
-Home Office,Standard Class,Technology,Phones,305
-Consumer,First Class,Technology,Accessories,256
-Consumer,Same Day,Technology,Accessories,115
-Consumer,Second Class,Technology,Accessories,332
-Consumer,Standard Class,Technology,Accessories,875
-Corporate,First Class,Technology,Accessories,137
-Corporate,Same Day,Technology,Accessories,30
-Corporate,Second Class,Technology,Accessories,193
-Corporate,Standard Class,Technology,Accessories,521
-Home Office,First Class,Technology,Accessories,68
-Home Office,Same Day,Technology,Accessories,21
-Home Office,Second Class,Technology,Accessories,104
-Home Office,Standard Class,Technology,Accessories,324
-Consumer,First Class,Technology,Machines,22
-Consumer,Same Day,Technology,Machines,9
-Consumer,Second Class,Technology,Machines,18
-Consumer,Standard Class,Technology,Machines,168
-Corporate,First Class,Technology,Machines,31
-Corporate,Same Day,Technology,Machines,18
-Corporate,Second Class,Technology,Machines,18
-Corporate,Standard Class,Technology,Machines,74
-Home Office,First Class,Technology,Machines,23
-Home Office,Same Day,Technology,Machines,8
-Home Office,Second Class,Technology,Machines,7
-Home Office,Standard Class,Technology,Machines,44
-Consumer,First Class,Technology,Copiers,16
-Consumer,Same Day,Technology,Copiers,7
-Consumer,Second Class,Technology,Copiers,29
-Consumer,Standard Class,Technology,Copiers,65
-Corporate,First Class,Technology,Copiers,14
-Corporate,Same Day,Technology,Copiers,5
-Corporate,Second Class,Technology,Copiers,13
-Corporate,Standard Class,Technology,Copiers,38
-Home Office,First Class,Technology,Copiers,15
-Home Office,Same Day,Technology,Copiers,4
-Home Office,Second Class,Technology,Copiers,2
-Home Office,Standard Class,Technology,Copiers,26
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Sub-Category,Sum(Orders.Quantity)
+2014,Qtr 1,Furniture,Bookcases,33
+2014,Qtr 2,Furniture,Bookcases,21
+2014,Qtr 3,Furniture,Bookcases,37
+2014,Qtr 4,Furniture,Bookcases,62
+2015,Qtr 1,Furniture,Bookcases,36
+2015,Qtr 2,Furniture,Bookcases,32
+2015,Qtr 3,Furniture,Bookcases,89
+2015,Qtr 4,Furniture,Bookcases,85
+2016,Qtr 1,Furniture,Bookcases,31
+2016,Qtr 2,Furniture,Bookcases,36
+2016,Qtr 3,Furniture,Bookcases,67
+2016,Qtr 4,Furniture,Bookcases,63
+2017,Qtr 1,Furniture,Bookcases,27
+2017,Qtr 2,Furniture,Bookcases,113
+2017,Qtr 3,Furniture,Bookcases,43
+2017,Qtr 4,Furniture,Bookcases,93
+2014,Qtr 1,Furniture,Chairs,75
+2014,Qtr 2,Furniture,Chairs,90
+2014,Qtr 3,Furniture,Chairs,136
+2014,Qtr 4,Furniture,Chairs,239
+2015,Qtr 1,Furniture,Chairs,71
+2015,Qtr 2,Furniture,Chairs,101
+2015,Qtr 3,Furniture,Chairs,133
+2015,Qtr 4,Furniture,Chairs,223
+2016,Qtr 1,Furniture,Chairs,79
+2016,Qtr 2,Furniture,Chairs,128
+2016,Qtr 3,Furniture,Chairs,155
+2016,Qtr 4,Furniture,Chairs,252
+2017,Qtr 1,Furniture,Chairs,67
+2017,Qtr 2,Furniture,Chairs,143
+2017,Qtr 3,Furniture,Chairs,196
+2017,Qtr 4,Furniture,Chairs,268
+2014,Qtr 1,Furniture,Furnishings,79
+2014,Qtr 2,Furniture,Furnishings,112
+2014,Qtr 3,Furniture,Furnishings,192
+2014,Qtr 4,Furniture,Furnishings,277
+2015,Qtr 1,Furniture,Furnishings,98
+2015,Qtr 2,Furniture,Furnishings,188
+2015,Qtr 3,Furniture,Furnishings,188
+2015,Qtr 4,Furniture,Furnishings,296
+2016,Qtr 1,Furniture,Furnishings,172
+2016,Qtr 2,Furniture,Furnishings,217
+2016,Qtr 3,Furniture,Furnishings,251
+2016,Qtr 4,Furniture,Furnishings,396
+2017,Qtr 1,Furniture,Furnishings,131
+2017,Qtr 2,Furniture,Furnishings,225
+2017,Qtr 3,Furniture,Furnishings,295
+2017,Qtr 4,Furniture,Furnishings,446
+2014,Qtr 1,Furniture,Tables,37
+2014,Qtr 2,Furniture,Tables,77
+2014,Qtr 3,Furniture,Tables,64
+2014,Qtr 4,Furniture,Tables,92
+2015,Qtr 1,Furniture,Tables,39
+2015,Qtr 2,Furniture,Tables,24
+2015,Qtr 3,Furniture,Tables,69
+2015,Qtr 4,Furniture,Tables,103
+2016,Qtr 1,Furniture,Tables,50
+2016,Qtr 2,Furniture,Tables,74
+2016,Qtr 3,Furniture,Tables,85
+2016,Qtr 4,Furniture,Tables,137
+2017,Qtr 1,Furniture,Tables,55
+2017,Qtr 2,Furniture,Tables,54
+2017,Qtr 3,Furniture,Tables,78
+2017,Qtr 4,Furniture,Tables,203
+2014,Qtr 1,Office Supplies,Appliances,25
+2014,Qtr 2,Office Supplies,Appliances,66
+2014,Qtr 3,Office Supplies,Appliances,107
+2014,Qtr 4,Office Supplies,Appliances,116
+2015,Qtr 1,Office Supplies,Appliances,48
+2015,Qtr 2,Office Supplies,Appliances,105
+2015,Qtr 3,Office Supplies,Appliances,68
+2015,Qtr 4,Office Supplies,Appliances,144
+2016,Qtr 1,Office Supplies,Appliances,46
+2016,Qtr 2,Office Supplies,Appliances,88
+2016,Qtr 3,Office Supplies,Appliances,120
+2016,Qtr 4,Office Supplies,Appliances,142
+2017,Qtr 1,Office Supplies,Appliances,118
+2017,Qtr 2,Office Supplies,Appliances,120
+2017,Qtr 3,Office Supplies,Appliances,177
+2017,Qtr 4,Office Supplies,Appliances,239
+2014,Qtr 1,Office Supplies,Art,122
+2014,Qtr 2,Office Supplies,Art,192
+2014,Qtr 3,Office Supplies,Art,142
+2014,Qtr 4,Office Supplies,Art,157
+2015,Qtr 1,Office Supplies,Art,65
+2015,Qtr 2,Office Supplies,Art,132
+2015,Qtr 3,Office Supplies,Art,175
+2015,Qtr 4,Office Supplies,Art,236
+2016,Qtr 1,Office Supplies,Art,61
+2016,Qtr 2,Office Supplies,Art,169
+2016,Qtr 3,Office Supplies,Art,202
+2016,Qtr 4,Office Supplies,Art,246
+2017,Qtr 1,Office Supplies,Art,157
+2017,Qtr 2,Office Supplies,Art,254
+2017,Qtr 3,Office Supplies,Art,286
+2017,Qtr 4,Office Supplies,Art,404
+2014,Qtr 1,Office Supplies,Binders,166
+2014,Qtr 2,Office Supplies,Binders,246
+2014,Qtr 3,Office Supplies,Binders,328
+2014,Qtr 4,Office Supplies,Binders,349
+2015,Qtr 1,Office Supplies,Binders,107
+2015,Qtr 2,Office Supplies,Binders,243
+2015,Qtr 3,Office Supplies,Binders,392
+2015,Qtr 4,Office Supplies,Binders,473
+2016,Qtr 1,Office Supplies,Binders,179
+2016,Qtr 2,Office Supplies,Binders,335
+2016,Qtr 3,Office Supplies,Binders,467
+2016,Qtr 4,Office Supplies,Binders,622
+2017,Qtr 1,Office Supplies,Binders,346
+2017,Qtr 2,Office Supplies,Binders,417
+2017,Qtr 3,Office Supplies,Binders,526
+2017,Qtr 4,Office Supplies,Binders,778
+2014,Qtr 1,Office Supplies,Envelopes,23
+2014,Qtr 2,Office Supplies,Envelopes,35
+2014,Qtr 3,Office Supplies,Envelopes,54
+2014,Qtr 4,Office Supplies,Envelopes,94
+2015,Qtr 1,Office Supplies,Envelopes,34
+2015,Qtr 2,Office Supplies,Envelopes,27
+2015,Qtr 3,Office Supplies,Envelopes,60
+2015,Qtr 4,Office Supplies,Envelopes,116
+2016,Qtr 1,Office Supplies,Envelopes,47
+2016,Qtr 2,Office Supplies,Envelopes,50
+2016,Qtr 3,Office Supplies,Envelopes,54
+2016,Qtr 4,Office Supplies,Envelopes,71
+2017,Qtr 1,Office Supplies,Envelopes,40
+2017,Qtr 2,Office Supplies,Envelopes,49
+2017,Qtr 3,Office Supplies,Envelopes,68
+2017,Qtr 4,Office Supplies,Envelopes,84
+2014,Qtr 1,Office Supplies,Fasteners,26
+2014,Qtr 2,Office Supplies,Fasteners,48
+2014,Qtr 3,Office Supplies,Fasteners,72
+2014,Qtr 4,Office Supplies,Fasteners,55
+2015,Qtr 1,Office Supplies,Fasteners,25
+2015,Qtr 2,Office Supplies,Fasteners,36
+2015,Qtr 3,Office Supplies,Fasteners,43
+2015,Qtr 4,Office Supplies,Fasteners,72
+2016,Qtr 1,Office Supplies,Fasteners,31
+2016,Qtr 2,Office Supplies,Fasteners,42
+2016,Qtr 3,Office Supplies,Fasteners,86
+2016,Qtr 4,Office Supplies,Fasteners,129
+2017,Qtr 1,Office Supplies,Fasteners,52
+2017,Qtr 2,Office Supplies,Fasteners,33
+2017,Qtr 3,Office Supplies,Fasteners,61
+2017,Qtr 4,Office Supplies,Fasteners,103
+2014,Qtr 1,Office Supplies,Labels,45
+2014,Qtr 2,Office Supplies,Labels,53
+2014,Qtr 3,Office Supplies,Labels,90
+2014,Qtr 4,Office Supplies,Labels,138
+2015,Qtr 1,Office Supplies,Labels,38
+2015,Qtr 2,Office Supplies,Labels,71
+2015,Qtr 3,Office Supplies,Labels,61
+2015,Qtr 4,Office Supplies,Labels,93
+2016,Qtr 1,Office Supplies,Labels,30
+2016,Qtr 2,Office Supplies,Labels,92
+2016,Qtr 3,Office Supplies,Labels,133
+2016,Qtr 4,Office Supplies,Labels,108
+2017,Qtr 1,Office Supplies,Labels,44
+2017,Qtr 2,Office Supplies,Labels,107
+2017,Qtr 3,Office Supplies,Labels,160
+2017,Qtr 4,Office Supplies,Labels,137
+2014,Qtr 1,Office Supplies,Paper,143
+2014,Qtr 2,Office Supplies,Paper,166
+2014,Qtr 3,Office Supplies,Paper,312
+2014,Qtr 4,Office Supplies,Paper,396
+2015,Qtr 1,Office Supplies,Paper,174
+2015,Qtr 2,Office Supplies,Paper,214
+2015,Qtr 3,Office Supplies,Paper,259
+2015,Qtr 4,Office Supplies,Paper,440
+2016,Qtr 1,Office Supplies,Paper,146
+2016,Qtr 2,Office Supplies,Paper,376
+2016,Qtr 3,Office Supplies,Paper,418
+2016,Qtr 4,Office Supplies,Paper,432
+2017,Qtr 1,Office Supplies,Paper,234
+2017,Qtr 2,Office Supplies,Paper,343
+2017,Qtr 3,Office Supplies,Paper,506
+2017,Qtr 4,Office Supplies,Paper,619
+2014,Qtr 1,Office Supplies,Storage,88
+2014,Qtr 2,Office Supplies,Storage,118
+2014,Qtr 3,Office Supplies,Storage,184
+2014,Qtr 4,Office Supplies,Storage,283
+2015,Qtr 1,Office Supplies,Storage,70
+2015,Qtr 2,Office Supplies,Storage,111
+2015,Qtr 3,Office Supplies,Storage,249
+2015,Qtr 4,Office Supplies,Storage,225
+2016,Qtr 1,Office Supplies,Storage,104
+2016,Qtr 2,Office Supplies,Storage,207
+2016,Qtr 3,Office Supplies,Storage,201
+2016,Qtr 4,Office Supplies,Storage,296
+2017,Qtr 1,Office Supplies,Storage,151
+2017,Qtr 2,Office Supplies,Storage,208
+2017,Qtr 3,Office Supplies,Storage,274
+2017,Qtr 4,Office Supplies,Storage,389
+2014,Qtr 1,Office Supplies,Supplies,4
+2014,Qtr 2,Office Supplies,Supplies,24
+2014,Qtr 3,Office Supplies,Supplies,44
+2014,Qtr 4,Office Supplies,Supplies,58
+2015,Qtr 1,Office Supplies,Supplies,12
+2015,Qtr 2,Office Supplies,Supplies,17
+2015,Qtr 3,Office Supplies,Supplies,41
+2015,Qtr 4,Office Supplies,Supplies,39
+2016,Qtr 1,Office Supplies,Supplies,12
+2016,Qtr 2,Office Supplies,Supplies,60
+2016,Qtr 3,Office Supplies,Supplies,69
+2016,Qtr 4,Office Supplies,Supplies,75
+2017,Qtr 1,Office Supplies,Supplies,32
+2017,Qtr 2,Office Supplies,Supplies,47
+2017,Qtr 3,Office Supplies,Supplies,60
+2017,Qtr 4,Office Supplies,Supplies,53
+2014,Qtr 1,Technology,Accessories,67
+2014,Qtr 2,Technology,Accessories,85
+2014,Qtr 3,Technology,Accessories,205
+2014,Qtr 4,Technology,Accessories,223
+2015,Qtr 1,Technology,Accessories,68
+2015,Qtr 2,Technology,Accessories,103
+2015,Qtr 3,Technology,Accessories,185
+2015,Qtr 4,Technology,Accessories,279
+2016,Qtr 1,Technology,Accessories,96
+2016,Qtr 2,Technology,Accessories,143
+2016,Qtr 3,Technology,Accessories,158
+2016,Qtr 4,Technology,Accessories,285
+2017,Qtr 1,Technology,Accessories,146
+2017,Qtr 2,Technology,Accessories,218
+2017,Qtr 3,Technology,Accessories,318
+2017,Qtr 4,Technology,Accessories,397
+2014,Qtr 1,Technology,Copiers,
+2014,Qtr 2,Technology,Copiers,10
+2014,Qtr 3,Technology,Copiers,8
+2014,Qtr 4,Technology,Copiers,11
+2015,Qtr 1,Technology,Copiers,9
+2015,Qtr 2,Technology,Copiers,20
+2015,Qtr 3,Technology,Copiers,11
+2015,Qtr 4,Technology,Copiers,23
+2016,Qtr 1,Technology,Copiers,4
+2016,Qtr 2,Technology,Copiers,9
+2016,Qtr 3,Technology,Copiers,32
+2016,Qtr 4,Technology,Copiers,24
+2017,Qtr 1,Technology,Copiers,25
+2017,Qtr 2,Technology,Copiers,6
+2017,Qtr 3,Technology,Copiers,17
+2017,Qtr 4,Technology,Copiers,25
+2014,Qtr 1,Technology,Machines,16
+2014,Qtr 2,Technology,Machines,12
+2014,Qtr 3,Technology,Machines,45
+2014,Qtr 4,Technology,Machines,23
+2015,Qtr 1,Technology,Machines,12
+2015,Qtr 2,Technology,Machines,20
+2015,Qtr 3,Technology,Machines,22
+2015,Qtr 4,Technology,Machines,40
+2016,Qtr 1,Technology,Machines,21
+2016,Qtr 2,Technology,Machines,43
+2016,Qtr 3,Technology,Machines,20
+2016,Qtr 4,Technology,Machines,45
+2017,Qtr 1,Technology,Machines,13
+2017,Qtr 2,Technology,Machines,24
+2017,Qtr 3,Technology,Machines,25
+2017,Qtr 4,Technology,Machines,59
+2014,Qtr 1,Technology,Phones,79
+2014,Qtr 2,Technology,Phones,168
+2014,Qtr 3,Technology,Phones,139
+2014,Qtr 4,Technology,Phones,298
+2015,Qtr 1,Technology,Phones,84
+2015,Qtr 2,Technology,Phones,160
+2015,Qtr 3,Technology,Phones,196
+2015,Qtr 4,Technology,Phones,257
+2016,Qtr 1,Technology,Phones,134
+2016,Qtr 2,Technology,Phones,171
+2016,Qtr 3,Technology,Phones,249
+2016,Qtr 4,Technology,Phones,264
+2017,Qtr 1,Technology,Phones,207
+2017,Qtr 2,Technology,Phones,190
+2017,Qtr 3,Technology,Phones,294
+2017,Qtr 4,Technology,Phones,399

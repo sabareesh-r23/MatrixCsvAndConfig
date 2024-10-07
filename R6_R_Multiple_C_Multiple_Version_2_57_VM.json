@@ -2014,31 +2014,32 @@
                 ],
                 "columns": [
                     {
-                        "alias": "Segment",
-                        "name": "Segment",
-                        "isTimeInterval": false,
+                        "alias": "Year",
+                        "name": "Year",
+                        "isTimeInterval": true,
                         "values": [
-                            "Consumer",
-                            "Corporate",
-                            "Home Office"
+                            "2014",
+                            "2015",
+                            "2016",
+                            "2017"
                         ],
-                        "timeIntervalUnit": null,
+                        "timeIntervalUnit": "YEAR",
                         "level": 0,
-                        "id": "Orders.Segment"
+                        "id": "Orders.Order Date.Variation.Date Hierarchy.Year"
                     },
                     {
-                        "alias": "Ship Mode",
-                        "name": "Ship Mode",
-                        "isTimeInterval": false,
+                        "alias": "Quarter",
+                        "name": "Quarter",
+                        "isTimeInterval": true,
                         "values": [
-                            "First Class",
-                            "Same Day",
-                            "Second Class",
-                            "Standard Class"
+                            "Qtr 1",
+                            "Qtr 2",
+                            "Qtr 3",
+                            "Qtr 4"
                         ],
-                        "timeIntervalUnit": null,
+                        "timeIntervalUnit": "QUARTER",
                         "level": 1,
-                        "id": "Orders.Ship Mode"
+                        "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter"
                     }
                 ],
                 "rows": [
@@ -2061,109 +2062,144 @@
                 ],
                 "columnHierarchy": [
                     {
-                        "id": "Consumer",
-                        "label": "Consumer",
+                        "id": "2014",
+                        "label": "2014",
                         "level": 0,
-                        "path": "Consumer",
-                        "date": null
+                        "path": "2014",
+                        "date": "2014-01-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Consumer__First__Class__Rmlyc3QlMjBDbGFzcw__",
-                        "label": "First Class",
+                        "id": "2014__Qtr__1__UXRyJTIwMQ__",
+                        "label": "Qtr 1",
                         "level": 1,
-                        "path": "Consumer|First Class",
-                        "date": null
+                        "path": "2014|Qtr 1",
+                        "date": "2014-01-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Consumer__Same__Day__U2FtZSUyMERheQ__",
-                        "label": "Same Day",
+                        "id": "2014__Qtr__2__UXRyJTIwMg__",
+                        "label": "Qtr 2",
                         "level": 1,
-                        "path": "Consumer|Same Day",
-                        "date": null
+                        "path": "2014|Qtr 2",
+                        "date": "2014-04-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Consumer__Second__Class__U2Vjb25kJTIwQ2xhc3M__",
-                        "label": "Second Class",
+                        "id": "2014__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
                         "level": 1,
-                        "path": "Consumer|Second Class",
-                        "date": null
+                        "path": "2014|Qtr 3",
+                        "date": "2014-07-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Consumer__Standard__Class__U3RhbmRhcmQlMjBDbGFzcw__",
-                        "label": "Standard Class",
+                        "id": "2014__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
                         "level": 1,
-                        "path": "Consumer|Standard Class",
-                        "date": null
+                        "path": "2014|Qtr 4",
+                        "date": "2014-10-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Corporate",
-                        "label": "Corporate",
+                        "id": "2015",
+                        "label": "2015",
                         "level": 0,
-                        "path": "Corporate",
-                        "date": null
+                        "path": "2015",
+                        "date": "2015-01-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Corporate__First__Class__Rmlyc3QlMjBDbGFzcw__",
-                        "label": "First Class",
+                        "id": "2015__Qtr__1__UXRyJTIwMQ__",
+                        "label": "Qtr 1",
                         "level": 1,
-                        "path": "Corporate|First Class",
-                        "date": null
+                        "path": "2015|Qtr 1",
+                        "date": "2015-01-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Corporate__Same__Day__U2FtZSUyMERheQ__",
-                        "label": "Same Day",
+                        "id": "2015__Qtr__2__UXRyJTIwMg__",
+                        "label": "Qtr 2",
                         "level": 1,
-                        "path": "Corporate|Same Day",
-                        "date": null
+                        "path": "2015|Qtr 2",
+                        "date": "2015-04-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Corporate__Second__Class__U2Vjb25kJTIwQ2xhc3M__",
-                        "label": "Second Class",
+                        "id": "2015__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
                         "level": 1,
-                        "path": "Corporate|Second Class",
-                        "date": null
+                        "path": "2015|Qtr 3",
+                        "date": "2015-07-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Corporate__Standard__Class__U3RhbmRhcmQlMjBDbGFzcw__",
-                        "label": "Standard Class",
+                        "id": "2015__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
                         "level": 1,
-                        "path": "Corporate|Standard Class",
-                        "date": null
+                        "path": "2015|Qtr 4",
+                        "date": "2015-10-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Home__Office__SG9tZSUyME9mZmljZQ__",
-                        "label": "Home Office",
+                        "id": "2016",
+                        "label": "2016",
                         "level": 0,
-                        "path": "Home Office",
-                        "date": null
+                        "path": "2016",
+                        "date": "2016-01-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Home__Office__SG9tZSUyME9mZmljZQ____First__Class__Rmlyc3QlMjBDbGFzcw__",
-                        "label": "First Class",
+                        "id": "2016__Qtr__1__UXRyJTIwMQ__",
+                        "label": "Qtr 1",
                         "level": 1,
-                        "path": "Home Office|First Class",
-                        "date": null
+                        "path": "2016|Qtr 1",
+                        "date": "2016-01-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Home__Office__SG9tZSUyME9mZmljZQ____Same__Day__U2FtZSUyMERheQ__",
-                        "label": "Same Day",
+                        "id": "2016__Qtr__2__UXRyJTIwMg__",
+                        "label": "Qtr 2",
                         "level": 1,
-                        "path": "Home Office|Same Day",
-                        "date": null
+                        "path": "2016|Qtr 2",
+                        "date": "2016-04-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Home__Office__SG9tZSUyME9mZmljZQ____Second__Class__U2Vjb25kJTIwQ2xhc3M__",
-                        "label": "Second Class",
+                        "id": "2016__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
                         "level": 1,
-                        "path": "Home Office|Second Class",
-                        "date": null
+                        "path": "2016|Qtr 3",
+                        "date": "2016-07-01T00:00:00+05:30"
                     },
                     {
-                        "id": "Home__Office__SG9tZSUyME9mZmljZQ____Standard__Class__U3RhbmRhcmQlMjBDbGFzcw__",
-                        "label": "Standard Class",
+                        "id": "2016__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
                         "level": 1,
-                        "path": "Home Office|Standard Class",
-                        "date": null
+                        "path": "2016|Qtr 4",
+                        "date": "2016-10-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017",
+                        "label": "2017",
+                        "level": 0,
+                        "path": "2017",
+                        "date": "2017-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017__Qtr__1__UXRyJTIwMQ__",
+                        "label": "Qtr 1",
+                        "level": 1,
+                        "path": "2017|Qtr 1",
+                        "date": "2017-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017__Qtr__2__UXRyJTIwMg__",
+                        "label": "Qtr 2",
+                        "level": 1,
+                        "path": "2017|Qtr 2",
+                        "date": "2017-04-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2017|Qtr 3",
+                        "date": "2017-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2017|Qtr 4",
+                        "date": "2017-10-01T00:00:00+05:30"
                     }
                 ],
                 "visualSignature": {
@@ -2179,17 +2215,17 @@
                             "dataType": "TEXT"
                         },
                         {
-                            "id": "Orders.Segment",
-                            "name": "Segment",
-                            "dataType": "TEXT"
+                            "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
+                            "name": "Year",
+                            "dataType": "NUMERIC"
                         },
                         {
-                            "id": "Orders.Ship Mode",
-                            "name": "Ship Mode",
+                            "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
+                            "name": "Quarter",
                             "dataType": "TEXT"
                         }
                     ],
-                    "dimensionHash": "7e38f586a82db9db2452d6c8325e5336",
+                    "dimensionHash": "cae534c9f81ddfc8cebe921c2de0d772",
                     "measures": [
                         {
                             "id": "Sum__Orders__Quantity__U3VtKE9yZGVycy5RdWFudGl0eSk__",
@@ -2251,12 +2287,12 @@
                         "name": "SubCategory"
                     },
                     {
-                        "id": "Orders.Segment",
-                        "name": "Segment"
+                        "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
+                        "name": "Year"
                     },
                     {
-                        "id": "Orders.Ship Mode",
-                        "name": "Ship Mode"
+                        "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
+                        "name": "Quarter"
                     }
                 ],
                 "dimensionIdMapping": [],
@@ -2271,8 +2307,8 @@
             "status": 10,
             "createdBy": "49",
             "createdAt": 1727336478,
-            "updatedBy": "49",
-            "updatedAt": 1727457380,
+            "updatedBy": "28",
+            "updatedAt": 1728284114,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2315,7 +2351,68 @@
             "onLoadFormula": "",
             "onDataChangeFormula": ""
         },
-        "filterList": [],
+        "filterList": [
+            {
+                "combinator": "and",
+                "id": "JJQWMSGI",
+                "name": "Category",
+                "rules": [
+                    {
+                        "field": "Orders.Category",
+                        "operator": "isOneof",
+                        "value": "Office Supplies"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "ORURGNKV",
+                "name": "SubCategory",
+                "rules": [
+                    {
+                        "field": "Orders.Sub-Category",
+                        "operator": "isOneof",
+                        "value": "Binders"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "KSMASKOW",
+                "name": "Ship Mode",
+                "rules": [
+                    {
+                        "field": "Orders.Ship Mode",
+                        "operator": "is",
+                        "value": "First Class"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "NKSNHYZI",
+                "name": "Year",
+                "rules": [
+                    {
+                        "field": "Orders.Order Date.Variation.Date Hierarchy.Year",
+                        "operator": "is",
+                        "value": "2014"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "HGRVFQDS",
+                "name": "Quarter",
+                "rules": [
+                    {
+                        "field": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
+                        "operator": "is",
+                        "value": "Qtr 1"
+                    }
+                ]
+            }
+        ],
         "customIcons": [],
         "scrollThickness": false,
         "dynamicRowScale": {},
@@ -2558,22 +2655,22 @@
             "Orders.Sub-Category"
         ],
         "columns": [
-            "Orders.Segment",
-            "Orders.Ship Mode"
+            "Orders.Order Date.Variation.Date Hierarchy.Year",
+            "Orders.Order Date.Variation.Date Hierarchy.Quarter"
         ],
         "rolesMap": {},
         "typesMap": {
             "Orders.Category": "TEXT",
             "Orders.Sub-Category": "TEXT",
-            "Orders.Segment": "TEXT",
-            "Orders.Ship Mode": "TEXT",
+            "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC",
+            "Orders.Order Date.Variation.Date Hierarchy.Quarter": "TEXT",
             "Sum(Orders.Quantity)": "NUMERIC"
         },
         "labelMap": {
             "Orders.Category": "Category",
             "Orders.Sub-Category": "SubCategory",
-            "Orders.Segment": "Segment",
-            "Orders.Ship Mode": "Ship Mode",
+            "Orders.Order Date.Variation.Date Hierarchy.Year": "Year",
+            "Orders.Order Date.Variation.Date Hierarchy.Quarter": "Quarter",
             "Sum(Orders.Quantity)": "Sum of Quantity"
         },
         "ac_roles": [
@@ -2596,12 +2693,12 @@
         },
         "columns": [
             {
-                "id": "Orders.Segment",
-                "label": "Segment"
+                "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
+                "label": "Year"
             },
             {
-                "id": "Orders.Ship Mode",
-                "label": "Ship Mode"
+                "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
+                "label": "Quarter"
             }
         ],
         "rows": [
