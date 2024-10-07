@@ -1,0 +1,13 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Sum(SanityReport.BU)
+2014,Furniture,9435000
+2015,Furniture,9435000
+2016,Furniture,9435000
+2017,Furniture,9435000
+2014,Office Supplies,9435000
+2015,Office Supplies,9435000
+2016,Office Supplies,9435000
+2017,Office Supplies,9435000
+2014,Technology,9435000
+2015,Technology,9435000
+2016,Technology,9435000
+2017,Technology,9435000

@@ -1,0 +1,13 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Sum(Orders.Quantity)
+2014,Furniture,1623
+2015,Furniture,1775
+2016,Furniture,2193
+2017,Furniture,2437
+2014,Office Supplies,4569
+2015,Office Supplies,4715
+2016,Office Supplies,5946
+2017,Office Supplies,7676
+2014,Technology,1389
+2015,Technology,1489
+2016,Technology,1698
+2017,Technology,2363
