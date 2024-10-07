@@ -8,8 +8,8 @@
             "autoRowCount": "layout",
             "view": "browser",
             "pageNo": 0,
-            "currentPageNumber": 0,
-            "paginationHeight": 20
+            "paginationHeight": 20,
+            "currentPageNumber": 0
         },
         "headerOption": {
             "showHeaderIndicator": true,
@@ -33,29 +33,26 @@
         },
         "tableState": {
             "rowHierarchyLevel": {},
+            "compareMeasure": null,
             "expandCollapseIcon": "plusMinusSquare",
             "columnExpandCollapseIcon": "arrows",
-            "columnHierarchyLevel": {}
+            "columnHierarchyLevel": {},
+            "headerHeight": 25
         },
         "measureBasedHeader": true,
         "isReadModeConfigModified": true,
-        "layout": "STEPPED",
+        "layout": "OUTLINE",
         "rowExpandCollapseOptions": {
             "rows": {},
+            "expandTillDescendant": {},
             "gridState": null,
             "levelStates": [],
-            "maxLevelExpanded": null,
-            "expandTillDescendant": {}
+            "maxLevelExpanded": null
         },
         "chartTitleOption": {
             "show": true
         },
         "chartCustomTitle": {
-            "alignment": "",
-            "bgColor": "",
-            "customFooter": null,
-            "formattedTitle": "",
-            "showCustomFooter": false,
             "secondaryTitle": "",
             "measureTitle": "",
             "primaryTitle": "",
@@ -69,7 +66,7 @@
                             "left": 0
                         },
                         "dimension": {
-                            "width": "623",
+                            "width": "150",
                             "height": "30"
                         },
                         "layout": {
@@ -104,12 +101,7 @@
                     "height": 45
                 },
                 "containerPosition": "top"
-            },
-            "customTitleHeight": 45,
-            "customFooterHeight": 28,
-            "showContainerControls": true,
-            "customTitleWidth": 80,
-            "customFooterWidth": 80
+            }
         },
         "breakConfig": {
             "sectionBreak": [],
@@ -156,64 +148,30 @@
             "showRowLabelEditor": false,
             "chartScale": "universal",
             "variableColor": "#0078D4",
-            "kpiFontSize": 45,
-            "blankRowLabel": "(Blank)",
-            "blankColumnLabel": "(Blank)",
-            "columnStyle": null
+            "kpiFontSize": "45"
         },
         "notes": {
             "show": true,
             "displayAnnotations": "view",
             "autoFit": true,
-            "annotations": [
-                {
-                    "id": "ZJRMXWdHMQcBNJgagHaPJaOLJVESbIFX",
-                    "relativeCoord": [
-                        0,
-                        0
-                    ],
-                    "comment": "Stepped Notes\n\n",
-                    "unFormattedText": "<p>Stepped Notes</p><p></p>",
-                    "size": [
-                        100,
-                        200
-                    ],
-                    "iconColor": "rgba(0, 120, 212, 1)",
-                    "iconPosition": [
-                        "left",
-                        "center"
-                    ],
-                    "iconFontColor": "#fff",
-                    "ratio": 1,
-                    "index": 0,
-                    "createdAt": 1727199534425,
-                    "dateTime": 1727199534425,
-                    "updatedAt": 1727199534425,
-                    "rowId": "April",
-                    "colId": "DynamiCol_Note",
-                    "comments": [],
-                    "auditId": null,
-                    "isColumnComments": true,
-                    "indicatorIcon": "CIRCLE_FILL",
-                    "isMultiSelectionNotes": false,
-                    "selectionIds": null,
-                    "multiSelectionBorderColor": null,
-                    "isAddedInMOR": false,
-                    "filterContextHash": null
-                }
-            ],
+            "annotations": [],
             "columnAnnotations": [],
             "indicatorType": "numbered",
             "indicatorPosition": "default",
             "persistProperty": {
-                "iconColor": "rgba(0, 120, 212, 1)"
+                "bgColor": "rgba(255,255,255,0.9)",
+                "lineColor": "rgba(3,169,244,0.7)",
+                "borderColor": "rgba(3,169,244,0.7)",
+                "iconColor": "rgba(0, 120, 212, 0.7)",
+                "displayOptions": 4,
+                "iconSize": 14
             },
             "showFootnote": false,
             "rowLevelComments": true,
             "enableReply": true,
-            "annotationNote": "",
+            "annotationNote": "grid",
             "annotationHeight": 15,
-            "annotationColumnCount": 0,
+            "annotationColumnCount": 2,
             "indicatorSize": 12,
             "footNoteHeight": 15,
             "footNoteColumn": 3,
@@ -240,21 +198,20 @@
             "rowOddColor": "#f5f5f5",
             "rowEvenColor": "#ffffff",
             "measureOnlyHighlight": false,
-            "lineStyleRecentColor": "",
-            "highContrast": null
+            "lineStyleRecentColor": ""
         },
         "rowReorder": {
             "enabled": true,
+            "siblingRowReorder": true,
             "rowOrderConfig": {},
-            "rowOrderConfigMeta": {},
-            "siblingRowReorder": true
+            "rowOrderConfigMeta": {}
         },
         "columnHierarchySort": {},
         "verticalLabelColumn": false,
         "compareMesLabelAlign": false,
         "gridStyles": {
             "majorGridLines": "off",
-            "horizontalMinorGridLines": "off",
+            "horizontalMinorGridLines": "solid",
             "headerGridLines": true,
             "verticalMinorGridLines": "solid",
             "compactSplitLine": true,
@@ -290,23 +247,34 @@
         "groupInColumn": true,
         "numberFormatting": {
             "enabled": true,
-            "formatType": "default",
-            "enablePrefixAsUnit": true,
-            "enableSuffixAsUnit": false,
-            "ibcsformat": true,
-            "thousandSeperator": ",",
-            "decimalSeperator": ".",
-            "noOfDecimal": 2,
-            "noOfDecimalPercent": 2,
             "prefix": "",
             "suffix": "",
-            "scalingFactor": "autoFixed",
+            "semanticFormatting": false,
+            "enablePrefixAsUnit": true,
+            "negativeValueColor": "#D64554",
+            "negativeValueFormat": "-x",
+            "positiveValueColor": "#1AAB40",
+            "positiveValueFormat": "x",
+            "neutralValueColor": "#D9B300",
+            "showNegativeSign": false,
             "showScalingUnit": false,
+            "showDataLabel": true,
+            "formatType": "default",
+            "ibcsformat": true,
+            "enableDataLabelFormatting": true,
+            "decimalSeperator": ".",
+            "thousandSeperator": ",",
+            "noOfDecimal": 2,
+            "noOfDecimalPercent": 2,
+            "dlIBCSNoOfDecimal": 0,
+            "scalingFactor": "autoFixed",
+            "dlFlexibleScalingFactor": "auto",
+            "dlCustomScalingFactor": "none",
             "customizeScalingLabel": false,
             "scalingTextType": "full",
             "thousands": "k",
-            "billions": "b",
             "millions": "m",
+            "billions": "b",
             "trillion": "t",
             "thousandsMediumText": "in k",
             "millionsMediumText": "in m",
@@ -316,21 +284,16 @@
             "billionsFullText": "in Billions",
             "millionsFullText": "in Millions",
             "trillionFullText": "in Trillions",
-            "crores": "c",
-            "lakhs": "l",
-            "semanticFormatting": false,
-            "positiveValueColor": "#1AAB40",
-            "positiveValueFormat": "x",
-            "negativeValueColor": "#D64554",
-            "negativeValueFormat": "-x",
-            "neutralValueColor": "#D9B300",
-            "showNegativeSign": false,
+            "showNullAs": "blank",
             "showPercentageSymbol": false,
+            "customNullText": "",
             "showZeroAs": "zero",
             "customZeroText": "",
-            "showNullAs": "blank",
-            "customNullText": "",
-            "tooltipDecimal": "1"
+            "crores": "c",
+            "lakhs": "l",
+            "showTooltipAsUnit": false,
+            "showTooltipDecimal": false,
+            "tooltipDecimal": 1
         },
         "calculatedColumns": [],
         "calculatedColumnMeta": {
@@ -339,13 +302,13 @@
         "totalUtility": {
             "rowGrandTotal": true,
             "rowGrandTotalPosition": "above",
-            "rowSubTotalPosition": "below",
+            "rowSubTotalPosition": "clear",
             "columnGrandTotal": false,
             "columnGrandTotalPosition": "clear",
             "columnSubTotalPosition": "clear",
-            "freezeTotal": true,
             "summaryTotal": false,
-            "rowForSubtotal": true
+            "rowForSubtotal": true,
+            "freezeTotal": true
         },
         "dynamicRowConfig": [],
         "enableWordWrap": true,
@@ -984,40 +947,13 @@
         "isInFocus": false,
         "manageMeasures": [
             {
-                "label": "Sum of Additional 2",
-                "id": "Sum__With__Actual__budget__Additional__2__U3VtKFdpdGglMjBBY3R1YWwlMjBidWRnZXQuQWRkaXRpb25hbCUyMDIp",
-                "name": "Sum(With Actual budget.Additional 2)",
+                "label": "Sum of Sale (Dollars)",
+                "id": "Sum__15000__Sale__Dollars__U3VtKDE1MDAwLlNhbGUlMjAoRG9sbGFycykp",
+                "name": "Sum(15000.Sale (Dollars))",
                 "order": 0,
                 "visible": true,
                 "measureType": "data",
-                "role": "PY"
-            },
-            {
-                "label": "Sum of Additional 1",
-                "id": "Sum__With__Actual__budget__Additional__1__U3VtKFdpdGglMjBBY3R1YWwlMjBidWRnZXQuQWRkaXRpb25hbCUyMDEp",
-                "name": "Sum(With Actual budget.Additional 1)",
-                "order": 1,
-                "visible": true,
-                "measureType": "data",
                 "role": "AC"
-            },
-            {
-                "label": "Sum of Additional 1 - Sum of Additional 2",
-                "id": "delPY",
-                "name": "delPY",
-                "order": 2,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPY"
-            },
-            {
-                "label": "(Sum of Additional 1 - Sum of Additional 2)%",
-                "id": "delPY_PER",
-                "name": "delPY_PER",
-                "order": 3,
-                "visible": false,
-                "measureType": "data",
-                "role": "delPY_PER"
             }
         ],
         "invertRows": {
@@ -1030,20 +966,19 @@
         "gridLineCount": 1,
         "measureAggMap": {},
         "outliers": {
+            "enableOutlier": false,
             "min": 0,
-            "max": 0,
-            "enableOutlier": false
+            "max": 0
         },
         "headerLabelFormat": {},
         "sparklineConfig": {},
         "displayAllCols": false,
         "bulletConfig": {},
         "stackedConfig": {},
-        "dynamicRowIcon": false,
+        "dynamicRowIcon": true,
         "showNullRefAsZero": true,
         "calcCellIcon": true,
         "filter": {
-            "id": null,
             "rules": [],
             "combinator": "and",
             "not": false
@@ -1051,8 +986,7 @@
         "search": {
             "category": null,
             "searchString": "",
-            "tokens": [],
-            "enableMatchCase": false
+            "tokens": []
         },
         "ranking": {
             "rules": [],
@@ -1063,31 +997,36 @@
             "exemptions": {}
         },
         "kpiExplorer": {
-            "panelWidthMeta": {},
             "showExplorer": false,
             "selectedMeasure": "",
             "filterValues": {},
+            "panelWidthMeta": {},
             "showKPI": {
                 "column": {},
                 "row": {},
                 "rowGroup": {}
             },
             "sort": {},
+            "expanded": true,
             "timeInterval": [],
-            "expanded": false,
-            "showTimeSlider": true
+            "showTimeSlider": false,
+            "mode": "detailed"
         },
         "absoluteSort": false,
         "signSort": false,
-        "absoluteSearch": false,
+        "absoluteSearch": true,
         "invertSettings": "additionMethod",
         "enableDrillThrough": false,
         "wizardComplete": true,
-        "expandRowLevel": 1,
+        "expandRowLevel": null,
         "aggregationType": "sum",
         "varianceInvertColumn": {},
         "landingPage": false,
-        "columnExpandCollapse": {},
+        "columnExpandCollapse": {
+            "2012": {
+                "expanded": true
+            }
+        },
         "layoutType": "default",
         "calculatedCells": [],
         "enablePersistFilter": false,
@@ -1117,21 +1056,21 @@
             "groupHeaderColor": "#edebe9",
             "groupBorderColor": "#cccccc",
             "groupBorderThickness": 1,
-            "summaryGlobalHeader": {
-                "elements": []
-            },
             "summaryHeader": {
                 "elements": []
             },
             "summaryFooter": {
                 "elements": []
             },
-            "showSummaryGlobalHeader": false,
+            "summaryGlobalHeader": {
+                "elements": []
+            },
             "showSummaryHeader": true,
             "showSummaryFooter": true,
-            "summaryGlobalHeaderHeight": 180,
+            "showSummaryGlobalHeader": false,
             "summaryHeaderHeight": 30,
             "summaryFooterHeight": 30,
+            "summaryGlobalHeaderHeight": 180,
             "masterRowExpandCollapseConfig": {},
             "multiColumn": {
                 "enabled": false,
@@ -1149,7 +1088,7 @@
         },
         "readViewToolbar": {
             "show": true,
-            "selection": true,
+            "selection": false,
             "showTooltip": true,
             "readViewToolbarMode": "minimal",
             "showSearch": false,
@@ -1157,19 +1096,7 @@
             "showToastMessage": true,
             "sortOnClick": false,
             "showFloatingToolbar": false,
-            "readModeAccessSetByUser": false,
-            "showZoom": true,
-            "viewAllNotes": false,
-            "order": {
-                "home": 1,
-                "advanced": 2,
-                "export": 3,
-                "forecast": 4,
-                "scenario": 5,
-                "dataEntry": 6,
-                "snapshot": 7,
-                "infoBridge": 8
-            }
+            "showZoom": true
         },
         "showChildCount": false,
         "showCategorySign": false,
@@ -1197,10 +1124,10 @@
             "pageNumber": true,
             "pageLabel": "1",
             "footerNote": "dynamic",
+            "displayHeaderFooter": "everyPage",
+            "fileName": "",
             "pdfFont": "inforiversans",
             "printApproach": "rowFirst",
-            "fileName": "",
-            "displayHeaderFooter": "everyPage",
             "showCommentReply": "hide",
             "imageEnabled": false,
             "imageBase64": "",
@@ -1231,10 +1158,9 @@
             "title": "",
             "subTitle": "",
             "footerNote": "",
-            "hierarchyView": "flatIntended",
+            "hierarchyView": "visualView",
             "includeComments": true,
             "fileName": "",
-            "pdfFont": "inforiversans",
             "excelCustomHeader": [],
             "showCustomHeaderImage": false,
             "smartFit": true
@@ -1272,8 +1198,10 @@
             "tableWidth": 80,
             "chartWidth": 150,
             "labelWidth": 120,
+            "isResponsive": false,
             "bulletWidth": 300,
             "maximumChartWidth": 200,
+            "isMaximumChartWidthAllowed": false,
             "preferedWidthSelection": "measure"
         },
         "pinnedRowIds": [],
@@ -1287,18 +1215,18 @@
         "rowLabelMeta": {},
         "hiddenRows": [],
         "toolbar": {
-            "showOnHover": false,
             "currentTab": "Export",
-            "enableHoverToolbar": true,
             "isPinned": true,
-            "readViewPin": true,
-            "showMinimalView": false,
-            "previousCurrentTab": null,
             "showTabContent": true,
+            "showMinimalView": false,
             "toolbarTheme": "light",
+            "showOnHover": false,
+            "enableHoverToolbar": true,
+            "readViewPin": true,
             "showFloatingToolbar": true,
-            "showForecastTab": false,
-            "setCanvasResize": false
+            "setCanvasResize": false,
+            "hideDuplicateReportWarning": false,
+            "showForecastTab": false
         },
         "warningModal": {
             "show": false,
@@ -1311,7 +1239,7 @@
         "showComments": true,
         "showHeaderFooter": true,
         "urlMetaConfig": {
-            "hasUrl": false,
+            "hasURL": false,
             "hasImg": false,
             "urlColId": "",
             "urlColIndex": null
@@ -1343,31 +1271,30 @@
             "unbalancedHierarchy": "off"
         },
         "totalsDisplay": {
-            "showColumnGTAsTable": true,
             "showSubTotalsAsTable": false,
             "showVarSubTotalsAsTable": false,
             "showTotalAsTable": true,
             "showVarTotalAsTable": false,
+            "showColumnGTAsTable": true,
             "advancedSteppedLayout": false,
             "removeSingleChildren": true
         },
         "rowAutoGroupConfig": {
-            "ruleName": "none",
-            "dimensions": []
+            "ruleName": "none"
         },
         "chartStyles": {
             "variancePin": "square",
-            "showDataLabel": true
+            "showDataLabel": true,
+            "isBarOverlap": false
         },
         "autoFitOptions": {
             "autoFit": false,
             "lockColumnWidth": false,
+            "wrapCols": false,
             "uniformColumnWidth": {
                 "enabled": false,
                 "width": null
-            },
-            "bestFit": false,
-            "wrapCols": false
+            }
         },
         "readViewConfig": {
             "home": {
@@ -1440,10 +1367,13 @@
                 "compare": true
             },
             "forecast": {
-                "style": false,
                 "openPeriods": false,
                 "measure": false,
                 "analyze": false,
+                "style": false,
+                "insert": false,
+                "measures": false,
+                "rows": false,
                 "annotate": false,
                 "actions": false
             },
@@ -1468,7 +1398,7 @@
             "columnGrandTotalTitle": "Grand Total",
             "totalColumnSuffix": "Total",
             "steppedSubTotalTitle": "none",
-            "steppedSubTotalText": "Total ",
+            "steppedSubTotalText": "Total",
             "splitTotalRowSuffix": "Total",
             "columnSubTotalTitle": "none"
         },
@@ -1480,14 +1410,13 @@
         "hideRowChildren": [],
         "hideExpandLevel": {},
         "commentSettings": {
-            "rowLevelComments": true,
+            "rowLevelComments": false,
             "expandRowLevelComments": false,
             "rollUpComments": true
         },
         "rulerMeta": {
             "width": 20,
-            "showNumbers": false,
-            "loading": false
+            "showNumbers": false
         },
         "commonRunTimeProps": {
             "showBrokenImage": false
@@ -1509,7 +1438,6 @@
             "neutral": "#D9B300"
         },
         "quickFilter": {
-            "id": null,
             "rules": [],
             "combinator": "and",
             "not": false
@@ -1627,29 +1555,31 @@
                 "message": "",
                 "show": false
             },
-            "keyColumnsForAllAdditionalColumns": [],
+            "keyColumnsForAllAdditionalColumns": [
+                "r4outlinevm"
+            ],
             "additionalColumnMappings": [
                 {
-                    "datasetId": "7ef1faa1-577c-4c70-9c71-e699acd18283",
-                    "datasetKeyColumnName": "Column8",
-                    "datasetTableName": "Sales Data (Columnar)",
+                    "datasetId": "cdaf6294-2430-461b-896a-444ca9885604",
+                    "datasetKeyColumnName": "Address",
+                    "datasetTableName": "15000",
                     "mappingColumns": [
                         {
-                            "datasetColumnName": "Column7",
-                            "writebackColumnName": "Month"
+                            "datasetColumnName": "Bottles Sold",
+                            "writebackColumnName": "Year"
                         }
                     ],
-                    "renamedWBIdColumn": "Column8",
+                    "renamedWBIdColumn": "Address",
                     "workspaceId": "16578ee2-acf8-4611-863a-02e5168c2883",
                     "type": 10,
-                    "id": "1899"
+                    "id": "1940"
                 }
             ],
             "dateAdditionalColumnMapping": {
-                "dateKeyColumnName": "DateKey",
+                "dateKeyColumnName": "R4OutlineVM",
                 "defaultYear": "2024",
-                "isCurrentYear": false,
-                "id": "1898",
+                "isCurrentYear": true,
+                "id": "1939",
                 "type": 20
             },
             "openDateAdditionalColumnModal": false,
@@ -1666,86 +1596,197 @@
         },
         "fiscalMonth": 0,
         "visualSettings": {
-            "id": "14722",
-            "visualGuid": "HIGLMDDLHKKGNFL",
+            "id": "16093",
+            "visualGuid": "MJKJILAAMLBONAC",
             "tenantId": "6",
             "allowComment": true,
             "allowWriteBack": true,
             "accessType": 1,
             "notification": true,
-            "reportIdentifier": "ac2395d6-fe42-4da9-ac1b-4bdc90d02ca6",
-            "reportDisplayName": "Sum of Additional 2, Sum of Additional 1 by Month",
-            "reportSection": "d4905c8ac98ea7742e19",
-            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ac2395d6-fe42-4da9-ac1b-4bdc90d02ca6/d4905c8ac98ea7742e19?experience=power-bi",
+            "reportIdentifier": "e28d13f3-0e54-4ff7-82fb-f1a6f81dbdcb",
+            "reportDisplayName": " by Store Location, Year, Quarter",
+            "reportSection": "da2973307c91c3699997",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e28d13f3-0e54-4ff7-82fb-f1a6f81dbdcb/da2973307c91c3699997?experience=power-bi",
             "visualMeta": {
                 "product": "inforiver",
                 "duplicateIdentifiers": [
                     {
-                        "reportIdentifier": "ac2395d6-fe42-4da9-ac1b-4bdc90d02ca6",
-                        "reportSection": "d4905c8ac98ea7742e19",
-                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/ac2395d6-fe42-4da9-ac1b-4bdc90d02ca6/d4905c8ac98ea7742e19?experience=power-bi"
+                        "reportIdentifier": "e28d13f3-0e54-4ff7-82fb-f1a6f81dbdcb",
+                        "reportSection": "da2973307c91c3699997",
+                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e28d13f3-0e54-4ff7-82fb-f1a6f81dbdcb/da2973307c91c3699997?experience=power-bi"
                     }
                 ],
-                "columns": [],
+                "columns": [
+                    {
+                        "alias": "Year",
+                        "name": "Year",
+                        "isTimeInterval": true,
+                        "values": [
+                            "2012",
+                            "2013",
+                            "2014",
+                            "2015"
+                        ],
+                        "timeIntervalUnit": "YEAR",
+                        "level": 0,
+                        "id": "15000.Date.Variation.Date Hierarchy.Year"
+                    },
+                    {
+                        "alias": "Quarter",
+                        "name": "Quarter",
+                        "isTimeInterval": true,
+                        "values": [
+                            "Qtr 3",
+                            "Qtr 4"
+                        ],
+                        "timeIntervalUnit": "QUARTER",
+                        "level": 1,
+                        "id": "15000.Date.Variation.Date Hierarchy.Quarter"
+                    }
+                ],
                 "rows": [
                     {
-                        "alias": "Month",
-                        "name": "Month",
-                        "timeIntervalUnit": "MONTH",
+                        "alias": "County",
+                        "name": "County",
+                        "timeIntervalUnit": null,
                         "level": 0,
-                        "isTimeInterval": true,
-                        "id": "Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Month"
+                        "isTimeInterval": false,
+                        "id": "15000.County"
                     }
                 ],
-                "columnHierarchy": [],
+                "columnHierarchy": [
+                    {
+                        "id": "2012",
+                        "label": "2012",
+                        "level": 0,
+                        "path": "2012",
+                        "date": "2012-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2012__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2012|Qtr 3",
+                        "date": "2012-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2012__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2012|Qtr 4",
+                        "date": "2012-10-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2013",
+                        "label": "2013",
+                        "level": 0,
+                        "path": "2013",
+                        "date": "2013-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2013__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2013|Qtr 3",
+                        "date": "2013-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2013__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2013|Qtr 4",
+                        "date": "2013-10-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2014",
+                        "label": "2014",
+                        "level": 0,
+                        "path": "2014",
+                        "date": "2014-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2014__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2014|Qtr 3",
+                        "date": "2014-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2014__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2014|Qtr 4",
+                        "date": "2014-10-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2015",
+                        "label": "2015",
+                        "level": 0,
+                        "path": "2015",
+                        "date": "2015-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2015__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2015|Qtr 3",
+                        "date": "2015-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2015__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2015|Qtr 4",
+                        "date": "2015-10-01T00:00:00+05:30"
+                    }
+                ],
                 "visualSignature": {
                     "dimensions": [
                         {
-                            "id": "Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Month",
-                            "name": "Month",
+                            "id": "15000.County",
+                            "name": "County",
+                            "dataType": "TEXT"
+                        },
+                        {
+                            "id": "15000.Date.Variation.Date Hierarchy.Year",
+                            "name": "Year",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "15000.Date.Variation.Date Hierarchy.Quarter",
+                            "name": "Quarter",
                             "dataType": "TEXT"
                         }
                     ],
-                    "dimensionHash": "0d6a4eca90d1d7750ff9e1890ec69e2b",
+                    "dimensionHash": "1514e1ac3dfa652ba42ecffcec8acb90",
                     "measures": [
                         {
-                            "id": "Sum__With__Actual__budget__Additional__2__U3VtKFdpdGglMjBBY3R1YWwlMjBidWRnZXQuQWRkaXRpb25hbCUyMDIp",
-                            "name": "Sum of Additional 2",
-                            "dataType": "NUMERIC"
-                        },
-                        {
-                            "id": "Sum__With__Actual__budget__Additional__1__U3VtKFdpdGglMjBBY3R1YWwlMjBidWRnZXQuQWRkaXRpb25hbCUyMDEp",
-                            "name": "Sum of Additional 1",
-                            "dataType": "NUMERIC"
-                        },
-                        {
-                            "id": "delPY",
-                            "name": "Sum of Additional 1 - Sum of Additional 2",
-                            "dataType": "NUMERIC"
-                        },
-                        {
-                            "id": "delPY_PER",
-                            "name": "(Sum of Additional 1 - Sum of Additional 2)%",
+                            "id": "Sum__15000__Sale__Dollars__U3VtKDE1MDAwLlNhbGUlMjAoRG9sbGFycykp",
+                            "name": "Sum of Sale (Dollars)",
                             "dataType": "NUMERIC"
                         },
                         {
                             "name": "Notes",
-                            "dataType": "TEXT"
-                        },
-                        {
-                            "name": "Comments",
                             "dataType": "TEXT"
                         }
                     ],
                     "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
                     "hasNativeMeasures": true,
-                    "reportDisplayName": "Sum of Additional 2, Sum of Additional 1 by Month"
+                    "reportDisplayName": " by Store Location, Year, Quarter"
                 },
                 "includedIdDimensions": [
                     {
-                        "id": "Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Month",
-                        "name": "Month"
+                        "id": "15000.County",
+                        "name": "County"
+                    },
+                    {
+                        "id": "15000.Date.Variation.Date Hierarchy.Year",
+                        "name": "Year"
+                    },
+                    {
+                        "id": "15000.Date.Variation.Date Hierarchy.Quarter",
+                        "name": "Quarter"
                     }
                 ],
                 "dimensionIdMapping": [],
@@ -1759,9 +1800,9 @@
             "scheduleStatus": null,
             "status": 10,
             "createdBy": "91",
-            "createdAt": 1727199516,
+            "createdAt": 1727672629,
             "updatedBy": "91",
-            "updatedAt": 1728324175,
+            "updatedAt": 1727672638,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -1769,7 +1810,7 @@
             "snapshotScheduleStatus": null,
             "reportAssetId": null,
             "mdeSettings": {},
-            "visualIdentifier": "inforiver_HIGLMDDLHKKGNFL",
+            "visualIdentifier": "inforiver_MJKJILAAMLBONAC",
             "languages": {
                 "GERMAN": "de-DE",
                 "FRENCH": "fr-FR",
@@ -1779,9 +1820,17 @@
         },
         "calculatedColHier": [],
         "timeDimensionMeta": {
-            "Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Month": {
-                "pattern": "$MMMM$",
-                "timeIntervalUnitType": "MONTH"
+            "15000.Date.Variation.Date Hierarchy.Year": {
+                "pattern": "$YYYY$",
+                "timeIntervalUnitType": "YEAR"
+            },
+            "15000.Date.Variation.Date Hierarchy.Quarter": {
+                "pattern": "Qtr $Q$",
+                "timeIntervalUnitType": "QUARTER"
+            },
+            "15000.Date.Variation.Date Hierarchy.Day": {
+                "pattern": "$D$",
+                "timeIntervalUnitType": "DAY"
             }
         },
         "timeExtension": {
@@ -1809,7 +1858,68 @@
             "onLoadFormula": "",
             "onDataChangeFormula": ""
         },
-        "filterList": [],
+        "filterList": [
+            {
+                "combinator": "and",
+                "id": "AJYYFTCG",
+                "name": "Store Location",
+                "rules": [
+                    {
+                        "field": "15000.Store Location",
+                        "operator": "isOneof",
+                        "value": "1, GROVE RD\r\nELDRIDGE 52748\r\n(41.694958, -90.548678)"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "AKOUQUEJ",
+                "name": "Year",
+                "rules": [
+                    {
+                        "field": "15000.Date.Variation.Date Hierarchy.Year",
+                        "operator": "isOneof",
+                        "value": "2012"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "ZTGOECMI",
+                "name": "Quarter",
+                "rules": [
+                    {
+                        "field": "15000.Date.Variation.Date Hierarchy.Quarter",
+                        "operator": "isOneof",
+                        "value": "Qtr 1"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "TGPZMJBX",
+                "name": "Day",
+                "rules": [
+                    {
+                        "field": "15000.Date.Variation.Date Hierarchy.Day",
+                        "operator": "isOneof",
+                        "value": "6"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "JBSSQJTN",
+                "name": "County",
+                "rules": [
+                    {
+                        "field": "15000.County",
+                        "operator": "isOneof",
+                        "value": "(Blank)"
+                    }
+                ]
+            }
+        ],
         "customIcons": [],
         "scrollThickness": false,
         "dynamicRowScale": {},
@@ -1818,8 +1928,8 @@
         },
         "customDateFormat": {
             "isCustomDateFormat": false,
-            "newCategories": {},
-            "categories": []
+            "categories": [],
+            "newCategories": {}
         },
         "hidePinnedRows": false,
         "skippedRows": [],
@@ -1837,16 +1947,15 @@
         "compareSnapshotConfig": {
             "baseSnapshotId": "",
             "comparingSnapshotId": "",
-            "configId": "",
-            "hideUnchangedRows": false
+            "configId": ""
         },
         "globalScript": [],
         "disableCrossFilter": false,
         "contextNotes": {},
         "filterContextHashMap": {},
         "filterContextSettings": {
-            "isNoteColumnFilterContext": true,
             "isNoteFilterContext": true,
+            "isNoteColumnFilterContext": true,
             "isCommentFilterContext": true,
             "isCommentColumnFilterContext": true,
             "filterContextStatus": null
@@ -1983,27 +2092,7 @@
         "language": "en-US",
         "allowColumnReorder": true,
         "measureColAggMap": {},
-        "rowEditPermissions": {
-            "dataConfig": {
-                "isMultiSelect": false,
-                "position": "left",
-                "linkedDataset": {
-                    "workspaceId": "",
-                    "datasetId": "",
-                    "optionDetails": {
-                        "tableName": "",
-                        "optionColumnName": "",
-                        "optionColumnID": ""
-                    },
-                    "isJoin": false,
-                    "joins": [],
-                    "filterColumnDetail": {
-                        "filterColumnsMapping": {}
-                    }
-                },
-                "selectedDataInputCols": []
-            }
-        },
+        "rowEditPermissions": {},
         "showReadViewBookmark": false,
         "indianNumberSystem": false,
         "replaceForecastWithPYorPL": "none",
@@ -2022,7 +2111,7 @@
             "activePivot": null
         },
         "fieldParamGroupConfig": {
-            "activeGroup": null,
+            "activeGroup": "",
             "groups": {},
             "defaultLabel": "",
             "isFieldParamGroupEnabled": false
@@ -2036,60 +2125,64 @@
             "isFilterActive": false,
             "startDate": null,
             "endDate": null
-        },
-        "groupExpandCollapseIcon": false
+        }
     },
     "csvOptions": {
         "rows": [
-            "Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Month"
+            "15000.County"
         ],
-        "columns": [],
+        "columns": [
+            "15000.Date.Variation.Date Hierarchy.Year",
+            "15000.Date.Variation.Date Hierarchy.Quarter"
+        ],
         "rolesMap": {},
         "typesMap": {
-            "Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Month": "TEXT",
-            "Sum(With Actual budget.Additional 2)": "NUMERIC",
-            "Sum(With Actual budget.Additional 1)": "NUMERIC"
+            "15000.County": "TEXT",
+            "15000.Date.Variation.Date Hierarchy.Year": "NUMERIC",
+            "15000.Date.Variation.Date Hierarchy.Quarter": "TEXT",
+            "Sum(15000.Sale (Dollars))": "NUMERIC"
         },
         "labelMap": {
-            "Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Month": "Month",
-            "Sum(With Actual budget.Additional 2)": "Sum of Additional 2",
-            "Sum(With Actual budget.Additional 1)": "Sum of Additional 1"
+            "15000.County": "County",
+            "15000.Date.Variation.Date Hierarchy.Year": "Year",
+            "15000.Date.Variation.Date Hierarchy.Quarter": "Quarter",
+            "Sum(15000.Sale (Dollars))": "Sum of Sale (Dollars)"
         },
         "ac_roles": [
-            "Sum(With Actual budget.Additional 1)"
+            "Sum(15000.Sale (Dollars))"
         ],
         "pl_roles": [],
-        "py_roles": [
-            "Sum(With Actual budget.Additional 2)"
-        ],
+        "py_roles": [],
         "fc_roles": [],
         "om_roles": []
     },
     "metadata": {
         "measures": {
-            "PY": [
-                {
-                    "label": "Sum of Additional 2",
-                    "name": "Sum(With Actual budget.Additional 2)",
-                    "role": "PY"
-                }
-            ],
             "AC": [
                 {
-                    "label": "Sum of Additional 1",
-                    "name": "Sum(With Actual budget.Additional 1)",
+                    "label": "Sum of Sale (Dollars)",
+                    "name": "Sum(15000.Sale (Dollars))",
                     "role": "AC"
                 }
             ]
         },
-        "columns": [],
+        "columns": [
+            {
+                "id": "15000.Date.Variation.Date Hierarchy.Year",
+                "label": "Year"
+            },
+            {
+                "id": "15000.Date.Variation.Date Hierarchy.Quarter",
+                "label": "Quarter"
+            }
+        ],
         "rows": [
             {
-                "id": "Sales Data (Columnar).Time Period.Variation.Date Hierarchy.Month",
-                "label": "Month"
+                "id": "15000.County",
+                "label": "County"
             }
         ]
     },
-    "visual":{"visualId":"HIGLMDDLHKKGNFL","visualTemplateGuid":"GJMAHIIGEJHMNFJ","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+    "visual":{"visualId":"MJKJILAAMLBONAC","visualTemplateGuid":"AKNNEFFGHCGKIFH","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.5.0.0"
 }
