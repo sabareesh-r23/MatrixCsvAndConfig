@@ -1999,7 +1999,6 @@
             },
             "keyColumnsForAllAdditionalColumns": [],
             "additionalColumnMappings": [],
-            "dateAdditionalColumnMapping": null,
             "openDateAdditionalColumnModal": false,
             "dateFormValues": {
                 "dateKeyColumnName": "",
@@ -2013,9 +2012,350 @@
             "markerData": null
         },
         "fiscalMonth": 0,
-        "visualSettings": {},
+        "visualSettings": {
+            "id": "15264",
+            "visualGuid": "MOLLCFILDALOIEJ",
+            "tenantId": "6",
+            "allowComment": true,
+            "allowWriteBack": true,
+            "accessType": 1,
+            "notification": true,
+            "reportIdentifier": "4522f1e9-441b-41ed-a7cf-ee8c7faa44c6",
+            "reportDisplayName": "Sum of Profit by Category, SubCategory, Ship Mode, Segment",
+            "reportSection": "fe51ffb2cb041de633a5",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/4522f1e9-441b-41ed-a7cf-ee8c7faa44c6/fe51ffb2cb041de633a5?experience=power-bi",
+            "visualMeta": {
+                "product": "inforiver",
+                "duplicateIdentifiers": [
+                    {
+                        "reportIdentifier": "4522f1e9-441b-41ed-a7cf-ee8c7faa44c6",
+                        "reportSection": "fe51ffb2cb041de633a5",
+                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/4522f1e9-441b-41ed-a7cf-ee8c7faa44c6/fe51ffb2cb041de633a5?experience=power-bi"
+                    }
+                ],
+                "columns": [
+                    {
+                        "alias": "Year",
+                        "name": "Year",
+                        "isTimeInterval": true,
+                        "values": [
+                            "2014",
+                            "2015",
+                            "2016",
+                            "2017"
+                        ],
+                        "timeIntervalUnit": "YEAR",
+                        "level": 0,
+                        "id": "Orders.Order Date.Variation.Date Hierarchy.Year"
+                    },
+                    {
+                        "alias": "Quarter",
+                        "name": "Quarter",
+                        "isTimeInterval": true,
+                        "values": [
+                            "Qtr 1",
+                            "Qtr 2",
+                            "Qtr 3",
+                            "Qtr 4"
+                        ],
+                        "timeIntervalUnit": "QUARTER",
+                        "level": 1,
+                        "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter"
+                    }
+                ],
+                "rows": [
+                    {
+                        "alias": "Category",
+                        "name": "Category",
+                        "timeIntervalUnit": null,
+                        "level": 0,
+                        "isTimeInterval": false,
+                        "id": "Orders.Category"
+                    },
+                    {
+                        "alias": "SubCategory",
+                        "name": "SubCategory",
+                        "timeIntervalUnit": null,
+                        "level": 1,
+                        "isTimeInterval": false,
+                        "id": "Orders.Sub-Category"
+                    }
+                ],
+                "columnHierarchy": [
+                    {
+                        "id": "2014",
+                        "label": "2014",
+                        "level": 0,
+                        "path": "2014",
+                        "date": "2014-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2014__Qtr__1__UXRyJTIwMQ__",
+                        "label": "Qtr 1",
+                        "level": 1,
+                        "path": "2014|Qtr 1",
+                        "date": "2014-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2014__Qtr__2__UXRyJTIwMg__",
+                        "label": "Qtr 2",
+                        "level": 1,
+                        "path": "2014|Qtr 2",
+                        "date": "2014-04-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2014__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2014|Qtr 3",
+                        "date": "2014-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2014__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2014|Qtr 4",
+                        "date": "2014-10-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2015",
+                        "label": "2015",
+                        "level": 0,
+                        "path": "2015",
+                        "date": "2015-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2015__Qtr__1__UXRyJTIwMQ__",
+                        "label": "Qtr 1",
+                        "level": 1,
+                        "path": "2015|Qtr 1",
+                        "date": "2015-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2015__Qtr__2__UXRyJTIwMg__",
+                        "label": "Qtr 2",
+                        "level": 1,
+                        "path": "2015|Qtr 2",
+                        "date": "2015-04-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2015__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2015|Qtr 3",
+                        "date": "2015-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2015__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2015|Qtr 4",
+                        "date": "2015-10-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2016",
+                        "label": "2016",
+                        "level": 0,
+                        "path": "2016",
+                        "date": "2016-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2016__Qtr__1__UXRyJTIwMQ__",
+                        "label": "Qtr 1",
+                        "level": 1,
+                        "path": "2016|Qtr 1",
+                        "date": "2016-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2016__Qtr__2__UXRyJTIwMg__",
+                        "label": "Qtr 2",
+                        "level": 1,
+                        "path": "2016|Qtr 2",
+                        "date": "2016-04-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2016__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2016|Qtr 3",
+                        "date": "2016-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2016__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2016|Qtr 4",
+                        "date": "2016-10-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017",
+                        "label": "2017",
+                        "level": 0,
+                        "path": "2017",
+                        "date": "2017-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017__Qtr__1__UXRyJTIwMQ__",
+                        "label": "Qtr 1",
+                        "level": 1,
+                        "path": "2017|Qtr 1",
+                        "date": "2017-01-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017__Qtr__2__UXRyJTIwMg__",
+                        "label": "Qtr 2",
+                        "level": 1,
+                        "path": "2017|Qtr 2",
+                        "date": "2017-04-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017__Qtr__3__UXRyJTIwMw__",
+                        "label": "Qtr 3",
+                        "level": 1,
+                        "path": "2017|Qtr 3",
+                        "date": "2017-07-01T00:00:00+05:30"
+                    },
+                    {
+                        "id": "2017__Qtr__4__UXRyJTIwNA__",
+                        "label": "Qtr 4",
+                        "level": 1,
+                        "path": "2017|Qtr 4",
+                        "date": "2017-10-01T00:00:00+05:30"
+                    }
+                ],
+                "visualSignature": {
+                    "dimensions": [
+                        {
+                            "id": "Orders.Category",
+                            "name": "Category",
+                            "dataType": "TEXT"
+                        },
+                        {
+                            "id": "Orders.Sub-Category",
+                            "name": "SubCategory",
+                            "dataType": "TEXT"
+                        },
+                        {
+                            "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
+                            "name": "Year",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
+                            "name": "Quarter",
+                            "dataType": "TEXT"
+                        }
+                    ],
+                    "dimensionHash": "cae534c9f81ddfc8cebe921c2de0d772",
+                    "measures": [
+                        {
+                            "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
+                            "name": "Sum of Profit",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "CALC_17270756785448160",
+                            "name": "Number_VC",
+                            "dataType": "NUMERIC"
+                        },
+                        {
+                            "id": "CALC_17270758558745448",
+                            "name": "Text_VC",
+                            "dataType": "TEXT"
+                        },
+                        {
+                            "id": "CALC_17270758745802336",
+                            "name": "SingleSelect_VC",
+                            "dataType": "OPTIONS"
+                        },
+                        {
+                            "id": "CALC_17270759209656734",
+                            "name": "Multi Select_VC",
+                            "dataType": "MULTI_SELECT"
+                        },
+                        {
+                            "id": "CALC_17270759395153324",
+                            "name": "Check Box_VC",
+                            "dataType": "CHECK_BOX"
+                        },
+                        {
+                            "id": "CALC_17270759706541379",
+                            "name": "Date_VC",
+                            "dataType": "DATE"
+                        },
+                        {
+                            "id": "CALC_17270759894713815",
+                            "name": "Person_VC",
+                            "dataType": "PERSON"
+                        },
+                        {
+                            "name": "Comments",
+                            "dataType": "TEXT"
+                        }
+                    ],
+                    "hasFormulaRows": false,
+                    "hasCascadeFormulaMeasure": false,
+                    "hasNativeMeasures": true,
+                    "reportDisplayName": "Sum of Profit by Category, SubCategory, Ship Mode, Segment"
+                },
+                "includedIdDimensions": [
+                    {
+                        "id": "Orders.Category",
+                        "name": "Category"
+                    },
+                    {
+                        "id": "Orders.Sub-Category",
+                        "name": "SubCategory"
+                    },
+                    {
+                        "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
+                        "name": "Year"
+                    },
+                    {
+                        "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
+                        "name": "Quarter"
+                    }
+                ],
+                "dimensionIdMapping": [],
+                "isFilterContextEnabled": 20,
+                "isFilterContextEnabledForComments": 10,
+                "isFilterContextEnabledForNotes": 10
+            },
+            "usersAllowed": [],
+            "digest": false,
+            "schedule": {},
+            "scheduleStatus": null,
+            "status": 10,
+            "createdBy": "49",
+            "createdAt": 1727335531,
+            "updatedBy": "91",
+            "updatedAt": 1728287868,
+            "commentVisualDestinations": [],
+            "digestMailList": [],
+            "digestUnsubscribedMailList": [],
+            "snapshotSchedule": {},
+            "snapshotScheduleStatus": null,
+            "reportAssetId": "817",
+            "mdeSettings": {},
+            "visualIdentifier": "inforiver_MOLLCFILDALOIEJ",
+            "languages": {
+                "GERMAN": "de-DE",
+                "FRENCH": "fr-FR",
+                "SPANISH": "es-ES"
+            },
+            "filterContextMapping": {}
+        },
         "calculatedColHier": [],
-        "timeDimensionMeta": {},
+        "timeDimensionMeta": {
+            "Orders.Order Date.Variation.Date Hierarchy.Year": {
+                "pattern": "$YYYY$",
+                "timeIntervalUnitType": "YEAR"
+            },
+            "Orders.Order Date.Variation.Date Hierarchy.Quarter": {
+                "pattern": "Qtr $Q$",
+                "timeIntervalUnitType": "QUARTER"
+            }
+        },
         "timeExtension": {
             "enabled": false,
             "start": null,
@@ -2285,22 +2625,22 @@
             "Orders.Sub-Category"
         ],
         "columns": [
-            "Orders.Ship Mode",
-            "Orders.Segment"
+            "Orders.Order Date.Variation.Date Hierarchy.Year",
+            "Orders.Order Date.Variation.Date Hierarchy.Quarter"
         ],
         "rolesMap": {},
         "typesMap": {
             "Orders.Category": "TEXT",
             "Orders.Sub-Category": "TEXT",
-            "Orders.Ship Mode": "TEXT",
-            "Orders.Segment": "TEXT",
+            "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC",
+            "Orders.Order Date.Variation.Date Hierarchy.Quarter": "TEXT",
             "Sum(Orders.Profit)": "NUMERIC"
         },
         "labelMap": {
             "Orders.Category": "Category",
             "Orders.Sub-Category": "SubCategory",
-            "Orders.Ship Mode": "Ship Mode",
-            "Orders.Segment": "Segment",
+            "Orders.Order Date.Variation.Date Hierarchy.Year": "Year",
+            "Orders.Order Date.Variation.Date Hierarchy.Quarter": "Quarter",
             "Sum(Orders.Profit)": "Sum of Profit"
         },
         "ac_roles": [
@@ -2323,12 +2663,12 @@
         },
         "columns": [
             {
-                "id": "Orders.Ship Mode",
-                "label": "Ship Mode"
+                "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
+                "label": "Year"
             },
             {
-                "id": "Orders.Segment",
-                "label": "Segment"
+                "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
+                "label": "Quarter"
             }
         ],
         "rows": [
