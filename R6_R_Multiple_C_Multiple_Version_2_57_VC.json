@@ -322,7 +322,7 @@
                 "showScenarioVariance": true,
                 "meta": null,
                 "isStoredColumn": false,
-                "order": 7
+                "order": 8
             },
             {
                 "id": "LAST_UPDATED_BY",
@@ -350,7 +350,7 @@
                 "showScenarioVariance": true,
                 "meta": null,
                 "isStoredColumn": false,
-                "order": 8
+                "order": 9
             }
         ],
         "calculatedColumnMeta": {
@@ -362,7 +362,7 @@
             "rowSubTotalPosition": "above",
             "columnGrandTotal": false,
             "columnGrandTotalPosition": "clear",
-            "columnSubTotalPosition": "clear",
+            "columnSubTotalPosition": "left",
             "summaryTotal": false,
             "rowForSubtotal": false
         },
@@ -1105,7 +1105,8 @@
             "CALC_17270759209656734": "sum",
             "CALC_17270759395153324": "sum",
             "CALC_17270759706541379": "sum",
-            "CALC_17270759894713815": "sum"
+            "CALC_17270759894713815": "sum",
+            "CALC_17282960236569397": "sum"
         },
         "outliers": {
             "enableOutlier": false,
@@ -2246,7 +2247,6 @@
                             "dataType": "TEXT"
                         }
                     ],
-                    "dimensionHash": "cae534c9f81ddfc8cebe921c2de0d772",
                     "measures": [
                         {
                             "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp",
@@ -2293,10 +2293,10 @@
                             "dataType": "TEXT"
                         }
                     ],
+                    "reportDisplayName": "Sum of Profit by Category, SubCategory, Ship Mode, Segment",
                     "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
-                    "hasNativeMeasures": true,
-                    "reportDisplayName": "Sum of Profit by Category, SubCategory, Ship Mode, Segment"
+                    "hasNativeMeasures": true
                 },
                 "includedIdDimensions": [
                     {
@@ -2328,8 +2328,8 @@
             "status": 10,
             "createdBy": "49",
             "createdAt": 1727335531,
-            "updatedBy": "91",
-            "updatedAt": 1728287868,
+            "updatedBy": "28",
+            "updatedAt": 1728296053,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2561,7 +2561,8 @@
             "CALC_17270759209656734": "sum",
             "CALC_17270759395153324": "sum",
             "CALC_17270759706541379": "sum",
-            "CALC_17270759894713815": "sum"
+            "CALC_17270759894713815": "sum",
+            "CALC_17282960236569397": "sum"
         },
         "rowEditPermissions": {
             "dataConfig": {
