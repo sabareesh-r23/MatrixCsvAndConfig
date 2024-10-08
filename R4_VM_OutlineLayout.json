@@ -1756,7 +1756,6 @@
               "dataType": "TEXT"
             }
           ],
-          "dimensionHash": "1514e1ac3dfa652ba42ecffcec8acb90",
           "measures": [
             {
               "id": "Sum__15000__Sale__Dollars__U3VtKDE1MDAwLlNhbGUlMjAoRG9sbGFycykp",
@@ -1768,10 +1767,10 @@
               "dataType": "TEXT"
             }
           ],
+          "reportDisplayName": " by Store Location, Year, Quarter",
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
-          "hasNativeMeasures": true,
-          "reportDisplayName": " by Store Location, Year, Quarter"
+          "hasNativeMeasures": true
         },
         "includedIdDimensions": [
           {
@@ -1800,7 +1799,7 @@
       "createdBy": "91",
       "createdAt": 1727672629,
       "updatedBy": "55",
-      "updatedAt": 1728368225,
+      "updatedAt": 1728391986,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
