@@ -1406,12 +1406,12 @@
                 "writeBack": false
             },
             "dataEntry": {
-                "scenario": false,
-                "audit": false,
-                "comment": false,
-                "action": false,
-                "column": false,
-                "display": false
+                "scenario": true,
+                "audit": true,
+                "comment": true,
+                "action": true,
+                "column": true,
+                "display": true
             },
             "advancedTabMenu": {
                 "rowColumnConfig": true
@@ -1627,9 +1627,7 @@
                 "message": "",
                 "show": false
             },
-            "keyColumnsForAllAdditionalColumns": [
-                "datekey"
-            ],
+            "keyColumnsForAllAdditionalColumns": [],
             "additionalColumnMappings": [
                 {
                     "datasetId": "7ef1faa1-577c-4c70-9c71-e699acd18283",
@@ -1763,7 +1761,7 @@
             "createdBy": "91",
             "createdAt": 1727199516,
             "updatedBy": "91",
-            "updatedAt": 1727630686,
+            "updatedAt": 1728324175,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2038,7 +2036,8 @@
             "isFilterActive": false,
             "startDate": null,
             "endDate": null
-        }
+        },
+        "groupExpandCollapseIcon": false
     },
     "csvOptions": {
         "rows": [

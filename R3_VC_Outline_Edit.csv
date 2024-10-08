@@ -1,0 +1,13 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,CountNonNull(Orders.Row ID)
+2014,Furniture,421
+2015,Furniture,452
+2016,Furniture,562
+2017,Furniture,686
+2014,Office Supplies,1217
+2015,Office Supplies,1241
+2016,Office Supplies,1566
+2017,Office Supplies,2002
+2014,Technology,355
+2015,Technology,409
+2016,Technology,459
+2017,Technology,624
