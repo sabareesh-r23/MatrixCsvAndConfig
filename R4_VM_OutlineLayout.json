@@ -2,20 +2,56 @@
   "version": 2,
   "config": {
     "sorting": [],
-    "pagination": { "enable": true, "pageRowCount": 10, "autoRowCount": "layout", "view": "browser", "pageNo": 0, "paginationHeight": 20, "currentPageNumber": 0 },
-    "headerOption": { "showHeaderIndicator": true, "showHeader": true, "showMeasureHeader": true },
+    "pagination": {
+      "enable": true,
+      "pageRowCount": 10,
+      "autoRowCount": "layout",
+      "view": "browser",
+      "pageNo": 0,
+      "paginationHeight": 20,
+      "currentPageNumber": 0
+    },
+    "headerOption": {
+      "showHeaderIndicator": true,
+      "showHeader": true,
+      "showMeasureHeader": true
+    },
     "enableSign": false,
     "isEditMode": true,
     "columnTitleConfigs": [],
     "overRideScaleFactor": true,
     "interactivity": {},
-    "compareHeader": { "left": { "label": "", "values": [] }, "right": { "label": "", "values": [] } },
-    "tableState": { "rowHierarchyLevel": {}, "compareMeasure": null, "expandCollapseIcon": "plusMinusSquare", "columnExpandCollapseIcon": "arrows", "columnHierarchyLevel": {}, "headerHeight": 25 },
+    "compareHeader": {
+      "left": {
+        "label": "",
+        "values": []
+      },
+      "right": {
+        "label": "",
+        "values": []
+      }
+    },
+    "tableState": {
+      "rowHierarchyLevel": {},
+      "compareMeasure": null,
+      "expandCollapseIcon": "plusMinusSquare",
+      "columnExpandCollapseIcon": "arrows",
+      "columnHierarchyLevel": {},
+      "headerHeight": 25
+    },
     "measureBasedHeader": true,
     "isReadModeConfigModified": true,
     "layout": "OUTLINE",
-    "rowExpandCollapseOptions": { "rows": {}, "expandTillDescendant": {}, "gridState": null, "levelStates": [], "maxLevelExpanded": null },
-    "chartTitleOption": { "show": true },
+    "rowExpandCollapseOptions": {
+      "rows": {},
+      "expandTillDescendant": {},
+      "gridState": null,
+      "levelStates": [],
+      "maxLevelExpanded": null
+    },
+    "chartTitleOption": {
+      "show": true
+    },
     "chartCustomTitle": {
       "secondaryTitle": "",
       "measureTitle": "",
@@ -25,9 +61,22 @@
           {
             "type": "DEFAULT_TITLE",
             "id": "left-col",
-            "position": { "top": 0, "left": 0 },
-            "dimension": { "width": "150", "height": "30" },
-            "layout": { "x": 0, "y": 0, "w": 32, "h": 3, "i": "left-col", "static": false },
+            "position": {
+              "top": 0,
+              "left": 0
+            },
+            "dimension": {
+              "width": "150",
+              "height": "30"
+            },
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "w": 32,
+              "h": 3,
+              "i": "left-col",
+              "static": false
+            },
             "content": "<span class='mention' data-value='{\"id\":\"[fields]\",\"fieldKey\":\"title\",\"key\":\"fields\"}'>[fields]</span><p><span style=\"font-size: 12px;\"><span class='mention' data-value='{\"id\":\"[scaling]\",\"fieldKey\":\"title\",\"key\":\"scaling\"}'>[scaling]</span></span></p>",
             "verticalAlign": "MIDDLE",
             "align": "left",
@@ -47,11 +96,20 @@
         ],
         "layout": "left-col",
         "layoutType": "CUSTOM",
-        "containerMeta": { "width": 1260, "height": 45 },
+        "containerMeta": {
+          "width": 1260,
+          "height": 45
+        },
         "containerPosition": "top"
       }
     },
-    "breakConfig": { "sectionBreak": [], "pageBreak": { "rowBreakBy": "", "columnBreakBy": "" } },
+    "breakConfig": {
+      "sectionBreak": [],
+      "pageBreak": {
+        "rowBreakBy": "",
+        "columnBreakBy": ""
+      }
+    },
     "miscellaneous": {
       "enableFooter": true,
       "showInfoRiverLogo": true,
@@ -73,7 +131,10 @@
       "headerHeight": 30,
       "headerFontSize": "14px",
       "headerFontColor": "#212121",
-      "rotateLabels": { "enabled": false, "angle": 0 },
+      "rotateLabels": {
+        "enabled": false,
+        "angle": 0
+      },
       "headerLabelOrient": "initial",
       "isHeightUpdatedManually": false,
       "isFontFamilyChanged": false,
@@ -97,7 +158,14 @@
       "columnAnnotations": [],
       "indicatorType": "numbered",
       "indicatorPosition": "default",
-      "persistProperty": { "bgColor": "rgba(255,255,255,0.9)", "lineColor": "rgba(3,169,244,0.7)", "borderColor": "rgba(3,169,244,0.7)", "iconColor": "rgba(0, 120, 212, 0.7)", "displayOptions": 4, "iconSize": 14 },
+      "persistProperty": {
+        "bgColor": "rgba(255,255,255,0.9)",
+        "lineColor": "rgba(3,169,244,0.7)",
+        "borderColor": "rgba(3,169,244,0.7)",
+        "iconColor": "rgba(0, 120, 212, 0.7)",
+        "displayOptions": 4,
+        "iconSize": 14
+      },
       "showFootnote": false,
       "rowLevelComments": true,
       "enableReply": true,
@@ -132,7 +200,12 @@
       "measureOnlyHighlight": false,
       "lineStyleRecentColor": ""
     },
-    "rowReorder": { "enabled": true, "siblingRowReorder": true, "rowOrderConfig": {}, "rowOrderConfigMeta": {} },
+    "rowReorder": {
+      "enabled": true,
+      "siblingRowReorder": true,
+      "rowOrderConfig": {},
+      "rowOrderConfigMeta": {}
+    },
     "columnHierarchySort": {},
     "verticalLabelColumn": false,
     "compareMesLabelAlign": false,
@@ -223,7 +296,9 @@
       "tooltipDecimal": 1
     },
     "calculatedColumns": [],
-    "calculatedColumnMeta": { "newColumnIndex": 0 },
+    "calculatedColumnMeta": {
+      "newColumnIndex": 0
+    },
     "totalUtility": {
       "rowGrandTotal": true,
       "rowGrandTotalPosition": "above",
@@ -259,7 +334,20 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
+          "colorScheme": {
+            "selectedColorScheme": "Blues",
+            "numberOfRanges": 5,
+            "colors": [
+              "#d0e1f2",
+              "#94c4df",
+              "#4a98c9",
+              "#1764ab",
+              "#08306b"
+            ],
+            "minColor": "red",
+            "middleColor": "blue",
+            "maxColor": "green"
+          },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -272,7 +360,11 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": ["cross", "alert", "tick"],
+          "ratingIcons": [
+            "cross",
+            "alert",
+            "tick"
+          ],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -345,7 +437,20 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
+          "colorScheme": {
+            "selectedColorScheme": "Blues",
+            "numberOfRanges": 5,
+            "colors": [
+              "#d0e1f2",
+              "#94c4df",
+              "#4a98c9",
+              "#1764ab",
+              "#08306b"
+            ],
+            "minColor": "red",
+            "middleColor": "blue",
+            "maxColor": "green"
+          },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -358,7 +463,11 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": ["cross", "alert", "tick"],
+          "ratingIcons": [
+            "cross",
+            "alert",
+            "tick"
+          ],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -431,7 +540,20 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
+          "colorScheme": {
+            "selectedColorScheme": "Blues",
+            "numberOfRanges": 5,
+            "colors": [
+              "#d0e1f2",
+              "#94c4df",
+              "#4a98c9",
+              "#1764ab",
+              "#08306b"
+            ],
+            "minColor": "red",
+            "middleColor": "blue",
+            "maxColor": "green"
+          },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -444,7 +566,11 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": ["cross", "alert", "tick"],
+          "ratingIcons": [
+            "cross",
+            "alert",
+            "tick"
+          ],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -517,7 +643,20 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
+          "colorScheme": {
+            "selectedColorScheme": "Blues",
+            "numberOfRanges": 5,
+            "colors": [
+              "#d0e1f2",
+              "#94c4df",
+              "#4a98c9",
+              "#1764ab",
+              "#08306b"
+            ],
+            "minColor": "red",
+            "middleColor": "blue",
+            "maxColor": "green"
+          },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -530,7 +669,11 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": ["cross", "alert", "tick"],
+          "ratingIcons": [
+            "cross",
+            "alert",
+            "tick"
+          ],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -603,7 +746,20 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
+          "colorScheme": {
+            "selectedColorScheme": "Blues",
+            "numberOfRanges": 5,
+            "colors": [
+              "#d0e1f2",
+              "#94c4df",
+              "#4a98c9",
+              "#1764ab",
+              "#08306b"
+            ],
+            "minColor": "red",
+            "middleColor": "blue",
+            "maxColor": "green"
+          },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -616,7 +772,11 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": ["cross", "alert", "tick"],
+          "ratingIcons": [
+            "cross",
+            "alert",
+            "tick"
+          ],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -689,7 +849,20 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
+          "colorScheme": {
+            "selectedColorScheme": "Blues",
+            "numberOfRanges": 5,
+            "colors": [
+              "#d0e1f2",
+              "#94c4df",
+              "#4a98c9",
+              "#1764ab",
+              "#08306b"
+            ],
+            "minColor": "red",
+            "middleColor": "blue",
+            "maxColor": "green"
+          },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -702,7 +875,11 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": ["cross", "alert", "tick"],
+          "ratingIcons": [
+            "cross",
+            "alert",
+            "tick"
+          ],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -759,19 +936,40 @@
         }
       ]
     },
-    "kpiExplorerCf": { "rules": [] },
+    "kpiExplorerCf": {
+      "rules": []
+    },
     "columnSelection": false,
-    "templateConfig": { "template": "Matrix", "type": "default" },
+    "templateConfig": {
+      "template": "Matrix",
+      "type": "default"
+    },
     "isInFocus": false,
-    "manageMeasures": [{ "label": "Sum of Sale (Dollars)", "id": "Sum__15000__Sale__Dollars__U3VtKDE1MDAwLlNhbGUlMjAoRG9sbGFycykp", "name": "Sum(15000.Sale (Dollars))", "order": 0, "visible": true, "measureType": "data", "role": "AC" }],
-    "invertRows": { "valueRow": {} },
+    "manageMeasures": [
+      {
+        "label": "Sum of Sale (Dollars)",
+        "id": "Sum__15000__Sale__Dollars__U3VtKDE1MDAwLlNhbGUlMjAoRG9sbGFycykp",
+        "name": "Sum(15000.Sale (Dollars))",
+        "order": 0,
+        "visible": true,
+        "measureType": "data",
+        "role": "AC"
+      }
+    ],
+    "invertRows": {
+      "valueRow": {}
+    },
     "resultRows": {},
     "shouldAggregate": false,
     "columnMeta": {},
     "chartTypes": {},
     "gridLineCount": 1,
     "measureAggMap": {},
-    "outliers": { "enableOutlier": false, "min": 0, "max": 0 },
+    "outliers": {
+      "enableOutlier": false,
+      "min": 0,
+      "max": 0
+    },
     "headerLabelFormat": {},
     "sparklineConfig": {},
     "displayAllCols": false,
@@ -780,15 +978,34 @@
     "dynamicRowIcon": true,
     "showNullRefAsZero": true,
     "calcCellIcon": true,
-    "filter": { "rules": [], "combinator": "and", "not": false },
-    "search": { "category": null, "searchString": "", "tokens": [] },
-    "ranking": { "rules": [], "othersLabel": "Others", "enableOthersSuffix": false, "enableOthersCount": true, "showOthers": true, "exemptions": {} },
+    "filter": {
+      "rules": [],
+      "combinator": "and",
+      "not": false
+    },
+    "search": {
+      "category": null,
+      "searchString": "",
+      "tokens": []
+    },
+    "ranking": {
+      "rules": [],
+      "othersLabel": "Others",
+      "enableOthersSuffix": false,
+      "enableOthersCount": true,
+      "showOthers": true,
+      "exemptions": {}
+    },
     "kpiExplorer": {
       "showExplorer": false,
       "selectedMeasure": "",
       "filterValues": {},
       "panelWidthMeta": {},
-      "showKPI": { "column": {}, "row": {}, "rowGroup": {} },
+      "showKPI": {
+        "column": {},
+        "row": {},
+        "rowGroup": {}
+      },
       "sort": {},
       "expanded": true,
       "timeInterval": [],
@@ -805,13 +1022,20 @@
     "aggregationType": "sum",
     "varianceInvertColumn": {},
     "landingPage": false,
-    "columnExpandCollapse": { "2012": { "expanded": true } },
+    "columnExpandCollapse": {
+      "2012": {
+        "expanded": true
+      }
+    },
     "layoutType": "default",
     "calculatedCells": [],
     "enablePersistFilter": false,
     "columnGroupConfig": {},
     "alertFilter": [],
-    "rowHeightsConfig": { "row": {}, "level": {} },
+    "rowHeightsConfig": {
+      "row": {},
+      "level": {}
+    },
     "summarySettings": {
       "rowLayout": "multi",
       "forceMultiLine": false,
@@ -821,7 +1045,10 @@
       "detailGridHeightType": "auto",
       "detailXPadding": 10,
       "detailYPadding": 10,
-      "detailBreakBy": { "row": "", "column": "" },
+      "detailBreakBy": {
+        "row": "",
+        "column": ""
+      },
       "showAggregation": false,
       "detailLayout": "table",
       "showGroupBorder": true,
@@ -829,9 +1056,15 @@
       "groupHeaderColor": "#edebe9",
       "groupBorderColor": "#cccccc",
       "groupBorderThickness": 1,
-      "summaryHeader": { "elements": [] },
-      "summaryFooter": { "elements": [] },
-      "summaryGlobalHeader": { "elements": [] },
+      "summaryHeader": {
+        "elements": []
+      },
+      "summaryFooter": {
+        "elements": []
+      },
+      "summaryGlobalHeader": {
+        "elements": []
+      },
       "showSummaryHeader": true,
       "showSummaryFooter": true,
       "showSummaryGlobalHeader": false,
@@ -839,10 +1072,16 @@
       "summaryFooterHeight": 30,
       "summaryGlobalHeaderHeight": 180,
       "masterRowExpandCollapseConfig": {},
-      "multiColumn": { "enabled": false, "cols": [] },
+      "multiColumn": {
+        "enabled": false,
+        "cols": []
+      },
       "categoryBreak": [],
       "columnSpacing": 10,
-      "summaryPage": { "enabled": false, "position": "hide" },
+      "summaryPage": {
+        "enabled": false,
+        "position": "hide"
+      },
       "listView": true,
       "drillDownData": [],
       "syncScroll": true
@@ -873,7 +1112,12 @@
       "columnWidth": "normal",
       "orientation": "l",
       "margin": "md",
-      "logo": { "filename": "", "base64": "", "width": 60, "height": 30 },
+      "logo": {
+        "filename": "",
+        "base64": "",
+        "width": 60,
+        "height": 30
+      },
       "title": "",
       "subTitle": "",
       "displaydate": true,
@@ -891,7 +1135,12 @@
       "imageName": "",
       "imageHAlign": "center",
       "imageVAlign": "middle",
-      "imageMargin": { "top": 0, "bottom": 0, "left": 0, "right": 0 },
+      "imageMargin": {
+        "top": 0,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
       "showFilterContext": "hide",
       "footComments": "hide",
       "exportCfSettings": {},
@@ -900,7 +1149,12 @@
     },
     "exportExcelSettings": {
       "exportType": "matrix",
-      "logo": { "filename": "", "base64": "", "width": 60, "height": 30 },
+      "logo": {
+        "filename": "",
+        "base64": "",
+        "width": 60,
+        "height": 30
+      },
       "title": "",
       "subTitle": "",
       "footerNote": "",
@@ -911,17 +1165,53 @@
       "showCustomHeaderImage": false,
       "smartFit": true
     },
-    "schedulerSettings": { "hierarchyView": "flatIntended" },
-    "ruler": { "enabled": false, "disabled": { "state": false, "prevEnabledState": null }, "activeSummaryGroup": null },
-    "recentColors": ["#377D22", "#A60000"],
+    "schedulerSettings": {
+      "hierarchyView": "flatIntended"
+    },
+    "ruler": {
+      "enabled": false,
+      "disabled": {
+        "state": false,
+        "prevEnabledState": null
+      },
+      "activeSummaryGroup": null
+    },
+    "recentColors": [
+      "#377D22",
+      "#A60000"
+    ],
     "frequentColors": [],
-    "formatConfig": { "row": {}, "column": {}, "columnDimension": {}, "cell": {}, "labelCellGroup": {}, "measure": {}, "rowDimension": {}, "rowGroup": {}, "columnHierarchy": {}, "formatSize": 0, "__lastHouseKeepedSize": 0 },
-    "layoutSizes": { "tableWidth": 80, "chartWidth": 150, "labelWidth": 120, "isResponsive": false, "bulletWidth": 300, "maximumChartWidth": 200, "isMaximumChartWidthAllowed": false, "preferedWidthSelection": "measure" },
+    "formatConfig": {
+      "row": {},
+      "column": {},
+      "columnDimension": {},
+      "cell": {},
+      "labelCellGroup": {},
+      "measure": {},
+      "rowDimension": {},
+      "rowGroup": {},
+      "columnHierarchy": {},
+      "formatSize": 0,
+      "__lastHouseKeepedSize": 0
+    },
+    "layoutSizes": {
+      "tableWidth": 80,
+      "chartWidth": 150,
+      "labelWidth": 120,
+      "isResponsive": false,
+      "bulletWidth": 300,
+      "maximumChartWidth": 200,
+      "isMaximumChartWidthAllowed": false,
+      "preferedWidthSelection": "measure"
+    },
     "pinnedRowIds": [],
     "pinnedColIds": [],
     "virtualRoleColumnMap": {},
     "rowGroupConfig": {},
-    "columnHierarchyReorder": { "colOrderConfig": {}, "colOrderConfigMeta": {} },
+    "columnHierarchyReorder": {
+      "colOrderConfig": {},
+      "colOrderConfigMeta": {}
+    },
     "rowLabelMeta": {},
     "hiddenRows": [],
     "toolbar": {
@@ -938,23 +1228,86 @@
       "hideDuplicateReportWarning": false,
       "showForecastTab": false
     },
-    "warningModal": { "show": false, "message": "", "autoClose": true, "showLoader": false, "showClose": true },
+    "warningModal": {
+      "show": false,
+      "message": "",
+      "autoClose": true,
+      "showLoader": false,
+      "showClose": true
+    },
     "showGripper": true,
     "showComments": true,
     "showHeaderFooter": true,
-    "urlMetaConfig": { "hasURL": false, "hasImg": false, "urlColId": "", "urlColIndex": null },
+    "urlMetaConfig": {
+      "hasURL": false,
+      "hasImg": false,
+      "urlColId": "",
+      "urlColIndex": null
+    },
     "pbiThemeColor": {
-      "rowLevelTheme": { "0": "#118DFF", "1": "#12239E" },
-      "measureLevelTheme": { "0": "#118DFF", "1": "#12239E", "2": "#E66C37", "3": "#6B007B", "4": "#E044A7", "5": "#744EC2", "6": "#D9B300", "7": "#D64550", "8": "#197278", "9": "#1AAB40", "10": "#15C6F4" }
+      "rowLevelTheme": {
+        "0": "#118DFF",
+        "1": "#12239E"
+      },
+      "measureLevelTheme": {
+        "0": "#118DFF",
+        "1": "#12239E",
+        "2": "#E66C37",
+        "3": "#6B007B",
+        "4": "#E044A7",
+        "5": "#744EC2",
+        "6": "#D9B300",
+        "7": "#D64550",
+        "8": "#197278",
+        "9": "#1AAB40",
+        "10": "#15C6F4"
+      }
     },
     "labelColIndex": null,
-    "hierarchy": { "raggedHierarchy": true, "hideBlanks": "vc", "hideZeros": false, "unbalancedHierarchy": "off" },
-    "totalsDisplay": { "showSubTotalsAsTable": false, "showVarSubTotalsAsTable": false, "showTotalAsTable": true, "showVarTotalAsTable": false, "showColumnGTAsTable": true, "advancedSteppedLayout": false, "removeSingleChildren": true },
-    "rowAutoGroupConfig": { "ruleName": "none" },
-    "chartStyles": { "variancePin": "square", "showDataLabel": true, "isBarOverlap": false },
-    "autoFitOptions": { "autoFit": false, "lockColumnWidth": false, "wrapCols": false, "uniformColumnWidth": { "enabled": false, "width": null } },
+    "hierarchy": {
+      "raggedHierarchy": true,
+      "hideBlanks": "vc",
+      "hideZeros": false,
+      "unbalancedHierarchy": "off"
+    },
+    "totalsDisplay": {
+      "showSubTotalsAsTable": false,
+      "showVarSubTotalsAsTable": false,
+      "showTotalAsTable": true,
+      "showVarTotalAsTable": false,
+      "showColumnGTAsTable": true,
+      "advancedSteppedLayout": false,
+      "removeSingleChildren": true
+    },
+    "rowAutoGroupConfig": {
+      "ruleName": "none"
+    },
+    "chartStyles": {
+      "variancePin": "square",
+      "showDataLabel": true,
+      "isBarOverlap": false
+    },
+    "autoFitOptions": {
+      "autoFit": false,
+      "lockColumnWidth": false,
+      "wrapCols": false,
+      "uniformColumnWidth": {
+        "enabled": false,
+        "width": null
+      }
+    },
     "readViewConfig": {
-      "home": { "navigation": true, "alignment": true, "style": true, "number": true, "chart": true, "analyze": true, "notes": true, "setup": true, "manage": true },
+      "home": {
+        "navigation": true,
+        "alignment": true,
+        "style": true,
+        "number": true,
+        "chart": true,
+        "analyze": true,
+        "notes": true,
+        "setup": true,
+        "manage": true
+      },
       "advanced": {
         "pagelayout": false,
         "compare": false,
@@ -971,83 +1324,274 @@
         "variables": false,
         "bulkEdit": false
       },
-      "export": { "pdf": true, "excel": true, "visual": true, "copyToClipboard": true, "schedule": true, "writeBack": false },
-      "dataEntry": { "scenario": true, "audit": true, "comment": true, "action": true, "column": true, "display": true },
-      "advancedTabMenu": { "rowColumnConfig": true },
-      "enterprise": { "writeBack": true, "schedule": true, "layout": true, "breaks": true, "table": true, "reportPlus": true },
-      "scenario": { "scenario": false, "export": false, "writeBack": false, "analyze": false, "annotate": false, "monitor": false, "modifiedByUser": false, "actions": false },
-      "snapshot": { "export": true, "analyze": true, "compare": true },
-      "forecast": { "openPeriods": false, "measure": false, "analyze": false, "style": false, "insert": false, "measures": false, "rows": false, "annotate": false, "actions": false },
-      "indicator": { "edit": false, "header": true, "row": false, "row_label": false },
-      "infoBridge": { "export": false, "configure": false, "import": false },
-      "buttonVariablesFloatingView": { "variables": {}, "showOnReadMode": true }
+      "export": {
+        "pdf": true,
+        "excel": true,
+        "visual": true,
+        "copyToClipboard": true,
+        "schedule": true,
+        "writeBack": false
+      },
+      "dataEntry": {
+        "scenario": true,
+        "audit": true,
+        "comment": true,
+        "action": true,
+        "column": true,
+        "display": true
+      },
+      "advancedTabMenu": {
+        "rowColumnConfig": true
+      },
+      "enterprise": {
+        "writeBack": true,
+        "schedule": true,
+        "layout": true,
+        "breaks": true,
+        "table": true,
+        "reportPlus": true
+      },
+      "scenario": {
+        "scenario": false,
+        "export": false,
+        "writeBack": false,
+        "analyze": false,
+        "annotate": false,
+        "monitor": false,
+        "modifiedByUser": false,
+        "actions": false
+      },
+      "snapshot": {
+        "export": true,
+        "analyze": true,
+        "compare": true
+      },
+      "forecast": {
+        "openPeriods": false,
+        "measure": false,
+        "analyze": false,
+        "style": false,
+        "insert": false,
+        "measures": false,
+        "rows": false,
+        "annotate": false,
+        "actions": false
+      },
+      "indicator": {
+        "edit": false,
+        "header": true,
+        "row": false,
+        "row_label": false
+      },
+      "infoBridge": {
+        "export": false,
+        "configure": false,
+        "import": false
+      },
+      "buttonVariablesFloatingView": {
+        "variables": {},
+        "showOnReadMode": true
+      }
     },
-    "totalCustomTitle": { "grandTotalTitle": "All", "columnGrandTotalTitle": "Grand Total", "totalColumnSuffix": "Total", "steppedSubTotalTitle": "none", "steppedSubTotalText": "Total", "splitTotalRowSuffix": "Total", "columnSubTotalTitle": "none" },
-    "scaleDelta": { "height": 0, "width": 0, "scale": 1 },
+    "totalCustomTitle": {
+      "grandTotalTitle": "All",
+      "columnGrandTotalTitle": "Grand Total",
+      "totalColumnSuffix": "Total",
+      "steppedSubTotalTitle": "none",
+      "steppedSubTotalText": "Total",
+      "splitTotalRowSuffix": "Total",
+      "columnSubTotalTitle": "none"
+    },
+    "scaleDelta": {
+      "height": 0,
+      "width": 0,
+      "scale": 1
+    },
     "hideRowChildren": [],
     "hideExpandLevel": {},
-    "commentSettings": { "rowLevelComments": false, "expandRowLevelComments": false, "rollUpComments": true },
-    "rulerMeta": { "width": 20, "showNumbers": false },
-    "commonRunTimeProps": { "showBrokenImage": false },
-    "hideHeader": { "hierarchyHeader": false, "separator": " - " },
+    "commentSettings": {
+      "rowLevelComments": false,
+      "expandRowLevelComments": false,
+      "rollUpComments": true
+    },
+    "rulerMeta": {
+      "width": 20,
+      "showNumbers": false
+    },
+    "commonRunTimeProps": {
+      "showBrokenImage": false
+    },
+    "hideHeader": {
+      "hierarchyHeader": false,
+      "separator": " - "
+    },
     "measureAttributes": {},
-    "powerBiTheme": { "isHighContrast": false, "foreground": null, "background": null, "foregroundSelected": null, "hyperlink": null, "themeType": null, "negative": "#D64554", "positive": "#1AAB40", "neutral": "#D9B300" },
-    "quickFilter": { "rules": [], "combinator": "and", "not": false },
-    "selectionDataNote": { "enable": true, "aggregateOption": { "sum": true, "avg": true, "min": false, "max": false, "count": true } },
-    "currentThemeType": { "themeType": "trafficlights" },
+    "powerBiTheme": {
+      "isHighContrast": false,
+      "foreground": null,
+      "background": null,
+      "foregroundSelected": null,
+      "hyperlink": null,
+      "themeType": null,
+      "negative": "#D64554",
+      "positive": "#1AAB40",
+      "neutral": "#D9B300"
+    },
+    "quickFilter": {
+      "rules": [],
+      "combinator": "and",
+      "not": false
+    },
+    "selectionDataNote": {
+      "enable": true,
+      "aggregateOption": {
+        "sum": true,
+        "avg": true,
+        "min": false,
+        "max": false,
+        "count": true
+      }
+    },
+    "currentThemeType": {
+      "themeType": "trafficlights"
+    },
     "enableMeasureInRows": false,
     "enableMeasureInCols": false,
-    "quickAccessIcons": { "exportExcel": true, "undo": true, "bestFit": false, "redo": true, "writeback": true, "smartAnalysis": false, "exportPdf": false, "rails": true, "reset": true, "aggregation": false, "crossFilter": false },
+    "quickAccessIcons": {
+      "exportExcel": true,
+      "undo": true,
+      "bestFit": false,
+      "redo": true,
+      "writeback": true,
+      "smartAnalysis": false,
+      "exportPdf": false,
+      "rails": true,
+      "reset": true,
+      "aggregation": false,
+      "crossFilter": false
+    },
     "columnHierarchyHeader": {},
-    "customColumnCategory": { "enable": false, "categoryItemCount": 12, "prefix": "Category Item ", "suffix": "" },
+    "customColumnCategory": {
+      "enable": false,
+      "categoryItemCount": 12,
+      "prefix": "Category Item ",
+      "suffix": ""
+    },
     "showSubtotalLevels": {},
     "customInputColumn": {},
     "storedColumnTooltip": false,
     "diagnose": false,
-    "viewConfig": { "views": [], "selectedView": null, "showViewSwitcher": true },
+    "viewConfig": {
+      "views": [],
+      "selectedView": null,
+      "showViewSwitcher": true
+    },
     "repeatLevelLabels": {},
     "hideEmptyCols": true,
     "hideEmptyCalculatedCols": false,
-    "columnAsTable": { "dimensionId": null },
+    "columnAsTable": {
+      "dimensionId": null
+    },
     "contextMenu": true,
     "emptyRows": {},
     "breakRows": {},
-    "toastSettings": { "disableToasts": false },
+    "toastSettings": {
+      "disableToasts": false
+    },
     "dataReductionRowCount": 2000,
     "dataReductionColCount": 15,
-    "dataReductionSettings": { "userOverride": false },
-    "scenarioSettings": { "showAllScenarios": false, "showScenarioTabs": false, "compareScenarioProps": { "selectedScenarios": [], "selectedMeasure": "" }, "defaultScenario": "default_scenario" },
-    "simulationSettings": { "varianceSettings": [], "showVariance": true, "showSimulation": true },
-    "version": { "columnAsMeasure": false, "level": 0 },
+    "dataReductionSettings": {
+      "userOverride": false
+    },
+    "scenarioSettings": {
+      "showAllScenarios": false,
+      "showScenarioTabs": false,
+      "compareScenarioProps": {
+        "selectedScenarios": [],
+        "selectedMeasure": ""
+      },
+      "defaultScenario": "default_scenario"
+    },
+    "simulationSettings": {
+      "varianceSettings": [],
+      "showVariance": true,
+      "showSimulation": true
+    },
+    "version": {
+      "columnAsMeasure": false,
+      "level": 0
+    },
     "writebackColumnMapping": {
-      "formValues": { "datasetId": "", "workspaceId": "", "datasetTableName": "", "datasetKeyColumnName": "", "renamedWBIdColumn": "", "mappingColumns": [{ "datasetColumnName": "", "writebackColumnName": "" }] },
-      "formErrors": { "datasetId": "", "datasetTableName": "", "datasetKeyColumnName": "", "renamedWBIdColumn": "", "mappingColumns": [null] },
+      "formValues": {
+        "datasetId": "",
+        "workspaceId": "",
+        "datasetTableName": "",
+        "datasetKeyColumnName": "",
+        "renamedWBIdColumn": "",
+        "mappingColumns": [
+          {
+            "datasetColumnName": "",
+            "writebackColumnName": ""
+          }
+        ]
+      },
+      "formErrors": {
+        "datasetId": "",
+        "datasetTableName": "",
+        "datasetKeyColumnName": "",
+        "renamedWBIdColumn": "",
+        "mappingColumns": [
+          null
+        ]
+      },
       "columnMappingError": null,
       "openAdditionColumnModal": false,
       "modalTitle": "Additional Column Configuration",
       "datasetLoading": false,
       "showDatasetDropdown": false,
       "isSubmitting": false,
-      "warning": { "title": "Additional Column Configuration", "message": "", "show": false },
+      "warning": {
+        "title": "Additional Column Configuration",
+        "message": "",
+        "show": false
+      },
       "keyColumnsForAllAdditionalColumns": [],
       "additionalColumnMappings": [
         {
           "datasetId": "cdaf6294-2430-461b-896a-444ca9885604",
           "datasetKeyColumnName": "Address",
           "datasetTableName": "15000",
-          "mappingColumns": [{ "datasetColumnName": "Bottles Sold", "writebackColumnName": "Year" }],
+          "mappingColumns": [
+            {
+              "datasetColumnName": "Bottles Sold",
+              "writebackColumnName": "Year"
+            }
+          ],
           "renamedWBIdColumn": "Address",
           "workspaceId": "16578ee2-acf8-4611-863a-02e5168c2883",
           "type": 10,
           "id": "1940"
         }
       ],
-      "dateAdditionalColumnMapping": { "dateKeyColumnName": "R4OutlineVM", "defaultYear": "2024", "isCurrentYear": true, "id": "1939", "type": 20 },
+      "dateAdditionalColumnMapping": {
+        "dateKeyColumnName": "R4OutlineVM",
+        "defaultYear": "2024",
+        "isCurrentYear": true,
+        "id": "1939",
+        "type": 20
+      },
       "openDateAdditionalColumnModal": false,
-      "dateFormValues": { "dateKeyColumnName": "", "defaultYear": "2024", "isCurrentYear": true }
+      "dateFormValues": {
+        "dateKeyColumnName": "",
+        "defaultYear": "2024",
+        "isCurrentYear": true
+      }
     },
     "rollupNotes": true,
-    "annotateMarker": { "toggle": false, "markerData": null },
+    "annotateMarker": {
+      "toggle": false,
+      "markerData": null
+    },
     "fiscalMonth": 0,
     "visualSettings": {
       "id": "16093",
@@ -1071,34 +1615,158 @@
           }
         ],
         "columns": [
-          { "alias": "Year", "name": "Year", "isTimeInterval": true, "values": ["2012", "2013", "2014", "2015"], "timeIntervalUnit": "YEAR", "level": 0, "id": "15000.Date.Variation.Date Hierarchy.Year" },
-          { "alias": "Quarter", "name": "Quarter", "isTimeInterval": true, "values": ["Qtr 3", "Qtr 4"], "timeIntervalUnit": "QUARTER", "level": 1, "id": "15000.Date.Variation.Date Hierarchy.Quarter" }
+          {
+            "alias": "Year",
+            "name": "Year",
+            "isTimeInterval": true,
+            "values": [
+              "2012",
+              "2013",
+              "2014",
+              "2015"
+            ],
+            "timeIntervalUnit": "YEAR",
+            "level": 0,
+            "id": "15000.Date.Variation.Date Hierarchy.Year"
+          },
+          {
+            "alias": "Quarter",
+            "name": "Quarter",
+            "isTimeInterval": true,
+            "values": [
+              "Qtr 3",
+              "Qtr 4"
+            ],
+            "timeIntervalUnit": "QUARTER",
+            "level": 1,
+            "id": "15000.Date.Variation.Date Hierarchy.Quarter"
+          }
         ],
-        "rows": [{ "alias": "County", "name": "County", "timeIntervalUnit": null, "level": 0, "isTimeInterval": false, "id": "15000.County" }],
+        "rows": [
+          {
+            "alias": "County",
+            "name": "County",
+            "timeIntervalUnit": null,
+            "level": 0,
+            "isTimeInterval": false,
+            "id": "15000.County"
+          }
+        ],
         "columnHierarchy": [
-          { "id": "2012", "label": "2012", "level": 0, "path": "2012", "date": "2012-01-01T00:00:00+05:30" },
-          { "id": "2012__Qtr__3__UXRyJTIwMw__", "label": "Qtr 3", "level": 1, "path": "2012|Qtr 3", "date": "2012-07-01T00:00:00+05:30" },
-          { "id": "2012__Qtr__4__UXRyJTIwNA__", "label": "Qtr 4", "level": 1, "path": "2012|Qtr 4", "date": "2012-10-01T00:00:00+05:30" },
-          { "id": "2013", "label": "2013", "level": 0, "path": "2013", "date": "2013-01-01T00:00:00+05:30" },
-          { "id": "2013__Qtr__3__UXRyJTIwMw__", "label": "Qtr 3", "level": 1, "path": "2013|Qtr 3", "date": "2013-07-01T00:00:00+05:30" },
-          { "id": "2013__Qtr__4__UXRyJTIwNA__", "label": "Qtr 4", "level": 1, "path": "2013|Qtr 4", "date": "2013-10-01T00:00:00+05:30" },
-          { "id": "2014", "label": "2014", "level": 0, "path": "2014", "date": "2014-01-01T00:00:00+05:30" },
-          { "id": "2014__Qtr__3__UXRyJTIwMw__", "label": "Qtr 3", "level": 1, "path": "2014|Qtr 3", "date": "2014-07-01T00:00:00+05:30" },
-          { "id": "2014__Qtr__4__UXRyJTIwNA__", "label": "Qtr 4", "level": 1, "path": "2014|Qtr 4", "date": "2014-10-01T00:00:00+05:30" },
-          { "id": "2015", "label": "2015", "level": 0, "path": "2015", "date": "2015-01-01T00:00:00+05:30" },
-          { "id": "2015__Qtr__3__UXRyJTIwMw__", "label": "Qtr 3", "level": 1, "path": "2015|Qtr 3", "date": "2015-07-01T00:00:00+05:30" },
-          { "id": "2015__Qtr__4__UXRyJTIwNA__", "label": "Qtr 4", "level": 1, "path": "2015|Qtr 4", "date": "2015-10-01T00:00:00+05:30" }
+          {
+            "id": "2012",
+            "label": "2012",
+            "level": 0,
+            "path": "2012",
+            "date": "2012-01-01T00:00:00+05:30"
+          },
+          {
+            "id": "2012__Qtr__3__UXRyJTIwMw__",
+            "label": "Qtr 3",
+            "level": 1,
+            "path": "2012|Qtr 3",
+            "date": "2012-07-01T00:00:00+05:30"
+          },
+          {
+            "id": "2012__Qtr__4__UXRyJTIwNA__",
+            "label": "Qtr 4",
+            "level": 1,
+            "path": "2012|Qtr 4",
+            "date": "2012-10-01T00:00:00+05:30"
+          },
+          {
+            "id": "2013",
+            "label": "2013",
+            "level": 0,
+            "path": "2013",
+            "date": "2013-01-01T00:00:00+05:30"
+          },
+          {
+            "id": "2013__Qtr__3__UXRyJTIwMw__",
+            "label": "Qtr 3",
+            "level": 1,
+            "path": "2013|Qtr 3",
+            "date": "2013-07-01T00:00:00+05:30"
+          },
+          {
+            "id": "2013__Qtr__4__UXRyJTIwNA__",
+            "label": "Qtr 4",
+            "level": 1,
+            "path": "2013|Qtr 4",
+            "date": "2013-10-01T00:00:00+05:30"
+          },
+          {
+            "id": "2014",
+            "label": "2014",
+            "level": 0,
+            "path": "2014",
+            "date": "2014-01-01T00:00:00+05:30"
+          },
+          {
+            "id": "2014__Qtr__3__UXRyJTIwMw__",
+            "label": "Qtr 3",
+            "level": 1,
+            "path": "2014|Qtr 3",
+            "date": "2014-07-01T00:00:00+05:30"
+          },
+          {
+            "id": "2014__Qtr__4__UXRyJTIwNA__",
+            "label": "Qtr 4",
+            "level": 1,
+            "path": "2014|Qtr 4",
+            "date": "2014-10-01T00:00:00+05:30"
+          },
+          {
+            "id": "2015",
+            "label": "2015",
+            "level": 0,
+            "path": "2015",
+            "date": "2015-01-01T00:00:00+05:30"
+          },
+          {
+            "id": "2015__Qtr__3__UXRyJTIwMw__",
+            "label": "Qtr 3",
+            "level": 1,
+            "path": "2015|Qtr 3",
+            "date": "2015-07-01T00:00:00+05:30"
+          },
+          {
+            "id": "2015__Qtr__4__UXRyJTIwNA__",
+            "label": "Qtr 4",
+            "level": 1,
+            "path": "2015|Qtr 4",
+            "date": "2015-10-01T00:00:00+05:30"
+          }
         ],
         "visualSignature": {
           "dimensions": [
-            { "id": "15000.County", "name": "County", "dataType": "TEXT" },
-            { "id": "15000.Date.Variation.Date Hierarchy.Year", "name": "Year", "dataType": "NUMERIC" },
-            { "id": "15000.Date.Variation.Date Hierarchy.Quarter", "name": "Quarter", "dataType": "TEXT" }
+            {
+              "id": "15000.County",
+              "name": "County",
+              "dataType": "TEXT"
+            },
+            {
+              "id": "15000.Date.Variation.Date Hierarchy.Year",
+              "name": "Year",
+              "dataType": "NUMERIC"
+            },
+            {
+              "id": "15000.Date.Variation.Date Hierarchy.Quarter",
+              "name": "Quarter",
+              "dataType": "TEXT"
+            }
           ],
           "dimensionHash": "1514e1ac3dfa652ba42ecffcec8acb90",
           "measures": [
-            { "id": "Sum__15000__Sale__Dollars__U3VtKDE1MDAwLlNhbGUlMjAoRG9sbGFycykp", "name": "Sum of Sale (Dollars)", "dataType": "NUMERIC" },
-            { "name": "Notes", "dataType": "TEXT" }
+            {
+              "id": "Sum__15000__Sale__Dollars__U3VtKDE1MDAwLlNhbGUlMjAoRG9sbGFycykp",
+              "name": "Sum of Sale (Dollars)",
+              "dataType": "NUMERIC"
+            },
+            {
+              "name": "Notes",
+              "dataType": "TEXT"
+            }
           ],
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
@@ -1106,9 +1774,18 @@
           "reportDisplayName": " by Store Location, Year, Quarter"
         },
         "includedIdDimensions": [
-          { "id": "15000.County", "name": "County" },
-          { "id": "15000.Date.Variation.Date Hierarchy.Year", "name": "Year" },
-          { "id": "15000.Date.Variation.Date Hierarchy.Quarter", "name": "Quarter" }
+          {
+            "id": "15000.County",
+            "name": "County"
+          },
+          {
+            "id": "15000.Date.Variation.Date Hierarchy.Year",
+            "name": "Year"
+          },
+          {
+            "id": "15000.Date.Variation.Date Hierarchy.Quarter",
+            "name": "Quarter"
+          }
         ],
         "dimensionIdMapping": [],
         "isFilterContextEnabled": 20,
@@ -1122,8 +1799,8 @@
       "status": 10,
       "createdBy": "91",
       "createdAt": 1727672629,
-      "updatedBy": "91",
-      "updatedAt": 1727675956,
+      "updatedBy": "55",
+      "updatedAt": 1728368225,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
@@ -1132,32 +1809,65 @@
       "reportAssetId": "822",
       "mdeSettings": {},
       "visualIdentifier": "inforiver_MJKJILAAMLBONAC",
-      "languages": { "GERMAN": "de-DE", "FRENCH": "fr-FR", "SPANISH": "es-ES" },
+      "languages": {
+        "GERMAN": "de-DE",
+        "FRENCH": "fr-FR",
+        "SPANISH": "es-ES"
+      },
       "filterContextMapping": {}
     },
     "calculatedColHier": [],
     "timeDimensionMeta": {
-      "15000.Date.Variation.Date Hierarchy.Year": { "pattern": "$YYYY$", "timeIntervalUnitType": "YEAR" },
-      "15000.Date.Variation.Date Hierarchy.Quarter": { "pattern": "Qtr $Q$", "timeIntervalUnitType": "QUARTER" },
-      "15000.Date.Variation.Date Hierarchy.Day": { "pattern": "$D$", "timeIntervalUnitType": "DAY" }
+      "15000.Date.Variation.Date Hierarchy.Year": {
+        "pattern": "$YYYY$",
+        "timeIntervalUnitType": "YEAR"
+      },
+      "15000.Date.Variation.Date Hierarchy.Quarter": {
+        "pattern": "Qtr $Q$",
+        "timeIntervalUnitType": "QUARTER"
+      },
+      "15000.Date.Variation.Date Hierarchy.Day": {
+        "pattern": "$D$",
+        "timeIntervalUnitType": "DAY"
+      }
     },
-    "timeExtension": { "enabled": false, "start": null, "end": null },
+    "timeExtension": {
+      "enabled": false,
+      "start": null,
+      "end": null
+    },
     "prefixNullWithUnit": true,
     "rowAggregation": {},
     "rowTotalCellAggregation": {},
     "columnTotalCellAggregation": {},
     "highLightInvertRows": false,
-    "highlightTopNRows": { "highlight": false, "color": { "border": "#5db0d7", "backGround": "#5db0d742" } },
+    "highlightTopNRows": {
+      "highlight": false,
+      "color": {
+        "border": "#5db0d7",
+        "backGround": "#5db0d742"
+      }
+    },
     "showInfoRiverLogo": true,
     "allowNativeCellEdit": false,
     "calculatedVariables": {},
-    "formFieldsVariables": { "variables": [], "onLoadFormula": "", "onDataChangeFormula": "" },
+    "formFieldsVariables": {
+      "variables": [],
+      "onLoadFormula": "",
+      "onDataChangeFormula": ""
+    },
     "filterList": [],
     "customIcons": [],
     "scrollThickness": false,
     "dynamicRowScale": {},
-    "reportSummaryNote": { "annotationValue": null },
-    "customDateFormat": { "isCustomDateFormat": false, "categories": [], "newCategories": {} },
+    "reportSummaryNote": {
+      "annotationValue": null
+    },
+    "customDateFormat": {
+      "isCustomDateFormat": false,
+      "categories": [],
+      "newCategories": {}
+    },
     "hidePinnedRows": false,
     "skippedRows": [],
     "hiddenClosePeriod": false,
@@ -1165,25 +1875,62 @@
     "decimalPrecision": 8,
     "filterContextHash": null,
     "filterContextDimensions": [],
-    "pbiSemanticColor": { "positive": "#1AAB40", "negative": "#D64554", "neutral": "#D9B300" },
+    "pbiSemanticColor": {
+      "positive": "#1AAB40",
+      "negative": "#D64554",
+      "neutral": "#D9B300"
+    },
     "stickedMeasures": [],
-    "compareSnapshotConfig": { "baseSnapshotId": "", "comparingSnapshotId": "", "configId": "" },
+    "compareSnapshotConfig": {
+      "baseSnapshotId": "",
+      "comparingSnapshotId": "",
+      "configId": ""
+    },
     "globalScript": [],
     "disableCrossFilter": false,
     "contextNotes": {},
     "filterContextHashMap": {},
-    "filterContextSettings": { "isNoteFilterContext": true, "isNoteColumnFilterContext": true, "isCommentFilterContext": true, "isCommentColumnFilterContext": true, "filterContextStatus": null },
-    "matrixCanvasRuntime": { "canvasRendererEnabled": false, "enableTestAutomation": false },
+    "filterContextSettings": {
+      "isNoteFilterContext": true,
+      "isNoteColumnFilterContext": true,
+      "isCommentFilterContext": true,
+      "isCommentColumnFilterContext": true,
+      "filterContextStatus": null
+    },
+    "matrixCanvasRuntime": {
+      "canvasRendererEnabled": false,
+      "enableTestAutomation": false
+    },
     "hideBlankColumns": false,
     "scenarioExtras": {},
     "enableDrilldown": false,
-    "performanceModeConfig": { "isNotShowPopupAgain": false },
+    "performanceModeConfig": {
+      "isNotShowPopupAgain": false
+    },
     "groupVariables": {
       "groupStyle": "tab",
       "groupVariablesOptions": [
-        { "displayName": "Scenario 1", "value": "GROUP_VARIABLE_1", "order": 1, "icon": "circle-fill", "imageType": "icon" },
-        { "displayName": "Scenario 2", "value": "GROUP_VARIABLE_2", "order": 2, "icon": "circle-fill", "imageType": "icon" },
-        { "displayName": "Scenario 3", "value": "GROUP_VARIABLE_3", "order": 3, "icon": "circle-fill", "imageType": "icon" }
+        {
+          "displayName": "Scenario 1",
+          "value": "GROUP_VARIABLE_1",
+          "order": 1,
+          "icon": "circle-fill",
+          "imageType": "icon"
+        },
+        {
+          "displayName": "Scenario 2",
+          "value": "GROUP_VARIABLE_2",
+          "order": 2,
+          "icon": "circle-fill",
+          "imageType": "icon"
+        },
+        {
+          "displayName": "Scenario 3",
+          "value": "GROUP_VARIABLE_3",
+          "order": 3,
+          "icon": "circle-fill",
+          "imageType": "icon"
+        }
       ],
       "groupFormula": "",
       "groupDimensions": [],
@@ -1195,13 +1942,23 @@
       "showLabel": true
     },
     "globalVariables": [],
-    "activeGroupVariable": { "activeGroup": "GROUP_VARIABLE_1", "isGroupEnabled": false },
+    "activeGroupVariable": {
+      "activeGroup": "GROUP_VARIABLE_1",
+      "isGroupEnabled": false
+    },
     "showMeasureTextLabel": true,
     "customCells": [],
-    "subTotals": { "rowSubtotals": true, "columnSubtotals": true },
+    "subTotals": {
+      "rowSubtotals": true,
+      "columnSubtotals": true
+    },
     "hideBlankLabel": false,
     "skippedRowDimensions": [],
-    "timeSort": { "isRowTimeSort": true, "isColumnTimeSort": true, "isRowSortApplied": false },
+    "timeSort": {
+      "isRowTimeSort": true,
+      "isColumnTimeSort": true,
+      "isRowSortApplied": false
+    },
     "emptyColumnConfigs": [],
     "controlsConfig": {
       "panelWidth": 300,
@@ -1214,9 +1971,22 @@
           {
             "type": "GLOBAL_CONTROL_ELEMENT",
             "id": "controls-panel-id",
-            "position": { "top": 0, "left": 0 },
-            "dimension": { "width": "150", "height": "30" },
-            "layout": { "x": 0, "y": 0, "w": 64, "h": 3, "i": "controls-panel-id", "static": false },
+            "position": {
+              "top": 0,
+              "left": 0
+            },
+            "dimension": {
+              "width": "150",
+              "height": "30"
+            },
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "w": 64,
+              "h": 3,
+              "i": "controls-panel-id",
+              "static": false
+            },
             "content": "",
             "verticalAlign": "TOP",
             "align": "center",
@@ -1237,13 +2007,25 @@
         "containerPosition": "right",
         "layout": "controls-panel-id"
       },
-      "controlsPanelAppearances": { "fillColor": "#ffffff", "shadow": 1, "border": 1, "ruler": false, "top": 0, "bottom": 0, "left": 0, "right": 0 }
+      "controlsPanelAppearances": {
+        "fillColor": "#ffffff",
+        "shadow": 1,
+        "border": 1,
+        "ruler": false,
+        "top": 0,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      }
     },
     "unhiddenSkipRows": [],
     "hideMeasures": {},
     "canvasColumnFilter": false,
     "replaceActualWithForecast": false,
-    "insertRowsConfig": { "rowsTypeConfig": [], "allowInReadMode": true },
+    "insertRowsConfig": {
+      "rowsTypeConfig": [],
+      "allowInReadMode": true
+    },
     "language": "en-US",
     "allowColumnReorder": true,
     "measureColAggMap": {},
@@ -1253,34 +2035,92 @@
     "replaceForecastWithPYorPL": "none",
     "scalingInMeasureHeader": false,
     "nullSuppressMeasures": [],
-    "pivot": [{ "id": "default_pivot", "name": "All", "isHidden": false, "rowDimensions": [] }],
-    "pivotExplorer": { "showPivotExplorer": false, "activePivot": null },
-    "fieldParamGroupConfig": { "activeGroup": "", "groups": {}, "defaultLabel": "", "isFieldParamGroupEnabled": false },
+    "pivot": [
+      {
+        "id": "default_pivot",
+        "name": "All",
+        "isHidden": false,
+        "rowDimensions": []
+      }
+    ],
+    "pivotExplorer": {
+      "showPivotExplorer": false,
+      "activePivot": null
+    },
+    "fieldParamGroupConfig": {
+      "activeGroup": "",
+      "groups": {},
+      "defaultLabel": "",
+      "isFieldParamGroupEnabled": false
+    },
     "localizationVariables": {},
     "hideRepeatingRows": false,
-    "adjustments": { "enableAdjustments": true },
-    "forecastTimeFilter": { "isFilterActive": false, "startDate": null, "endDate": null }
+    "adjustments": {
+      "enableAdjustments": true
+    },
+    "forecastTimeFilter": {
+      "isFilterActive": false,
+      "startDate": null,
+      "endDate": null
+    },
+    "groupExpandCollapseIcon": false
   },
   "csvOptions": {
-    "rows": ["15000.County"],
-    "columns": ["15000.Date.Variation.Date Hierarchy.Year", "15000.Date.Variation.Date Hierarchy.Quarter"],
+    "rows": [
+      "15000.County"
+    ],
+    "columns": [
+      "15000.Date.Variation.Date Hierarchy.Year",
+      "15000.Date.Variation.Date Hierarchy.Quarter"
+    ],
     "rolesMap": {},
-    "typesMap": { "15000.County": "TEXT", "15000.Date.Variation.Date Hierarchy.Year": "NUMERIC", "15000.Date.Variation.Date Hierarchy.Quarter": "TEXT", "Sum(15000.Sale (Dollars))": "NUMERIC" },
-    "labelMap": { "15000.County": "County", "15000.Date.Variation.Date Hierarchy.Year": "Year", "15000.Date.Variation.Date Hierarchy.Quarter": "Quarter", "Sum(15000.Sale (Dollars))": "Sum of Sale (Dollars)" },
-    "ac_roles": ["Sum(15000.Sale (Dollars))"],
+    "typesMap": {
+      "15000.County": "TEXT",
+      "15000.Date.Variation.Date Hierarchy.Year": "NUMERIC",
+      "15000.Date.Variation.Date Hierarchy.Quarter": "TEXT",
+      "Sum(15000.Sale (Dollars))": "NUMERIC"
+    },
+    "labelMap": {
+      "15000.County": "County",
+      "15000.Date.Variation.Date Hierarchy.Year": "Year",
+      "15000.Date.Variation.Date Hierarchy.Quarter": "Quarter",
+      "Sum(15000.Sale (Dollars))": "Sum of Sale (Dollars)"
+    },
+    "ac_roles": [
+      "Sum(15000.Sale (Dollars))"
+    ],
     "pl_roles": [],
     "py_roles": [],
     "fc_roles": [],
     "om_roles": []
   },
   "metadata": {
-    "measures": { "AC": [{ "label": "Sum of Sale (Dollars)", "name": "Sum(15000.Sale (Dollars))", "role": "AC" }] },
+    "measures": {
+      "AC": [
+        {
+          "label": "Sum of Sale (Dollars)",
+          "name": "Sum(15000.Sale (Dollars))",
+          "role": "AC"
+        }
+      ]
+    },
     "columns": [
-      { "id": "15000.Date.Variation.Date Hierarchy.Year", "label": "Year" },
-      { "id": "15000.Date.Variation.Date Hierarchy.Quarter", "label": "Quarter" }
+      {
+        "id": "15000.Date.Variation.Date Hierarchy.Year",
+        "label": "Year"
+      },
+      {
+        "id": "15000.Date.Variation.Date Hierarchy.Quarter",
+        "label": "Quarter"
+      }
     ],
-    "rows": [{ "id": "15000.County", "label": "County" }]
+    "rows": [
+      {
+        "id": "15000.County",
+        "label": "County"
+      }
+    ]
   },
-  "visual": { "visualId": "MJKJILAAMLBONAC", "visualTemplateGuid": "AKNNEFFGHCGKIFH", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" },
-  "currentVersion": "v3.5.0.0"
+  "visual":{"visualId":"MJKJILAAMLBONAC","visualTemplateGuid":"AKNNEFFGHCGKIFH","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+  "currentVersion": "v3.6.0.0"
 }
