@@ -1,0 +1,49 @@
+Orders.Segment,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Country,Orders.Region,Orders.Category,Sum(Orders.Quantity)
+Consumer,2014,Qtr 1,United States,Central,Furniture,40
+Consumer,2015,Qtr 1,United States,Central,Furniture,39
+Consumer,2016,Qtr 1,United States,Central,Furniture,33
+Consumer,2017,Qtr 1,United States,Central,Furniture,52
+Consumer,2014,Qtr 1,United States,Central,Office Supplies,146
+Consumer,2015,Qtr 1,United States,Central,Office Supplies,74
+Consumer,2016,Qtr 1,United States,Central,Office Supplies,51
+Consumer,2017,Qtr 1,United States,Central,Office Supplies,207
+Consumer,2014,Qtr 1,United States,Central,Technology,11
+Consumer,2015,Qtr 1,United States,Central,Technology,26
+Consumer,2016,Qtr 1,United States,Central,Technology,26
+Consumer,2017,Qtr 1,United States,Central,Technology,33
+Consumer,2014,Qtr 1,United States,East,Furniture,20
+Consumer,2015,Qtr 1,United States,East,Furniture,26
+Consumer,2016,Qtr 1,United States,East,Furniture,78
+Consumer,2017,Qtr 1,United States,East,Furniture,29
+Consumer,2014,Qtr 1,United States,East,Office Supplies,71
+Consumer,2015,Qtr 1,United States,East,Office Supplies,65
+Consumer,2016,Qtr 1,United States,East,Office Supplies,117
+Consumer,2017,Qtr 1,United States,East,Office Supplies,148
+Consumer,2014,Qtr 1,United States,East,Technology,6
+Consumer,2015,Qtr 1,United States,East,Technology,18
+Consumer,2016,Qtr 1,United States,East,Technology,33
+Consumer,2017,Qtr 1,United States,East,Technology,51
+Consumer,2014,Qtr 1,United States,South,Furniture,38
+Consumer,2015,Qtr 1,United States,South,Furniture,23
+Consumer,2016,Qtr 1,United States,South,Furniture,41
+Consumer,2017,Qtr 1,United States,South,Furniture,20
+Consumer,2014,Qtr 1,United States,South,Office Supplies,64
+Consumer,2015,Qtr 1,United States,South,Office Supplies,100
+Consumer,2016,Qtr 1,United States,South,Office Supplies,55
+Consumer,2017,Qtr 1,United States,South,Office Supplies,54
+Consumer,2014,Qtr 1,United States,South,Technology,20
+Consumer,2015,Qtr 1,United States,South,Technology,8
+Consumer,2016,Qtr 1,United States,South,Technology,19
+Consumer,2017,Qtr 1,United States,South,Technology,22
+Consumer,2014,Qtr 1,United States,West,Furniture,27
+Consumer,2015,Qtr 1,United States,West,Furniture,48
+Consumer,2016,Qtr 1,United States,West,Furniture,40
+Consumer,2017,Qtr 1,United States,West,Furniture,30
+Consumer,2014,Qtr 1,United States,West,Office Supplies,106
+Consumer,2015,Qtr 1,United States,West,Office Supplies,88
+Consumer,2016,Qtr 1,United States,West,Office Supplies,72
+Consumer,2017,Qtr 1,United States,West,Office Supplies,175
+Consumer,2014,Qtr 1,United States,West,Technology,22
+Consumer,2015,Qtr 1,United States,West,Technology,20
+Consumer,2016,Qtr 1,United States,West,Technology,17
+Consumer,2017,Qtr 1,United States,West,Technology,45
