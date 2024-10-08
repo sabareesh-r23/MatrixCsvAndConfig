@@ -1,0 +1,201 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Segment,Orders.Country,Orders.Sub-Category,CountNonNull(Orders.Row ID)
+2014,Qtr 1,Consumer,United States,Accessories,8
+2015,Qtr 1,Consumer,United States,Accessories,12
+2016,Qtr 1,Consumer,United States,Accessories,9
+2017,Qtr 1,Consumer,United States,Accessories,16
+2014,Qtr 1,Consumer,United States,Appliances,5
+2015,Qtr 1,Consumer,United States,Appliances,7
+2016,Qtr 1,Consumer,United States,Appliances,5
+2017,Qtr 1,Consumer,United States,Appliances,14
+2014,Qtr 1,Consumer,United States,Art,25
+2015,Qtr 1,Consumer,United States,Art,10
+2016,Qtr 1,Consumer,United States,Art,8
+2017,Qtr 1,Consumer,United States,Art,21
+2014,Qtr 1,Consumer,United States,Binders,29
+2015,Qtr 1,Consumer,United States,Binders,19
+2016,Qtr 1,Consumer,United States,Binders,25
+2017,Qtr 1,Consumer,United States,Binders,42
+2014,Qtr 1,Consumer,United States,Bookcases,4
+2015,Qtr 1,Consumer,United States,Bookcases,4
+2016,Qtr 1,Consumer,United States,Bookcases,7
+2017,Qtr 1,Consumer,United States,Bookcases,5
+2014,Qtr 1,Consumer,United States,Chairs,10
+2015,Qtr 1,Consumer,United States,Chairs,10
+2016,Qtr 1,Consumer,United States,Chairs,10
+2017,Qtr 1,Consumer,United States,Chairs,12
+2014,Qtr 1,Consumer,United States,Copiers,
+2015,Qtr 1,Consumer,United States,Copiers,1
+2016,Qtr 1,Consumer,United States,Copiers,
+2017,Qtr 1,Consumer,United States,Copiers,3
+2014,Qtr 1,Consumer,United States,Envelopes,3
+2015,Qtr 1,Consumer,United States,Envelopes,4
+2016,Qtr 1,Consumer,United States,Envelopes,5
+2017,Qtr 1,Consumer,United States,Envelopes,6
+2014,Qtr 1,Consumer,United States,Fasteners,3
+2015,Qtr 1,Consumer,United States,Fasteners,5
+2016,Qtr 1,Consumer,United States,Fasteners,5
+2017,Qtr 1,Consumer,United States,Fasteners,6
+2014,Qtr 1,Consumer,United States,Furnishings,15
+2015,Qtr 1,Consumer,United States,Furnishings,9
+2016,Qtr 1,Consumer,United States,Furnishings,19
+2017,Qtr 1,Consumer,United States,Furnishings,20
+2014,Qtr 1,Consumer,United States,Labels,5
+2015,Qtr 1,Consumer,United States,Labels,8
+2016,Qtr 1,Consumer,United States,Labels,5
+2017,Qtr 1,Consumer,United States,Labels,9
+2014,Qtr 1,Consumer,United States,Machines,
+2015,Qtr 1,Consumer,United States,Machines,1
+2016,Qtr 1,Consumer,United States,Machines,3
+2017,Qtr 1,Consumer,United States,Machines,
+2014,Qtr 1,Consumer,United States,Paper,19
+2015,Qtr 1,Consumer,United States,Paper,21
+2016,Qtr 1,Consumer,United States,Paper,21
+2017,Qtr 1,Consumer,United States,Paper,31
+2014,Qtr 1,Consumer,United States,Phones,4
+2015,Qtr 1,Consumer,United States,Phones,9
+2016,Qtr 1,Consumer,United States,Phones,16
+2017,Qtr 1,Consumer,United States,Phones,24
+2014,Qtr 1,Consumer,United States,Storage,17
+2015,Qtr 1,Consumer,United States,Storage,9
+2016,Qtr 1,Consumer,United States,Storage,10
+2017,Qtr 1,Consumer,United States,Storage,20
+2014,Qtr 1,Consumer,United States,Supplies,1
+2015,Qtr 1,Consumer,United States,Supplies,2
+2016,Qtr 1,Consumer,United States,Supplies,1
+2017,Qtr 1,Consumer,United States,Supplies,5
+2014,Qtr 1,Consumer,United States,Tables,6
+2015,Qtr 1,Consumer,United States,Tables,6
+2016,Qtr 1,Consumer,United States,Tables,10
+2017,Qtr 1,Consumer,United States,Tables,5
+2014,Qtr 1,Corporate,United States,Accessories,8
+2015,Qtr 1,Corporate,United States,Accessories,8
+2016,Qtr 1,Corporate,United States,Accessories,14
+2017,Qtr 1,Corporate,United States,Accessories,11
+2014,Qtr 1,Corporate,United States,Appliances,4
+2015,Qtr 1,Corporate,United States,Appliances,2
+2016,Qtr 1,Corporate,United States,Appliances,3
+2017,Qtr 1,Corporate,United States,Appliances,12
+2014,Qtr 1,Corporate,United States,Art,6
+2015,Qtr 1,Corporate,United States,Art,9
+2016,Qtr 1,Corporate,United States,Art,8
+2017,Qtr 1,Corporate,United States,Art,9
+2014,Qtr 1,Corporate,United States,Binders,11
+2015,Qtr 1,Corporate,United States,Binders,8
+2016,Qtr 1,Corporate,United States,Binders,15
+2017,Qtr 1,Corporate,United States,Binders,22
+2014,Qtr 1,Corporate,United States,Bookcases,3
+2015,Qtr 1,Corporate,United States,Bookcases,2
+2016,Qtr 1,Corporate,United States,Bookcases,2
+2017,Qtr 1,Corporate,United States,Bookcases,3
+2014,Qtr 1,Corporate,United States,Chairs,3
+2015,Qtr 1,Corporate,United States,Chairs,3
+2016,Qtr 1,Corporate,United States,Chairs,8
+2017,Qtr 1,Corporate,United States,Chairs,6
+2014,Qtr 1,Corporate,United States,Copiers,
+2015,Qtr 1,Corporate,United States,Copiers,1
+2016,Qtr 1,Corporate,United States,Copiers,1
+2017,Qtr 1,Corporate,United States,Copiers,2
+2014,Qtr 1,Corporate,United States,Envelopes,2
+2015,Qtr 1,Corporate,United States,Envelopes,4
+2016,Qtr 1,Corporate,United States,Envelopes,4
+2017,Qtr 1,Corporate,United States,Envelopes,6
+2014,Qtr 1,Corporate,United States,Fasteners,
+2015,Qtr 1,Corporate,United States,Fasteners,
+2016,Qtr 1,Corporate,United States,Fasteners,2
+2017,Qtr 1,Corporate,United States,Fasteners,4
+2014,Qtr 1,Corporate,United States,Furnishings,4
+2015,Qtr 1,Corporate,United States,Furnishings,10
+2016,Qtr 1,Corporate,United States,Furnishings,14
+2017,Qtr 1,Corporate,United States,Furnishings,8
+2014,Qtr 1,Corporate,United States,Labels,6
+2015,Qtr 1,Corporate,United States,Labels,4
+2016,Qtr 1,Corporate,United States,Labels,2
+2017,Qtr 1,Corporate,United States,Labels,3
+2014,Qtr 1,Corporate,United States,Machines,
+2015,Qtr 1,Corporate,United States,Machines,1
+2016,Qtr 1,Corporate,United States,Machines,1
+2017,Qtr 1,Corporate,United States,Machines,4
+2014,Qtr 1,Corporate,United States,Paper,10
+2015,Qtr 1,Corporate,United States,Paper,18
+2016,Qtr 1,Corporate,United States,Paper,9
+2017,Qtr 1,Corporate,United States,Paper,12
+2014,Qtr 1,Corporate,United States,Phones,6
+2015,Qtr 1,Corporate,United States,Phones,17
+2016,Qtr 1,Corporate,United States,Phones,11
+2017,Qtr 1,Corporate,United States,Phones,16
+2014,Qtr 1,Corporate,United States,Storage,7
+2015,Qtr 1,Corporate,United States,Storage,9
+2016,Qtr 1,Corporate,United States,Storage,13
+2017,Qtr 1,Corporate,United States,Storage,8
+2014,Qtr 1,Corporate,United States,Supplies,1
+2015,Qtr 1,Corporate,United States,Supplies,
+2016,Qtr 1,Corporate,United States,Supplies,3
+2017,Qtr 1,Corporate,United States,Supplies,4
+2014,Qtr 1,Corporate,United States,Tables,3
+2015,Qtr 1,Corporate,United States,Tables,2
+2016,Qtr 1,Corporate,United States,Tables,3
+2017,Qtr 1,Corporate,United States,Tables,4
+2014,Qtr 1,Home Office,United States,Accessories,
+2015,Qtr 1,Home Office,United States,Accessories,1
+2016,Qtr 1,Home Office,United States,Accessories,8
+2017,Qtr 1,Home Office,United States,Accessories,12
+2014,Qtr 1,Home Office,United States,Appliances,
+2015,Qtr 1,Home Office,United States,Appliances,2
+2016,Qtr 1,Home Office,United States,Appliances,3
+2017,Qtr 1,Home Office,United States,Appliances,2
+2014,Qtr 1,Home Office,United States,Art,2
+2015,Qtr 1,Home Office,United States,Art,4
+2016,Qtr 1,Home Office,United States,Art,3
+2017,Qtr 1,Home Office,United States,Art,11
+2014,Qtr 1,Home Office,United States,Binders,7
+2015,Qtr 1,Home Office,United States,Binders,4
+2016,Qtr 1,Home Office,United States,Binders,7
+2017,Qtr 1,Home Office,United States,Binders,15
+2014,Qtr 1,Home Office,United States,Bookcases,1
+2015,Qtr 1,Home Office,United States,Bookcases,2
+2016,Qtr 1,Home Office,United States,Bookcases,1
+2017,Qtr 1,Home Office,United States,Bookcases,3
+2014,Qtr 1,Home Office,United States,Chairs,4
+2015,Qtr 1,Home Office,United States,Chairs,4
+2016,Qtr 1,Home Office,United States,Chairs,1
+2017,Qtr 1,Home Office,United States,Chairs,4
+2014,Qtr 1,Home Office,United States,Copiers,
+2015,Qtr 1,Home Office,United States,Copiers,
+2016,Qtr 1,Home Office,United States,Copiers,
+2017,Qtr 1,Home Office,United States,Copiers,2
+2014,Qtr 1,Home Office,United States,Envelopes,2
+2015,Qtr 1,Home Office,United States,Envelopes,1
+2016,Qtr 1,Home Office,United States,Envelopes,4
+2017,Qtr 1,Home Office,United States,Envelopes,1
+2014,Qtr 1,Home Office,United States,Fasteners,3
+2015,Qtr 1,Home Office,United States,Fasteners,
+2016,Qtr 1,Home Office,United States,Fasteners,1
+2017,Qtr 1,Home Office,United States,Fasteners,3
+2014,Qtr 1,Home Office,United States,Furnishings,6
+2015,Qtr 1,Home Office,United States,Furnishings,2
+2016,Qtr 1,Home Office,United States,Furnishings,6
+2017,Qtr 1,Home Office,United States,Furnishings,14
+2014,Qtr 1,Home Office,United States,Labels,2
+2015,Qtr 1,Home Office,United States,Labels,1
+2016,Qtr 1,Home Office,United States,Labels,
+2017,Qtr 1,Home Office,United States,Labels,4
+2014,Qtr 1,Home Office,United States,Machines,4
+2015,Qtr 1,Home Office,United States,Machines,
+2016,Qtr 1,Home Office,United States,Machines,1
+2017,Qtr 1,Home Office,United States,Machines,2
+2014,Qtr 1,Home Office,United States,Paper,10
+2015,Qtr 1,Home Office,United States,Paper,2
+2016,Qtr 1,Home Office,United States,Paper,12
+2017,Qtr 1,Home Office,United States,Paper,20
+2014,Qtr 1,Home Office,United States,Phones,9
+2015,Qtr 1,Home Office,United States,Phones,2
+2016,Qtr 1,Home Office,United States,Phones,11
+2017,Qtr 1,Home Office,United States,Phones,16
+2014,Qtr 1,Home Office,United States,Storage,3
+2015,Qtr 1,Home Office,United States,Storage,
+2016,Qtr 1,Home Office,United States,Storage,4
+2017,Qtr 1,Home Office,United States,Storage,14
+2014,Qtr 1,Home Office,United States,Tables,1
+2015,Qtr 1,Home Office,United States,Tables,
+2016,Qtr 1,Home Office,United States,Tables,1
+2017,Qtr 1,Home Office,United States,Tables,4
