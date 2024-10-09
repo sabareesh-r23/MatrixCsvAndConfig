@@ -360,8 +360,8 @@
             "rowGrandTotal": true,
             "rowGrandTotalPosition": "above",
             "rowSubTotalPosition": "above",
-            "columnGrandTotal": true,
-            "columnGrandTotalPosition": "left",
+            "columnGrandTotal": false,
+            "columnGrandTotalPosition": "clear",
             "columnSubTotalPosition": "clear",
             "summaryTotal": false,
             "rowForSubtotal": false
@@ -2299,6 +2299,7 @@
                             "dataType": "TEXT"
                         }
                     ],
+                    "dimensionHash": "1514e1ac3dfa652ba42ecffcec8acb90",
                     "measures": [
                         {
                             "id": "Sum__15000__Pack__U3VtKDE1MDAwLlBhY2sp",
@@ -2345,10 +2346,10 @@
                             "dataType": "TEXT"
                         }
                     ],
-                    "reportDisplayName": " by County, Year, Quarter",
                     "hasFormulaRows": true,
                     "hasCascadeFormulaMeasure": false,
-                    "hasNativeMeasures": true
+                    "hasNativeMeasures": true,
+                    "reportDisplayName": " by County, Year, Quarter"
                 },
                 "includedIdDimensions": [
                     {
@@ -2377,7 +2378,7 @@
             "createdBy": "91",
             "createdAt": 1727679104,
             "updatedBy": "55",
-            "updatedAt": 1728446822,
+            "updatedAt": 1728447730,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
