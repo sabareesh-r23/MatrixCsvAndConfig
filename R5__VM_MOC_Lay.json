@@ -2218,7 +2218,7 @@
             "createdBy": "91",
             "createdAt": 1728456882,
             "updatedBy": "55",
-            "updatedAt": 1728466092,
+            "updatedAt": 1728466977,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2546,6 +2546,10 @@
             }
         ]
     },
-    "visual":{"visualId":"DKBFECAPBHPEBML","visualTemplateGuid":"CFBOMJFLGODEDNN","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+    "visual": {
+        "visualId": "DKBFECAPBHPEBML",
+        "visualTemplateGuid": "CFBOMJFLGODEDNN",
+        "tenantId": "ddec66fe92e4aa2436a44c7a0c220078"
+    },
     "currentVersion": "v3.6.0.0"
 }
