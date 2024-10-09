@@ -2062,12 +2062,12 @@
                         "id": "Orders.Region"
                     },
                     {
-                        "alias": "Sub-Category",
-                        "name": "Sub-Category",
+                        "alias": "Category",
+                        "name": "Category",
                         "timeIntervalUnit": null,
                         "level": 1,
                         "isTimeInterval": false,
-                        "id": "Orders.Sub-Category"
+                        "id": "Orders.Category"
                     },
                     {
                         "alias": "Segment",
@@ -2116,8 +2116,8 @@
                             "dataType": "TEXT"
                         },
                         {
-                            "id": "Orders.Sub-Category",
-                            "name": "Sub-Category",
+                            "id": "Orders.Category",
+                            "name": "Category",
                             "dataType": "TEXT"
                         },
                         {
@@ -2131,7 +2131,7 @@
                             "dataType": "NUMERIC"
                         }
                     ],
-                    "dimensionHash": "5b23f61528ed84601c2c0dc3830ac6d6",
+                    "dimensionHash": "3247c215e84db29466d4ab6fdc4c911c",
                     "measures": [
                         {
                             "id": "Sum__Orders__Quantity__U3VtKE9yZGVycy5RdWFudGl0eSk__",
@@ -2193,8 +2193,8 @@
                         "name": "Region"
                     },
                     {
-                        "id": "Orders.Sub-Category",
-                        "name": "Sub-Category"
+                        "id": "Orders.Category",
+                        "name": "Category"
                     },
                     {
                         "id": "Orders.Segment",
@@ -2218,7 +2218,7 @@
             "createdBy": "91",
             "createdAt": 1728456882,
             "updatedBy": "55",
-            "updatedAt": 1728466977,
+            "updatedAt": 1728470838,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2266,7 +2266,56 @@
             "onLoadFormula": "",
             "onDataChangeFormula": ""
         },
-        "filterList": [],
+        "filterList": [
+            {
+                "combinator": "and",
+                "id": "BCGWNSBY",
+                "name": "Region",
+                "rules": [
+                    {
+                        "field": "Orders.Region",
+                        "operator": "isOneof",
+                        "value": "Central"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "VXARQAKW",
+                "name": "Segment",
+                "rules": [
+                    {
+                        "field": "Orders.Segment",
+                        "operator": "isOneof",
+                        "value": "Consumer"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "XKIFGCVP",
+                "name": "Year",
+                "rules": [
+                    {
+                        "field": "Orders.Order Date.Variation.Date Hierarchy.Year",
+                        "operator": "is",
+                        "value": "2014"
+                    }
+                ]
+            },
+            {
+                "combinator": "and",
+                "id": "ZIHDYHFR",
+                "name": "Category",
+                "rules": [
+                    {
+                        "field": "Orders.Category",
+                        "operator": "isOneof",
+                        "value": "Furniture"
+                    }
+                ]
+            }
+        ],
         "customIcons": [],
         "scrollThickness": false,
         "dynamicRowScale": {},
@@ -2486,7 +2535,7 @@
     "csvOptions": {
         "rows": [
             "Orders.Region",
-            "Orders.Sub-Category",
+            "Orders.Category",
             "Orders.Segment"
         ],
         "columns": [
@@ -2495,14 +2544,14 @@
         "rolesMap": {},
         "typesMap": {
             "Orders.Region": "TEXT",
-            "Orders.Sub-Category": "TEXT",
+            "Orders.Category": "TEXT",
             "Orders.Segment": "TEXT",
             "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC",
             "Sum(Orders.Quantity)": "NUMERIC"
         },
         "labelMap": {
             "Orders.Region": "Region",
-            "Orders.Sub-Category": "Sub-Category",
+            "Orders.Category": "Category",
             "Orders.Segment": "Segment",
             "Orders.Order Date.Variation.Date Hierarchy.Year": "Year",
             "Sum(Orders.Quantity)": "Sum of Quantity"
@@ -2537,8 +2586,8 @@
                 "label": "Region"
             },
             {
-                "id": "Orders.Sub-Category",
-                "label": "Sub-Category"
+                "id": "Orders.Category",
+                "label": "Category"
             },
             {
                 "id": "Orders.Segment",
@@ -2546,10 +2595,6 @@
             }
         ]
     },
-    "visual": {
-        "visualId": "DKBFECAPBHPEBML",
-        "visualTemplateGuid": "CFBOMJFLGODEDNN",
-        "tenantId": "ddec66fe92e4aa2436a44c7a0c220078"
-    },
+    "visual":{"visualId":"DKBFECAPBHPEBML","visualTemplateGuid":"CFBOMJFLGODEDNN","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.6.0.0"
 }
