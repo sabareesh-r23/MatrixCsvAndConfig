@@ -1163,18 +1163,9 @@
                 "role": "AC"
             },
             {
-                "id": "CALC_17276794252018552",
-                "label": "Number",
-                "order": 1,
-                "visible": true,
-                "columnType": "NUMBER_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17276794252018552"
-            },
-            {
                 "id": "CALC_17276794331953075",
                 "label": "Text",
-                "order": 2,
+                "order": 1,
                 "visible": true,
                 "columnType": "TEXT_COLUMN",
                 "isStoredColumn": true,
@@ -1183,7 +1174,7 @@
             {
                 "id": "CALC_17276794398065131",
                 "label": "Single Select",
-                "order": 3,
+                "order": 2,
                 "visible": true,
                 "columnType": "OPTIONS_COLUMN",
                 "isStoredColumn": true,
@@ -1192,7 +1183,7 @@
             {
                 "id": "CALC_17276794464323299",
                 "label": "Multi Select",
-                "order": 4,
+                "order": 3,
                 "visible": true,
                 "columnType": "MULTI_SELECT",
                 "isStoredColumn": true,
@@ -1201,7 +1192,7 @@
             {
                 "id": "CALC_17276794570068316",
                 "label": "Check Box",
-                "order": 5,
+                "order": 4,
                 "visible": true,
                 "columnType": "CHECK_BOX",
                 "isStoredColumn": true,
@@ -1210,7 +1201,7 @@
             {
                 "id": "CALC_17276794650148687",
                 "label": "Date",
-                "order": 6,
+                "order": 5,
                 "visible": true,
                 "columnType": "DATE_COLUMN",
                 "isStoredColumn": true,
@@ -1219,11 +1210,20 @@
             {
                 "id": "CALC_17276794719363826",
                 "label": "Person",
-                "order": 7,
+                "order": 6,
                 "visible": true,
                 "columnType": "PERSON_COLUMN",
                 "isStoredColumn": true,
                 "name": "CALC_17276794719363826"
+            },
+            {
+                "id": "CALC_17284468429938371",
+                "label": "Number",
+                "order": 7,
+                "visible": true,
+                "columnType": "NUMBER_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17284468429938371"
             },
             {
                 "id": "LAST_UPDATED_AT",
@@ -1256,7 +1256,8 @@
             "CALC_17276794464323299": "sum",
             "CALC_17276794570068316": "sum",
             "CALC_17276794650148687": "sum",
-            "CALC_17276794719363826": "sum"
+            "CALC_17276794719363826": "sum",
+            "CALC_17284468429938371": "sum"
         },
         "outliers": {
             "enableOutlier": false,
@@ -1772,6 +1773,35 @@
         },
         "showSubtotalLevels": {},
         "customInputColumn": {
+            "CALC_17284468429938371": {
+                "id": "CALC_17284468429938371",
+                "title": "Number",
+                "type": "NUMBER_COLUMN",
+                "description": "",
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum",
+                    "selectedOptions": {}
+                },
+                "columnId": "46804",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "55",
+                "createdByUser": "Keerthika Subramaniam",
+                "createdByUserEmail": "KeerthikaS@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
             "CALC_17276794719363826": {
                 "id": "CALC_17276794719363826",
                 "title": "Person",
@@ -2003,35 +2033,6 @@
                     "selectedOptions": {}
                 },
                 "columnId": "43573",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17276794252018552": {
-                "id": "CALC_17276794252018552",
-                "title": "Number",
-                "type": "NUMBER_COLUMN",
-                "description": "",
-                "meta": {
-                    "range": {
-                        "from": 0,
-                        "to": 100
-                    },
-                    "aggregationType": "sum",
-                    "selectedOptions": {}
-                },
-                "columnId": "43572",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2298,16 +2299,10 @@
                             "dataType": "TEXT"
                         }
                     ],
-                    "dimensionHash": "1514e1ac3dfa652ba42ecffcec8acb90",
                     "measures": [
                         {
                             "id": "Sum__15000__Pack__U3VtKDE1MDAwLlBhY2sp",
                             "name": "Sum of Pack",
-                            "dataType": "NUMERIC"
-                        },
-                        {
-                            "id": "CALC_17276794252018552",
-                            "name": "Number",
                             "dataType": "NUMERIC"
                         },
                         {
@@ -2341,14 +2336,19 @@
                             "dataType": "PERSON"
                         },
                         {
+                            "id": "CALC_17284468429938371",
+                            "name": "Number",
+                            "dataType": "NUMERIC"
+                        },
+                        {
                             "name": "Notes",
                             "dataType": "TEXT"
                         }
                     ],
+                    "reportDisplayName": " by County, Year, Quarter",
                     "hasFormulaRows": true,
                     "hasCascadeFormulaMeasure": false,
-                    "hasNativeMeasures": true,
-                    "reportDisplayName": " by County, Year, Quarter"
+                    "hasNativeMeasures": true
                 },
                 "includedIdDimensions": [
                     {
@@ -2377,7 +2377,7 @@
             "createdBy": "91",
             "createdAt": 1727679104,
             "updatedBy": "55",
-            "updatedAt": 1728446214,
+            "updatedAt": 1728446822,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2613,7 +2613,8 @@
             "CALC_17276794464323299": "sum",
             "CALC_17276794570068316": "sum",
             "CALC_17276794650148687": "sum",
-            "CALC_17276794719363826": "sum"
+            "CALC_17276794719363826": "sum",
+            "CALC_17284468429938371": "sum"
         },
         "rowEditPermissions": {},
         "showReadViewBookmark": false,
