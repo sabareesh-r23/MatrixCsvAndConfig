@@ -1,0 +1,69 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Sub-Category,CountNonNull(Orders.Postal Code)
+2015,Qtr 1,Furniture,Bookcases,8
+2015,Qtr 2,Furniture,Bookcases,5
+2015,Qtr 3,Furniture,Bookcases,22
+2015,Qtr 4,Furniture,Bookcases,26
+2015,Qtr 1,Furniture,Chairs,17
+2015,Qtr 2,Furniture,Chairs,27
+2015,Qtr 3,Furniture,Chairs,36
+2015,Qtr 4,Furniture,Chairs,53
+2015,Qtr 1,Furniture,Furnishings,21
+2015,Qtr 2,Furniture,Furnishings,49
+2015,Qtr 3,Furniture,Furnishings,55
+2015,Qtr 4,Furniture,Furnishings,75
+2015,Qtr 1,Furniture,Tables,8
+2015,Qtr 2,Furniture,Tables,8
+2015,Qtr 3,Furniture,Tables,19
+2015,Qtr 4,Furniture,Tables,23
+2015,Qtr 1,Office Supplies,Appliances,11
+2015,Qtr 2,Office Supplies,Appliances,25
+2015,Qtr 3,Office Supplies,Appliances,21
+2015,Qtr 4,Office Supplies,Appliances,37
+2015,Qtr 1,Office Supplies,Art,23
+2015,Qtr 2,Office Supplies,Art,40
+2015,Qtr 3,Office Supplies,Art,43
+2015,Qtr 4,Office Supplies,Art,61
+2015,Qtr 1,Office Supplies,Binders,31
+2015,Qtr 2,Office Supplies,Binders,70
+2015,Qtr 3,Office Supplies,Binders,104
+2015,Qtr 4,Office Supplies,Binders,113
+2015,Qtr 1,Office Supplies,Envelopes,9
+2015,Qtr 2,Office Supplies,Envelopes,9
+2015,Qtr 3,Office Supplies,Envelopes,17
+2015,Qtr 4,Office Supplies,Envelopes,32
+2015,Qtr 1,Office Supplies,Fasteners,5
+2015,Qtr 2,Office Supplies,Fasteners,9
+2015,Qtr 3,Office Supplies,Fasteners,12
+2015,Qtr 4,Office Supplies,Fasteners,18
+2015,Qtr 1,Office Supplies,Labels,13
+2015,Qtr 2,Office Supplies,Labels,18
+2015,Qtr 3,Office Supplies,Labels,22
+2015,Qtr 4,Office Supplies,Labels,24
+2015,Qtr 1,Office Supplies,Paper,41
+2015,Qtr 2,Office Supplies,Paper,55
+2015,Qtr 3,Office Supplies,Paper,69
+2015,Qtr 4,Office Supplies,Paper,107
+2015,Qtr 1,Office Supplies,Storage,18
+2015,Qtr 2,Office Supplies,Storage,36
+2015,Qtr 3,Office Supplies,Storage,59
+2015,Qtr 4,Office Supplies,Storage,58
+2015,Qtr 1,Office Supplies,Supplies,2
+2015,Qtr 2,Office Supplies,Supplies,7
+2015,Qtr 3,Office Supplies,Supplies,12
+2015,Qtr 4,Office Supplies,Supplies,10
+2015,Qtr 1,Technology,Accessories,21
+2015,Qtr 2,Technology,Accessories,29
+2015,Qtr 3,Technology,Accessories,42
+2015,Qtr 4,Technology,Accessories,74
+2015,Qtr 1,Technology,Copiers,2
+2015,Qtr 2,Technology,Copiers,5
+2015,Qtr 3,Technology,Copiers,4
+2015,Qtr 4,Technology,Copiers,9
+2015,Qtr 1,Technology,Machines,2
+2015,Qtr 2,Technology,Machines,4
+2015,Qtr 3,Technology,Machines,5
+2015,Qtr 4,Technology,Machines,13
+2015,Qtr 1,Technology,Phones,28
+2015,Qtr 2,Technology,Phones,48
+2015,Qtr 3,Technology,Phones,50
+2015,Qtr 4,Technology,Phones,73
