@@ -1904,7 +1904,7 @@
             "createdBy": "91",
             "createdAt": 1727678521,
             "updatedBy": "55",
-            "updatedAt": 1727679303,
+            "updatedAt": 1728446156,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2231,6 +2231,6 @@
             }
         ]
     },
-    "visual":{"visualId":"EAGDBHBPMKCACPJ","visualTemplateGuid":"MIIPHDFBFHDLAKK","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+   "visual": {"visualId":"EAGDBHBPMKCACPJ","visualTemplateGuid":"MIIPHDFBFHDLAKK","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.6.0.0"
 }
