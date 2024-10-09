@@ -1,0 +1,6 @@
+Financials.Segment,Sum(Financials.Sale Price),Sum(Financials.Profit)
+Government,37700,11388173.17
+Small Business,30000,4143168.5
+Enterprise,12500,-614545.625
+Midmarket,1500,660103.075
+Channel Partners,1200,1316803.14
