@@ -1,0 +1,17 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Country,Orders.Region,Sum(Orders.Profit)
+2014,Qtr 1,United States,Central,139.25020000000006
+2014,Qtr 2,United States,Central,969.4833999999992
+2014,Qtr 3,United States,Central,-2004.1098000000045
+2014,Qtr 4,United States,Central,1434.9295999999943
+2014,Qtr 1,United States,East,-785.7783000000002
+2014,Qtr 2,United States,East,1514.0124999999975
+2014,Qtr 3,United States,East,5823.756200000004
+2014,Qtr 4,United States,East,10507.619099999994
+2014,Qtr 1,United States,South,2673.728299999995
+2014,Qtr 2,United States,South,4445.739599999999
+2014,Qtr 3,United States,South,1401.9654999999993
+2014,Qtr 4,United States,South,3357.686600000001
+2014,Qtr 1,United States,West,1784.028799999999
+2014,Qtr 2,United States,West,4274.833699999997
+2014,Qtr 3,United States,West,7583.1098999999995
+2014,Qtr 4,United States,West,6423.718800000001
