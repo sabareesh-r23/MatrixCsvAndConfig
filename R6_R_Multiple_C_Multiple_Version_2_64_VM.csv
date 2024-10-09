@@ -1,0 +1,3115 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Orders.Sub-Category,Orders.City,Sum(Orders.Sales)
+2015,Furniture,Accessories,Akron,
+2015,Office Supplies,Accessories,Akron,
+2015,Technology,Accessories,Akron,71.976
+2015,Furniture,Accessories,Allen,
+2015,Office Supplies,Accessories,Allen,
+2015,Technology,Accessories,Allen,21.48
+2015,Furniture,Accessories,Allentown,
+2015,Office Supplies,Accessories,Allentown,
+2015,Technology,Accessories,Allentown,21.728
+2015,Furniture,Accessories,Amarillo,
+2015,Office Supplies,Accessories,Amarillo,
+2015,Technology,Accessories,Amarillo,263.88
+2015,Furniture,Accessories,Ann Arbor,
+2015,Office Supplies,Accessories,Ann Arbor,
+2015,Technology,Accessories,Ann Arbor,619.9499999999999
+2015,Furniture,Accessories,Atlanta,
+2015,Office Supplies,Accessories,Atlanta,
+2015,Technology,Accessories,Atlanta,251.91
+2015,Furniture,Accessories,Aurora,
+2015,Office Supplies,Accessories,Aurora,
+2015,Technology,Accessories,Aurora,238.89600000000002
+2015,Furniture,Accessories,Austin,
+2015,Office Supplies,Accessories,Austin,
+2015,Technology,Accessories,Austin,22.368000000000002
+2015,Furniture,Accessories,Avondale,
+2015,Office Supplies,Accessories,Avondale,
+2015,Technology,Accessories,Avondale,23.200000000000003
+2015,Furniture,Accessories,Bayonne,
+2015,Office Supplies,Accessories,Bayonne,
+2015,Technology,Accessories,Bayonne,63.96
+2015,Furniture,Accessories,Brentwood,
+2015,Office Supplies,Accessories,Brentwood,
+2015,Technology,Accessories,Brentwood,79.9
+2015,Furniture,Accessories,Chicago,
+2015,Office Supplies,Accessories,Chicago,
+2015,Technology,Accessories,Chicago,283.832
+2015,Furniture,Accessories,Cincinnati,
+2015,Office Supplies,Accessories,Cincinnati,
+2015,Technology,Accessories,Cincinnati,53.040000000000006
+2015,Furniture,Accessories,Cleveland,
+2015,Office Supplies,Accessories,Cleveland,
+2015,Technology,Accessories,Cleveland,25.488
+2015,Furniture,Accessories,Colorado Springs,
+2015,Office Supplies,Accessories,Colorado Springs,
+2015,Technology,Accessories,Colorado Springs,58.08
+2015,Furniture,Accessories,Columbus,
+2015,Office Supplies,Accessories,Columbus,
+2015,Technology,Accessories,Columbus,626.304
+2015,Furniture,Accessories,Dallas,
+2015,Office Supplies,Accessories,Dallas,
+2015,Technology,Accessories,Dallas,517.296
+2015,Furniture,Accessories,Daytona Beach,
+2015,Office Supplies,Accessories,Daytona Beach,
+2015,Technology,Accessories,Daytona Beach,50.88
+2015,Furniture,Accessories,Decatur,
+2015,Office Supplies,Accessories,Decatur,
+2015,Technology,Accessories,Decatur,479.952
+2015,Furniture,Accessories,Detroit,
+2015,Office Supplies,Accessories,Detroit,
+2015,Technology,Accessories,Detroit,289.75
+2015,Furniture,Accessories,Dover,
+2015,Office Supplies,Accessories,Dover,
+2015,Technology,Accessories,Dover,2249.91
+2015,Furniture,Accessories,East Point,
+2015,Office Supplies,Accessories,East Point,
+2015,Technology,Accessories,East Point,75
+2015,Furniture,Accessories,Evanston,
+2015,Office Supplies,Accessories,Evanston,
+2015,Technology,Accessories,Evanston,43.56
+2015,Furniture,Accessories,Everett,
+2015,Office Supplies,Accessories,Everett,
+2015,Technology,Accessories,Everett,259.98
+2015,Furniture,Accessories,Florence,
+2015,Office Supplies,Accessories,Florence,
+2015,Technology,Accessories,Florence,79.96
+2015,Furniture,Accessories,Frisco,
+2015,Office Supplies,Accessories,Frisco,
+2015,Technology,Accessories,Frisco,27.168000000000003
+2015,Furniture,Accessories,Haltom City,
+2015,Office Supplies,Accessories,Haltom City,
+2015,Technology,Accessories,Haltom City,207.98400000000004
+2015,Furniture,Accessories,Hattiesburg,
+2015,Office Supplies,Accessories,Hattiesburg,
+2015,Technology,Accessories,Hattiesburg,239.70000000000002
+2015,Furniture,Accessories,Hillsboro,
+2015,Office Supplies,Accessories,Hillsboro,
+2015,Technology,Accessories,Hillsboro,53.040000000000006
+2015,Furniture,Accessories,Hot Springs,
+2015,Office Supplies,Accessories,Hot Springs,
+2015,Technology,Accessories,Hot Springs,29.99
+2015,Furniture,Accessories,Houston,
+2015,Office Supplies,Accessories,Houston,
+2015,Technology,Accessories,Houston,608.768
+2015,Furniture,Accessories,Jacksonville,
+2015,Office Supplies,Accessories,Jacksonville,
+2015,Technology,Accessories,Jacksonville,1141.0320000000002
+2015,Furniture,Accessories,Kenosha,
+2015,Office Supplies,Accessories,Kenosha,
+2015,Technology,Accessories,Kenosha,139.95
+2015,Furniture,Accessories,La Quinta,
+2015,Office Supplies,Accessories,La Quinta,
+2015,Technology,Accessories,La Quinta,46.32
+2015,Furniture,Accessories,Lakewood,
+2015,Office Supplies,Accessories,Lakewood,
+2015,Technology,Accessories,Lakewood,90
+2015,Furniture,Accessories,Lawrence,
+2015,Office Supplies,Accessories,Lawrence,
+2015,Technology,Accessories,Lawrence,393.54
+2015,Furniture,Accessories,Lewiston,
+2015,Office Supplies,Accessories,Lewiston,
+2015,Technology,Accessories,Lewiston,67.98
+2015,Furniture,Accessories,Los Angeles,
+2015,Office Supplies,Accessories,Los Angeles,
+2015,Technology,Accessories,Los Angeles,3888.8699999999994
+2015,Furniture,Accessories,Louisville,
+2015,Office Supplies,Accessories,Louisville,
+2015,Technology,Accessories,Louisville,326.54799999999994
+2015,Furniture,Accessories,Mcallen,
+2015,Office Supplies,Accessories,Mcallen,
+2015,Technology,Accessories,Mcallen,69.12
+2015,Furniture,Accessories,Medina,
+2015,Office Supplies,Accessories,Medina,
+2015,Technology,Accessories,Medina,89.584
+2015,Furniture,Accessories,Miami,
+2015,Office Supplies,Accessories,Miami,
+2015,Technology,Accessories,Miami,184.56
+2015,Furniture,Accessories,Milwaukee,
+2015,Office Supplies,Accessories,Milwaukee,
+2015,Technology,Accessories,Milwaukee,999.96
+2015,Furniture,Accessories,Monroe,
+2015,Office Supplies,Accessories,Monroe,
+2015,Technology,Accessories,Monroe,160.2
+2015,Furniture,Accessories,Murfreesboro,
+2015,Office Supplies,Accessories,Murfreesboro,
+2015,Technology,Accessories,Murfreesboro,77.47200000000001
+2015,Furniture,Accessories,New York City,
+2015,Office Supplies,Accessories,New York City,
+2015,Technology,Accessories,New York City,9790.32
+2015,Furniture,Accessories,Newark,
+2015,Office Supplies,Accessories,Newark,
+2015,Technology,Accessories,Newark,2250.1800000000003
+2015,Furniture,Accessories,Oceanside,
+2015,Office Supplies,Accessories,Oceanside,
+2015,Technology,Accessories,Oceanside,913.9300000000001
+2015,Furniture,Accessories,Omaha,
+2015,Office Supplies,Accessories,Omaha,
+2015,Technology,Accessories,Omaha,149.97
+2015,Furniture,Accessories,Orland Park,
+2015,Office Supplies,Accessories,Orland Park,
+2015,Technology,Accessories,Orland Park,339.96000000000004
+2015,Furniture,Accessories,Orlando,
+2015,Office Supplies,Accessories,Orlando,
+2015,Technology,Accessories,Orlando,87.168
+2015,Furniture,Accessories,Pembroke Pines,
+2015,Office Supplies,Accessories,Pembroke Pines,
+2015,Technology,Accessories,Pembroke Pines,83.97600000000001
+2015,Furniture,Accessories,Peoria,
+2015,Office Supplies,Accessories,Peoria,
+2015,Technology,Accessories,Peoria,282.88
+2015,Furniture,Accessories,Philadelphia,
+2015,Office Supplies,Accessories,Philadelphia,
+2015,Technology,Accessories,Philadelphia,1281.072
+2015,Furniture,Accessories,Phoenix,
+2015,Office Supplies,Accessories,Phoenix,
+2015,Technology,Accessories,Phoenix,23.344
+2015,Furniture,Accessories,Plantation,
+2015,Office Supplies,Accessories,Plantation,
+2015,Technology,Accessories,Plantation,447.94399999999996
+2015,Furniture,Accessories,Pomona,
+2015,Office Supplies,Accessories,Pomona,
+2015,Technology,Accessories,Pomona,199.96
+2015,Furniture,Accessories,Portland,
+2015,Office Supplies,Accessories,Portland,
+2015,Technology,Accessories,Portland,239.80000000000004
+2015,Furniture,Accessories,Providence,
+2015,Office Supplies,Accessories,Providence,
+2015,Technology,Accessories,Providence,199.98
+2015,Furniture,Accessories,Quincy,
+2015,Office Supplies,Accessories,Quincy,
+2015,Technology,Accessories,Quincy,108.76800000000001
+2015,Furniture,Accessories,Rochester,
+2015,Office Supplies,Accessories,Rochester,
+2015,Technology,Accessories,Rochester,31.95
+2015,Furniture,Accessories,Roswell,
+2015,Office Supplies,Accessories,Roswell,
+2015,Technology,Accessories,Roswell,721.8899999999999
+2015,Furniture,Accessories,Saint Charles,
+2015,Office Supplies,Accessories,Saint Charles,
+2015,Technology,Accessories,Saint Charles,637.44
+2015,Furniture,Accessories,San Antonio,
+2015,Office Supplies,Accessories,San Antonio,
+2015,Technology,Accessories,San Antonio,497.472
+2015,Furniture,Accessories,San Diego,
+2015,Office Supplies,Accessories,San Diego,
+2015,Technology,Accessories,San Diego,1093.5
+2015,Furniture,Accessories,San Francisco,
+2015,Office Supplies,Accessories,San Francisco,
+2015,Technology,Accessories,San Francisco,1416.9899999999998
+2015,Furniture,Accessories,Seattle,
+2015,Office Supplies,Accessories,Seattle,
+2015,Technology,Accessories,Seattle,2200.2000000000003
+2015,Furniture,Accessories,South Bend,
+2015,Office Supplies,Accessories,South Bend,
+2015,Technology,Accessories,South Bend,831.2
+2015,Furniture,Accessories,Spokane,
+2015,Office Supplies,Accessories,Spokane,
+2015,Technology,Accessories,Spokane,239.94
+2015,Furniture,Accessories,Springfield,
+2015,Office Supplies,Accessories,Springfield,
+2015,Technology,Accessories,Springfield,403.10400000000004
+2015,Furniture,Accessories,Tampa,
+2015,Office Supplies,Accessories,Tampa,
+2015,Technology,Accessories,Tampa,11.672
+2015,Furniture,Accessories,Taylor,
+2015,Office Supplies,Accessories,Taylor,
+2015,Technology,Accessories,Taylor,41.9
+2015,Furniture,Accessories,Temecula,
+2015,Office Supplies,Accessories,Temecula,
+2015,Technology,Accessories,Temecula,285.09000000000003
+2015,Furniture,Accessories,Toledo,
+2015,Office Supplies,Accessories,Toledo,
+2015,Technology,Accessories,Toledo,10.384
+2015,Furniture,Accessories,Utica,
+2015,Office Supplies,Accessories,Utica,
+2015,Technology,Accessories,Utica,79.99
+2015,Furniture,Accessories,Visalia,
+2015,Office Supplies,Accessories,Visalia,
+2015,Technology,Accessories,Visalia,7.92
+2015,Furniture,Appliances,Ann Arbor,
+2015,Office Supplies,Appliances,Ann Arbor,29.403
+2015,Technology,Appliances,Ann Arbor,
+2015,Furniture,Appliances,Arlington,
+2015,Office Supplies,Appliances,Arlington,36.269999999999996
+2015,Technology,Appliances,Arlington,
+2015,Furniture,Appliances,Atlanta,
+2015,Office Supplies,Appliances,Atlanta,568.8
+2015,Technology,Appliances,Atlanta,
+2015,Furniture,Appliances,Aurora,
+2015,Office Supplies,Appliances,Aurora,114.53
+2015,Technology,Appliances,Aurora,
+2015,Furniture,Appliances,Baltimore,
+2015,Office Supplies,Appliances,Baltimore,77.58
+2015,Technology,Appliances,Baltimore,
+2015,Furniture,Appliances,Bolingbrook,
+2015,Office Supplies,Appliances,Bolingbrook,5.767999999999999
+2015,Technology,Appliances,Bolingbrook,
+2015,Furniture,Appliances,Bristol,
+2015,Office Supplies,Appliances,Bristol,137.62
+2015,Technology,Appliances,Bristol,
+2015,Furniture,Appliances,Carrollton,
+2015,Office Supplies,Appliances,Carrollton,19.567999999999998
+2015,Technology,Appliances,Carrollton,
+2015,Furniture,Appliances,Chesapeake,
+2015,Office Supplies,Appliances,Chesapeake,197.72
+2015,Technology,Appliances,Chesapeake,
+2015,Furniture,Appliances,Chicago,
+2015,Office Supplies,Appliances,Chicago,377.1959999999999
+2015,Technology,Appliances,Chicago,
+2015,Furniture,Appliances,Clinton,
+2015,Office Supplies,Appliances,Clinton,355.96
+2015,Technology,Appliances,Clinton,
+2015,Furniture,Appliances,Colorado Springs,
+2015,Office Supplies,Appliances,Colorado Springs,60.98400000000001
+2015,Technology,Appliances,Colorado Springs,
+2015,Furniture,Appliances,Coral Springs,
+2015,Office Supplies,Appliances,Coral Springs,394.12800000000004
+2015,Technology,Appliances,Coral Springs,
+2015,Furniture,Appliances,Dallas,
+2015,Office Supplies,Appliances,Dallas,80.82399999999998
+2015,Technology,Appliances,Dallas,
+2015,Furniture,Appliances,Dearborn,
+2015,Office Supplies,Appliances,Dearborn,555.21
+2015,Technology,Appliances,Dearborn,
+2015,Furniture,Appliances,Detroit,
+2015,Office Supplies,Appliances,Detroit,1244.2679999999998
+2015,Technology,Appliances,Detroit,
+2015,Furniture,Appliances,Durham,
+2015,Office Supplies,Appliances,Durham,98.352
+2015,Technology,Appliances,Durham,
+2015,Furniture,Appliances,Fort Worth,
+2015,Office Supplies,Appliances,Fort Worth,93.39799999999998
+2015,Technology,Appliances,Fort Worth,
+2015,Furniture,Appliances,Frankfort,
+2015,Office Supplies,Appliances,Frankfort,20.767999999999997
+2015,Technology,Appliances,Frankfort,
+2015,Furniture,Appliances,Hampton,
+2015,Office Supplies,Appliances,Hampton,44.43
+2015,Technology,Appliances,Hampton,
+2015,Furniture,Appliances,Henderson,
+2015,Office Supplies,Appliances,Henderson,316.38
+2015,Technology,Appliances,Henderson,
+2015,Furniture,Appliances,Houston,
+2015,Office Supplies,Appliances,Houston,41.43599999999999
+2015,Technology,Appliances,Houston,
+2015,Furniture,Appliances,Jacksonville,
+2015,Office Supplies,Appliances,Jacksonville,962.0799999999999
+2015,Technology,Appliances,Jacksonville,
+2015,Furniture,Appliances,Lansing,
+2015,Office Supplies,Appliances,Lansing,644.076
+2015,Technology,Appliances,Lansing,
+2015,Furniture,Appliances,Las Vegas,
+2015,Office Supplies,Appliances,Las Vegas,31.08
+2015,Technology,Appliances,Las Vegas,
+2015,Furniture,Appliances,Lawrence,
+2015,Office Supplies,Appliances,Lawrence,133.67000000000002
+2015,Technology,Appliances,Lawrence,
+2015,Furniture,Appliances,Los Angeles,
+2015,Office Supplies,Appliances,Los Angeles,3876.6099999999997
+2015,Technology,Appliances,Los Angeles,
+2015,Furniture,Appliances,Mcallen,
+2015,Office Supplies,Appliances,Mcallen,73.16399999999999
+2015,Technology,Appliances,Mcallen,
+2015,Furniture,Appliances,Mesa,
+2015,Office Supplies,Appliances,Mesa,60.672000000000004
+2015,Technology,Appliances,Mesa,
+2015,Furniture,Appliances,Midland,
+2015,Office Supplies,Appliances,Midland,186.732
+2015,Technology,Appliances,Midland,
+2015,Furniture,Appliances,Milwaukee,
+2015,Office Supplies,Appliances,Milwaukee,272.4
+2015,Technology,Appliances,Milwaukee,
+2015,Furniture,Appliances,Morristown,
+2015,Office Supplies,Appliances,Morristown,2625.12
+2015,Technology,Appliances,Morristown,
+2015,Furniture,Appliances,New Castle,
+2015,Office Supplies,Appliances,New Castle,60.69
+2015,Technology,Appliances,New Castle,
+2015,Furniture,Appliances,New York City,
+2015,Office Supplies,Appliances,New York City,2122.3999999999996
+2015,Technology,Appliances,New York City,
+2015,Furniture,Appliances,Norwich,
+2015,Office Supplies,Appliances,Norwich,370.14
+2015,Technology,Appliances,Norwich,
+2015,Furniture,Appliances,Paterson,
+2015,Office Supplies,Appliances,Paterson,111.04
+2015,Technology,Appliances,Paterson,
+2015,Furniture,Appliances,Philadelphia,
+2015,Office Supplies,Appliances,Philadelphia,670.296
+2015,Technology,Appliances,Philadelphia,
+2015,Furniture,Appliances,Phoenix,
+2015,Office Supplies,Appliances,Phoenix,447.4240000000001
+2015,Technology,Appliances,Phoenix,
+2015,Furniture,Appliances,Pueblo,
+2015,Office Supplies,Appliances,Pueblo,845.728
+2015,Technology,Appliances,Pueblo,
+2015,Furniture,Appliances,Redmond,
+2015,Office Supplies,Appliances,Redmond,133.472
+2015,Technology,Appliances,Redmond,
+2015,Furniture,Appliances,Revere,
+2015,Office Supplies,Appliances,Revere,61.96
+2015,Technology,Appliances,Revere,
+2015,Furniture,Appliances,Richmond,
+2015,Office Supplies,Appliances,Richmond,194.32
+2015,Technology,Appliances,Richmond,
+2015,Furniture,Appliances,Riverside,
+2015,Office Supplies,Appliances,Riverside,134.48
+2015,Technology,Appliances,Riverside,
+2015,Furniture,Appliances,Roseville,
+2015,Office Supplies,Appliances,Roseville,715.64
+2015,Technology,Appliances,Roseville,
+2015,Furniture,Appliances,San Antonio,
+2015,Office Supplies,Appliances,San Antonio,463.2479999999999
+2015,Technology,Appliances,San Antonio,
+2015,Furniture,Appliances,San Francisco,
+2015,Office Supplies,Appliances,San Francisco,1674.8899999999999
+2015,Technology,Appliances,San Francisco,
+2015,Furniture,Appliances,Seattle,
+2015,Office Supplies,Appliances,Seattle,177.2
+2015,Technology,Appliances,Seattle,
+2015,Furniture,Appliances,Springfield,
+2015,Office Supplies,Appliances,Springfield,1094.0380000000002
+2015,Technology,Appliances,Springfield,
+2015,Furniture,Appliances,Toledo,
+2015,Office Supplies,Appliances,Toledo,45.216
+2015,Technology,Appliances,Toledo,
+2015,Furniture,Appliances,Virginia Beach,
+2015,Office Supplies,Appliances,Virginia Beach,182.91
+2015,Technology,Appliances,Virginia Beach,
+2015,Furniture,Art,Akron,
+2015,Office Supplies,Art,Akron,14.352000000000002
+2015,Technology,Art,Akron,
+2015,Furniture,Art,Altoona,
+2015,Office Supplies,Art,Altoona,16.032
+2015,Technology,Art,Altoona,
+2015,Furniture,Art,Atlanta,
+2015,Office Supplies,Art,Atlanta,11.08
+2015,Technology,Art,Atlanta,
+2015,Furniture,Art,Auburn,
+2015,Office Supplies,Art,Auburn,9.26
+2015,Technology,Art,Auburn,
+2015,Furniture,Art,Aurora,
+2015,Office Supplies,Art,Aurora,36.784
+2015,Technology,Art,Aurora,
+2015,Furniture,Art,Avondale,
+2015,Office Supplies,Art,Avondale,31.04
+2015,Technology,Art,Avondale,
+2015,Furniture,Art,Baltimore,
+2015,Office Supplies,Art,Baltimore,35.58
+2015,Technology,Art,Baltimore,
+2015,Furniture,Art,Bellevue,
+2015,Office Supplies,Art,Bellevue,5.28
+2015,Technology,Art,Bellevue,
+2015,Furniture,Art,Bloomington,
+2015,Office Supplies,Art,Bloomington,13.120000000000001
+2015,Technology,Art,Bloomington,
+2015,Furniture,Art,Buffalo,
+2015,Office Supplies,Art,Buffalo,2.78
+2015,Technology,Art,Buffalo,
+2015,Furniture,Art,Cambridge,
+2015,Office Supplies,Art,Cambridge,17.12
+2015,Technology,Art,Cambridge,
+2015,Furniture,Art,Chester,
+2015,Office Supplies,Art,Chester,200.96800000000002
+2015,Technology,Art,Chester,
+2015,Furniture,Art,Chicago,
+2015,Office Supplies,Art,Chicago,14.927999999999999
+2015,Technology,Art,Chicago,
+2015,Furniture,Art,Chico,
+2015,Office Supplies,Art,Chico,2.21
+2015,Technology,Art,Chico,
+2015,Furniture,Art,Clarksville,
+2015,Office Supplies,Art,Clarksville,36.96
+2015,Technology,Art,Clarksville,
+2015,Furniture,Art,Clinton,
+2015,Office Supplies,Art,Clinton,79.36
+2015,Technology,Art,Clinton,
+2015,Furniture,Art,Colorado Springs,
+2015,Office Supplies,Art,Colorado Springs,31.384
+2015,Technology,Art,Colorado Springs,
+2015,Furniture,Art,Columbus,
+2015,Office Supplies,Art,Columbus,20.128
+2015,Technology,Art,Columbus,
+2015,Furniture,Art,Dallas,
+2015,Office Supplies,Art,Dallas,52.096
+2015,Technology,Art,Dallas,
+2015,Furniture,Art,Daytona Beach,
+2015,Office Supplies,Art,Daytona Beach,2.624
+2015,Technology,Art,Daytona Beach,
+2015,Furniture,Art,Dearborn,
+2015,Office Supplies,Art,Dearborn,161.82
+2015,Technology,Art,Dearborn,
+2015,Furniture,Art,Decatur,
+2015,Office Supplies,Art,Decatur,24.78
+2015,Technology,Art,Decatur,
+2015,Furniture,Art,Detroit,
+2015,Office Supplies,Art,Detroit,21.88
+2015,Technology,Art,Detroit,
+2015,Furniture,Art,Dublin,
+2015,Office Supplies,Art,Dublin,27.168000000000003
+2015,Technology,Art,Dublin,
+2015,Furniture,Art,Durham,
+2015,Office Supplies,Art,Durham,140.736
+2015,Technology,Art,Durham,
+2015,Furniture,Art,Eagan,
+2015,Office Supplies,Art,Eagan,29.79
+2015,Technology,Art,Eagan,
+2015,Furniture,Art,Fayetteville,
+2015,Office Supplies,Art,Fayetteville,10.272000000000002
+2015,Technology,Art,Fayetteville,
+2015,Furniture,Art,Florence,
+2015,Office Supplies,Art,Florence,53.28
+2015,Technology,Art,Florence,
+2015,Furniture,Art,Fort Worth,
+2015,Office Supplies,Art,Fort Worth,5.344
+2015,Technology,Art,Fort Worth,
+2015,Furniture,Art,Franklin,
+2015,Office Supplies,Art,Franklin,14.466000000000001
+2015,Technology,Art,Franklin,
+2015,Furniture,Art,Freeport,
+2015,Office Supplies,Art,Freeport,47.82
+2015,Technology,Art,Freeport,
+2015,Furniture,Art,Garden City,
+2015,Office Supplies,Art,Garden City,5.76
+2015,Technology,Art,Garden City,
+2015,Furniture,Art,Greensboro,
+2015,Office Supplies,Art,Greensboro,64.68
+2015,Technology,Art,Greensboro,
+2015,Furniture,Art,Hampton,
+2015,Office Supplies,Art,Hampton,293.75999999999993
+2015,Technology,Art,Hampton,
+2015,Furniture,Art,Henderson,
+2015,Office Supplies,Art,Henderson,42.76
+2015,Technology,Art,Henderson,
+2015,Furniture,Art,Houston,
+2015,Office Supplies,Art,Houston,124.456
+2015,Technology,Art,Houston,
+2015,Furniture,Art,Huntsville,
+2015,Office Supplies,Art,Huntsville,19.56
+2015,Technology,Art,Huntsville,
+2015,Furniture,Art,Indianapolis,
+2015,Office Supplies,Art,Indianapolis,150.25
+2015,Technology,Art,Indianapolis,
+2015,Furniture,Art,Jackson,
+2015,Office Supplies,Art,Jackson,63.839999999999996
+2015,Technology,Art,Jackson,
+2015,Furniture,Art,Jacksonville,
+2015,Office Supplies,Art,Jacksonville,9.344
+2015,Technology,Art,Jacksonville,
+2015,Furniture,Art,Kenosha,
+2015,Office Supplies,Art,Kenosha,14.98
+2015,Technology,Art,Kenosha,
+2015,Furniture,Art,Lakeland,
+2015,Office Supplies,Art,Lakeland,71.456
+2015,Technology,Art,Lakeland,
+2015,Furniture,Art,Lakewood,
+2015,Office Supplies,Art,Lakewood,16.9
+2015,Technology,Art,Lakewood,
+2015,Furniture,Art,Las Cruces,
+2015,Office Supplies,Art,Las Cruces,8.28
+2015,Technology,Art,Las Cruces,
+2015,Furniture,Art,Lawrence,
+2015,Office Supplies,Art,Lawrence,57.26
+2015,Technology,Art,Lawrence,
+2015,Furniture,Art,Lincoln Park,
+2015,Office Supplies,Art,Lincoln Park,25.99
+2015,Technology,Art,Lincoln Park,
+2015,Furniture,Art,Los Angeles,
+2015,Office Supplies,Art,Los Angeles,415.2099999999999
+2015,Technology,Art,Los Angeles,
+2015,Furniture,Art,Louisville,
+2015,Office Supplies,Art,Louisville,6.848000000000001
+2015,Technology,Art,Louisville,
+2015,Furniture,Art,Marion,
+2015,Office Supplies,Art,Marion,37.376
+2015,Technology,Art,Marion,
+2015,Furniture,Art,Mcallen,
+2015,Office Supplies,Art,Mcallen,82.224
+2015,Technology,Art,Mcallen,
+2015,Furniture,Art,Meriden,
+2015,Office Supplies,Art,Meriden,6.7
+2015,Technology,Art,Meriden,
+2015,Furniture,Art,Miami,
+2015,Office Supplies,Art,Miami,51.007999999999996
+2015,Technology,Art,Miami,
+2015,Furniture,Art,Milwaukee,
+2015,Office Supplies,Art,Milwaukee,57.75
+2015,Technology,Art,Milwaukee,
+2015,Furniture,Art,Monroe,
+2015,Office Supplies,Art,Monroe,56.3
+2015,Technology,Art,Monroe,
+2015,Furniture,Art,Morristown,
+2015,Office Supplies,Art,Morristown,17.94
+2015,Technology,Art,Morristown,
+2015,Furniture,Art,Nashville,
+2015,Office Supplies,Art,Nashville,5.16
+2015,Technology,Art,Nashville,
+2015,Furniture,Art,New York City,
+2015,Office Supplies,Art,New York City,424.67999999999995
+2015,Technology,Art,New York City,
+2015,Furniture,Art,Newark,
+2015,Office Supplies,Art,Newark,9.84
+2015,Technology,Art,Newark,
+2015,Furniture,Art,Oxnard,
+2015,Office Supplies,Art,Oxnard,99.2
+2015,Technology,Art,Oxnard,
+2015,Furniture,Art,Peoria,
+2015,Office Supplies,Art,Peoria,10.272000000000002
+2015,Technology,Art,Peoria,
+2015,Furniture,Art,Perth Amboy,
+2015,Office Supplies,Art,Perth Amboy,286.78999999999996
+2015,Technology,Art,Perth Amboy,
+2015,Furniture,Art,Philadelphia,
+2015,Office Supplies,Art,Philadelphia,306.488
+2015,Technology,Art,Philadelphia,
+2015,Furniture,Art,Phoenix,
+2015,Office Supplies,Art,Phoenix,2.304
+2015,Technology,Art,Phoenix,
+2015,Furniture,Art,Plantation,
+2015,Office Supplies,Art,Plantation,11.76
+2015,Technology,Art,Plantation,
+2015,Furniture,Art,Portland,
+2015,Office Supplies,Art,Portland,7.151999999999999
+2015,Technology,Art,Portland,
+2015,Furniture,Art,Pueblo,
+2015,Office Supplies,Art,Pueblo,3.408
+2015,Technology,Art,Pueblo,
+2015,Furniture,Art,Redlands,
+2015,Office Supplies,Art,Redlands,186.39
+2015,Technology,Art,Redlands,
+2015,Furniture,Art,Richmond,
+2015,Office Supplies,Art,Richmond,10.16
+2015,Technology,Art,Richmond,
+2015,Furniture,Art,Rochester,
+2015,Office Supplies,Art,Rochester,14.669999999999998
+2015,Technology,Art,Rochester,
+2015,Furniture,Art,Rockford,
+2015,Office Supplies,Art,Rockford,128.744
+2015,Technology,Art,Rockford,
+2015,Furniture,Art,Roswell,
+2015,Office Supplies,Art,Roswell,1.78
+2015,Technology,Art,Roswell,
+2015,Furniture,Art,Saint Charles,
+2015,Office Supplies,Art,Saint Charles,59.903999999999996
+2015,Technology,Art,Saint Charles,
+2015,Furniture,Art,Saint Petersburg,
+2015,Office Supplies,Art,Saint Petersburg,4.4479999999999995
+2015,Technology,Art,Saint Petersburg,
+2015,Furniture,Art,Salem,
+2015,Office Supplies,Art,Salem,13.128
+2015,Technology,Art,Salem,
+2015,Furniture,Art,San Diego,
+2015,Office Supplies,Art,San Diego,497.50999999999993
+2015,Technology,Art,San Diego,
+2015,Furniture,Art,San Francisco,
+2015,Office Supplies,Art,San Francisco,109.48
+2015,Technology,Art,San Francisco,
+2015,Furniture,Art,Santa Ana,
+2015,Office Supplies,Art,Santa Ana,56.3
+2015,Technology,Art,Santa Ana,
+2015,Furniture,Art,Santa Fe,
+2015,Office Supplies,Art,Santa Fe,8.4
+2015,Technology,Art,Santa Fe,
+2015,Furniture,Art,Seattle,
+2015,Office Supplies,Art,Seattle,283.99
+2015,Technology,Art,Seattle,
+2015,Furniture,Art,Smyrna,
+2015,Office Supplies,Art,Smyrna,140.75
+2015,Technology,Art,Smyrna,
+2015,Furniture,Art,Sparks,
+2015,Office Supplies,Art,Sparks,79.36
+2015,Technology,Art,Sparks,
+2015,Furniture,Art,Spokane,
+2015,Office Supplies,Art,Spokane,23.84
+2015,Technology,Art,Spokane,
+2015,Furniture,Art,Springfield,
+2015,Office Supplies,Art,Springfield,55.184000000000005
+2015,Technology,Art,Springfield,
+2015,Furniture,Art,Sterling Heights,
+2015,Office Supplies,Art,Sterling Heights,79.36
+2015,Technology,Art,Sterling Heights,
+2015,Furniture,Art,Superior,
+2015,Office Supplies,Art,Superior,17.12
+2015,Technology,Art,Superior,
+2015,Furniture,Art,Tampa,
+2015,Office Supplies,Art,Tampa,172.704
+2015,Technology,Art,Tampa,
+2015,Furniture,Art,Toledo,
+2015,Office Supplies,Art,Toledo,18.240000000000002
+2015,Technology,Art,Toledo,
+2015,Furniture,Art,Tucson,
+2015,Office Supplies,Art,Tucson,86.304
+2015,Technology,Art,Tucson,
+2015,Furniture,Art,Vineland,
+2015,Office Supplies,Art,Vineland,11.12
+2015,Technology,Art,Vineland,
+2015,Furniture,Art,Washington,
+2015,Office Supplies,Art,Washington,22.740000000000002
+2015,Technology,Art,Washington,
+2015,Furniture,Art,West Palm Beach,
+2015,Office Supplies,Art,West Palm Beach,13.120000000000001
+2015,Technology,Art,West Palm Beach,
+2015,Furniture,Art,Wichita,
+2015,Office Supplies,Art,Wichita,21.240000000000002
+2015,Technology,Art,Wichita,
+2015,Furniture,Art,Wilmington,
+2015,Office Supplies,Art,Wilmington,31.919999999999998
+2015,Technology,Art,Wilmington,
+2015,Furniture,Art,Yucaipa,
+2015,Office Supplies,Art,Yucaipa,50.8
+2015,Technology,Art,Yucaipa,
+2015,Furniture,Binders,Akron,
+2015,Office Supplies,Binders,Akron,17.238000000000003
+2015,Technology,Binders,Akron,
+2015,Furniture,Binders,Allen,
+2015,Office Supplies,Binders,Allen,8.783999999999999
+2015,Technology,Binders,Allen,
+2015,Furniture,Binders,Allentown,
+2015,Office Supplies,Binders,Allentown,99.58800000000001
+2015,Technology,Binders,Allentown,
+2015,Furniture,Binders,Altoona,
+2015,Office Supplies,Binders,Altoona,4.4190000000000005
+2015,Technology,Binders,Altoona,
+2015,Furniture,Binders,Anaheim,
+2015,Office Supplies,Binders,Anaheim,25.031999999999996
+2015,Technology,Binders,Anaheim,
+2015,Furniture,Binders,Ann Arbor,
+2015,Office Supplies,Binders,Ann Arbor,152.79999999999998
+2015,Technology,Binders,Ann Arbor,
+2015,Furniture,Binders,Arlington,
+2015,Office Supplies,Binders,Arlington,70.34400000000001
+2015,Technology,Binders,Arlington,
+2015,Furniture,Binders,Atlanta,
+2015,Office Supplies,Binders,Atlanta,6354.95
+2015,Technology,Binders,Atlanta,
+2015,Furniture,Binders,Aurora,
+2015,Office Supplies,Binders,Aurora,52.470000000000006
+2015,Technology,Binders,Aurora,
+2015,Furniture,Binders,Austin,
+2015,Office Supplies,Binders,Austin,6.653999999999998
+2015,Technology,Binders,Austin,
+2015,Furniture,Binders,Bakersfield,
+2015,Office Supplies,Binders,Bakersfield,19.152
+2015,Technology,Binders,Bakersfield,
+2015,Furniture,Binders,Bayonne,
+2015,Office Supplies,Binders,Bayonne,14.46
+2015,Technology,Binders,Bayonne,
+2015,Furniture,Binders,Bloomington,
+2015,Office Supplies,Binders,Bloomington,5.175999999999998
+2015,Technology,Binders,Bloomington,
+2015,Furniture,Binders,Boise,
+2015,Office Supplies,Binders,Boise,3.3040000000000003
+2015,Technology,Binders,Boise,
+2015,Furniture,Binders,Bristol,
+2015,Office Supplies,Binders,Bristol,157.79400000000004
+2015,Technology,Binders,Bristol,
+2015,Furniture,Binders,Cambridge,
+2015,Office Supplies,Binders,Cambridge,22.450000000000003
+2015,Technology,Binders,Cambridge,
+2015,Furniture,Binders,Carrollton,
+2015,Office Supplies,Binders,Carrollton,312.90399999999994
+2015,Technology,Binders,Carrollton,
+2015,Furniture,Binders,Chesapeake,
+2015,Office Supplies,Binders,Chesapeake,63.96
+2015,Technology,Binders,Chesapeake,
+2015,Furniture,Binders,Chester,
+2015,Office Supplies,Binders,Chester,23.484000000000005
+2015,Technology,Binders,Chester,
+2015,Furniture,Binders,Chicago,
+2015,Office Supplies,Binders,Chicago,51.715999999999994
+2015,Technology,Binders,Chicago,
+2015,Furniture,Binders,Clarksville,
+2015,Office Supplies,Binders,Clarksville,1598.0580000000002
+2015,Technology,Binders,Clarksville,
+2015,Furniture,Binders,Clinton,
+2015,Office Supplies,Binders,Clinton,346.21
+2015,Technology,Binders,Clinton,
+2015,Furniture,Binders,Colorado Springs,
+2015,Office Supplies,Binders,Colorado Springs,1.9380000000000002
+2015,Technology,Binders,Colorado Springs,
+2015,Furniture,Binders,Columbia,
+2015,Office Supplies,Binders,Columbia,2556.58
+2015,Technology,Binders,Columbia,
+2015,Furniture,Binders,Columbus,
+2015,Office Supplies,Binders,Columbus,200.46199999999996
+2015,Technology,Binders,Columbus,
+2015,Furniture,Binders,Concord,
+2015,Office Supplies,Binders,Concord,68.62
+2015,Technology,Binders,Concord,
+2015,Furniture,Binders,Dallas,
+2015,Office Supplies,Binders,Dallas,12.833999999999996
+2015,Technology,Binders,Dallas,
+2015,Furniture,Binders,Decatur,
+2015,Office Supplies,Binders,Decatur,19.14
+2015,Technology,Binders,Decatur,
+2015,Furniture,Binders,Des Moines,
+2015,Office Supplies,Binders,Des Moines,25.9
+2015,Technology,Binders,Des Moines,
+2015,Furniture,Binders,Detroit,
+2015,Office Supplies,Binders,Detroit,675.6300000000001
+2015,Technology,Binders,Detroit,
+2015,Furniture,Binders,Dover,
+2015,Office Supplies,Binders,Dover,691.9
+2015,Technology,Binders,Dover,
+2015,Furniture,Binders,Dublin,
+2015,Office Supplies,Binders,Dublin,19.776000000000003
+2015,Technology,Binders,Dublin,
+2015,Furniture,Binders,Dubuque,
+2015,Office Supplies,Binders,Dubuque,15.24
+2015,Technology,Binders,Dubuque,
+2015,Furniture,Binders,Durham,
+2015,Office Supplies,Binders,Durham,6.048000000000001
+2015,Technology,Binders,Durham,
+2015,Furniture,Binders,East Point,
+2015,Office Supplies,Binders,East Point,165.98
+2015,Technology,Binders,East Point,
+2015,Furniture,Binders,Fayetteville,
+2015,Office Supplies,Binders,Fayetteville,13.470000000000002
+2015,Technology,Binders,Fayetteville,
+2015,Furniture,Binders,Fort Worth,
+2015,Office Supplies,Binders,Fort Worth,12.219999999999999
+2015,Technology,Binders,Fort Worth,
+2015,Furniture,Binders,Franklin,
+2015,Office Supplies,Binders,Franklin,240.74400000000003
+2015,Technology,Binders,Franklin,
+2015,Furniture,Binders,Grand Prairie,
+2015,Office Supplies,Binders,Grand Prairie,3.6559999999999993
+2015,Technology,Binders,Grand Prairie,
+2015,Furniture,Binders,Hampton,
+2015,Office Supplies,Binders,Hampton,113.10000000000001
+2015,Technology,Binders,Hampton,
+2015,Furniture,Binders,Henderson,
+2015,Office Supplies,Binders,Henderson,596.48
+2015,Technology,Binders,Henderson,
+2015,Furniture,Binders,Highland Park,
+2015,Office Supplies,Binders,Highland Park,2.879999999999999
+2015,Technology,Binders,Highland Park,
+2015,Furniture,Binders,Houston,
+2015,Office Supplies,Binders,Houston,213.84199999999993
+2015,Technology,Binders,Houston,
+2015,Furniture,Binders,Jacksonville,
+2015,Office Supplies,Binders,Jacksonville,174.61200000000002
+2015,Technology,Binders,Jacksonville,
+2015,Furniture,Binders,Kirkwood,
+2015,Office Supplies,Binders,Kirkwood,28.4
+2015,Technology,Binders,Kirkwood,
+2015,Furniture,Binders,Lakeland,
+2015,Office Supplies,Binders,Lakeland,82.36800000000001
+2015,Technology,Binders,Lakeland,
+2015,Furniture,Binders,Lakewood,
+2015,Office Supplies,Binders,Lakewood,7.218
+2015,Technology,Binders,Lakewood,
+2015,Furniture,Binders,Lansing,
+2015,Office Supplies,Binders,Lansing,12.76
+2015,Technology,Binders,Lansing,
+2015,Furniture,Binders,Las Vegas,
+2015,Office Supplies,Binders,Las Vegas,111.632
+2015,Technology,Binders,Las Vegas,
+2015,Furniture,Binders,Lawrence,
+2015,Office Supplies,Binders,Lawrence,496.28
+2015,Technology,Binders,Lawrence,
+2015,Furniture,Binders,Leominster,
+2015,Office Supplies,Binders,Leominster,75.77
+2015,Technology,Binders,Leominster,
+2015,Furniture,Binders,Lewiston,
+2015,Office Supplies,Binders,Lewiston,38.1
+2015,Technology,Binders,Lewiston,
+2015,Furniture,Binders,Long Beach,
+2015,Office Supplies,Binders,Long Beach,24.448
+2015,Technology,Binders,Long Beach,
+2015,Furniture,Binders,Los Angeles,
+2015,Office Supplies,Binders,Los Angeles,805.6320000000001
+2015,Technology,Binders,Los Angeles,
+2015,Furniture,Binders,Louisville,
+2015,Office Supplies,Binders,Louisville,295.26
+2015,Technology,Binders,Louisville,
+2015,Furniture,Binders,Lubbock,
+2015,Office Supplies,Binders,Lubbock,6.079999999999998
+2015,Technology,Binders,Lubbock,
+2015,Furniture,Binders,Macon,
+2015,Office Supplies,Binders,Macon,58.72
+2015,Technology,Binders,Macon,
+2015,Furniture,Binders,Marietta,
+2015,Office Supplies,Binders,Marietta,5.64
+2015,Technology,Binders,Marietta,
+2015,Furniture,Binders,Mcallen,
+2015,Office Supplies,Binders,Mcallen,5.7879999999999985
+2015,Technology,Binders,Mcallen,
+2015,Furniture,Binders,Medford,
+2015,Office Supplies,Binders,Medford,9.762
+2015,Technology,Binders,Medford,
+2015,Furniture,Binders,Memphis,
+2015,Office Supplies,Binders,Memphis,2.9460000000000006
+2015,Technology,Binders,Memphis,
+2015,Furniture,Binders,Meriden,
+2015,Office Supplies,Binders,Meriden,10.76
+2015,Technology,Binders,Meriden,
+2015,Furniture,Binders,Mesa,
+2015,Office Supplies,Binders,Mesa,149.61900000000003
+2015,Technology,Binders,Mesa,
+2015,Furniture,Binders,Miami,
+2015,Office Supplies,Binders,Miami,1668.6510000000003
+2015,Technology,Binders,Miami,
+2015,Furniture,Binders,Middletown,
+2015,Office Supplies,Binders,Middletown,26.9
+2015,Technology,Binders,Middletown,
+2015,Furniture,Binders,Midland,
+2015,Office Supplies,Binders,Midland,3812.9700000000003
+2015,Technology,Binders,Midland,
+2015,Furniture,Binders,Minneapolis,
+2015,Office Supplies,Binders,Minneapolis,76.94
+2015,Technology,Binders,Minneapolis,
+2015,Furniture,Binders,Missoula,
+2015,Office Supplies,Binders,Missoula,487.98400000000004
+2015,Technology,Binders,Missoula,
+2015,Furniture,Binders,Monroe,
+2015,Office Supplies,Binders,Monroe,36.26
+2015,Technology,Binders,Monroe,
+2015,Furniture,Binders,Murfreesboro,
+2015,Office Supplies,Binders,Murfreesboro,12.069000000000003
+2015,Technology,Binders,Murfreesboro,
+2015,Furniture,Binders,Naperville,
+2015,Office Supplies,Binders,Naperville,10.463999999999999
+2015,Technology,Binders,Naperville,
+2015,Furniture,Binders,Nashville,
+2015,Office Supplies,Binders,Nashville,1369.7640000000001
+2015,Technology,Binders,Nashville,
+2015,Furniture,Binders,New Albany,
+2015,Office Supplies,Binders,New Albany,38.22
+2015,Technology,Binders,New Albany,
+2015,Furniture,Binders,New Bedford,
+2015,Office Supplies,Binders,New Bedford,52.199999999999996
+2015,Technology,Binders,New Bedford,
+2015,Furniture,Binders,New York City,
+2015,Office Supplies,Binders,New York City,6727.792000000001
+2015,Technology,Binders,New York City,
+2015,Furniture,Binders,Newark,
+2015,Office Supplies,Binders,Newark,99.72
+2015,Technology,Binders,Newark,
+2015,Furniture,Binders,Noblesville,
+2015,Office Supplies,Binders,Noblesville,12.56
+2015,Technology,Binders,Noblesville,
+2015,Furniture,Binders,Norfolk,
+2015,Office Supplies,Binders,Norfolk,17.43
+2015,Technology,Binders,Norfolk,
+2015,Furniture,Binders,Oceanside,
+2015,Office Supplies,Binders,Oceanside,79.05600000000001
+2015,Technology,Binders,Oceanside,
+2015,Furniture,Binders,Omaha,
+2015,Office Supplies,Binders,Omaha,7.04
+2015,Technology,Binders,Omaha,
+2015,Furniture,Binders,Oxnard,
+2015,Office Supplies,Binders,Oxnard,32.28
+2015,Technology,Binders,Oxnard,
+2015,Furniture,Binders,Paterson,
+2015,Office Supplies,Binders,Paterson,209.6
+2015,Technology,Binders,Paterson,
+2015,Furniture,Binders,Peoria,
+2015,Office Supplies,Binders,Peoria,13.692000000000002
+2015,Technology,Binders,Peoria,
+2015,Furniture,Binders,Philadelphia,
+2015,Office Supplies,Binders,Philadelphia,455.8080000000001
+2015,Technology,Binders,Philadelphia,
+2015,Furniture,Binders,Phoenix,
+2015,Office Supplies,Binders,Phoenix,21.219
+2015,Technology,Binders,Phoenix,
+2015,Furniture,Binders,Plantation,
+2015,Office Supplies,Binders,Plantation,9.900000000000002
+2015,Technology,Binders,Plantation,
+2015,Furniture,Binders,Pleasant Grove,
+2015,Office Supplies,Binders,Pleasant Grove,12.144
+2015,Technology,Binders,Pleasant Grove,
+2015,Furniture,Binders,Quincy,
+2015,Office Supplies,Binders,Quincy,2.9919999999999995
+2015,Technology,Binders,Quincy,
+2015,Furniture,Binders,Raleigh,
+2015,Office Supplies,Binders,Raleigh,2.892000000000001
+2015,Technology,Binders,Raleigh,
+2015,Furniture,Binders,Redlands,
+2015,Office Supplies,Binders,Redlands,398.352
+2015,Technology,Binders,Redlands,
+2015,Furniture,Binders,Revere,
+2015,Office Supplies,Binders,Revere,37.88
+2015,Technology,Binders,Revere,
+2015,Furniture,Binders,Richmond,
+2015,Office Supplies,Binders,Richmond,244.98
+2015,Technology,Binders,Richmond,
+2015,Furniture,Binders,Rochester,
+2015,Office Supplies,Binders,Rochester,1260.6
+2015,Technology,Binders,Rochester,
+2015,Furniture,Binders,Rockville,
+2015,Office Supplies,Binders,Rockville,7.38
+2015,Technology,Binders,Rockville,
+2015,Furniture,Binders,Roseville,
+2015,Office Supplies,Binders,Roseville,74.76
+2015,Technology,Binders,Roseville,
+2015,Furniture,Binders,Sacramento,
+2015,Office Supplies,Binders,Sacramento,12.832
+2015,Technology,Binders,Sacramento,
+2015,Furniture,Binders,Saint Petersburg,
+2015,Office Supplies,Binders,Saint Petersburg,18.264000000000003
+2015,Technology,Binders,Saint Petersburg,
+2015,Furniture,Binders,Salinas,
+2015,Office Supplies,Binders,Salinas,39.528000000000006
+2015,Technology,Binders,Salinas,
+2015,Furniture,Binders,San Antonio,
+2015,Office Supplies,Binders,San Antonio,62.603999999999985
+2015,Technology,Binders,San Antonio,
+2015,Furniture,Binders,San Bernardino,
+2015,Office Supplies,Binders,San Bernardino,177.88800000000003
+2015,Technology,Binders,San Bernardino,
+2015,Furniture,Binders,San Diego,
+2015,Office Supplies,Binders,San Diego,411.136
+2015,Technology,Binders,San Diego,
+2015,Furniture,Binders,San Francisco,
+2015,Office Supplies,Binders,San Francisco,377.312
+2015,Technology,Binders,San Francisco,
+2015,Furniture,Binders,San Jose,
+2015,Office Supplies,Binders,San Jose,13.847999999999999
+2015,Technology,Binders,San Jose,
+2015,Furniture,Binders,Scottsdale,
+2015,Office Supplies,Binders,Scottsdale,4.401
+2015,Technology,Binders,Scottsdale,
+2015,Furniture,Binders,Seattle,
+2015,Office Supplies,Binders,Seattle,568.8079999999999
+2015,Technology,Binders,Seattle,
+2015,Furniture,Binders,Smyrna,
+2015,Office Supplies,Binders,Smyrna,125.68900000000001
+2015,Technology,Binders,Smyrna,
+2015,Furniture,Binders,Springfield,
+2015,Office Supplies,Binders,Springfield,44.349000000000004
+2015,Technology,Binders,Springfield,
+2015,Furniture,Binders,Sterling Heights,
+2015,Office Supplies,Binders,Sterling Heights,19
+2015,Technology,Binders,Sterling Heights,
+2015,Furniture,Binders,Tallahassee,
+2015,Office Supplies,Binders,Tallahassee,8.226
+2015,Technology,Binders,Tallahassee,
+2015,Furniture,Binders,Tamarac,
+2015,Office Supplies,Binders,Tamarac,3.444000000000001
+2015,Technology,Binders,Tamarac,
+2015,Furniture,Binders,Temecula,
+2015,Office Supplies,Binders,Temecula,29.2
+2015,Technology,Binders,Temecula,
+2015,Furniture,Binders,Tempe,
+2015,Office Supplies,Binders,Tempe,3.366000000000001
+2015,Technology,Binders,Tempe,
+2015,Furniture,Binders,Toledo,
+2015,Office Supplies,Binders,Toledo,222.39000000000001
+2015,Technology,Binders,Toledo,
+2015,Furniture,Binders,Troy,
+2015,Office Supplies,Binders,Troy,25.164000000000005
+2015,Technology,Binders,Troy,
+2015,Furniture,Binders,Waynesboro,
+2015,Office Supplies,Binders,Waynesboro,9.14
+2015,Technology,Binders,Waynesboro,
+2015,Furniture,Binders,West Jordan,
+2015,Office Supplies,Binders,West Jordan,91.68
+2015,Technology,Binders,West Jordan,
+2015,Furniture,Binders,Wichita,
+2015,Office Supplies,Binders,Wichita,127.96
+2015,Technology,Binders,Wichita,
+2015,Furniture,Binders,Wilmington,
+2015,Office Supplies,Binders,Wilmington,221.06
+2015,Technology,Binders,Wilmington,
+2015,Furniture,Binders,Wilson,
+2015,Office Supplies,Binders,Wilson,13.788
+2015,Technology,Binders,Wilson,
+2015,Furniture,Binders,Woodbury,
+2015,Office Supplies,Binders,Woodbury,32.339999999999996
+2015,Technology,Binders,Woodbury,
+2015,Furniture,Bookcases,Arlington,61.96
+2015,Office Supplies,Bookcases,Arlington,
+2015,Technology,Bookcases,Arlington,
+2015,Furniture,Bookcases,Aurora,145.764
+2015,Office Supplies,Bookcases,Aurora,
+2015,Technology,Bookcases,Aurora,
+2015,Furniture,Bookcases,Bakersfield,195.466
+2015,Office Supplies,Bookcases,Bakersfield,
+2015,Technology,Bookcases,Bakersfield,
+2015,Furniture,Bookcases,Burlington,4404.9
+2015,Office Supplies,Bookcases,Burlington,
+2015,Technology,Bookcases,Burlington,
+2015,Furniture,Bookcases,Camarillo,509.9574999999999
+2015,Office Supplies,Bookcases,Camarillo,
+2015,Technology,Bookcases,Camarillo,
+2015,Furniture,Bookcases,Chicago,359.05799999999994
+2015,Office Supplies,Bookcases,Chicago,
+2015,Technology,Bookcases,Chicago,
+2015,Furniture,Bookcases,Colorado Springs,659.6340000000001
+2015,Office Supplies,Bookcases,Colorado Springs,
+2015,Technology,Bookcases,Colorado Springs,
+2015,Furniture,Bookcases,Columbus,35.49
+2015,Office Supplies,Bookcases,Columbus,
+2015,Technology,Bookcases,Columbus,
+2015,Furniture,Bookcases,Dallas,1352.3975999999998
+2015,Office Supplies,Bookcases,Dallas,
+2015,Technology,Bookcases,Dallas,
+2015,Furniture,Bookcases,Detroit,160.98
+2015,Office Supplies,Bookcases,Detroit,
+2015,Technology,Bookcases,Detroit,
+2015,Furniture,Bookcases,Everett,170.98
+2015,Office Supplies,Bookcases,Everett,
+2015,Technology,Bookcases,Everett,
+2015,Furniture,Bookcases,Highland Park,1298.374
+2015,Office Supplies,Bookcases,Highland Park,
+2015,Technology,Bookcases,Highland Park,
+2015,Furniture,Bookcases,Holyoke,301.96
+2015,Office Supplies,Bookcases,Holyoke,
+2015,Technology,Bookcases,Holyoke,
+2015,Furniture,Bookcases,Houston,3127.0615999999995
+2015,Office Supplies,Bookcases,Houston,
+2015,Technology,Bookcases,Houston,
+2015,Furniture,Bookcases,Kenosha,512.9399999999999
+2015,Office Supplies,Bookcases,Kenosha,
+2015,Technology,Bookcases,Kenosha,
+2015,Furniture,Bookcases,Las Vegas,141.96
+2015,Office Supplies,Bookcases,Las Vegas,
+2015,Technology,Bookcases,Las Vegas,
+2015,Furniture,Bookcases,Lincoln Park,194.32
+2015,Office Supplies,Bookcases,Lincoln Park,
+2015,Technology,Bookcases,Lincoln Park,
+2015,Furniture,Bookcases,Los Angeles,428.332
+2015,Office Supplies,Bookcases,Los Angeles,
+2015,Technology,Bookcases,Los Angeles,
+2015,Furniture,Bookcases,Medina,452.45
+2015,Office Supplies,Bookcases,Medina,
+2015,Technology,Bookcases,Medina,
+2015,Furniture,Bookcases,Mesa,127.76400000000002
+2015,Office Supplies,Bookcases,Mesa,
+2015,Technology,Bookcases,Mesa,
+2015,Furniture,Bookcases,Miami,290.35200000000003
+2015,Office Supplies,Bookcases,Miami,
+2015,Technology,Bookcases,Miami,
+2015,Furniture,Bookcases,Milwaukee,687.4
+2015,Office Supplies,Bookcases,Milwaukee,
+2015,Technology,Bookcases,Milwaukee,
+2015,Furniture,Bookcases,Murfreesboro,131.104
+2015,Office Supplies,Bookcases,Murfreesboro,
+2015,Technology,Bookcases,Murfreesboro,
+2015,Furniture,Bookcases,New York City,9121.52
+2015,Office Supplies,Bookcases,New York City,
+2015,Technology,Bookcases,New York City,
+2015,Furniture,Bookcases,Newark,299.96999999999997
+2015,Office Supplies,Bookcases,Newark,
+2015,Technology,Bookcases,Newark,
+2015,Furniture,Bookcases,Orem,1406.86
+2015,Office Supplies,Bookcases,Orem,
+2015,Technology,Bookcases,Orem,
+2015,Furniture,Bookcases,Peoria,359.05799999999994
+2015,Office Supplies,Bookcases,Peoria,
+2015,Technology,Bookcases,Peoria,
+2015,Furniture,Bookcases,Philadelphia,3737.35
+2015,Office Supplies,Bookcases,Philadelphia,
+2015,Technology,Bookcases,Philadelphia,
+2015,Furniture,Bookcases,Port Arthur,246.13279999999997
+2015,Office Supplies,Bookcases,Port Arthur,
+2015,Technology,Bookcases,Port Arthur,
+2015,Furniture,Bookcases,Port Saint Lucie,231.92000000000002
+2015,Office Supplies,Bookcases,Port Saint Lucie,
+2015,Technology,Bookcases,Port Saint Lucie,
+2015,Furniture,Bookcases,Portland,66.29400000000001
+2015,Office Supplies,Bookcases,Portland,
+2015,Technology,Bookcases,Portland,
+2015,Furniture,Bookcases,Redlands,425.833
+2015,Office Supplies,Bookcases,Redlands,
+2015,Technology,Bookcases,Redlands,
+2015,Furniture,Bookcases,Revere,361.96
+2015,Office Supplies,Bookcases,Revere,
+2015,Technology,Bookcases,Revere,
+2015,Furniture,Bookcases,San Bernardino,683.332
+2015,Office Supplies,Bookcases,San Bernardino,
+2015,Technology,Bookcases,San Bernardino,
+2015,Furniture,Bookcases,San Diego,1217.03
+2015,Office Supplies,Bookcases,San Diego,
+2015,Technology,Bookcases,San Diego,
+2015,Furniture,Bookcases,San Francisco,2498.7279999999996
+2015,Office Supplies,Bookcases,San Francisco,
+2015,Technology,Bookcases,San Francisco,
+2015,Furniture,Bookcases,Seattle,846.86
+2015,Office Supplies,Bookcases,Seattle,
+2015,Technology,Bookcases,Seattle,
+2015,Furniture,Bookcases,Troy,482.93999999999994
+2015,Office Supplies,Bookcases,Troy,
+2015,Technology,Bookcases,Troy,
+2015,Furniture,Bookcases,Waynesboro,523.26
+2015,Office Supplies,Bookcases,Waynesboro,
+2015,Technology,Bookcases,Waynesboro,
+2015,Furniture,Bookcases,Wilmington,283.92
+2015,Office Supplies,Bookcases,Wilmington,
+2015,Technology,Bookcases,Wilmington,
+2015,Furniture,Chairs,Amarillo,2453.43
+2015,Office Supplies,Chairs,Amarillo,
+2015,Technology,Chairs,Amarillo,
+2015,Furniture,Chairs,Anaheim,717.72
+2015,Office Supplies,Chairs,Anaheim,
+2015,Technology,Chairs,Anaheim,
+2015,Furniture,Chairs,Aurora,128.058
+2015,Office Supplies,Chairs,Aurora,
+2015,Technology,Chairs,Aurora,
+2015,Furniture,Chairs,Austin,179.886
+2015,Office Supplies,Chairs,Austin,
+2015,Technology,Chairs,Austin,
+2015,Furniture,Chairs,Baltimore,693.92
+2015,Office Supplies,Chairs,Baltimore,
+2015,Technology,Chairs,Baltimore,
+2015,Furniture,Chairs,Bethlehem,99.372
+2015,Office Supplies,Chairs,Bethlehem,
+2015,Technology,Chairs,Bethlehem,
+2015,Furniture,Chairs,Buffalo,1522.638
+2015,Office Supplies,Chairs,Buffalo,
+2015,Technology,Chairs,Buffalo,
+2015,Furniture,Chairs,Burlington,715.2
+2015,Office Supplies,Chairs,Burlington,
+2015,Technology,Chairs,Burlington,
+2015,Furniture,Chairs,Camarillo,819.9200000000001
+2015,Office Supplies,Chairs,Camarillo,
+2015,Technology,Chairs,Camarillo,
+2015,Furniture,Chairs,Carol Stream,790.538
+2015,Office Supplies,Chairs,Carol Stream,
+2015,Technology,Chairs,Carol Stream,
+2015,Furniture,Chairs,Chicago,766.794
+2015,Office Supplies,Chairs,Chicago,
+2015,Technology,Chairs,Chicago,
+2015,Furniture,Chairs,Chico,915.1360000000001
+2015,Office Supplies,Chairs,Chico,
+2015,Technology,Chairs,Chico,
+2015,Furniture,Chairs,Cleveland,181.986
+2015,Office Supplies,Chairs,Cleveland,
+2015,Technology,Chairs,Cleveland,
+2015,Furniture,Chairs,Columbia,2241.304
+2015,Office Supplies,Chairs,Columbia,
+2015,Technology,Chairs,Columbia,
+2015,Furniture,Chairs,Columbus,1833.258
+2015,Office Supplies,Chairs,Columbus,
+2015,Technology,Chairs,Columbus,
+2015,Furniture,Chairs,Dearborn,301.96
+2015,Office Supplies,Chairs,Dearborn,
+2015,Technology,Chairs,Dearborn,
+2015,Furniture,Chairs,Denver,582.336
+2015,Office Supplies,Chairs,Denver,
+2015,Technology,Chairs,Denver,
+2015,Furniture,Chairs,Detroit,2488.84
+2015,Office Supplies,Chairs,Detroit,
+2015,Technology,Chairs,Detroit,
+2015,Furniture,Chairs,Dubuque,1408.1
+2015,Office Supplies,Chairs,Dubuque,
+2015,Technology,Chairs,Dubuque,
+2015,Furniture,Chairs,El Paso,47.51599999999999
+2015,Office Supplies,Chairs,El Paso,
+2015,Technology,Chairs,El Paso,
+2015,Furniture,Chairs,Everett,542.9399999999999
+2015,Office Supplies,Chairs,Everett,
+2015,Technology,Chairs,Everett,
+2015,Furniture,Chairs,Franklin,60.74
+2015,Office Supplies,Chairs,Franklin,
+2015,Technology,Chairs,Franklin,
+2015,Furniture,Chairs,Freeport,102.58200000000001
+2015,Office Supplies,Chairs,Freeport,
+2015,Technology,Chairs,Freeport,
+2015,Furniture,Chairs,Gilbert,883.84
+2015,Office Supplies,Chairs,Gilbert,
+2015,Technology,Chairs,Gilbert,
+2015,Furniture,Chairs,Glendale,266.35200000000003
+2015,Office Supplies,Chairs,Glendale,
+2015,Technology,Chairs,Glendale,
+2015,Furniture,Chairs,Grand Prairie,197.37199999999999
+2015,Office Supplies,Chairs,Grand Prairie,
+2015,Technology,Chairs,Grand Prairie,
+2015,Furniture,Chairs,Hempstead,726.174
+2015,Office Supplies,Chairs,Hempstead,
+2015,Technology,Chairs,Hempstead,
+2015,Furniture,Chairs,Henderson,283.92
+2015,Office Supplies,Chairs,Henderson,
+2015,Technology,Chairs,Henderson,
+2015,Furniture,Chairs,Houston,1003.31
+2015,Office Supplies,Chairs,Houston,
+2015,Technology,Chairs,Houston,
+2015,Furniture,Chairs,Jackson,191.96
+2015,Office Supplies,Chairs,Jackson,
+2015,Technology,Chairs,Jackson,
+2015,Furniture,Chairs,Jacksonville,1166.92
+2015,Office Supplies,Chairs,Jacksonville,
+2015,Technology,Chairs,Jacksonville,
+2015,Furniture,Chairs,Kenosha,860.93
+2015,Office Supplies,Chairs,Kenosha,
+2015,Technology,Chairs,Kenosha,
+2015,Furniture,Chairs,Lafayette,517.5
+2015,Office Supplies,Chairs,Lafayette,
+2015,Technology,Chairs,Lafayette,
+2015,Furniture,Chairs,Lake Elsinore,283.92
+2015,Office Supplies,Chairs,Lake Elsinore,
+2015,Technology,Chairs,Lake Elsinore,
+2015,Furniture,Chairs,Lakeland,1123.92
+2015,Office Supplies,Chairs,Lakeland,
+2015,Technology,Chairs,Lakeland,
+2015,Furniture,Chairs,Lakeville,155.88
+2015,Office Supplies,Chairs,Lakeville,
+2015,Technology,Chairs,Lakeville,
+2015,Furniture,Chairs,Lancaster,348.92800000000005
+2015,Office Supplies,Chairs,Lancaster,
+2015,Technology,Chairs,Lancaster,
+2015,Furniture,Chairs,Long Beach,1448.8200000000002
+2015,Office Supplies,Chairs,Long Beach,
+2015,Technology,Chairs,Long Beach,
+2015,Furniture,Chairs,Los Angeles,4917.856
+2015,Office Supplies,Chairs,Los Angeles,
+2015,Technology,Chairs,Los Angeles,
+2015,Furniture,Chairs,Louisville,479.9
+2015,Office Supplies,Chairs,Louisville,
+2015,Technology,Chairs,Louisville,
+2015,Furniture,Chairs,Marion,70.68599999999999
+2015,Office Supplies,Chairs,Marion,
+2015,Technology,Chairs,Marion,
+2015,Furniture,Chairs,Mcallen,56.686
+2015,Office Supplies,Chairs,Mcallen,
+2015,Technology,Chairs,Mcallen,
+2015,Furniture,Chairs,Memphis,831.9360000000001
+2015,Office Supplies,Chairs,Memphis,
+2015,Technology,Chairs,Memphis,
+2015,Furniture,Chairs,Mesa,441.92
+2015,Office Supplies,Chairs,Mesa,
+2015,Technology,Chairs,Mesa,
+2015,Furniture,Chairs,Minneapolis,2567.84
+2015,Office Supplies,Chairs,Minneapolis,
+2015,Technology,Chairs,Minneapolis,
+2015,Furniture,Chairs,Mobile,1056.86
+2015,Office Supplies,Chairs,Mobile,
+2015,Technology,Chairs,Mobile,
+2015,Furniture,Chairs,Monroe,207
+2015,Office Supplies,Chairs,Monroe,
+2015,Technology,Chairs,Monroe,
+2015,Furniture,Chairs,Naperville,602.651
+2015,Office Supplies,Chairs,Naperville,
+2015,Technology,Chairs,Naperville,
+2015,Furniture,Chairs,Nashville,97.424
+2015,Office Supplies,Chairs,Nashville,
+2015,Technology,Chairs,Nashville,
+2015,Furniture,Chairs,New Albany,89.99
+2015,Office Supplies,Chairs,New Albany,
+2015,Technology,Chairs,New Albany,
+2015,Furniture,Chairs,New York City,7440.219
+2015,Office Supplies,Chairs,New York City,
+2015,Technology,Chairs,New York City,
+2015,Furniture,Chairs,Newark,687.902
+2015,Office Supplies,Chairs,Newark,
+2015,Technology,Chairs,Newark,
+2015,Furniture,Chairs,Normal,366.74399999999997
+2015,Office Supplies,Chairs,Normal,
+2015,Technology,Chairs,Normal,
+2015,Furniture,Chairs,Oakland,1026.4320000000002
+2015,Office Supplies,Chairs,Oakland,
+2015,Technology,Chairs,Oakland,
+2015,Furniture,Chairs,Oklahoma City,1323.8999999999999
+2015,Office Supplies,Chairs,Oklahoma City,
+2015,Technology,Chairs,Oklahoma City,
+2015,Furniture,Chairs,Pasadena,170.35200000000003
+2015,Office Supplies,Chairs,Pasadena,
+2015,Technology,Chairs,Pasadena,
+2015,Furniture,Chairs,Philadelphia,1952.6009999999997
+2015,Office Supplies,Chairs,Philadelphia,
+2015,Technology,Chairs,Philadelphia,
+2015,Furniture,Chairs,Phoenix,191.96800000000002
+2015,Office Supplies,Chairs,Phoenix,
+2015,Technology,Chairs,Phoenix,
+2015,Furniture,Chairs,Plantation,670.056
+2015,Office Supplies,Chairs,Plantation,
+2015,Technology,Chairs,Plantation,
+2015,Furniture,Chairs,Portland,291.168
+2015,Office Supplies,Chairs,Portland,
+2015,Technology,Chairs,Portland,
+2015,Furniture,Chairs,Providence,110.98
+2015,Office Supplies,Chairs,Providence,
+2015,Technology,Chairs,Providence,
+2015,Furniture,Chairs,Redlands,323.136
+2015,Office Supplies,Chairs,Redlands,
+2015,Technology,Chairs,Redlands,
+2015,Furniture,Chairs,Richmond,403.92
+2015,Office Supplies,Chairs,Richmond,
+2015,Technology,Chairs,Richmond,
+2015,Furniture,Chairs,Rio Rancho,1114.192
+2015,Office Supplies,Chairs,Rio Rancho,
+2015,Technology,Chairs,Rio Rancho,
+2015,Furniture,Chairs,Rome,90.882
+2015,Office Supplies,Chairs,Rome,
+2015,Technology,Chairs,Rome,
+2015,Furniture,Chairs,San Antonio,210.61599999999999
+2015,Office Supplies,Chairs,San Antonio,
+2015,Technology,Chairs,San Antonio,
+2015,Furniture,Chairs,San Diego,4241.280000000001
+2015,Office Supplies,Chairs,San Diego,
+2015,Technology,Chairs,San Diego,
+2015,Furniture,Chairs,San Francisco,2867.216000000001
+2015,Office Supplies,Chairs,San Francisco,
+2015,Technology,Chairs,San Francisco,
+2015,Furniture,Chairs,Santa Barbara,362.13599999999997
+2015,Office Supplies,Chairs,Santa Barbara,
+2015,Technology,Chairs,Santa Barbara,
+2015,Furniture,Chairs,Seattle,2934.208
+2015,Office Supplies,Chairs,Seattle,
+2015,Technology,Chairs,Seattle,
+2015,Furniture,Chairs,Smyrna,643.136
+2015,Office Supplies,Chairs,Smyrna,
+2015,Technology,Chairs,Smyrna,
+2015,Furniture,Chairs,Springfield,598.458
+2015,Office Supplies,Chairs,Springfield,
+2015,Technology,Chairs,Springfield,
+2015,Furniture,Chairs,Texas City,199.304
+2015,Office Supplies,Chairs,Texas City,
+2015,Technology,Chairs,Texas City,
+2015,Furniture,Chairs,Troy,109.764
+2015,Office Supplies,Chairs,Troy,
+2015,Technology,Chairs,Troy,
+2015,Furniture,Chairs,Warner Robins,392.93999999999994
+2015,Office Supplies,Chairs,Warner Robins,
+2015,Technology,Chairs,Warner Robins,
+2015,Furniture,Chairs,Washington,1267.53
+2015,Office Supplies,Chairs,Washington,
+2015,Technology,Chairs,Washington,
+2015,Furniture,Chairs,Wilmington,1268.82
+2015,Office Supplies,Chairs,Wilmington,
+2015,Technology,Chairs,Wilmington,
+2015,Furniture,Copiers,Chicago,
+2015,Office Supplies,Copiers,Chicago,
+2015,Technology,Copiers,Chicago,2799.9600000000005
+2015,Furniture,Copiers,Decatur,
+2015,Office Supplies,Copiers,Decatur,
+2015,Technology,Copiers,Decatur,899.97
+2015,Furniture,Copiers,Denver,
+2015,Office Supplies,Copiers,Denver,
+2015,Technology,Copiers,Denver,439.992
+2015,Furniture,Copiers,Evanston,
+2015,Office Supplies,Copiers,Evanston,
+2015,Technology,Copiers,Evanston,1439.968
+2015,Furniture,Copiers,Indianapolis,
+2015,Office Supplies,Copiers,Indianapolis,
+2015,Technology,Copiers,Indianapolis,999.98
+2015,Furniture,Copiers,Lansing,
+2015,Office Supplies,Copiers,Lansing,
+2015,Technology,Copiers,Lansing,599.98
+2015,Furniture,Copiers,Los Angeles,
+2015,Office Supplies,Copiers,Los Angeles,
+2015,Technology,Copiers,Los Angeles,1599.9520000000002
+2015,Furniture,Copiers,Lubbock,
+2015,Office Supplies,Copiers,Lubbock,
+2015,Technology,Copiers,Lubbock,479.97600000000006
+2015,Furniture,Copiers,New York City,
+2015,Office Supplies,Copiers,New York City,
+2015,Technology,Copiers,New York City,4959.896000000001
+2015,Furniture,Copiers,Port Arthur,
+2015,Office Supplies,Copiers,Port Arthur,
+2015,Technology,Copiers,Port Arthur,439.992
+2015,Furniture,Copiers,Roseville,
+2015,Office Supplies,Copiers,Roseville,
+2015,Technology,Copiers,Roseville,549.99
+2015,Furniture,Copiers,San Diego,
+2015,Office Supplies,Copiers,San Diego,
+2015,Technology,Copiers,San Diego,1199.96
+2015,Furniture,Copiers,San Francisco,
+2015,Office Supplies,Copiers,San Francisco,
+2015,Technology,Copiers,San Francisco,1119.9840000000002
+2015,Furniture,Copiers,Seattle,
+2015,Office Supplies,Copiers,Seattle,
+2015,Technology,Copiers,Seattle,3149.9300000000003
+2015,Furniture,Copiers,Springfield,
+2015,Office Supplies,Copiers,Springfield,
+2015,Technology,Copiers,Springfield,5499.92
+2015,Furniture,Envelopes,Ann Arbor,
+2015,Office Supplies,Envelopes,Ann Arbor,57.959999999999994
+2015,Technology,Envelopes,Ann Arbor,
+2015,Furniture,Envelopes,Auburn,
+2015,Office Supplies,Envelopes,Auburn,34.56
+2015,Technology,Envelopes,Auburn,
+2015,Furniture,Envelopes,Aurora,
+2015,Office Supplies,Envelopes,Aurora,12.536000000000001
+2015,Technology,Envelopes,Aurora,
+2015,Furniture,Envelopes,Baltimore,
+2015,Office Supplies,Envelopes,Baltimore,137.25
+2015,Technology,Envelopes,Baltimore,
+2015,Furniture,Envelopes,Bloomington,
+2015,Office Supplies,Envelopes,Bloomington,12.224
+2015,Technology,Envelopes,Bloomington,
+2015,Furniture,Envelopes,Buffalo,
+2015,Office Supplies,Envelopes,Buffalo,79.96
+2015,Technology,Envelopes,Buffalo,
+2015,Furniture,Envelopes,Bullhead City,
+2015,Office Supplies,Envelopes,Bullhead City,7.920000000000001
+2015,Technology,Envelopes,Bullhead City,
+2015,Furniture,Envelopes,Chester,
+2015,Office Supplies,Envelopes,Chester,200.98400000000004
+2015,Technology,Envelopes,Chester,
+2015,Furniture,Envelopes,Chicago,
+2015,Office Supplies,Envelopes,Chicago,7.824
+2015,Technology,Envelopes,Chicago,
+2015,Furniture,Envelopes,Chico,
+2015,Office Supplies,Envelopes,Chico,15.52
+2015,Technology,Envelopes,Chico,
+2015,Furniture,Envelopes,Columbia,
+2015,Office Supplies,Envelopes,Columbia,308.65
+2015,Technology,Envelopes,Columbia,
+2015,Furniture,Envelopes,Columbus,
+2015,Office Supplies,Envelopes,Columbus,90.36
+2015,Technology,Envelopes,Columbus,
+2015,Furniture,Envelopes,Dallas,
+2015,Office Supplies,Envelopes,Dallas,4.464
+2015,Technology,Envelopes,Dallas,
+2015,Furniture,Envelopes,Daytona Beach,
+2015,Office Supplies,Envelopes,Daytona Beach,27.312
+2015,Technology,Envelopes,Daytona Beach,
+2015,Furniture,Envelopes,Detroit,
+2015,Office Supplies,Envelopes,Detroit,180.96
+2015,Technology,Envelopes,Detroit,
+2015,Furniture,Envelopes,Durham,
+2015,Office Supplies,Envelopes,Durham,200.98400000000004
+2015,Technology,Envelopes,Durham,
+2015,Furniture,Envelopes,Fayetteville,
+2015,Office Supplies,Envelopes,Fayetteville,105.42
+2015,Technology,Envelopes,Fayetteville,
+2015,Furniture,Envelopes,Grand Prairie,
+2015,Office Supplies,Envelopes,Grand Prairie,28.752000000000002
+2015,Technology,Envelopes,Grand Prairie,
+2015,Furniture,Envelopes,Haltom City,
+2015,Office Supplies,Envelopes,Haltom City,6.6080000000000005
+2015,Technology,Envelopes,Haltom City,
+2015,Furniture,Envelopes,Henderson,
+2015,Office Supplies,Envelopes,Henderson,100.03
+2015,Technology,Envelopes,Henderson,
+2015,Furniture,Envelopes,Houston,
+2015,Office Supplies,Envelopes,Houston,337.216
+2015,Technology,Envelopes,Houston,
+2015,Furniture,Envelopes,Jacksonville,
+2015,Office Supplies,Envelopes,Jacksonville,12.224
+2015,Technology,Envelopes,Jacksonville,
+2015,Furniture,Envelopes,Lakewood,
+2015,Office Supplies,Envelopes,Lakewood,51.12
+2015,Technology,Envelopes,Lakewood,
+2015,Furniture,Envelopes,Los Angeles,
+2015,Office Supplies,Envelopes,Los Angeles,768.3900000000001
+2015,Technology,Envelopes,Los Angeles,
+2015,Furniture,Envelopes,Marion,
+2015,Office Supplies,Envelopes,Marion,19.872
+2015,Technology,Envelopes,Marion,
+2015,Furniture,Envelopes,Memphis,
+2015,Office Supplies,Envelopes,Memphis,55.93600000000001
+2015,Technology,Envelopes,Memphis,
+2015,Furniture,Envelopes,Montgomery,
+2015,Office Supplies,Envelopes,Montgomery,98.46
+2015,Technology,Envelopes,Montgomery,
+2015,Furniture,Envelopes,New York City,
+2015,Office Supplies,Envelopes,New York City,229.45
+2015,Technology,Envelopes,New York City,
+2015,Furniture,Envelopes,Newport News,
+2015,Office Supplies,Envelopes,Newport News,31.12
+2015,Technology,Envelopes,Newport News,
+2015,Furniture,Envelopes,Oceanside,
+2015,Office Supplies,Envelopes,Oceanside,12.24
+2015,Technology,Envelopes,Oceanside,
+2015,Furniture,Envelopes,Philadelphia,
+2015,Office Supplies,Envelopes,Philadelphia,86.384
+2015,Technology,Envelopes,Philadelphia,
+2015,Furniture,Envelopes,Plantation,
+2015,Office Supplies,Envelopes,Plantation,8.688
+2015,Technology,Envelopes,Plantation,
+2015,Furniture,Envelopes,Redlands,
+2015,Office Supplies,Envelopes,Redlands,14.280000000000001
+2015,Technology,Envelopes,Redlands,
+2015,Furniture,Envelopes,Richmond,
+2015,Office Supplies,Envelopes,Richmond,101.88
+2015,Technology,Envelopes,Richmond,
+2015,Furniture,Envelopes,Roswell,
+2015,Office Supplies,Envelopes,Roswell,33.22
+2015,Technology,Envelopes,Roswell,
+2015,Furniture,Envelopes,Salinas,
+2015,Office Supplies,Envelopes,Salinas,14.75
+2015,Technology,Envelopes,Salinas,
+2015,Furniture,Envelopes,San Diego,
+2015,Office Supplies,Envelopes,San Diego,136.26
+2015,Technology,Envelopes,San Diego,
+2015,Furniture,Envelopes,San Francisco,
+2015,Office Supplies,Envelopes,San Francisco,378.70000000000005
+2015,Technology,Envelopes,San Francisco,
+2015,Furniture,Envelopes,Scottsdale,
+2015,Office Supplies,Envelopes,Scottsdale,7.080000000000001
+2015,Technology,Envelopes,Scottsdale,
+2015,Furniture,Envelopes,South Bend,
+2015,Office Supplies,Envelopes,South Bend,106.75
+2015,Technology,Envelopes,South Bend,
+2015,Furniture,Envelopes,Springfield,
+2015,Office Supplies,Envelopes,Springfield,371.33
+2015,Technology,Envelopes,Springfield,
+2015,Furniture,Envelopes,Wilmington,
+2015,Office Supplies,Envelopes,Wilmington,16.56
+2015,Technology,Envelopes,Wilmington,
+2015,Furniture,Fasteners,Auburn,
+2015,Office Supplies,Fasteners,Auburn,1.24
+2015,Technology,Fasteners,Auburn,
+2015,Furniture,Fasteners,Aurora,
+2015,Office Supplies,Fasteners,Aurora,4.5120000000000005
+2015,Technology,Fasteners,Aurora,
+2015,Furniture,Fasteners,Austin,
+2015,Office Supplies,Fasteners,Austin,3.4880000000000004
+2015,Technology,Fasteners,Austin,
+2015,Furniture,Fasteners,Baltimore,
+2015,Office Supplies,Fasteners,Baltimore,11.52
+2015,Technology,Fasteners,Baltimore,
+2015,Furniture,Fasteners,Bolingbrook,
+2015,Office Supplies,Fasteners,Bolingbrook,12.032
+2015,Technology,Fasteners,Bolingbrook,
+2015,Furniture,Fasteners,Carrollton,
+2015,Office Supplies,Fasteners,Carrollton,18.864
+2015,Technology,Fasteners,Carrollton,
+2015,Furniture,Fasteners,Chicago,
+2015,Office Supplies,Fasteners,Chicago,23.104
+2015,Technology,Fasteners,Chicago,
+2015,Furniture,Fasteners,Clinton,
+2015,Office Supplies,Fasteners,Clinton,15.8
+2015,Technology,Fasteners,Clinton,
+2015,Furniture,Fasteners,Columbus,
+2015,Office Supplies,Fasteners,Columbus,11.047999999999998
+2015,Technology,Fasteners,Columbus,
+2015,Furniture,Fasteners,Dublin,
+2015,Office Supplies,Fasteners,Dublin,5.5840000000000005
+2015,Technology,Fasteners,Dublin,
+2015,Furniture,Fasteners,Florence,
+2015,Office Supplies,Fasteners,Florence,31.56
+2015,Technology,Fasteners,Florence,
+2015,Furniture,Fasteners,Garden City,
+2015,Office Supplies,Fasteners,Garden City,5.81
+2015,Technology,Fasteners,Garden City,
+2015,Furniture,Fasteners,Houston,
+2015,Office Supplies,Fasteners,Houston,14.432
+2015,Technology,Fasteners,Houston,
+2015,Furniture,Fasteners,Jacksonville,
+2015,Office Supplies,Fasteners,Jacksonville,31.504000000000005
+2015,Technology,Fasteners,Jacksonville,
+2015,Furniture,Fasteners,Lancaster,
+2015,Office Supplies,Fasteners,Lancaster,10.9
+2015,Technology,Fasteners,Lancaster,
+2015,Furniture,Fasteners,Lansing,
+2015,Office Supplies,Fasteners,Lansing,5.84
+2015,Technology,Fasteners,Lansing,
+2015,Furniture,Fasteners,Lawrence,
+2015,Office Supplies,Fasteners,Lawrence,22.200000000000003
+2015,Technology,Fasteners,Lawrence,
+2015,Furniture,Fasteners,Layton,
+2015,Office Supplies,Fasteners,Layton,4.96
+2015,Technology,Fasteners,Layton,
+2015,Furniture,Fasteners,Long Beach,
+2015,Office Supplies,Fasteners,Long Beach,12.99
+2015,Technology,Fasteners,Long Beach,
+2015,Furniture,Fasteners,Los Angeles,
+2015,Office Supplies,Fasteners,Los Angeles,53.82
+2015,Technology,Fasteners,Los Angeles,
+2015,Furniture,Fasteners,Memphis,
+2015,Office Supplies,Fasteners,Memphis,55.104000000000006
+2015,Technology,Fasteners,Memphis,
+2015,Furniture,Fasteners,Nashville,
+2015,Office Supplies,Fasteners,Nashville,7.240000000000001
+2015,Technology,Fasteners,Nashville,
+2015,Furniture,Fasteners,New York City,
+2015,Office Supplies,Fasteners,New York City,17.89
+2015,Technology,Fasteners,New York City,
+2015,Furniture,Fasteners,Newark,
+2015,Office Supplies,Fasteners,Newark,26.18
+2015,Technology,Fasteners,Newark,
+2015,Furniture,Fasteners,Oceanside,
+2015,Office Supplies,Fasteners,Oceanside,34.44
+2015,Technology,Fasteners,Oceanside,
+2015,Furniture,Fasteners,Omaha,
+2015,Office Supplies,Fasteners,Omaha,5.04
+2015,Technology,Fasteners,Omaha,
+2015,Furniture,Fasteners,Philadelphia,
+2015,Office Supplies,Fasteners,Philadelphia,26.328
+2015,Technology,Fasteners,Philadelphia,
+2015,Furniture,Fasteners,Redlands,
+2015,Office Supplies,Fasteners,Redlands,17.450000000000003
+2015,Technology,Fasteners,Redlands,
+2015,Furniture,Fasteners,Roseville,
+2015,Office Supplies,Fasteners,Roseville,2.48
+2015,Technology,Fasteners,Roseville,
+2015,Furniture,Fasteners,San Diego,
+2015,Office Supplies,Fasteners,San Diego,12.86
+2015,Technology,Fasteners,San Diego,
+2015,Furniture,Fasteners,Seattle,
+2015,Office Supplies,Fasteners,Seattle,13.379999999999999
+2015,Technology,Fasteners,Seattle,
+2015,Furniture,Fasteners,Springfield,
+2015,Office Supplies,Fasteners,Springfield,8.72
+2015,Technology,Fasteners,Springfield,
+2015,Furniture,Fasteners,Toledo,
+2015,Office Supplies,Fasteners,Toledo,11.864000000000003
+2015,Technology,Fasteners,Toledo,
+2015,Furniture,Fasteners,West Jordan,
+2015,Office Supplies,Fasteners,West Jordan,5.04
+2015,Technology,Fasteners,West Jordan,
+2015,Furniture,Furnishings,Alexandria,192.22
+2015,Office Supplies,Furnishings,Alexandria,
+2015,Technology,Furnishings,Alexandria,
+2015,Furniture,Furnishings,Anaheim,383.90000000000003
+2015,Office Supplies,Furnishings,Anaheim,
+2015,Technology,Furnishings,Anaheim,
+2015,Furniture,Furnishings,Arlington,108.82
+2015,Office Supplies,Furnishings,Arlington,
+2015,Technology,Furnishings,Arlington,
+2015,Furniture,Furnishings,Atlanta,129.93
+2015,Office Supplies,Furnishings,Atlanta,
+2015,Technology,Furnishings,Atlanta,
+2015,Furniture,Furnishings,Aurora,126.99999999999999
+2015,Office Supplies,Furnishings,Aurora,
+2015,Technology,Furnishings,Aurora,
+2015,Furniture,Furnishings,Bellevue,20.24
+2015,Office Supplies,Furnishings,Bellevue,
+2015,Technology,Furnishings,Bellevue,
+2015,Furniture,Furnishings,Bethlehem,33.568000000000005
+2015,Office Supplies,Furnishings,Bethlehem,
+2015,Technology,Furnishings,Bethlehem,
+2015,Furniture,Furnishings,Bloomington,41.552
+2015,Office Supplies,Furnishings,Bloomington,
+2015,Technology,Furnishings,Bloomington,
+2015,Furniture,Furnishings,Bullhead City,14.368000000000002
+2015,Office Supplies,Furnishings,Bullhead City,
+2015,Technology,Furnishings,Bullhead City,
+2015,Furniture,Furnishings,Camarillo,122.91
+2015,Office Supplies,Furnishings,Camarillo,
+2015,Technology,Furnishings,Camarillo,
+2015,Furniture,Furnishings,Champaign,151.96
+2015,Office Supplies,Furnishings,Champaign,
+2015,Technology,Furnishings,Champaign,
+2015,Furniture,Furnishings,Charlotte,4.928000000000001
+2015,Office Supplies,Furnishings,Charlotte,
+2015,Technology,Furnishings,Charlotte,
+2015,Furniture,Furnishings,Charlottesville,67.96
+2015,Office Supplies,Furnishings,Charlottesville,
+2015,Technology,Furnishings,Charlottesville,
+2015,Furniture,Furnishings,Chicago,152.452
+2015,Office Supplies,Furnishings,Chicago,
+2015,Technology,Furnishings,Chicago,
+2015,Furniture,Furnishings,Chico,327.76
+2015,Office Supplies,Furnishings,Chico,
+2015,Technology,Furnishings,Chico,
+2015,Furniture,Furnishings,Chula Vista,665.88
+2015,Office Supplies,Furnishings,Chula Vista,
+2015,Technology,Furnishings,Chula Vista,
+2015,Furniture,Furnishings,Clinton,181.96
+2015,Office Supplies,Furnishings,Clinton,
+2015,Technology,Furnishings,Clinton,
+2015,Furniture,Furnishings,Colorado Springs,107.33600000000001
+2015,Office Supplies,Furnishings,Colorado Springs,
+2015,Technology,Furnishings,Colorado Springs,
+2015,Furniture,Furnishings,Columbus,983.948
+2015,Office Supplies,Furnishings,Columbus,
+2015,Technology,Furnishings,Columbus,
+2015,Furniture,Furnishings,Coral Springs,71.67999999999999
+2015,Office Supplies,Furnishings,Coral Springs,
+2015,Technology,Furnishings,Coral Springs,
+2015,Furniture,Furnishings,Costa Mesa,29.22
+2015,Office Supplies,Furnishings,Costa Mesa,
+2015,Technology,Furnishings,Costa Mesa,
+2015,Furniture,Furnishings,Covington,46.900000000000006
+2015,Office Supplies,Furnishings,Covington,
+2015,Technology,Furnishings,Covington,
+2015,Furniture,Furnishings,Cuyahoga Falls,8.352
+2015,Office Supplies,Furnishings,Cuyahoga Falls,
+2015,Technology,Furnishings,Cuyahoga Falls,
+2015,Furniture,Furnishings,Dallas,218.916
+2015,Office Supplies,Furnishings,Dallas,
+2015,Technology,Furnishings,Dallas,
+2015,Furniture,Furnishings,Denver,15.488
+2015,Office Supplies,Furnishings,Denver,
+2015,Technology,Furnishings,Denver,
+2015,Furniture,Furnishings,Detroit,287.46
+2015,Office Supplies,Furnishings,Detroit,
+2015,Technology,Furnishings,Detroit,
+2015,Furniture,Furnishings,Dover,76.14
+2015,Office Supplies,Furnishings,Dover,
+2015,Technology,Furnishings,Dover,
+2015,Furniture,Furnishings,Dublin,72.704
+2015,Office Supplies,Furnishings,Dublin,
+2015,Technology,Furnishings,Dublin,
+2015,Furniture,Furnishings,Durham,335.744
+2015,Office Supplies,Furnishings,Durham,
+2015,Technology,Furnishings,Durham,
+2015,Furniture,Furnishings,East Point,27.42
+2015,Office Supplies,Furnishings,East Point,
+2015,Technology,Furnishings,East Point,
+2015,Furniture,Furnishings,Everett,38.97
+2015,Office Supplies,Furnishings,Everett,
+2015,Technology,Furnishings,Everett,
+2015,Furniture,Furnishings,Fayetteville,4.928000000000001
+2015,Office Supplies,Furnishings,Fayetteville,
+2015,Technology,Furnishings,Fayetteville,
+2015,Furniture,Furnishings,Franklin,124.36
+2015,Office Supplies,Furnishings,Franklin,
+2015,Technology,Furnishings,Franklin,
+2015,Furniture,Furnishings,Freeport,322.59000000000003
+2015,Office Supplies,Furnishings,Freeport,
+2015,Technology,Furnishings,Freeport,
+2015,Furniture,Furnishings,Gilbert,1026.7200000000003
+2015,Office Supplies,Furnishings,Gilbert,
+2015,Technology,Furnishings,Gilbert,
+2015,Furniture,Furnishings,Grand Prairie,14.76
+2015,Office Supplies,Furnishings,Grand Prairie,
+2015,Technology,Furnishings,Grand Prairie,
+2015,Furniture,Furnishings,Hampton,186.54
+2015,Office Supplies,Furnishings,Hampton,
+2015,Technology,Furnishings,Hampton,
+2015,Furniture,Furnishings,Harrisonburg,39.96
+2015,Office Supplies,Furnishings,Harrisonburg,
+2015,Technology,Furnishings,Harrisonburg,
+2015,Furniture,Furnishings,Helena,63.980000000000004
+2015,Office Supplies,Furnishings,Helena,
+2015,Technology,Furnishings,Helena,
+2015,Furniture,Furnishings,Hempstead,28.44
+2015,Office Supplies,Furnishings,Hempstead,
+2015,Technology,Furnishings,Hempstead,
+2015,Furniture,Furnishings,Henderson,57.21
+2015,Office Supplies,Furnishings,Henderson,
+2015,Technology,Furnishings,Henderson,
+2015,Furniture,Furnishings,Hillsboro,11.032
+2015,Office Supplies,Furnishings,Hillsboro,
+2015,Technology,Furnishings,Hillsboro,
+2015,Furniture,Furnishings,Houston,246.228
+2015,Office Supplies,Furnishings,Houston,
+2015,Technology,Furnishings,Houston,
+2015,Furniture,Furnishings,Jackson,698.632
+2015,Office Supplies,Furnishings,Jackson,
+2015,Technology,Furnishings,Jackson,
+2015,Furniture,Furnishings,Jacksonville,99.752
+2015,Office Supplies,Furnishings,Jacksonville,
+2015,Technology,Furnishings,Jacksonville,
+2015,Furniture,Furnishings,Kenosha,373.08
+2015,Office Supplies,Furnishings,Kenosha,
+2015,Technology,Furnishings,Kenosha,
+2015,Furniture,Furnishings,Kirkwood,212.94
+2015,Office Supplies,Furnishings,Kirkwood,
+2015,Technology,Furnishings,Kirkwood,
+2015,Furniture,Furnishings,Lakeland,48.672
+2015,Office Supplies,Furnishings,Lakeland,
+2015,Technology,Furnishings,Lakeland,
+2015,Furniture,Furnishings,Lakewood,25.08
+2015,Office Supplies,Furnishings,Lakewood,
+2015,Technology,Furnishings,Lakewood,
+2015,Furniture,Furnishings,Lancaster,20.104
+2015,Office Supplies,Furnishings,Lancaster,
+2015,Technology,Furnishings,Lancaster,
+2015,Furniture,Furnishings,Las Vegas,80.96
+2015,Office Supplies,Furnishings,Las Vegas,
+2015,Technology,Furnishings,Las Vegas,
+2015,Furniture,Furnishings,Lawrence,65.18
+2015,Office Supplies,Furnishings,Lawrence,
+2015,Technology,Furnishings,Lawrence,
+2015,Furniture,Furnishings,Los Angeles,1478.93
+2015,Office Supplies,Furnishings,Los Angeles,
+2015,Technology,Furnishings,Los Angeles,
+2015,Furniture,Furnishings,Louisville,230.82
+2015,Office Supplies,Furnishings,Louisville,
+2015,Technology,Furnishings,Louisville,
+2015,Furniture,Furnishings,Marion,63.824000000000005
+2015,Office Supplies,Furnishings,Marion,
+2015,Technology,Furnishings,Marion,
+2015,Furniture,Furnishings,Memphis,117.36000000000001
+2015,Office Supplies,Furnishings,Memphis,
+2015,Technology,Furnishings,Memphis,
+2015,Furniture,Furnishings,Milwaukee,185.57999999999998
+2015,Office Supplies,Furnishings,Milwaukee,
+2015,Technology,Furnishings,Milwaukee,
+2015,Furniture,Furnishings,Minneapolis,177.3
+2015,Office Supplies,Furnishings,Minneapolis,
+2015,Technology,Furnishings,Minneapolis,
+2015,Furniture,Furnishings,Monroe,47.336
+2015,Office Supplies,Furnishings,Monroe,
+2015,Technology,Furnishings,Monroe,
+2015,Furniture,Furnishings,Montgomery,21.36
+2015,Office Supplies,Furnishings,Montgomery,
+2015,Technology,Furnishings,Montgomery,
+2015,Furniture,Furnishings,Mount Pleasant,17.14
+2015,Office Supplies,Furnishings,Mount Pleasant,
+2015,Technology,Furnishings,Mount Pleasant,
+2015,Furniture,Furnishings,Murfreesboro,53.352000000000004
+2015,Office Supplies,Furnishings,Murfreesboro,
+2015,Technology,Furnishings,Murfreesboro,
+2015,Furniture,Furnishings,New Albany,6.16
+2015,Office Supplies,Furnishings,New Albany,
+2015,Technology,Furnishings,New Albany,
+2015,Furniture,Furnishings,New York City,1298.31
+2015,Office Supplies,Furnishings,New York City,
+2015,Technology,Furnishings,New York City,
+2015,Furniture,Furnishings,Newark,262.864
+2015,Office Supplies,Furnishings,Newark,
+2015,Technology,Furnishings,Newark,
+2015,Furniture,Furnishings,Norwich,22.200000000000003
+2015,Office Supplies,Furnishings,Norwich,
+2015,Technology,Furnishings,Norwich,
+2015,Furniture,Furnishings,Oakland,104.23
+2015,Office Supplies,Furnishings,Oakland,
+2015,Technology,Furnishings,Oakland,
+2015,Furniture,Furnishings,Oceanside,204.6
+2015,Office Supplies,Furnishings,Oceanside,
+2015,Technology,Furnishings,Oceanside,
+2015,Furniture,Furnishings,Omaha,28.4
+2015,Office Supplies,Furnishings,Omaha,
+2015,Technology,Furnishings,Omaha,
+2015,Furniture,Furnishings,Park Ridge,254.74400000000003
+2015,Office Supplies,Furnishings,Park Ridge,
+2015,Technology,Furnishings,Park Ridge,
+2015,Furniture,Furnishings,Paterson,17.2
+2015,Office Supplies,Furnishings,Paterson,
+2015,Technology,Furnishings,Paterson,
+2015,Furniture,Furnishings,Peoria,75.36
+2015,Office Supplies,Furnishings,Peoria,
+2015,Technology,Furnishings,Peoria,
+2015,Furniture,Furnishings,Philadelphia,2409.1759999999995
+2015,Office Supplies,Furnishings,Philadelphia,
+2015,Technology,Furnishings,Philadelphia,
+2015,Furniture,Furnishings,Phoenix,7.712000000000001
+2015,Office Supplies,Furnishings,Phoenix,
+2015,Technology,Furnishings,Phoenix,
+2015,Furniture,Furnishings,Plantation,37.288000000000004
+2015,Office Supplies,Furnishings,Plantation,
+2015,Technology,Furnishings,Plantation,
+2015,Furniture,Furnishings,Pocatello,355.36
+2015,Office Supplies,Furnishings,Pocatello,
+2015,Technology,Furnishings,Pocatello,
+2015,Furniture,Furnishings,Pomona,31.56
+2015,Office Supplies,Furnishings,Pomona,
+2015,Technology,Furnishings,Pomona,
+2015,Furniture,Furnishings,Quincy,85.3
+2015,Office Supplies,Furnishings,Quincy,
+2015,Technology,Furnishings,Quincy,
+2015,Furniture,Furnishings,Raleigh,205.99200000000002
+2015,Office Supplies,Furnishings,Raleigh,
+2015,Technology,Furnishings,Raleigh,
+2015,Furniture,Furnishings,Rochester,6.16
+2015,Office Supplies,Furnishings,Rochester,
+2015,Technology,Furnishings,Rochester,
+2015,Furniture,Furnishings,Roseville,29.22
+2015,Office Supplies,Furnishings,Roseville,
+2015,Technology,Furnishings,Roseville,
+2015,Furniture,Furnishings,Sacramento,60.84
+2015,Office Supplies,Furnishings,Sacramento,
+2015,Technology,Furnishings,Sacramento,
+2015,Furniture,Furnishings,Saint Charles,51.75600000000001
+2015,Office Supplies,Furnishings,Saint Charles,
+2015,Technology,Furnishings,Saint Charles,
+2015,Furniture,Furnishings,Saint Petersburg,173.208
+2015,Office Supplies,Furnishings,Saint Petersburg,
+2015,Technology,Furnishings,Saint Petersburg,
+2015,Furniture,Furnishings,San Antonio,40.784
+2015,Office Supplies,Furnishings,San Antonio,
+2015,Technology,Furnishings,San Antonio,
+2015,Furniture,Furnishings,San Diego,370.86
+2015,Office Supplies,Furnishings,San Diego,
+2015,Technology,Furnishings,San Diego,
+2015,Furniture,Furnishings,San Francisco,1111.72
+2015,Office Supplies,Furnishings,San Francisco,
+2015,Technology,Furnishings,San Francisco,
+2015,Furniture,Furnishings,San Jose,166.5
+2015,Office Supplies,Furnishings,San Jose,
+2015,Technology,Furnishings,San Jose,
+2015,Furniture,Furnishings,Seattle,366.03
+2015,Office Supplies,Furnishings,Seattle,
+2015,Technology,Furnishings,Seattle,
+2015,Furniture,Furnishings,Springfield,35.664
+2015,Office Supplies,Furnishings,Springfield,
+2015,Technology,Furnishings,Springfield,
+2015,Furniture,Furnishings,Tampa,185.44
+2015,Office Supplies,Furnishings,Tampa,
+2015,Technology,Furnishings,Tampa,
+2015,Furniture,Furnishings,Tinley Park,22.288
+2015,Office Supplies,Furnishings,Tinley Park,
+2015,Technology,Furnishings,Tinley Park,
+2015,Furniture,Furnishings,Tucson,444.264
+2015,Office Supplies,Furnishings,Tucson,
+2015,Technology,Furnishings,Tucson,
+2015,Furniture,Furnishings,Waynesboro,1196.86
+2015,Office Supplies,Furnishings,Waynesboro,
+2015,Technology,Furnishings,Waynesboro,
+2015,Furniture,Furnishings,West Jordan,66.69
+2015,Office Supplies,Furnishings,West Jordan,
+2015,Technology,Furnishings,West Jordan,
+2015,Furniture,Furnishings,Wilson,163.136
+2015,Office Supplies,Furnishings,Wilson,
+2015,Technology,Furnishings,Wilson,
+2015,Furniture,Labels,Atlanta,
+2015,Office Supplies,Labels,Atlanta,8.64
+2015,Technology,Labels,Atlanta,
+2015,Furniture,Labels,Auburn,
+2015,Office Supplies,Labels,Auburn,512.25
+2015,Technology,Labels,Auburn,
+2015,Furniture,Labels,Bowling Green,
+2015,Office Supplies,Labels,Bowling Green,6.911999999999999
+2015,Technology,Labels,Bowling Green,
+2015,Furniture,Labels,Bozeman,
+2015,Office Supplies,Labels,Bozeman,14.62
+2015,Technology,Labels,Bozeman,
+2015,Furniture,Labels,Charlotte,
+2015,Office Supplies,Labels,Charlotte,16.824
+2015,Technology,Labels,Charlotte,
+2015,Furniture,Labels,Chester,
+2015,Office Supplies,Labels,Chester,145.056
+2015,Technology,Labels,Chester,
+2015,Furniture,Labels,Chicago,
+2015,Office Supplies,Labels,Chicago,5.904
+2015,Technology,Labels,Chicago,
+2015,Furniture,Labels,Clinton,
+2015,Office Supplies,Labels,Clinton,12.39
+2015,Technology,Labels,Clinton,
+2015,Furniture,Labels,Columbus,
+2015,Office Supplies,Labels,Columbus,34.244
+2015,Technology,Labels,Columbus,
+2015,Furniture,Labels,Detroit,
+2015,Office Supplies,Labels,Detroit,28.91
+2015,Technology,Labels,Detroit,
+2015,Furniture,Labels,Dover,
+2015,Office Supplies,Labels,Dover,16.52
+2015,Technology,Labels,Dover,
+2015,Furniture,Labels,Eagan,
+2015,Office Supplies,Labels,Eagan,45.15
+2015,Technology,Labels,Eagan,
+2015,Furniture,Labels,Franklin,
+2015,Office Supplies,Labels,Franklin,12
+2015,Technology,Labels,Franklin,
+2015,Furniture,Labels,Freeport,
+2015,Office Supplies,Labels,Freeport,13.049999999999999
+2015,Technology,Labels,Freeport,
+2015,Furniture,Labels,Gilbert,
+2015,Office Supplies,Labels,Gilbert,5.904
+2015,Technology,Labels,Gilbert,
+2015,Furniture,Labels,Holland,
+2015,Office Supplies,Labels,Holland,7.5
+2015,Technology,Labels,Holland,
+2015,Furniture,Labels,Houston,
+2015,Office Supplies,Labels,Houston,55.248000000000005
+2015,Technology,Labels,Houston,
+2015,Furniture,Labels,Indianapolis,
+2015,Office Supplies,Labels,Indianapolis,12.39
+2015,Technology,Labels,Indianapolis,
+2015,Furniture,Labels,Jackson,
+2015,Office Supplies,Labels,Jackson,2.61
+2015,Technology,Labels,Jackson,
+2015,Furniture,Labels,Jacksonville,
+2015,Office Supplies,Labels,Jacksonville,9.648
+2015,Technology,Labels,Jacksonville,
+2015,Furniture,Labels,Leominster,
+2015,Office Supplies,Labels,Leominster,3.15
+2015,Technology,Labels,Leominster,
+2015,Furniture,Labels,Long Beach,
+2015,Office Supplies,Labels,Long Beach,92.56
+2015,Technology,Labels,Long Beach,
+2015,Furniture,Labels,Los Angeles,
+2015,Office Supplies,Labels,Los Angeles,149.32999999999998
+2015,Technology,Labels,Los Angeles,
+2015,Furniture,Labels,Medina,
+2015,Office Supplies,Labels,Medina,23.680000000000003
+2015,Technology,Labels,Medina,
+2015,Furniture,Labels,Memphis,
+2015,Office Supplies,Labels,Memphis,18.432
+2015,Technology,Labels,Memphis,
+2015,Furniture,Labels,Miami,
+2015,Office Supplies,Labels,Miami,11.696
+2015,Technology,Labels,Miami,
+2015,Furniture,Labels,Nashville,
+2015,Office Supplies,Labels,Nashville,9.216
+2015,Technology,Labels,Nashville,
+2015,Furniture,Labels,New Albany,
+2015,Office Supplies,Labels,New Albany,75.17999999999999
+2015,Technology,Labels,New Albany,
+2015,Furniture,Labels,New York City,
+2015,Office Supplies,Labels,New York City,129.54999999999998
+2015,Technology,Labels,New York City,
+2015,Furniture,Labels,North Las Vegas,
+2015,Office Supplies,Labels,North Las Vegas,14.940000000000001
+2015,Technology,Labels,North Las Vegas,
+2015,Furniture,Labels,Orem,
+2015,Office Supplies,Labels,Orem,15.75
+2015,Technology,Labels,Orem,
+2015,Furniture,Labels,Paterson,
+2015,Office Supplies,Labels,Paterson,31.049999999999997
+2015,Technology,Labels,Paterson,
+2015,Furniture,Labels,Philadelphia,
+2015,Office Supplies,Labels,Philadelphia,36.72
+2015,Technology,Labels,Philadelphia,
+2015,Furniture,Labels,Phoenix,
+2015,Office Supplies,Labels,Phoenix,21.560000000000002
+2015,Technology,Labels,Phoenix,
+2015,Furniture,Labels,Port Arthur,
+2015,Office Supplies,Labels,Port Arthur,11.696
+2015,Technology,Labels,Port Arthur,
+2015,Furniture,Labels,Quincy,
+2015,Office Supplies,Labels,Quincy,19.824
+2015,Technology,Labels,Quincy,
+2015,Furniture,Labels,Raleigh,
+2015,Office Supplies,Labels,Raleigh,4.608
+2015,Technology,Labels,Raleigh,
+2015,Furniture,Labels,Rancho Cucamonga,
+2015,Office Supplies,Labels,Rancho Cucamonga,5.76
+2015,Technology,Labels,Rancho Cucamonga,
+2015,Furniture,Labels,Redlands,
+2015,Office Supplies,Labels,Redlands,8.64
+2015,Technology,Labels,Redlands,
+2015,Furniture,Labels,Richmond,
+2015,Office Supplies,Labels,Richmond,294.93
+2015,Technology,Labels,Richmond,
+2015,Furniture,Labels,Rochester,
+2015,Office Supplies,Labels,Rochester,21.560000000000002
+2015,Technology,Labels,Rochester,
+2015,Furniture,Labels,Saint Petersburg,
+2015,Office Supplies,Labels,Saint Petersburg,9
+2015,Technology,Labels,Saint Petersburg,
+2015,Furniture,Labels,Salinas,
+2015,Office Supplies,Labels,Salinas,427.42
+2015,Technology,Labels,Salinas,
+2015,Furniture,Labels,San Antonio,
+2015,Office Supplies,Labels,San Antonio,40.096000000000004
+2015,Technology,Labels,San Antonio,
+2015,Furniture,Labels,San Bernardino,
+2015,Office Supplies,Labels,San Bernardino,14.62
+2015,Technology,Labels,San Bernardino,
+2015,Furniture,Labels,San Diego,
+2015,Office Supplies,Labels,San Diego,72.1
+2015,Technology,Labels,San Diego,
+2015,Furniture,Labels,San Francisco,
+2015,Office Supplies,Labels,San Francisco,5.76
+2015,Technology,Labels,San Francisco,
+2015,Furniture,Labels,Santa Barbara,
+2015,Office Supplies,Labels,Santa Barbara,31.049999999999997
+2015,Technology,Labels,Santa Barbara,
+2015,Furniture,Labels,Seattle,
+2015,Office Supplies,Labels,Seattle,22.59
+2015,Technology,Labels,Seattle,
+2015,Furniture,Labels,Springfield,
+2015,Office Supplies,Labels,Springfield,171.604
+2015,Technology,Labels,Springfield,
+2015,Furniture,Labels,Suffolk,
+2015,Office Supplies,Labels,Suffolk,196.62
+2015,Technology,Labels,Suffolk,
+2015,Furniture,Machines,Clinton,
+2015,Office Supplies,Machines,Clinton,
+2015,Technology,Machines,Clinton,464.97
+2015,Furniture,Machines,Dallas,
+2015,Office Supplies,Machines,Dallas,
+2015,Technology,Machines,Dallas,479.988
+2015,Furniture,Machines,Denver,
+2015,Office Supplies,Machines,Denver,
+2015,Technology,Machines,Denver,59.99400000000001
+2015,Furniture,Machines,Dublin,
+2015,Office Supplies,Machines,Dublin,
+2015,Technology,Machines,Dublin,479.98800000000006
+2015,Furniture,Machines,Florence,
+2015,Office Supplies,Machines,Florence,
+2015,Technology,Machines,Florence,3080
+2015,Furniture,Machines,Hialeah,
+2015,Office Supplies,Machines,Hialeah,
+2015,Technology,Machines,Hialeah,32.985
+2015,Furniture,Machines,Houston,
+2015,Office Supplies,Machines,Houston,
+2015,Technology,Machines,Houston,287.90999999999997
+2015,Furniture,Machines,Lawrence,
+2015,Office Supplies,Machines,Lawrence,
+2015,Technology,Machines,Lawrence,83.9
+2015,Furniture,Machines,Los Angeles,
+2015,Office Supplies,Machines,Los Angeles,
+2015,Technology,Machines,Los Angeles,7513.832
+2015,Furniture,Machines,Medina,
+2015,Office Supplies,Machines,Medina,
+2015,Technology,Machines,Medina,1188.0000000000002
+2015,Furniture,Machines,New York City,
+2015,Office Supplies,Machines,New York City,
+2015,Technology,Machines,New York City,8001.5
+2015,Furniture,Machines,Newark,
+2015,Office Supplies,Machines,Newark,
+2015,Technology,Machines,Newark,1799.9940000000001
+2015,Furniture,Machines,Oceanside,
+2015,Office Supplies,Machines,Oceanside,
+2015,Technology,Machines,Oceanside,629.93
+2015,Furniture,Machines,Philadelphia,
+2015,Office Supplies,Machines,Philadelphia,
+2015,Technology,Machines,Philadelphia,482.34000000000003
+2015,Furniture,Machines,Saint Charles,
+2015,Office Supplies,Machines,Saint Charles,
+2015,Technology,Machines,Saint Charles,600.53
+2015,Furniture,Machines,San Antonio,
+2015,Office Supplies,Machines,San Antonio,
+2015,Technology,Machines,San Antonio,399.53999999999996
+2015,Furniture,Machines,San Francisco,
+2015,Office Supplies,Machines,San Francisco,
+2015,Technology,Machines,San Francisco,239.976
+2015,Furniture,Machines,Seattle,
+2015,Office Supplies,Machines,Seattle,
+2015,Technology,Machines,Seattle,558.4
+2015,Furniture,Machines,Washington,
+2015,Office Supplies,Machines,Washington,
+2015,Technology,Machines,Washington,1379.92
+2015,Furniture,Paper,Allen,
+2015,Office Supplies,Paper,Allen,15.936000000000002
+2015,Technology,Paper,Allen,
+2015,Furniture,Paper,Allentown,
+2015,Office Supplies,Paper,Allentown,49.568000000000005
+2015,Technology,Paper,Allentown,
+2015,Furniture,Paper,Anaheim,
+2015,Office Supplies,Paper,Anaheim,209.7
+2015,Technology,Paper,Anaheim,
+2015,Furniture,Paper,Arlington,
+2015,Office Supplies,Paper,Arlington,187.3
+2015,Technology,Paper,Arlington,
+2015,Furniture,Paper,Atlanta,
+2015,Office Supplies,Paper,Atlanta,383.01
+2015,Technology,Paper,Atlanta,
+2015,Furniture,Paper,Auburn,
+2015,Office Supplies,Paper,Auburn,28.900000000000002
+2015,Technology,Paper,Auburn,
+2015,Furniture,Paper,Austin,
+2015,Office Supplies,Paper,Austin,335.52
+2015,Technology,Paper,Austin,
+2015,Furniture,Paper,Baltimore,
+2015,Office Supplies,Paper,Baltimore,71.15
+2015,Technology,Paper,Baltimore,
+2015,Furniture,Paper,Baytown,
+2015,Office Supplies,Paper,Baytown,10.368000000000002
+2015,Technology,Paper,Baytown,
+2015,Furniture,Paper,Bedford,
+2015,Office Supplies,Paper,Bedford,20.96
+2015,Technology,Paper,Bedford,
+2015,Furniture,Paper,Bolingbrook,
+2015,Office Supplies,Paper,Bolingbrook,10.368000000000002
+2015,Technology,Paper,Bolingbrook,
+2015,Furniture,Paper,Bozeman,
+2015,Office Supplies,Paper,Bozeman,29.04
+2015,Technology,Paper,Bozeman,
+2015,Furniture,Paper,Cambridge,
+2015,Office Supplies,Paper,Cambridge,59.94
+2015,Technology,Paper,Cambridge,
+2015,Furniture,Paper,Carol Stream,
+2015,Office Supplies,Paper,Carol Stream,11.168000000000001
+2015,Technology,Paper,Carol Stream,
+2015,Furniture,Paper,Chicago,
+2015,Office Supplies,Paper,Chicago,197.00800000000004
+2015,Technology,Paper,Chicago,
+2015,Furniture,Paper,Chico,
+2015,Office Supplies,Paper,Chico,36.44
+2015,Technology,Paper,Chico,
+2015,Furniture,Paper,Cleveland,
+2015,Office Supplies,Paper,Cleveland,105.792
+2015,Technology,Paper,Cleveland,
+2015,Furniture,Paper,Clinton,
+2015,Office Supplies,Paper,Clinton,28.900000000000002
+2015,Technology,Paper,Clinton,
+2015,Furniture,Paper,Colorado Springs,
+2015,Office Supplies,Paper,Colorado Springs,158.048
+2015,Technology,Paper,Colorado Springs,
+2015,Furniture,Paper,Columbia,
+2015,Office Supplies,Paper,Columbia,23.92
+2015,Technology,Paper,Columbia,
+2015,Furniture,Paper,Columbus,
+2015,Office Supplies,Paper,Columbus,206.82999999999998
+2015,Technology,Paper,Columbus,
+2015,Furniture,Paper,Concord,
+2015,Office Supplies,Paper,Concord,219.1
+2015,Technology,Paper,Concord,
+2015,Furniture,Paper,Coral Springs,
+2015,Office Supplies,Paper,Coral Springs,15.552000000000003
+2015,Technology,Paper,Coral Springs,
+2015,Furniture,Paper,Dallas,
+2015,Office Supplies,Paper,Dallas,5.344
+2015,Technology,Paper,Dallas,
+2015,Furniture,Paper,Decatur,
+2015,Office Supplies,Paper,Decatur,32.400000000000006
+2015,Technology,Paper,Decatur,
+2015,Furniture,Paper,Des Moines,
+2015,Office Supplies,Paper,Des Moines,18.54
+2015,Technology,Paper,Des Moines,
+2015,Furniture,Paper,Detroit,
+2015,Office Supplies,Paper,Detroit,63.18000000000001
+2015,Technology,Paper,Detroit,
+2015,Furniture,Paper,Dover,
+2015,Office Supplies,Paper,Dover,65.78
+2015,Technology,Paper,Dover,
+2015,Furniture,Paper,Dublin,
+2015,Office Supplies,Paper,Dublin,22.704000000000004
+2015,Technology,Paper,Dublin,
+2015,Furniture,Paper,Eau Claire,
+2015,Office Supplies,Paper,Eau Claire,195.64
+2015,Technology,Paper,Eau Claire,
+2015,Furniture,Paper,Everett,
+2015,Office Supplies,Paper,Everett,254.92000000000002
+2015,Technology,Paper,Everett,
+2015,Furniture,Paper,Fort Worth,
+2015,Office Supplies,Paper,Fort Worth,360.712
+2015,Technology,Paper,Fort Worth,
+2015,Furniture,Paper,Franklin,
+2015,Office Supplies,Paper,Franklin,6.58
+2015,Technology,Paper,Franklin,
+2015,Furniture,Paper,Freeport,
+2015,Office Supplies,Paper,Freeport,20.04
+2015,Technology,Paper,Freeport,
+2015,Furniture,Paper,Garden City,
+2015,Office Supplies,Paper,Garden City,9.54
+2015,Technology,Paper,Garden City,
+2015,Furniture,Paper,Gilbert,
+2015,Office Supplies,Paper,Gilbert,9.568000000000001
+2015,Technology,Paper,Gilbert,
+2015,Furniture,Paper,Grand Prairie,
+2015,Office Supplies,Paper,Grand Prairie,27.216
+2015,Technology,Paper,Grand Prairie,
+2015,Furniture,Paper,Haltom City,
+2015,Office Supplies,Paper,Haltom City,32.368
+2015,Technology,Paper,Haltom City,
+2015,Furniture,Paper,Henderson,
+2015,Office Supplies,Paper,Henderson,157.87
+2015,Technology,Paper,Henderson,
+2015,Furniture,Paper,Hollywood,
+2015,Office Supplies,Paper,Hollywood,27.504000000000005
+2015,Technology,Paper,Hollywood,
+2015,Furniture,Paper,Houston,
+2015,Office Supplies,Paper,Houston,753.0719999999999
+2015,Technology,Paper,Houston,
+2015,Furniture,Paper,Jackson,
+2015,Office Supplies,Paper,Jackson,37.980000000000004
+2015,Technology,Paper,Jackson,
+2015,Furniture,Paper,Jacksonville,
+2015,Office Supplies,Paper,Jacksonville,630.7040000000001
+2015,Technology,Paper,Jacksonville,
+2015,Furniture,Paper,Lakewood,
+2015,Office Supplies,Paper,Lakewood,137.906
+2015,Technology,Paper,Lakewood,
+2015,Furniture,Paper,Las Cruces,
+2015,Office Supplies,Paper,Las Cruces,49.12
+2015,Technology,Paper,Las Cruces,
+2015,Furniture,Paper,Las Vegas,
+2015,Office Supplies,Paper,Las Vegas,156.2
+2015,Technology,Paper,Las Vegas,
+2015,Furniture,Paper,Lawrence,
+2015,Office Supplies,Paper,Lawrence,6.48
+2015,Technology,Paper,Lawrence,
+2015,Furniture,Paper,Leominster,
+2015,Office Supplies,Paper,Leominster,33.67
+2015,Technology,Paper,Leominster,
+2015,Furniture,Paper,Lindenhurst,
+2015,Office Supplies,Paper,Lindenhurst,55.48
+2015,Technology,Paper,Lindenhurst,
+2015,Furniture,Paper,Long Beach,
+2015,Office Supplies,Paper,Long Beach,261.47999999999996
+2015,Technology,Paper,Long Beach,
+2015,Furniture,Paper,Los Angeles,
+2015,Office Supplies,Paper,Los Angeles,1446
+2015,Technology,Paper,Los Angeles,
+2015,Furniture,Paper,Lubbock,
+2015,Office Supplies,Paper,Lubbock,60.736000000000004
+2015,Technology,Paper,Lubbock,
+2015,Furniture,Paper,Macon,
+2015,Office Supplies,Paper,Macon,38.88
+2015,Technology,Paper,Macon,
+2015,Furniture,Paper,Mcallen,
+2015,Office Supplies,Paper,Mcallen,15.552000000000003
+2015,Technology,Paper,Mcallen,
+2015,Furniture,Paper,Meriden,
+2015,Office Supplies,Paper,Meriden,45.68
+2015,Technology,Paper,Meriden,
+2015,Furniture,Paper,Mesa,
+2015,Office Supplies,Paper,Mesa,190.68800000000002
+2015,Technology,Paper,Mesa,
+2015,Furniture,Paper,Miami,
+2015,Office Supplies,Paper,Miami,74.352
+2015,Technology,Paper,Miami,
+2015,Furniture,Paper,Milwaukee,
+2015,Office Supplies,Paper,Milwaukee,231.66
+2015,Technology,Paper,Milwaukee,
+2015,Furniture,Paper,Minneapolis,
+2015,Office Supplies,Paper,Minneapolis,12.96
+2015,Technology,Paper,Minneapolis,
+2015,Furniture,Paper,Monroe,
+2015,Office Supplies,Paper,Monroe,32.400000000000006
+2015,Technology,Paper,Monroe,
+2015,Furniture,Paper,Moreno Valley,
+2015,Office Supplies,Paper,Moreno Valley,209.12
+2015,Technology,Paper,Moreno Valley,
+2015,Furniture,Paper,Murfreesboro,
+2015,Office Supplies,Paper,Murfreesboro,10.48
+2015,Technology,Paper,Murfreesboro,
+2015,Furniture,Paper,Nashville,
+2015,Office Supplies,Paper,Nashville,10.368000000000002
+2015,Technology,Paper,Nashville,
+2015,Furniture,Paper,New York City,
+2015,Office Supplies,Paper,New York City,1419.4900000000002
+2015,Technology,Paper,New York City,
+2015,Furniture,Paper,Newark,
+2015,Office Supplies,Paper,Newark,69.62
+2015,Technology,Paper,Newark,
+2015,Furniture,Paper,North Las Vegas,
+2015,Office Supplies,Paper,North Las Vegas,6.48
+2015,Technology,Paper,North Las Vegas,
+2015,Furniture,Paper,North Miami,
+2015,Office Supplies,Paper,North Miami,14.496000000000002
+2015,Technology,Paper,North Miami,
+2015,Furniture,Paper,Oklahoma City,
+2015,Office Supplies,Paper,Oklahoma City,106.32
+2015,Technology,Paper,Oklahoma City,
+2015,Furniture,Paper,Omaha,
+2015,Office Supplies,Paper,Omaha,116.28
+2015,Technology,Paper,Omaha,
+2015,Furniture,Paper,Owensboro,
+2015,Office Supplies,Paper,Owensboro,45.68
+2015,Technology,Paper,Owensboro,
+2015,Furniture,Paper,Paterson,
+2015,Office Supplies,Paper,Paterson,313.68
+2015,Technology,Paper,Paterson,
+2015,Furniture,Paper,Peoria,
+2015,Office Supplies,Paper,Peoria,48.24000000000001
+2015,Technology,Paper,Peoria,
+2015,Furniture,Paper,Philadelphia,
+2015,Office Supplies,Paper,Philadelphia,240.776
+2015,Technology,Paper,Philadelphia,
+2015,Furniture,Paper,Phoenix,
+2015,Office Supplies,Paper,Phoenix,419.256
+2015,Technology,Paper,Phoenix,
+2015,Furniture,Paper,Portland,
+2015,Office Supplies,Paper,Portland,172.864
+2015,Technology,Paper,Portland,
+2015,Furniture,Paper,Providence,
+2015,Office Supplies,Paper,Providence,8.4
+2015,Technology,Paper,Providence,
+2015,Furniture,Paper,Quincy,
+2015,Office Supplies,Paper,Quincy,14.940000000000001
+2015,Technology,Paper,Quincy,
+2015,Furniture,Paper,Raleigh,
+2015,Office Supplies,Paper,Raleigh,9.392000000000001
+2015,Technology,Paper,Raleigh,
+2015,Furniture,Paper,Redlands,
+2015,Office Supplies,Paper,Redlands,19.98
+2015,Technology,Paper,Redlands,
+2015,Furniture,Paper,Revere,
+2015,Office Supplies,Paper,Revere,298.26
+2015,Technology,Paper,Revere,
+2015,Furniture,Paper,Riverside,
+2015,Office Supplies,Paper,Riverside,25.92
+2015,Technology,Paper,Riverside,
+2015,Furniture,Paper,Rochester,
+2015,Office Supplies,Paper,Rochester,227.95000000000002
+2015,Technology,Paper,Rochester,
+2015,Furniture,Paper,Rockville,
+2015,Office Supplies,Paper,Rockville,19.44
+2015,Technology,Paper,Rockville,
+2015,Furniture,Paper,Roseville,
+2015,Office Supplies,Paper,Roseville,19.44
+2015,Technology,Paper,Roseville,
+2015,Furniture,Paper,Roswell,
+2015,Office Supplies,Paper,Roswell,316.66
+2015,Technology,Paper,Roswell,
+2015,Furniture,Paper,Royal Oak,
+2015,Office Supplies,Paper,Royal Oak,12.96
+2015,Technology,Paper,Royal Oak,
+2015,Furniture,Paper,Saint Charles,
+2015,Office Supplies,Paper,Saint Charles,10.56
+2015,Technology,Paper,Saint Charles,
+2015,Furniture,Paper,Saint Petersburg,
+2015,Office Supplies,Paper,Saint Petersburg,215.72800000000004
+2015,Technology,Paper,Saint Petersburg,
+2015,Furniture,Paper,San Antonio,
+2015,Office Supplies,Paper,San Antonio,377.76
+2015,Technology,Paper,San Antonio,
+2015,Furniture,Paper,San Bernardino,
+2015,Office Supplies,Paper,San Bernardino,70.1
+2015,Technology,Paper,San Bernardino,
+2015,Furniture,Paper,San Diego,
+2015,Office Supplies,Paper,San Diego,516.73
+2015,Technology,Paper,San Diego,
+2015,Furniture,Paper,San Francisco,
+2015,Office Supplies,Paper,San Francisco,377.15999999999997
+2015,Technology,Paper,San Francisco,
+2015,Furniture,Paper,San Jose,
+2015,Office Supplies,Paper,San Jose,163.89999999999998
+2015,Technology,Paper,San Jose,
+2015,Furniture,Paper,Santa Barbara,
+2015,Office Supplies,Paper,Santa Barbara,8.96
+2015,Technology,Paper,Santa Barbara,
+2015,Furniture,Paper,Seattle,
+2015,Office Supplies,Paper,Seattle,454.54999999999995
+2015,Technology,Paper,Seattle,
+2015,Furniture,Paper,Smyrna,
+2015,Office Supplies,Paper,Smyrna,20.736000000000004
+2015,Technology,Paper,Smyrna,
+2015,Furniture,Paper,South Bend,
+2015,Office Supplies,Paper,South Bend,124.22
+2015,Technology,Paper,South Bend,
+2015,Furniture,Paper,Springfield,
+2015,Office Supplies,Paper,Springfield,248.164
+2015,Technology,Paper,Springfield,
+2015,Furniture,Paper,Suffolk,
+2015,Office Supplies,Paper,Suffolk,29.900000000000002
+2015,Technology,Paper,Suffolk,
+2015,Furniture,Paper,Thousand Oaks,
+2015,Office Supplies,Paper,Thousand Oaks,32.75
+2015,Technology,Paper,Thousand Oaks,
+2015,Furniture,Paper,Troy,
+2015,Office Supplies,Paper,Troy,15.552000000000003
+2015,Technology,Paper,Troy,
+2015,Furniture,Paper,Tucson,
+2015,Office Supplies,Paper,Tucson,218.192
+2015,Technology,Paper,Tucson,
+2015,Furniture,Paper,Tulsa,
+2015,Office Supplies,Paper,Tulsa,14.940000000000001
+2015,Technology,Paper,Tulsa,
+2015,Furniture,Paper,West Jordan,
+2015,Office Supplies,Paper,West Jordan,92.94
+2015,Technology,Paper,West Jordan,
+2015,Furniture,Paper,Wilmington,
+2015,Office Supplies,Paper,Wilmington,82.97999999999999
+2015,Technology,Paper,Wilmington,
+2015,Furniture,Paper,Woodbury,
+2015,Office Supplies,Paper,Woodbury,39.900000000000006
+2015,Technology,Paper,Woodbury,
+2015,Furniture,Phones,Akron,
+2015,Office Supplies,Phones,Akron,
+2015,Technology,Phones,Akron,323.98199999999997
+2015,Furniture,Phones,Amarillo,
+2015,Office Supplies,Phones,Amarillo,
+2015,Technology,Phones,Amarillo,307.168
+2015,Furniture,Phones,Ann Arbor,
+2015,Office Supplies,Phones,Ann Arbor,
+2015,Technology,Phones,Ann Arbor,29.160000000000004
+2015,Furniture,Phones,Arlington,
+2015,Office Supplies,Phones,Arlington,
+2015,Technology,Phones,Arlington,2513.79
+2015,Furniture,Phones,Aurora,
+2015,Office Supplies,Phones,Aurora,
+2015,Technology,Phones,Aurora,125.944
+2015,Furniture,Phones,Baltimore,
+2015,Office Supplies,Phones,Baltimore,
+2015,Technology,Phones,Baltimore,134.99
+2015,Furniture,Phones,Bayonne,
+2015,Office Supplies,Phones,Bayonne,
+2015,Technology,Phones,Bayonne,104.98
+2015,Furniture,Phones,Boise,
+2015,Office Supplies,Phones,Boise,
+2015,Technology,Phones,Boise,304.776
+2015,Furniture,Phones,Bowling Green,
+2015,Office Supplies,Phones,Bowling Green,
+2015,Technology,Phones,Bowling Green,26.982
+2015,Furniture,Phones,Bristol,
+2015,Office Supplies,Phones,Bristol,
+2015,Technology,Phones,Bristol,100.49
+2015,Furniture,Phones,Broken Arrow,
+2015,Office Supplies,Phones,Broken Arrow,
+2015,Technology,Phones,Broken Arrow,821.94
+2015,Furniture,Phones,Cambridge,
+2015,Office Supplies,Phones,Cambridge,
+2015,Technology,Phones,Cambridge,311.98
+2015,Furniture,Phones,Cary,
+2015,Office Supplies,Phones,Cary,
+2015,Technology,Phones,Cary,246.168
+2015,Furniture,Phones,Chicago,
+2015,Office Supplies,Phones,Chicago,
+2015,Technology,Phones,Chicago,2796.4
+2015,Furniture,Phones,Cleveland,
+2015,Office Supplies,Phones,Cleveland,
+2015,Technology,Phones,Cleveland,587.346
+2015,Furniture,Phones,Clinton,
+2015,Office Supplies,Phones,Clinton,
+2015,Technology,Phones,Clinton,1759.92
+2015,Furniture,Phones,Columbia,
+2015,Office Supplies,Phones,Columbia,
+2015,Technology,Phones,Columbia,1210.7199999999998
+2015,Furniture,Phones,Columbus,
+2015,Office Supplies,Phones,Columbus,
+2015,Technology,Phones,Columbus,446.9219999999999
+2015,Furniture,Phones,Coppell,
+2015,Office Supplies,Phones,Coppell,
+2015,Technology,Phones,Coppell,95.84
+2015,Furniture,Phones,Dallas,
+2015,Office Supplies,Phones,Dallas,
+2015,Technology,Phones,Dallas,1099.96
+2015,Furniture,Phones,Deltona,
+2015,Office Supplies,Phones,Deltona,
+2015,Technology,Phones,Deltona,107.97600000000001
+2015,Furniture,Phones,Denver,
+2015,Office Supplies,Phones,Denver,
+2015,Technology,Phones,Denver,87.96
+2015,Furniture,Phones,Detroit,
+2015,Office Supplies,Phones,Detroit,
+2015,Technology,Phones,Detroit,1123.68
+2015,Furniture,Phones,Dubuque,
+2015,Office Supplies,Phones,Dubuque,
+2015,Technology,Phones,Dubuque,263.96
+2015,Furniture,Phones,Eau Claire,
+2015,Office Supplies,Phones,Eau Claire,
+2015,Technology,Phones,Eau Claire,239.9
+2015,Furniture,Phones,Everett,
+2015,Office Supplies,Phones,Everett,
+2015,Technology,Phones,Everett,589.9
+2015,Furniture,Phones,Florence,
+2015,Office Supplies,Phones,Florence,
+2015,Technology,Phones,Florence,587.97
+2015,Furniture,Phones,Fort Worth,
+2015,Office Supplies,Phones,Fort Worth,
+2015,Technology,Phones,Fort Worth,1718.4
+2015,Furniture,Phones,Glenview,
+2015,Office Supplies,Phones,Glenview,
+2015,Technology,Phones,Glenview,158.376
+2015,Furniture,Phones,Hampton,
+2015,Office Supplies,Phones,Hampton,
+2015,Technology,Phones,Hampton,226.20000000000002
+2015,Furniture,Phones,Helena,
+2015,Office Supplies,Phones,Helena,
+2015,Technology,Phones,Helena,339.96000000000004
+2015,Furniture,Phones,Hempstead,
+2015,Office Supplies,Phones,Hempstead,
+2015,Technology,Phones,Hempstead,39.96
+2015,Furniture,Phones,Highland Park,
+2015,Office Supplies,Phones,Highland Park,
+2015,Technology,Phones,Highland Park,153.584
+2015,Furniture,Phones,Houston,
+2015,Office Supplies,Phones,Houston,
+2015,Technology,Phones,Houston,5429.928000000001
+2015,Furniture,Phones,Huntsville,
+2015,Office Supplies,Phones,Huntsville,
+2015,Technology,Phones,Huntsville,239.976
+2015,Furniture,Phones,Jacksonville,
+2015,Office Supplies,Phones,Jacksonville,
+2015,Technology,Phones,Jacksonville,233.51999999999998
+2015,Furniture,Phones,Kenosha,
+2015,Office Supplies,Phones,Kenosha,
+2015,Technology,Phones,Kenosha,1604.9
+2015,Furniture,Phones,Lakeland,
+2015,Office Supplies,Phones,Lakeland,
+2015,Technology,Phones,Lakeland,317.35200000000003
+2015,Furniture,Phones,Lansing,
+2015,Office Supplies,Phones,Lansing,
+2015,Technology,Phones,Lansing,10.95
+2015,Furniture,Phones,Lawrence,
+2015,Office Supplies,Phones,Lawrence,
+2015,Technology,Phones,Lawrence,209.5
+2015,Furniture,Phones,Lehi,
+2015,Office Supplies,Phones,Lehi,
+2015,Technology,Phones,Lehi,16.776000000000003
+2015,Furniture,Phones,Long Beach,
+2015,Office Supplies,Phones,Long Beach,
+2015,Technology,Phones,Long Beach,361.56000000000006
+2015,Furniture,Phones,Los Angeles,
+2015,Office Supplies,Phones,Los Angeles,
+2015,Technology,Phones,Los Angeles,5564.216
+2015,Furniture,Phones,Louisville,
+2015,Office Supplies,Phones,Louisville,
+2015,Technology,Phones,Louisville,785.2239999999999
+2015,Furniture,Phones,Marion,
+2015,Office Supplies,Phones,Marion,
+2015,Technology,Phones,Marion,485.93999999999994
+2015,Furniture,Phones,Mcallen,
+2015,Office Supplies,Phones,Mcallen,
+2015,Technology,Phones,Mcallen,342.736
+2015,Furniture,Phones,Medina,
+2015,Office Supplies,Phones,Medina,
+2015,Technology,Phones,Medina,62.982
+2015,Furniture,Phones,Mesa,
+2015,Office Supplies,Phones,Mesa,
+2015,Technology,Phones,Mesa,351.76000000000005
+2015,Furniture,Phones,Milwaukee,
+2015,Office Supplies,Phones,Milwaukee,
+2015,Technology,Phones,Milwaukee,1099.96
+2015,Furniture,Phones,Minneapolis,
+2015,Office Supplies,Phones,Minneapolis,
+2015,Technology,Phones,Minneapolis,377.96999999999997
+2015,Furniture,Phones,Mobile,
+2015,Office Supplies,Phones,Mobile,
+2015,Technology,Phones,Mobile,59.97
+2015,Furniture,Phones,New Castle,
+2015,Office Supplies,Phones,New Castle,
+2015,Technology,Phones,New Castle,23.92
+2015,Furniture,Phones,New York City,
+2015,Office Supplies,Phones,New York City,
+2015,Technology,Phones,New York City,9767.109999999997
+2015,Furniture,Phones,Newark,
+2015,Office Supplies,Phones,Newark,
+2015,Technology,Phones,Newark,1400.8680000000002
+2015,Furniture,Phones,Noblesville,
+2015,Office Supplies,Phones,Noblesville,
+2015,Technology,Phones,Noblesville,399.67999999999995
+2015,Furniture,Phones,Oakland,
+2015,Office Supplies,Phones,Oakland,
+2015,Technology,Phones,Oakland,72.74400000000001
+2015,Furniture,Phones,Olympia,
+2015,Office Supplies,Phones,Olympia,
+2015,Technology,Phones,Olympia,201.568
+2015,Furniture,Phones,Omaha,
+2015,Office Supplies,Phones,Omaha,
+2015,Technology,Phones,Omaha,269.98
+2015,Furniture,Phones,Peoria,
+2015,Office Supplies,Phones,Peoria,
+2015,Technology,Phones,Peoria,174.30400000000003
+2015,Furniture,Phones,Philadelphia,
+2015,Office Supplies,Phones,Philadelphia,
+2015,Technology,Phones,Philadelphia,3105.2699999999995
+2015,Furniture,Phones,Phoenix,
+2015,Office Supplies,Phones,Phoenix,
+2015,Technology,Phones,Phoenix,1991.944
+2015,Furniture,Phones,Plantation,
+2015,Office Supplies,Phones,Plantation,
+2015,Technology,Phones,Plantation,100.792
+2015,Furniture,Phones,Pocatello,
+2015,Office Supplies,Phones,Pocatello,
+2015,Technology,Phones,Pocatello,140.376
+2015,Furniture,Phones,Portland,
+2015,Office Supplies,Phones,Portland,
+2015,Technology,Phones,Portland,892.768
+2015,Furniture,Phones,Providence,
+2015,Office Supplies,Phones,Providence,
+2015,Technology,Phones,Providence,234.83000000000004
+2015,Furniture,Phones,Raleigh,
+2015,Office Supplies,Phones,Raleigh,
+2015,Technology,Phones,Raleigh,251.72000000000003
+2015,Furniture,Phones,Redlands,
+2015,Office Supplies,Phones,Redlands,
+2015,Technology,Phones,Redlands,1295.8400000000001
+2015,Furniture,Phones,Redmond,
+2015,Office Supplies,Phones,Redmond,
+2015,Technology,Phones,Redmond,578.3120000000001
+2015,Furniture,Phones,Rochester,
+2015,Office Supplies,Phones,Rochester,
+2015,Technology,Phones,Rochester,671.98
+2015,Furniture,Phones,San Antonio,
+2015,Office Supplies,Phones,San Antonio,
+2015,Technology,Phones,San Antonio,704.5840000000001
+2015,Furniture,Phones,San Diego,
+2015,Office Supplies,Phones,San Diego,
+2015,Technology,Phones,San Diego,2991.0640000000003
+2015,Furniture,Phones,San Francisco,
+2015,Office Supplies,Phones,San Francisco,
+2015,Technology,Phones,San Francisco,1597.8960000000002
+2015,Furniture,Phones,Seattle,
+2015,Office Supplies,Phones,Seattle,
+2015,Technology,Phones,Seattle,703.1600000000001
+2015,Furniture,Phones,Springfield,
+2015,Office Supplies,Phones,Springfield,
+2015,Technology,Phones,Springfield,494.97
+2015,Furniture,Phones,Temecula,
+2015,Office Supplies,Phones,Temecula,
+2015,Technology,Phones,Temecula,494.3760000000001
+2015,Furniture,Phones,Thousand Oaks,
+2015,Office Supplies,Phones,Thousand Oaks,
+2015,Technology,Phones,Thousand Oaks,15.984000000000002
+2015,Furniture,Phones,Toledo,
+2015,Office Supplies,Phones,Toledo,
+2015,Technology,Phones,Toledo,487.46399999999994
+2015,Furniture,Phones,Troy,
+2015,Office Supplies,Phones,Troy,
+2015,Technology,Phones,Troy,1022.97
+2015,Furniture,Phones,Tucson,
+2015,Office Supplies,Phones,Tucson,
+2015,Technology,Phones,Tucson,35.12
+2015,Furniture,Phones,Waynesboro,
+2015,Office Supplies,Phones,Waynesboro,
+2015,Technology,Phones,Waynesboro,569.64
+2015,Furniture,Phones,West Palm Beach,
+2015,Office Supplies,Phones,West Palm Beach,
+2015,Technology,Phones,West Palm Beach,55.98400000000001
+2015,Furniture,Phones,Wilmington,
+2015,Office Supplies,Phones,Wilmington,
+2015,Technology,Phones,Wilmington,1023.98
+2015,Furniture,Storage,Allentown,
+2015,Office Supplies,Storage,Allentown,663.072
+2015,Technology,Storage,Allentown,
+2015,Furniture,Storage,Arlington,
+2015,Office Supplies,Storage,Arlington,2173.552
+2015,Technology,Storage,Arlington,
+2015,Furniture,Storage,Atlanta,
+2015,Office Supplies,Storage,Atlanta,46.74
+2015,Technology,Storage,Atlanta,
+2015,Furniture,Storage,Auburn,
+2015,Office Supplies,Storage,Auburn,105.98
+2015,Technology,Storage,Auburn,
+2015,Furniture,Storage,Aurora,
+2015,Office Supplies,Storage,Aurora,360.448
+2015,Technology,Storage,Aurora,
+2015,Furniture,Storage,Austin,
+2015,Office Supplies,Storage,Austin,241.48800000000003
+2015,Technology,Storage,Austin,
+2015,Furniture,Storage,Bloomington,
+2015,Office Supplies,Storage,Bloomington,180.01600000000002
+2015,Technology,Storage,Bloomington,
+2015,Furniture,Storage,Bowling Green,
+2015,Office Supplies,Storage,Bowling Green,435.504
+2015,Technology,Storage,Bowling Green,
+2015,Furniture,Storage,Carol Stream,
+2015,Office Supplies,Storage,Carol Stream,504.10400000000004
+2015,Technology,Storage,Carol Stream,
+2015,Furniture,Storage,Chesapeake,
+2015,Office Supplies,Storage,Chesapeake,61.68
+2015,Technology,Storage,Chesapeake,
+2015,Furniture,Storage,Chicago,
+2015,Office Supplies,Storage,Chicago,505.952
+2015,Technology,Storage,Chicago,
+2015,Furniture,Storage,Clinton,
+2015,Office Supplies,Storage,Clinton,866.85
+2015,Technology,Storage,Clinton,
+2015,Furniture,Storage,Columbia,
+2015,Office Supplies,Storage,Columbia,1037.76
+2015,Technology,Storage,Columbia,
+2015,Furniture,Storage,Columbus,
+2015,Office Supplies,Storage,Columbus,58.128
+2015,Technology,Storage,Columbus,
+2015,Furniture,Storage,Coral Springs,
+2015,Office Supplies,Storage,Coral Springs,24.672
+2015,Technology,Storage,Coral Springs,
+2015,Furniture,Storage,Dallas,
+2015,Office Supplies,Storage,Dallas,33.48800000000001
+2015,Technology,Storage,Dallas,
+2015,Furniture,Storage,Dearborn,
+2015,Office Supplies,Storage,Dearborn,523.48
+2015,Technology,Storage,Dearborn,
+2015,Furniture,Storage,Detroit,
+2015,Office Supplies,Storage,Detroit,440.3
+2015,Technology,Storage,Detroit,
+2015,Furniture,Storage,Fairfield,
+2015,Office Supplies,Storage,Fairfield,470.35999999999996
+2015,Technology,Storage,Fairfield,
+2015,Furniture,Storage,Florence,
+2015,Office Supplies,Storage,Florence,27.92
+2015,Technology,Storage,Florence,
+2015,Furniture,Storage,Fort Lauderdale,
+2015,Office Supplies,Storage,Fort Lauderdale,22.368000000000002
+2015,Technology,Storage,Fort Lauderdale,
+2015,Furniture,Storage,Franklin,
+2015,Office Supplies,Storage,Franklin,1834.248
+2015,Technology,Storage,Franklin,
+2015,Furniture,Storage,Gilbert,
+2015,Office Supplies,Storage,Gilbert,82.368
+2015,Technology,Storage,Gilbert,
+2015,Furniture,Storage,Glendale,
+2015,Office Supplies,Storage,Glendale,10.744
+2015,Technology,Storage,Glendale,
+2015,Furniture,Storage,Henderson,
+2015,Office Supplies,Storage,Henderson,36.63
+2015,Technology,Storage,Henderson,
+2015,Furniture,Storage,Hollywood,
+2015,Office Supplies,Storage,Hollywood,9.952
+2015,Technology,Storage,Hollywood,
+2015,Furniture,Storage,Houston,
+2015,Office Supplies,Storage,Houston,1488.424
+2015,Technology,Storage,Houston,
+2015,Furniture,Storage,Indianapolis,
+2015,Office Supplies,Storage,Indianapolis,190.86
+2015,Technology,Storage,Indianapolis,
+2015,Furniture,Storage,Jacksonville,
+2015,Office Supplies,Storage,Jacksonville,1801.632
+2015,Technology,Storage,Jacksonville,
+2015,Furniture,Storage,Lakeland,
+2015,Office Supplies,Storage,Lakeland,1600.432
+2015,Technology,Storage,Lakeland,
+2015,Furniture,Storage,Lebanon,
+2015,Office Supplies,Storage,Lebanon,84.96000000000001
+2015,Technology,Storage,Lebanon,
+2015,Furniture,Storage,Leominster,
+2015,Office Supplies,Storage,Leominster,104.9
+2015,Technology,Storage,Leominster,
+2015,Furniture,Storage,Los Angeles,
+2015,Office Supplies,Storage,Los Angeles,5551.990000000001
+2015,Technology,Storage,Los Angeles,
+2015,Furniture,Storage,Manchester,
+2015,Office Supplies,Storage,Manchester,93.78999999999999
+2015,Technology,Storage,Manchester,
+2015,Furniture,Storage,Marion,
+2015,Office Supplies,Storage,Marion,141.552
+2015,Technology,Storage,Marion,
+2015,Furniture,Storage,Memphis,
+2015,Office Supplies,Storage,Memphis,72.784
+2015,Technology,Storage,Memphis,
+2015,Furniture,Storage,Mesa,
+2015,Office Supplies,Storage,Mesa,756.288
+2015,Technology,Storage,Mesa,
+2015,Furniture,Storage,Miami,
+2015,Office Supplies,Storage,Miami,17.44
+2015,Technology,Storage,Miami,
+2015,Furniture,Storage,Moreno Valley,
+2015,Office Supplies,Storage,Moreno Valley,41.88
+2015,Technology,Storage,Moreno Valley,
+2015,Furniture,Storage,Murfreesboro,
+2015,Office Supplies,Storage,Murfreesboro,22.512000000000004
+2015,Technology,Storage,Murfreesboro,
+2015,Furniture,Storage,Murrieta,
+2015,Office Supplies,Storage,Murrieta,484.65000000000003
+2015,Technology,Storage,Murrieta,
+2015,Furniture,Storage,Nashville,
+2015,Office Supplies,Storage,Nashville,294.368
+2015,Technology,Storage,Nashville,
+2015,Furniture,Storage,New York City,
+2015,Office Supplies,Storage,New York City,4800.09
+2015,Technology,Storage,New York City,
+2015,Furniture,Storage,Newark,
+2015,Office Supplies,Storage,Newark,580.6
+2015,Technology,Storage,Newark,
+2015,Furniture,Storage,North Charleston,
+2015,Office Supplies,Storage,North Charleston,269.49
+2015,Technology,Storage,North Charleston,
+2015,Furniture,Storage,North Las Vegas,
+2015,Office Supplies,Storage,North Las Vegas,1325.8500000000001
+2015,Technology,Storage,North Las Vegas,
+2015,Furniture,Storage,Oakland,
+2015,Office Supplies,Storage,Oakland,70.26
+2015,Technology,Storage,Oakland,
+2015,Furniture,Storage,Oceanside,
+2015,Office Supplies,Storage,Oceanside,244.54999999999998
+2015,Technology,Storage,Oceanside,
+2015,Furniture,Storage,Oklahoma City,
+2015,Office Supplies,Storage,Oklahoma City,541.24
+2015,Technology,Storage,Oklahoma City,
+2015,Furniture,Storage,Orem,
+2015,Office Supplies,Storage,Orem,323.1
+2015,Technology,Storage,Orem,
+2015,Furniture,Storage,Pasadena,
+2015,Office Supplies,Storage,Pasadena,671.93
+2015,Technology,Storage,Pasadena,
+2015,Furniture,Storage,Paterson,
+2015,Office Supplies,Storage,Paterson,62.18
+2015,Technology,Storage,Paterson,
+2015,Furniture,Storage,Philadelphia,
+2015,Office Supplies,Storage,Philadelphia,2149.2160000000003
+2015,Technology,Storage,Philadelphia,
+2015,Furniture,Storage,Plantation,
+2015,Office Supplies,Storage,Plantation,150.408
+2015,Technology,Storage,Plantation,
+2015,Furniture,Storage,Reading,
+2015,Office Supplies,Storage,Reading,15.008000000000003
+2015,Technology,Storage,Reading,
+2015,Furniture,Storage,Redlands,
+2015,Office Supplies,Storage,Redlands,46.84
+2015,Technology,Storage,Redlands,
+2015,Furniture,Storage,Richmond,
+2015,Office Supplies,Storage,Richmond,729.72
+2015,Technology,Storage,Richmond,
+2015,Furniture,Storage,Rochester,
+2015,Office Supplies,Storage,Rochester,677.4499999999999
+2015,Technology,Storage,Rochester,
+2015,Furniture,Storage,Roseville,
+2015,Office Supplies,Storage,Roseville,795.51
+2015,Technology,Storage,Roseville,
+2015,Furniture,Storage,Saint Petersburg,
+2015,Office Supplies,Storage,Saint Petersburg,516.96
+2015,Technology,Storage,Saint Petersburg,
+2015,Furniture,Storage,Salem,
+2015,Office Supplies,Storage,Salem,29.304000000000002
+2015,Technology,Storage,Salem,
+2015,Furniture,Storage,San Antonio,
+2015,Office Supplies,Storage,San Antonio,27.056
+2015,Technology,Storage,San Antonio,
+2015,Furniture,Storage,San Diego,
+2015,Office Supplies,Storage,San Diego,1590.2
+2015,Technology,Storage,San Diego,
+2015,Furniture,Storage,San Francisco,
+2015,Office Supplies,Storage,San Francisco,578.11
+2015,Technology,Storage,San Francisco,
+2015,Furniture,Storage,San Jose,
+2015,Office Supplies,Storage,San Jose,441.26
+2015,Technology,Storage,San Jose,
+2015,Furniture,Storage,Santa Maria,
+2015,Office Supplies,Storage,Santa Maria,115.44
+2015,Technology,Storage,Santa Maria,
+2015,Furniture,Storage,Seattle,
+2015,Office Supplies,Storage,Seattle,2694.9599999999996
+2015,Technology,Storage,Seattle,
+2015,Furniture,Storage,South Bend,
+2015,Office Supplies,Storage,South Bend,176.16
+2015,Technology,Storage,South Bend,
+2015,Furniture,Storage,Springfield,
+2015,Office Supplies,Storage,Springfield,1396.2560000000003
+2015,Technology,Storage,Springfield,
+2015,Furniture,Storage,Suffolk,
+2015,Office Supplies,Storage,Suffolk,146.73
+2015,Technology,Storage,Suffolk,
+2015,Furniture,Storage,Tucson,
+2015,Office Supplies,Storage,Tucson,247.10399999999998
+2015,Technology,Storage,Tucson,
+2015,Furniture,Storage,Wilmington,
+2015,Office Supplies,Storage,Wilmington,77.55
+2015,Technology,Storage,Wilmington,
+2015,Furniture,Storage,Woonsocket,
+2015,Office Supplies,Storage,Woonsocket,51.449999999999996
+2015,Technology,Storage,Woonsocket,
+2015,Furniture,Supplies,Allentown,
+2015,Office Supplies,Supplies,Allentown,3.4880000000000004
+2015,Technology,Supplies,Allentown,
+2015,Furniture,Supplies,Aurora,
+2015,Office Supplies,Supplies,Aurora,5.84
+2015,Technology,Supplies,Aurora,
+2015,Furniture,Supplies,Austin,
+2015,Office Supplies,Supplies,Austin,5.888000000000001
+2015,Technology,Supplies,Austin,
+2015,Furniture,Supplies,Bartlett,
+2015,Office Supplies,Supplies,Bartlett,88.96000000000001
+2015,Technology,Supplies,Bartlett,
+2015,Furniture,Supplies,Bolingbrook,
+2015,Office Supplies,Supplies,Bolingbrook,31.680000000000003
+2015,Technology,Supplies,Bolingbrook,
+2015,Furniture,Supplies,Chicago,
+2015,Office Supplies,Supplies,Chicago,49.64
+2015,Technology,Supplies,Chicago,
+2015,Furniture,Supplies,Dallas,
+2015,Office Supplies,Supplies,Dallas,23.04
+2015,Technology,Supplies,Dallas,
+2015,Furniture,Supplies,Farmington,
+2015,Office Supplies,Supplies,Farmington,12.88
+2015,Technology,Supplies,Farmington,
+2015,Furniture,Supplies,Haltom City,
+2015,Office Supplies,Supplies,Haltom City,22.368000000000002
+2015,Technology,Supplies,Haltom City,
+2015,Furniture,Supplies,Houston,
+2015,Office Supplies,Supplies,Houston,69.12
+2015,Technology,Supplies,Houston,
+2015,Furniture,Supplies,Jackson,
+2015,Office Supplies,Supplies,Jackson,70.12
+2015,Technology,Supplies,Jackson,
+2015,Furniture,Supplies,Lakewood,
+2015,Office Supplies,Supplies,Lakewood,27.200000000000003
+2015,Technology,Supplies,Lakewood,
+2015,Furniture,Supplies,Long Beach,
+2015,Office Supplies,Supplies,Long Beach,62.9
+2015,Technology,Supplies,Long Beach,
+2015,Furniture,Supplies,Los Angeles,
+2015,Office Supplies,Supplies,Los Angeles,141.37
+2015,Technology,Supplies,Los Angeles,
+2015,Furniture,Supplies,New York City,
+2015,Office Supplies,Supplies,New York City,364.29
+2015,Technology,Supplies,New York City,
+2015,Furniture,Supplies,Newark,
+2015,Office Supplies,Supplies,Newark,15.88
+2015,Technology,Supplies,Newark,
+2015,Furniture,Supplies,Philadelphia,
+2015,Office Supplies,Supplies,Philadelphia,721.8480000000001
+2015,Technology,Supplies,Philadelphia,
+2015,Furniture,Supplies,Redlands,
+2015,Office Supplies,Supplies,Redlands,29.700000000000003
+2015,Technology,Supplies,Redlands,
+2015,Furniture,Supplies,Saint Louis,
+2015,Office Supplies,Supplies,Saint Louis,52.59
+2015,Technology,Supplies,Saint Louis,
+2015,Furniture,Supplies,San Bernardino,
+2015,Office Supplies,Supplies,San Bernardino,33.36
+2015,Technology,Supplies,San Bernardino,
+2015,Furniture,Supplies,San Diego,
+2015,Office Supplies,Supplies,San Diego,32.94
+2015,Technology,Supplies,San Diego,
+2015,Furniture,Supplies,San Francisco,
+2015,Office Supplies,Supplies,San Francisco,35.06
+2015,Technology,Supplies,San Francisco,
+2015,Furniture,Supplies,Tampa,
+2015,Office Supplies,Supplies,Tampa,41.376
+2015,Technology,Supplies,Tampa,
+2015,Furniture,Supplies,Thornton,
+2015,Office Supplies,Supplies,Thornton,10.944
+2015,Technology,Supplies,Thornton,
+2015,Furniture,Tables,Allen,244.00599999999997
+2015,Office Supplies,Tables,Allen,
+2015,Technology,Tables,Allen,
+2015,Furniture,Tables,Arlington,918.7849999999999
+2015,Office Supplies,Tables,Arlington,
+2015,Technology,Tables,Arlington,
+2015,Furniture,Tables,Aurora,796.4250000000001
+2015,Office Supplies,Tables,Aurora,
+2015,Technology,Tables,Aurora,
+2015,Furniture,Tables,Boise,696.42
+2015,Office Supplies,Tables,Boise,
+2015,Technology,Tables,Boise,
+2015,Furniture,Tables,Colorado Springs,364.95
+2015,Office Supplies,Tables,Colorado Springs,
+2015,Technology,Tables,Colorado Springs,
+2015,Furniture,Tables,Concord,4297.644
+2015,Office Supplies,Tables,Concord,
+2015,Technology,Tables,Concord,
+2015,Furniture,Tables,Conway,301.96
+2015,Office Supplies,Tables,Conway,
+2015,Technology,Tables,Conway,
+2015,Furniture,Tables,Dallas,103.48100000000001
+2015,Office Supplies,Tables,Dallas,
+2015,Technology,Tables,Dallas,
+2015,Furniture,Tables,Daytona Beach,191.5155
+2015,Office Supplies,Tables,Daytona Beach,
+2015,Technology,Tables,Daytona Beach,
+2015,Furniture,Tables,Detroit,622.4499999999999
+2015,Office Supplies,Tables,Detroit,
+2015,Technology,Tables,Detroit,
+2015,Furniture,Tables,Dover,1053.164
+2015,Office Supplies,Tables,Dover,
+2015,Technology,Tables,Dover,
+2015,Furniture,Tables,Everett,446.068
+2015,Office Supplies,Tables,Everett,
+2015,Technology,Tables,Everett,
+2015,Furniture,Tables,Fort Lauderdale,957.5775
+2015,Office Supplies,Tables,Fort Lauderdale,
+2015,Technology,Tables,Fort Lauderdale,
+2015,Furniture,Tables,Houston,347.361
+2015,Office Supplies,Tables,Houston,
+2015,Technology,Tables,Houston,
+2015,Furniture,Tables,Huntsville,821.3519999999999
+2015,Office Supplies,Tables,Huntsville,
+2015,Technology,Tables,Huntsville,
+2015,Furniture,Tables,Jackson,801.96
+2015,Office Supplies,Tables,Jackson,
+2015,Technology,Tables,Jackson,
+2015,Furniture,Tables,Lafayette,85.98
+2015,Office Supplies,Tables,Lafayette,
+2015,Technology,Tables,Lafayette,
+2015,Furniture,Tables,Long Beach,405.456
+2015,Office Supplies,Tables,Long Beach,
+2015,Technology,Tables,Long Beach,
+2015,Furniture,Tables,Los Angeles,3093.8640000000005
+2015,Office Supplies,Tables,Los Angeles,
+2015,Technology,Tables,Los Angeles,
+2015,Furniture,Tables,Marion,1548.9900000000002
+2015,Office Supplies,Tables,Marion,
+2015,Technology,Tables,Marion,
+2015,Furniture,Tables,Medina,51.588
+2015,Office Supplies,Tables,Medina,
+2015,Technology,Tables,Medina,
+2015,Furniture,Tables,Mesa,393.165
+2015,Office Supplies,Tables,Mesa,
+2015,Technology,Tables,Mesa,
+2015,Furniture,Tables,Milwaukee,867.66
+2015,Office Supplies,Tables,Milwaukee,
+2015,Technology,Tables,Milwaukee,
+2015,Furniture,Tables,Mobile,801.96
+2015,Office Supplies,Tables,Mobile,
+2015,Technology,Tables,Mobile,
+2015,Furniture,Tables,Montgomery,358.58
+2015,Office Supplies,Tables,Montgomery,
+2015,Technology,Tables,Montgomery,
+2015,Furniture,Tables,New York City,3628.8660000000004
+2015,Office Supplies,Tables,New York City,
+2015,Technology,Tables,New York City,
+2015,Furniture,Tables,Orem,1044.6299999999999
+2015,Office Supplies,Tables,Orem,
+2015,Technology,Tables,Orem,
+2015,Furniture,Tables,Pembroke Pines,375.45750000000004
+2015,Office Supplies,Tables,Pembroke Pines,
+2015,Technology,Tables,Pembroke Pines,
+2015,Furniture,Tables,Philadelphia,1252.704
+2015,Office Supplies,Tables,Philadelphia,
+2015,Technology,Tables,Philadelphia,
+2015,Furniture,Tables,Pomona,710.8320000000001
+2015,Office Supplies,Tables,Pomona,
+2015,Technology,Tables,Pomona,
+2015,Furniture,Tables,Providence,493.9199999999999
+2015,Office Supplies,Tables,Providence,
+2015,Technology,Tables,Providence,
+2015,Furniture,Tables,Provo,912.75
+2015,Office Supplies,Tables,Provo,
+2015,Technology,Tables,Provo,
+2015,Furniture,Tables,Rochester,209.67
+2015,Office Supplies,Tables,Rochester,
+2015,Technology,Tables,Rochester,
+2015,Furniture,Tables,San Antonio,206.96200000000002
+2015,Office Supplies,Tables,San Antonio,
+2015,Technology,Tables,San Antonio,
+2015,Furniture,Tables,San Francisco,253.176
+2015,Office Supplies,Tables,San Francisco,
+2015,Technology,Tables,San Francisco,
+2015,Furniture,Tables,Seattle,7884.939999999999
+2015,Office Supplies,Tables,Seattle,
+2015,Technology,Tables,Seattle,
+2015,Furniture,Tables,Springfield,1301.88
+2015,Office Supplies,Tables,Springfield,
+2015,Technology,Tables,Springfield,
+2015,Furniture,Tables,Texas City,102.438
+2015,Office Supplies,Tables,Texas City,
+2015,Technology,Tables,Texas City,
+2015,Furniture,Tables,Wilmington,199.836
+2015,Office Supplies,Tables,Wilmington,
+2015,Technology,Tables,Wilmington,
