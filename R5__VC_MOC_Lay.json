@@ -1765,7 +1765,7 @@
             "createdBy": "91",
             "createdAt": 1728457213,
             "updatedBy": "55",
-            "updatedAt": 1728496101,
+            "updatedAt": 1728496976,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -1813,56 +1813,7 @@
             "onLoadFormula": "",
             "onDataChangeFormula": ""
         },
-        "filterList": [
-            {
-                "combinator": "and",
-                "id": "HUIOJMEP",
-                "name": "Region",
-                "rules": [
-                    {
-                        "field": "Orders.Region",
-                        "operator": "isOneof",
-                        "value": "Central"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "ZRPGDQIG",
-                "name": "Category",
-                "rules": [
-                    {
-                        "field": "Orders.Category",
-                        "operator": "isOneof",
-                        "value": "Furniture"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "GGYXPKLM",
-                "name": "Year",
-                "rules": [
-                    {
-                        "field": "Orders.Order Date.Variation.Date Hierarchy.Year",
-                        "operator": "is",
-                        "value": "2014"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "VZELGQPW",
-                "name": "Segment",
-                "rules": [
-                    {
-                        "field": "Orders.Segment",
-                        "operator": "isOneof",
-                        "value": "Consumer"
-                    }
-                ]
-            }
-        ],
+        "filterList": [],
         "customIcons": [],
         "scrollThickness": false,
         "dynamicRowScale": {},
@@ -2134,10 +2085,6 @@
             }
         ]
     },
-    "visual": {
-        "visualId": "GEADDLJHKAPOPPE",
-        "visualTemplateGuid": "NGFJCCDJJIEENIB",
-        "tenantId": "ddec66fe92e4aa2436a44c7a0c220078"
-    },
+    "visual":{"visualId":"GEADDLJHKAPOPPE","visualTemplateGuid":"NGFJCCDJJIEENIB","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.6.0.0"
 }
