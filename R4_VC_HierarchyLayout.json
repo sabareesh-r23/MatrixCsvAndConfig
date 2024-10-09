@@ -2376,8 +2376,8 @@
             "status": 10,
             "createdBy": "91",
             "createdAt": 1727679104,
-            "updatedBy": "91",
-            "updatedAt": 1727679476,
+            "updatedBy": "55",
+            "updatedAt": 1728413244,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2707,6 +2707,6 @@
             }
         ]
     },
-    "viusual":{"visualId":"HLJNCNHHKLLKFKO","visualTemplateGuid":"BGHBFBIOKKBBPHB","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
+    "visual":{"visualId":"HLJNCNHHKLLKFKO","visualTemplateGuid":"BGHBFBIOKKBBPHB","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
     "currentVersion": "v3.6.0.0"
 }
