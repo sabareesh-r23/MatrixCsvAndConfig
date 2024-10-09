@@ -1,0 +1,269 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Region,Orders.Sub-Category,Sum(Orders.Quantity)
+2014,Qtr 1,Furniture,Central,Bookcases,2
+2015,Qtr 1,Furniture,Central,Bookcases,25
+2016,Qtr 1,Furniture,Central,Bookcases,11
+2017,Qtr 1,Furniture,Central,Bookcases,11
+2014,Qtr 1,Furniture,Central,Chairs,20
+2015,Qtr 1,Furniture,Central,Chairs,17
+2016,Qtr 1,Furniture,Central,Chairs,28
+2017,Qtr 1,Furniture,Central,Chairs,34
+2014,Qtr 1,Furniture,Central,Furnishings,27
+2015,Qtr 1,Furniture,Central,Furnishings,25
+2016,Qtr 1,Furniture,Central,Furnishings,14
+2017,Qtr 1,Furniture,Central,Furnishings,33
+2014,Qtr 1,Furniture,Central,Tables,10
+2015,Qtr 1,Furniture,Central,Tables,1
+2016,Qtr 1,Furniture,Central,Tables,26
+2017,Qtr 1,Furniture,Central,Tables,15
+2014,Qtr 1,Furniture,East,Bookcases,9
+2015,Qtr 1,Furniture,East,Bookcases,9
+2016,Qtr 1,Furniture,East,Bookcases,12
+2017,Qtr 1,Furniture,East,Bookcases,5
+2014,Qtr 1,Furniture,East,Chairs,7
+2015,Qtr 1,Furniture,East,Chairs,21
+2016,Qtr 1,Furniture,East,Chairs,18
+2017,Qtr 1,Furniture,East,Chairs,16
+2014,Qtr 1,Furniture,East,Furnishings,13
+2015,Qtr 1,Furniture,East,Furnishings,2
+2016,Qtr 1,Furniture,East,Furnishings,75
+2017,Qtr 1,Furniture,East,Furnishings,29
+2014,Qtr 1,Furniture,East,Tables,15
+2015,Qtr 1,Furniture,East,Tables,11
+2016,Qtr 1,Furniture,East,Tables,17
+2017,Qtr 1,Furniture,East,Tables,8
+2014,Qtr 1,Furniture,South,Bookcases,
+2015,Qtr 1,Furniture,South,Bookcases,
+2016,Qtr 1,Furniture,South,Bookcases,6
+2017,Qtr 1,Furniture,South,Bookcases,8
+2014,Qtr 1,Furniture,South,Chairs,32
+2015,Qtr 1,Furniture,South,Chairs,15
+2016,Qtr 1,Furniture,South,Chairs,4
+2017,Qtr 1,Furniture,South,Chairs,6
+2014,Qtr 1,Furniture,South,Furnishings,31
+2015,Qtr 1,Furniture,South,Furnishings,21
+2016,Qtr 1,Furniture,South,Furnishings,55
+2017,Qtr 1,Furniture,South,Furnishings,9
+2014,Qtr 1,Furniture,South,Tables,6
+2015,Qtr 1,Furniture,South,Tables,13
+2016,Qtr 1,Furniture,South,Tables,3
+2017,Qtr 1,Furniture,South,Tables,2
+2014,Qtr 1,Furniture,West,Bookcases,22
+2015,Qtr 1,Furniture,West,Bookcases,2
+2016,Qtr 1,Furniture,West,Bookcases,2
+2017,Qtr 1,Furniture,West,Bookcases,3
+2014,Qtr 1,Furniture,West,Chairs,16
+2015,Qtr 1,Furniture,West,Chairs,18
+2016,Qtr 1,Furniture,West,Chairs,29
+2017,Qtr 1,Furniture,West,Chairs,11
+2014,Qtr 1,Furniture,West,Furnishings,8
+2015,Qtr 1,Furniture,West,Furnishings,50
+2016,Qtr 1,Furniture,West,Furnishings,28
+2017,Qtr 1,Furniture,West,Furnishings,60
+2014,Qtr 1,Furniture,West,Tables,6
+2015,Qtr 1,Furniture,West,Tables,14
+2016,Qtr 1,Furniture,West,Tables,4
+2017,Qtr 1,Furniture,West,Tables,30
+2014,Qtr 1,Office Supplies,Central,Appliances,11
+2015,Qtr 1,Office Supplies,Central,Appliances,12
+2016,Qtr 1,Office Supplies,Central,Appliances,21
+2017,Qtr 1,Office Supplies,Central,Appliances,33
+2014,Qtr 1,Office Supplies,Central,Art,29
+2015,Qtr 1,Office Supplies,Central,Art,13
+2016,Qtr 1,Office Supplies,Central,Art,16
+2017,Qtr 1,Office Supplies,Central,Art,54
+2014,Qtr 1,Office Supplies,Central,Binders,62
+2015,Qtr 1,Office Supplies,Central,Binders,26
+2016,Qtr 1,Office Supplies,Central,Binders,44
+2017,Qtr 1,Office Supplies,Central,Binders,106
+2014,Qtr 1,Office Supplies,Central,Envelopes,8
+2015,Qtr 1,Office Supplies,Central,Envelopes,6
+2016,Qtr 1,Office Supplies,Central,Envelopes,9
+2017,Qtr 1,Office Supplies,Central,Envelopes,6
+2014,Qtr 1,Office Supplies,Central,Fasteners,8
+2015,Qtr 1,Office Supplies,Central,Fasteners,16
+2016,Qtr 1,Office Supplies,Central,Fasteners,5
+2017,Qtr 1,Office Supplies,Central,Fasteners,11
+2014,Qtr 1,Office Supplies,Central,Labels,9
+2015,Qtr 1,Office Supplies,Central,Labels,4
+2016,Qtr 1,Office Supplies,Central,Labels,
+2017,Qtr 1,Office Supplies,Central,Labels,12
+2014,Qtr 1,Office Supplies,Central,Paper,25
+2015,Qtr 1,Office Supplies,Central,Paper,35
+2016,Qtr 1,Office Supplies,Central,Paper,30
+2017,Qtr 1,Office Supplies,Central,Paper,69
+2014,Qtr 1,Office Supplies,Central,Storage,20
+2015,Qtr 1,Office Supplies,Central,Storage,7
+2016,Qtr 1,Office Supplies,Central,Storage,1
+2017,Qtr 1,Office Supplies,Central,Storage,38
+2014,Qtr 1,Office Supplies,Central,Supplies,
+2015,Qtr 1,Office Supplies,Central,Supplies,
+2016,Qtr 1,Office Supplies,Central,Supplies,3
+2017,Qtr 1,Office Supplies,Central,Supplies,13
+2014,Qtr 1,Office Supplies,East,Appliances,
+2015,Qtr 1,Office Supplies,East,Appliances,11
+2016,Qtr 1,Office Supplies,East,Appliances,6
+2017,Qtr 1,Office Supplies,East,Appliances,17
+2014,Qtr 1,Office Supplies,East,Art,25
+2015,Qtr 1,Office Supplies,East,Art,31
+2016,Qtr 1,Office Supplies,East,Art,29
+2017,Qtr 1,Office Supplies,East,Art,29
+2014,Qtr 1,Office Supplies,East,Binders,20
+2015,Qtr 1,Office Supplies,East,Binders,43
+2016,Qtr 1,Office Supplies,East,Binders,55
+2017,Qtr 1,Office Supplies,East,Binders,48
+2014,Qtr 1,Office Supplies,East,Envelopes,2
+2015,Qtr 1,Office Supplies,East,Envelopes,9
+2016,Qtr 1,Office Supplies,East,Envelopes,24
+2017,Qtr 1,Office Supplies,East,Envelopes,14
+2014,Qtr 1,Office Supplies,East,Fasteners,6
+2015,Qtr 1,Office Supplies,East,Fasteners,
+2016,Qtr 1,Office Supplies,East,Fasteners,18
+2017,Qtr 1,Office Supplies,East,Fasteners,9
+2014,Qtr 1,Office Supplies,East,Labels,6
+2015,Qtr 1,Office Supplies,East,Labels,7
+2016,Qtr 1,Office Supplies,East,Labels,3
+2017,Qtr 1,Office Supplies,East,Labels,20
+2014,Qtr 1,Office Supplies,East,Paper,51
+2015,Qtr 1,Office Supplies,East,Paper,30
+2016,Qtr 1,Office Supplies,East,Paper,42
+2017,Qtr 1,Office Supplies,East,Paper,67
+2014,Qtr 1,Office Supplies,East,Storage,12
+2015,Qtr 1,Office Supplies,East,Storage,33
+2016,Qtr 1,Office Supplies,East,Storage,43
+2017,Qtr 1,Office Supplies,East,Storage,24
+2014,Qtr 1,Office Supplies,East,Supplies,2
+2015,Qtr 1,Office Supplies,East,Supplies,
+2016,Qtr 1,Office Supplies,East,Supplies,3
+2017,Qtr 1,Office Supplies,East,Supplies,6
+2014,Qtr 1,Office Supplies,South,Appliances,6
+2015,Qtr 1,Office Supplies,South,Appliances,9
+2016,Qtr 1,Office Supplies,South,Appliances,9
+2017,Qtr 1,Office Supplies,South,Appliances,24
+2014,Qtr 1,Office Supplies,South,Art,31
+2015,Qtr 1,Office Supplies,South,Art,17
+2016,Qtr 1,Office Supplies,South,Art,12
+2017,Qtr 1,Office Supplies,South,Art,7
+2014,Qtr 1,Office Supplies,South,Binders,45
+2015,Qtr 1,Office Supplies,South,Binders,12
+2016,Qtr 1,Office Supplies,South,Binders,39
+2017,Qtr 1,Office Supplies,South,Binders,74
+2014,Qtr 1,Office Supplies,South,Envelopes,8
+2015,Qtr 1,Office Supplies,South,Envelopes,19
+2016,Qtr 1,Office Supplies,South,Envelopes,10
+2017,Qtr 1,Office Supplies,South,Envelopes,8
+2014,Qtr 1,Office Supplies,South,Fasteners,7
+2015,Qtr 1,Office Supplies,South,Fasteners,4
+2016,Qtr 1,Office Supplies,South,Fasteners,5
+2017,Qtr 1,Office Supplies,South,Fasteners,5
+2014,Qtr 1,Office Supplies,South,Labels,22
+2015,Qtr 1,Office Supplies,South,Labels,11
+2016,Qtr 1,Office Supplies,South,Labels,7
+2017,Qtr 1,Office Supplies,South,Labels,6
+2014,Qtr 1,Office Supplies,South,Paper,31
+2015,Qtr 1,Office Supplies,South,Paper,35
+2016,Qtr 1,Office Supplies,South,Paper,41
+2017,Qtr 1,Office Supplies,South,Paper,14
+2014,Qtr 1,Office Supplies,South,Storage,24
+2015,Qtr 1,Office Supplies,South,Storage,19
+2016,Qtr 1,Office Supplies,South,Storage,29
+2017,Qtr 1,Office Supplies,South,Storage,11
+2014,Qtr 1,Office Supplies,South,Supplies,
+2015,Qtr 1,Office Supplies,South,Supplies,8
+2016,Qtr 1,Office Supplies,South,Supplies,
+2017,Qtr 1,Office Supplies,South,Supplies,
+2014,Qtr 1,Office Supplies,West,Appliances,8
+2015,Qtr 1,Office Supplies,West,Appliances,16
+2016,Qtr 1,Office Supplies,West,Appliances,10
+2017,Qtr 1,Office Supplies,West,Appliances,44
+2014,Qtr 1,Office Supplies,West,Art,37
+2015,Qtr 1,Office Supplies,West,Art,4
+2016,Qtr 1,Office Supplies,West,Art,4
+2017,Qtr 1,Office Supplies,West,Art,67
+2014,Qtr 1,Office Supplies,West,Binders,39
+2015,Qtr 1,Office Supplies,West,Binders,26
+2016,Qtr 1,Office Supplies,West,Binders,41
+2017,Qtr 1,Office Supplies,West,Binders,118
+2014,Qtr 1,Office Supplies,West,Envelopes,5
+2015,Qtr 1,Office Supplies,West,Envelopes,
+2016,Qtr 1,Office Supplies,West,Envelopes,4
+2017,Qtr 1,Office Supplies,West,Envelopes,12
+2014,Qtr 1,Office Supplies,West,Fasteners,5
+2015,Qtr 1,Office Supplies,West,Fasteners,5
+2016,Qtr 1,Office Supplies,West,Fasteners,3
+2017,Qtr 1,Office Supplies,West,Fasteners,27
+2014,Qtr 1,Office Supplies,West,Labels,8
+2015,Qtr 1,Office Supplies,West,Labels,16
+2016,Qtr 1,Office Supplies,West,Labels,20
+2017,Qtr 1,Office Supplies,West,Labels,6
+2014,Qtr 1,Office Supplies,West,Paper,36
+2015,Qtr 1,Office Supplies,West,Paper,74
+2016,Qtr 1,Office Supplies,West,Paper,33
+2017,Qtr 1,Office Supplies,West,Paper,84
+2014,Qtr 1,Office Supplies,West,Storage,32
+2015,Qtr 1,Office Supplies,West,Storage,11
+2016,Qtr 1,Office Supplies,West,Storage,31
+2017,Qtr 1,Office Supplies,West,Storage,78
+2014,Qtr 1,Office Supplies,West,Supplies,2
+2015,Qtr 1,Office Supplies,West,Supplies,4
+2016,Qtr 1,Office Supplies,West,Supplies,6
+2017,Qtr 1,Office Supplies,West,Supplies,13
+2014,Qtr 1,Technology,Central,Accessories,14
+2015,Qtr 1,Technology,Central,Accessories,29
+2016,Qtr 1,Technology,Central,Accessories,24
+2017,Qtr 1,Technology,Central,Accessories,37
+2014,Qtr 1,Technology,Central,Copiers,
+2015,Qtr 1,Technology,Central,Copiers,
+2016,Qtr 1,Technology,Central,Copiers,
+2017,Qtr 1,Technology,Central,Copiers,7
+2014,Qtr 1,Technology,Central,Machines,2
+2015,Qtr 1,Technology,Central,Machines,
+2016,Qtr 1,Technology,Central,Machines,3
+2017,Qtr 1,Technology,Central,Machines,7
+2014,Qtr 1,Technology,Central,Phones,7
+2015,Qtr 1,Technology,Central,Phones,26
+2016,Qtr 1,Technology,Central,Phones,34
+2017,Qtr 1,Technology,Central,Phones,31
+2014,Qtr 1,Technology,East,Accessories,13
+2015,Qtr 1,Technology,East,Accessories,15
+2016,Qtr 1,Technology,East,Accessories,33
+2017,Qtr 1,Technology,East,Accessories,41
+2014,Qtr 1,Technology,East,Machines,
+2015,Qtr 1,Technology,East,Machines,9
+2016,Qtr 1,Technology,East,Machines,10
+2017,Qtr 1,Technology,East,Machines,
+2014,Qtr 1,Technology,East,Phones,7
+2015,Qtr 1,Technology,East,Phones,40
+2016,Qtr 1,Technology,East,Phones,38
+2017,Qtr 1,Technology,East,Phones,70
+2014,Qtr 1,Technology,South,Accessories,18
+2015,Qtr 1,Technology,South,Accessories,8
+2016,Qtr 1,Technology,South,Accessories,17
+2017,Qtr 1,Technology,South,Accessories,6
+2014,Qtr 1,Technology,South,Copiers,
+2015,Qtr 1,Technology,South,Copiers,
+2016,Qtr 1,Technology,South,Copiers,4
+2017,Qtr 1,Technology,South,Copiers,5
+2014,Qtr 1,Technology,South,Machines,10
+2015,Qtr 1,Technology,South,Machines,
+2016,Qtr 1,Technology,South,Machines,5
+2017,Qtr 1,Technology,South,Machines,2
+2014,Qtr 1,Technology,South,Phones,54
+2015,Qtr 1,Technology,South,Phones,5
+2016,Qtr 1,Technology,South,Phones,18
+2017,Qtr 1,Technology,South,Phones,29
+2014,Qtr 1,Technology,West,Accessories,22
+2015,Qtr 1,Technology,West,Accessories,16
+2016,Qtr 1,Technology,West,Accessories,22
+2017,Qtr 1,Technology,West,Accessories,62
+2014,Qtr 1,Technology,West,Copiers,
+2015,Qtr 1,Technology,West,Copiers,9
+2016,Qtr 1,Technology,West,Copiers,
+2017,Qtr 1,Technology,West,Copiers,13
+2014,Qtr 1,Technology,West,Machines,4
+2015,Qtr 1,Technology,West,Machines,3
+2016,Qtr 1,Technology,West,Machines,3
+2017,Qtr 1,Technology,West,Machines,4
+2014,Qtr 1,Technology,West,Phones,11
+2015,Qtr 1,Technology,West,Phones,13
+2016,Qtr 1,Technology,West,Phones,44
+2017,Qtr 1,Technology,West,Phones,77

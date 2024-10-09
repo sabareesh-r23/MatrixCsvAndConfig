@@ -1,0 +1,35 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Sub-Category,CountNonNull(Orders.Row ID)
+2014,Qtr 1,Furniture,Bookcases,8
+2014,Qtr 2,Furniture,Bookcases,6
+2014,Qtr 1,Furniture,Chairs,17
+2014,Qtr 2,Furniture,Chairs,24
+2014,Qtr 1,Furniture,Furnishings,25
+2014,Qtr 2,Furniture,Furnishings,31
+2014,Qtr 1,Furniture,Tables,10
+2014,Qtr 2,Furniture,Tables,19
+2014,Qtr 1,Office Supplies,Appliances,9
+2014,Qtr 2,Office Supplies,Appliances,18
+2014,Qtr 1,Office Supplies,Art,33
+2014,Qtr 2,Office Supplies,Art,44
+2014,Qtr 1,Office Supplies,Binders,47
+2014,Qtr 2,Office Supplies,Binders,59
+2014,Qtr 1,Office Supplies,Envelopes,7
+2014,Qtr 2,Office Supplies,Envelopes,9
+2014,Qtr 1,Office Supplies,Fasteners,6
+2014,Qtr 2,Office Supplies,Fasteners,10
+2014,Qtr 1,Office Supplies,Labels,13
+2014,Qtr 2,Office Supplies,Labels,13
+2014,Qtr 1,Office Supplies,Paper,39
+2014,Qtr 2,Office Supplies,Paper,49
+2014,Qtr 1,Office Supplies,Storage,27
+2014,Qtr 2,Office Supplies,Storage,28
+2014,Qtr 1,Office Supplies,Supplies,2
+2014,Qtr 2,Office Supplies,Supplies,8
+2014,Qtr 1,Technology,Accessories,16
+2014,Qtr 2,Technology,Accessories,27
+2014,Qtr 1,Technology,Copiers,
+2014,Qtr 2,Technology,Copiers,3
+2014,Qtr 1,Technology,Machines,4
+2014,Qtr 2,Technology,Machines,4
+2014,Qtr 1,Technology,Phones,19
+2014,Qtr 2,Technology,Phones,40
