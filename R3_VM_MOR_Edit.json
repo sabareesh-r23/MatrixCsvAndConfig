@@ -1283,7 +1283,7 @@
       "notification": true,
       "reportIdentifier": "e9f81e69-3771-42f8-b3bb-9b30cb3ef6d3",
       "reportDisplayName": " by City",
-      "reportSection": "3bee65994bf3ae7934a6",
+      "reportSection": "1da222de754a9fc4d363",
       "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e9f81e69-3771-42f8-b3bb-9b30cb3ef6d3/3bee65994bf3ae7934a6?experience=power-bi",
       "visualMeta": {
         "product": "inforiver",
@@ -1300,6 +1300,7 @@
             { "id": "Orders.Category", "name": "Category", "dataType": "TEXT" },
             { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year", "dataType": "NUMERIC" }
           ],
+          "dimensionHash": "ad0cfd1eb95ea9497bad3454e4d0ecc9",
           "measures": [
             { "id": "Sum__Orders__Profit__U3VtKE9yZGVycy5Qcm9maXQp", "name": "Sum of Profit", "dataType": "NUMERIC" },
             { "id": "CountNonNull__Orders__Row__ID__Q291bnROb25OdWxsKE9yZGVycy5Sb3clMjBJRCk__", "name": "Count of Row ID", "dataType": "NUMERIC" },
@@ -1313,10 +1314,10 @@
             { "id": "CALC_17285672968509706", "name": "Check Box", "dataType": "CHECK_BOX" },
             { "id": "CALC_17285673089754576", "name": "Date", "dataType": "DATE" }
           ],
-          "reportDisplayName": " by City",
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
-          "hasNativeMeasures": true
+          "hasNativeMeasures": true,
+          "reportDisplayName": " by City"
         },
         "includedIdDimensions": [
           { "id": "Orders.Category", "name": "Category" },
@@ -1342,7 +1343,7 @@
       "createdBy": "91",
       "createdAt": 1727200247,
       "updatedBy": "49",
-      "updatedAt": 1728567315,
+      "updatedAt": 1728567840,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
@@ -1367,10 +1368,7 @@
     "allowNativeCellEdit": false,
     "calculatedVariables": {},
     "formFieldsVariables": { "variables": [], "onLoadFormula": "", "onDataChangeFormula": "" },
-    "filterList": [
-      { "combinator": "and", "id": "XZATGSQA", "name": "Year", "rules": [{ "field": "Orders.Order Date.Variation.Date Hierarchy.Year", "operator": "is", "value": "2014" }] },
-      { "combinator": "and", "id": "AVKKZPKM", "name": "Category", "rules": [{ "field": "Orders.Category", "operator": "isOneof", "value": "Furniture" }] }
-    ],
+    "filterList": [],
     "customIcons": [],
     "scrollThickness": false,
     "dynamicRowScale": {},
