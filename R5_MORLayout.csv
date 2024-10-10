@@ -1,0 +1,145 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Region,Orders.Category,Orders.Segment,Sum(Orders.Quantity)
+2014,Central,Furniture,Consumer,222
+2015,Central,Furniture,Consumer,233
+2016,Central,Furniture,Consumer,235
+2017,Central,Furniture,Consumer,262
+2014,Central,Furniture,Corporate,67
+2015,Central,Furniture,Corporate,89
+2016,Central,Furniture,Corporate,241
+2017,Central,Furniture,Corporate,145
+2014,Central,Furniture,Home Office,70
+2015,Central,Furniture,Home Office,89
+2016,Central,Furniture,Home Office,80
+2017,Central,Furniture,Home Office,94
+2014,Central,Office Supplies,Consumer,669
+2015,Central,Office Supplies,Consumer,525
+2016,Central,Office Supplies,Consumer,613
+2017,Central,Office Supplies,Consumer,970
+2014,Central,Office Supplies,Corporate,238
+2015,Central,Office Supplies,Corporate,323
+2016,Central,Office Supplies,Corporate,443
+2017,Central,Office Supplies,Corporate,601
+2014,Central,Office Supplies,Home Office,184
+2015,Central,Office Supplies,Home Office,193
+2016,Central,Office Supplies,Home Office,282
+2017,Central,Office Supplies,Home Office,368
+2014,Central,Technology,Consumer,148
+2015,Central,Technology,Consumer,183
+2016,Central,Technology,Consumer,245
+2017,Central,Technology,Consumer,214
+2014,Central,Technology,Corporate,83
+2015,Central,Technology,Corporate,111
+2016,Central,Technology,Corporate,152
+2017,Central,Technology,Corporate,111
+2014,Central,Technology,Home Office,45
+2015,Central,Technology,Home Office,69
+2016,Central,Technology,Home Office,68
+2017,Central,Technology,Home Office,115
+2014,East,Furniture,Consumer,229
+2015,East,Furniture,Consumer,231
+2016,East,Furniture,Consumer,341
+2017,East,Furniture,Consumer,313
+2014,East,Furniture,Corporate,150
+2015,East,Furniture,Corporate,157
+2016,East,Furniture,Corporate,166
+2017,East,Furniture,Corporate,250
+2014,East,Furniture,Home Office,71
+2015,East,Furniture,Home Office,87
+2016,East,Furniture,Home Office,85
+2017,East,Furniture,Home Office,134
+2014,East,Office Supplies,Consumer,632
+2015,East,Office Supplies,Consumer,704
+2016,East,Office Supplies,Consumer,885
+2017,East,Office Supplies,Consumer,1024
+2014,East,Office Supplies,Corporate,436
+2015,East,Office Supplies,Corporate,432
+2016,East,Office Supplies,Corporate,568
+2017,East,Office Supplies,Corporate,599
+2014,East,Office Supplies,Home Office,168
+2015,East,Office Supplies,Home Office,316
+2016,East,Office Supplies,Home Office,336
+2017,East,Office Supplies,Home Office,362
+2014,East,Technology,Consumer,188
+2015,East,Technology,Consumer,233
+2016,East,Technology,Consumer,221
+2017,East,Technology,Consumer,346
+2014,East,Technology,Corporate,81
+2015,East,Technology,Corporate,142
+2016,East,Technology,Corporate,138
+2017,East,Technology,Corporate,239
+2014,East,Technology,Home Office,31
+2015,East,Technology,Home Office,80
+2016,East,Technology,Home Office,99
+2017,East,Technology,Home Office,144
+2014,South,Furniture,Consumer,141
+2015,South,Furniture,Consumer,146
+2016,South,Furniture,Consumer,193
+2017,South,Furniture,Consumer,215
+2014,South,Furniture,Corporate,94
+2015,South,Furniture,Corporate,128
+2016,South,Furniture,Corporate,96
+2017,South,Furniture,Corporate,97
+2014,South,Furniture,Home Office,38
+2015,South,Furniture,Home Office,18
+2016,South,Furniture,Home Office,60
+2017,South,Furniture,Home Office,65
+2014,South,Office Supplies,Consumer,341
+2015,South,Office Supplies,Consumer,424
+2016,South,Office Supplies,Consumer,505
+2017,South,Office Supplies,Consumer,629
+2014,South,Office Supplies,Corporate,349
+2015,South,Office Supplies,Corporate,311
+2016,South,Office Supplies,Corporate,279
+2017,South,Office Supplies,Corporate,342
+2014,South,Office Supplies,Home Office,110
+2015,South,Office Supplies,Home Office,75
+2016,South,Office Supplies,Home Office,211
+2017,South,Office Supplies,Home Office,224
+2014,South,Technology,Consumer,112
+2015,South,Technology,Consumer,156
+2016,South,Technology,Consumer,143
+2017,South,Technology,Consumer,173
+2014,South,Technology,Corporate,82
+2015,South,Technology,Corporate,57
+2016,South,Technology,Corporate,82
+2017,South,Technology,Corporate,99
+2014,South,Technology,Home Office,69
+2015,South,Technology,Home Office,29
+2016,South,Technology,Home Office,45
+2017,South,Technology,Home Office,71
+2014,West,Furniture,Consumer,270
+2015,West,Furniture,Consumer,333
+2016,West,Furniture,Consumer,373
+2017,West,Furniture,Consumer,429
+2014,West,Furniture,Corporate,176
+2015,West,Furniture,Corporate,159
+2016,West,Furniture,Corporate,229
+2017,West,Furniture,Corporate,251
+2014,West,Furniture,Home Office,95
+2015,West,Furniture,Home Office,105
+2016,West,Furniture,Home Office,94
+2017,West,Furniture,Home Office,182
+2014,West,Office Supplies,Consumer,775
+2015,West,Office Supplies,Consumer,824
+2016,West,Office Supplies,Consumer,939
+2017,West,Office Supplies,Consumer,1299
+2014,West,Office Supplies,Corporate,436
+2015,West,Office Supplies,Corporate,389
+2016,West,Office Supplies,Corporate,531
+2017,West,Office Supplies,Corporate,741
+2014,West,Office Supplies,Home Office,231
+2015,West,Office Supplies,Home Office,199
+2016,West,Office Supplies,Home Office,354
+2017,West,Office Supplies,Home Office,517
+2014,West,Technology,Consumer,326
+2015,West,Technology,Consumer,280
+2016,West,Technology,Consumer,221
+2017,West,Technology,Consumer,408
+2014,West,Technology,Corporate,139
+2015,West,Technology,Corporate,115
+2016,West,Technology,Corporate,181
+2017,West,Technology,Corporate,283
+2014,West,Technology,Home Office,85
+2015,West,Technology,Home Office,34
+2016,West,Technology,Home Office,103
+2017,West,Technology,Home Office,160
