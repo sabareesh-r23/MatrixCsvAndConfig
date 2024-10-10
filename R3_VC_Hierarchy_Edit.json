@@ -13,7 +13,7 @@
     "tableState": { "rowHierarchyLevel": {}, "compareMeasure": null, "expandCollapseIcon": "plusMinusSquare", "columnExpandCollapseIcon": "arrows", "columnHierarchyLevel": {}, "headerHeight": 25 },
     "measureBasedHeader": true,
     "isReadModeConfigModified": true,
-    "layout": "TABLE",
+    "layout": "HIERARCHICAL",
     "rowExpandCollapseOptions": { "rows": {}, "expandTillDescendant": {}, "gridState": null, "levelStates": [], "maxLevelExpanded": null },
     "chartTitleOption": { "show": true },
     "chartCustomTitle": {
@@ -1042,19 +1042,7 @@
       "isSubmitting": false,
       "warning": { "title": "Additional Column Configuration", "message": "", "show": false },
       "keyColumnsForAllAdditionalColumns": [],
-      "additionalColumnMappings": [
-        {
-          "datasetId": "b30e4dc8-ed9e-4f5e-88ae-11baa35d0a12",
-          "datasetKeyColumnName": "AC",
-          "datasetTableName": "SanityReport",
-          "mappingColumns": [{ "datasetColumnName": "Region", "writebackColumnName": "Year" }],
-          "renamedWBIdColumn": "AC",
-          "workspaceId": "16578ee2-acf8-4611-863a-02e5168c2883",
-          "type": 10,
-          "id": "1924"
-        }
-      ],
-      "dateAdditionalColumnMapping": { "dateKeyColumnName": "VCHierarchyR3", "defaultYear": "2024", "isCurrentYear": true, "id": "1923", "type": 20 },
+      "additionalColumnMappings": [],
       "openDateAdditionalColumnModal": false,
       "dateFormValues": { "dateKeyColumnName": "", "defaultYear": "2024", "isCurrentYear": true }
     },
@@ -1095,15 +1083,14 @@
             { "id": "Orders.Category", "name": "Category", "dataType": "TEXT" },
             { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year", "dataType": "NUMERIC" }
           ],
-          "dimensionHash": "ad0cfd1eb95ea9497bad3454e4d0ecc9",
           "measures": [
             { "id": "Sum__SanityReport__AC__U3VtKFNhbml0eVJlcG9ydC5BQyk__", "name": "Sum of AC", "dataType": "NUMERIC" },
             { "name": "Comments", "dataType": "TEXT" }
           ],
+          "reportDisplayName": "Sum of AC by Year",
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
-          "hasNativeMeasures": true,
-          "reportDisplayName": "Sum of AC by Year"
+          "hasNativeMeasures": true
         },
         "includedIdDimensions": [
           { "id": "Orders.Category", "name": "Category" },
@@ -1122,7 +1109,7 @@
       "createdBy": "91",
       "createdAt": 1727326132,
       "updatedBy": "49",
-      "updatedAt": 1728024159,
+      "updatedAt": 1728558884,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
@@ -1147,10 +1134,7 @@
     "allowNativeCellEdit": false,
     "calculatedVariables": {},
     "formFieldsVariables": { "variables": [], "onLoadFormula": "", "onDataChangeFormula": "" },
-    "filterList": [
-      { "combinator": "and", "id": "FIPNRFNC", "name": "Category", "rules": [{ "field": "Orders.Category", "operator": "isOneof", "value": "Furniture" }] },
-      { "combinator": "and", "id": "VLYHNWMJ", "name": "Year", "rules": [{ "field": "Orders.Order Date.Variation.Date Hierarchy.Year", "operator": "is", "value": "2014" }] }
-    ],
+    "filterList": [],
     "customIcons": [],
     "scrollThickness": false,
     "dynamicRowScale": {},
@@ -1286,6 +1270,6 @@
     "columns": [{ "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "label": "Year" }],
     "rows": [{ "id": "Orders.Category", "label": "Category" }]
   },
-  "currentVersion": "v3.5.0.0",
-  "visual": { "visualId": "PBOMMMBAFEKNOEH", "visualTemplateGuid": "POCILPCJGHBPNNO", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" }
+  "currentVersion": "v3.6.0.0",
+  "visual"
 }
