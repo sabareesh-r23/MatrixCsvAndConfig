@@ -2218,7 +2218,7 @@
             "createdBy": "91",
             "createdAt": 1728456882,
             "updatedBy": "55",
-            "updatedAt": 1728470838,
+            "updatedAt": 1728496294,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2266,56 +2266,7 @@
             "onLoadFormula": "",
             "onDataChangeFormula": ""
         },
-        "filterList": [
-            {
-                "combinator": "and",
-                "id": "BCGWNSBY",
-                "name": "Region",
-                "rules": [
-                    {
-                        "field": "Orders.Region",
-                        "operator": "isOneof",
-                        "value": "Central"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "VXARQAKW",
-                "name": "Segment",
-                "rules": [
-                    {
-                        "field": "Orders.Segment",
-                        "operator": "isOneof",
-                        "value": "Consumer"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "XKIFGCVP",
-                "name": "Year",
-                "rules": [
-                    {
-                        "field": "Orders.Order Date.Variation.Date Hierarchy.Year",
-                        "operator": "is",
-                        "value": "2014"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "ZIHDYHFR",
-                "name": "Category",
-                "rules": [
-                    {
-                        "field": "Orders.Category",
-                        "operator": "isOneof",
-                        "value": "Furniture"
-                    }
-                ]
-            }
-        ],
+        "filterList": [],
         "customIcons": [],
         "scrollThickness": false,
         "dynamicRowScale": {},
