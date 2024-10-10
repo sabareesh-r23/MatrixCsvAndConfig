@@ -1,0 +1,5 @@
+Financials.Discount Band,Sum(Financials.Discounts),Sum(Financials.Gross Sales)
+High,5317026.275,42689513
+Medium,3002546.165,41782978
+Low,885675.8,35515455
+None,0,7943655
