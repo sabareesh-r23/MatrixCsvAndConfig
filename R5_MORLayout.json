@@ -1704,7 +1704,8 @@
                     "optionStyle": "chip",
                     "schedule": {},
                     "isSyncRequired": false,
-                    "selectedOptions": {}
+                    "selectedOptions": {},
+                    "isPreventNull": false
                 },
                 "columnId": "46958",
                 "accessControl": {
@@ -1733,7 +1734,8 @@
                         "type": "Any Value"
                     },
                     "textLength": {},
-                    "selectedOptions": {}
+                    "selectedOptions": {},
+                    "isPreventNull": false
                 },
                 "columnId": "46957",
                 "accessControl": {
@@ -2006,7 +2008,6 @@
                             "dataType": "NUMERIC"
                         }
                     ],
-                    "dimensionHash": "3247c215e84db29466d4ab6fdc4c911c",
                     "measures": [
                         {
                             "id": "Sum__Orders__Quantity__U3VtKE9yZGVycy5RdWFudGl0eSk__",
@@ -2038,10 +2039,10 @@
                             "dataType": "TEXT"
                         }
                     ],
+                    "reportDisplayName": " by Category, Sub-Category",
                     "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
-                    "hasNativeMeasures": true,
-                    "reportDisplayName": " by Category, Sub-Category"
+                    "hasNativeMeasures": true
                 },
                 "includedIdDimensions": [
                     {
@@ -2081,7 +2082,7 @@
             "createdBy": "91",
             "createdAt": 1728454875,
             "updatedBy": "55",
-            "updatedAt": 1728545118,
+            "updatedAt": 1728549667,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
