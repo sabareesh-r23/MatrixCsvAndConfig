@@ -2084,7 +2084,7 @@
             "createdBy": "91",
             "createdAt": 1728454875,
             "updatedBy": "55",
-            "updatedAt": 1728536206,
+            "updatedAt": 1728541145,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2135,19 +2135,7 @@
         "filterList": [
             {
                 "combinator": "and",
-                "id": "YWOERJIC",
-                "name": "Category",
-                "rules": [
-                    {
-                        "field": "Orders.Category",
-                        "operator": "isOneof",
-                        "value": "Furniture"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "SWHJHDNY",
+                "id": "TQSDKFLW",
                 "name": "Region",
                 "rules": [
                     {
@@ -2159,19 +2147,19 @@
             },
             {
                 "combinator": "and",
-                "id": "JJBVYNLI",
-                "name": "Segment",
+                "id": "SHFBJVEK",
+                "name": "Category",
                 "rules": [
                     {
-                        "field": "Orders.Segment",
+                        "field": "Orders.Category",
                         "operator": "isOneof",
-                        "value": "Consumer"
+                        "value": "Furniture"
                     }
                 ]
             },
             {
                 "combinator": "and",
-                "id": "ADOWHFBX",
+                "id": "UOJOLLKA",
                 "name": "Year",
                 "rules": [
                     {
@@ -2183,13 +2171,13 @@
             },
             {
                 "combinator": "and",
-                "id": "OFSQYMFQ",
-                "name": "Sub-Category",
+                "id": "DQFAXLCH",
+                "name": "Segment",
                 "rules": [
                     {
-                        "field": "Orders.Sub-Category",
+                        "field": "Orders.Segment",
                         "operator": "isOneof",
-                        "value": "Bookcases"
+                        "value": "Consumer"
                     }
                 ]
             }
