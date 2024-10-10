@@ -1,0 +1,4525 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.Region,Orders.City,Sum(Orders.Sales)
+2014,Consumer,Central,Aberdeen,
+2015,Consumer,Central,Aberdeen,
+2016,Consumer,Central,Aberdeen,
+2017,Consumer,Central,Aberdeen,25.5
+2014,Consumer,Central,Abilene,
+2015,Consumer,Central,Abilene,
+2016,Consumer,Central,Abilene,
+2017,Consumer,Central,Abilene,1.3919999999999997
+2014,Consumer,Central,Allen,
+2015,Consumer,Central,Allen,290.20599999999996
+2016,Consumer,Central,Allen,
+2017,Consumer,Central,Allen,
+2014,Consumer,Central,Amarillo,
+2015,Consumer,Central,Amarillo,3024.478
+2016,Consumer,Central,Amarillo,523.604
+2017,Consumer,Central,Amarillo,
+2014,Consumer,Central,Apple Valley,129.3
+2015,Consumer,Central,Apple Valley,
+2016,Consumer,Central,Apple Valley,
+2017,Consumer,Central,Apple Valley,8.64
+2014,Consumer,Central,Appleton,
+2015,Consumer,Central,Appleton,
+2016,Consumer,Central,Appleton,1649.75
+2017,Consumer,Central,Appleton,
+2014,Consumer,Central,Arlington,12.624
+2015,Consumer,Central,Arlington,2645.0209999999997
+2016,Consumer,Central,Arlington,
+2017,Consumer,Central,Arlington,56.512
+2014,Consumer,Central,Arlington Heights,
+2015,Consumer,Central,Arlington Heights,
+2016,Consumer,Central,Arlington Heights,14.111999999999998
+2017,Consumer,Central,Arlington Heights,
+2014,Consumer,Central,Aurora,268.935
+2015,Consumer,Central,Aurora,349.082
+2016,Consumer,Central,Aurora,186.048
+2017,Consumer,Central,Aurora,3230.053
+2014,Consumer,Central,Austin,
+2015,Consumer,Central,Austin,611.524
+2016,Consumer,Central,Austin,
+2017,Consumer,Central,Austin,1444.278
+2014,Consumer,Central,Beaumont,459.348
+2015,Consumer,Central,Beaumont,
+2016,Consumer,Central,Beaumont,
+2017,Consumer,Central,Beaumont,
+2014,Consumer,Central,Bloomington,650.1
+2015,Consumer,Central,Bloomington,252.088
+2016,Consumer,Central,Bloomington,262.8
+2017,Consumer,Central,Bloomington,39.816
+2014,Consumer,Central,Bolingbrook,
+2015,Consumer,Central,Bolingbrook,59.848000000000006
+2016,Consumer,Central,Bolingbrook,
+2017,Consumer,Central,Bolingbrook,148.48
+2014,Consumer,Central,Broken Arrow,
+2015,Consumer,Central,Broken Arrow,
+2016,Consumer,Central,Broken Arrow,12.86
+2017,Consumer,Central,Broken Arrow,
+2014,Consumer,Central,Brownsville,
+2015,Consumer,Central,Brownsville,
+2016,Consumer,Central,Brownsville,
+2017,Consumer,Central,Brownsville,329.47679999999997
+2014,Consumer,Central,Buffalo Grove,831.399
+2015,Consumer,Central,Buffalo Grove,
+2016,Consumer,Central,Buffalo Grove,
+2017,Consumer,Central,Buffalo Grove,
+2014,Consumer,Central,Burlington,
+2015,Consumer,Central,Burlington,
+2016,Consumer,Central,Burlington,
+2017,Consumer,Central,Burlington,44.75
+2014,Consumer,Central,Carol Stream,
+2015,Consumer,Central,Carol Stream,1305.81
+2016,Consumer,Central,Carol Stream,
+2017,Consumer,Central,Carol Stream,
+2014,Consumer,Central,Carrollton,153.112
+2015,Consumer,Central,Carrollton,351.3359999999999
+2016,Consumer,Central,Carrollton,1399.9440000000002
+2017,Consumer,Central,Carrollton,186.6
+2014,Consumer,Central,Cedar Hill,7.080000000000001
+2015,Consumer,Central,Cedar Hill,
+2016,Consumer,Central,Cedar Hill,
+2017,Consumer,Central,Cedar Hill,
+2014,Consumer,Central,Cedar Rapids,
+2015,Consumer,Central,Cedar Rapids,
+2016,Consumer,Central,Cedar Rapids,278.4
+2017,Consumer,Central,Cedar Rapids,
+2014,Consumer,Central,Champaign,
+2015,Consumer,Central,Champaign,151.96
+2016,Consumer,Central,Champaign,
+2017,Consumer,Central,Champaign,
+2014,Consumer,Central,Chicago,7949.391999999998
+2015,Consumer,Central,Chicago,3300.505000000001
+2016,Consumer,Central,Chicago,8643.927000000001
+2017,Consumer,Central,Chicago,5239.979
+2014,Consumer,Central,College Station,
+2015,Consumer,Central,College Station,
+2016,Consumer,Central,College Station,
+2017,Consumer,Central,College Station,291.04200000000003
+2014,Consumer,Central,Columbia,535.27
+2015,Consumer,Central,Columbia,
+2016,Consumer,Central,Columbia,
+2017,Consumer,Central,Columbia,
+2014,Consumer,Central,Columbus,
+2015,Consumer,Central,Columbus,1926.98
+2016,Consumer,Central,Columbus,
+2017,Consumer,Central,Columbus,2371.3
+2014,Consumer,Central,Coon Rapids,503.13
+2015,Consumer,Central,Coon Rapids,
+2016,Consumer,Central,Coon Rapids,
+2017,Consumer,Central,Coon Rapids,
+2014,Consumer,Central,Coppell,
+2015,Consumer,Central,Coppell,
+2016,Consumer,Central,Coppell,
+2017,Consumer,Central,Coppell,40.096000000000004
+2014,Consumer,Central,Cottage Grove,144.35999999999999
+2015,Consumer,Central,Cottage Grove,
+2016,Consumer,Central,Cottage Grove,
+2017,Consumer,Central,Cottage Grove,
+2014,Consumer,Central,Dallas,127.076
+2015,Consumer,Central,Dallas,2071.6216
+2016,Consumer,Central,Dallas,2426.2288
+2017,Consumer,Central,Dallas,3839.6916
+2014,Consumer,Central,Dearborn Heights,770.61
+2015,Consumer,Central,Dearborn Heights,
+2016,Consumer,Central,Dearborn Heights,
+2017,Consumer,Central,Dearborn Heights,280.96
+2014,Consumer,Central,Decatur,247.47199999999998
+2015,Consumer,Central,Decatur,479.952
+2016,Consumer,Central,Decatur,1008.4929999999999
+2017,Consumer,Central,Decatur,705.002
+2014,Consumer,Central,Des Moines,1190.84
+2015,Consumer,Central,Des Moines,
+2016,Consumer,Central,Des Moines,6.48
+2017,Consumer,Central,Des Moines,
+2014,Consumer,Central,Des Plaines,1109.3719999999998
+2015,Consumer,Central,Des Plaines,
+2016,Consumer,Central,Des Plaines,
+2017,Consumer,Central,Des Plaines,383.84000000000003
+2014,Consumer,Central,Detroit,443.6
+2015,Consumer,Central,Detroit,3237.89
+2016,Consumer,Central,Detroit,14715.08
+2017,Consumer,Central,Detroit,4794.889999999999
+2014,Consumer,Central,Dubuque,
+2015,Consumer,Central,Dubuque,263.96
+2016,Consumer,Central,Dubuque,
+2017,Consumer,Central,Dubuque,
+2014,Consumer,Central,Eagan,
+2015,Consumer,Central,Eagan,
+2016,Consumer,Central,Eagan,
+2017,Consumer,Central,Eagan,75.9
+2014,Consumer,Central,Eau Claire,
+2015,Consumer,Central,Eau Claire,435.53999999999996
+2016,Consumer,Central,Eau Claire,1085.87
+2017,Consumer,Central,Eau Claire,
+2014,Consumer,Central,Edinburg,
+2015,Consumer,Central,Edinburg,
+2016,Consumer,Central,Edinburg,85.908
+2017,Consumer,Central,Edinburg,2.368
+2014,Consumer,Central,Edmond,
+2015,Consumer,Central,Edmond,
+2016,Consumer,Central,Edmond,959.5500000000001
+2017,Consumer,Central,Edmond,
+2014,Consumer,Central,El Paso,2001.0339999999999
+2015,Consumer,Central,El Paso,47.51599999999999
+2016,Consumer,Central,El Paso,17.856
+2017,Consumer,Central,El Paso,1322.75
+2014,Consumer,Central,Elkhart,
+2015,Consumer,Central,Elkhart,
+2016,Consumer,Central,Elkhart,
+2017,Consumer,Central,Elkhart,171.43
+2014,Consumer,Central,Evanston,258.279
+2015,Consumer,Central,Evanston,1483.528
+2016,Consumer,Central,Evanston,11.992
+2017,Consumer,Central,Evanston,
+2014,Consumer,Central,Fargo,
+2015,Consumer,Central,Fargo,
+2016,Consumer,Central,Fargo,
+2017,Consumer,Central,Fargo,891.53
+2014,Consumer,Central,Fort Worth,2233.12
+2015,Consumer,Central,Fort Worth,
+2016,Consumer,Central,Fort Worth,477.14199999999994
+2017,Consumer,Central,Fort Worth,1.988
+2014,Consumer,Central,Frankfort,
+2015,Consumer,Central,Frankfort,20.767999999999997
+2016,Consumer,Central,Frankfort,76.864
+2017,Consumer,Central,Frankfort,
+2014,Consumer,Central,Freeport,
+2015,Consumer,Central,Freeport,
+2016,Consumer,Central,Freeport,
+2017,Consumer,Central,Freeport,170.57199999999997
+2014,Consumer,Central,Fremont,
+2015,Consumer,Central,Fremont,
+2016,Consumer,Central,Fremont,33.9
+2017,Consumer,Central,Fremont,104.85
+2014,Consumer,Central,Frisco,
+2015,Consumer,Central,Frisco,
+2016,Consumer,Central,Frisco,
+2017,Consumer,Central,Frisco,30.336000000000006
+2014,Consumer,Central,Garden City,
+2015,Consumer,Central,Garden City,21.11
+2016,Consumer,Central,Garden City,
+2017,Consumer,Central,Garden City,
+2014,Consumer,Central,Garland,
+2015,Consumer,Central,Garland,
+2016,Consumer,Central,Garland,
+2017,Consumer,Central,Garland,28.776
+2014,Consumer,Central,Gladstone,
+2015,Consumer,Central,Gladstone,
+2016,Consumer,Central,Gladstone,
+2017,Consumer,Central,Gladstone,164.34
+2014,Consumer,Central,Glenview,
+2015,Consumer,Central,Glenview,158.376
+2016,Consumer,Central,Glenview,
+2017,Consumer,Central,Glenview,
+2014,Consumer,Central,Grand Island,
+2015,Consumer,Central,Grand Island,
+2016,Consumer,Central,Grand Island,
+2017,Consumer,Central,Grand Island,15.96
+2014,Consumer,Central,Grand Prairie,84.87199999999999
+2015,Consumer,Central,Grand Prairie,271.756
+2016,Consumer,Central,Grand Prairie,
+2017,Consumer,Central,Grand Prairie,536.8580000000001
+2014,Consumer,Central,Grand Rapids,
+2015,Consumer,Central,Grand Rapids,
+2016,Consumer,Central,Grand Rapids,217.24
+2017,Consumer,Central,Grand Rapids,54.900000000000006
+2014,Consumer,Central,Green Bay,468.90000000000003
+2015,Consumer,Central,Green Bay,
+2016,Consumer,Central,Green Bay,
+2017,Consumer,Central,Green Bay,
+2014,Consumer,Central,Greenwood,
+2015,Consumer,Central,Greenwood,
+2016,Consumer,Central,Greenwood,1424.9
+2017,Consumer,Central,Greenwood,
+2014,Consumer,Central,Harlingen,
+2015,Consumer,Central,Harlingen,
+2016,Consumer,Central,Harlingen,392.06
+2017,Consumer,Central,Harlingen,79.34400000000001
+2014,Consumer,Central,Highland Park,
+2015,Consumer,Central,Highland Park,1454.838
+2016,Consumer,Central,Highland Park,
+2017,Consumer,Central,Highland Park,
+2014,Consumer,Central,Holland,
+2015,Consumer,Central,Holland,7.5
+2016,Consumer,Central,Holland,
+2017,Consumer,Central,Holland,
+2014,Consumer,Central,Houston,8741.538999999999
+2015,Consumer,Central,Houston,6519.227200000001
+2016,Consumer,Central,Houston,9731.7644
+2017,Consumer,Central,Houston,9053.534
+2014,Consumer,Central,Huntsville,180.014
+2015,Consumer,Central,Huntsville,1061.328
+2016,Consumer,Central,Huntsville,
+2017,Consumer,Central,Huntsville,1098.6299999999999
+2014,Consumer,Central,Independence,
+2015,Consumer,Central,Independence,
+2016,Consumer,Central,Independence,
+2017,Consumer,Central,Independence,839.4300000000001
+2014,Consumer,Central,Indianapolis,1107.66
+2015,Consumer,Central,Indianapolis,227.57
+2016,Consumer,Central,Indianapolis,
+2017,Consumer,Central,Indianapolis,382.71
+2014,Consumer,Central,Irving,88.77600000000001
+2015,Consumer,Central,Irving,
+2016,Consumer,Central,Irving,500.788
+2017,Consumer,Central,Irving,
+2014,Consumer,Central,Jackson,46.8
+2015,Consumer,Central,Jackson,
+2016,Consumer,Central,Jackson,132.809
+2017,Consumer,Central,Jackson,5821.75
+2014,Consumer,Central,Keller,
+2015,Consumer,Central,Keller,
+2016,Consumer,Central,Keller,
+2017,Consumer,Central,Keller,6
+2014,Consumer,Central,Kenosha,
+2015,Consumer,Central,Kenosha,2531.8799999999997
+2016,Consumer,Central,Kenosha,
+2017,Consumer,Central,Kenosha,
+2014,Consumer,Central,Kirkwood,
+2015,Consumer,Central,Kirkwood,241.34
+2016,Consumer,Central,Kirkwood,
+2017,Consumer,Central,Kirkwood,
+2014,Consumer,Central,La Crosse,
+2015,Consumer,Central,La Crosse,
+2016,Consumer,Central,La Crosse,56.82000000000001
+2017,Consumer,Central,La Crosse,
+2014,Consumer,Central,La Porte,
+2015,Consumer,Central,La Porte,
+2016,Consumer,Central,La Porte,142.142
+2017,Consumer,Central,La Porte,526.45
+2014,Consumer,Central,Lafayette,5.9399999999999995
+2015,Consumer,Central,Lafayette,
+2016,Consumer,Central,Lafayette,
+2017,Consumer,Central,Lafayette,739.92
+2014,Consumer,Central,Lakeville,249.92000000000002
+2015,Consumer,Central,Lakeville,
+2016,Consumer,Central,Lakeville,
+2017,Consumer,Central,Lakeville,109.52000000000001
+2014,Consumer,Central,Lansing,
+2015,Consumer,Central,Lansing,1273.6060000000002
+2016,Consumer,Central,Lansing,67
+2017,Consumer,Central,Lansing,
+2014,Consumer,Central,Laredo,40.544000000000004
+2015,Consumer,Central,Laredo,
+2016,Consumer,Central,Laredo,374.182
+2017,Consumer,Central,Laredo,
+2014,Consumer,Central,Lawrence,
+2015,Consumer,Central,Lawrence,508.11000000000007
+2016,Consumer,Central,Lawrence,35.88
+2017,Consumer,Central,Lawrence,794.07
+2014,Consumer,Central,Lawton,475.42
+2015,Consumer,Central,Lawton,
+2016,Consumer,Central,Lawton,
+2017,Consumer,Central,Lawton,582.07
+2014,Consumer,Central,League City,
+2015,Consumer,Central,League City,
+2016,Consumer,Central,League City,
+2017,Consumer,Central,League City,321.202
+2014,Consumer,Central,Lubbock,25.16
+2015,Consumer,Central,Lubbock,546.7920000000001
+2016,Consumer,Central,Lubbock,
+2017,Consumer,Central,Lubbock,
+2014,Consumer,Central,Madison,3520.36
+2015,Consumer,Central,Madison,
+2016,Consumer,Central,Madison,10.07
+2017,Consumer,Central,Madison,1816.36
+2014,Consumer,Central,Mansfield,
+2015,Consumer,Central,Mansfield,
+2016,Consumer,Central,Mansfield,
+2017,Consumer,Central,Mansfield,517.4050000000001
+2014,Consumer,Central,Marion,
+2015,Consumer,Central,Marion,
+2016,Consumer,Central,Marion,
+2017,Consumer,Central,Marion,136.2
+2014,Consumer,Central,Mcallen,
+2015,Consumer,Central,Mcallen,
+2016,Consumer,Central,Mcallen,203.648
+2017,Consumer,Central,Mcallen,
+2014,Consumer,Central,Midland,1276.53
+2015,Consumer,Central,Midland,
+2016,Consumer,Central,Midland,
+2017,Consumer,Central,Midland,
+2014,Consumer,Central,Milwaukee,34.79
+2015,Consumer,Central,Milwaukee,1430.1100000000001
+2016,Consumer,Central,Milwaukee,781.39
+2017,Consumer,Central,Milwaukee,38.54
+2014,Consumer,Central,Minneapolis,10563.94
+2015,Consumer,Central,Minneapolis,3213.01
+2016,Consumer,Central,Minneapolis,
+2017,Consumer,Central,Minneapolis,2259.1
+2014,Consumer,Central,Mishawaka,647.84
+2015,Consumer,Central,Mishawaka,
+2016,Consumer,Central,Mishawaka,128.39999999999998
+2017,Consumer,Central,Mishawaka,
+2014,Consumer,Central,Moorhead,
+2015,Consumer,Central,Moorhead,
+2016,Consumer,Central,Moorhead,
+2017,Consumer,Central,Moorhead,63.96
+2014,Consumer,Central,Mount Pleasant,
+2015,Consumer,Central,Mount Pleasant,17.14
+2016,Consumer,Central,Mount Pleasant,
+2017,Consumer,Central,Mount Pleasant,
+2014,Consumer,Central,Naperville,
+2015,Consumer,Central,Naperville,613.115
+2016,Consumer,Central,Naperville,
+2017,Consumer,Central,Naperville,239.96000000000004
+2014,Consumer,Central,New Albany,
+2015,Consumer,Central,New Albany,209.54999999999998
+2016,Consumer,Central,New Albany,
+2017,Consumer,Central,New Albany,
+2014,Consumer,Central,New Castle,
+2015,Consumer,Central,New Castle,84.61
+2016,Consumer,Central,New Castle,
+2017,Consumer,Central,New Castle,
+2014,Consumer,Central,Noblesville,
+2015,Consumer,Central,Noblesville,412.23999999999995
+2016,Consumer,Central,Noblesville,
+2017,Consumer,Central,Noblesville,
+2014,Consumer,Central,Norfolk,
+2015,Consumer,Central,Norfolk,17.43
+2016,Consumer,Central,Norfolk,
+2017,Consumer,Central,Norfolk,
+2014,Consumer,Central,Norman,
+2015,Consumer,Central,Norman,
+2016,Consumer,Central,Norman,1287.45
+2017,Consumer,Central,Norman,
+2014,Consumer,Central,Oklahoma City,479.96
+2015,Consumer,Central,Oklahoma City,1971.4599999999998
+2016,Consumer,Central,Oklahoma City,574.4999999999999
+2017,Consumer,Central,Oklahoma City,1299.7600000000002
+2014,Consumer,Central,Omaha,35.98
+2015,Consumer,Central,Omaha,178.37
+2016,Consumer,Central,Omaha,2374.73
+2017,Consumer,Central,Omaha,2500.03
+2014,Consumer,Central,Oswego,321.97799999999995
+2015,Consumer,Central,Oswego,
+2016,Consumer,Central,Oswego,
+2017,Consumer,Central,Oswego,
+2014,Consumer,Central,Park Ridge,
+2015,Consumer,Central,Park Ridge,
+2016,Consumer,Central,Park Ridge,
+2017,Consumer,Central,Park Ridge,143.85600000000002
+2014,Consumer,Central,Pasadena,6.927999999999998
+2015,Consumer,Central,Pasadena,
+2016,Consumer,Central,Pasadena,
+2017,Consumer,Central,Pasadena,212.99200000000002
+2014,Consumer,Central,Pearland,
+2015,Consumer,Central,Pearland,
+2016,Consumer,Central,Pearland,
+2017,Consumer,Central,Pearland,470.3760000000001
+2014,Consumer,Central,Peoria,
+2015,Consumer,Central,Peoria,
+2016,Consumer,Central,Peoria,3.979999999999999
+2017,Consumer,Central,Peoria,
+2014,Consumer,Central,Pharr,
+2015,Consumer,Central,Pharr,
+2016,Consumer,Central,Pharr,
+2017,Consumer,Central,Pharr,124.404
+2014,Consumer,Central,Plano,2244.3706
+2015,Consumer,Central,Plano,
+2016,Consumer,Central,Plano,
+2017,Consumer,Central,Plano,1262.532
+2014,Consumer,Central,Port Arthur,
+2015,Consumer,Central,Port Arthur,
+2016,Consumer,Central,Port Arthur,34.048
+2017,Consumer,Central,Port Arthur,
+2014,Consumer,Central,Portage,16.28
+2015,Consumer,Central,Portage,
+2016,Consumer,Central,Portage,
+2017,Consumer,Central,Portage,
+2014,Consumer,Central,Quincy,
+2015,Consumer,Central,Quincy,131.584
+2016,Consumer,Central,Quincy,1.9639999999999995
+2017,Consumer,Central,Quincy,19.56
+2014,Consumer,Central,Richmond,207.24
+2015,Consumer,Central,Richmond,11.36
+2016,Consumer,Central,Richmond,1401.2400000000002
+2017,Consumer,Central,Richmond,
+2014,Consumer,Central,Rochester,
+2015,Consumer,Central,Rochester,
+2016,Consumer,Central,Rochester,23.92
+2017,Consumer,Central,Rochester,1890.4800000000005
+2014,Consumer,Central,Rochester Hills,
+2015,Consumer,Central,Rochester Hills,
+2016,Consumer,Central,Rochester Hills,
+2017,Consumer,Central,Rochester Hills,132.52
+2014,Consumer,Central,Rockford,
+2015,Consumer,Central,Rockford,128.744
+2016,Consumer,Central,Rockford,2067.7960000000003
+2017,Consumer,Central,Rockford,33.56799999999999
+2014,Consumer,Central,Romeoville,8.951999999999998
+2015,Consumer,Central,Romeoville,
+2016,Consumer,Central,Romeoville,
+2017,Consumer,Central,Romeoville,
+2014,Consumer,Central,Roseville,
+2015,Consumer,Central,Roseville,
+2016,Consumer,Central,Roseville,
+2017,Consumer,Central,Roseville,21.84
+2014,Consumer,Central,Round Rock,
+2015,Consumer,Central,Round Rock,
+2016,Consumer,Central,Round Rock,4406.072
+2017,Consumer,Central,Round Rock,106.0208
+2014,Consumer,Central,Royal Oak,22.38
+2015,Consumer,Central,Royal Oak,12.96
+2016,Consumer,Central,Royal Oak,
+2017,Consumer,Central,Royal Oak,
+2014,Consumer,Central,Saginaw,
+2015,Consumer,Central,Saginaw,
+2016,Consumer,Central,Saginaw,
+2017,Consumer,Central,Saginaw,376.1
+2014,Consumer,Central,Saint Charles,11.56
+2015,Consumer,Central,Saint Charles,
+2016,Consumer,Central,Saint Charles,30.344
+2017,Consumer,Central,Saint Charles,248.82
+2014,Consumer,Central,Saint Louis,111.79
+2015,Consumer,Central,Saint Louis,
+2016,Consumer,Central,Saint Louis,
+2017,Consumer,Central,Saint Louis,95.66000000000001
+2014,Consumer,Central,San Angelo,
+2015,Consumer,Central,San Angelo,
+2016,Consumer,Central,San Angelo,345.324
+2017,Consumer,Central,San Angelo,
+2014,Consumer,Central,San Antonio,13374.112999999998
+2015,Consumer,Central,San Antonio,1457.356
+2016,Consumer,Central,San Antonio,1790.879
+2017,Consumer,Central,San Antonio,1308.1720000000003
+2014,Consumer,Central,Sioux Falls,
+2015,Consumer,Central,Sioux Falls,
+2016,Consumer,Central,Sioux Falls,
+2017,Consumer,Central,Sioux Falls,20.23
+2014,Consumer,Central,Skokie,62.96800000000001
+2015,Consumer,Central,Skokie,
+2016,Consumer,Central,Skokie,
+2017,Consumer,Central,Skokie,469.352
+2014,Consumer,Central,South Bend,
+2015,Consumer,Central,South Bend,1238.3300000000002
+2016,Consumer,Central,South Bend,
+2017,Consumer,Central,South Bend,
+2014,Consumer,Central,Springfield,
+2015,Consumer,Central,Springfield,1085.16
+2016,Consumer,Central,Springfield,886.0299999999999
+2017,Consumer,Central,Springfield,931.5200000000001
+2014,Consumer,Central,Sterling Heights,
+2015,Consumer,Central,Sterling Heights,
+2016,Consumer,Central,Sterling Heights,11.68
+2017,Consumer,Central,Sterling Heights,
+2014,Consumer,Central,Taylor,
+2015,Consumer,Central,Taylor,
+2016,Consumer,Central,Taylor,301.96
+2017,Consumer,Central,Taylor,
+2014,Consumer,Central,Texas City,489.22999999999996
+2015,Consumer,Central,Texas City,301.742
+2016,Consumer,Central,Texas City,
+2017,Consumer,Central,Texas City,
+2014,Consumer,Central,The Colony,
+2015,Consumer,Central,The Colony,
+2016,Consumer,Central,The Colony,142.16
+2017,Consumer,Central,The Colony,
+2014,Consumer,Central,Trenton,
+2015,Consumer,Central,Trenton,
+2016,Consumer,Central,Trenton,338.53999999999996
+2017,Consumer,Central,Trenton,275.65000000000003
+2014,Consumer,Central,Tulsa,1040.1899999999998
+2015,Consumer,Central,Tulsa,14.940000000000001
+2016,Consumer,Central,Tulsa,277.67
+2017,Consumer,Central,Tulsa,2585.9400000000005
+2014,Consumer,Central,Tyler,51.18399999999998
+2015,Consumer,Central,Tyler,
+2016,Consumer,Central,Tyler,
+2017,Consumer,Central,Tyler,296.02199999999993
+2014,Consumer,Central,Urbandale,
+2015,Consumer,Central,Urbandale,
+2016,Consumer,Central,Urbandale,103.19999999999999
+2017,Consumer,Central,Urbandale,45.92
+2014,Consumer,Central,Waco,
+2015,Consumer,Central,Waco,
+2016,Consumer,Central,Waco,23.968000000000004
+2017,Consumer,Central,Waco,581.5831999999999
+2014,Consumer,Central,Waterloo,
+2015,Consumer,Central,Waterloo,
+2016,Consumer,Central,Waterloo,
+2017,Consumer,Central,Waterloo,30.32
+2014,Consumer,Central,Waukesha,
+2015,Consumer,Central,Waukesha,
+2016,Consumer,Central,Waukesha,54.5
+2017,Consumer,Central,Waukesha,
+2014,Consumer,Central,Wausau,317.47999999999996
+2015,Consumer,Central,Wausau,
+2016,Consumer,Central,Wausau,
+2017,Consumer,Central,Wausau,
+2014,Consumer,Central,Westland,920.576
+2015,Consumer,Central,Westland,
+2016,Consumer,Central,Westland,1137.4
+2017,Consumer,Central,Westland,
+2014,Consumer,Central,Wheeling,
+2015,Consumer,Central,Wheeling,
+2016,Consumer,Central,Wheeling,615.606
+2017,Consumer,Central,Wheeling,121.536
+2014,Consumer,Central,Wichita,
+2015,Consumer,Central,Wichita,
+2016,Consumer,Central,Wichita,396.16999999999996
+2017,Consumer,Central,Wichita,279.9
+2014,Consumer,Central,Woodstock,8.849999999999998
+2015,Consumer,Central,Woodstock,
+2016,Consumer,Central,Woodstock,
+2017,Consumer,Central,Woodstock,
+2014,Consumer,East,Akron,165.168
+2015,Consumer,East,Akron,427.548
+2016,Consumer,East,Akron,
+2017,Consumer,East,Akron,292.472
+2014,Consumer,East,Allentown,
+2015,Consumer,East,Allentown,
+2016,Consumer,East,Allentown,15.808000000000002
+2017,Consumer,East,Allentown,
+2014,Consumer,East,Andover,
+2015,Consumer,East,Andover,
+2016,Consumer,East,Andover,435.85
+2017,Consumer,East,Andover,
+2014,Consumer,East,Auburn,
+2015,Consumer,East,Auburn,193.26000000000002
+2016,Consumer,East,Auburn,605.9180000000001
+2017,Consumer,East,Auburn,
+2014,Consumer,East,Baltimore,116.28
+2015,Consumer,East,Baltimore,8.22
+2016,Consumer,East,Baltimore,883.5019999999998
+2017,Consumer,East,Baltimore,1424.9899999999998
+2014,Consumer,East,Belleville,
+2015,Consumer,East,Belleville,
+2016,Consumer,East,Belleville,227.96
+2017,Consumer,East,Belleville,399.96999999999997
+2014,Consumer,East,Bethlehem,
+2015,Consumer,East,Bethlehem,
+2016,Consumer,East,Bethlehem,1556.6940000000002
+2017,Consumer,East,Bethlehem,
+2014,Consumer,East,Bowling Green,264.32
+2015,Consumer,East,Bowling Green,469.398
+2016,Consumer,East,Bowling Green,5.553000000000001
+2017,Consumer,East,Bowling Green,
+2014,Consumer,East,Bristol,121.24
+2015,Consumer,East,Bristol,
+2016,Consumer,East,Bristol,
+2017,Consumer,East,Bristol,
+2014,Consumer,East,Buffalo,6224.4980000000005
+2015,Consumer,East,Buffalo,82.74
+2016,Consumer,East,Buffalo,835.1700000000001
+2017,Consumer,East,Buffalo,
+2014,Consumer,East,Burlington,
+2015,Consumer,East,Burlington,715.2
+2016,Consumer,East,Burlington,
+2017,Consumer,East,Burlington,637.1799999999998
+2014,Consumer,East,Chester,1106.7699999999998
+2015,Consumer,East,Chester,
+2016,Consumer,East,Chester,
+2017,Consumer,East,Chester,
+2014,Consumer,East,Cincinnati,35.384
+2015,Consumer,East,Cincinnati,53.040000000000006
+2016,Consumer,East,Cincinnati,112.13500000000002
+2017,Consumer,East,Cincinnati,427.25300000000004
+2014,Consumer,East,Cleveland,1110.6680000000001
+2015,Consumer,East,Cleveland,794.82
+2016,Consumer,East,Cleveland,2072.486
+2017,Consumer,East,Cleveland,324.81100000000004
+2014,Consumer,East,Clifton,336.82
+2015,Consumer,East,Clifton,
+2016,Consumer,East,Clifton,
+2017,Consumer,East,Clifton,
+2014,Consumer,East,Clinton,
+2015,Consumer,East,Clinton,1133.8200000000002
+2016,Consumer,East,Clinton,573.741
+2017,Consumer,East,Clinton,23.12
+2014,Consumer,East,Columbia,587.14
+2015,Consumer,East,Columbia,2541.98
+2016,Consumer,East,Columbia,2073.35
+2017,Consumer,East,Columbia,174.3
+2014,Consumer,East,Columbus,2407.5519999999997
+2015,Consumer,East,Columbus,707.338
+2016,Consumer,East,Columbus,2466.401
+2017,Consumer,East,Columbus,3609.6049999999996
+2014,Consumer,East,Concord,
+2015,Consumer,East,Concord,103.06
+2016,Consumer,East,Concord,
+2017,Consumer,East,Concord,102.3
+2014,Consumer,East,Cranston,2116.5060000000003
+2015,Consumer,East,Cranston,
+2016,Consumer,East,Cranston,
+2017,Consumer,East,Cranston,102.93
+2014,Consumer,East,Cuyahoga Falls,
+2015,Consumer,East,Cuyahoga Falls,
+2016,Consumer,East,Cuyahoga Falls,2.2140000000000004
+2017,Consumer,East,Cuyahoga Falls,18.528000000000002
+2014,Consumer,East,Dover,74.26
+2015,Consumer,East,Dover,784.56
+2016,Consumer,East,Dover,66.8
+2017,Consumer,East,Dover,
+2014,Consumer,East,Dublin,
+2015,Consumer,East,Dublin,627.9240000000001
+2016,Consumer,East,Dublin,
+2017,Consumer,East,Dublin,693.79
+2014,Consumer,East,East Orange,
+2015,Consumer,East,East Orange,
+2016,Consumer,East,East Orange,345.47
+2017,Consumer,East,East Orange,31.799999999999997
+2014,Consumer,East,Everett,1885.27
+2015,Consumer,East,Everett,
+2016,Consumer,East,Everett,
+2017,Consumer,East,Everett,1472.85
+2014,Consumer,East,Fairfield,1568.012
+2015,Consumer,East,Fairfield,
+2016,Consumer,East,Fairfield,1577.9170000000001
+2017,Consumer,East,Fairfield,1539.821
+2014,Consumer,East,Franklin,700.056
+2015,Consumer,East,Franklin,11.65
+2016,Consumer,East,Franklin,1517.049
+2017,Consumer,East,Franklin,
+2014,Consumer,East,Freeport,17.248
+2015,Consumer,East,Freeport,506.08200000000005
+2016,Consumer,East,Freeport,
+2017,Consumer,East,Freeport,
+2014,Consumer,East,Grove City,
+2015,Consumer,East,Grove City,
+2016,Consumer,East,Grove City,
+2017,Consumer,East,Grove City,123.58799999999998
+2014,Consumer,East,Hagerstown,
+2015,Consumer,East,Hagerstown,
+2016,Consumer,East,Hagerstown,
+2017,Consumer,East,Hagerstown,43.8
+2014,Consumer,East,Hamilton,204.304
+2015,Consumer,East,Hamilton,
+2016,Consumer,East,Hamilton,123.92000000000002
+2017,Consumer,East,Hamilton,
+2014,Consumer,East,Hempstead,115.95200000000001
+2015,Consumer,East,Hempstead,794.5740000000001
+2016,Consumer,East,Hempstead,
+2017,Consumer,East,Hempstead,
+2014,Consumer,East,Jamestown,4548.81
+2015,Consumer,East,Jamestown,
+2016,Consumer,East,Jamestown,
+2017,Consumer,East,Jamestown,
+2014,Consumer,East,Kent,48.36
+2015,Consumer,East,Kent,
+2016,Consumer,East,Kent,
+2017,Consumer,East,Kent,193.974
+2014,Consumer,East,Lakewood,1326.69
+2015,Consumer,East,Lakewood,34.418000000000006
+2016,Consumer,East,Lakewood,14.96
+2017,Consumer,East,Lakewood,2269.0620000000004
+2014,Consumer,East,Lancaster,286.34400000000005
+2015,Consumer,East,Lancaster,20.104
+2016,Consumer,East,Lancaster,5759.813000000001
+2017,Consumer,East,Lancaster,927.2670000000002
+2014,Consumer,East,Lawrence,1091.35
+2015,Consumer,East,Lawrence,661.3199999999998
+2016,Consumer,East,Lawrence,125.81
+2017,Consumer,East,Lawrence,19.44
+2014,Consumer,East,Leominster,
+2015,Consumer,East,Leominster,25.869999999999997
+2016,Consumer,East,Leominster,
+2017,Consumer,East,Leominster,
+2014,Consumer,East,Long Beach,3743.42
+2015,Consumer,East,Long Beach,87.1
+2016,Consumer,East,Long Beach,1577.142
+2017,Consumer,East,Long Beach,300.86199999999997
+2014,Consumer,East,Lorain,
+2015,Consumer,East,Lorain,
+2016,Consumer,East,Lorain,
+2017,Consumer,East,Lorain,48.896
+2014,Consumer,East,Lowell,327.55999999999995
+2015,Consumer,East,Lowell,
+2016,Consumer,East,Lowell,714.3000000000001
+2017,Consumer,East,Lowell,1316.2499999999998
+2014,Consumer,East,Malden,
+2015,Consumer,East,Malden,
+2016,Consumer,East,Malden,39.68
+2017,Consumer,East,Malden,
+2014,Consumer,East,Manchester,
+2015,Consumer,East,Manchester,93.78999999999999
+2016,Consumer,East,Manchester,
+2017,Consumer,East,Manchester,853.22
+2014,Consumer,East,Marion,403.11400000000003
+2015,Consumer,East,Marion,799.3779999999999
+2016,Consumer,East,Marion,
+2017,Consumer,East,Marion,63.92000000000001
+2014,Consumer,East,Marlborough,
+2015,Consumer,East,Marlborough,
+2016,Consumer,East,Marlborough,206.64
+2017,Consumer,East,Marlborough,
+2014,Consumer,East,Medina,609.4379999999999
+2015,Consumer,East,Medina,51.588
+2016,Consumer,East,Medina,
+2017,Consumer,East,Medina,
+2014,Consumer,East,Meriden,21.400000000000002
+2015,Consumer,East,Meriden,63.14
+2016,Consumer,East,Meriden,
+2017,Consumer,East,Meriden,237.64
+2014,Consumer,East,Middletown,27.46
+2015,Consumer,East,Middletown,
+2016,Consumer,East,Middletown,552.56
+2017,Consumer,East,Middletown,317.58
+2014,Consumer,East,Milford,
+2015,Consumer,East,Milford,
+2016,Consumer,East,Milford,67.32000000000001
+2017,Consumer,East,Milford,
+2014,Consumer,East,Morristown,
+2015,Consumer,East,Morristown,2643.06
+2016,Consumer,East,Morristown,7.5600000000000005
+2017,Consumer,East,Morristown,514.05
+2014,Consumer,East,Mount Vernon,62.28
+2015,Consumer,East,Mount Vernon,
+2016,Consumer,East,Mount Vernon,
+2017,Consumer,East,Mount Vernon,74.89
+2014,Consumer,East,Nashua,
+2015,Consumer,East,Nashua,
+2016,Consumer,East,Nashua,
+2017,Consumer,East,Nashua,14.82
+2014,Consumer,East,New Bedford,
+2015,Consumer,East,New Bedford,
+2016,Consumer,East,New Bedford,
+2017,Consumer,East,New Bedford,23.18
+2014,Consumer,East,New Rochelle,13.904
+2015,Consumer,East,New Rochelle,
+2016,Consumer,East,New Rochelle,692.5020000000001
+2017,Consumer,East,New Rochelle,201.262
+2014,Consumer,East,New York City,29227.86199999998
+2015,Consumer,East,New York City,42312.99299999999
+2016,Consumer,East,New York City,30099.197999999986
+2017,Consumer,East,New York City,35229.77
+2014,Consumer,East,Newark,155.49599999999998
+2015,Consumer,East,Newark,5442.988
+2016,Consumer,East,Newark,3025.4869999999996
+2017,Consumer,East,Newark,10942.162000000002
+2014,Consumer,East,Niagara Falls,164.85000000000002
+2015,Consumer,East,Niagara Falls,
+2016,Consumer,East,Niagara Falls,
+2017,Consumer,East,Niagara Falls,
+2014,Consumer,East,Norwich,
+2015,Consumer,East,Norwich,370.14
+2016,Consumer,East,Norwich,
+2017,Consumer,East,Norwich,10.36
+2014,Consumer,East,Oceanside,
+2015,Consumer,East,Oceanside,1914.1460000000002
+2016,Consumer,East,Oceanside,1200.628
+2017,Consumer,East,Oceanside,305.1
+2014,Consumer,East,Orange,
+2015,Consumer,East,Orange,
+2016,Consumer,East,Orange,
+2017,Consumer,East,Orange,75.85999999999999
+2014,Consumer,East,Parma,191.33999999999997
+2015,Consumer,East,Parma,
+2016,Consumer,East,Parma,3588.096
+2017,Consumer,East,Parma,36.352000000000004
+2014,Consumer,East,Passaic,
+2015,Consumer,East,Passaic,
+2016,Consumer,East,Passaic,1562.0860000000002
+2017,Consumer,East,Passaic,
+2014,Consumer,East,Paterson,
+2015,Consumer,East,Paterson,
+2016,Consumer,East,Paterson,475.85999999999996
+2017,Consumer,East,Paterson,1016.06
+2014,Consumer,East,Perth Amboy,
+2015,Consumer,East,Perth Amboy,286.78999999999996
+2016,Consumer,East,Perth Amboy,436.96000000000004
+2017,Consumer,East,Perth Amboy,
+2014,Consumer,East,Philadelphia,11448.006000000001
+2015,Consumer,East,Philadelphia,10955.407
+2016,Consumer,East,Philadelphia,16385.775999999998
+2017,Consumer,East,Philadelphia,24414.083000000002
+2014,Consumer,East,Plainfield,79.56
+2015,Consumer,East,Plainfield,
+2016,Consumer,East,Plainfield,
+2017,Consumer,East,Plainfield,896.77
+2014,Consumer,East,Providence,
+2015,Consumer,East,Providence,
+2016,Consumer,East,Providence,84.42
+2017,Consumer,East,Providence,126.52000000000001
+2014,Consumer,East,Quincy,
+2015,Consumer,East,Quincy,14.940000000000001
+2016,Consumer,East,Quincy,549.775
+2017,Consumer,East,Quincy,12.7
+2014,Consumer,East,Reading,
+2015,Consumer,East,Reading,
+2016,Consumer,East,Reading,303.92
+2017,Consumer,East,Reading,8.856
+2014,Consumer,East,Rochester,491.03999999999996
+2015,Consumer,East,Rochester,2754.9700000000003
+2016,Consumer,East,Rochester,1030.4940000000001
+2017,Consumer,East,Rochester,55.25
+2014,Consumer,East,Rockville,
+2015,Consumer,East,Rockville,26.82
+2016,Consumer,East,Rockville,442.95000000000005
+2017,Consumer,East,Rockville,
+2014,Consumer,East,Rome,
+2015,Consumer,East,Rome,
+2016,Consumer,East,Rome,35.01
+2017,Consumer,East,Rome,
+2014,Consumer,East,Springfield,53.344
+2015,Consumer,East,Springfield,646.7760000000001
+2016,Consumer,East,Springfield,768.983
+2017,Consumer,East,Springfield,299.26500000000004
+2014,Consumer,East,Toledo,1709.654
+2015,Consumer,East,Toledo,
+2016,Consumer,East,Toledo,53.696
+2017,Consumer,East,Toledo,906.733
+2014,Consumer,East,Troy,
+2015,Consumer,East,Troy,1143.066
+2016,Consumer,East,Troy,726.394
+2017,Consumer,East,Troy,60.12
+2014,Consumer,East,Utica,414.62999999999994
+2015,Consumer,East,Utica,79.99
+2016,Consumer,East,Utica,
+2017,Consumer,East,Utica,119.94
+2014,Consumer,East,Vineland,
+2015,Consumer,East,Vineland,
+2016,Consumer,East,Vineland,244.00599999999997
+2017,Consumer,East,Vineland,153.41
+2014,Consumer,East,Washington,
+2015,Consumer,East,Washington,2670.1899999999996
+2016,Consumer,East,Washington,83.15
+2017,Consumer,East,Washington,
+2014,Consumer,East,Waterbury,
+2015,Consumer,East,Waterbury,
+2016,Consumer,East,Waterbury,253.03000000000003
+2017,Consumer,East,Waterbury,3.52
+2014,Consumer,East,Watertown,90.60999999999999
+2015,Consumer,East,Watertown,
+2016,Consumer,East,Watertown,698.5
+2017,Consumer,East,Watertown,
+2014,Consumer,East,Wheeling,
+2015,Consumer,East,Wheeling,
+2016,Consumer,East,Wheeling,
+2017,Consumer,East,Wheeling,673.3439999999999
+2014,Consumer,East,Wilmington,
+2015,Consumer,East,Wilmington,1979.06
+2016,Consumer,East,Wilmington,487.49999999999994
+2017,Consumer,East,Wilmington,728.9730000000001
+2014,Consumer,East,Woonsocket,52.96
+2015,Consumer,East,Woonsocket,
+2016,Consumer,East,Woonsocket,
+2017,Consumer,East,Woonsocket,
+2014,Consumer,East,Yonkers,756.634
+2015,Consumer,East,Yonkers,
+2016,Consumer,East,Yonkers,6125.822
+2017,Consumer,East,Yonkers,558.81
+2014,Consumer,South,Alexandria,24.56
+2015,Consumer,South,Alexandria,
+2016,Consumer,South,Alexandria,81.19999999999999
+2017,Consumer,South,Alexandria,25.060000000000002
+2014,Consumer,South,Apopka,193.152
+2015,Consumer,South,Apopka,
+2016,Consumer,South,Apopka,
+2017,Consumer,South,Apopka,
+2014,Consumer,South,Arlington,129.33
+2015,Consumer,South,Arlington,3283.46
+2016,Consumer,South,Arlington,9454.7
+2017,Consumer,South,Arlington,963.8999999999999
+2014,Consumer,South,Asheville,
+2015,Consumer,South,Asheville,
+2016,Consumer,South,Asheville,1363.96
+2017,Consumer,South,Asheville,68.26400000000001
+2014,Consumer,South,Athens,1220.67
+2015,Consumer,South,Athens,
+2016,Consumer,South,Athens,201.26999999999998
+2017,Consumer,South,Athens,
+2014,Consumer,South,Atlanta,256.48
+2015,Consumer,South,Atlanta,7755.0599999999995
+2016,Consumer,South,Atlanta,2047.3400000000004
+2017,Consumer,South,Atlanta,2608.81
+2014,Consumer,South,Auburn,
+2015,Consumer,South,Auburn,498.93
+2016,Consumer,South,Auburn,1264.1399999999999
+2017,Consumer,South,Auburn,
+2014,Consumer,South,Bartlett,
+2015,Consumer,South,Bartlett,88.96000000000001
+2016,Consumer,South,Bartlett,
+2017,Consumer,South,Bartlett,
+2014,Consumer,South,Boca Raton,4.608
+2015,Consumer,South,Boca Raton,
+2016,Consumer,South,Boca Raton,58.400000000000006
+2017,Consumer,South,Boca Raton,
+2014,Consumer,South,Bowling Green,
+2015,Consumer,South,Bowling Green,
+2016,Consumer,South,Bowling Green,
+2017,Consumer,South,Bowling Green,71
+2014,Consumer,South,Boynton Beach,15.552000000000003
+2015,Consumer,South,Boynton Beach,
+2016,Consumer,South,Boynton Beach,314.39300000000003
+2017,Consumer,South,Boynton Beach,107.55200000000002
+2014,Consumer,South,Burlington,
+2015,Consumer,South,Burlington,
+2016,Consumer,South,Burlington,
+2017,Consumer,South,Burlington,2241.098
+2014,Consumer,South,Charlotte,2715.801
+2015,Consumer,South,Charlotte,5.04
+2016,Consumer,South,Charlotte,2974.117
+2017,Consumer,South,Charlotte,2341.781000000001
+2014,Consumer,South,Charlottesville,
+2015,Consumer,South,Charlottesville,
+2016,Consumer,South,Charlottesville,
+2017,Consumer,South,Charlottesville,34.650000000000006
+2014,Consumer,South,Chattanooga,
+2015,Consumer,South,Chattanooga,
+2016,Consumer,South,Chattanooga,16.72
+2017,Consumer,South,Chattanooga,740.284
+2014,Consumer,South,Chesapeake,1795.5000000000002
+2015,Consumer,South,Chesapeake,197.72
+2016,Consumer,South,Chesapeake,1911.48
+2017,Consumer,South,Chesapeake,504.90000000000003
+2014,Consumer,South,Clarksville,69.21600000000001
+2015,Consumer,South,Clarksville,1635.0180000000003
+2016,Consumer,South,Clarksville,
+2017,Consumer,South,Clarksville,
+2014,Consumer,South,Columbia,1150.122
+2015,Consumer,South,Columbia,4183.224
+2016,Consumer,South,Columbia,957.3000000000001
+2017,Consumer,South,Columbia,865.388
+2014,Consumer,South,Columbus,83.72999999999999
+2015,Consumer,South,Columbus,508.29999999999995
+2016,Consumer,South,Columbus,1893.17
+2017,Consumer,South,Columbus,4167.99
+2014,Consumer,South,Concord,23.119999999999997
+2015,Consumer,South,Concord,4297.644
+2016,Consumer,South,Concord,775.5280000000001
+2017,Consumer,South,Concord,15.552000000000003
+2014,Consumer,South,Conway,
+2015,Consumer,South,Conway,301.96
+2016,Consumer,South,Conway,
+2017,Consumer,South,Conway,
+2014,Consumer,South,Coral Springs,
+2015,Consumer,South,Coral Springs,387.136
+2016,Consumer,South,Coral Springs,
+2017,Consumer,South,Coral Springs,318.96
+2014,Consumer,South,Daytona Beach,
+2015,Consumer,South,Daytona Beach,272.3315
+2016,Consumer,South,Daytona Beach,
+2017,Consumer,South,Daytona Beach,
+2014,Consumer,South,Decatur,180.93
+2015,Consumer,South,Decatur,
+2016,Consumer,South,Decatur,
+2017,Consumer,South,Decatur,254.85999999999999
+2014,Consumer,South,Delray Beach,9.912
+2015,Consumer,South,Delray Beach,
+2016,Consumer,South,Delray Beach,
+2017,Consumer,South,Delray Beach,
+2014,Consumer,South,Deltona,186.304
+2015,Consumer,South,Deltona,107.97600000000001
+2016,Consumer,South,Deltona,
+2017,Consumer,South,Deltona,
+2014,Consumer,South,Durham,
+2015,Consumer,South,Durham,440.144
+2016,Consumer,South,Durham,
+2017,Consumer,South,Durham,
+2014,Consumer,South,Fayetteville,1793.98
+2015,Consumer,South,Fayetteville,115.69200000000001
+2016,Consumer,South,Fayetteville,2270.7439999999997
+2017,Consumer,South,Fayetteville,2159.3560000000007
+2014,Consumer,South,Florence,1979.89
+2015,Consumer,South,Florence,3807.4100000000003
+2016,Consumer,South,Florence,191.88
+2017,Consumer,South,Florence,753.0699999999999
+2014,Consumer,South,Fort Lauderdale,
+2015,Consumer,South,Fort Lauderdale,979.9455
+2016,Consumer,South,Fort Lauderdale,455.5470000000001
+2017,Consumer,South,Fort Lauderdale,743.024
+2014,Consumer,South,Franklin,
+2015,Consumer,South,Franklin,
+2016,Consumer,South,Franklin,40.68
+2017,Consumer,South,Franklin,5.184000000000001
+2014,Consumer,South,Georgetown,
+2015,Consumer,South,Georgetown,
+2016,Consumer,South,Georgetown,1576.5400000000002
+2017,Consumer,South,Georgetown,209.88
+2014,Consumer,South,Goldsboro,
+2015,Consumer,South,Goldsboro,
+2016,Consumer,South,Goldsboro,34.944
+2017,Consumer,South,Goldsboro,
+2014,Consumer,South,Greensboro,59.109000000000016
+2015,Consumer,South,Greensboro,
+2016,Consumer,South,Greensboro,187.056
+2017,Consumer,South,Greensboro,32.776
+2014,Consumer,South,Greenville,1299.99
+2015,Consumer,South,Greenville,
+2016,Consumer,South,Greenville,334.25600000000003
+2017,Consumer,South,Greenville,428.704
+2014,Consumer,South,Gulfport,
+2015,Consumer,South,Gulfport,
+2016,Consumer,South,Gulfport,
+2017,Consumer,South,Gulfport,48.69
+2014,Consumer,South,Hampton,149.9
+2015,Consumer,South,Hampton,750.9299999999998
+2016,Consumer,South,Hampton,290.98
+2017,Consumer,South,Hampton,
+2014,Consumer,South,Harrisonburg,1441.3
+2015,Consumer,South,Harrisonburg,
+2016,Consumer,South,Harrisonburg,
+2017,Consumer,South,Harrisonburg,23.08
+2014,Consumer,South,Hattiesburg,
+2015,Consumer,South,Hattiesburg,
+2016,Consumer,South,Hattiesburg,1110.5
+2017,Consumer,South,Hattiesburg,372.64
+2014,Consumer,South,Henderson,
+2015,Consumer,South,Henderson,905.44
+2016,Consumer,South,Henderson,2221.55
+2017,Consumer,South,Henderson,2421.7799999999997
+2014,Consumer,South,Hendersonville,
+2015,Consumer,South,Hendersonville,
+2016,Consumer,South,Hendersonville,
+2017,Consumer,South,Hendersonville,303.32000000000005
+2014,Consumer,South,Hialeah,15.384
+2015,Consumer,South,Hialeah,32.985
+2016,Consumer,South,Hialeah,36.364
+2017,Consumer,South,Hialeah,174.472
+2014,Consumer,South,Hickory,
+2015,Consumer,South,Hickory,
+2016,Consumer,South,Hickory,36.192
+2017,Consumer,South,Hickory,4.572000000000001
+2014,Consumer,South,Hollywood,580.6880000000001
+2015,Consumer,South,Hollywood,37.456
+2016,Consumer,South,Hollywood,32.064
+2017,Consumer,South,Hollywood,
+2014,Consumer,South,Homestead,
+2015,Consumer,South,Homestead,
+2016,Consumer,South,Homestead,85.224
+2017,Consumer,South,Homestead,47.328
+2014,Consumer,South,Hot Springs,
+2015,Consumer,South,Hot Springs,29.99
+2016,Consumer,South,Hot Springs,
+2017,Consumer,South,Hot Springs,
+2014,Consumer,South,Huntsville,
+2015,Consumer,South,Huntsville,
+2016,Consumer,South,Huntsville,102.36
+2017,Consumer,South,Huntsville,
+2014,Consumer,South,Jackson,1335.52
+2015,Consumer,South,Jackson,
+2016,Consumer,South,Jackson,3264.882
+2017,Consumer,South,Jackson,2364.9480000000003
+2014,Consumer,South,Jacksonville,1963.0900000000001
+2015,Consumer,South,Jacksonville,3598.005
+2016,Consumer,South,Jacksonville,1446.8880000000004
+2017,Consumer,South,Jacksonville,5342.148000000001
+2014,Consumer,South,Johnson City,362.17600000000004
+2015,Consumer,South,Johnson City,
+2016,Consumer,South,Johnson City,228.586
+2017,Consumer,South,Johnson City,175.086
+2014,Consumer,South,Jonesboro,2498.2200000000003
+2015,Consumer,South,Jonesboro,
+2016,Consumer,South,Jonesboro,299.48
+2017,Consumer,South,Jonesboro,
+2014,Consumer,South,Jupiter,
+2015,Consumer,South,Jupiter,
+2016,Consumer,South,Jupiter,
+2017,Consumer,South,Jupiter,2.064
+2014,Consumer,South,Kenner,
+2015,Consumer,South,Kenner,
+2016,Consumer,South,Kenner,89.32000000000001
+2017,Consumer,South,Kenner,
+2014,Consumer,South,Kissimmee,
+2015,Consumer,South,Kissimmee,
+2016,Consumer,South,Kissimmee,
+2017,Consumer,South,Kissimmee,751.984
+2014,Consumer,South,Knoxville,310.528
+2015,Consumer,South,Knoxville,
+2016,Consumer,South,Knoxville,135.808
+2017,Consumer,South,Knoxville,266
+2014,Consumer,South,Lafayette,
+2015,Consumer,South,Lafayette,603.48
+2016,Consumer,South,Lafayette,73.2
+2017,Consumer,South,Lafayette,4364.14
+2014,Consumer,South,Lake Charles,69.9
+2015,Consumer,South,Lake Charles,
+2016,Consumer,South,Lake Charles,
+2017,Consumer,South,Lake Charles,
+2014,Consumer,South,Lakeland,479.98400000000004
+2015,Consumer,South,Lakeland,78.456
+2016,Consumer,South,Lakeland,
+2017,Consumer,South,Lakeland,
+2014,Consumer,South,Lebanon,
+2015,Consumer,South,Lebanon,84.96000000000001
+2016,Consumer,South,Lebanon,
+2017,Consumer,South,Lebanon,163.96
+2014,Consumer,South,Little Rock,904.13
+2015,Consumer,South,Little Rock,
+2016,Consumer,South,Little Rock,819.39
+2017,Consumer,South,Little Rock,199.17000000000004
+2014,Consumer,South,Louisville,1000.95
+2015,Consumer,South,Louisville,1343.53
+2016,Consumer,South,Louisville,92.49
+2017,Consumer,South,Louisville,2563.63
+2014,Consumer,South,Macon,149.56
+2015,Consumer,South,Macon,58.72
+2016,Consumer,South,Macon,
+2017,Consumer,South,Macon,
+2014,Consumer,South,Margate,15.552000000000003
+2015,Consumer,South,Margate,
+2016,Consumer,South,Margate,
+2017,Consumer,South,Margate,
+2014,Consumer,South,Marietta,
+2015,Consumer,South,Marietta,5.64
+2016,Consumer,South,Marietta,
+2017,Consumer,South,Marietta,
+2014,Consumer,South,Memphis,81.336
+2015,Consumer,South,Memphis,1059.8100000000002
+2016,Consumer,South,Memphis,567.2280000000001
+2017,Consumer,South,Memphis,3381.7340000000004
+2014,Consumer,South,Miami,1504.5305000000003
+2015,Consumer,South,Miami,836.748
+2016,Consumer,South,Miami,1466.32
+2017,Consumer,South,Miami,1218.2060000000001
+2014,Consumer,South,Miramar,
+2015,Consumer,South,Miramar,
+2016,Consumer,South,Miramar,
+2017,Consumer,South,Miramar,559.2
+2014,Consumer,South,Mobile,8.96
+2015,Consumer,South,Mobile,1918.79
+2016,Consumer,South,Mobile,298.8299999999999
+2017,Consumer,South,Mobile,
+2014,Consumer,South,Monroe,
+2015,Consumer,South,Monroe,332.4959999999999
+2016,Consumer,South,Monroe,99.87200000000001
+2017,Consumer,South,Monroe,1435.98
+2014,Consumer,South,Montgomery,14.669999999999998
+2015,Consumer,South,Montgomery,
+2016,Consumer,South,Montgomery,1002.7
+2017,Consumer,South,Montgomery,
+2014,Consumer,South,Mount Pleasant,545.9399999999999
+2015,Consumer,South,Mount Pleasant,
+2016,Consumer,South,Mount Pleasant,
+2017,Consumer,South,Mount Pleasant,
+2014,Consumer,South,Murray,
+2015,Consumer,South,Murray,
+2016,Consumer,South,Murray,191.82
+2017,Consumer,South,Murray,72.8
+2014,Consumer,South,Nashville,147.34400000000002
+2015,Consumer,South,Nashville,1688.8760000000002
+2016,Consumer,South,Nashville,250.789
+2017,Consumer,South,Nashville,649
+2014,Consumer,South,Newport News,
+2015,Consumer,South,Newport News,31.12
+2016,Consumer,South,Newport News,1611.01
+2017,Consumer,South,Newport News,629.86
+2014,Consumer,South,North Charleston,
+2015,Consumer,South,North Charleston,269.49
+2016,Consumer,South,North Charleston,
+2017,Consumer,South,North Charleston,
+2014,Consumer,South,North Miami,7.6320000000000014
+2015,Consumer,South,North Miami,14.496000000000002
+2016,Consumer,South,North Miami,
+2017,Consumer,South,North Miami,
+2014,Consumer,South,Orlando,
+2015,Consumer,South,Orlando,87.168
+2016,Consumer,South,Orlando,
+2017,Consumer,South,Orlando,1051.4780000000003
+2014,Consumer,South,Ormond Beach,
+2015,Consumer,South,Ormond Beach,
+2016,Consumer,South,Ormond Beach,
+2017,Consumer,South,Ormond Beach,2.8080000000000007
+2014,Consumer,South,Owensboro,
+2015,Consumer,South,Owensboro,45.68
+2016,Consumer,South,Owensboro,
+2017,Consumer,South,Owensboro,
+2014,Consumer,South,Palm Coast,
+2015,Consumer,South,Palm Coast,
+2016,Consumer,South,Palm Coast,
+2017,Consumer,South,Palm Coast,24.448
+2014,Consumer,South,Pembroke Pines,
+2015,Consumer,South,Pembroke Pines,459.43350000000004
+2016,Consumer,South,Pembroke Pines,24.066
+2017,Consumer,South,Pembroke Pines,1230.8760000000002
+2014,Consumer,South,Pensacola,
+2015,Consumer,South,Pensacola,
+2016,Consumer,South,Pensacola,2.2140000000000004
+2017,Consumer,South,Pensacola,
+2014,Consumer,South,Pine Bluff,
+2015,Consumer,South,Pine Bluff,
+2016,Consumer,South,Pine Bluff,
+2017,Consumer,South,Pine Bluff,212.91000000000003
+2014,Consumer,South,Plantation,
+2015,Consumer,South,Plantation,598.352
+2016,Consumer,South,Plantation,
+2017,Consumer,South,Plantation,
+2014,Consumer,South,Port Orange,
+2015,Consumer,South,Port Orange,
+2016,Consumer,South,Port Orange,
+2017,Consumer,South,Port Orange,7.824
+2014,Consumer,South,Port Saint Lucie,
+2015,Consumer,South,Port Saint Lucie,
+2016,Consumer,South,Port Saint Lucie,2.6940000000000004
+2017,Consumer,South,Port Saint Lucie,14.336000000000002
+2014,Consumer,South,Raleigh,52.608000000000004
+2015,Consumer,South,Raleigh,228.24
+2016,Consumer,South,Raleigh,1051.156
+2017,Consumer,South,Raleigh,194.848
+2014,Consumer,South,Richmond,77.98
+2015,Consumer,South,Richmond,1095.5900000000001
+2016,Consumer,South,Richmond,906.3199999999999
+2017,Consumer,South,Richmond,3691.250000000001
+2014,Consumer,South,Rock Hill,11.850000000000001
+2015,Consumer,South,Rock Hill,
+2016,Consumer,South,Rock Hill,
+2017,Consumer,South,Rock Hill,
+2014,Consumer,South,Rogers,
+2015,Consumer,South,Rogers,
+2016,Consumer,South,Rogers,
+2017,Consumer,South,Rogers,40.410000000000004
+2014,Consumer,South,Roswell,755.4199999999998
+2015,Consumer,South,Roswell,1049.1299999999999
+2016,Consumer,South,Roswell,
+2017,Consumer,South,Roswell,
+2014,Consumer,South,Saint Petersburg,231.28000000000003
+2015,Consumer,South,Saint Petersburg,
+2016,Consumer,South,Saint Petersburg,
+2017,Consumer,South,Saint Petersburg,17.088
+2014,Consumer,South,Salem,
+2015,Consumer,South,Salem,
+2016,Consumer,South,Salem,27.86
+2017,Consumer,South,Salem,1738.1000000000001
+2014,Consumer,South,Sandy Springs,
+2015,Consumer,South,Sandy Springs,
+2016,Consumer,South,Sandy Springs,1302.83
+2017,Consumer,South,Sandy Springs,
+2014,Consumer,South,Smyrna,
+2015,Consumer,South,Smyrna,
+2016,Consumer,South,Smyrna,24.592
+2017,Consumer,South,Smyrna,36.57
+2014,Consumer,South,Southaven,616.14
+2015,Consumer,South,Southaven,
+2016,Consumer,South,Southaven,
+2017,Consumer,South,Southaven,
+2014,Consumer,South,Springfield,142.8
+2015,Consumer,South,Springfield,36.4
+2016,Consumer,South,Springfield,2674.44
+2017,Consumer,South,Springfield,210.38000000000002
+2014,Consumer,South,Suffolk,
+2015,Consumer,South,Suffolk,196.62
+2016,Consumer,South,Suffolk,
+2017,Consumer,South,Suffolk,
+2014,Consumer,South,Tallahassee,
+2015,Consumer,South,Tallahassee,8.226
+2016,Consumer,South,Tallahassee,1401.2440000000001
+2017,Consumer,South,Tallahassee,4617.064000000001
+2014,Consumer,South,Tampa,2158.923
+2015,Consumer,South,Tampa,133.56
+2016,Consumer,South,Tampa,38.19000000000001
+2017,Consumer,South,Tampa,7.904000000000001
+2014,Consumer,South,Thomasville,
+2015,Consumer,South,Thomasville,
+2016,Consumer,South,Thomasville,151.292
+2017,Consumer,South,Thomasville,
+2014,Consumer,South,Virginia Beach,139.72
+2015,Consumer,South,Virginia Beach,182.91
+2016,Consumer,South,Virginia Beach,1120.73
+2017,Consumer,South,Virginia Beach,608.4300000000001
+2014,Consumer,South,Warner Robins,
+2015,Consumer,South,Warner Robins,
+2016,Consumer,South,Warner Robins,41.86
+2017,Consumer,South,Warner Robins,
+2014,Consumer,South,Waynesboro,425.66999999999996
+2015,Consumer,South,Waynesboro,2298.9
+2016,Consumer,South,Waynesboro,
+2017,Consumer,South,Waynesboro,
+2014,Consumer,South,West Palm Beach,
+2015,Consumer,South,West Palm Beach,55.98400000000001
+2016,Consumer,South,West Palm Beach,72.224
+2017,Consumer,South,West Palm Beach,
+2014,Consumer,South,Wilmington,632.52
+2015,Consumer,South,Wilmington,13.120000000000001
+2016,Consumer,South,Wilmington,3.2820000000000005
+2017,Consumer,South,Wilmington,55.168000000000006
+2014,Consumer,South,Wilson,
+2015,Consumer,South,Wilson,169.54399999999998
+2016,Consumer,South,Wilson,
+2017,Consumer,South,Wilson,
+2014,Consumer,South,Woodstock,286.65000000000003
+2015,Consumer,South,Woodstock,
+2016,Consumer,South,Woodstock,
+2017,Consumer,South,Woodstock,
+2014,Consumer,West,Albuquerque,57.266000000000005
+2015,Consumer,West,Albuquerque,
+2016,Consumer,West,Albuquerque,
+2017,Consumer,West,Albuquerque,122.53
+2014,Consumer,West,Anaheim,1049.97
+2015,Consumer,West,Anaheim,
+2016,Consumer,West,Anaheim,2240.3
+2017,Consumer,West,Anaheim,174.56000000000003
+2014,Consumer,West,Apple Valley,
+2015,Consumer,West,Apple Valley,
+2016,Consumer,West,Apple Valley,563.92
+2017,Consumer,West,Apple Valley,
+2014,Consumer,West,Aurora,
+2015,Consumer,West,Aurora,682.482
+2016,Consumer,West,Aurora,805.162
+2017,Consumer,West,Aurora,
+2014,Consumer,West,Avondale,892.568
+2015,Consumer,West,Avondale,54.24
+2016,Consumer,West,Avondale,
+2017,Consumer,West,Avondale,
+2014,Consumer,West,Bakersfield,
+2015,Consumer,West,Bakersfield,195.466
+2016,Consumer,West,Bakersfield,41.6
+2017,Consumer,West,Bakersfield,1075.3980000000001
+2014,Consumer,West,Bellevue,12.96
+2015,Consumer,West,Bellevue,20.24
+2016,Consumer,West,Bellevue,
+2017,Consumer,West,Bellevue,39.792
+2014,Consumer,West,Bellingham,
+2015,Consumer,West,Bellingham,
+2016,Consumer,West,Bellingham,
+2017,Consumer,West,Bellingham,2690.74
+2014,Consumer,West,Boise,
+2015,Consumer,West,Boise,
+2016,Consumer,West,Boise,
+2017,Consumer,West,Boise,89.97
+2014,Consumer,West,Brentwood,408.76800000000003
+2015,Consumer,West,Brentwood,79.9
+2016,Consumer,West,Brentwood,
+2017,Consumer,West,Brentwood,
+2014,Consumer,West,Broomfield,
+2015,Consumer,West,Broomfield,
+2016,Consumer,West,Broomfield,725.072
+2017,Consumer,West,Broomfield,
+2014,Consumer,West,Bullhead City,
+2015,Consumer,West,Bullhead City,22.288000000000004
+2016,Consumer,West,Bullhead City,
+2017,Consumer,West,Bullhead City,
+2014,Consumer,West,Camarillo,
+2015,Consumer,West,Camarillo,
+2016,Consumer,West,Camarillo,
+2017,Consumer,West,Camarillo,14.73
+2014,Consumer,West,Carlsbad,
+2015,Consumer,West,Carlsbad,
+2016,Consumer,West,Carlsbad,39.176
+2017,Consumer,West,Carlsbad,
+2014,Consumer,West,Chandler,
+2015,Consumer,West,Chandler,
+2016,Consumer,West,Chandler,
+2017,Consumer,West,Chandler,18.24
+2014,Consumer,West,Chico,
+2015,Consumer,West,Chico,54.17
+2016,Consumer,West,Chico,
+2017,Consumer,West,Chico,
+2014,Consumer,West,Chula Vista,182.94
+2015,Consumer,West,Chula Vista,
+2016,Consumer,West,Chula Vista,192.8
+2017,Consumer,West,Chula Vista,
+2014,Consumer,West,Citrus Heights,
+2015,Consumer,West,Citrus Heights,
+2016,Consumer,West,Citrus Heights,
+2017,Consumer,West,Citrus Heights,129.39000000000001
+2014,Consumer,West,Clovis,
+2015,Consumer,West,Clovis,
+2016,Consumer,West,Clovis,
+2017,Consumer,West,Clovis,111.42
+2014,Consumer,West,Colorado Springs,
+2015,Consumer,West,Colorado Springs,1334.1360000000002
+2016,Consumer,West,Colorado Springs,11.328000000000001
+2017,Consumer,West,Colorado Springs,
+2014,Consumer,West,Commerce City,
+2015,Consumer,West,Commerce City,
+2016,Consumer,West,Commerce City,
+2017,Consumer,West,Commerce City,146.352
+2014,Consumer,West,Concord,172.87800000000001
+2015,Consumer,West,Concord,
+2016,Consumer,West,Concord,61.120000000000005
+2017,Consumer,West,Concord,239.66599999999997
+2014,Consumer,West,Costa Mesa,
+2015,Consumer,West,Costa Mesa,29.22
+2016,Consumer,West,Costa Mesa,686.2439999999999
+2017,Consumer,West,Costa Mesa,504.496
+2014,Consumer,West,Davis,
+2015,Consumer,West,Davis,
+2016,Consumer,West,Davis,32.400000000000006
+2017,Consumer,West,Davis,
+2014,Consumer,West,Denver,3392.4460000000004
+2015,Consumer,West,Denver,
+2016,Consumer,West,Denver,
+2017,Consumer,West,Denver,2873.4550000000004
+2014,Consumer,West,Des Moines,2046.354
+2015,Consumer,West,Des Moines,
+2016,Consumer,West,Des Moines,1281.8960000000002
+2017,Consumer,West,Des Moines,
+2014,Consumer,West,Draper,
+2015,Consumer,West,Draper,
+2016,Consumer,West,Draper,
+2017,Consumer,West,Draper,151.72
+2014,Consumer,West,Dublin,
+2015,Consumer,West,Dublin,
+2016,Consumer,West,Dublin,
+2017,Consumer,West,Dublin,22
+2014,Consumer,West,Edmonds,1549.77
+2015,Consumer,West,Edmonds,
+2016,Consumer,West,Edmonds,143.24
+2017,Consumer,West,Edmonds,650.712
+2014,Consumer,West,Encinitas,
+2015,Consumer,West,Encinitas,
+2016,Consumer,West,Encinitas,305.49600000000004
+2017,Consumer,West,Encinitas,286.485
+2014,Consumer,West,Englewood,
+2015,Consumer,West,Englewood,
+2016,Consumer,West,Englewood,124.056
+2017,Consumer,West,Englewood,
+2014,Consumer,West,Escondido,53.94
+2015,Consumer,West,Escondido,
+2016,Consumer,West,Escondido,
+2017,Consumer,West,Escondido,
+2014,Consumer,West,Farmington,
+2015,Consumer,West,Farmington,12.88
+2016,Consumer,West,Farmington,
+2017,Consumer,West,Farmington,545.85
+2014,Consumer,West,Fort Collins,
+2015,Consumer,West,Fort Collins,
+2016,Consumer,West,Fort Collins,
+2017,Consumer,West,Fort Collins,822.5720000000001
+2014,Consumer,West,Fresno,4676.9705
+2015,Consumer,West,Fresno,
+2016,Consumer,West,Fresno,
+2017,Consumer,West,Fresno,2127.322
+2014,Consumer,West,Gilbert,
+2015,Consumer,West,Gilbert,496.896
+2016,Consumer,West,Gilbert,
+2017,Consumer,West,Gilbert,
+2014,Consumer,West,Glendale,217.35200000000003
+2015,Consumer,West,Glendale,10.744
+2016,Consumer,West,Glendale,986.214
+2017,Consumer,West,Glendale,212.22700000000003
+2014,Consumer,West,Great Falls,410.104
+2015,Consumer,West,Great Falls,
+2016,Consumer,West,Great Falls,
+2017,Consumer,West,Great Falls,
+2014,Consumer,West,Greeley,
+2015,Consumer,West,Greeley,
+2016,Consumer,West,Greeley,
+2017,Consumer,West,Greeley,30.352
+2014,Consumer,West,Gresham,1508.768
+2015,Consumer,West,Gresham,
+2016,Consumer,West,Gresham,221.488
+2017,Consumer,West,Gresham,
+2014,Consumer,West,Hillsboro,
+2015,Consumer,West,Hillsboro,64.072
+2016,Consumer,West,Hillsboro,
+2017,Consumer,West,Hillsboro,
+2014,Consumer,West,Huntington Beach,
+2015,Consumer,West,Huntington Beach,
+2016,Consumer,West,Huntington Beach,
+2017,Consumer,West,Huntington Beach,95.92
+2014,Consumer,West,Inglewood,
+2015,Consumer,West,Inglewood,
+2016,Consumer,West,Inglewood,
+2017,Consumer,West,Inglewood,492.736
+2014,Consumer,West,Kent,201.73
+2015,Consumer,West,Kent,
+2016,Consumer,West,Kent,
+2017,Consumer,West,Kent,1149.5240000000001
+2014,Consumer,West,Lake Elsinore,
+2015,Consumer,West,Lake Elsinore,283.92
+2016,Consumer,West,Lake Elsinore,
+2017,Consumer,West,Lake Elsinore,
+2014,Consumer,West,Lake Forest,
+2015,Consumer,West,Lake Forest,
+2016,Consumer,West,Lake Forest,
+2017,Consumer,West,Lake Forest,597.8599999999999
+2014,Consumer,West,Lakewood,
+2015,Consumer,West,Lakewood,41.98
+2016,Consumer,West,Lakewood,257.499
+2017,Consumer,West,Lakewood,94.2
+2014,Consumer,West,Lancaster,
+2015,Consumer,West,Lancaster,359.82800000000003
+2016,Consumer,West,Lancaster,
+2017,Consumer,West,Lancaster,17.456
+2014,Consumer,West,Las Cruces,
+2015,Consumer,West,Las Cruces,49.12
+2016,Consumer,West,Las Cruces,
+2017,Consumer,West,Las Cruces,41.37
+2014,Consumer,West,Las Vegas,40.08
+2015,Consumer,West,Las Vegas,360.47200000000004
+2016,Consumer,West,Las Vegas,
+2017,Consumer,West,Las Vegas,1196.3160000000003
+2014,Consumer,West,Layton,
+2015,Consumer,West,Layton,4.96
+2016,Consumer,West,Layton,
+2017,Consumer,West,Layton,
+2014,Consumer,West,Lewiston,9.584000000000001
+2015,Consumer,West,Lewiston,
+2016,Consumer,West,Lewiston,
+2017,Consumer,West,Lewiston,
+2014,Consumer,West,Littleton,
+2015,Consumer,West,Littleton,
+2016,Consumer,West,Littleton,72.29400000000001
+2017,Consumer,West,Littleton,
+2014,Consumer,West,Lodi,
+2015,Consumer,West,Lodi,
+2016,Consumer,West,Lodi,
+2017,Consumer,West,Lodi,97.3
+2014,Consumer,West,Logan,280.27600000000007
+2015,Consumer,West,Logan,
+2016,Consumer,West,Logan,
+2017,Consumer,West,Logan,
+2014,Consumer,West,Long Beach,
+2015,Consumer,West,Long Beach,1021.4460000000001
+2016,Consumer,West,Long Beach,1059.088
+2017,Consumer,West,Long Beach,332.8
+2014,Consumer,West,Longmont,
+2015,Consumer,West,Longmont,
+2016,Consumer,West,Longmont,749.488
+2017,Consumer,West,Longmont,
+2014,Consumer,West,Longview,
+2015,Consumer,West,Longview,
+2016,Consumer,West,Longview,24.849999999999998
+2017,Consumer,West,Longview,94.36000000000001
+2014,Consumer,West,Los Angeles,13886.478000000005
+2015,Consumer,West,Los Angeles,28752.404
+2016,Consumer,West,Los Angeles,26854.938999999995
+2017,Consumer,West,Los Angeles,20182.819500000005
+2014,Consumer,West,Louisville,1545.836
+2015,Consumer,West,Louisville,248.272
+2016,Consumer,West,Louisville,
+2017,Consumer,West,Louisville,387.3030000000001
+2014,Consumer,West,Loveland,
+2015,Consumer,West,Loveland,
+2016,Consumer,West,Loveland,
+2017,Consumer,West,Loveland,3.024
+2014,Consumer,West,Marysville,
+2015,Consumer,West,Marysville,
+2016,Consumer,West,Marysville,102.18
+2017,Consumer,West,Marysville,
+2014,Consumer,West,Medford,55.672000000000004
+2015,Consumer,West,Medford,
+2016,Consumer,West,Medford,24.784000000000002
+2017,Consumer,West,Medford,
+2014,Consumer,West,Mesa,
+2015,Consumer,West,Mesa,1341.881
+2016,Consumer,West,Mesa,59.38999999999999
+2017,Consumer,West,Mesa,1360.9859999999999
+2014,Consumer,West,Mission Viejo,290.666
+2015,Consumer,West,Mission Viejo,
+2016,Consumer,West,Mission Viejo,128.67
+2017,Consumer,West,Mission Viejo,356.65
+2014,Consumer,West,Missoula,
+2015,Consumer,West,Missoula,487.98400000000004
+2016,Consumer,West,Missoula,
+2017,Consumer,West,Missoula,
+2014,Consumer,West,Modesto,
+2015,Consumer,West,Modesto,
+2016,Consumer,West,Modesto,
+2017,Consumer,West,Modesto,273.358
+2014,Consumer,West,Moreno Valley,19.44
+2015,Consumer,West,Moreno Valley,68.28
+2016,Consumer,West,Moreno Valley,884.6800000000001
+2017,Consumer,West,Moreno Valley,
+2014,Consumer,West,Morgan Hill,
+2015,Consumer,West,Morgan Hill,
+2016,Consumer,West,Morgan Hill,545.01
+2017,Consumer,West,Morgan Hill,
+2014,Consumer,West,Murray,
+2015,Consumer,West,Murray,
+2016,Consumer,West,Murray,
+2017,Consumer,West,Murray,97.918
+2014,Consumer,West,Murrieta,
+2015,Consumer,West,Murrieta,484.65000000000003
+2016,Consumer,West,Murrieta,
+2017,Consumer,West,Murrieta,
+2014,Consumer,West,North Las Vegas,1891.3160000000003
+2015,Consumer,West,North Las Vegas,1347.2700000000002
+2016,Consumer,West,North Las Vegas,
+2017,Consumer,West,North Las Vegas,1669.6
+2014,Consumer,West,Oakland,180.69
+2015,Consumer,West,Oakland,819.3940000000001
+2016,Consumer,West,Oakland,479.97
+2017,Consumer,West,Oakland,1529.6100000000001
+2014,Consumer,West,Oceanside,
+2015,Consumer,West,Oceanside,204.6
+2016,Consumer,West,Oceanside,
+2017,Consumer,West,Oceanside,60.08
+2014,Consumer,West,Olympia,649.5999999999999
+2015,Consumer,West,Olympia,201.568
+2016,Consumer,West,Olympia,
+2017,Consumer,West,Olympia,169.28
+2014,Consumer,West,Ontario,
+2015,Consumer,West,Ontario,
+2016,Consumer,West,Ontario,
+2017,Consumer,West,Ontario,283.92
+2014,Consumer,West,Orem,
+2015,Consumer,West,Orem,2790.3399999999997
+2016,Consumer,West,Orem,58.94
+2017,Consumer,West,Orem,
+2014,Consumer,West,Oxnard,127.94999999999999
+2015,Consumer,West,Oxnard,
+2016,Consumer,West,Oxnard,
+2017,Consumer,West,Oxnard,82.95
+2014,Consumer,West,Parker,
+2015,Consumer,West,Parker,
+2016,Consumer,West,Parker,
+2017,Consumer,West,Parker,193.63400000000001
+2014,Consumer,West,Pasadena,465.48800000000006
+2015,Consumer,West,Pasadena,842.2819999999999
+2016,Consumer,West,Pasadena,849.9199999999998
+2017,Consumer,West,Pasadena,845.1339999999999
+2014,Consumer,West,Pasco,1771.52
+2015,Consumer,West,Pasco,
+2016,Consumer,West,Pasco,
+2017,Consumer,West,Pasco,429.592
+2014,Consumer,West,Peoria,
+2015,Consumer,West,Peoria,329.44
+2016,Consumer,West,Peoria,
+2017,Consumer,West,Peoria,67.86000000000001
+2014,Consumer,West,Phoenix,1024.7190000000003
+2015,Consumer,West,Phoenix,2569.267
+2016,Consumer,West,Phoenix,543.7570000000001
+2017,Consumer,West,Phoenix,2187.4799999999996
+2014,Consumer,West,Pleasant Grove,2126.034
+2015,Consumer,West,Pleasant Grove,
+2016,Consumer,West,Pleasant Grove,
+2017,Consumer,West,Pleasant Grove,
+2014,Consumer,West,Pocatello,
+2015,Consumer,West,Pocatello,495.736
+2016,Consumer,West,Pocatello,34.68
+2017,Consumer,West,Pocatello,814.5260000000001
+2014,Consumer,West,Pomona,118.73
+2015,Consumer,West,Pomona,942.3520000000001
+2016,Consumer,West,Pomona,
+2017,Consumer,West,Pomona,
+2014,Consumer,West,Portland,746.584
+2015,Consumer,West,Portland,1670.0460000000003
+2016,Consumer,West,Portland,184.14900000000003
+2017,Consumer,West,Portland,663.408
+2014,Consumer,West,Provo,
+2015,Consumer,West,Provo,912.75
+2016,Consumer,West,Provo,
+2017,Consumer,West,Provo,
+2014,Consumer,West,Pueblo,36.252
+2015,Consumer,West,Pueblo,845.728
+2016,Consumer,West,Pueblo,
+2017,Consumer,West,Pueblo,
+2014,Consumer,West,Rancho Cucamonga,34.272
+2015,Consumer,West,Rancho Cucamonga,
+2016,Consumer,West,Rancho Cucamonga,
+2017,Consumer,West,Rancho Cucamonga,191.82
+2014,Consumer,West,Redding,333.576
+2015,Consumer,West,Redding,
+2016,Consumer,West,Redding,
+2017,Consumer,West,Redding,
+2014,Consumer,West,Redlands,
+2015,Consumer,West,Redlands,2752.161
+2016,Consumer,West,Redlands,124.58
+2017,Consumer,West,Redlands,
+2014,Consumer,West,Redmond,
+2015,Consumer,West,Redmond,711.7840000000001
+2016,Consumer,West,Redmond,65.944
+2017,Consumer,West,Redmond,42.91
+2014,Consumer,West,Redondo Beach,7.64
+2015,Consumer,West,Redondo Beach,
+2016,Consumer,West,Redondo Beach,112.12
+2017,Consumer,West,Redondo Beach,
+2014,Consumer,West,Renton,
+2015,Consumer,West,Renton,
+2016,Consumer,West,Renton,
+2017,Consumer,West,Renton,1242.6319999999998
+2014,Consumer,West,Rio Rancho,
+2015,Consumer,West,Rio Rancho,1114.192
+2016,Consumer,West,Rio Rancho,
+2017,Consumer,West,Rio Rancho,
+2014,Consumer,West,Riverside,
+2015,Consumer,West,Riverside,
+2016,Consumer,West,Riverside,36.744
+2017,Consumer,West,Riverside,
+2014,Consumer,West,Roseville,7.98
+2015,Consumer,West,Roseville,19.44
+2016,Consumer,West,Roseville,264.51599999999996
+2017,Consumer,West,Roseville,17.31
+2014,Consumer,West,Sacramento,120.71199999999999
+2015,Consumer,West,Sacramento,
+2016,Consumer,West,Sacramento,41.99
+2017,Consumer,West,Sacramento,
+2014,Consumer,West,Salem,265.78400000000005
+2015,Consumer,West,Salem,42.432
+2016,Consumer,West,Salem,132.709
+2017,Consumer,West,Salem,
+2014,Consumer,West,Salt Lake City,
+2015,Consumer,West,Salt Lake City,
+2016,Consumer,West,Salt Lake City,
+2017,Consumer,West,Salt Lake City,417.216
+2014,Consumer,West,San Bernardino,
+2015,Consumer,West,San Bernardino,868.772
+2016,Consumer,West,San Bernardino,
+2017,Consumer,West,San Bernardino,
+2014,Consumer,West,San Clemente,
+2015,Consumer,West,San Clemente,
+2016,Consumer,West,San Clemente,90.05799999999999
+2017,Consumer,West,San Clemente,
+2014,Consumer,West,San Diego,6902.508000000001
+2015,Consumer,West,San Diego,7864.5700000000015
+2016,Consumer,West,San Diego,12885.052
+2017,Consumer,West,San Diego,1741.4780000000003
+2014,Consumer,West,San Francisco,21752.008999999995
+2015,Consumer,West,San Francisco,6588.7210000000005
+2016,Consumer,West,San Francisco,12813.023000000001
+2017,Consumer,West,San Francisco,18041.346000000005
+2014,Consumer,West,San Jose,1991.6740000000004
+2015,Consumer,West,San Jose,526.88
+2016,Consumer,West,San Jose,1181.33
+2017,Consumer,West,San Jose,1100.207
+2014,Consumer,West,San Luis Obispo,
+2015,Consumer,West,San Luis Obispo,
+2016,Consumer,West,San Luis Obispo,3.62
+2017,Consumer,West,San Luis Obispo,
+2014,Consumer,West,San Mateo,
+2015,Consumer,West,San Mateo,
+2016,Consumer,West,San Mateo,
+2017,Consumer,West,San Mateo,75.17999999999999
+2014,Consumer,West,Santa Ana,
+2015,Consumer,West,Santa Ana,
+2016,Consumer,West,Santa Ana,1265.188
+2017,Consumer,West,Santa Ana,1861.27
+2014,Consumer,West,Santa Barbara,
+2015,Consumer,West,Santa Barbara,
+2016,Consumer,West,Santa Barbara,
+2017,Consumer,West,Santa Barbara,356.78999999999996
+2014,Consumer,West,Santa Clara,
+2015,Consumer,West,Santa Clara,
+2016,Consumer,West,Santa Clara,79.792
+2017,Consumer,West,Santa Clara,
+2014,Consumer,West,Santa Fe,92.52
+2015,Consumer,West,Santa Fe,
+2016,Consumer,West,Santa Fe,
+2017,Consumer,West,Santa Fe,
+2014,Consumer,West,Santa Maria,
+2015,Consumer,West,Santa Maria,115.44
+2016,Consumer,West,Santa Maria,
+2017,Consumer,West,Santa Maria,
+2014,Consumer,West,Scottsdale,402.06600000000003
+2015,Consumer,West,Scottsdale,11.481000000000002
+2016,Consumer,West,Scottsdale,271.992
+2017,Consumer,West,Scottsdale,
+2014,Consumer,West,Seattle,10927.516000000001
+2015,Consumer,West,Seattle,8941.624000000002
+2016,Consumer,West,Seattle,11274.072000000004
+2017,Consumer,West,Seattle,27873.09799999999
+2014,Consumer,West,Sierra Vista,
+2015,Consumer,West,Sierra Vista,
+2016,Consumer,West,Sierra Vista,14.368000000000002
+2017,Consumer,West,Sierra Vista,
+2014,Consumer,West,Sparks,
+2015,Consumer,West,Sparks,79.36
+2016,Consumer,West,Sparks,
+2017,Consumer,West,Sparks,
+2014,Consumer,West,Spokane,
+2015,Consumer,West,Spokane,263.78
+2016,Consumer,West,Spokane,
+2017,Consumer,West,Spokane,70.98
+2014,Consumer,West,Springfield,698.223
+2015,Consumer,West,Springfield,312.70799999999997
+2016,Consumer,West,Springfield,27.792
+2017,Consumer,West,Springfield,374.61800000000005
+2014,Consumer,West,Stockton,
+2015,Consumer,West,Stockton,
+2016,Consumer,West,Stockton,215.24
+2017,Consumer,West,Stockton,108.80000000000001
+2014,Consumer,West,Temecula,
+2015,Consumer,West,Temecula,808.6660000000002
+2016,Consumer,West,Temecula,
+2017,Consumer,West,Temecula,
+2014,Consumer,West,Tempe,
+2015,Consumer,West,Tempe,3.366000000000001
+2016,Consumer,West,Tempe,307.92
+2017,Consumer,West,Tempe,19.12
+2014,Consumer,West,Thornton,447.94399999999996
+2015,Consumer,West,Thornton,10.944
+2016,Consumer,West,Thornton,
+2017,Consumer,West,Thornton,306.36
+2014,Consumer,West,Thousand Oaks,
+2015,Consumer,West,Thousand Oaks,15.984000000000002
+2016,Consumer,West,Thousand Oaks,
+2017,Consumer,West,Thousand Oaks,
+2014,Consumer,West,Tigard,1122.968
+2015,Consumer,West,Tigard,
+2016,Consumer,West,Tigard,
+2017,Consumer,West,Tigard,
+2014,Consumer,West,Tucson,2121.312
+2015,Consumer,West,Tucson,792.832
+2016,Consumer,West,Tucson,
+2017,Consumer,West,Tucson,84.416
+2014,Consumer,West,Vacaville,423.28
+2015,Consumer,West,Vacaville,
+2016,Consumer,West,Vacaville,
+2017,Consumer,West,Vacaville,
+2014,Consumer,West,Vallejo,156.786
+2015,Consumer,West,Vallejo,
+2016,Consumer,West,Vallejo,
+2017,Consumer,West,Vallejo,
+2014,Consumer,West,Visalia,
+2015,Consumer,West,Visalia,
+2016,Consumer,West,Visalia,310.86
+2017,Consumer,West,Visalia,
+2014,Consumer,West,West Jordan,55.5
+2015,Consumer,West,West Jordan,256.35
+2016,Consumer,West,West Jordan,
+2017,Consumer,West,West Jordan,
+2014,Consumer,West,Westminster,
+2015,Consumer,West,Westminster,
+2016,Consumer,West,Westminster,
+2017,Consumer,West,Westminster,3826.646
+2014,Consumer,West,Whittier,
+2015,Consumer,West,Whittier,
+2016,Consumer,West,Whittier,
+2017,Consumer,West,Whittier,444.76800000000003
+2014,Consumer,West,Woodland,
+2015,Consumer,West,Woodland,
+2016,Consumer,West,Woodland,239.98400000000004
+2017,Consumer,West,Woodland,
+2014,Corporate,Central,Amarillo,
+2015,Corporate,Central,Amarillo,
+2016,Corporate,Central,Amarillo,19.648
+2017,Corporate,Central,Amarillo,205.33279999999996
+2014,Corporate,Central,Ann Arbor,
+2015,Corporate,Central,Ann Arbor,736.473
+2016,Corporate,Central,Ann Arbor,
+2017,Corporate,Central,Ann Arbor,
+2014,Corporate,Central,Arlington,1273.6229999999996
+2015,Corporate,Central,Arlington,
+2016,Corporate,Central,Arlington,1150.8560000000002
+2017,Corporate,Central,Arlington,697.49
+2014,Corporate,Central,Aurora,
+2015,Corporate,Central,Aurora,
+2016,Corporate,Central,Aurora,339.97999999999996
+2017,Corporate,Central,Aurora,824.143
+2014,Corporate,Central,Austin,
+2015,Corporate,Central,Austin,179.886
+2016,Corporate,Central,Austin,1361.5939999999998
+2017,Corporate,Central,Austin,1603.958
+2014,Corporate,Central,Baytown,
+2015,Corporate,Central,Baytown,10.368000000000002
+2016,Corporate,Central,Baytown,
+2017,Corporate,Central,Baytown,
+2014,Corporate,Central,Beaumont,
+2015,Corporate,Central,Beaumont,
+2016,Corporate,Central,Beaumont,
+2017,Corporate,Central,Beaumont,12.768
+2014,Corporate,Central,Bedford,
+2015,Corporate,Central,Bedford,
+2016,Corporate,Central,Bedford,
+2017,Corporate,Central,Bedford,205.29600000000002
+2014,Corporate,Central,Bloomington,
+2015,Corporate,Central,Bloomington,
+2016,Corporate,Central,Bloomington,
+2017,Corporate,Central,Bloomington,54.336000000000006
+2014,Corporate,Central,Broken Arrow,
+2015,Corporate,Central,Broken Arrow,
+2016,Corporate,Central,Broken Arrow,1604.7300000000002
+2017,Corporate,Central,Broken Arrow,
+2014,Corporate,Central,Brownsville,247.78400000000002
+2015,Corporate,Central,Brownsville,
+2016,Corporate,Central,Brownsville,
+2017,Corporate,Central,Brownsville,
+2014,Corporate,Central,Bryan,
+2015,Corporate,Central,Bryan,
+2016,Corporate,Central,Bryan,550.8159999999999
+2017,Corporate,Central,Bryan,
+2014,Corporate,Central,Canton,
+2015,Corporate,Central,Canton,
+2016,Corporate,Central,Canton,
+2017,Corporate,Central,Canton,316.32
+2014,Corporate,Central,Carrollton,
+2015,Corporate,Central,Carrollton,
+2016,Corporate,Central,Carrollton,106.33600000000001
+2017,Corporate,Central,Carrollton,3.3179999999999996
+2014,Corporate,Central,Cedar Hill,
+2015,Corporate,Central,Cedar Hill,
+2016,Corporate,Central,Cedar Hill,
+2017,Corporate,Central,Cedar Hill,115.296
+2014,Corporate,Central,Chicago,1317.608
+2015,Corporate,Central,Chicago,4601.604000000001
+2016,Corporate,Central,Chicago,1140.3319999999999
+2017,Corporate,Central,Chicago,4191.674999999999
+2014,Corporate,Central,Columbia,77.21000000000001
+2015,Corporate,Central,Columbia,
+2016,Corporate,Central,Columbia,
+2017,Corporate,Central,Columbia,
+2014,Corporate,Central,Columbus,77.86
+2015,Corporate,Central,Columbus,34.019999999999996
+2016,Corporate,Central,Columbus,361.93999999999994
+2017,Corporate,Central,Columbus,2885.4
+2014,Corporate,Central,Conroe,
+2015,Corporate,Central,Conroe,
+2016,Corporate,Central,Conroe,111.67200000000001
+2017,Corporate,Central,Conroe,
+2014,Corporate,Central,Coppell,
+2015,Corporate,Central,Coppell,95.84
+2016,Corporate,Central,Coppell,
+2017,Corporate,Central,Coppell,
+2014,Corporate,Central,Corpus Christi,146.192
+2015,Corporate,Central,Corpus Christi,
+2016,Corporate,Central,Corpus Christi,
+2017,Corporate,Central,Corpus Christi,
+2014,Corporate,Central,Dallas,1153.638
+2015,Corporate,Central,Dallas,1898.2910000000002
+2016,Corporate,Central,Dallas,1201.748
+2017,Corporate,Central,Dallas,3461.0361999999996
+2014,Corporate,Central,Dearborn,
+2015,Corporate,Central,Dearborn,1542.47
+2016,Corporate,Central,Dearborn,
+2017,Corporate,Central,Dearborn,60.84
+2014,Corporate,Central,Decatur,535.288
+2015,Corporate,Central,Decatur,
+2016,Corporate,Central,Decatur,
+2017,Corporate,Central,Decatur,193.26599999999996
+2014,Corporate,Central,Deer Park,
+2015,Corporate,Central,Deer Park,
+2016,Corporate,Central,Deer Park,6.923999999999998
+2017,Corporate,Central,Deer Park,
+2014,Corporate,Central,Des Moines,
+2015,Corporate,Central,Des Moines,
+2016,Corporate,Central,Des Moines,445.3999999999999
+2017,Corporate,Central,Des Moines,340.21999999999997
+2014,Corporate,Central,Detroit,815.9100000000001
+2015,Corporate,Central,Detroit,2918.1680000000006
+2016,Corporate,Central,Detroit,5912.88
+2017,Corporate,Central,Detroit,6247.936000000001
+2014,Corporate,Central,Eagan,
+2015,Corporate,Central,Eagan,
+2016,Corporate,Central,Eagan,63.44
+2017,Corporate,Central,Eagan,
+2014,Corporate,Central,Eau Claire,
+2015,Corporate,Central,Eau Claire,
+2016,Corporate,Central,Eau Claire,
+2017,Corporate,Central,Eau Claire,32.56
+2014,Corporate,Central,El Paso,49.568000000000005
+2015,Corporate,Central,El Paso,
+2016,Corporate,Central,El Paso,
+2017,Corporate,Central,El Paso,95.97600000000001
+2014,Corporate,Central,Fort Worth,
+2015,Corporate,Central,Fort Worth,39.60799999999999
+2016,Corporate,Central,Fort Worth,39.792
+2017,Corporate,Central,Fort Worth,1660.5904
+2014,Corporate,Central,Franklin,392.93999999999994
+2015,Corporate,Central,Franklin,
+2016,Corporate,Central,Franklin,4329.74
+2017,Corporate,Central,Franklin,
+2014,Corporate,Central,Freeport,45.248000000000005
+2015,Corporate,Central,Freeport,
+2016,Corporate,Central,Freeport,
+2017,Corporate,Central,Freeport,
+2014,Corporate,Central,Fremont,
+2015,Corporate,Central,Fremont,
+2016,Corporate,Central,Fremont,79.8
+2017,Corporate,Central,Fremont,884.54
+2014,Corporate,Central,Garden City,257.98
+2015,Corporate,Central,Garden City,
+2016,Corporate,Central,Garden City,
+2017,Corporate,Central,Garden City,33.29
+2014,Corporate,Central,Grand Prairie,
+2015,Corporate,Central,Grand Prairie,
+2016,Corporate,Central,Grand Prairie,95.32000000000001
+2017,Corporate,Central,Grand Prairie,
+2014,Corporate,Central,Grand Rapids,
+2015,Corporate,Central,Grand Rapids,
+2016,Corporate,Central,Grand Rapids,24.849999999999998
+2017,Corporate,Central,Grand Rapids,209.7
+2014,Corporate,Central,Grapevine,
+2015,Corporate,Central,Grapevine,
+2016,Corporate,Central,Grapevine,41.528000000000006
+2017,Corporate,Central,Grapevine,
+2014,Corporate,Central,Green Bay,
+2015,Corporate,Central,Green Bay,
+2016,Corporate,Central,Green Bay,35.7
+2017,Corporate,Central,Green Bay,22.72
+2014,Corporate,Central,Haltom City,
+2015,Corporate,Central,Haltom City,269.32800000000003
+2016,Corporate,Central,Haltom City,
+2017,Corporate,Central,Haltom City,
+2014,Corporate,Central,Highland Park,
+2015,Corporate,Central,Highland Park,
+2016,Corporate,Central,Highland Park,577.1220000000001
+2017,Corporate,Central,Highland Park,
+2014,Corporate,Central,Houston,7395.7991999999995
+2015,Corporate,Central,Houston,5094.416600000001
+2016,Corporate,Central,Houston,5448.743
+2017,Corporate,Central,Houston,4044.2079999999996
+2014,Corporate,Central,Huntsville,2701.734
+2015,Corporate,Central,Huntsville,
+2016,Corporate,Central,Huntsville,1526.5667999999998
+2017,Corporate,Central,Huntsville,
+2014,Corporate,Central,Indianapolis,386.34
+2015,Corporate,Central,Indianapolis,125.92999999999999
+2016,Corporate,Central,Indianapolis,54.96
+2017,Corporate,Central,Indianapolis,5381.44
+2014,Corporate,Central,Iowa City,
+2015,Corporate,Central,Iowa City,
+2016,Corporate,Central,Iowa City,9.99
+2017,Corporate,Central,Iowa City,
+2014,Corporate,Central,Irving,
+2015,Corporate,Central,Irving,
+2016,Corporate,Central,Irving,15.936000000000002
+2017,Corporate,Central,Irving,
+2014,Corporate,Central,Jackson,508.61999999999995
+2015,Corporate,Central,Jackson,1000.4300000000001
+2016,Corporate,Central,Jackson,1966.954
+2017,Corporate,Central,Jackson,
+2014,Corporate,Central,Kenosha,
+2015,Corporate,Central,Kenosha,974.9000000000001
+2016,Corporate,Central,Kenosha,
+2017,Corporate,Central,Kenosha,
+2014,Corporate,Central,La Crosse,
+2015,Corporate,Central,La Crosse,
+2016,Corporate,Central,La Crosse,773.5899999999999
+2017,Corporate,Central,La Crosse,
+2014,Corporate,Central,La Porte,
+2015,Corporate,Central,La Porte,
+2016,Corporate,Central,La Porte,383.14
+2017,Corporate,Central,La Porte,
+2014,Corporate,Central,Lafayette,
+2015,Corporate,Central,Lafayette,
+2016,Corporate,Central,Lafayette,18358.139999999996
+2017,Corporate,Central,Lafayette,
+2014,Corporate,Central,Laredo,609.6140000000001
+2015,Corporate,Central,Laredo,
+2016,Corporate,Central,Laredo,
+2017,Corporate,Central,Laredo,
+2014,Corporate,Central,Lincoln Park,
+2015,Corporate,Central,Lincoln Park,220.31
+2016,Corporate,Central,Lincoln Park,167.292
+2017,Corporate,Central,Lincoln Park,
+2014,Corporate,Central,Lubbock,
+2015,Corporate,Central,Lubbock,
+2016,Corporate,Central,Lubbock,
+2017,Corporate,Central,Lubbock,9.248000000000001
+2014,Corporate,Central,Mansfield,
+2015,Corporate,Central,Mansfield,
+2016,Corporate,Central,Mansfield,
+2017,Corporate,Central,Mansfield,41.47200000000001
+2014,Corporate,Central,Maple Grove,
+2015,Corporate,Central,Maple Grove,
+2016,Corporate,Central,Maple Grove,
+2017,Corporate,Central,Maple Grove,735.98
+2014,Corporate,Central,Marion,
+2015,Corporate,Central,Marion,
+2016,Corporate,Central,Marion,115.84
+2017,Corporate,Central,Marion,
+2014,Corporate,Central,Mcallen,
+2015,Corporate,Central,Mcallen,544.41
+2016,Corporate,Central,Mcallen,
+2017,Corporate,Central,Mcallen,17.798
+2014,Corporate,Central,Mesquite,46.964
+2015,Corporate,Central,Mesquite,
+2016,Corporate,Central,Mesquite,
+2017,Corporate,Central,Mesquite,5.184000000000001
+2014,Corporate,Central,Milwaukee,
+2015,Corporate,Central,Milwaukee,51.84
+2016,Corporate,Central,Milwaukee,2409.0699999999997
+2017,Corporate,Central,Milwaukee,3122.090000000001
+2014,Corporate,Central,Minneapolis,67.15
+2015,Corporate,Central,Minneapolis,
+2016,Corporate,Central,Minneapolis,18.84
+2017,Corporate,Central,Minneapolis,
+2014,Corporate,Central,Missouri City,
+2015,Corporate,Central,Missouri City,
+2016,Corporate,Central,Missouri City,
+2017,Corporate,Central,Missouri City,6.369999999999998
+2014,Corporate,Central,Naperville,
+2015,Corporate,Central,Naperville,
+2016,Corporate,Central,Naperville,
+2017,Corporate,Central,Naperville,147.168
+2014,Corporate,Central,Noblesville,
+2015,Corporate,Central,Noblesville,
+2016,Corporate,Central,Noblesville,2678.94
+2017,Corporate,Central,Noblesville,
+2014,Corporate,Central,Norman,
+2015,Corporate,Central,Norman,
+2016,Corporate,Central,Norman,63.88
+2017,Corporate,Central,Norman,
+2014,Corporate,Central,Oak Park,
+2015,Corporate,Central,Oak Park,
+2016,Corporate,Central,Oak Park,
+2017,Corporate,Central,Oak Park,591.0519999999999
+2014,Corporate,Central,Odessa,
+2015,Corporate,Central,Odessa,
+2016,Corporate,Central,Odessa,606.2139999999998
+2017,Corporate,Central,Odessa,29.793999999999997
+2014,Corporate,Central,Oklahoma City,
+2015,Corporate,Central,Oklahoma City,
+2016,Corporate,Central,Oklahoma City,94.94999999999999
+2017,Corporate,Central,Oklahoma City,
+2014,Corporate,Central,Omaha,174.04
+2015,Corporate,Central,Omaha,128.36
+2016,Corporate,Central,Omaha,
+2017,Corporate,Central,Omaha,
+2014,Corporate,Central,Overland Park,
+2015,Corporate,Central,Overland Park,
+2016,Corporate,Central,Overland Park,186.95
+2017,Corporate,Central,Overland Park,419.96
+2014,Corporate,Central,Palatine,
+2015,Corporate,Central,Palatine,
+2016,Corporate,Central,Palatine,
+2017,Corporate,Central,Palatine,116.312
+2014,Corporate,Central,Pasadena,20.736000000000004
+2015,Corporate,Central,Pasadena,
+2016,Corporate,Central,Pasadena,1184.6999999999998
+2017,Corporate,Central,Pasadena,22.264
+2014,Corporate,Central,Pearland,
+2015,Corporate,Central,Pearland,
+2016,Corporate,Central,Pearland,
+2017,Corporate,Central,Pearland,24.619999999999997
+2014,Corporate,Central,Peoria,12.461999999999996
+2015,Corporate,Central,Peoria,
+2016,Corporate,Central,Peoria,
+2017,Corporate,Central,Peoria,125.97999999999999
+2014,Corporate,Central,Plano,
+2015,Corporate,Central,Plano,
+2016,Corporate,Central,Plano,
+2017,Corporate,Central,Plano,9.856000000000002
+2014,Corporate,Central,Port Arthur,5.184000000000001
+2015,Corporate,Central,Port Arthur,697.8208
+2016,Corporate,Central,Port Arthur,
+2017,Corporate,Central,Port Arthur,
+2014,Corporate,Central,Quincy,
+2015,Corporate,Central,Quincy,
+2016,Corporate,Central,Quincy,99.13600000000001
+2017,Corporate,Central,Quincy,78.04
+2014,Corporate,Central,Rapid City,152.64000000000001
+2015,Corporate,Central,Rapid City,
+2016,Corporate,Central,Rapid City,
+2017,Corporate,Central,Rapid City,
+2014,Corporate,Central,Richardson,
+2015,Corporate,Central,Richardson,
+2016,Corporate,Central,Richardson,1288.4640000000004
+2017,Corporate,Central,Richardson,
+2014,Corporate,Central,Richmond,146.64999999999998
+2015,Corporate,Central,Richmond,714.3000000000001
+2016,Corporate,Central,Richmond,22.48
+2017,Corporate,Central,Richmond,177.2
+2014,Corporate,Central,Rochester,
+2015,Corporate,Central,Rochester,43
+2016,Corporate,Central,Rochester,
+2017,Corporate,Central,Rochester,
+2014,Corporate,Central,Rockford,
+2015,Corporate,Central,Rockford,
+2016,Corporate,Central,Rockford,442.37199999999996
+2017,Corporate,Central,Rockford,227.72800000000004
+2014,Corporate,Central,Roseville,
+2015,Corporate,Central,Roseville,
+2016,Corporate,Central,Roseville,68.52
+2017,Corporate,Central,Roseville,50.4
+2014,Corporate,Central,Round Rock,
+2015,Corporate,Central,Round Rock,
+2016,Corporate,Central,Round Rock,
+2017,Corporate,Central,Round Rock,341.96
+2014,Corporate,Central,Saint Charles,
+2015,Corporate,Central,Saint Charles,10.56
+2016,Corporate,Central,Saint Charles,
+2017,Corporate,Central,Saint Charles,
+2014,Corporate,Central,Saint Cloud,
+2015,Corporate,Central,Saint Cloud,
+2016,Corporate,Central,Saint Cloud,
+2017,Corporate,Central,Saint Cloud,1331.8200000000002
+2014,Corporate,Central,Saint Louis,25.92
+2015,Corporate,Central,Saint Louis,52.59
+2016,Corporate,Central,Saint Louis,
+2017,Corporate,Central,Saint Louis,
+2014,Corporate,Central,Saint Paul,
+2015,Corporate,Central,Saint Paul,
+2016,Corporate,Central,Saint Paul,192.82999999999998
+2017,Corporate,Central,Saint Paul,
+2014,Corporate,Central,San Angelo,
+2015,Corporate,Central,San Angelo,
+2016,Corporate,Central,San Angelo,
+2017,Corporate,Central,San Angelo,305.312
+2014,Corporate,Central,San Antonio,1116.822
+2015,Corporate,Central,San Antonio,1362.8120000000004
+2016,Corporate,Central,San Antonio,376.64000000000004
+2017,Corporate,Central,San Antonio,786.0359999999998
+2014,Corporate,Central,San Marcos,108.44399999999999
+2015,Corporate,Central,San Marcos,
+2016,Corporate,Central,San Marcos,
+2017,Corporate,Central,San Marcos,
+2014,Corporate,Central,Sioux Falls,9.510000000000002
+2015,Corporate,Central,Sioux Falls,
+2016,Corporate,Central,Sioux Falls,
+2017,Corporate,Central,Sioux Falls,1107.6799999999998
+2014,Corporate,Central,Skokie,12.624
+2015,Corporate,Central,Skokie,
+2016,Corporate,Central,Skokie,
+2017,Corporate,Central,Skokie,23.887999999999998
+2014,Corporate,Central,Springfield,
+2015,Corporate,Central,Springfield,5595.56
+2016,Corporate,Central,Springfield,119.25999999999999
+2017,Corporate,Central,Springfield,4619.329999999999
+2014,Corporate,Central,Taylor,9.84
+2015,Corporate,Central,Taylor,41.9
+2016,Corporate,Central,Taylor,
+2017,Corporate,Central,Taylor,
+2014,Corporate,Central,Tinley Park,
+2015,Corporate,Central,Tinley Park,22.288
+2016,Corporate,Central,Tinley Park,
+2017,Corporate,Central,Tinley Park,
+2014,Corporate,Central,Trenton,
+2015,Corporate,Central,Trenton,
+2016,Corporate,Central,Trenton,
+2017,Corporate,Central,Trenton,41.28
+2014,Corporate,Central,Tulsa,
+2015,Corporate,Central,Tulsa,
+2016,Corporate,Central,Tulsa,806.1899999999999
+2017,Corporate,Central,Tulsa,
+2014,Corporate,Central,Waco,
+2015,Corporate,Central,Waco,
+2016,Corporate,Central,Waco,
+2017,Corporate,Central,Waco,0.5559999999999998
+2014,Corporate,Central,West Allis,
+2015,Corporate,Central,West Allis,
+2016,Corporate,Central,West Allis,250.48000000000002
+2017,Corporate,Central,West Allis,
+2014,Corporate,Central,Woodbury,
+2015,Corporate,Central,Woodbury,72.24000000000001
+2016,Corporate,Central,Woodbury,535.41
+2017,Corporate,Central,Woodbury,
+2014,Corporate,Central,Woodstock,
+2015,Corporate,Central,Woodstock,
+2016,Corporate,Central,Woodstock,845.4879999999999
+2017,Corporate,Central,Woodstock,
+2014,Corporate,East,Akron,
+2015,Corporate,East,Akron,
+2016,Corporate,East,Akron,787.044
+2017,Corporate,East,Akron,1034.828
+2014,Corporate,East,Altoona,
+2015,Corporate,East,Altoona,20.451
+2016,Corporate,East,Altoona,
+2017,Corporate,East,Altoona,
+2014,Corporate,East,Atlantic City,
+2015,Corporate,East,Atlantic City,
+2016,Corporate,East,Atlantic City,23.36
+2017,Corporate,East,Atlantic City,
+2014,Corporate,East,Auburn,
+2015,Corporate,East,Auburn,
+2016,Corporate,East,Auburn,
+2017,Corporate,East,Auburn,584.9800000000001
+2014,Corporate,East,Baltimore,526.9599999999999
+2015,Corporate,East,Baltimore,854.02
+2016,Corporate,East,Baltimore,207.76
+2017,Corporate,East,Baltimore,755.7900000000001
+2014,Corporate,East,Bangor,617.12
+2015,Corporate,East,Bangor,
+2016,Corporate,East,Bangor,547.3299999999999
+2017,Corporate,East,Bangor,
+2014,Corporate,East,Belleville,
+2015,Corporate,East,Belleville,
+2016,Corporate,East,Belleville,1263.67
+2017,Corporate,East,Belleville,
+2014,Corporate,East,Bethlehem,
+2015,Corporate,East,Bethlehem,132.94
+2016,Corporate,East,Bethlehem,
+2017,Corporate,East,Bethlehem,
+2014,Corporate,East,Beverly,2583.1899999999996
+2015,Corporate,East,Beverly,
+2016,Corporate,East,Beverly,
+2017,Corporate,East,Beverly,
+2014,Corporate,East,Bowling Green,
+2015,Corporate,East,Bowling Green,
+2016,Corporate,East,Bowling Green,
+2017,Corporate,East,Bowling Green,1126.294
+2014,Corporate,East,Bridgeton,
+2015,Corporate,East,Bridgeton,
+2016,Corporate,East,Bridgeton,52.410000000000004
+2017,Corporate,East,Bridgeton,
+2014,Corporate,East,Bristol,455.23
+2015,Corporate,East,Bristol,238.11
+2016,Corporate,East,Bristol,
+2017,Corporate,East,Bristol,
+2014,Corporate,East,Buffalo,199.89999999999998
+2015,Corporate,East,Buffalo,1522.638
+2016,Corporate,East,Buffalo,
+2017,Corporate,East,Buffalo,198.54999999999998
+2014,Corporate,East,Burlington,
+2015,Corporate,East,Burlington,4404.9
+2016,Corporate,East,Burlington,1672.31
+2017,Corporate,East,Burlington,205.03
+2014,Corporate,East,Chester,
+2015,Corporate,East,Chester,
+2016,Corporate,East,Chester,
+2017,Corporate,East,Chester,199.491
+2014,Corporate,East,Cincinnati,
+2015,Corporate,East,Cincinnati,
+2016,Corporate,East,Cincinnati,889.38
+2017,Corporate,East,Cincinnati,94.78399999999999
+2014,Corporate,East,Cleveland,
+2015,Corporate,East,Cleveland,
+2016,Corporate,East,Cleveland,
+2017,Corporate,East,Cleveland,144.904
+2014,Corporate,East,Clinton,463.04
+2015,Corporate,East,Clinton,2593.6400000000003
+2016,Corporate,East,Clinton,
+2017,Corporate,East,Clinton,272.96999999999997
+2014,Corporate,East,Columbia,
+2015,Corporate,East,Columbia,
+2016,Corporate,East,Columbia,122.34
+2017,Corporate,East,Columbia,5031.100000000001
+2014,Corporate,East,Columbus,2535.782
+2015,Corporate,East,Columbus,369.674
+2016,Corporate,East,Columbus,1252.636
+2017,Corporate,East,Columbus,856.226
+2014,Corporate,East,Concord,292.82
+2015,Corporate,East,Concord,
+2016,Corporate,East,Concord,
+2017,Corporate,East,Concord,247.44
+2014,Corporate,East,Cranston,
+2015,Corporate,East,Cranston,
+2016,Corporate,East,Cranston,
+2017,Corporate,East,Cranston,1212.74
+2014,Corporate,East,Cuyahoga Falls,
+2015,Corporate,East,Cuyahoga Falls,8.352
+2016,Corporate,East,Cuyahoga Falls,
+2017,Corporate,East,Cuyahoga Falls,
+2014,Corporate,East,Dover,211.66000000000003
+2015,Corporate,East,Dover,35.88
+2016,Corporate,East,Dover,371.94
+2017,Corporate,East,Dover,
+2014,Corporate,East,Dublin,
+2015,Corporate,East,Dublin,
+2016,Corporate,East,Dublin,
+2017,Corporate,East,Dublin,1057.446
+2014,Corporate,East,Elyria,
+2015,Corporate,East,Elyria,
+2016,Corporate,East,Elyria,
+2017,Corporate,East,Elyria,1.8240000000000003
+2014,Corporate,East,Fairfield,795.4080000000001
+2015,Corporate,East,Fairfield,470.35999999999996
+2016,Corporate,East,Fairfield,537.6160000000001
+2017,Corporate,East,Fairfield,607.55
+2014,Corporate,East,Franklin,
+2015,Corporate,East,Franklin,129.52
+2016,Corporate,East,Franklin,81.94
+2017,Corporate,East,Franklin,1528.7139999999997
+2014,Corporate,East,Gaithersburg,
+2015,Corporate,East,Gaithersburg,
+2016,Corporate,East,Gaithersburg,405.91999999999996
+2017,Corporate,East,Gaithersburg,
+2014,Corporate,East,Hackensack,1456.16
+2015,Corporate,East,Hackensack,
+2016,Corporate,East,Hackensack,
+2017,Corporate,East,Hackensack,
+2014,Corporate,East,Hempstead,
+2015,Corporate,East,Hempstead,
+2016,Corporate,East,Hempstead,1671.08
+2017,Corporate,East,Hempstead,7.98
+2014,Corporate,East,Jamestown,159.98
+2015,Corporate,East,Jamestown,
+2016,Corporate,East,Jamestown,
+2017,Corporate,East,Jamestown,
+2014,Corporate,East,Kent,
+2015,Corporate,East,Kent,
+2016,Corporate,East,Kent,103.96799999999999
+2017,Corporate,East,Kent,
+2014,Corporate,East,Lakewood,461.13
+2015,Corporate,East,Lakewood,235.97
+2016,Corporate,East,Lakewood,9834.305999999999
+2017,Corporate,East,Lakewood,1327.3160000000003
+2014,Corporate,East,Lancaster,44.91000000000001
+2015,Corporate,East,Lancaster,
+2016,Corporate,East,Lancaster,2.907
+2017,Corporate,East,Lancaster,727.5840000000001
+2014,Corporate,East,Laurel,
+2015,Corporate,East,Laurel,
+2016,Corporate,East,Laurel,
+2017,Corporate,East,Laurel,152.59
+2014,Corporate,East,Lawrence,46.26
+2015,Corporate,East,Lawrence,287.84000000000003
+2016,Corporate,East,Lawrence,
+2017,Corporate,East,Lawrence,1321.96
+2014,Corporate,East,Leominster,
+2015,Corporate,East,Leominster,191.62
+2016,Corporate,East,Leominster,
+2017,Corporate,East,Leominster,
+2014,Corporate,East,Linden,115.36
+2015,Corporate,East,Linden,
+2016,Corporate,East,Linden,
+2017,Corporate,East,Linden,
+2014,Corporate,East,Lindenhurst,
+2015,Corporate,East,Lindenhurst,55.48
+2016,Corporate,East,Lindenhurst,
+2017,Corporate,East,Lindenhurst,
+2014,Corporate,East,Long Beach,1175.228
+2015,Corporate,East,Long Beach,1554.1080000000002
+2016,Corporate,East,Long Beach,34.38
+2017,Corporate,East,Long Beach,41.4
+2014,Corporate,East,Lorain,1421.664
+2015,Corporate,East,Lorain,
+2016,Corporate,East,Lorain,402.645
+2017,Corporate,East,Lorain,
+2014,Corporate,East,Lowell,2304.37
+2015,Corporate,East,Lowell,
+2016,Corporate,East,Lowell,105.52
+2017,Corporate,East,Lowell,69.93
+2014,Corporate,East,Manchester,
+2015,Corporate,East,Manchester,
+2016,Corporate,East,Manchester,1179.27
+2017,Corporate,East,Manchester,
+2014,Corporate,East,Marion,
+2015,Corporate,East,Marion,1568.8620000000003
+2016,Corporate,East,Marion,
+2017,Corporate,East,Marion,168
+2014,Corporate,East,Mason,94.26400000000001
+2015,Corporate,East,Mason,
+2016,Corporate,East,Mason,
+2017,Corporate,East,Mason,
+2014,Corporate,East,Medina,
+2015,Corporate,East,Medina,1816.6960000000001
+2016,Corporate,East,Medina,
+2017,Corporate,East,Medina,
+2014,Corporate,East,Meriden,1217.3799999999999
+2015,Corporate,East,Meriden,
+2016,Corporate,East,Meriden,
+2017,Corporate,East,Meriden,
+2014,Corporate,East,Middletown,
+2015,Corporate,East,Middletown,26.9
+2016,Corporate,East,Middletown,48.16
+2017,Corporate,East,Middletown,181.95
+2014,Corporate,East,Milford,
+2015,Corporate,East,Milford,
+2016,Corporate,East,Milford,
+2017,Corporate,East,Milford,694.6700000000001
+2014,Corporate,East,Morristown,
+2015,Corporate,East,Morristown,
+2016,Corporate,East,Morristown,1793.98
+2017,Corporate,East,Morristown,74.45
+2014,Corporate,East,Mount Vernon,7.752000000000001
+2015,Corporate,East,Mount Vernon,
+2016,Corporate,East,Mount Vernon,
+2017,Corporate,East,Mount Vernon,1974.71
+2014,Corporate,East,Nashua,
+2015,Corporate,East,Nashua,
+2016,Corporate,East,Nashua,21.12
+2017,Corporate,East,Nashua,
+2014,Corporate,East,New Bedford,
+2015,Corporate,East,New Bedford,52.199999999999996
+2016,Corporate,East,New Bedford,
+2017,Corporate,East,New Bedford,160.59000000000003
+2014,Corporate,East,New York City,6896.981000000001
+2015,Corporate,East,New York City,17343.742
+2016,Corporate,East,New York City,15183.775999999996
+2017,Corporate,East,New York City,23958.749999999993
+2014,Corporate,East,Newark,3339.1859999999997
+2015,Corporate,East,Newark,1253.09
+2016,Corporate,East,Newark,451.886
+2017,Corporate,East,Newark,2566.786
+2014,Corporate,East,Norwich,
+2015,Corporate,East,Norwich,
+2016,Corporate,East,Norwich,11.34
+2017,Corporate,East,Norwich,
+2014,Corporate,East,Oceanside,25.951999999999998
+2015,Corporate,East,Oceanside,
+2016,Corporate,East,Oceanside,405.29999999999995
+2017,Corporate,East,Oceanside,
+2014,Corporate,East,Orange,81.88000000000001
+2015,Corporate,East,Orange,
+2016,Corporate,East,Orange,
+2017,Corporate,East,Orange,
+2014,Corporate,East,Paterson,
+2015,Corporate,East,Paterson,345.26
+2016,Corporate,East,Paterson,
+2017,Corporate,East,Paterson,6.540000000000001
+2014,Corporate,East,Perth Amboy,
+2015,Corporate,East,Perth Amboy,
+2016,Corporate,East,Perth Amboy,815.12
+2017,Corporate,East,Perth Amboy,
+2014,Corporate,East,Philadelphia,6352.806
+2015,Corporate,East,Philadelphia,4420.6179999999995
+2016,Corporate,East,Philadelphia,6869.597000000001
+2017,Corporate,East,Philadelphia,11247.822
+2014,Corporate,East,Plainfield,
+2015,Corporate,East,Plainfield,
+2016,Corporate,East,Plainfield,910.53
+2017,Corporate,East,Plainfield,
+2014,Corporate,East,Providence,
+2015,Corporate,East,Providence,599.8999999999999
+2016,Corporate,East,Providence,12.96
+2017,Corporate,East,Providence,986.1199999999999
+2014,Corporate,East,Reading,545.928
+2015,Corporate,East,Reading,15.008000000000003
+2016,Corporate,East,Reading,
+2017,Corporate,East,Reading,
+2014,Corporate,East,Revere,73.19999999999999
+2015,Corporate,East,Revere,702.74
+2016,Corporate,East,Revere,
+2017,Corporate,East,Revere,
+2014,Corporate,East,Rochester,
+2015,Corporate,East,Rochester,167.31
+2016,Corporate,East,Rochester,1133.6660000000002
+2017,Corporate,East,Rochester,194.31400000000002
+2014,Corporate,East,Rome,
+2015,Corporate,East,Rome,90.882
+2016,Corporate,East,Rome,
+2017,Corporate,East,Rome,
+2014,Corporate,East,Springfield,
+2015,Corporate,East,Springfield,637.27
+2016,Corporate,East,Springfield,82.44
+2017,Corporate,East,Springfield,1621.0230000000004
+2014,Corporate,East,Toledo,
+2015,Corporate,East,Toledo,795.558
+2016,Corporate,East,Toledo,259.048
+2017,Corporate,East,Toledo,17.480000000000004
+2014,Corporate,East,Troy,257.752
+2015,Corporate,East,Troy,498.49199999999996
+2016,Corporate,East,Troy,23.976
+2017,Corporate,East,Troy,
+2014,Corporate,East,Utica,
+2015,Corporate,East,Utica,
+2016,Corporate,East,Utica,40.48
+2017,Corporate,East,Utica,
+2014,Corporate,East,Vineland,
+2015,Corporate,East,Vineland,11.12
+2016,Corporate,East,Vineland,239.43
+2017,Corporate,East,Vineland,
+2014,Corporate,East,Warwick,
+2015,Corporate,East,Warwick,
+2016,Corporate,East,Warwick,2111.92
+2017,Corporate,East,Warwick,314.91999999999996
+2014,Corporate,East,Waterbury,
+2015,Corporate,East,Waterbury,
+2016,Corporate,East,Waterbury,584.7700000000001
+2017,Corporate,East,Waterbury,
+2014,Corporate,East,Watertown,1609.3980000000001
+2015,Corporate,East,Watertown,
+2016,Corporate,East,Watertown,
+2017,Corporate,East,Watertown,1454.844
+2014,Corporate,East,Westfield,
+2015,Corporate,East,Westfield,
+2016,Corporate,East,Westfield,31.56
+2017,Corporate,East,Westfield,129.93
+2014,Corporate,East,Wilmington,1271.4199999999998
+2015,Corporate,East,Wilmington,1214.446
+2016,Corporate,East,Wilmington,
+2017,Corporate,East,Wilmington,
+2014,Corporate,East,Woonsocket,
+2015,Corporate,East,Woonsocket,51.449999999999996
+2016,Corporate,East,Woonsocket,
+2017,Corporate,East,Woonsocket,91.14
+2014,Corporate,East,York,
+2015,Corporate,East,York,
+2016,Corporate,East,York,714.498
+2017,Corporate,East,York,103.48
+2014,Corporate,South,Alexandria,4251.919999999999
+2015,Corporate,South,Alexandria,192.22
+2016,Corporate,South,Alexandria,
+2017,Corporate,South,Alexandria,
+2014,Corporate,South,Apopka,
+2015,Corporate,South,Apopka,
+2016,Corporate,South,Apopka,29.97000000000001
+2017,Corporate,South,Apopka,
+2014,Corporate,South,Arlington,47.32
+2015,Corporate,South,Arlington,
+2016,Corporate,South,Arlington,226.38
+2017,Corporate,South,Arlington,
+2014,Corporate,South,Asheville,24.144000000000002
+2015,Corporate,South,Asheville,
+2016,Corporate,South,Asheville,
+2017,Corporate,South,Asheville,19.008000000000003
+2014,Corporate,South,Athens,12.78
+2015,Corporate,South,Athens,
+2016,Corporate,South,Athens,
+2017,Corporate,South,Athens,286.09
+2014,Corporate,South,Atlanta,9.96
+2015,Corporate,South,Atlanta,
+2016,Corporate,South,Atlanta,
+2017,Corporate,South,Atlanta,3123.8399999999997
+2014,Corporate,South,Bossier City,1417.18
+2015,Corporate,South,Bossier City,
+2016,Corporate,South,Bossier City,
+2017,Corporate,South,Bossier City,
+2014,Corporate,South,Bowling Green,
+2015,Corporate,South,Bowling Green,
+2016,Corporate,South,Bowling Green,140.81
+2017,Corporate,South,Bowling Green,
+2014,Corporate,South,Bristol,170.35200000000003
+2015,Corporate,South,Bristol,157.79400000000004
+2016,Corporate,South,Bristol,40.896
+2017,Corporate,South,Bristol,
+2014,Corporate,South,Burlington,
+2015,Corporate,South,Burlington,
+2016,Corporate,South,Burlington,630.024
+2017,Corporate,South,Burlington,8176.972
+2014,Corporate,South,Cary,259.04
+2015,Corporate,South,Cary,246.168
+2016,Corporate,South,Cary,
+2017,Corporate,South,Cary,
+2014,Corporate,South,Chapel Hill,
+2015,Corporate,South,Chapel Hill,
+2016,Corporate,South,Chapel Hill,
+2017,Corporate,South,Chapel Hill,14.015999999999998
+2014,Corporate,South,Charlotte,1265.9840000000002
+2015,Corporate,South,Charlotte,16.712000000000003
+2016,Corporate,South,Charlotte,2103.132
+2017,Corporate,South,Charlotte,
+2014,Corporate,South,Chattanooga,
+2015,Corporate,South,Chattanooga,
+2016,Corporate,South,Chattanooga,132.22400000000002
+2017,Corporate,South,Chattanooga,8.100000000000001
+2014,Corporate,South,Chesapeake,321.56
+2015,Corporate,South,Chesapeake,125.64
+2016,Corporate,South,Chesapeake,
+2017,Corporate,South,Chesapeake,
+2014,Corporate,South,Columbia,1295.26
+2015,Corporate,South,Columbia,653.73
+2016,Corporate,South,Columbia,278.30000000000007
+2017,Corporate,South,Columbia,1893.786
+2014,Corporate,South,Columbus,1367.52
+2015,Corporate,South,Columbus,976.2500000000001
+2016,Corporate,South,Columbus,408.70000000000005
+2017,Corporate,South,Columbus,1742.7800000000002
+2014,Corporate,South,Coral Gables,
+2015,Corporate,South,Coral Gables,
+2016,Corporate,South,Coral Gables,64.24799999999999
+2017,Corporate,South,Coral Gables,
+2014,Corporate,South,Coral Springs,
+2015,Corporate,South,Coral Springs,118.896
+2016,Corporate,South,Coral Springs,
+2017,Corporate,South,Coral Springs,
+2014,Corporate,South,Decatur,1737.8400000000001
+2015,Corporate,South,Decatur,976.29
+2016,Corporate,South,Decatur,224.9
+2017,Corporate,South,Decatur,
+2014,Corporate,South,Delray Beach,
+2015,Corporate,South,Delray Beach,
+2016,Corporate,South,Delray Beach,232.62400000000002
+2017,Corporate,South,Delray Beach,
+2014,Corporate,South,Deltona,581.1039999999999
+2015,Corporate,South,Deltona,
+2016,Corporate,South,Deltona,
+2017,Corporate,South,Deltona,
+2014,Corporate,South,Durham,
+2015,Corporate,South,Durham,341.72
+2016,Corporate,South,Durham,
+2017,Corporate,South,Durham,30.336000000000006
+2014,Corporate,South,East Point,
+2015,Corporate,South,East Point,268.4
+2016,Corporate,South,East Point,
+2017,Corporate,South,East Point,
+2014,Corporate,South,Fayetteville,123.174
+2015,Corporate,South,Fayetteville,12.158000000000003
+2016,Corporate,South,Fayetteville,
+2017,Corporate,South,Fayetteville,402.822
+2014,Corporate,South,Florence,
+2015,Corporate,South,Florence,53.28
+2016,Corporate,South,Florence,
+2017,Corporate,South,Florence,813.21
+2014,Corporate,South,Fort Lauderdale,
+2015,Corporate,South,Fort Lauderdale,
+2016,Corporate,South,Fort Lauderdale,519.68
+2017,Corporate,South,Fort Lauderdale,1158.12
+2014,Corporate,South,Franklin,
+2015,Corporate,South,Franklin,
+2016,Corporate,South,Franklin,82.91999999999999
+2017,Corporate,South,Franklin,55.93600000000001
+2014,Corporate,South,Greensboro,
+2015,Corporate,South,Greensboro,64.68
+2016,Corporate,South,Greensboro,140.183
+2017,Corporate,South,Greensboro,1922.976
+2014,Corporate,South,Greenville,
+2015,Corporate,South,Greenville,
+2016,Corporate,South,Greenville,17.616000000000003
+2017,Corporate,South,Greenville,
+2014,Corporate,South,Gulfport,
+2015,Corporate,South,Gulfport,
+2016,Corporate,South,Gulfport,117.81
+2017,Corporate,South,Gulfport,
+2014,Corporate,South,Hampton,1417.35
+2015,Corporate,South,Hampton,
+2016,Corporate,South,Hampton,
+2017,Corporate,South,Hampton,
+2014,Corporate,South,Hattiesburg,
+2015,Corporate,South,Hattiesburg,239.70000000000002
+2016,Corporate,South,Hattiesburg,
+2017,Corporate,South,Hattiesburg,
+2014,Corporate,South,Henderson,999.9399999999999
+2015,Corporate,South,Henderson,596.48
+2016,Corporate,South,Henderson,
+2017,Corporate,South,Henderson,3291.07
+2014,Corporate,South,Hialeah,1015.8160000000001
+2015,Corporate,South,Hialeah,
+2016,Corporate,South,Hialeah,45.584
+2017,Corporate,South,Hialeah,
+2014,Corporate,South,Hollywood,
+2015,Corporate,South,Hollywood,
+2016,Corporate,South,Hollywood,9.216
+2017,Corporate,South,Hollywood,
+2014,Corporate,South,Hoover,
+2015,Corporate,South,Hoover,
+2016,Corporate,South,Hoover,
+2017,Corporate,South,Hoover,525.85
+2014,Corporate,South,Huntsville,
+2015,Corporate,South,Huntsville,19.56
+2016,Corporate,South,Huntsville,1517.01
+2017,Corporate,South,Huntsville,26.16
+2014,Corporate,South,Jackson,103.5
+2015,Corporate,South,Jackson,754.932
+2016,Corporate,South,Jackson,
+2017,Corporate,South,Jackson,
+2014,Corporate,South,Jacksonville,92.751
+2015,Corporate,South,Jacksonville,899.9110000000001
+2016,Corporate,South,Jacksonville,1198.7920000000004
+2017,Corporate,South,Jacksonville,3712.594
+2014,Corporate,South,Knoxville,431.31000000000006
+2015,Corporate,South,Knoxville,
+2016,Corporate,South,Knoxville,
+2017,Corporate,South,Knoxville,342.23999999999995
+2014,Corporate,South,Lafayette,364.92999999999995
+2015,Corporate,South,Lafayette,
+2016,Corporate,South,Lafayette,
+2017,Corporate,South,Lafayette,
+2014,Corporate,South,Lakeland,590.7620000000001
+2015,Corporate,South,Lakeland,3165.744
+2016,Corporate,South,Lakeland,562.2925000000001
+2017,Corporate,South,Lakeland,
+2014,Corporate,South,Little Rock,484.78999999999996
+2015,Corporate,South,Little Rock,
+2016,Corporate,South,Little Rock,
+2017,Corporate,South,Little Rock,1152.8700000000001
+2014,Corporate,South,Louisville,
+2015,Corporate,South,Louisville,
+2016,Corporate,South,Louisville,
+2017,Corporate,South,Louisville,936.1600000000001
+2014,Corporate,South,Macon,116.85
+2015,Corporate,South,Macon,38.88
+2016,Corporate,South,Macon,
+2017,Corporate,South,Macon,
+2014,Corporate,South,Marietta,
+2015,Corporate,South,Marietta,
+2016,Corporate,South,Marietta,2673.69
+2017,Corporate,South,Marietta,
+2014,Corporate,South,Melbourne,
+2015,Corporate,South,Melbourne,
+2016,Corporate,South,Melbourne,
+2017,Corporate,South,Melbourne,95.616
+2014,Corporate,South,Memphis,661.5040000000001
+2015,Corporate,South,Memphis,94.688
+2016,Corporate,South,Memphis,
+2017,Corporate,South,Memphis,96.04100000000001
+2014,Corporate,South,Miami,1.8690000000000004
+2015,Corporate,South,Miami,1449.6150000000002
+2016,Corporate,South,Miami,875.5440000000002
+2017,Corporate,South,Miami,712.3300000000002
+2014,Corporate,South,Miramar,
+2015,Corporate,South,Miramar,
+2016,Corporate,South,Miramar,
+2017,Corporate,South,Miramar,552.856
+2014,Corporate,South,Mobile,
+2015,Corporate,South,Mobile,
+2016,Corporate,South,Mobile,3236.41
+2017,Corporate,South,Mobile,
+2014,Corporate,South,Monroe,
+2015,Corporate,South,Monroe,207
+2016,Corporate,South,Monroe,100.24000000000001
+2017,Corporate,South,Monroe,103.968
+2014,Corporate,South,Montgomery,2216.7999999999997
+2015,Corporate,South,Montgomery,478.4
+2016,Corporate,South,Montgomery,
+2017,Corporate,South,Montgomery,10.16
+2014,Corporate,South,Murfreesboro,
+2015,Corporate,South,Murfreesboro,306.9890000000001
+2016,Corporate,South,Murfreesboro,14.352000000000002
+2017,Corporate,South,Murfreesboro,15.991999999999999
+2014,Corporate,South,Nashville,
+2015,Corporate,South,Nashville,104.664
+2016,Corporate,South,Nashville,31.086000000000006
+2017,Corporate,South,Nashville,3024.3520000000003
+2014,Corporate,South,Newport News,788.86
+2015,Corporate,South,Newport News,
+2016,Corporate,South,Newport News,
+2017,Corporate,South,Newport News,
+2014,Corporate,South,North Charleston,
+2015,Corporate,South,North Charleston,
+2016,Corporate,South,North Charleston,
+2017,Corporate,South,North Charleston,14.76
+2014,Corporate,South,Orlando,6.642000000000001
+2015,Corporate,South,Orlando,
+2016,Corporate,South,Orlando,574.056
+2017,Corporate,South,Orlando,20.736000000000004
+2014,Corporate,South,Owensboro,25.5
+2015,Corporate,South,Owensboro,
+2016,Corporate,South,Owensboro,
+2017,Corporate,South,Owensboro,
+2014,Corporate,South,Palm Coast,242.54600000000002
+2015,Corporate,South,Palm Coast,
+2016,Corporate,South,Palm Coast,7.434000000000001
+2017,Corporate,South,Palm Coast,
+2014,Corporate,South,Plantation,
+2015,Corporate,South,Plantation,838.4840000000002
+2016,Corporate,South,Plantation,
+2017,Corporate,South,Plantation,
+2014,Corporate,South,Pompano Beach,
+2015,Corporate,South,Pompano Beach,
+2016,Corporate,South,Pompano Beach,
+2017,Corporate,South,Pompano Beach,90.44
+2014,Corporate,South,Port Saint Lucie,
+2015,Corporate,South,Port Saint Lucie,231.92000000000002
+2016,Corporate,South,Port Saint Lucie,
+2017,Corporate,South,Port Saint Lucie,
+2014,Corporate,South,Raleigh,
+2015,Corporate,South,Raleigh,246.36400000000003
+2016,Corporate,South,Raleigh,
+2017,Corporate,South,Raleigh,1079.0120000000002
+2014,Corporate,South,Richmond,1852.2699999999998
+2015,Corporate,South,Richmond,46.62
+2016,Corporate,South,Richmond,2145.2499999999995
+2017,Corporate,South,Richmond,45.94
+2014,Corporate,South,Roswell,
+2015,Corporate,South,Roswell,24.42
+2016,Corporate,South,Roswell,
+2017,Corporate,South,Roswell,3993.11
+2014,Corporate,South,Saint Petersburg,504.8160000000001
+2015,Corporate,South,Saint Petersburg,937.6080000000001
+2016,Corporate,South,Saint Petersburg,
+2017,Corporate,South,Saint Petersburg,
+2014,Corporate,South,Sandy Springs,21.19
+2015,Corporate,South,Sandy Springs,
+2016,Corporate,South,Sandy Springs,
+2017,Corporate,South,Sandy Springs,524.85
+2014,Corporate,South,Smyrna,67.194
+2015,Corporate,South,Smyrna,670.001
+2016,Corporate,South,Smyrna,104.712
+2017,Corporate,South,Smyrna,
+2014,Corporate,South,Southaven,
+2015,Corporate,South,Southaven,
+2016,Corporate,South,Southaven,
+2017,Corporate,South,Southaven,839.25
+2014,Corporate,South,Springfield,5636.399999999999
+2015,Corporate,South,Springfield,1704.21
+2016,Corporate,South,Springfield,5819.12
+2017,Corporate,South,Springfield,
+2014,Corporate,South,Suffolk,
+2015,Corporate,South,Suffolk,176.63
+2016,Corporate,South,Suffolk,
+2017,Corporate,South,Suffolk,1065.8400000000001
+2014,Corporate,South,Summerville,
+2015,Corporate,South,Summerville,
+2016,Corporate,South,Summerville,
+2017,Corporate,South,Summerville,406.93999999999994
+2014,Corporate,South,Tallahassee,
+2015,Corporate,South,Tallahassee,
+2016,Corporate,South,Tallahassee,452.464
+2017,Corporate,South,Tallahassee,68.967
+2014,Corporate,South,Tamarac,
+2015,Corporate,South,Tamarac,
+2016,Corporate,South,Tamarac,1410.0660000000003
+2017,Corporate,South,Tamarac,
+2014,Corporate,South,Tampa,
+2015,Corporate,South,Tampa,277.632
+2016,Corporate,South,Tampa,324.38700000000006
+2017,Corporate,South,Tampa,2.8960000000000004
+2014,Corporate,South,Texarkana,605.34
+2015,Corporate,South,Texarkana,
+2016,Corporate,South,Texarkana,
+2017,Corporate,South,Texarkana,
+2014,Corporate,South,Virginia Beach,3511.5800000000004
+2015,Corporate,South,Virginia Beach,
+2016,Corporate,South,Virginia Beach,10.96
+2017,Corporate,South,Virginia Beach,
+2014,Corporate,South,Warner Robins,
+2015,Corporate,South,Warner Robins,392.93999999999994
+2016,Corporate,South,Warner Robins,
+2017,Corporate,South,Warner Robins,
+2014,Corporate,South,Wilmington,39.072
+2015,Corporate,South,Wilmington,
+2016,Corporate,South,Wilmington,
+2017,Corporate,South,Wilmington,
+2014,Corporate,South,Wilson,
+2015,Corporate,South,Wilson,
+2016,Corporate,South,Wilson,191.808
+2017,Corporate,South,Wilson,
+2014,Corporate,West,Albuquerque,255.84999999999997
+2015,Corporate,West,Albuquerque,
+2016,Corporate,West,Albuquerque,
+2017,Corporate,West,Albuquerque,702.0519999999999
+2014,Corporate,West,Anaheim,
+2015,Corporate,West,Anaheim,1336.352
+2016,Corporate,West,Anaheim,1293.4879999999998
+2017,Corporate,West,Anaheim,1892.2
+2014,Corporate,West,Antioch,
+2015,Corporate,West,Antioch,
+2016,Corporate,West,Antioch,19.44
+2017,Corporate,West,Antioch,
+2014,Corporate,West,Apple Valley,
+2015,Corporate,West,Apple Valley,
+2016,Corporate,West,Apple Valley,
+2017,Corporate,West,Apple Valley,1295.0249999999999
+2014,Corporate,West,Arvada,
+2015,Corporate,West,Arvada,
+2016,Corporate,West,Arvada,503.4000000000001
+2017,Corporate,West,Arvada,
+2014,Corporate,West,Aurora,209.96800000000002
+2015,Corporate,West,Aurora,164.06400000000002
+2016,Corporate,West,Aurora,752.4100000000001
+2017,Corporate,West,Aurora,337.688
+2014,Corporate,West,Bakersfield,
+2015,Corporate,West,Bakersfield,
+2016,Corporate,West,Bakersfield,36.16
+2017,Corporate,West,Bakersfield,
+2014,Corporate,West,Bellevue,
+2015,Corporate,West,Bellevue,5.28
+2016,Corporate,West,Bellevue,
+2017,Corporate,West,Bellevue,
+2014,Corporate,West,Bellingham,
+2015,Corporate,West,Bellingham,
+2016,Corporate,West,Bellingham,
+2017,Corporate,West,Bellingham,1099.5
+2014,Corporate,West,Billings,8.288
+2015,Corporate,West,Billings,
+2016,Corporate,West,Billings,
+2017,Corporate,West,Billings,
+2014,Corporate,West,Boise,
+2015,Corporate,West,Boise,1004.4999999999999
+2016,Corporate,West,Boise,
+2017,Corporate,West,Boise,
+2014,Corporate,West,Brentwood,371.52
+2015,Corporate,West,Brentwood,
+2016,Corporate,West,Brentwood,
+2017,Corporate,West,Brentwood,3408.412
+2014,Corporate,West,Broomfield,
+2015,Corporate,West,Broomfield,
+2016,Corporate,West,Broomfield,68.43200000000002
+2017,Corporate,West,Broomfield,
+2014,Corporate,West,Caldwell,455.63199999999995
+2015,Corporate,West,Caldwell,
+2016,Corporate,West,Caldwell,
+2017,Corporate,West,Caldwell,
+2014,Corporate,West,Camarillo,
+2015,Corporate,West,Camarillo,1452.7875000000001
+2016,Corporate,West,Camarillo,
+2017,Corporate,West,Camarillo,
+2014,Corporate,West,Carlsbad,
+2015,Corporate,West,Carlsbad,
+2016,Corporate,West,Carlsbad,24.904
+2017,Corporate,West,Carlsbad,126.98
+2014,Corporate,West,Chandler,73.915
+2015,Corporate,West,Chandler,
+2016,Corporate,West,Chandler,
+2017,Corporate,West,Chandler,83.88
+2014,Corporate,West,Chico,
+2015,Corporate,West,Chico,
+2016,Corporate,West,Chico,
+2017,Corporate,West,Chico,753.1120000000001
+2014,Corporate,West,Coachella,
+2015,Corporate,West,Coachella,
+2016,Corporate,West,Coachella,
+2017,Corporate,West,Coachella,163.55
+2014,Corporate,West,Colorado Springs,855.2720000000002
+2015,Corporate,West,Colorado Springs,108.21800000000002
+2016,Corporate,West,Colorado Springs,
+2017,Corporate,West,Colorado Springs,
+2014,Corporate,West,Concord,
+2015,Corporate,West,Concord,
+2016,Corporate,West,Concord,
+2017,Corporate,West,Concord,1629.7120000000002
+2014,Corporate,West,Covington,
+2015,Corporate,West,Covington,46.900000000000006
+2016,Corporate,West,Covington,
+2017,Corporate,West,Covington,
+2014,Corporate,West,Denver,
+2015,Corporate,West,Denver,1185.77
+2016,Corporate,West,Denver,2738.202
+2017,Corporate,West,Denver,1915.624
+2014,Corporate,West,Draper,111.93
+2015,Corporate,West,Draper,
+2016,Corporate,West,Draper,
+2017,Corporate,West,Draper,
+2014,Corporate,West,Edmonds,
+2015,Corporate,West,Edmonds,
+2016,Corporate,West,Edmonds,179.97
+2017,Corporate,West,Edmonds,
+2014,Corporate,West,El Cajon,
+2015,Corporate,West,El Cajon,
+2016,Corporate,West,El Cajon,387.136
+2017,Corporate,West,El Cajon,
+2014,Corporate,West,Escondido,17.248
+2015,Corporate,West,Escondido,
+2016,Corporate,West,Escondido,
+2017,Corporate,West,Escondido,
+2014,Corporate,West,Eugene,
+2015,Corporate,West,Eugene,
+2016,Corporate,West,Eugene,1465.032
+2017,Corporate,West,Eugene,
+2014,Corporate,West,Everett,
+2015,Corporate,West,Everett,
+2016,Corporate,West,Everett,
+2017,Corporate,West,Everett,3.8560000000000003
+2014,Corporate,West,Fairfield,
+2015,Corporate,West,Fairfield,
+2016,Corporate,West,Fairfield,
+2017,Corporate,West,Fairfield,1470.584
+2014,Corporate,West,Farmington,
+2015,Corporate,West,Farmington,
+2016,Corporate,West,Farmington,
+2017,Corporate,West,Farmington,159.99
+2014,Corporate,West,Fresno,67.11200000000001
+2015,Corporate,West,Fresno,
+2016,Corporate,West,Fresno,727.878
+2017,Corporate,West,Fresno,
+2014,Corporate,West,Gilbert,1280.9920000000002
+2015,Corporate,West,Gilbert,1511.5040000000001
+2016,Corporate,West,Gilbert,
+2017,Corporate,West,Gilbert,
+2014,Corporate,West,Glendale,21.376
+2015,Corporate,West,Glendale,266.35200000000003
+2016,Corporate,West,Glendale,138.496
+2017,Corporate,West,Glendale,
+2014,Corporate,West,Gresham,
+2015,Corporate,West,Gresham,
+2016,Corporate,West,Gresham,403.168
+2017,Corporate,West,Gresham,
+2014,Corporate,West,Helena,
+2015,Corporate,West,Helena,
+2016,Corporate,West,Helena,
+2017,Corporate,West,Helena,39.900000000000006
+2014,Corporate,West,Henderson,
+2015,Corporate,West,Henderson,
+2016,Corporate,West,Henderson,1691.6080000000002
+2017,Corporate,West,Henderson,196.45
+2014,Corporate,West,Hesperia,
+2015,Corporate,West,Hesperia,
+2016,Corporate,West,Hesperia,776.4675
+2017,Corporate,West,Hesperia,436.70400000000006
+2014,Corporate,West,Hillsboro,
+2015,Corporate,West,Hillsboro,
+2016,Corporate,West,Hillsboro,
+2017,Corporate,West,Hillsboro,23.766000000000002
+2014,Corporate,West,Huntington Beach,19.16
+2015,Corporate,West,Huntington Beach,
+2016,Corporate,West,Huntington Beach,
+2017,Corporate,West,Huntington Beach,2399.96
+2014,Corporate,West,Inglewood,
+2015,Corporate,West,Inglewood,
+2016,Corporate,West,Inglewood,
+2017,Corporate,West,Inglewood,2986.5920000000006
+2014,Corporate,West,La Quinta,
+2015,Corporate,West,La Quinta,46.32
+2016,Corporate,West,La Quinta,
+2017,Corporate,West,La Quinta,
+2014,Corporate,West,Laguna Niguel,
+2015,Corporate,West,Laguna Niguel,
+2016,Corporate,West,Laguna Niguel,
+2017,Corporate,West,Laguna Niguel,74.04
+2014,Corporate,West,Las Vegas,
+2015,Corporate,West,Las Vegas,161.36
+2016,Corporate,West,Las Vegas,
+2017,Corporate,West,Las Vegas,
+2014,Corporate,West,Lehi,
+2015,Corporate,West,Lehi,16.776000000000003
+2016,Corporate,West,Lehi,
+2017,Corporate,West,Lehi,
+2014,Corporate,West,Lodi,39.68
+2015,Corporate,West,Lodi,
+2016,Corporate,West,Lodi,
+2017,Corporate,West,Lodi,
+2014,Corporate,West,Long Beach,10.1
+2015,Corporate,West,Long Beach,
+2016,Corporate,West,Long Beach,
+2017,Corporate,West,Long Beach,340.70400000000006
+2014,Corporate,West,Longmont,
+2015,Corporate,West,Longmont,
+2016,Corporate,West,Longmont,165.60000000000002
+2017,Corporate,West,Longmont,
+2014,Corporate,West,Los Angeles,9780.984499999997
+2015,Corporate,West,Los Angeles,6266.322000000001
+2016,Corporate,West,Los Angeles,17594.858
+2017,Corporate,West,Los Angeles,13144.073999999997
+2014,Corporate,West,Louisville,
+2015,Corporate,West,Louisville,6.848000000000001
+2016,Corporate,West,Louisville,
+2017,Corporate,West,Louisville,38.760000000000005
+2014,Corporate,West,Loveland,
+2015,Corporate,West,Loveland,
+2016,Corporate,West,Loveland,
+2017,Corporate,West,Loveland,17.94
+2014,Corporate,West,Medford,
+2015,Corporate,West,Medford,9.762
+2016,Corporate,West,Medford,
+2017,Corporate,West,Medford,
+2014,Corporate,West,Meridian,
+2015,Corporate,West,Meridian,
+2016,Corporate,West,Meridian,
+2017,Corporate,West,Meridian,21.312000000000005
+2014,Corporate,West,Mesa,100.70400000000001
+2015,Corporate,West,Mesa,1044.075
+2016,Corporate,West,Mesa,
+2017,Corporate,West,Mesa,
+2014,Corporate,West,Modesto,
+2015,Corporate,West,Modesto,
+2016,Corporate,West,Modesto,
+2017,Corporate,West,Modesto,52.792
+2014,Corporate,West,Montebello,
+2015,Corporate,West,Montebello,
+2016,Corporate,West,Montebello,27.88
+2017,Corporate,West,Montebello,
+2014,Corporate,West,Moreno Valley,
+2015,Corporate,West,Moreno Valley,182.72
+2016,Corporate,West,Moreno Valley,
+2017,Corporate,West,Moreno Valley,
+2014,Corporate,West,North Las Vegas,134.6
+2015,Corporate,West,North Las Vegas,
+2016,Corporate,West,North Las Vegas,58.58
+2017,Corporate,West,North Las Vegas,
+2014,Corporate,West,Oakland,
+2015,Corporate,West,Oakland,
+2016,Corporate,West,Oakland,75.126
+2017,Corporate,West,Oakland,2390.776
+2014,Corporate,West,Oceanside,
+2015,Corporate,West,Oceanside,
+2016,Corporate,West,Oceanside,
+2017,Corporate,West,Oceanside,222.03199999999998
+2014,Corporate,West,Orem,
+2015,Corporate,West,Orem,
+2016,Corporate,West,Orem,
+2017,Corporate,West,Orem,11.68
+2014,Corporate,West,Oxnard,
+2015,Corporate,West,Oxnard,131.48000000000002
+2016,Corporate,West,Oxnard,
+2017,Corporate,West,Oxnard,
+2014,Corporate,West,Parker,
+2015,Corporate,West,Parker,
+2016,Corporate,West,Parker,874.3080000000001
+2017,Corporate,West,Parker,
+2014,Corporate,West,Pasadena,
+2015,Corporate,West,Pasadena,
+2016,Corporate,West,Pasadena,198.84
+2017,Corporate,West,Pasadena,171.288
+2014,Corporate,West,Peoria,
+2015,Corporate,West,Peoria,174.30400000000003
+2016,Corporate,West,Peoria,
+2017,Corporate,West,Peoria,
+2014,Corporate,West,Phoenix,645.1590000000002
+2015,Corporate,West,Phoenix,365.4960000000001
+2016,Corporate,West,Phoenix,532.5190000000001
+2017,Corporate,West,Phoenix,1125.864
+2014,Corporate,West,Pleasant Grove,
+2015,Corporate,West,Pleasant Grove,12.144
+2016,Corporate,West,Pleasant Grove,
+2017,Corporate,West,Pleasant Grove,
+2014,Corporate,West,Pomona,
+2015,Corporate,West,Pomona,
+2016,Corporate,West,Pomona,
+2017,Corporate,West,Pomona,421.42
+2014,Corporate,West,Portland,
+2015,Corporate,West,Portland,
+2016,Corporate,West,Portland,335.8
+2017,Corporate,West,Portland,42.28000000000001
+2014,Corporate,West,Provo,21.98
+2015,Corporate,West,Provo,
+2016,Corporate,West,Provo,
+2017,Corporate,West,Provo,1782.1040000000003
+2014,Corporate,West,Pueblo,
+2015,Corporate,West,Pueblo,3.408
+2016,Corporate,West,Pueblo,
+2017,Corporate,West,Pueblo,
+2014,Corporate,West,Rancho Cucamonga,
+2015,Corporate,West,Rancho Cucamonga,5.76
+2016,Corporate,West,Rancho Cucamonga,
+2017,Corporate,West,Rancho Cucamonga,
+2014,Corporate,West,Redlands,
+2015,Corporate,West,Redlands,14.280000000000001
+2016,Corporate,West,Redlands,
+2017,Corporate,West,Redlands,
+2014,Corporate,West,Redmond,
+2015,Corporate,West,Redmond,
+2016,Corporate,West,Redmond,
+2017,Corporate,West,Redmond,265.299
+2014,Corporate,West,Redondo Beach,1840.0430000000001
+2015,Corporate,West,Redondo Beach,
+2016,Corporate,West,Redondo Beach,
+2017,Corporate,West,Redondo Beach,
+2014,Corporate,West,Redwood City,
+2015,Corporate,West,Redwood City,
+2016,Corporate,West,Redwood City,41.904
+2017,Corporate,West,Redwood City,
+2014,Corporate,West,Reno,
+2015,Corporate,West,Reno,
+2016,Corporate,West,Reno,163.408
+2017,Corporate,West,Reno,
+2014,Corporate,West,Riverside,602.43
+2015,Corporate,West,Riverside,160.4
+2016,Corporate,West,Riverside,1085.688
+2017,Corporate,West,Riverside,
+2014,Corporate,West,Roseville,
+2015,Corporate,West,Roseville,
+2016,Corporate,West,Roseville,423.05
+2017,Corporate,West,Roseville,
+2014,Corporate,West,Sacramento,1403.9200000000003
+2015,Corporate,West,Sacramento,12.832
+2016,Corporate,West,Sacramento,335.12
+2017,Corporate,West,Sacramento,5325.884
+2014,Corporate,West,Salem,344.92
+2015,Corporate,West,Salem,
+2016,Corporate,West,Salem,
+2017,Corporate,West,Salem,
+2014,Corporate,West,Salinas,
+2015,Corporate,West,Salinas,481.69800000000004
+2016,Corporate,West,Salinas,44.040000000000006
+2017,Corporate,West,Salinas,54.89600000000001
+2014,Corporate,West,San Diego,1491.343
+2015,Corporate,West,San Diego,2697.7799999999997
+2016,Corporate,West,San Diego,4375.722000000001
+2017,Corporate,West,San Diego,1886.2259999999999
+2014,Corporate,West,San Francisco,6829.850000000001
+2015,Corporate,West,San Francisco,6923.317000000001
+2016,Corporate,West,San Francisco,15820.890000000003
+2017,Corporate,West,San Francisco,15029.783
+2014,Corporate,West,San Jose,
+2015,Corporate,West,San Jose,244.77999999999997
+2016,Corporate,West,San Jose,494.254
+2017,Corporate,West,San Jose,412.99600000000004
+2014,Corporate,West,Santa Ana,
+2015,Corporate,West,Santa Ana,
+2016,Corporate,West,Santa Ana,
+2017,Corporate,West,Santa Ana,163.392
+2014,Corporate,West,Santa Barbara,
+2015,Corporate,West,Santa Barbara,402.14599999999996
+2016,Corporate,West,Santa Barbara,
+2017,Corporate,West,Santa Barbara,
+2014,Corporate,West,Santa Clara,131.84000000000003
+2015,Corporate,West,Santa Clara,
+2016,Corporate,West,Santa Clara,
+2017,Corporate,West,Santa Clara,10.56
+2014,Corporate,West,Scottsdale,
+2015,Corporate,West,Scottsdale,
+2016,Corporate,West,Scottsdale,111.888
+2017,Corporate,West,Scottsdale,307.776
+2014,Corporate,West,Seattle,7951.211999999999
+2015,Corporate,West,Seattle,8635.466
+2016,Corporate,West,Seattle,3991.646
+2017,Corporate,West,Seattle,15613.566000000006
+2014,Corporate,West,Sierra Vista,
+2015,Corporate,West,Sierra Vista,
+2016,Corporate,West,Sierra Vista,61.70400000000001
+2017,Corporate,West,Sierra Vista,
+2014,Corporate,West,Sparks,
+2015,Corporate,West,Sparks,
+2016,Corporate,West,Sparks,2396.4
+2017,Corporate,West,Sparks,
+2014,Corporate,West,Spokane,
+2015,Corporate,West,Spokane,
+2016,Corporate,West,Spokane,837.5999999999999
+2017,Corporate,West,Spokane,719.2980000000001
+2014,Corporate,West,Springfield,64.864
+2015,Corporate,West,Springfield,1475.133
+2016,Corporate,West,Springfield,859.2
+2017,Corporate,West,Springfield,1209.6760000000002
+2014,Corporate,West,Stockton,
+2015,Corporate,West,Stockton,
+2016,Corporate,West,Stockton,273.92
+2017,Corporate,West,Stockton,
+2014,Corporate,West,Sunnyvale,
+2015,Corporate,West,Sunnyvale,
+2016,Corporate,West,Sunnyvale,
+2017,Corporate,West,Sunnyvale,636.21
+2014,Corporate,West,Tempe,677.5440000000001
+2015,Corporate,West,Tempe,
+2016,Corporate,West,Tempe,
+2017,Corporate,West,Tempe,62.352000000000004
+2014,Corporate,West,Thousand Oaks,
+2015,Corporate,West,Thousand Oaks,
+2016,Corporate,West,Thousand Oaks,
+2017,Corporate,West,Thousand Oaks,190.07
+2014,Corporate,West,Tigard,
+2015,Corporate,West,Tigard,
+2016,Corporate,West,Tigard,65.07000000000001
+2017,Corporate,West,Tigard,
+2014,Corporate,West,Torrance,
+2015,Corporate,West,Torrance,
+2016,Corporate,West,Torrance,1120.368
+2017,Corporate,West,Torrance,2011.8999999999999
+2014,Corporate,West,Tucson,388.70399999999995
+2015,Corporate,West,Tucson,238.15200000000004
+2016,Corporate,West,Tucson,852.488
+2017,Corporate,West,Tucson,1475.0539999999999
+2014,Corporate,West,Twin Falls,
+2015,Corporate,West,Twin Falls,
+2016,Corporate,West,Twin Falls,1148.8059999999998
+2017,Corporate,West,Twin Falls,
+2014,Corporate,West,Vancouver,
+2015,Corporate,West,Vancouver,
+2016,Corporate,West,Vancouver,633.1759999999999
+2017,Corporate,West,Vancouver,9.64
+2014,Corporate,West,Visalia,
+2015,Corporate,West,Visalia,7.92
+2016,Corporate,West,Visalia,
+2017,Corporate,West,Visalia,
+2014,Corporate,West,Woodland,
+2015,Corporate,West,Woodland,
+2016,Corporate,West,Woodland,
+2017,Corporate,West,Woodland,24.678
+2014,Corporate,West,Yucaipa,
+2015,Corporate,West,Yucaipa,50.8
+2016,Corporate,West,Yucaipa,
+2017,Corporate,West,Yucaipa,
+2014,Corporate,West,Yuma,
+2015,Corporate,West,Yuma,
+2016,Corporate,West,Yuma,196.02400000000003
+2017,Corporate,West,Yuma,
+2014,Home Office,Central,Ann Arbor,
+2015,Home Office,Central,Ann Arbor,152.79999999999998
+2016,Home Office,Central,Ann Arbor,
+2017,Home Office,Central,Ann Arbor,
+2014,Home Office,Central,Appleton,21.560000000000002
+2015,Home Office,Central,Appleton,
+2016,Home Office,Central,Appleton,
+2017,Home Office,Central,Appleton,
+2014,Home Office,Central,Arlington,
+2015,Home Office,Central,Arlington,
+2016,Home Office,Central,Arlington,
+2017,Home Office,Central,Arlington,11.645999999999997
+2014,Home Office,Central,Aurora,68.204
+2015,Home Office,Central,Aurora,904.1790000000001
+2016,Home Office,Central,Aurora,1103.88
+2017,Home Office,Central,Aurora,298.464
+2014,Home Office,Central,Austin,758.3520000000001
+2015,Home Office,Central,Austin,3.881999999999999
+2016,Home Office,Central,Austin,
+2017,Home Office,Central,Austin,94.508
+2014,Home Office,Central,Bedford,
+2015,Home Office,Central,Bedford,20.96
+2016,Home Office,Central,Bedford,
+2017,Home Office,Central,Bedford,
+2014,Home Office,Central,Bloomington,308.59999999999997
+2015,Home Office,Central,Bloomington,
+2016,Home Office,Central,Bloomington,
+2017,Home Office,Central,Bloomington,
+2014,Home Office,Central,Bolingbrook,9.979999999999997
+2015,Home Office,Central,Bolingbrook,
+2016,Home Office,Central,Bolingbrook,
+2017,Home Office,Central,Bolingbrook,
+2014,Home Office,Central,Broken Arrow,
+2015,Home Office,Central,Broken Arrow,821.94
+2016,Home Office,Central,Broken Arrow,
+2017,Home Office,Central,Broken Arrow,
+2014,Home Office,Central,Brownsville,714.966
+2015,Home Office,Central,Brownsville,
+2016,Home Office,Central,Brownsville,
+2017,Home Office,Central,Brownsville,
+2014,Home Office,Central,Bryan,
+2015,Home Office,Central,Bryan,
+2016,Home Office,Central,Bryan,
+2017,Home Office,Central,Bryan,65.84
+2014,Home Office,Central,Burlington,
+2015,Home Office,Central,Burlington,
+2016,Home Office,Central,Burlington,
+2017,Home Office,Central,Burlington,12.68
+2014,Home Office,Central,Canton,
+2015,Home Office,Central,Canton,
+2016,Home Office,Central,Canton,
+2017,Home Office,Central,Canton,501.81000000000006
+2014,Home Office,Central,Chicago,1567.612
+2015,Home Office,Central,Chicago,489.659
+2016,Home Office,Central,Chicago,3283.291
+2017,Home Office,Central,Chicago,6813.956999999999
+2014,Home Office,Central,Columbia,
+2015,Home Office,Central,Columbia,
+2016,Home Office,Central,Columbia,2377.5600000000004
+2017,Home Office,Central,Columbia,
+2014,Home Office,Central,Columbus,
+2015,Home Office,Central,Columbus,24.56
+2016,Home Office,Central,Columbus,40.879999999999995
+2017,Home Office,Central,Columbus,237.46
+2014,Home Office,Central,Corpus Christi,
+2015,Home Office,Central,Corpus Christi,
+2016,Home Office,Central,Corpus Christi,
+2017,Home Office,Central,Corpus Christi,74.352
+2014,Home Office,Central,Dallas,1340.976
+2015,Home Office,Central,Dallas,14.216
+2016,Home Office,Central,Dallas,231.056
+2017,Home Office,Central,Dallas,2366.352999999999
+2014,Home Office,Central,Danville,
+2015,Home Office,Central,Danville,
+2016,Home Office,Central,Danville,
+2017,Home Office,Central,Danville,43.37199999999999
+2014,Home Office,Central,Des Moines,
+2015,Home Office,Central,Des Moines,25.9
+2016,Home Office,Central,Des Moines,
+2017,Home Office,Central,Des Moines,
+2014,Home Office,Central,Detroit,212.94
+2015,Home Office,Central,Detroit,1472.23
+2016,Home Office,Central,Detroit,569.3599999999999
+2017,Home Office,Central,Detroit,1106.06
+2014,Home Office,Central,Dubuque,
+2015,Home Office,Central,Dubuque,1423.34
+2016,Home Office,Central,Dubuque,
+2017,Home Office,Central,Dubuque,
+2014,Home Office,Central,Eagan,
+2015,Home Office,Central,Eagan,74.94
+2016,Home Office,Central,Eagan,
+2017,Home Office,Central,Eagan,
+2014,Home Office,Central,Eau Claire,91.67999999999999
+2015,Home Office,Central,Eau Claire,
+2016,Home Office,Central,Eau Claire,
+2017,Home Office,Central,Eau Claire,
+2014,Home Office,Central,El Paso,11.364
+2015,Home Office,Central,El Paso,
+2016,Home Office,Central,El Paso,
+2017,Home Office,Central,El Paso,
+2014,Home Office,Central,Elmhurst,651.588
+2015,Home Office,Central,Elmhurst,
+2016,Home Office,Central,Elmhurst,240.04000000000002
+2017,Home Office,Central,Elmhurst,
+2014,Home Office,Central,Fargo,
+2015,Home Office,Central,Fargo,
+2016,Home Office,Central,Fargo,
+2017,Home Office,Central,Fargo,28.38
+2014,Home Office,Central,Fort Worth,
+2015,Home Office,Central,Fort Worth,2150.466
+2016,Home Office,Central,Fort Worth,
+2017,Home Office,Central,Fort Worth,
+2014,Home Office,Central,Franklin,
+2015,Home Office,Central,Franklin,
+2016,Home Office,Central,Franklin,47.97
+2017,Home Office,Central,Franklin,3.6
+2014,Home Office,Central,Fremont,
+2015,Home Office,Central,Fremont,
+2016,Home Office,Central,Fremont,
+2017,Home Office,Central,Fremont,15.92
+2014,Home Office,Central,Frisco,
+2015,Home Office,Central,Frisco,27.168000000000003
+2016,Home Office,Central,Frisco,
+2017,Home Office,Central,Frisco,
+2014,Home Office,Central,Garland,8.544
+2015,Home Office,Central,Garland,
+2016,Home Office,Central,Garland,
+2017,Home Office,Central,Garland,30.384
+2014,Home Office,Central,Grand Prairie,
+2015,Home Office,Central,Grand Prairie,
+2016,Home Office,Central,Grand Prairie,
+2017,Home Office,Central,Grand Prairie,23.680000000000003
+2014,Home Office,Central,Grand Rapids,19.44
+2015,Home Office,Central,Grand Rapids,
+2016,Home Office,Central,Grand Rapids,
+2017,Home Office,Central,Grand Rapids,
+2014,Home Office,Central,Greenwood,
+2015,Home Office,Central,Greenwood,
+2016,Home Office,Central,Greenwood,
+2017,Home Office,Central,Greenwood,240.14999999999998
+2014,Home Office,Central,Highland Park,
+2015,Home Office,Central,Highland Park,
+2016,Home Office,Central,Highland Park,3.1359999999999992
+2017,Home Office,Central,Highland Park,
+2014,Home Office,Central,Holland,
+2015,Home Office,Central,Holland,
+2016,Home Office,Central,Holland,130.36
+2017,Home Office,Central,Holland,
+2014,Home Office,Central,Houston,1558.1218000000001
+2015,Home Office,Central,Houston,2534.1688
+2016,Home Office,Central,Houston,1268.1740000000002
+2017,Home Office,Central,Houston,3115.0644
+2014,Home Office,Central,Huntsville,142.344
+2015,Home Office,Central,Huntsville,
+2016,Home Office,Central,Huntsville,
+2017,Home Office,Central,Huntsville,
+2014,Home Office,Central,Independence,
+2015,Home Office,Central,Independence,
+2016,Home Office,Central,Independence,
+2017,Home Office,Central,Independence,1577.94
+2014,Home Office,Central,Indianapolis,
+2015,Home Office,Central,Indianapolis,999.98
+2016,Home Office,Central,Indianapolis,
+2017,Home Office,Central,Indianapolis,639.83
+2014,Home Office,Central,Jackson,
+2015,Home Office,Central,Jackson,111.74000000000001
+2016,Home Office,Central,Jackson,1110.1399999999999
+2017,Home Office,Central,Jackson,4720.793
+2014,Home Office,Central,Jefferson City,
+2015,Home Office,Central,Jefferson City,
+2016,Home Office,Central,Jefferson City,86.62
+2017,Home Office,Central,Jefferson City,
+2014,Home Office,Central,Kenosha,
+2015,Home Office,Central,Kenosha,
+2016,Home Office,Central,Kenosha,
+2017,Home Office,Central,Kenosha,399.95
+2014,Home Office,Central,Lafayette,
+2015,Home Office,Central,Lafayette,
+2016,Home Office,Central,Lafayette,
+2017,Home Office,Central,Lafayette,526.45
+2014,Home Office,Central,Lakeville,3745.63
+2015,Home Office,Central,Lakeville,155.88
+2016,Home Office,Central,Lakeville,
+2017,Home Office,Central,Lakeville,
+2014,Home Office,Central,Lansing,
+2015,Home Office,Central,Lansing,
+2016,Home Office,Central,Lansing,
+2017,Home Office,Central,Lansing,269.68
+2014,Home Office,Central,Lawrence,
+2015,Home Office,Central,Lawrence,10.74
+2016,Home Office,Central,Lawrence,196.33
+2017,Home Office,Central,Lawrence,
+2014,Home Office,Central,League City,554.1659999999999
+2015,Home Office,Central,League City,
+2016,Home Office,Central,League City,
+2017,Home Office,Central,League City,
+2014,Home Office,Central,Lubbock,
+2015,Home Office,Central,Lubbock,
+2016,Home Office,Central,Lubbock,
+2017,Home Office,Central,Lubbock,11.363999999999997
+2014,Home Office,Central,Manhattan,273.96
+2015,Home Office,Central,Manhattan,
+2016,Home Office,Central,Manhattan,
+2017,Home Office,Central,Manhattan,
+2014,Home Office,Central,Maple Grove,
+2015,Home Office,Central,Maple Grove,
+2016,Home Office,Central,Maple Grove,
+2017,Home Office,Central,Maple Grove,146.89
+2014,Home Office,Central,Marion,
+2015,Home Office,Central,Marion,
+2016,Home Office,Central,Marion,
+2017,Home Office,Central,Marion,106.32
+2014,Home Office,Central,Mcallen,
+2015,Home Office,Central,Mcallen,100.85999999999999
+2016,Home Office,Central,Mcallen,
+2017,Home Office,Central,Mcallen,
+2014,Home Office,Central,Midland,15.28
+2015,Home Office,Central,Midland,3999.702
+2016,Home Office,Central,Midland,
+2017,Home Office,Central,Midland,
+2014,Home Office,Central,Milwaukee,
+2015,Home Office,Central,Milwaukee,2920.42
+2016,Home Office,Central,Milwaukee,490.32
+2017,Home Office,Central,Milwaukee,131.65
+2014,Home Office,Central,Minneapolis,
+2015,Home Office,Central,Minneapolis,
+2016,Home Office,Central,Minneapolis,692.9399999999999
+2017,Home Office,Central,Minneapolis,55.56
+2014,Home Office,Central,Moorhead,479.90000000000003
+2015,Home Office,Central,Moorhead,
+2016,Home Office,Central,Moorhead,
+2017,Home Office,Central,Moorhead,
+2014,Home Office,Central,Muskogee,
+2015,Home Office,Central,Muskogee,
+2016,Home Office,Central,Muskogee,
+2017,Home Office,Central,Muskogee,1721.7
+2014,Home Office,Central,Naperville,288.06
+2015,Home Office,Central,Naperville,
+2016,Home Office,Central,Naperville,
+2017,Home Office,Central,Naperville,
+2014,Home Office,Central,Normal,
+2015,Home Office,Central,Normal,366.74399999999997
+2016,Home Office,Central,Normal,
+2017,Home Office,Central,Normal,
+2014,Home Office,Central,Odessa,340.116
+2015,Home Office,Central,Odessa,
+2016,Home Office,Central,Odessa,
+2017,Home Office,Central,Odessa,
+2014,Home Office,Central,Oklahoma City,
+2015,Home Office,Central,Oklahoma City,
+2016,Home Office,Central,Oklahoma City,2176.19
+2017,Home Office,Central,Oklahoma City,
+2014,Home Office,Central,Olathe,787.8499999999999
+2015,Home Office,Central,Olathe,
+2016,Home Office,Central,Olathe,107.94
+2017,Home Office,Central,Olathe,
+2014,Home Office,Central,Omaha,
+2015,Home Office,Central,Omaha,269.98
+2016,Home Office,Central,Omaha,592.9899999999999
+2017,Home Office,Central,Omaha,58.05
+2014,Home Office,Central,Orland Park,
+2015,Home Office,Central,Orland Park,339.96000000000004
+2016,Home Office,Central,Orland Park,
+2017,Home Office,Central,Orland Park,
+2014,Home Office,Central,Park Ridge,
+2015,Home Office,Central,Park Ridge,254.74400000000003
+2016,Home Office,Central,Park Ridge,286.40000000000003
+2017,Home Office,Central,Park Ridge,
+2014,Home Office,Central,Pasadena,
+2015,Home Office,Central,Pasadena,
+2016,Home Office,Central,Pasadena,657.392
+2017,Home Office,Central,Pasadena,372.446
+2014,Home Office,Central,Peoria,
+2015,Home Office,Central,Peoria,359.05799999999994
+2016,Home Office,Central,Peoria,
+2017,Home Office,Central,Peoria,
+2014,Home Office,Central,Pharr,
+2015,Home Office,Central,Pharr,
+2016,Home Office,Central,Pharr,1416.3039999999999
+2017,Home Office,Central,Pharr,
+2014,Home Office,Central,Plano,
+2015,Home Office,Central,Plano,
+2016,Home Office,Central,Plano,13.616
+2017,Home Office,Central,Plano,
+2014,Home Office,Central,Richmond,
+2015,Home Office,Central,Richmond,112.03999999999999
+2016,Home Office,Central,Richmond,
+2017,Home Office,Central,Richmond,3442.640000000001
+2014,Home Office,Central,Rockford,
+2015,Home Office,Central,Rockford,
+2016,Home Office,Central,Rockford,11.415999999999997
+2017,Home Office,Central,Rockford,254.60399999999998
+2014,Home Office,Central,Roseville,
+2015,Home Office,Central,Roseville,2165.1200000000003
+2016,Home Office,Central,Roseville,547.97
+2017,Home Office,Central,Roseville,
+2014,Home Office,Central,Saginaw,
+2015,Home Office,Central,Saginaw,
+2016,Home Office,Central,Saginaw,
+2017,Home Office,Central,Saginaw,19.76
+2014,Home Office,Central,Saint Charles,8.736
+2015,Home Office,Central,Saint Charles,1349.63
+2016,Home Office,Central,Saint Charles,
+2017,Home Office,Central,Saint Charles,
+2014,Home Office,Central,Saint Peters,
+2015,Home Office,Central,Saint Peters,
+2016,Home Office,Central,Saint Peters,697.16
+2017,Home Office,Central,Saint Peters,
+2014,Home Office,Central,San Antonio,
+2015,Home Office,Central,San Antonio,210.55400000000003
+2016,Home Office,Central,San Antonio,60.144000000000005
+2017,Home Office,Central,San Antonio,
+2014,Home Office,Central,Sheboygan,
+2015,Home Office,Central,Sheboygan,
+2016,Home Office,Central,Sheboygan,79.74
+2017,Home Office,Central,Sheboygan,
+2014,Home Office,Central,Springfield,886.2800000000001
+2015,Home Office,Central,Springfield,
+2016,Home Office,Central,Springfield,54.48
+2017,Home Office,Central,Springfield,873.76
+2014,Home Office,Central,Sterling Heights,
+2015,Home Office,Central,Sterling Heights,98.36
+2016,Home Office,Central,Sterling Heights,
+2017,Home Office,Central,Sterling Heights,
+2014,Home Office,Central,Superior,
+2015,Home Office,Central,Superior,17.12
+2016,Home Office,Central,Superior,1282.61
+2017,Home Office,Central,Superior,
+2014,Home Office,Central,Trenton,1109.7250000000001
+2015,Home Office,Central,Trenton,
+2016,Home Office,Central,Trenton,
+2017,Home Office,Central,Trenton,
+2014,Home Office,Central,Tulsa,643.78
+2015,Home Office,Central,Tulsa,
+2016,Home Office,Central,Tulsa,151.82
+2017,Home Office,Central,Tulsa,36.44
+2014,Home Office,Central,Wichita,
+2015,Home Office,Central,Wichita,149.2
+2016,Home Office,Central,Wichita,
+2017,Home Office,Central,Wichita,
+2014,Home Office,Central,Woodstock,
+2015,Home Office,Central,Woodstock,
+2016,Home Office,Central,Woodstock,
+2017,Home Office,Central,Woodstock,2.9120000000000004
+2014,Home Office,East,Akron,5.742000000000001
+2015,Home Office,East,Akron,
+2016,Home Office,East,Akron,17.184
+2017,Home Office,East,Akron,
+2014,Home Office,East,Allentown,
+2015,Home Office,East,Allentown,837.444
+2016,Home Office,East,Allentown,
+2017,Home Office,East,Allentown,
+2014,Home Office,East,Baltimore,7.83
+2015,Home Office,East,Baltimore,299.75
+2016,Home Office,East,Baltimore,
+2017,Home Office,East,Baltimore,1071.7400000000002
+2014,Home Office,East,Bayonne,
+2015,Home Office,East,Bayonne,183.4
+2016,Home Office,East,Bayonne,
+2017,Home Office,East,Bayonne,
+2014,Home Office,East,Burlington,
+2015,Home Office,East,Burlington,
+2016,Home Office,East,Burlington,1294.75
+2017,Home Office,East,Burlington,
+2014,Home Office,East,Cambridge,
+2015,Home Office,East,Cambridge,411.49
+2016,Home Office,East,Cambridge,
+2017,Home Office,East,Cambridge,90.6
+2014,Home Office,East,Chester,
+2015,Home Office,East,Chester,570.4920000000001
+2016,Home Office,East,Chester,
+2017,Home Office,East,Chester,91.726
+2014,Home Office,East,Cleveland,
+2015,Home Office,East,Cleveland,105.792
+2016,Home Office,East,Cleveland,346.264
+2017,Home Office,East,Cleveland,1446.4400000000003
+2014,Home Office,East,Clinton,
+2015,Home Office,East,Clinton,384.85999999999996
+2016,Home Office,East,Clinton,
+2017,Home Office,East,Clinton,69.06
+2014,Home Office,East,Columbia,
+2015,Home Office,East,Columbia,
+2016,Home Office,East,Columbia,
+2017,Home Office,East,Columbia,432.14
+2014,Home Office,East,Columbus,608.7919999999999
+2015,Home Office,East,Columbus,
+2016,Home Office,East,Columbus,1083.655
+2017,Home Office,East,Columbus,3.132
+2014,Home Office,East,Concord,
+2015,Home Office,East,Concord,184.66
+2016,Home Office,East,Concord,752.4799999999999
+2017,Home Office,East,Concord,1144.8700000000001
+2014,Home Office,East,Cranston,
+2015,Home Office,East,Cranston,
+2016,Home Office,East,Cranston,
+2017,Home Office,East,Cranston,592.74
+2014,Home Office,East,Danbury,
+2015,Home Office,East,Danbury,
+2016,Home Office,East,Danbury,
+2017,Home Office,East,Danbury,27.46
+2014,Home Office,East,Dover,
+2015,Home Office,East,Dover,3332.974
+2016,Home Office,East,Dover,
+2017,Home Office,East,Dover,
+2014,Home Office,East,Everett,
+2015,Home Office,East,Everett,2303.758
+2016,Home Office,East,Everett,
+2017,Home Office,East,Everett,
+2014,Home Office,East,Fairfield,
+2015,Home Office,East,Fairfield,
+2016,Home Office,East,Fairfield,
+2017,Home Office,East,Fairfield,916.5900000000001
+2014,Home Office,East,Franklin,177.17000000000002
+2015,Home Office,East,Franklin,1388.4599999999998
+2016,Home Office,East,Franklin,
+2017,Home Office,East,Franklin,
+2014,Home Office,East,Holyoke,
+2015,Home Office,East,Holyoke,301.96
+2016,Home Office,East,Holyoke,
+2017,Home Office,East,Holyoke,
+2014,Home Office,East,Lakewood,367.39200000000005
+2015,Home Office,East,Lakewood,43.056000000000004
+2016,Home Office,East,Lakewood,
+2017,Home Office,East,Lakewood,694.0640000000001
+2014,Home Office,East,Lancaster,144.24
+2015,Home Office,East,Lancaster,
+2016,Home Office,East,Lancaster,52.153
+2017,Home Office,East,Lancaster,1448.6979999999999
+2014,Home Office,East,Lawrence,711.6800000000001
+2015,Home Office,East,Lawrence,
+2016,Home Office,East,Lawrence,
+2017,Home Office,East,Lawrence,1843.402
+2014,Home Office,East,Lewiston,
+2015,Home Office,East,Lewiston,106.08000000000001
+2016,Home Office,East,Lewiston,
+2017,Home Office,East,Lewiston,
+2014,Home Office,East,Long Beach,
+2015,Home Office,East,Long Beach,7.5600000000000005
+2016,Home Office,East,Long Beach,
+2017,Home Office,East,Long Beach,
+2014,Home Office,East,Lorain,
+2015,Home Office,East,Lorain,
+2016,Home Office,East,Lorain,111.49600000000001
+2017,Home Office,East,Lorain,30.409999999999997
+2014,Home Office,East,Malden,
+2015,Home Office,East,Malden,
+2016,Home Office,East,Malden,188.7
+2017,Home Office,East,Malden,
+2014,Home Office,East,Marion,
+2015,Home Office,East,Marion,
+2016,Home Office,East,Marion,
+2017,Home Office,East,Marion,7.712000000000001
+2014,Home Office,East,Mentor,
+2015,Home Office,East,Mentor,
+2016,Home Office,East,Mentor,
+2017,Home Office,East,Mentor,693.13
+2014,Home Office,East,Meriden,
+2015,Home Office,East,Meriden,
+2016,Home Office,East,Meriden,
+2017,Home Office,East,Meriden,11.12
+2014,Home Office,East,Milford,
+2015,Home Office,East,Milford,
+2016,Home Office,East,Milford,199.75
+2017,Home Office,East,Milford,
+2014,Home Office,East,New Brunswick,
+2015,Home Office,East,New Brunswick,
+2016,Home Office,East,New Brunswick,
+2017,Home Office,East,New Brunswick,14.77
+2014,Home Office,East,New Rochelle,347.55999999999995
+2015,Home Office,East,New Rochelle,
+2016,Home Office,East,New Rochelle,
+2017,Home Office,East,New Rochelle,
+2014,Home Office,East,New York City,8236.245999999997
+2015,Home Office,East,New York City,10586.638000000003
+2016,Home Office,East,New York City,9541.124000000002
+2017,Home Office,East,New York City,27751.081
+2014,Home Office,East,Newark,291.978
+2015,Home Office,East,Newark,807.5400000000001
+2016,Home Office,East,Newark,
+2017,Home Office,East,Newark,299.52
+2014,Home Office,East,Niagara Falls,
+2015,Home Office,East,Niagara Falls,
+2016,Home Office,East,Niagara Falls,34.992000000000004
+2017,Home Office,East,Niagara Falls,
+2014,Home Office,East,Norwich,
+2015,Home Office,East,Norwich,22.200000000000003
+2016,Home Office,East,Norwich,
+2017,Home Office,East,Norwich,
+2014,Home Office,East,Orange,
+2015,Home Office,East,Orange,
+2016,Home Office,East,Orange,53.370000000000005
+2017,Home Office,East,Orange,
+2014,Home Office,East,Parma,
+2015,Home Office,East,Parma,
+2016,Home Office,East,Parma,63.967999999999996
+2017,Home Office,East,Parma,
+2014,Home Office,East,Paterson,
+2015,Home Office,East,Paterson,399.49
+2016,Home Office,East,Paterson,
+2017,Home Office,East,Paterson,
+2014,Home Office,East,Perth Amboy,
+2015,Home Office,East,Perth Amboy,
+2016,Home Office,East,Perth Amboy,
+2017,Home Office,East,Perth Amboy,178.20999999999998
+2014,Home Office,East,Philadelphia,461.38399999999996
+2015,Home Office,East,Philadelphia,3538.352
+2016,Home Office,East,Philadelphia,7049.5650000000005
+2017,Home Office,East,Philadelphia,5933.597000000001
+2014,Home Office,East,Plainfield,
+2015,Home Office,East,Plainfield,
+2016,Home Office,East,Plainfield,
+2017,Home Office,East,Plainfield,2639.99
+2014,Home Office,East,Providence,2846.22
+2015,Home Office,East,Providence,448.21000000000004
+2016,Home Office,East,Providence,10876.300000000001
+2017,Home Office,East,Providence,
+2014,Home Office,East,Quincy,
+2015,Home Office,East,Quincy,85.3
+2016,Home Office,East,Quincy,
+2017,Home Office,East,Quincy,283.46
+2014,Home Office,East,Revere,
+2015,Home Office,East,Revere,57.32000000000001
+2016,Home Office,East,Revere,
+2017,Home Office,East,Revere,
+2014,Home Office,East,Rochester,
+2015,Home Office,East,Rochester,156.70999999999998
+2016,Home Office,East,Rochester,
+2017,Home Office,East,Rochester,33.376
+2014,Home Office,East,Rome,
+2015,Home Office,East,Rome,
+2016,Home Office,East,Rome,
+2017,Home Office,East,Rome,408.96000000000004
+2014,Home Office,East,Shelton,
+2015,Home Office,East,Shelton,
+2016,Home Office,East,Shelton,73.33
+2017,Home Office,East,Shelton,
+2014,Home Office,East,Springfield,330.588
+2015,Home Office,East,Springfield,3.4240000000000004
+2016,Home Office,East,Springfield,994.0420000000001
+2017,Home Office,East,Springfield,176.012
+2014,Home Office,East,Toledo,
+2015,Home Office,East,Toledo,
+2016,Home Office,East,Toledo,59.948000000000015
+2017,Home Office,East,Toledo,663.936
+2014,Home Office,East,Troy,
+2015,Home Office,East,Troy,14.832000000000003
+2016,Home Office,East,Troy,333.60600000000005
+2017,Home Office,East,Troy,1448.853
+2014,Home Office,East,Washington,
+2015,Home Office,East,Washington,
+2016,Home Office,East,Washington,33.92
+2017,Home Office,East,Washington,77.75999999999999
+2014,Home Office,East,Waterbury,
+2015,Home Office,East,Waterbury,
+2016,Home Office,East,Waterbury,
+2017,Home Office,East,Waterbury,484.74
+2014,Home Office,East,Watertown,
+2015,Home Office,East,Watertown,
+2016,Home Office,East,Watertown,
+2017,Home Office,East,Watertown,191.64600000000002
+2014,Home Office,East,Westfield,
+2015,Home Office,East,Westfield,
+2016,Home Office,East,Westfield,311.97
+2017,Home Office,East,Westfield,46.26
+2014,Home Office,East,Wheeling,
+2015,Home Office,East,Wheeling,
+2016,Home Office,East,Wheeling,
+2017,Home Office,East,Wheeling,536.48
+2014,Home Office,East,Wilmington,
+2015,Home Office,East,Wilmington,
+2016,Home Office,East,Wilmington,
+2017,Home Office,East,Wilmington,872.5
+2014,Home Office,East,Yonkers,
+2015,Home Office,East,Yonkers,
+2016,Home Office,East,Yonkers,
+2017,Home Office,East,Yonkers,216.4
+2014,Home Office,South,Alexandria,944.61
+2015,Home Office,South,Alexandria,
+2016,Home Office,South,Alexandria,
+2017,Home Office,South,Alexandria,
+2014,Home Office,South,Apopka,
+2015,Home Office,South,Apopka,
+2016,Home Office,South,Apopka,681.4320000000001
+2017,Home Office,South,Apopka,
+2014,Home Office,South,Arlington,47.79
+2015,Home Office,South,Arlington,142.34
+2016,Home Office,South,Arlington,71.54
+2017,Home Office,South,Arlington,
+2014,Home Office,South,Atlanta,
+2015,Home Office,South,Atlanta,
+2016,Home Office,South,Atlanta,1396.35
+2017,Home Office,South,Atlanta,
+2014,Home Office,South,Auburn,
+2015,Home Office,South,Auburn,
+2016,Home Office,South,Auburn,
+2017,Home Office,South,Auburn,3.76
+2014,Home Office,South,Boynton Beach,
+2015,Home Office,South,Boynton Beach,
+2016,Home Office,South,Boynton Beach,
+2017,Home Office,South,Boynton Beach,32.088
+2014,Home Office,South,Bristol,
+2015,Home Office,South,Bristol,
+2016,Home Office,South,Bristol,67.56
+2017,Home Office,South,Bristol,
+2014,Home Office,South,Burlington,
+2015,Home Office,South,Burlington,
+2016,Home Office,South,Burlington,
+2017,Home Office,South,Burlington,1633.1880000000003
+2014,Home Office,South,Charlotte,
+2015,Home Office,South,Charlotte,
+2016,Home Office,South,Charlotte,823.6100000000001
+2017,Home Office,South,Charlotte,1447.1619999999998
+2014,Home Office,South,Charlottesville,
+2015,Home Office,South,Charlottesville,67.96
+2016,Home Office,South,Charlottesville,
+2017,Home Office,South,Charlottesville,
+2014,Home Office,South,Chattanooga,
+2015,Home Office,South,Chattanooga,
+2016,Home Office,South,Chattanooga,91.475
+2017,Home Office,South,Chattanooga,
+2014,Home Office,South,Chesapeake,1139.92
+2015,Home Office,South,Chesapeake,
+2016,Home Office,South,Chesapeake,
+2017,Home Office,South,Chesapeake,
+2014,Home Office,South,Clarksville,
+2015,Home Office,South,Clarksville,
+2016,Home Office,South,Clarksville,
+2017,Home Office,South,Clarksville,513.4960000000001
+2014,Home Office,South,Columbia,18.240000000000002
+2015,Home Office,South,Columbia,
+2016,Home Office,South,Columbia,25.92
+2017,Home Office,South,Columbia,9.664000000000001
+2014,Home Office,South,Columbus,
+2015,Home Office,South,Columbus,
+2016,Home Office,South,Columbus,1999.0299999999997
+2017,Home Office,South,Columbus,1697.5800000000002
+2014,Home Office,South,Deltona,
+2015,Home Office,South,Deltona,
+2016,Home Office,South,Deltona,
+2017,Home Office,South,Deltona,17.856
+2014,Home Office,South,Durham,67.75999999999999
+2015,Home Office,South,Durham,
+2016,Home Office,South,Durham,
+2017,Home Office,South,Durham,
+2014,Home Office,South,Fayetteville,22.320000000000004
+2015,Home Office,South,Fayetteville,6.24
+2016,Home Office,South,Fayetteville,19.44
+2017,Home Office,South,Fayetteville,
+2014,Home Office,South,Florence,
+2015,Home Office,South,Florence,
+2016,Home Office,South,Florence,4.98
+2017,Home Office,South,Florence,18
+2014,Home Office,South,Fort Lauderdale,810.2880000000001
+2015,Home Office,South,Fort Lauderdale,
+2016,Home Office,South,Fort Lauderdale,74.32000000000001
+2017,Home Office,South,Fort Lauderdale,188.608
+2014,Home Office,South,Franklin,
+2015,Home Office,South,Franklin,763.508
+2016,Home Office,South,Franklin,
+2017,Home Office,South,Franklin,
+2014,Home Office,South,Gastonia,
+2015,Home Office,South,Gastonia,
+2016,Home Office,South,Gastonia,895.0600000000001
+2017,Home Office,South,Gastonia,
+2014,Home Office,South,Greenville,
+2015,Home Office,South,Greenville,
+2016,Home Office,South,Greenville,37.264
+2017,Home Office,South,Greenville,
+2014,Home Office,South,Hampton,
+2015,Home Office,South,Hampton,113.10000000000001
+2016,Home Office,South,Hampton,
+2017,Home Office,South,Hampton,
+2014,Home Office,South,Harrisonburg,2884.37
+2015,Home Office,South,Harrisonburg,39.96
+2016,Home Office,South,Harrisonburg,
+2017,Home Office,South,Harrisonburg,
+2014,Home Office,South,Henderson,4374.88
+2015,Home Office,South,Henderson,89.36
+2016,Home Office,South,Henderson,
+2017,Home Office,South,Henderson,760.51
+2014,Home Office,South,Hendersonville,
+2015,Home Office,South,Hendersonville,
+2016,Home Office,South,Hendersonville,16.218000000000004
+2017,Home Office,South,Hendersonville,
+2014,Home Office,South,Hialeah,405.456
+2015,Home Office,South,Hialeah,
+2016,Home Office,South,Hialeah,392.8320000000001
+2017,Home Office,South,Hialeah,220.056
+2014,Home Office,South,Hollywood,
+2015,Home Office,South,Hollywood,
+2016,Home Office,South,Hollywood,
+2017,Home Office,South,Hollywood,411.05
+2014,Home Office,South,Hot Springs,
+2015,Home Office,South,Hot Springs,
+2016,Home Office,South,Hot Springs,215.83999999999997
+2017,Home Office,South,Hot Springs,
+2014,Home Office,South,Huntsville,
+2015,Home Office,South,Huntsville,
+2016,Home Office,South,Huntsville,
+2017,Home Office,South,Huntsville,819.28
+2014,Home Office,South,Jackson,
+2015,Home Office,South,Jackson,
+2016,Home Office,South,Jackson,1035.26
+2017,Home Office,South,Jackson,684.7800000000001
+2014,Home Office,South,Jacksonville,23752.284
+2015,Home Office,South,Jacksonville,1775.056
+2016,Home Office,South,Jacksonville,5.08
+2017,Home Office,South,Jacksonville,926.5840000000001
+2014,Home Office,South,Jonesboro,
+2015,Home Office,South,Jonesboro,
+2016,Home Office,South,Jonesboro,
+2017,Home Office,South,Jonesboro,117.62
+2014,Home Office,South,Knoxville,
+2015,Home Office,South,Knoxville,
+2016,Home Office,South,Knoxville,
+2017,Home Office,South,Knoxville,2442.28
+2014,Home Office,South,Lake Charles,
+2015,Home Office,South,Lake Charles,
+2016,Home Office,South,Lake Charles,
+2017,Home Office,South,Lake Charles,477.51
+2014,Home Office,South,Lakeland,
+2015,Home Office,South,Lakeland,
+2016,Home Office,South,Lakeland,
+2017,Home Office,South,Lakeland,729.6480000000001
+2014,Home Office,South,Lebanon,
+2015,Home Office,South,Lebanon,
+2016,Home Office,South,Lebanon,239.976
+2017,Home Office,South,Lebanon,
+2014,Home Office,South,Louisville,
+2015,Home Office,South,Louisville,525.95
+2016,Home Office,South,Louisville,13.28
+2017,Home Office,South,Louisville,799.4000000000001
+2014,Home Office,South,Marietta,259.28999999999996
+2015,Home Office,South,Marietta,
+2016,Home Office,South,Marietta,
+2017,Home Office,South,Marietta,
+2014,Home Office,South,Miami,457.7439999999999
+2015,Home Office,South,Miami,11.696
+2016,Home Office,South,Miami,66.49600000000001
+2017,Home Office,South,Miami,71.976
+2014,Home Office,South,Miramar,
+2015,Home Office,South,Miramar,
+2016,Home Office,South,Miramar,
+2017,Home Office,South,Miramar,419.13599999999997
+2014,Home Office,South,Monroe,682.91
+2015,Home Office,South,Monroe,
+2016,Home Office,South,Monroe,
+2017,Home Office,South,Monroe,7.968000000000001
+2014,Home Office,South,Nashville,
+2015,Home Office,South,Nashville,
+2016,Home Office,South,Nashville,
+2017,Home Office,South,Nashville,174.752
+2014,Home Office,South,Newport News,
+2015,Home Office,South,Newport News,
+2016,Home Office,South,Newport News,261.1
+2017,Home Office,South,Newport News,
+2014,Home Office,South,Raleigh,471.92
+2015,Home Office,South,Raleigh,
+2016,Home Office,South,Raleigh,1183.392
+2017,Home Office,South,Raleigh,
+2014,Home Office,South,Richmond,389.73999999999995
+2015,Home Office,South,Richmond,
+2016,Home Office,South,Richmond,
+2017,Home Office,South,Richmond,1651.8200000000002
+2014,Home Office,South,Roswell,
+2015,Home Office,South,Roswell,
+2016,Home Office,South,Roswell,
+2017,Home Office,South,Roswell,830.24
+2014,Home Office,South,Salem,
+2015,Home Office,South,Salem,
+2016,Home Office,South,Salem,273.59000000000003
+2017,Home Office,South,Salem,
+2014,Home Office,South,Sandy Springs,
+2015,Home Office,South,Sandy Springs,
+2016,Home Office,South,Sandy Springs,
+2017,Home Office,South,Sandy Springs,148.16000000000003
+2014,Home Office,South,Sanford,
+2015,Home Office,South,Sanford,
+2016,Home Office,South,Sanford,
+2017,Home Office,South,Sanford,225.54600000000002
+2014,Home Office,South,Smyrna,
+2015,Home Office,South,Smyrna,260.31
+2016,Home Office,South,Smyrna,2075.51
+2017,Home Office,South,Smyrna,
+2014,Home Office,South,Springdale,
+2015,Home Office,South,Springdale,
+2016,Home Office,South,Springdale,
+2017,Home Office,South,Springdale,4.3
+2014,Home Office,South,Springfield,
+2015,Home Office,South,Springfield,227.00000000000003
+2016,Home Office,South,Springfield,177.78
+2017,Home Office,South,Springfield,
+2014,Home Office,South,Suffolk,
+2015,Home Office,South,Suffolk,
+2016,Home Office,South,Suffolk,158.81
+2017,Home Office,South,Suffolk,
+2014,Home Office,South,Tallahassee,
+2015,Home Office,South,Tallahassee,
+2016,Home Office,South,Tallahassee,702.7040000000002
+2017,Home Office,South,Tallahassee,
+2014,Home Office,South,Tamarac,
+2015,Home Office,South,Tamarac,3.444000000000001
+2016,Home Office,South,Tamarac,
+2017,Home Office,South,Tamarac,
+2014,Home Office,South,Tampa,
+2015,Home Office,South,Tampa,
+2016,Home Office,South,Tampa,471.07800000000003
+2017,Home Office,South,Tampa,1781.5105000000003
+2014,Home Office,South,Texarkana,
+2015,Home Office,South,Texarkana,
+2016,Home Office,South,Texarkana,
+2017,Home Office,South,Texarkana,48.9
+2014,Home Office,South,Tuscaloosa,
+2015,Home Office,South,Tuscaloosa,
+2016,Home Office,South,Tuscaloosa,
+2017,Home Office,South,Tuscaloosa,175.70000000000002
+2014,Home Office,South,Virginia Beach,120.79
+2015,Home Office,South,Virginia Beach,
+2016,Home Office,South,Virginia Beach,
+2017,Home Office,South,Virginia Beach,57.01
+2014,Home Office,South,Waynesboro,
+2015,Home Office,South,Waynesboro,
+2016,Home Office,South,Waynesboro,334.2
+2017,Home Office,South,Waynesboro,
+2014,Home Office,South,West Palm Beach,
+2015,Home Office,South,West Palm Beach,13.120000000000001
+2016,Home Office,South,West Palm Beach,
+2017,Home Office,South,West Palm Beach,
+2014,Home Office,South,Wilson,
+2015,Home Office,South,Wilson,7.380000000000001
+2016,Home Office,South,Wilson,
+2017,Home Office,South,Wilson,
+2014,Home Office,West,Albuquerque,302.376
+2015,Home Office,West,Albuquerque,
+2016,Home Office,West,Albuquerque,
+2017,Home Office,West,Albuquerque,780.086
+2014,Home Office,West,Apple Valley,
+2015,Home Office,West,Apple Valley,
+2016,Home Office,West,Apple Valley,
+2017,Home Office,West,Apple Valley,56.136
+2014,Home Office,West,Auburn,
+2015,Home Office,West,Auburn,
+2016,Home Office,West,Auburn,4.18
+2017,Home Office,West,Auburn,
+2014,Home Office,West,Aurora,14.576
+2015,Home Office,West,Aurora,49.400000000000006
+2016,Home Office,West,Aurora,532.4960000000001
+2017,Home Office,West,Aurora,535.2640000000001
+2014,Home Office,West,Bakersfield,
+2015,Home Office,West,Bakersfield,19.152
+2016,Home Office,West,Bakersfield,9.514000000000001
+2017,Home Office,West,Bakersfield,
+2014,Home Office,West,Bellevue,
+2015,Home Office,West,Bellevue,
+2016,Home Office,West,Bellevue,25.349999999999998
+2017,Home Office,West,Bellevue,
+2014,Home Office,West,Bozeman,
+2015,Home Office,West,Bozeman,43.66
+2016,Home Office,West,Bozeman,
+2017,Home Office,West,Bozeman,
+2014,Home Office,West,Brentwood,
+2015,Home Office,West,Brentwood,
+2016,Home Office,West,Brentwood,
+2017,Home Office,West,Brentwood,821.5140000000001
+2014,Home Office,West,Burbank,3247.1580000000004
+2015,Home Office,West,Burbank,
+2016,Home Office,West,Burbank,
+2017,Home Office,West,Burbank,
+2014,Home Office,West,Carlsbad,
+2015,Home Office,West,Carlsbad,
+2016,Home Office,West,Carlsbad,
+2017,Home Office,West,Carlsbad,228.28
+2014,Home Office,West,Chandler,49.792
+2015,Home Office,West,Chandler,
+2016,Home Office,West,Chandler,
+2017,Home Office,West,Chandler,850.9200000000001
+2014,Home Office,West,Cheyenne,
+2015,Home Office,West,Cheyenne,
+2016,Home Office,West,Cheyenne,1603.1360000000002
+2017,Home Office,West,Cheyenne,
+2014,Home Office,West,Chico,
+2015,Home Office,West,Chico,1242.8960000000002
+2016,Home Office,West,Chico,
+2017,Home Office,West,Chico,
+2014,Home Office,West,Chula Vista,
+2015,Home Office,West,Chula Vista,665.88
+2016,Home Office,West,Chula Vista,
+2017,Home Office,West,Chula Vista,
+2014,Home Office,West,Colorado Springs,
+2015,Home Office,West,Colorado Springs,
+2016,Home Office,West,Colorado Springs,1385.0549999999998
+2017,Home Office,West,Colorado Springs,
+2014,Home Office,West,Concord,499.55199999999996
+2015,Home Office,West,Concord,
+2016,Home Office,West,Concord,
+2017,Home Office,West,Concord,
+2014,Home Office,West,Costa Mesa,
+2015,Home Office,West,Costa Mesa,
+2016,Home Office,West,Costa Mesa,
+2017,Home Office,West,Costa Mesa,277.71
+2014,Home Office,West,Covington,
+2015,Home Office,West,Covington,
+2016,Home Office,West,Covington,366.78
+2017,Home Office,West,Covington,
+2014,Home Office,West,Danville,
+2015,Home Office,West,Danville,
+2016,Home Office,West,Danville,
+2017,Home Office,West,Danville,1158.882
+2014,Home Office,West,Denver,
+2015,Home Office,West,Denver,
+2016,Home Office,West,Denver,29.472
+2017,Home Office,West,Denver,63.824000000000005
+2014,Home Office,West,Des Moines,107.64800000000001
+2015,Home Office,West,Des Moines,18.54
+2016,Home Office,West,Des Moines,
+2017,Home Office,West,Des Moines,
+2014,Home Office,West,El Cajon,478.48
+2015,Home Office,West,El Cajon,
+2016,Home Office,West,El Cajon,
+2017,Home Office,West,El Cajon,
+2014,Home Office,West,Escondido,
+2015,Home Office,West,Escondido,
+2016,Home Office,West,Escondido,
+2017,Home Office,West,Escondido,23.36
+2014,Home Office,West,Fort Collins,
+2015,Home Office,West,Fort Collins,
+2016,Home Office,West,Fort Collins,98.328
+2017,Home Office,West,Fort Collins,14.352000000000002
+2014,Home Office,West,Fresno,
+2015,Home Office,West,Fresno,
+2016,Home Office,West,Fresno,120.666
+2017,Home Office,West,Fresno,168.57999999999998
+2014,Home Office,West,Gilbert,
+2015,Home Office,West,Gilbert,
+2016,Home Office,West,Gilbert,
+2017,Home Office,West,Gilbert,882.99
+2014,Home Office,West,Glendale,93.024
+2015,Home Office,West,Glendale,
+2016,Home Office,West,Glendale,
+2017,Home Office,West,Glendale,972.08
+2014,Home Office,West,Great Falls,6.096
+2015,Home Office,West,Great Falls,
+2016,Home Office,West,Great Falls,
+2017,Home Office,West,Great Falls,4189.38
+2014,Home Office,West,Helena,
+2015,Home Office,West,Helena,403.94000000000005
+2016,Home Office,West,Helena,
+2017,Home Office,West,Helena,
+2014,Home Office,West,Huntington Beach,
+2015,Home Office,West,Huntington Beach,
+2016,Home Office,West,Huntington Beach,12.78
+2017,Home Office,West,Huntington Beach,
+2014,Home Office,West,La Mesa,
+2015,Home Office,West,La Mesa,
+2016,Home Office,West,La Mesa,
+2017,Home Office,West,La Mesa,367.53
+2014,Home Office,West,Laguna Niguel,
+2015,Home Office,West,Laguna Niguel,
+2016,Home Office,West,Laguna Niguel,12.96
+2017,Home Office,West,Laguna Niguel,203.98299999999998
+2014,Home Office,West,Lake Forest,
+2015,Home Office,West,Lake Forest,
+2016,Home Office,West,Lake Forest,1027.6760000000002
+2017,Home Office,West,Lake Forest,
+2014,Home Office,West,Lakewood,321.552
+2015,Home Office,West,Lakewood,
+2016,Home Office,West,Lakewood,
+2017,Home Office,West,Lakewood,868.4520000000001
+2014,Home Office,West,Lancaster,
+2015,Home Office,West,Lancaster,
+2016,Home Office,West,Lancaster,100.16000000000001
+2017,Home Office,West,Lancaster,
+2014,Home Office,West,Las Cruces,
+2015,Home Office,West,Las Cruces,8.28
+2016,Home Office,West,Las Cruces,
+2017,Home Office,West,Las Cruces,
+2014,Home Office,West,Las Vegas,
+2015,Home Office,West,Las Vegas,
+2016,Home Office,West,Las Vegas,
+2017,Home Office,West,Las Vegas,75.792
+2014,Home Office,West,Lehi,
+2015,Home Office,West,Lehi,
+2016,Home Office,West,Lehi,1499.95
+2017,Home Office,West,Lehi,
+2014,Home Office,West,Long Beach,
+2015,Home Office,West,Long Beach,
+2016,Home Office,West,Long Beach,80.28
+2017,Home Office,West,Long Beach,2089.4120000000003
+2014,Home Office,West,Los Angeles,5215.234
+2015,Home Office,West,Los Angeles,6675.478
+2016,Home Office,West,Los Angeles,11948.950999999997
+2017,Home Office,West,Los Angeles,15548.798999999997
+2014,Home Office,West,Louisville,
+2015,Home Office,West,Louisville,
+2016,Home Office,West,Louisville,230.08800000000002
+2017,Home Office,West,Louisville,2613.3090000000007
+2014,Home Office,West,Manteca,137.632
+2015,Home Office,West,Manteca,
+2016,Home Office,West,Manteca,
+2017,Home Office,West,Manteca,314.54999999999995
+2014,Home Office,West,Meridian,
+2015,Home Office,West,Meridian,
+2016,Home Office,West,Meridian,
+2017,Home Office,West,Meridian,307.74
+2014,Home Office,West,Mesa,
+2015,Home Office,West,Mesa,85.92000000000002
+2016,Home Office,West,Mesa,
+2017,Home Office,West,Mesa,44.784
+2014,Home Office,West,Moreno Valley,107.34599999999999
+2015,Home Office,West,Moreno Valley,
+2016,Home Office,West,Moreno Valley,
+2017,Home Office,West,Moreno Valley,
+2014,Home Office,West,Murray,48.4
+2015,Home Office,West,Murray,
+2016,Home Office,West,Murray,
+2017,Home Office,West,Murray,
+2014,Home Office,West,North Las Vegas,14.56
+2015,Home Office,West,North Las Vegas,
+2016,Home Office,West,North Las Vegas,4685.076000000001
+2017,Home Office,West,North Las Vegas,
+2014,Home Office,West,Oakland,
+2015,Home Office,West,Oakland,454.27200000000005
+2016,Home Office,West,Oakland,34.58
+2017,Home Office,West,Oakland,
+2014,Home Office,West,Oceanside,
+2015,Home Office,West,Oceanside,
+2016,Home Office,West,Oceanside,12.9
+2017,Home Office,West,Oceanside,
+2014,Home Office,West,Orem,133.12800000000001
+2015,Home Office,West,Orem,
+2016,Home Office,West,Orem,
+2017,Home Office,West,Orem,
+2014,Home Office,West,Oxnard,
+2015,Home Office,West,Oxnard,
+2016,Home Office,West,Oxnard,1215.7200000000003
+2017,Home Office,West,Oxnard,
+2014,Home Office,West,Pasadena,
+2015,Home Office,West,Pasadena,
+2016,Home Office,West,Pasadena,
+2017,Home Office,West,Pasadena,739.7360000000001
+2014,Home Office,West,Peoria,
+2015,Home Office,West,Peoria,101.004
+2016,Home Office,West,Peoria,
+2017,Home Office,West,Peoria,668.7439999999999
+2014,Home Office,West,Phoenix,46.872
+2015,Home Office,West,Phoenix,191.96800000000002
+2016,Home Office,West,Phoenix,1759.299
+2017,Home Office,West,Phoenix,7.857000000000002
+2014,Home Office,West,Pico Rivera,
+2015,Home Office,West,Pico Rivera,
+2016,Home Office,West,Pico Rivera,
+2017,Home Office,West,Pico Rivera,145.9
+2014,Home Office,West,Portland,
+2015,Home Office,West,Portland,
+2016,Home Office,West,Portland,403.92
+2017,Home Office,West,Portland,5.682000000000001
+2014,Home Office,West,Provo,
+2015,Home Office,West,Provo,
+2016,Home Office,West,Provo,44.400000000000006
+2017,Home Office,West,Provo,
+2014,Home Office,West,Pueblo,
+2015,Home Office,West,Pueblo,
+2016,Home Office,West,Pueblo,801.5500000000001
+2017,Home Office,West,Pueblo,
+2014,Home Office,West,Redmond,
+2015,Home Office,West,Redmond,
+2016,Home Office,West,Redmond,12.32
+2017,Home Office,West,Redmond,
+2014,Home Office,West,Reno,480.654
+2015,Home Office,West,Reno,
+2016,Home Office,West,Reno,
+2017,Home Office,West,Reno,
+2014,Home Office,West,Riverside,
+2015,Home Office,West,Riverside,
+2016,Home Office,West,Riverside,51.18400000000001
+2017,Home Office,West,Riverside,7.800000000000001
+2014,Home Office,West,Roseville,
+2015,Home Office,West,Roseville,2.48
+2016,Home Office,West,Roseville,
+2017,Home Office,West,Roseville,
+2014,Home Office,West,Sacramento,
+2015,Home Office,West,Sacramento,60.84
+2016,Home Office,West,Sacramento,9.98
+2017,Home Office,West,Sacramento,
+2014,Home Office,West,Salem,
+2015,Home Office,West,Salem,
+2016,Home Office,West,Salem,610.418
+2017,Home Office,West,Salem,8.432
+2014,Home Office,West,Salinas,
+2015,Home Office,West,Salinas,
+2016,Home Office,West,Salinas,
+2017,Home Office,West,Salinas,148.257
+2014,Home Office,West,Salt Lake City,166.44
+2015,Home Office,West,Salt Lake City,
+2016,Home Office,West,Salt Lake City,219.11999999999998
+2017,Home Office,West,Salt Lake City,
+2014,Home Office,West,San Bernardino,
+2015,Home Office,West,San Bernardino,110.528
+2016,Home Office,West,San Bernardino,
+2017,Home Office,West,San Bernardino,
+2014,Home Office,West,San Diego,787.198
+2015,Home Office,West,San Diego,3821.08
+2016,Home Office,West,San Diego,1060.228
+2017,Home Office,West,San Diego,2007.8439999999998
+2014,Home Office,West,San Francisco,2401.653
+2015,Home Office,West,San Francisco,1130.1200000000001
+2016,Home Office,West,San Francisco,1211.9579999999996
+2017,Home Office,West,San Francisco,4126.422
+2014,Home Office,West,San Gabriel,2061.01
+2015,Home Office,West,San Gabriel,
+2016,Home Office,West,San Gabriel,
+2017,Home Office,West,San Gabriel,
+2014,Home Office,West,San Jose,76.14
+2015,Home Office,West,San Jose,13.847999999999999
+2016,Home Office,West,San Jose,29.120000000000005
+2017,Home Office,West,San Jose,
+2014,Home Office,West,Santa Ana,
+2015,Home Office,West,Santa Ana,56.3
+2016,Home Office,West,Santa Ana,20.16
+2017,Home Office,West,Santa Ana,
+2014,Home Office,West,Santa Barbara,
+2015,Home Office,West,Santa Barbara,
+2016,Home Office,West,Santa Barbara,3528.4880000000003
+2017,Home Office,West,Santa Barbara,1.81
+2014,Home Office,West,Santa Fe,
+2015,Home Office,West,Santa Fe,8.4
+2016,Home Office,West,Santa Fe,
+2017,Home Office,West,Santa Fe,
+2014,Home Office,West,Scottsdale,
+2015,Home Office,West,Scottsdale,
+2016,Home Office,West,Scottsdale,361.104
+2017,Home Office,West,Scottsdale,
+2014,Home Office,West,Seattle,4653.266
+2015,Home Office,West,Seattle,5282.115999999999
+2016,Home Office,West,Seattle,893.004
+2017,Home Office,West,Seattle,13504.155999999999
+2014,Home Office,West,Sparks,
+2015,Home Office,West,Sparks,
+2016,Home Office,West,Sparks,86.19999999999999
+2017,Home Office,West,Sparks,
+2014,Home Office,West,Spokane,
+2015,Home Office,West,Spokane,
+2016,Home Office,West,Spokane,
+2017,Home Office,West,Spokane,136.26
+2014,Home Office,West,Springfield,
+2015,Home Office,West,Springfield,
+2016,Home Office,West,Springfield,651.3629999999999
+2017,Home Office,West,Springfield,87.688
+2014,Home Office,West,Stockton,
+2015,Home Office,West,Stockton,
+2016,Home Office,West,Stockton,
+2017,Home Office,West,Stockton,629.64
+2014,Home Office,West,Thousand Oaks,
+2015,Home Office,West,Thousand Oaks,32.75
+2016,Home Office,West,Thousand Oaks,
+2017,Home Office,West,Thousand Oaks,
+2014,Home Office,West,Tigard,
+2015,Home Office,West,Tigard,
+2016,Home Office,West,Tigard,
+2017,Home Office,West,Tigard,205.74400000000003
+2014,Home Office,West,Tucson,259.136
+2015,Home Office,West,Tucson,
+2016,Home Office,West,Tucson,
+2017,Home Office,West,Tucson,100.92200000000001
+2014,Home Office,West,Vallejo,
+2015,Home Office,West,Vallejo,
+2016,Home Office,West,Vallejo,1064.624
+2017,Home Office,West,Vallejo,
+2014,Home Office,West,Vancouver,
+2015,Home Office,West,Vancouver,
+2016,Home Office,West,Vancouver,44.02
+2017,Home Office,West,Vancouver,
+2014,Home Office,West,Yuma,
+2015,Home Office,West,Yuma,
+2016,Home Office,West,Yuma,44.85600000000001
+2017,Home Office,West,Yuma,599.9850000000001
