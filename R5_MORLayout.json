@@ -159,12 +159,7 @@
             "indicatorType": "numbered",
             "indicatorPosition": "default",
             "persistProperty": {
-                "bgColor": "rgba(255,255,255,0.9)",
-                "lineColor": "rgba(3,169,244,0.7)",
-                "borderColor": "rgba(3,169,244,0.7)",
-                "iconColor": "rgba(0, 120, 212, 0.7)",
-                "displayOptions": 4,
-                "iconSize": 14
+                "iconColor": "rgba(0, 120, 212, 0.7)"
             },
             "showFootnote": false,
             "rowLevelComments": true,
@@ -1862,29 +1857,31 @@
                 "message": "",
                 "show": false
             },
-            "keyColumnsForAllAdditionalColumns": [],
+            "keyColumnsForAllAdditionalColumns": [
+                "r5morlay"
+            ],
             "additionalColumnMappings": [
                 {
                     "datasetId": "b30e4dc8-ed9e-4f5e-88ae-11baa35d0a12",
-                    "datasetKeyColumnName": "Customer ID",
-                    "datasetTableName": "Orders",
+                    "datasetKeyColumnName": "Country",
+                    "datasetTableName": "SanityReport",
                     "mappingColumns": [
                         {
                             "datasetColumnName": "City",
-                            "writebackColumnName": "Region"
+                            "writebackColumnName": "Category"
                         }
                     ],
-                    "renamedWBIdColumn": "CustomerID",
+                    "renamedWBIdColumn": "Country",
                     "workspaceId": "16578ee2-acf8-4611-863a-02e5168c2883",
                     "type": 10,
-                    "id": "4945"
+                    "id": "4956"
                 }
             ],
             "dateAdditionalColumnMapping": {
-                "dateKeyColumnName": "MORLayR5",
+                "dateKeyColumnName": "R5MORLay",
                 "defaultYear": "2024",
                 "isCurrentYear": true,
-                "id": "4944",
+                "id": "4955",
                 "type": 20
             },
             "openDateAdditionalColumnModal": false,
@@ -2084,7 +2081,7 @@
             "createdBy": "91",
             "createdAt": 1728454875,
             "updatedBy": "55",
-            "updatedAt": 1728541145,
+            "updatedAt": 1728545118,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2132,56 +2129,7 @@
             "onLoadFormula": "",
             "onDataChangeFormula": ""
         },
-        "filterList": [
-            {
-                "combinator": "and",
-                "id": "TQSDKFLW",
-                "name": "Region",
-                "rules": [
-                    {
-                        "field": "Orders.Region",
-                        "operator": "isOneof",
-                        "value": "Central"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "SHFBJVEK",
-                "name": "Category",
-                "rules": [
-                    {
-                        "field": "Orders.Category",
-                        "operator": "isOneof",
-                        "value": "Furniture"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "UOJOLLKA",
-                "name": "Year",
-                "rules": [
-                    {
-                        "field": "Orders.Order Date.Variation.Date Hierarchy.Year",
-                        "operator": "is",
-                        "value": "2014"
-                    }
-                ]
-            },
-            {
-                "combinator": "and",
-                "id": "DQFAXLCH",
-                "name": "Segment",
-                "rules": [
-                    {
-                        "field": "Orders.Segment",
-                        "operator": "isOneof",
-                        "value": "Consumer"
-                    }
-                ]
-            }
-        ],
+        "filterList": [],
         "customIcons": [],
         "scrollThickness": false,
         "dynamicRowScale": {},
