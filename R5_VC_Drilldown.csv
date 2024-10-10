@@ -1,0 +1,61 @@
+Orders.Ship Date.Variation.Date Hierarchy.Year,Orders.Segment,Orders.Region,Orders.Country,Sum(Orders.Sales),CountNonNull(Orders.Ship Date.Variation.Date Hierarchy.Year)
+2014,Consumer,Central,United States,67133.13159999996,365
+2015,Consumer,Central,United States,49640.297800000015,365
+2016,Consumer,Central,United States,65971.31120000001,366
+2017,Consumer,Central,United States,68975.76059999994,365
+2018,Consumer,Central,United States,310.9328,365
+2014,Consumer,East,United States,75824.81599999998,365
+2015,Consumer,East,United States,85683.446,365
+2016,Consumer,East,United States,93599.61200000007,366
+2017,Consumer,East,United States,95198.92699999991,365
+2018,Consumer,East,United States,601.366,365
+2014,Consumer,South,United States,32271.683499999992,365
+2015,Consumer,South,United States,49245.3545,365
+2016,Consumer,South,United States,52958.27599999998,366
+2017,Consumer,South,United States,59290.97699999996,365
+2018,Consumer,South,United States,1814.6799999999998,365
+2014,Consumer,West,United States,88206.8455,365
+2015,Consumer,West,United States,80653.99099999997,365
+2016,Consumer,West,United States,86480.04399999998,366
+2017,Consumer,West,United States,106630.33449999991,365
+2018,Consumer,West,United States,909.5579999999999,365
+2014,Corporate,Central,United States,19155.71019999999,365
+2015,Corporate,Central,United States,29453.975400000007,365
+2016,Corporate,Central,United States,61079.169800000025,366
+2017,Corporate,Central,United States,47955.2454,365
+2018,Corporate,Central,United States,351.712,365
+2014,Corporate,East,United States,32653.995,365
+2015,Corporate,East,United States,49703.12300000002,365
+2016,Corporate,East,United States,53018.219000000005,366
+2017,Corporate,East,United States,65034.009999999966,365
+2018,Corporate,East,United States,,
+2014,Corporate,South,United States,34162.799999999974,365
+2015,Corporate,South,United States,18032.770000000004,365
+2016,Corporate,South,United States,27250.474499999997,366
+2017,Corporate,South,United States,42439.88799999999,365
+2018,Corporate,South,United States,,
+2014,Corporate,West,United States,34290.5255,365
+2015,Corporate,West,United States,38770.821500000005,365
+2016,Corporate,West,United States,65720.63749999995,366
+2017,Corporate,West,United States,86204.30600000001,365
+2018,Corporate,West,United States,868.984,365
+2014,Home Office,Central,United States,16611.0188,365
+2015,Home Office,Central,United States,24128.3048,365
+2016,Home Office,Central,United States,20020.901,366
+2017,Home Office,Central,United States,30214.739400000006,365
+2018,Home Office,Central,United States,237.68,365
+2014,Home Office,East,United States,11513.431999999995,365
+2015,Home Office,East,United States,29605.142000000003,365
+2016,Home Office,East,United States,33472.56700000001,366
+2017,Home Office,East,United States,52872.58500000002,365
+2018,Home Office,East,United States,,
+2014,Home Office,South,United States,36850.312,365
+2015,Home Office,South,United States,4046.424,365
+2016,Home Office,South,United States,13811.127000000002,366
+2017,Home Office,South,United States,19482.3545,365
+2018,Home Office,South,United States,64.784,365
+2014,Home Office,West,United States,21708.923000000003,365
+2015,Home Office,West,United States,20478.852,365
+2016,Home Office,West,United States,37943.41399999999,366
+2017,Home Office,West,United States,56590.58799999997,365
+2018,Home Office,West,United States,,
