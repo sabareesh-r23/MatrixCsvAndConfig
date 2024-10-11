@@ -993,7 +993,7 @@
         "bulkEdit": false
       },
       "export": { "pdf": true, "excel": true, "visual": true, "copyToClipboard": true, "schedule": true, "writeBack": false },
-      "dataEntry": { "scenario": false, "audit": false, "comment": false, "action": false, "column": false, "display": false },
+      "dataEntry": { "scenario": true, "audit": true, "comment": true, "action": true, "column": true, "display": true },
       "advancedTabMenu": { "rowColumnConfig": true },
       "enterprise": { "writeBack": true, "schedule": true, "layout": true, "breaks": true, "table": true, "reportPlus": true },
       "scenario": { "scenario": false, "export": false, "writeBack": false, "analyze": false, "annotate": false, "monitor": false, "modifiedByUser": false, "actions": false },
@@ -1016,7 +1016,7 @@
     "quickFilter": { "rules": [], "combinator": "and", "not": false },
     "selectionDataNote": { "enable": true, "aggregateOption": { "sum": true, "avg": true, "min": false, "max": false, "count": true } },
     "currentThemeType": { "themeType": "trafficlights" },
-    "enableMeasureInRows": true,
+    "enableMeasureInRows": false,
     "enableMeasureInCols": false,
     "quickAccessIcons": { "exportExcel": true, "undo": true, "bestFit": false, "redo": true, "writeback": true, "smartAnalysis": false, "exportPdf": false, "rails": true, "reset": true, "aggregation": false, "crossFilter": false },
     "columnHierarchyHeader": {},
@@ -1051,19 +1051,7 @@
       "isSubmitting": false,
       "warning": { "title": "Additional Column Configuration", "message": "", "show": false },
       "keyColumnsForAllAdditionalColumns": [],
-      "additionalColumnMappings": [
-        {
-          "datasetId": "b30e4dc8-ed9e-4f5e-88ae-11baa35d0a12",
-          "datasetKeyColumnName": "Country",
-          "datasetTableName": "SanityReport",
-          "mappingColumns": [{ "datasetColumnName": "AC", "writebackColumnName": "State" }],
-          "renamedWBIdColumn": "Country",
-          "workspaceId": "16578ee2-acf8-4611-863a-02e5168c2883",
-          "type": 10,
-          "id": "1904"
-        }
-      ],
-      "dateAdditionalColumnMapping": { "dateKeyColumnName": "MORKey", "defaultYear": "2024", "isCurrentYear": true, "id": "1903", "type": 20 },
+      "additionalColumnMappings": [],
       "openDateAdditionalColumnModal": false,
       "dateFormValues": { "dateKeyColumnName": "", "defaultYear": "2024", "isCurrentYear": true }
     },
@@ -1128,13 +1116,13 @@
       "createdBy": "49",
       "createdAt": 1728567833,
       "updatedBy": "49",
-      "updatedAt": 1728567928,
+      "updatedAt": 1728656960,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
       "snapshotSchedule": {},
       "snapshotScheduleStatus": null,
-      "reportAssetId": null,
+      "reportAssetId": "794",
       "mdeSettings": {},
       "visualIdentifier": "inforiver_JLOBJILKMIEMDPD",
       "languages": { "GERMAN": "de-DE", "FRENCH": "fr-FR", "SPANISH": "es-ES" },
@@ -1153,10 +1141,7 @@
     "allowNativeCellEdit": false,
     "calculatedVariables": {},
     "formFieldsVariables": { "variables": [], "onLoadFormula": "", "onDataChangeFormula": "" },
-    "filterList": [
-      { "combinator": "and", "id": "STIEBAQW", "name": "Category", "rules": [{ "field": "Orders.Category", "operator": "isOneof", "value": "Furniture" }] },
-      { "combinator": "and", "id": "OZZUSASJ", "name": "Year", "rules": [{ "field": "Orders.Order Date.Variation.Date Hierarchy.Year", "operator": "is", "value": "2014" }] }
-    ],
+    "filterList": [],
     "customIcons": [],
     "scrollThickness": false,
     "dynamicRowScale": {},
