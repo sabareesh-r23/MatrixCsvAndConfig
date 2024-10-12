@@ -297,6 +297,488 @@
         },
         "calculatedColumns": [
             {
+                "id": "CALC_17287480448846429",
+                "name": "Number",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": true,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "aggDepMeasures": [],
+                "type": "NUMBER_COLUMN",
+                "versionNumber": 2,
+                "isFormulaPopulate": false,
+                "aggregation": "sum",
+                "colAggregation": "sum",
+                "allocateOperation": "by_weight",
+                "enableAllocateParent": true,
+                "dataMap": {},
+                "isStoredColumn": true,
+                "editOnTotal": true,
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum",
+                    "selectedOptions": {}
+                },
+                "defaultValueType": "static",
+                "defaultValue": "",
+                "pk": "48163",
+                "isUpdated": true,
+                "depColumnFormulaId": null,
+                "depColumn2FormulaId": null,
+                "linkedSimulations": null,
+                "editConditionFormula": "",
+                "minValue": null,
+                "maxValue": null,
+                "minValueType": "none",
+                "maxValueType": "none",
+                "forecastStartPeriod": {
+                    "value": ""
+                },
+                "editMode": false,
+                "onUpdateFormula": "",
+                "onChangeFormula": "",
+                "order": 0,
+                "isPrivateColumn": false
+            },
+            {
+                "id": "CALC_17287480524668675",
+                "name": "Text",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": true,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "aggDepMeasures": [],
+                "type": "TEXT_COLUMN",
+                "versionNumber": 2,
+                "isFormulaPopulate": false,
+                "aggregation": "sum",
+                "colAggregation": "sum",
+                "allocateOperation": "by_weight",
+                "enableAllocateParent": true,
+                "dataMap": {},
+                "isStoredColumn": true,
+                "meta": {
+                    "characterLimit": "",
+                    "fieldValidation": {
+                        "type": "Any Value"
+                    },
+                    "textLength": {},
+                    "selectedOptions": {}
+                },
+                "defaultValueType": "static",
+                "defaultValue": "",
+                "order": 1,
+                "pk": "48164",
+                "isUpdated": true,
+                "linkedSimulations": null,
+                "editConditionFormula": "",
+                "forecastStartPeriod": {
+                    "value": ""
+                },
+                "editMode": false,
+                "onUpdateFormula": "",
+                "onChangeFormula": "",
+                "isPrivateColumn": false
+            },
+            {
+                "id": "CALC_17287480614507621",
+                "name": "Single Select",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": true,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "aggDepMeasures": [],
+                "type": "OPTIONS_COLUMN",
+                "versionNumber": 2,
+                "isFormulaPopulate": false,
+                "aggregation": "sum",
+                "colAggregation": "sum",
+                "allocateOperation": "by_weight",
+                "enableAllocateParent": true,
+                "dataMap": {},
+                "isStoredColumn": true,
+                "meta": {
+                    "isMultiSelect": false,
+                    "options": [
+                        {
+                            "displayName": "Option 1",
+                            "value": "custom_select_9ThiIj21",
+                            "color": "#9CD740",
+                            "icon": "circle-fill",
+                            "order": 1
+                        },
+                        {
+                            "displayName": "Option 2",
+                            "value": "custom_select_pWB8TqTu",
+                            "color": "#FF8A00",
+                            "icon": "circle-fill",
+                            "order": 2
+                        },
+                        {
+                            "displayName": "Option 3",
+                            "value": "custom_select_sP3Bjt7m",
+                            "color": "#FF000A",
+                            "icon": "circle-fill",
+                            "order": 3
+                        }
+                    ],
+                    "position": "left",
+                    "shouldAddNewOptions": false,
+                    "linkedColumn": {},
+                    "linkedDataset": {
+                        "workspaceId": "",
+                        "datasetId": "",
+                        "optionDetails": {
+                            "tableName": "",
+                            "optionColumnName": "",
+                            "optionColumnID": ""
+                        },
+                        "isJoin": false,
+                        "joins": [],
+                        "filterColumnDetail": {
+                            "filterColumnsMapping": {}
+                        }
+                    },
+                    "linkedHelperVisual": {},
+                    "optionStyle": "chip",
+                    "schedule": {},
+                    "isSyncRequired": false,
+                    "selectedOptions": {}
+                },
+                "defaultValueType": "static",
+                "defaultValue": "",
+                "order": 2,
+                "pk": "48165",
+                "isUpdated": true,
+                "linkedSimulations": null,
+                "editConditionFormula": "",
+                "forecastStartPeriod": {
+                    "value": ""
+                },
+                "editMode": false,
+                "onUpdateFormula": "",
+                "onChangeFormula": "",
+                "isPrivateColumn": false
+            },
+            {
+                "id": "CALC_17287480792902962",
+                "name": "Multi Select",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": true,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "aggDepMeasures": [],
+                "type": "MULTI_SELECT",
+                "versionNumber": 2,
+                "isFormulaPopulate": false,
+                "aggregation": "sum",
+                "colAggregation": "sum",
+                "allocateOperation": "by_weight",
+                "enableAllocateParent": true,
+                "dataMap": {},
+                "isStoredColumn": true,
+                "editOnTotal": true,
+                "meta": {
+                    "isMultiSelect": true,
+                    "options": [
+                        {
+                            "displayName": "Option 1",
+                            "value": "custom_select_Dv46zzay",
+                            "color": "#9CD740",
+                            "icon": "circle-fill",
+                            "order": 1
+                        },
+                        {
+                            "displayName": "Option 2",
+                            "value": "custom_select_npA4lSt5",
+                            "color": "#FF8A00",
+                            "icon": "circle-fill",
+                            "order": 2
+                        },
+                        {
+                            "displayName": "Option 3",
+                            "value": "custom_select_6DYHiiL1",
+                            "color": "#FF000A",
+                            "icon": "circle-fill",
+                            "order": 3
+                        }
+                    ],
+                    "position": "left",
+                    "shouldAddNewOptions": false,
+                    "linkedColumn": {},
+                    "linkedDataset": {
+                        "workspaceId": "",
+                        "datasetId": "",
+                        "optionDetails": {
+                            "tableName": "",
+                            "optionColumnName": "",
+                            "optionColumnID": ""
+                        },
+                        "isJoin": false,
+                        "joins": [],
+                        "filterColumnDetail": {
+                            "filterColumnsMapping": {}
+                        }
+                    },
+                    "linkedHelperVisual": {},
+                    "optionStyle": "chip",
+                    "schedule": {},
+                    "isSyncRequired": false,
+                    "selectedOptions": {}
+                },
+                "defaultValueType": "static",
+                "defaultValue": "",
+                "order": 3,
+                "pk": "48166",
+                "isUpdated": true,
+                "linkedSimulations": null,
+                "editConditionFormula": "",
+                "forecastStartPeriod": {
+                    "value": ""
+                },
+                "editMode": false,
+                "onUpdateFormula": "",
+                "onChangeFormula": "",
+                "isPrivateColumn": false
+            },
+            {
+                "id": "CALC_17287480898347919",
+                "name": "Check Box",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": true,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "aggDepMeasures": [],
+                "type": "CHECK_BOX",
+                "versionNumber": 2,
+                "isFormulaPopulate": false,
+                "aggregation": "sum",
+                "colAggregation": "sum",
+                "allocateOperation": "by_weight",
+                "enableAllocateParent": true,
+                "dataMap": {},
+                "isStoredColumn": true,
+                "editOnTotal": true,
+                "meta": {
+                    "selectedOptions": {}
+                },
+                "defaultValueType": "static",
+                "defaultValue": "",
+                "order": 4,
+                "pk": "48167",
+                "isUpdated": true,
+                "linkedSimulations": null,
+                "editConditionFormula": "",
+                "forecastStartPeriod": {
+                    "value": ""
+                },
+                "editMode": false,
+                "onUpdateFormula": "",
+                "onChangeFormula": "",
+                "isPrivateColumn": false
+            },
+            {
+                "id": "CALC_17287481039868804",
+                "name": "Date",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": true,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "aggDepMeasures": [],
+                "type": "DATE_COLUMN",
+                "versionNumber": 2,
+                "isFormulaPopulate": false,
+                "aggregation": "sum",
+                "colAggregation": "sum",
+                "allocateOperation": "by_weight",
+                "enableAllocateParent": true,
+                "dataMap": {},
+                "isStoredColumn": true,
+                "editOnTotal": true,
+                "meta": {
+                    "date": null,
+                    "format": "DEFAULT_LOCALE",
+                    "selectedOptions": {}
+                },
+                "defaultValueType": "static",
+                "defaultValue": "",
+                "order": 5,
+                "pk": "48168",
+                "isUpdated": true,
+                "linkedSimulations": null,
+                "editConditionFormula": "",
+                "forecastStartPeriod": {
+                    "value": ""
+                },
+                "editMode": false,
+                "onUpdateFormula": "",
+                "onChangeFormula": "",
+                "isPrivateColumn": false
+            },
+            {
+                "id": "CALC_17287481145623849",
+                "name": "Person",
+                "formula": "",
+                "category": [],
+                "measures": [],
+                "depMeasures": [],
+                "desc": "",
+                "operation": "STA",
+                "deps": null,
+                "offset": 0,
+                "isHierarchyColumn": true,
+                "simulationSlider": true,
+                "simulationRange": [
+                    -100,
+                    100
+                ],
+                "simulationValueAlign": "left",
+                "varianceFormattingStyle": "POSITIVE",
+                "blendDirection": "vertical",
+                "varianceType": "ABSVAR",
+                "columnEditMode": "inBothMode",
+                "scenarioSimulationSlider": true,
+                "showScenarioVariance": true,
+                "aggDepMeasures": [],
+                "type": "PERSON_COLUMN",
+                "versionNumber": 2,
+                "isFormulaPopulate": false,
+                "aggregation": "sum",
+                "colAggregation": "sum",
+                "allocateOperation": "by_weight",
+                "enableAllocateParent": true,
+                "dataMap": {},
+                "isStoredColumn": true,
+                "editOnTotal": true,
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum",
+                    "selectedOptions": {}
+                },
+                "defaultValueType": "static",
+                "defaultValue": "",
+                "order": 6,
+                "pk": "48169",
+                "isUpdated": true,
+                "linkedSimulations": null,
+                "editConditionFormula": "",
+                "forecastStartPeriod": {
+                    "value": ""
+                },
+                "editMode": false,
+                "onUpdateFormula": "",
+                "onChangeFormula": "",
+                "isPrivateColumn": false
+            },
+            {
                 "id": "LAST_UPDATED_AT",
                 "name": "Last Updated At",
                 "formula": "",
@@ -1163,80 +1645,80 @@
                 "role": "AC"
             },
             {
-                "id": "CALC_17276794331953075",
-                "label": "Text",
-                "order": 1,
-                "visible": true,
-                "columnType": "TEXT_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17276794331953075"
-            },
-            {
-                "id": "CALC_17276794398065131",
-                "label": "Single Select",
-                "order": 2,
-                "visible": true,
-                "columnType": "OPTIONS_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17276794398065131"
-            },
-            {
-                "id": "CALC_17276794464323299",
-                "label": "Multi Select",
-                "order": 3,
-                "visible": true,
-                "columnType": "MULTI_SELECT",
-                "isStoredColumn": true,
-                "name": "CALC_17276794464323299"
-            },
-            {
-                "id": "CALC_17276794570068316",
-                "label": "Check Box",
-                "order": 4,
-                "visible": true,
-                "columnType": "CHECK_BOX",
-                "isStoredColumn": true,
-                "name": "CALC_17276794570068316"
-            },
-            {
-                "id": "CALC_17276794650148687",
-                "label": "Date",
-                "order": 5,
-                "visible": true,
-                "columnType": "DATE_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17276794650148687"
-            },
-            {
-                "id": "CALC_17276794719363826",
-                "label": "Person",
-                "order": 6,
-                "visible": true,
-                "columnType": "PERSON_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17276794719363826"
-            },
-            {
-                "id": "CALC_17284468429938371",
+                "id": "CALC_17287480448846429",
                 "label": "Number",
-                "order": 7,
+                "order": 1,
                 "visible": true,
                 "columnType": "NUMBER_COLUMN",
                 "isStoredColumn": true,
-                "name": "CALC_17284468429938371"
+                "name": "CALC_17287480448846429"
+            },
+            {
+                "id": "CALC_17287480524668675",
+                "label": "Text",
+                "order": 2,
+                "visible": true,
+                "columnType": "TEXT_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17287480524668675"
+            },
+            {
+                "id": "CALC_17287480614507621",
+                "label": "Single Select",
+                "order": 3,
+                "visible": true,
+                "columnType": "OPTIONS_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17287480614507621"
+            },
+            {
+                "id": "CALC_17287480792902962",
+                "label": "Multi Select",
+                "order": 4,
+                "visible": true,
+                "columnType": "MULTI_SELECT",
+                "isStoredColumn": true,
+                "name": "CALC_17287480792902962"
+            },
+            {
+                "id": "CALC_17287480898347919",
+                "label": "Check Box",
+                "order": 5,
+                "visible": true,
+                "columnType": "CHECK_BOX",
+                "isStoredColumn": true,
+                "name": "CALC_17287480898347919"
+            },
+            {
+                "id": "CALC_17287481039868804",
+                "label": "Date",
+                "order": 6,
+                "visible": true,
+                "columnType": "DATE_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17287481039868804"
+            },
+            {
+                "id": "CALC_17287481145623849",
+                "label": "Person",
+                "order": 7,
+                "visible": true,
+                "columnType": "PERSON_COLUMN",
+                "isStoredColumn": true,
+                "name": "CALC_17287481145623849"
             },
             {
                 "id": "LAST_UPDATED_AT",
                 "label": "Last Updated At",
                 "order": 8,
-                "visible": true,
+                "visible": false,
                 "name": "LAST_UPDATED_AT"
             },
             {
                 "id": "LAST_UPDATED_BY",
                 "label": "Last Updated By",
                 "order": 9,
-                "visible": true,
+                "visible": false,
                 "name": "LAST_UPDATED_BY"
             }
         ],
@@ -1257,7 +1739,14 @@
             "CALC_17276794570068316": "sum",
             "CALC_17276794650148687": "sum",
             "CALC_17276794719363826": "sum",
-            "CALC_17284468429938371": "sum"
+            "CALC_17284468429938371": "sum",
+            "CALC_17287480448846429": "sum",
+            "CALC_17287480524668675": "sum",
+            "CALC_17287480614507621": "sum",
+            "CALC_17287480792902962": "sum",
+            "CALC_17287480898347919": "sum",
+            "CALC_17287481039868804": "sum",
+            "CALC_17287481145623849": "sum"
         },
         "outliers": {
             "enableOutlier": false,
@@ -1704,7 +2193,7 @@
         "hideRowChildren": [],
         "hideExpandLevel": {},
         "commentSettings": {
-            "rowLevelComments": false,
+            "rowLevelComments": true,
             "expandRowLevelComments": false,
             "rollUpComments": true
         },
@@ -1773,10 +2262,10 @@
         },
         "showSubtotalLevels": {},
         "customInputColumn": {
-            "CALC_17284468429938371": {
-                "id": "CALC_17284468429938371",
-                "title": "Number",
-                "type": "NUMBER_COLUMN",
+            "CALC_17287481145623849": {
+                "id": "CALC_17287481145623849",
+                "title": "Person",
+                "type": "PERSON_COLUMN",
                 "description": "",
                 "meta": {
                     "range": {
@@ -1786,7 +2275,7 @@
                     "aggregationType": "sum",
                     "selectedOptions": {}
                 },
-                "columnId": "46804",
+                "columnId": "48169",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -1802,37 +2291,8 @@
                     "10": []
                 }
             },
-            "CALC_17276794719363826": {
-                "id": "CALC_17276794719363826",
-                "title": "Person",
-                "type": "PERSON_COLUMN",
-                "description": "",
-                "meta": {
-                    "range": {
-                        "from": 0,
-                        "to": 100
-                    },
-                    "aggregationType": "sum",
-                    "selectedOptions": {}
-                },
-                "columnId": "43580",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17276794650148687": {
-                "id": "CALC_17276794650148687",
+            "CALC_17287481039868804": {
+                "id": "CALC_17287481039868804",
                 "title": "Date",
                 "type": "DATE_COLUMN",
                 "description": "",
@@ -1841,14 +2301,14 @@
                     "format": "DEFAULT_LOCALE",
                     "selectedOptions": {}
                 },
-                "columnId": "43577",
+                "columnId": "48168",
                 "accessControl": {
                     "read": [],
                     "write": []
                 },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
+                "createdBy": "55",
+                "createdByUser": "Keerthika Subramaniam",
+                "createdByUserEmail": "KeerthikaS@lumel.com",
                 "disableWriteAccess": false,
                 "forecastAllowedUserPermissions": {
                     "10": true
@@ -1857,22 +2317,22 @@
                     "10": []
                 }
             },
-            "CALC_17276794570068316": {
-                "id": "CALC_17276794570068316",
+            "CALC_17287480898347919": {
+                "id": "CALC_17287480898347919",
                 "title": "Check Box",
                 "type": "CHECK_BOX",
                 "description": "",
                 "meta": {
                     "selectedOptions": {}
                 },
-                "columnId": "43576",
+                "columnId": "48167",
                 "accessControl": {
                     "read": [],
                     "write": []
                 },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
+                "createdBy": "55",
+                "createdByUser": "Keerthika Subramaniam",
+                "createdByUserEmail": "KeerthikaS@lumel.com",
                 "disableWriteAccess": false,
                 "forecastAllowedUserPermissions": {
                     "10": true
@@ -1881,8 +2341,8 @@
                     "10": []
                 }
             },
-            "CALC_17276794464323299": {
-                "id": "CALC_17276794464323299",
+            "CALC_17287480792902962": {
+                "id": "CALC_17287480792902962",
                 "title": "Multi Select",
                 "type": "MULTI_SELECT",
                 "description": "",
@@ -1891,21 +2351,21 @@
                     "options": [
                         {
                             "displayName": "Option 1",
-                            "value": "custom_select_j2RZ2Og1",
+                            "value": "custom_select_Dv46zzay",
                             "color": "#9CD740",
                             "icon": "circle-fill",
                             "order": 1
                         },
                         {
                             "displayName": "Option 2",
-                            "value": "custom_select_LXKRlvyj",
+                            "value": "custom_select_npA4lSt5",
                             "color": "#FF8A00",
                             "icon": "circle-fill",
                             "order": 2
                         },
                         {
                             "displayName": "Option 3",
-                            "value": "custom_select_Jbtl0yDT",
+                            "value": "custom_select_6DYHiiL1",
                             "color": "#FF000A",
                             "icon": "circle-fill",
                             "order": 3
@@ -1934,14 +2394,14 @@
                     "isSyncRequired": false,
                     "selectedOptions": {}
                 },
-                "columnId": "43575",
+                "columnId": "48166",
                 "accessControl": {
                     "read": [],
                     "write": []
                 },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
+                "createdBy": "55",
+                "createdByUser": "Keerthika Subramaniam",
+                "createdByUserEmail": "KeerthikaS@lumel.com",
                 "disableWriteAccess": false,
                 "forecastAllowedUserPermissions": {
                     "10": true
@@ -1950,8 +2410,8 @@
                     "10": []
                 }
             },
-            "CALC_17276794398065131": {
-                "id": "CALC_17276794398065131",
+            "CALC_17287480614507621": {
+                "id": "CALC_17287480614507621",
                 "title": "Single Select",
                 "type": "OPTIONS_COLUMN",
                 "description": "",
@@ -1960,21 +2420,21 @@
                     "options": [
                         {
                             "displayName": "Option 1",
-                            "value": "custom_select_pl50Etuo",
+                            "value": "custom_select_9ThiIj21",
                             "color": "#9CD740",
                             "icon": "circle-fill",
                             "order": 1
                         },
                         {
                             "displayName": "Option 2",
-                            "value": "custom_select_5p6WsfS1",
+                            "value": "custom_select_pWB8TqTu",
                             "color": "#FF8A00",
                             "icon": "circle-fill",
                             "order": 2
                         },
                         {
                             "displayName": "Option 3",
-                            "value": "custom_select_a1ha1P6Y",
+                            "value": "custom_select_sP3Bjt7m",
                             "color": "#FF000A",
                             "icon": "circle-fill",
                             "order": 3
@@ -2003,14 +2463,14 @@
                     "isSyncRequired": false,
                     "selectedOptions": {}
                 },
-                "columnId": "43574",
+                "columnId": "48165",
                 "accessControl": {
                     "read": [],
                     "write": []
                 },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
+                "createdBy": "55",
+                "createdByUser": "Keerthika Subramaniam",
+                "createdByUserEmail": "KeerthikaS@lumel.com",
                 "disableWriteAccess": false,
                 "forecastAllowedUserPermissions": {
                     "10": true
@@ -2019,8 +2479,8 @@
                     "10": []
                 }
             },
-            "CALC_17276794331953075": {
-                "id": "CALC_17276794331953075",
+            "CALC_17287480524668675": {
+                "id": "CALC_17287480524668675",
                 "title": "Text",
                 "type": "TEXT_COLUMN",
                 "description": "",
@@ -2032,14 +2492,43 @@
                     "textLength": {},
                     "selectedOptions": {}
                 },
-                "columnId": "43573",
+                "columnId": "48164",
                 "accessControl": {
                     "read": [],
                     "write": []
                 },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
+                "createdBy": "55",
+                "createdByUser": "Keerthika Subramaniam",
+                "createdByUserEmail": "KeerthikaS@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17287480448846429": {
+                "id": "CALC_17287480448846429",
+                "title": "Number",
+                "type": "NUMBER_COLUMN",
+                "description": "",
+                "meta": {
+                    "range": {
+                        "from": 0,
+                        "to": 100
+                    },
+                    "aggregationType": "sum",
+                    "selectedOptions": {}
+                },
+                "columnId": "48163",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "55",
+                "createdByUser": "Keerthika Subramaniam",
+                "createdByUserEmail": "KeerthikaS@lumel.com",
                 "disableWriteAccess": false,
                 "forecastAllowedUserPermissions": {
                     "10": true
@@ -2299,7 +2788,6 @@
                             "dataType": "TEXT"
                         }
                     ],
-                    "dimensionHash": "1514e1ac3dfa652ba42ecffcec8acb90",
                     "measures": [
                         {
                             "id": "Sum__15000__Pack__U3VtKDE1MDAwLlBhY2sp",
@@ -2307,49 +2795,53 @@
                             "dataType": "NUMERIC"
                         },
                         {
-                            "id": "CALC_17276794331953075",
-                            "name": "Text",
-                            "dataType": "TEXT"
-                        },
-                        {
-                            "id": "CALC_17276794398065131",
-                            "name": "Single Select",
-                            "dataType": "OPTIONS"
-                        },
-                        {
-                            "id": "CALC_17276794464323299",
-                            "name": "Multi Select",
-                            "dataType": "MULTI_SELECT"
-                        },
-                        {
-                            "id": "CALC_17276794570068316",
-                            "name": "Check Box",
-                            "dataType": "CHECK_BOX"
-                        },
-                        {
-                            "id": "CALC_17276794650148687",
-                            "name": "Date",
-                            "dataType": "DATE"
-                        },
-                        {
-                            "id": "CALC_17276794719363826",
-                            "name": "Person",
-                            "dataType": "PERSON"
-                        },
-                        {
-                            "id": "CALC_17284468429938371",
+                            "id": "CALC_17287480448846429",
                             "name": "Number",
                             "dataType": "NUMERIC"
                         },
                         {
+                            "id": "CALC_17287480524668675",
+                            "name": "Text",
+                            "dataType": "TEXT"
+                        },
+                        {
+                            "id": "CALC_17287480614507621",
+                            "name": "Single Select",
+                            "dataType": "OPTIONS"
+                        },
+                        {
+                            "id": "CALC_17287480792902962",
+                            "name": "Multi Select",
+                            "dataType": "MULTI_SELECT"
+                        },
+                        {
+                            "id": "CALC_17287480898347919",
+                            "name": "Check Box",
+                            "dataType": "CHECK_BOX"
+                        },
+                        {
+                            "id": "CALC_17287481039868804",
+                            "name": "Date",
+                            "dataType": "DATE"
+                        },
+                        {
+                            "id": "CALC_17287481145623849",
+                            "name": "Person",
+                            "dataType": "PERSON"
+                        },
+                        {
                             "name": "Notes",
+                            "dataType": "TEXT"
+                        },
+                        {
+                            "name": "Comments",
                             "dataType": "TEXT"
                         }
                     ],
+                    "reportDisplayName": " by County, Year, Quarter",
                     "hasFormulaRows": true,
                     "hasCascadeFormulaMeasure": false,
-                    "hasNativeMeasures": true,
-                    "reportDisplayName": " by County, Year, Quarter"
+                    "hasNativeMeasures": true
                 },
                 "includedIdDimensions": [
                     {
@@ -2378,7 +2870,7 @@
             "createdBy": "91",
             "createdAt": 1727679104,
             "updatedBy": "55",
-            "updatedAt": 1728447730,
+            "updatedAt": 1728748120,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -2615,7 +3107,14 @@
             "CALC_17276794570068316": "sum",
             "CALC_17276794650148687": "sum",
             "CALC_17276794719363826": "sum",
-            "CALC_17284468429938371": "sum"
+            "CALC_17284468429938371": "sum",
+            "CALC_17287480448846429": "sum",
+            "CALC_17287480524668675": "sum",
+            "CALC_17287480614507621": "sum",
+            "CALC_17287480792902962": "sum",
+            "CALC_17287480898347919": "sum",
+            "CALC_17287481039868804": "sum",
+            "CALC_17287481145623849": "sum"
         },
         "rowEditPermissions": {},
         "showReadViewBookmark": false,
