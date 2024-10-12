@@ -297,7 +297,7 @@
         },
         "calculatedColumns": [
             {
-                "id": "CALC_17287480448846429",
+                "id": "CALC_17287486631964942",
                 "name": "Number",
                 "formula": "",
                 "category": [],
@@ -341,7 +341,7 @@
                 },
                 "defaultValueType": "static",
                 "defaultValue": "",
-                "pk": "48163",
+                "pk": "48170",
                 "isUpdated": true,
                 "depColumnFormulaId": null,
                 "depColumn2FormulaId": null,
@@ -361,7 +361,7 @@
                 "isPrivateColumn": false
             },
             {
-                "id": "CALC_17287480524668675",
+                "id": "CALC_17287486742588801",
                 "name": "Text",
                 "formula": "",
                 "category": [],
@@ -405,7 +405,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 1,
-                "pk": "48164",
+                "pk": "48171",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -418,7 +418,7 @@
                 "isPrivateColumn": false
             },
             {
-                "id": "CALC_17287480614507621",
+                "id": "CALC_17287486825373741",
                 "name": "Single Select",
                 "formula": "",
                 "category": [],
@@ -456,21 +456,21 @@
                     "options": [
                         {
                             "displayName": "Option 1",
-                            "value": "custom_select_9ThiIj21",
+                            "value": "custom_select_vY7DniKm",
                             "color": "#9CD740",
                             "icon": "circle-fill",
                             "order": 1
                         },
                         {
                             "displayName": "Option 2",
-                            "value": "custom_select_pWB8TqTu",
+                            "value": "custom_select_lxwdfLir",
                             "color": "#FF8A00",
                             "icon": "circle-fill",
                             "order": 2
                         },
                         {
                             "displayName": "Option 3",
-                            "value": "custom_select_sP3Bjt7m",
+                            "value": "custom_select_C6zkrDwQ",
                             "color": "#FF000A",
                             "icon": "circle-fill",
                             "order": 3
@@ -502,7 +502,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 2,
-                "pk": "48165",
+                "pk": "48172",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -515,7 +515,7 @@
                 "isPrivateColumn": false
             },
             {
-                "id": "CALC_17287480792902962",
+                "id": "CALC_17287486927814973",
                 "name": "Multi Select",
                 "formula": "",
                 "category": [],
@@ -554,21 +554,21 @@
                     "options": [
                         {
                             "displayName": "Option 1",
-                            "value": "custom_select_Dv46zzay",
+                            "value": "custom_select_mJZ24PDh",
                             "color": "#9CD740",
                             "icon": "circle-fill",
                             "order": 1
                         },
                         {
                             "displayName": "Option 2",
-                            "value": "custom_select_npA4lSt5",
+                            "value": "custom_select_UbVx8cUW",
                             "color": "#FF8A00",
                             "icon": "circle-fill",
                             "order": 2
                         },
                         {
                             "displayName": "Option 3",
-                            "value": "custom_select_6DYHiiL1",
+                            "value": "custom_select_yxzOIIKr",
                             "color": "#FF000A",
                             "icon": "circle-fill",
                             "order": 3
@@ -600,7 +600,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 3,
-                "pk": "48166",
+                "pk": "48173",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -613,7 +613,7 @@
                 "isPrivateColumn": false
             },
             {
-                "id": "CALC_17287480898347919",
+                "id": "CALC_17287487046269576",
                 "name": "Check Box",
                 "formula": "",
                 "category": [],
@@ -653,7 +653,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 4,
-                "pk": "48167",
+                "pk": "48174",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -666,7 +666,7 @@
                 "isPrivateColumn": false
             },
             {
-                "id": "CALC_17287481039868804",
+                "id": "CALC_17287487138354284",
                 "name": "Date",
                 "formula": "",
                 "category": [],
@@ -708,7 +708,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 5,
-                "pk": "48168",
+                "pk": "48175",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -721,7 +721,7 @@
                 "isPrivateColumn": false
             },
             {
-                "id": "CALC_17287481145623849",
+                "id": "CALC_17287487266661396",
                 "name": "Person",
                 "formula": "",
                 "category": [],
@@ -766,7 +766,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 6,
-                "pk": "48169",
+                "pk": "48176",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -1645,67 +1645,67 @@
                 "role": "AC"
             },
             {
-                "id": "CALC_17287480448846429",
+                "id": "CALC_17287486631964942",
                 "label": "Number",
                 "order": 1,
                 "visible": true,
                 "columnType": "NUMBER_COLUMN",
                 "isStoredColumn": true,
-                "name": "CALC_17287480448846429"
+                "name": "CALC_17287486631964942"
             },
             {
-                "id": "CALC_17287480524668675",
+                "id": "CALC_17287486742588801",
                 "label": "Text",
                 "order": 2,
                 "visible": true,
                 "columnType": "TEXT_COLUMN",
                 "isStoredColumn": true,
-                "name": "CALC_17287480524668675"
+                "name": "CALC_17287486742588801"
             },
             {
-                "id": "CALC_17287480614507621",
+                "id": "CALC_17287486825373741",
                 "label": "Single Select",
                 "order": 3,
                 "visible": true,
                 "columnType": "OPTIONS_COLUMN",
                 "isStoredColumn": true,
-                "name": "CALC_17287480614507621"
+                "name": "CALC_17287486825373741"
             },
             {
-                "id": "CALC_17287480792902962",
+                "id": "CALC_17287486927814973",
                 "label": "Multi Select",
                 "order": 4,
                 "visible": true,
                 "columnType": "MULTI_SELECT",
                 "isStoredColumn": true,
-                "name": "CALC_17287480792902962"
+                "name": "CALC_17287486927814973"
             },
             {
-                "id": "CALC_17287480898347919",
+                "id": "CALC_17287487046269576",
                 "label": "Check Box",
                 "order": 5,
                 "visible": true,
                 "columnType": "CHECK_BOX",
                 "isStoredColumn": true,
-                "name": "CALC_17287480898347919"
+                "name": "CALC_17287487046269576"
             },
             {
-                "id": "CALC_17287481039868804",
+                "id": "CALC_17287487138354284",
                 "label": "Date",
                 "order": 6,
                 "visible": true,
                 "columnType": "DATE_COLUMN",
                 "isStoredColumn": true,
-                "name": "CALC_17287481039868804"
+                "name": "CALC_17287487138354284"
             },
             {
-                "id": "CALC_17287481145623849",
+                "id": "CALC_17287487266661396",
                 "label": "Person",
                 "order": 7,
                 "visible": true,
                 "columnType": "PERSON_COLUMN",
                 "isStoredColumn": true,
-                "name": "CALC_17287481145623849"
+                "name": "CALC_17287487266661396"
             },
             {
                 "id": "LAST_UPDATED_AT",
@@ -1740,13 +1740,13 @@
             "CALC_17276794650148687": "sum",
             "CALC_17276794719363826": "sum",
             "CALC_17284468429938371": "sum",
-            "CALC_17287480448846429": "sum",
-            "CALC_17287480524668675": "sum",
-            "CALC_17287480614507621": "sum",
-            "CALC_17287480792902962": "sum",
-            "CALC_17287480898347919": "sum",
-            "CALC_17287481039868804": "sum",
-            "CALC_17287481145623849": "sum"
+            "CALC_17287486631964942": "sum",
+            "CALC_17287486742588801": "sum",
+            "CALC_17287486825373741": "sum",
+            "CALC_17287486927814973": "sum",
+            "CALC_17287487046269576": "sum",
+            "CALC_17287487138354284": "sum",
+            "CALC_17287487266661396": "sum"
         },
         "outliers": {
             "enableOutlier": false,
@@ -2193,7 +2193,7 @@
         "hideRowChildren": [],
         "hideExpandLevel": {},
         "commentSettings": {
-            "rowLevelComments": true,
+            "rowLevelComments": false,
             "expandRowLevelComments": false,
             "rollUpComments": true
         },
@@ -2262,8 +2262,8 @@
         },
         "showSubtotalLevels": {},
         "customInputColumn": {
-            "CALC_17287481145623849": {
-                "id": "CALC_17287481145623849",
+            "CALC_17287487266661396": {
+                "id": "CALC_17287487266661396",
                 "title": "Person",
                 "type": "PERSON_COLUMN",
                 "description": "",
@@ -2275,7 +2275,7 @@
                     "aggregationType": "sum",
                     "selectedOptions": {}
                 },
-                "columnId": "48169",
+                "columnId": "48176",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2291,8 +2291,8 @@
                     "10": []
                 }
             },
-            "CALC_17287481039868804": {
-                "id": "CALC_17287481039868804",
+            "CALC_17287487138354284": {
+                "id": "CALC_17287487138354284",
                 "title": "Date",
                 "type": "DATE_COLUMN",
                 "description": "",
@@ -2301,7 +2301,7 @@
                     "format": "DEFAULT_LOCALE",
                     "selectedOptions": {}
                 },
-                "columnId": "48168",
+                "columnId": "48175",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2317,15 +2317,15 @@
                     "10": []
                 }
             },
-            "CALC_17287480898347919": {
-                "id": "CALC_17287480898347919",
+            "CALC_17287487046269576": {
+                "id": "CALC_17287487046269576",
                 "title": "Check Box",
                 "type": "CHECK_BOX",
                 "description": "",
                 "meta": {
                     "selectedOptions": {}
                 },
-                "columnId": "48167",
+                "columnId": "48174",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2341,8 +2341,8 @@
                     "10": []
                 }
             },
-            "CALC_17287480792902962": {
-                "id": "CALC_17287480792902962",
+            "CALC_17287486927814973": {
+                "id": "CALC_17287486927814973",
                 "title": "Multi Select",
                 "type": "MULTI_SELECT",
                 "description": "",
@@ -2351,21 +2351,21 @@
                     "options": [
                         {
                             "displayName": "Option 1",
-                            "value": "custom_select_Dv46zzay",
+                            "value": "custom_select_mJZ24PDh",
                             "color": "#9CD740",
                             "icon": "circle-fill",
                             "order": 1
                         },
                         {
                             "displayName": "Option 2",
-                            "value": "custom_select_npA4lSt5",
+                            "value": "custom_select_UbVx8cUW",
                             "color": "#FF8A00",
                             "icon": "circle-fill",
                             "order": 2
                         },
                         {
                             "displayName": "Option 3",
-                            "value": "custom_select_6DYHiiL1",
+                            "value": "custom_select_yxzOIIKr",
                             "color": "#FF000A",
                             "icon": "circle-fill",
                             "order": 3
@@ -2394,7 +2394,7 @@
                     "isSyncRequired": false,
                     "selectedOptions": {}
                 },
-                "columnId": "48166",
+                "columnId": "48173",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2410,8 +2410,8 @@
                     "10": []
                 }
             },
-            "CALC_17287480614507621": {
-                "id": "CALC_17287480614507621",
+            "CALC_17287486825373741": {
+                "id": "CALC_17287486825373741",
                 "title": "Single Select",
                 "type": "OPTIONS_COLUMN",
                 "description": "",
@@ -2420,21 +2420,21 @@
                     "options": [
                         {
                             "displayName": "Option 1",
-                            "value": "custom_select_9ThiIj21",
+                            "value": "custom_select_vY7DniKm",
                             "color": "#9CD740",
                             "icon": "circle-fill",
                             "order": 1
                         },
                         {
                             "displayName": "Option 2",
-                            "value": "custom_select_pWB8TqTu",
+                            "value": "custom_select_lxwdfLir",
                             "color": "#FF8A00",
                             "icon": "circle-fill",
                             "order": 2
                         },
                         {
                             "displayName": "Option 3",
-                            "value": "custom_select_sP3Bjt7m",
+                            "value": "custom_select_C6zkrDwQ",
                             "color": "#FF000A",
                             "icon": "circle-fill",
                             "order": 3
@@ -2463,7 +2463,7 @@
                     "isSyncRequired": false,
                     "selectedOptions": {}
                 },
-                "columnId": "48165",
+                "columnId": "48172",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2479,8 +2479,8 @@
                     "10": []
                 }
             },
-            "CALC_17287480524668675": {
-                "id": "CALC_17287480524668675",
+            "CALC_17287486742588801": {
+                "id": "CALC_17287486742588801",
                 "title": "Text",
                 "type": "TEXT_COLUMN",
                 "description": "",
@@ -2492,7 +2492,7 @@
                     "textLength": {},
                     "selectedOptions": {}
                 },
-                "columnId": "48164",
+                "columnId": "48171",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2508,8 +2508,8 @@
                     "10": []
                 }
             },
-            "CALC_17287480448846429": {
-                "id": "CALC_17287480448846429",
+            "CALC_17287486631964942": {
+                "id": "CALC_17287486631964942",
                 "title": "Number",
                 "type": "NUMBER_COLUMN",
                 "description": "",
@@ -2521,7 +2521,7 @@
                     "aggregationType": "sum",
                     "selectedOptions": {}
                 },
-                "columnId": "48163",
+                "columnId": "48170",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2795,46 +2795,42 @@
                             "dataType": "NUMERIC"
                         },
                         {
-                            "id": "CALC_17287480448846429",
+                            "id": "CALC_17287486631964942",
                             "name": "Number",
                             "dataType": "NUMERIC"
                         },
                         {
-                            "id": "CALC_17287480524668675",
+                            "id": "CALC_17287486742588801",
                             "name": "Text",
                             "dataType": "TEXT"
                         },
                         {
-                            "id": "CALC_17287480614507621",
+                            "id": "CALC_17287486825373741",
                             "name": "Single Select",
                             "dataType": "OPTIONS"
                         },
                         {
-                            "id": "CALC_17287480792902962",
+                            "id": "CALC_17287486927814973",
                             "name": "Multi Select",
                             "dataType": "MULTI_SELECT"
                         },
                         {
-                            "id": "CALC_17287480898347919",
+                            "id": "CALC_17287487046269576",
                             "name": "Check Box",
                             "dataType": "CHECK_BOX"
                         },
                         {
-                            "id": "CALC_17287481039868804",
+                            "id": "CALC_17287487138354284",
                             "name": "Date",
                             "dataType": "DATE"
                         },
                         {
-                            "id": "CALC_17287481145623849",
+                            "id": "CALC_17287487266661396",
                             "name": "Person",
                             "dataType": "PERSON"
                         },
                         {
                             "name": "Notes",
-                            "dataType": "TEXT"
-                        },
-                        {
-                            "name": "Comments",
                             "dataType": "TEXT"
                         }
                     ],
@@ -2870,7 +2866,7 @@
             "createdBy": "91",
             "createdAt": 1727679104,
             "updatedBy": "55",
-            "updatedAt": 1728748120,
+            "updatedAt": 1728748731,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
@@ -3108,13 +3104,13 @@
             "CALC_17276794650148687": "sum",
             "CALC_17276794719363826": "sum",
             "CALC_17284468429938371": "sum",
-            "CALC_17287480448846429": "sum",
-            "CALC_17287480524668675": "sum",
-            "CALC_17287480614507621": "sum",
-            "CALC_17287480792902962": "sum",
-            "CALC_17287480898347919": "sum",
-            "CALC_17287481039868804": "sum",
-            "CALC_17287481145623849": "sum"
+            "CALC_17287486631964942": "sum",
+            "CALC_17287486742588801": "sum",
+            "CALC_17287486825373741": "sum",
+            "CALC_17287486927814973": "sum",
+            "CALC_17287487046269576": "sum",
+            "CALC_17287487138354284": "sum",
+            "CALC_17287487266661396": "sum"
         },
         "rowEditPermissions": {},
         "showReadViewBookmark": false,
