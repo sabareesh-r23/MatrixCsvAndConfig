@@ -302,64 +302,7 @@
             "showTooltipDecimal": false,
             "tooltipDecimal": 1
         },
-        "calculatedColumns": [
-            {
-                "id": "LAST_UPDATED_AT",
-                "name": "Last Updated At",
-                "formula": "",
-                "category": [],
-                "measures": [],
-                "depMeasures": [],
-                "desc": "",
-                "operation": "STA",
-                "deps": null,
-                "offset": 0,
-                "isHierarchyColumn": false,
-                "simulationSlider": true,
-                "simulationRange": [
-                    -100,
-                    100
-                ],
-                "simulationValueAlign": "left",
-                "varianceFormattingStyle": "POSITIVE",
-                "blendDirection": "vertical",
-                "varianceType": "ABSVAR",
-                "columnEditMode": "inBothMode",
-                "scenarioSimulationSlider": true,
-                "showScenarioVariance": true,
-                "meta": null,
-                "isStoredColumn": false,
-                "order": 7
-            },
-            {
-                "id": "LAST_UPDATED_BY",
-                "name": "Last Updated By",
-                "formula": "",
-                "category": [],
-                "measures": [],
-                "depMeasures": [],
-                "desc": "",
-                "operation": "STA",
-                "deps": null,
-                "offset": 0,
-                "isHierarchyColumn": false,
-                "simulationSlider": true,
-                "simulationRange": [
-                    -100,
-                    100
-                ],
-                "simulationValueAlign": "left",
-                "varianceFormattingStyle": "POSITIVE",
-                "blendDirection": "vertical",
-                "varianceType": "ABSVAR",
-                "columnEditMode": "inBothMode",
-                "scenarioSimulationSlider": true,
-                "showScenarioVariance": true,
-                "meta": null,
-                "isStoredColumn": false,
-                "order": 8
-            }
-        ],
+        "calculatedColumns": [],
         "calculatedColumnMeta": {
             "newColumnIndex": 0
         },
@@ -1017,83 +960,6 @@
                 "visible": true,
                 "measureType": "data",
                 "role": "AC"
-            },
-            {
-                "id": "CALC_17284569413779758",
-                "label": "Number",
-                "order": 1,
-                "visible": true,
-                "columnType": "NUMBER_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17284569413779758"
-            },
-            {
-                "id": "CALC_17284569529499243",
-                "label": "Text",
-                "order": 2,
-                "visible": true,
-                "columnType": "TEXT_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17284569529499243"
-            },
-            {
-                "id": "CALC_17284569597487066",
-                "label": "Single Select",
-                "order": 3,
-                "visible": true,
-                "columnType": "OPTIONS_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17284569597487066"
-            },
-            {
-                "id": "CALC_17284569684072871",
-                "label": "Multi Select",
-                "order": 4,
-                "visible": true,
-                "columnType": "MULTI_SELECT",
-                "isStoredColumn": true,
-                "name": "CALC_17284569684072871"
-            },
-            {
-                "id": "CALC_17284569828904603",
-                "label": "Check Box",
-                "order": 5,
-                "visible": true,
-                "columnType": "CHECK_BOX",
-                "isStoredColumn": true,
-                "name": "CALC_17284569828904603"
-            },
-            {
-                "id": "CALC_17284569980726553",
-                "label": "Date",
-                "order": 6,
-                "visible": true,
-                "columnType": "DATE_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17284569980726553"
-            },
-            {
-                "id": "CALC_17284570059422313",
-                "label": "Person",
-                "order": 7,
-                "visible": true,
-                "columnType": "PERSON_COLUMN",
-                "isStoredColumn": true,
-                "name": "CALC_17284570059422313"
-            },
-            {
-                "id": "LAST_UPDATED_AT",
-                "label": "Last Updated At",
-                "order": 8,
-                "visible": false,
-                "name": "LAST_UPDATED_AT"
-            },
-            {
-                "id": "LAST_UPDATED_BY",
-                "label": "Last Updated By",
-                "order": 9,
-                "visible": false,
-                "name": "LAST_UPDATED_BY"
             }
         ],
         "invertRows": {
@@ -1624,283 +1490,7 @@
             "suffix": ""
         },
         "showSubtotalLevels": {},
-        "customInputColumn": {
-            "CALC_17284570059422313": {
-                "id": "CALC_17284570059422313",
-                "title": "Person",
-                "type": "PERSON_COLUMN",
-                "description": "",
-                "meta": {
-                    "range": {
-                        "from": 0,
-                        "to": 100
-                    },
-                    "aggregationType": "sum",
-                    "selectedOptions": {}
-                },
-                "columnId": "47006",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17284569980726553": {
-                "id": "CALC_17284569980726553",
-                "title": "Date",
-                "type": "DATE_COLUMN",
-                "description": "",
-                "meta": {
-                    "date": null,
-                    "format": "DEFAULT_LOCALE",
-                    "selectedOptions": {}
-                },
-                "columnId": "47005",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17284569828904603": {
-                "id": "CALC_17284569828904603",
-                "title": "Check Box",
-                "type": "CHECK_BOX",
-                "description": "",
-                "meta": {
-                    "selectedOptions": {}
-                },
-                "columnId": "47004",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17284569684072871": {
-                "id": "CALC_17284569684072871",
-                "title": "Multi Select",
-                "type": "MULTI_SELECT",
-                "description": "",
-                "meta": {
-                    "isMultiSelect": true,
-                    "options": [
-                        {
-                            "displayName": "Option 1",
-                            "value": "custom_select_8yju8oId",
-                            "color": "#9CD740",
-                            "icon": "circle-fill",
-                            "order": 1
-                        },
-                        {
-                            "displayName": "Option 2",
-                            "value": "custom_select_91f1Tqjo",
-                            "color": "#FF8A00",
-                            "icon": "circle-fill",
-                            "order": 2
-                        },
-                        {
-                            "displayName": "Option 3",
-                            "value": "custom_select_jN4MF4iZ",
-                            "color": "#FF000A",
-                            "icon": "circle-fill",
-                            "order": 3
-                        }
-                    ],
-                    "position": "left",
-                    "shouldAddNewOptions": false,
-                    "linkedColumn": {},
-                    "linkedDataset": {
-                        "workspaceId": "",
-                        "datasetId": "",
-                        "optionDetails": {
-                            "tableName": "",
-                            "optionColumnName": "",
-                            "optionColumnID": ""
-                        },
-                        "isJoin": false,
-                        "joins": [],
-                        "filterColumnDetail": {
-                            "filterColumnsMapping": {}
-                        }
-                    },
-                    "linkedHelperVisual": {},
-                    "optionStyle": "chip",
-                    "schedule": {},
-                    "isSyncRequired": false,
-                    "selectedOptions": {}
-                },
-                "columnId": "47003",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17284569597487066": {
-                "id": "CALC_17284569597487066",
-                "title": "Single Select",
-                "type": "OPTIONS_COLUMN",
-                "description": "",
-                "meta": {
-                    "isMultiSelect": false,
-                    "options": [
-                        {
-                            "displayName": "Option 1",
-                            "value": "custom_select_xyWcmJzc",
-                            "color": "#9CD740",
-                            "icon": "circle-fill",
-                            "order": 1
-                        },
-                        {
-                            "displayName": "Option 2",
-                            "value": "custom_select_8vby9bvE",
-                            "color": "#FF8A00",
-                            "icon": "circle-fill",
-                            "order": 2
-                        },
-                        {
-                            "displayName": "Option 3",
-                            "value": "custom_select_g45yZls8",
-                            "color": "#FF000A",
-                            "icon": "circle-fill",
-                            "order": 3
-                        }
-                    ],
-                    "position": "left",
-                    "shouldAddNewOptions": false,
-                    "linkedColumn": {},
-                    "linkedDataset": {
-                        "workspaceId": "",
-                        "datasetId": "",
-                        "optionDetails": {
-                            "tableName": "",
-                            "optionColumnName": "",
-                            "optionColumnID": ""
-                        },
-                        "isJoin": false,
-                        "joins": [],
-                        "filterColumnDetail": {
-                            "filterColumnsMapping": {}
-                        }
-                    },
-                    "linkedHelperVisual": {},
-                    "optionStyle": "chip",
-                    "schedule": {},
-                    "isSyncRequired": false,
-                    "selectedOptions": {}
-                },
-                "columnId": "47002",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17284569529499243": {
-                "id": "CALC_17284569529499243",
-                "title": "Text",
-                "type": "TEXT_COLUMN",
-                "description": "",
-                "meta": {
-                    "characterLimit": "",
-                    "fieldValidation": {
-                        "type": "Any Value"
-                    },
-                    "textLength": {},
-                    "selectedOptions": {}
-                },
-                "columnId": "47001",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17284569413779758": {
-                "id": "CALC_17284569413779758",
-                "title": "Number",
-                "type": "NUMBER_COLUMN",
-                "description": "",
-                "meta": {
-                    "range": {
-                        "from": 0,
-                        "to": 100
-                    },
-                    "aggregationType": "sum",
-                    "selectedOptions": {}
-                },
-                "columnId": "47000",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            }
-        },
+        "customInputColumn": {},
         "storedColumnTooltip": false,
         "diagnose": false,
         "viewConfig": {
@@ -2131,47 +1721,11 @@
                             "dataType": "NUMERIC"
                         }
                     ],
-                    "dimensionHash": "3247c215e84db29466d4ab6fdc4c911c",
                     "measures": [
                         {
                             "id": "Sum__Orders__Quantity__U3VtKE9yZGVycy5RdWFudGl0eSk__",
                             "name": "Sum of Quantity",
                             "dataType": "NUMERIC"
-                        },
-                        {
-                            "id": "CALC_17284569413779758",
-                            "name": "Number",
-                            "dataType": "NUMERIC"
-                        },
-                        {
-                            "id": "CALC_17284569529499243",
-                            "name": "Text",
-                            "dataType": "TEXT"
-                        },
-                        {
-                            "id": "CALC_17284569597487066",
-                            "name": "Single Select",
-                            "dataType": "OPTIONS"
-                        },
-                        {
-                            "id": "CALC_17284569684072871",
-                            "name": "Multi Select",
-                            "dataType": "MULTI_SELECT"
-                        },
-                        {
-                            "id": "CALC_17284569828904603",
-                            "name": "Check Box",
-                            "dataType": "CHECK_BOX"
-                        },
-                        {
-                            "id": "CALC_17284569980726553",
-                            "name": "Date",
-                            "dataType": "DATE"
-                        },
-                        {
-                            "id": "CALC_17284570059422313",
-                            "name": "Person",
-                            "dataType": "PERSON"
                         },
                         {
                             "name": "Notes",
@@ -2182,10 +1736,10 @@
                             "dataType": "TEXT"
                         }
                     ],
+                    "reportDisplayName": " by Sub-Category, Segment",
                     "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
-                    "hasNativeMeasures": true,
-                    "reportDisplayName": " by Sub-Category, Segment"
+                    "hasNativeMeasures": true
                 },
                 "includedIdDimensions": [
                     {
@@ -2218,7 +1772,7 @@
             "createdBy": "91",
             "createdAt": 1728456882,
             "updatedBy": "55",
-            "updatedAt": 1728496294,
+            "updatedAt": 1728832444,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
