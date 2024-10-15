@@ -1,13 +1,13 @@
-Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Sum(SanityReport.PL),Sum(SanityReport.AC)
-2014,Furniture,8153000,7681000
-2015,Furniture,8153000,7681000
-2016,Furniture,8153000,7681000
-2017,Furniture,8153000,7681000
-2014,Office Supplies,8153000,7681000
-2015,Office Supplies,8153000,7681000
-2016,Office Supplies,8153000,7681000
-2017,Office Supplies,8153000,7681000
-2014,Technology,8153000,7681000
-2015,Technology,8153000,7681000
-2016,Technology,8153000,7681000
-2017,Technology,8153000,7681000
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Category,Sum(SanityReport.PL)
+2014,Furniture,8153000
+2015,Furniture,8153000
+2016,Furniture,8153000
+2017,Furniture,8153000
+2014,Office Supplies,8153000
+2015,Office Supplies,8153000
+2016,Office Supplies,8153000
+2017,Office Supplies,8153000
+2014,Technology,8153000
+2015,Technology,8153000
+2016,Technology,8153000
+2017,Technology,8153000
