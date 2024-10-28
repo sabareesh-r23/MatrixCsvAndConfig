@@ -1,0 +1,145 @@
+Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Segment,Sum(Orders.Sales)
+Qtr 1,Furniture,2014,Consumer,11196.650999999996
+Qtr 2,Furniture,2014,Consumer,14007.868600000003
+Qtr 3,Furniture,2014,Consumer,22745.0845
+Qtr 4,Furniture,2014,Consumer,38111.36949999999
+Qtr 1,Furniture,2014,Corporate,5101.492
+Qtr 2,Furniture,2014,Corporate,8874.134999999998
+Qtr 3,Furniture,2014,Corporate,12134.618999999999
+Qtr 4,Furniture,2014,Corporate,18990.02870000001
+Qtr 1,Furniture,2014,Home Office,6357.995999999999
+Qtr 2,Furniture,2014,Home Office,5181.746
+Qtr 3,Furniture,2014,Home Office,7078.174800000001
+Qtr 4,Furniture,2014,Home Office,7413.688000000001
+Qtr 1,Furniture,2015,Consumer,16950.4826
+Qtr 2,Furniture,2015,Consumer,15675.468499999997
+Qtr 3,Furniture,2015,Consumer,30524.485999999997
+Qtr 4,Furniture,2015,Consumer,31259.491199999993
+Qtr 1,Furniture,2015,Corporate,6588.204399999999
+Qtr 2,Furniture,2015,Corporate,8732.429499999998
+Qtr 3,Furniture,2015,Corporate,11906.813199999999
+Qtr 4,Furniture,2015,Corporate,18733.638799999997
+Qtr 1,Furniture,2015,Home Office,3835.4116000000004
+Qtr 2,Furniture,2015,Home Office,3156.93
+Qtr 3,Furniture,2015,Home Office,7154.736000000001
+Qtr 4,Furniture,2015,Home Office,16000.145199999999
+Qtr 1,Furniture,2016,Consumer,13200.006000000001
+Qtr 2,Furniture,2016,Consumer,18502.50599999999
+Qtr 3,Furniture,2016,Consumer,25843.492400000006
+Qtr 4,Furniture,2016,Consumer,42814.87779999998
+Qtr 1,Furniture,2016,Corporate,8736.565999999999
+Qtr 2,Furniture,2016,Corporate,16397.303999999996
+Qtr 3,Furniture,2016,Corporate,22396.7078
+Qtr 4,Furniture,2016,Corporate,29730.763
+Qtr 1,Furniture,2016,Home Office,2412.8140000000003
+Qtr 2,Furniture,2016,Home Office,6502.687000000001
+Qtr 3,Furniture,2016,Home Office,4574.432
+Qtr 4,Furniture,2016,Home Office,7789.280000000002
+Qtr 1,Furniture,2017,Consumer,12574.913999999999
+Qtr 2,Furniture,2017,Consumer,20761.991100000003
+Qtr 3,Furniture,2017,Consumer,30592.23
+Qtr 4,Furniture,2017,Consumer,46288.39279999997
+Qtr 1,Furniture,2017,Corporate,6554.194800000003
+Qtr 2,Furniture,2017,Corporate,14422.4684
+Qtr 3,Furniture,2017,Corporate,16644.036999999997
+Qtr 4,Furniture,2017,Corporate,23076.384200000004
+Qtr 1,Furniture,2017,Home Office,4594.7054
+Qtr 2,Furniture,2017,Home Office,9847.6435
+Qtr 3,Furniture,2017,Home Office,9046.835000000001
+Qtr 4,Furniture,2017,Home Office,20983.472999999994
+Qtr 1,Office Supplies,2014,Consumer,7585.748000000004
+Qtr 2,Office Supplies,2014,Consumer,13678.130999999994
+Qtr 3,Office Supplies,2014,Consumer,39557.88500000001
+Qtr 4,Office Supplies,2014,Consumer,23604.979999999992
+Qtr 1,Office Supplies,2014,Corporate,2658.2030000000004
+Qtr 2,Office Supplies,2014,Corporate,12852.797999999995
+Qtr 3,Office Supplies,2014,Corporate,10242.623999999994
+Qtr 4,Office Supplies,2014,Corporate,23184.64
+Qtr 1,Office Supplies,2014,Home Office,4284.732
+Qtr 2,Office Supplies,2014,Home Office,4712.8060000000005
+Qtr 3,Office Supplies,2014,Home Office,4123.459
+Qtr 4,Office Supplies,2014,Home Office,5290.406000000001
+Qtr 1,Office Supplies,2015,Consumer,16095.036999999993
+Qtr 2,Office Supplies,2015,Consumer,18005.606000000003
+Qtr 3,Office Supplies,2015,Consumer,21346.478999999992
+Qtr 4,Office Supplies,2015,Consumer,24288.686000000005
+Qtr 1,Office Supplies,2015,Corporate,6352.057000000003
+Qtr 2,Office Supplies,2015,Corporate,5170.3769999999995
+Qtr 3,Office Supplies,2015,Corporate,9672.024999999996
+Qtr 4,Office Supplies,2015,Corporate,13706.704
+Qtr 1,Office Supplies,2015,Home Office,612.3
+Qtr 2,Office Supplies,2015,Home Office,9144.057999999999
+Qtr 3,Office Supplies,2015,Home Office,4742.310000000002
+Qtr 4,Office Supplies,2015,Home Office,8097.823999999995
+Qtr 1,Office Supplies,2016,Consumer,12180.998999999994
+Qtr 2,Office Supplies,2016,Consumer,19341.278999999988
+Qtr 3,Office Supplies,2016,Consumer,22287.836000000003
+Qtr 4,Office Supplies,2016,Consumer,32459.214999999964
+Qtr 1,Office Supplies,2016,Corporate,11722.408999999998
+Qtr 2,Office Supplies,2016,Corporate,7948.1340000000055
+Qtr 3,Office Supplies,2016,Corporate,11074.506000000001
+Qtr 4,Office Supplies,2016,Corporate,23486.199999999986
+Qtr 1,Office Supplies,2016,Home Office,5537.554999999999
+Qtr 2,Office Supplies,2016,Home Office,7295.046
+Qtr 3,Office Supplies,2016,Home Office,11785.580000000002
+Qtr 4,Office Supplies,2016,Home Office,18821.222999999987
+Qtr 1,Office Supplies,2017,Consumer,22910.881999999998
+Qtr 2,Office Supplies,2017,Consumer,15368.185999999998
+Qtr 3,Office Supplies,2017,Consumer,37856.812999999995
+Qtr 4,Office Supplies,2017,Consumer,37384.373999999945
+Qtr 1,Office Supplies,2017,Corporate,14713.590000000002
+Qtr 2,Office Supplies,2017,Corporate,20441.048999999995
+Qtr 3,Office Supplies,2017,Corporate,24460.561
+Qtr 4,Office Supplies,2017,Corporate,32990.584999999985
+Qtr 1,Office Supplies,2017,Home Office,5607.874999999999
+Qtr 2,Office Supplies,2017,Home Office,9911.959000000003
+Qtr 3,Office Supplies,2017,Home Office,9879.788999999997
+Qtr 4,Office Supplies,2017,Home Office,14571.512000000004
+Qtr 1,Technology,2014,Consumer,3182.5759999999996
+Qtr 2,Technology,2014,Consumer,20165.523
+Qtr 3,Technology,2014,Consumer,33800.683999999994
+Qtr 4,Technology,2014,Consumer,38460.312
+Qtr 1,Technology,2014,Corporate,6232.299999999999
+Qtr 2,Technology,2014,Corporate,5517.710000000001
+Qtr 3,Technology,2014,Corporate,10615.264
+Qtr 4,Technology,2014,Corporate,12031.060000000001
+Qtr 1,Technology,2014,Home Office,27848.098
+Qtr 2,Technology,2014,Home Office,1548.042
+Qtr 3,Technology,2014,Home Office,3335.4180000000006
+Qtr 4,Technology,2014,Home Office,12541.246000000001
+Qtr 1,Technology,2015,Consumer,7917.371999999999
+Qtr 2,Technology,2015,Consumer,22649.014000000006
+Qtr 3,Technology,2015,Consumer,27527.956000000002
+Qtr 4,Technology,2015,Consumer,34295.855
+Qtr 1,Technology,2015,Corporate,9339.478000000001
+Qtr 2,Technology,2015,Corporate,5077.2660000000005
+Qtr 3,Technology,2015,Corporate,13673.181999999999
+Qtr 4,Technology,2015,Corporate,19805.132
+Qtr 1,Technology,2015,Home Office,1161.3960000000002
+Qtr 2,Technology,2015,Home Office,1513.0380000000002
+Qtr 3,Technology,2015,Home Office,3711.588
+Qtr 4,Technology,2015,Home Office,16109.532
+Qtr 1,Technology,2016,Consumer,21290.862
+Qtr 2,Technology,2016,Consumer,32294.909
+Qtr 3,Technology,2016,Consumer,31033.876
+Qtr 4,Technology,2016,Consumer,25614.040999999987
+Qtr 1,Technology,2016,Corporate,6119.506000000001
+Qtr 2,Technology,2016,Corporate,18072.69
+Qtr 3,Technology,2016,Corporate,10443.988
+Qtr 4,Technology,2016,Corporate,40977.587999999996
+Qtr 1,Technology,2016,Home Office,12036.464
+Qtr 2,Technology,2016,Home Office,9727.746
+Qtr 3,Technology,2016,Home Office,4346.9439999999995
+Qtr 4,Technology,2016,Home Office,14405.566000000003
+Qtr 1,Technology,2017,Consumer,28356.644000000004
+Qtr 2,Technology,2017,Consumer,14237.602000000004
+Qtr 3,Technology,2017,Consumer,26028.676999999992
+Qtr 4,Technology,2017,Consumer,39543.99399999999
+Qtr 1,Technology,2017,Corporate,15487.328000000001
+Qtr 2,Technology,2017,Corporate,13874.371999999998
+Qtr 3,Technology,2017,Corporate,25204.548
+Qtr 4,Technology,2017,Corporate,33978.706999999995
+Qtr 1,Technology,2017,Home Office,12344.727
+Qtr 2,Technology,2017,Home Office,14899.101000000002
+Qtr 3,Technology,2017,Home Office,16538.466
+Qtr 4,Technology,2017,Home Office,31236.645
