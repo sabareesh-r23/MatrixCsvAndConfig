@@ -61,7 +61,8 @@
       "isUserChangedFooter": false,
       "pinIcon": "solid",
       "hideOnReadMode": false,
-      "enableReadViewBookmarking": false
+      "enableReadViewBookmarking": false,
+      "featureFlags": ""
     },
     "globalStyles": {
       "fontFamily": "Inforiver Sans",
@@ -1116,7 +1117,7 @@
       "createdBy": "91",
       "createdAt": 1727680186,
       "updatedBy": "55",
-      "updatedAt": 1727927514,
+      "updatedAt": 1730097472,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
@@ -1248,7 +1249,9 @@
     "localizationVariables": {},
     "hideRepeatingRows": false,
     "adjustments": { "enableAdjustments": true },
-    "forecastTimeFilter": { "isFilterActive": false, "startDate": null, "endDate": null }
+    "forecastTimeFilter": { "isFilterActive": false, "startDate": null, "endDate": null },
+    "groupExpandCollapseIcon": false,
+    "enableApproval": true
   },
   "csvOptions": {
     "rows": ["15000.County"],
@@ -1270,6 +1273,5 @@
     ],
     "rows": [{ "id": "15000.County", "label": "County" }]
   },
-  "visual": { "visualId": "OMLCIGOKPCNKCAE", "visualTemplateGuid": "HEIFNHJOLBIFLKB", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" },
-  "currentVersion": "v3.5.0.0"
+  "currentVersion": "v3.6.2.0"
 }
