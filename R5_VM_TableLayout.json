@@ -381,10 +381,11 @@
         "linkedSimulations": null,
         "editConditionFormula": "",
         "forecastStartPeriod": { "value": "" },
-        "editMode": false,
+        "editMode": true,
         "onUpdateFormula": "",
         "onChangeFormula": "",
-        "isPrivateColumn": false
+        "isPrivateColumn": false,
+        "editOnTotal": true
       },
       {
         "id": "CALC_17285519344489773",
@@ -1656,7 +1657,6 @@
             { "id": "Orders.Segment", "name": "Segment", "dataType": "TEXT" },
             { "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter", "name": "Quarter", "dataType": "TEXT" }
           ],
-          "dimensionHash": "5ea40f314d8b7b1ff79696044b42172f",
           "measures": [
             { "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__", "name": "Sum of Sales", "dataType": "NUMERIC" },
             { "id": "CALC_17285518928506796", "name": "Number", "dataType": "NUMERIC" },
@@ -1669,10 +1669,10 @@
             { "name": "Notes", "dataType": "TEXT" },
             { "name": "Comments", "dataType": "TEXT" }
           ],
+          "reportDisplayName": "Sum of Sales by Category, Year, Segment, Quarter",
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
-          "hasNativeMeasures": true,
-          "reportDisplayName": "Sum of Sales by Category, Year, Segment, Quarter"
+          "hasNativeMeasures": true
         },
         "includedIdDimensions": [
           { "id": "Orders.Category", "name": "Category" },
@@ -1693,7 +1693,7 @@
       "createdBy": "91",
       "createdAt": 1728551863,
       "updatedBy": "55",
-      "updatedAt": 1730104442,
+      "updatedAt": 1730119251,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
