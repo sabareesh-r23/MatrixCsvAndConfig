@@ -1,0 +1,205 @@
+Orders.Ship Mode,Orders.Segment,Orders.Category,Orders.Sub-Category,Sum(Orders.Profit)
+First Class,Consumer,Technology,Copiers,7386.969099999999
+First Class,Corporate,Technology,Copiers,2033.4531999999995
+First Class,Home Office,Technology,Copiers,5377.9569999999985
+Same Day,Consumer,Technology,Copiers,1154.9795
+Same Day,Corporate,Technology,Copiers,839.9860000000001
+Same Day,Home Office,Technology,Copiers,585.9894
+Second Class,Consumer,Technology,Copiers,3433.9333
+Second Class,Corporate,Technology,Copiers,2999.946
+Second Class,Home Office,Technology,Copiers,449.991
+Standard Class,Consumer,Technology,Copiers,12107.828699999996
+Standard Class,Corporate,Technology,Copiers,13116.893699999995
+Standard Class,Home Office,Technology,Copiers,6129.897999999999
+First Class,Consumer,Technology,Phones,3991.698599999999
+First Class,Corporate,Technology,Phones,2233.1228999999994
+First Class,Home Office,Technology,Phones,2175.4485000000004
+Same Day,Consumer,Technology,Phones,924.5854999999996
+Same Day,Corporate,Technology,Phones,136.77350000000013
+Same Day,Home Office,Technology,Phones,723.1156
+Second Class,Consumer,Technology,Phones,4266.2632
+Second Class,Corporate,Technology,Phones,2072.1325999999995
+Second Class,Home Office,Technology,Phones,2039.2395999999999
+Standard Class,Consumer,Technology,Phones,14654.5674
+Standard Class,Corporate,Technology,Phones,7324.1906000000035
+Standard Class,Home Office,Technology,Phones,3974.5926
+First Class,Consumer,Technology,Accessories,3846.8691000000003
+First Class,Corporate,Technology,Accessories,1300.1628999999998
+First Class,Home Office,Technology,Accessories,760.3810999999998
+Same Day,Consumer,Technology,Accessories,2518.0355000000004
+Same Day,Corporate,Technology,Accessories,461.4578999999999
+Same Day,Home Office,Technology,Accessories,887.1976
+Second Class,Consumer,Technology,Accessories,3353.403499999998
+Second Class,Corporate,Technology,Accessories,3149.8453999999992
+Second Class,Home Office,Technology,Accessories,2230.4218999999994
+Standard Class,Consumer,Technology,Accessories,11017.6144
+Standard Class,Corporate,Technology,Accessories,7796.0143
+Standard Class,Home Office,Technology,Accessories,4615.232099999997
+First Class,Consumer,Technology,Machines,-3664.7874
+First Class,Corporate,Technology,Machines,1668.495199999999
+First Class,Home Office,Technology,Machines,392.79319999999933
+Same Day,Consumer,Technology,Machines,1665.0440999999998
+Same Day,Corporate,Technology,Machines,-1444.8526999999995
+Same Day,Home Office,Technology,Machines,218.57940000000002
+Second Class,Consumer,Technology,Machines,3376.5764999999988
+Second Class,Corporate,Technology,Machines,-1401.9372000000005
+Second Class,Home Office,Technology,Machines,182.3906
+Standard Class,Consumer,Technology,Machines,764.2285999999924
+Standard Class,Corporate,Technology,Machines,1881.3136999999997
+Standard Class,Home Office,Technology,Machines,-253.08710000000391
+First Class,Consumer,Office Supplies,Paper,2109.1357
+First Class,Corporate,Office Supplies,Paper,1998.0164999999993
+First Class,Home Office,Office Supplies,Paper,812.1469
+Same Day,Consumer,Office Supplies,Paper,937.5067999999995
+Same Day,Corporate,Office Supplies,Paper,192.8368
+Same Day,Home Office,Office Supplies,Paper,958.0793000000001
+Second Class,Consumer,Office Supplies,Paper,3159.595500000002
+Second Class,Corporate,Office Supplies,Paper,1949.4214000000004
+Second Class,Home Office,Office Supplies,Paper,2458.0118999999995
+Standard Class,Consumer,Office Supplies,Paper,9328.405599999995
+Standard Class,Corporate,Office Supplies,Paper,6221.272099999997
+Standard Class,Home Office,Office Supplies,Paper,3929.140800000001
+First Class,Consumer,Office Supplies,Binders,685.5684999999958
+First Class,Corporate,Office Supplies,Binders,1134.582899999999
+First Class,Home Office,Office Supplies,Binders,2307.991099999999
+Same Day,Consumer,Office Supplies,Binders,953.7576999999992
+Same Day,Corporate,Office Supplies,Binders,146.34969999999993
+Same Day,Home Office,Office Supplies,Binders,40.1747
+Second Class,Consumer,Office Supplies,Binders,2475.871700000003
+Second Class,Corporate,Office Supplies,Binders,503.29669999999953
+Second Class,Home Office,Office Supplies,Binders,2482.1736
+Standard Class,Consumer,Office Supplies,Binders,13880.399300000001
+Standard Class,Corporate,Office Supplies,Binders,4593.090799999998
+Standard Class,Home Office,Office Supplies,Binders,1018.5066000000052
+First Class,Consumer,Office Supplies,Storage,1095.8140999999996
+First Class,Corporate,Office Supplies,Storage,1455.5375999999999
+First Class,Home Office,Office Supplies,Storage,460.83200000000005
+Same Day,Consumer,Office Supplies,Storage,283.37799999999993
+Same Day,Corporate,Office Supplies,Storage,314.06110000000007
+Same Day,Home Office,Office Supplies,Storage,382.8369999999999
+Second Class,Consumer,Office Supplies,Storage,2094.0141000000003
+Second Class,Corporate,Office Supplies,Storage,2792.384
+Second Class,Home Office,Office Supplies,Storage,547.9151000000002
+Standard Class,Consumer,Office Supplies,Storage,3630.9941999999987
+Standard Class,Corporate,Office Supplies,Storage,4569.041999999998
+Standard Class,Home Office,Office Supplies,Storage,3652.0172000000007
+First Class,Consumer,Office Supplies,Appliances,2318.5741
+First Class,Corporate,Office Supplies,Appliances,1077.557
+First Class,Home Office,Office Supplies,Appliances,147.7299999999999
+Same Day,Consumer,Office Supplies,Appliances,805.4432999999998
+Same Day,Corporate,Office Supplies,Appliances,363.823
+Same Day,Home Office,Office Supplies,Appliances,-77.60860000000014
+Second Class,Consumer,Office Supplies,Appliances,705.7446000000006
+Second Class,Corporate,Office Supplies,Appliances,2576.5246999999995
+Second Class,Home Office,Office Supplies,Appliances,1624.4263999999998
+Standard Class,Consumer,Office Supplies,Appliances,3152.1661999999997
+Standard Class,Corporate,Office Supplies,Appliances,3411.9904999999994
+Standard Class,Home Office,Office Supplies,Appliances,2031.6341999999995
+First Class,Consumer,Office Supplies,Envelopes,472.1837
+First Class,Corporate,Office Supplies,Envelopes,243.21059999999994
+First Class,Home Office,Office Supplies,Envelopes,286.20179999999993
+Same Day,Consumer,Office Supplies,Envelopes,187.5898
+Same Day,Corporate,Office Supplies,Envelopes,52.697599999999994
+Same Day,Home Office,Office Supplies,Envelopes,108.5274
+Second Class,Consumer,Office Supplies,Envelopes,451.63269999999994
+Second Class,Corporate,Office Supplies,Envelopes,708.7653999999999
+Second Class,Home Office,Office Supplies,Envelopes,120.0054
+Standard Class,Consumer,Office Supplies,Envelopes,2153.0063999999998
+Standard Class,Corporate,Office Supplies,Envelopes,1566.555399999999
+Standard Class,Home Office,Office Supplies,Envelopes,613.8004999999998
+First Class,Consumer,Office Supplies,Art,437.38019999999995
+First Class,Corporate,Office Supplies,Art,134.98839999999996
+First Class,Home Office,Office Supplies,Art,177.98140000000004
+Same Day,Consumer,Office Supplies,Art,191.81349999999998
+Same Day,Corporate,Office Supplies,Art,187.28540000000004
+Same Day,Home Office,Office Supplies,Art,24.3442
+Second Class,Consumer,Office Supplies,Art,802.6697
+Second Class,Corporate,Office Supplies,Art,289.656
+Second Class,Home Office,Office Supplies,Art,206.80320000000003
+Standard Class,Consumer,Office Supplies,Art,2022.4376999999984
+Standard Class,Corporate,Office Supplies,Art,1392.7179000000003
+Standard Class,Home Office,Office Supplies,Art,659.7094
+First Class,Consumer,Office Supplies,Labels,460.6333999999999
+First Class,Corporate,Office Supplies,Labels,209.84969999999996
+First Class,Home Office,Office Supplies,Labels,134.23209999999997
+Same Day,Consumer,Office Supplies,Labels,156.81500000000003
+Same Day,Corporate,Office Supplies,Labels,17.5036
+Same Day,Home Office,Office Supplies,Labels,71.2456
+Second Class,Consumer,Office Supplies,Labels,618.3243000000001
+Second Class,Corporate,Office Supplies,Labels,814.6824
+Second Class,Home Office,Office Supplies,Labels,33.781400000000005
+Standard Class,Consumer,Office Supplies,Labels,1840.2156999999982
+Standard Class,Corporate,Office Supplies,Labels,718.7916
+Standard Class,Home Office,Office Supplies,Labels,470.1792
+First Class,Consumer,Office Supplies,Fasteners,62.602199999999996
+First Class,Corporate,Office Supplies,Fasteners,54.03099999999999
+First Class,Home Office,Office Supplies,Fasteners,10.441999999999998
+Same Day,Consumer,Office Supplies,Fasteners,34.49569999999999
+Same Day,Corporate,Office Supplies,Fasteners,11.319999999999997
+Same Day,Home Office,Office Supplies,Fasteners,0.30240000000000045
+Second Class,Consumer,Office Supplies,Fasteners,107.11529999999999
+Second Class,Corporate,Office Supplies,Fasteners,34.5665
+Second Class,Home Office,Office Supplies,Fasteners,16.348
+Standard Class,Consumer,Office Supplies,Fasteners,372.5876
+Standard Class,Corporate,Office Supplies,Fasteners,151.98549999999997
+Standard Class,Home Office,Office Supplies,Fasteners,93.72200000000002
+First Class,Consumer,Office Supplies,Supplies,92.66330000000002
+First Class,Corporate,Office Supplies,Supplies,-8.461599999999947
+First Class,Home Office,Office Supplies,Supplies,28.904500000000013
+Same Day,Consumer,Office Supplies,Supplies,22.237799999999993
+Same Day,Corporate,Office Supplies,Supplies,36.400199999999984
+Same Day,Home Office,Office Supplies,Supplies,20.302199999999992
+Second Class,Consumer,Office Supplies,Supplies,-662.0500000000002
+Second Class,Corporate,Office Supplies,Supplies,139.82509999999982
+Second Class,Home Office,Office Supplies,Supplies,16.662499999999994
+Standard Class,Consumer,Office Supplies,Supplies,-1110.4024000000002
+Standard Class,Corporate,Office Supplies,Supplies,171.1627
+Standard Class,Home Office,Office Supplies,Supplies,63.65619999999996
+First Class,Consumer,Furniture,Chairs,1580.4697999999994
+First Class,Corporate,Furniture,Chairs,72.9342999999995
+First Class,Home Office,Furniture,Chairs,991.8107999999997
+Same Day,Consumer,Furniture,Chairs,597.4019000000001
+Same Day,Corporate,Furniture,Chairs,349.27449999999953
+Same Day,Home Office,Furniture,Chairs,188.9670999999997
+Second Class,Consumer,Furniture,Chairs,2680.5810999999994
+Second Class,Corporate,Furniture,Chairs,2989.6936000000005
+Second Class,Home Office,Furniture,Chairs,1095.9752999999992
+Standard Class,Consumer,Furniture,Chairs,8376.879099999998
+Standard Class,Corporate,Furniture,Chairs,4932.754099999999
+Standard Class,Home Office,Furniture,Chairs,2733.4247000000005
+First Class,Consumer,Furniture,Furnishings,1227.8458999999996
+First Class,Corporate,Furniture,Furnishings,641.5359999999998
+First Class,Home Office,Furniture,Furnishings,223.71460000000002
+Same Day,Consumer,Furniture,Furnishings,125.13260000000007
+Same Day,Corporate,Furniture,Furnishings,146.31019999999995
+Same Day,Home Office,Furniture,Furnishings,127.11899999999999
+Second Class,Consumer,Furniture,Furnishings,1267.9009000000008
+Second Class,Corporate,Furniture,Furnishings,418.59360000000004
+Second Class,Home Office,Furniture,Furnishings,122.21810000000004
+Standard Class,Consumer,Furniture,Furnishings,5298.543300000002
+Standard Class,Corporate,Furniture,Furnishings,2301.767899999999
+Standard Class,Home Office,Furniture,Furnishings,1158.4614999999972
+First Class,Consumer,Furniture,Bookcases,-373.3393000000002
+First Class,Corporate,Furniture,Bookcases,-82.1348000000001
+First Class,Home Office,Furniture,Bookcases,149.4766
+Same Day,Consumer,Furniture,Bookcases,25.168599999999984
+Same Day,Corporate,Furniture,Bookcases,271.41920000000005
+Same Day,Home Office,Furniture,Bookcases,95.9778
+Second Class,Consumer,Furniture,Bookcases,-954.3445000000004
+Second Class,Corporate,Furniture,Bookcases,-199.29260000000028
+Second Class,Home Office,Furniture,Bookcases,125.61579999999994
+Standard Class,Consumer,Furniture,Bookcases,-3133.123000000003
+Standard Class,Corporate,Furniture,Bookcases,648.4583999999999
+Standard Class,Home Office,Furniture,Bookcases,-46.438200000000165
+First Class,Consumer,Furniture,Tables,-356.2374000000005
+First Class,Corporate,Furniture,Tables,297.5905999999997
+First Class,Home Office,Furniture,Tables,-1306.7197000000006
+Same Day,Consumer,Furniture,Tables,-709.1798999999999
+Same Day,Corporate,Furniture,Tables,-264.50419999999997
+Same Day,Home Office,Furniture,Tables,-155.73840000000004
+Second Class,Consumer,Furniture,Tables,-2230.3206999999998
+Second Class,Corporate,Furniture,Tables,-1612.3905000000002
+Second Class,Home Office,Furniture,Tables,522.0312999999996
+Standard Class,Consumer,Furniture,Tables,-6432.2998000000025
+Standard Class,Corporate,Furniture,Tables,-3327.1945000000005
+Standard Class,Home Office,Furniture,Tables,-2150.5179000000003

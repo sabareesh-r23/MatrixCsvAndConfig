@@ -61,7 +61,8 @@
       "isUserChangedFooter": false,
       "pinIcon": "solid",
       "hideOnReadMode": false,
-      "enableReadViewBookmarking": false
+      "enableReadViewBookmarking": false,
+      "featureFlags": ""
     },
     "globalStyles": {
       "fontFamily": "Inforiver Sans",
@@ -1083,14 +1084,15 @@
             { "id": "Orders.Category", "name": "Category", "dataType": "TEXT" },
             { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year", "dataType": "NUMERIC" }
           ],
+          "dimensionHash": "ad0cfd1eb95ea9497bad3454e4d0ecc9",
           "measures": [
             { "id": "Sum__SanityReport__AC__U3VtKFNhbml0eVJlcG9ydC5BQyk__", "name": "Sum of AC", "dataType": "NUMERIC" },
             { "name": "Comments", "dataType": "TEXT" }
           ],
-          "reportDisplayName": "Sum of AC by Year",
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
-          "hasNativeMeasures": true
+          "hasNativeMeasures": true,
+          "reportDisplayName": "Sum of AC by Year"
         },
         "includedIdDimensions": [
           { "id": "Orders.Category", "name": "Category" },
@@ -1271,5 +1273,5 @@
     "rows": [{ "id": "Orders.Category", "label": "Category" }]
   },
   "currentVersion": "v3.6.0.0",
-  "visual"
+  "visual": { "visualId": "PBOMMMBAFEKNOEH", "visualTemplateGuid": "POCILPCJGHBPNNO", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" }
 }
