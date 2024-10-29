@@ -68,7 +68,8 @@
       "isUserChangedFooter": false,
       "pinIcon": "solid",
       "hideOnReadMode": false,
-      "enableReadViewBookmarking": false
+      "enableReadViewBookmarking": false,
+      "featureFlags": ""
     },
     "globalStyles": {
       "fontFamily": "Inforiver Sans",
@@ -1219,19 +1220,7 @@
       "isSubmitting": false,
       "warning": { "title": "Additional Column Configuration", "message": "", "show": false },
       "keyColumnsForAllAdditionalColumns": [],
-      "additionalColumnMappings": [
-        {
-          "datasetId": "cdaf6294-2430-461b-896a-444ca9885604",
-          "datasetKeyColumnName": "Item Description",
-          "datasetTableName": "15000",
-          "mappingColumns": [{ "datasetColumnName": "Address", "writebackColumnName": "Year" }],
-          "renamedWBIdColumn": "ItemDescription",
-          "workspaceId": "16578ee2-acf8-4611-863a-02e5168c2883",
-          "type": 10,
-          "id": "1928"
-        }
-      ],
-      "dateAdditionalColumnMapping": { "dateKeyColumnName": "V4MOCVM", "defaultYear": "2024", "isCurrentYear": true, "id": "1927", "type": 20 },
+      "additionalColumnMappings": [],
       "openDateAdditionalColumnModal": false,
       "dateFormValues": { "dateKeyColumnName": "", "defaultYear": "2024", "isCurrentYear": true }
     },
@@ -1248,7 +1237,7 @@
       "notification": true,
       "reportIdentifier": "e28d13f3-0e54-4ff7-82fb-f1a6f81dbdcb",
       "reportDisplayName": "Sum of Pack by City, Year, Quarter",
-      "reportSection": "6e06ab189c011695aedd",
+      "reportSection": "85186f62d1d6b4ff0353",
       "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e28d13f3-0e54-4ff7-82fb-f1a6f81dbdcb/1d758cfb6ee92a7584f6?experience=power-bi",
       "visualMeta": {
         "product": "inforiver",
@@ -1308,7 +1297,7 @@
       "createdBy": "49",
       "createdAt": 1727447838,
       "updatedBy": "49",
-      "updatedAt": 1728378419,
+      "updatedAt": 1730136714,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
@@ -1459,7 +1448,8 @@
     "hideRepeatingRows": false,
     "adjustments": { "enableAdjustments": true },
     "forecastTimeFilter": { "isFilterActive": false, "startDate": null, "endDate": null },
-    "groupExpandCollapseIcon": false
+    "groupExpandCollapseIcon": false,
+    "enableApproval": true
   },
   "csvOptions": {
     "rows": ["15000.Vendor Name"],
@@ -1481,6 +1471,6 @@
     ],
     "rows": [{ "id": "15000.Vendor Name", "label": "Vendor Name" }]
   },
-  "currentVersion": "v3.5.0.0",
+  "currentVersion": "v3.6.2.0",
   "visual": { "visualId": "OOACFFMDPKJDEJM", "visualTemplateGuid": "FOFAKKHODPGDFCP", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" }
 }
