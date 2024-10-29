@@ -1,0 +1,25 @@
+Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Region,Orders.Country,Orders.Segment,Sum(Orders.Sales)
+2014,Central,United States,Consumer,67316.46759999997
+2015,Central,United States,Consumer,49662.2578
+2014,Central,United States,Corporate,19901.942199999994
+2015,Central,United States,Corporate,29079.723400000003
+2014,Central,United States,Home Office,16619.754800000002
+2015,Central,United States,Home Office,24132.2408
+2014,East,United States,Consumer,76503.56399999997
+2015,East,United States,Consumer,85033.258
+2014,East,United States,Corporate,37640.071
+2015,East,United States,Corporate,44717.04700000001
+2014,East,United States,Home Office,14536.821999999996
+2015,East,United States,Home Office,26581.752000000008
+2014,South,United States,Consumer,32310.811499999993
+2015,South,United States,Consumer,49206.226500000004
+2014,South,United States,Corporate,34684.71999999996
+2015,South,United States,Corporate,18107.330000000005
+2014,South,United States,Home Office,36850.312
+2015,South,United States,Home Office,4046.424
+2014,West,United States,Consumer,89965.9695
+2015,West,United States,Consumer,82634.19099999998
+2014,West,United States,Corporate,36208.14050000001
+2015,West,United States,Corporate,36853.206500000015
+2014,West,United States,Home Office,21708.923000000003
+2015,West,United States,Home Office,20478.852
