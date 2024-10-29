@@ -1649,7 +1649,7 @@
         "bulkEdit": false
       },
       "export": { "pdf": true, "excel": true, "visual": true, "copyToClipboard": true, "schedule": true, "writeBack": false },
-      "dataEntry": { "scenario": false, "audit": false, "comment": false, "action": false, "column": false, "display": false },
+      "dataEntry": { "scenario": true, "audit": true, "comment": true, "action": true, "column": true, "display": true },
       "advancedTabMenu": { "rowColumnConfig": true },
       "enterprise": { "writeBack": true, "schedule": true, "layout": true, "breaks": true, "table": true, "reportPlus": true },
       "scenario": { "scenario": false, "export": false, "writeBack": false, "analyze": false, "annotate": false, "monitor": false, "modifiedByUser": false, "actions": false },
@@ -1940,7 +1940,7 @@
       "createdBy": "91",
       "createdAt": 1727341030,
       "updatedBy": "49",
-      "updatedAt": 1730202202,
+      "updatedAt": 1730205559,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
