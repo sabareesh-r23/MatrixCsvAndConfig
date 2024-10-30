@@ -2,7 +2,7 @@
   "version": 2,
   "config": {
     "sorting": [],
-    "pagination": { "enable": true, "pageRowCount": 10, "autoRowCount": "layout", "view": "browser", "pageNo": 0, "paginationHeight": 20, "currentPageNumber": 0 },
+    "pagination": { "enable": true, "pageRowCount": 10, "autoRowCount": "layout", "view": "browser", "pageNo": 1, "paginationHeight": 20, "currentPageNumber": 0 },
     "headerOption": { "showHeaderIndicator": true, "showHeader": true, "showMeasureHeader": true },
     "enableSign": false,
     "isEditMode": true,
@@ -1397,7 +1397,7 @@
     "dynamicRowIcon": true,
     "showNullRefAsZero": true,
     "calcCellIcon": true,
-    "filter": { "id": "g-CYk34PMB2CEBVAmKSId7Y", "rules": [], "combinator": "and", "disabled": false },
+    "filter": { "rules": [], "combinator": "and", "not": false },
     "search": { "category": null, "searchString": "", "tokens": [] },
     "ranking": { "rules": [], "othersLabel": "Others", "enableOthersSuffix": false, "enableOthersCount": true, "showOthers": true, "exemptions": {} },
     "kpiExplorer": {
@@ -1869,7 +1869,7 @@
       "createdBy": "49",
       "createdAt": 1727447987,
       "updatedBy": "49",
-      "updatedAt": 1730266071,
+      "updatedAt": 1730272360,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
@@ -2051,6 +2051,6 @@
     ],
     "rows": [{ "id": "15000.Vendor Name", "label": "Vendor Name" }]
   },
-  "currentVersion": "v3.6.2.0",
-  "visual": { "visualId": "LDFIKIONEHOIHPI", "visualTemplateGuid": "FOFAKKHODPGDFCP", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" }
+  "visual": { "visualId": "LDFIKIONEHOIHPI", "visualTemplateGuid": "FOFAKKHODPGDFCP", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" },
+  "currentVersion": "v3.6.2.0"
 }
