@@ -260,7 +260,7 @@
         "defaultValueType": "static",
         "defaultValue": "",
         "selectedMeasure": { "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__", "index": 0, "name": "Sum(Orders.Sales)", "label": "[PY]" },
-        "pk": "47738",
+        "pk": "56448",
         "isUpdated": true,
         "linkedSimulations": null,
         "editConditionFormula": "",
@@ -310,7 +310,7 @@
         "defaultValueType": "static",
         "defaultValue": "",
         "order": 1,
-        "pk": "47739",
+        "pk": "56449",
         "isUpdated": true,
         "depColumnFormulaId": null,
         "depColumn2FormulaId": null,
@@ -374,7 +374,7 @@
         "defaultValueType": "static",
         "defaultValue": "",
         "order": 2,
-        "pk": "47741",
+        "pk": "56450",
         "isUpdated": true,
         "depColumnFormulaId": null,
         "depColumn2FormulaId": null,
@@ -448,7 +448,7 @@
         "onUpdateFormula": "",
         "onChangeFormula": "",
         "isUpdated": true,
-        "pk": "47743",
+        "pk": "56451",
         "isPrivateColumn": false
       },
       {
@@ -496,7 +496,7 @@
         "onUpdateFormula": "",
         "onChangeFormula": "",
         "isUpdated": true,
-        "pk": "47744",
+        "pk": "56452",
         "isPrivateColumn": false
       },
       {
@@ -544,7 +544,7 @@
         "onUpdateFormula": "",
         "onChangeFormula": "",
         "isUpdated": true,
-        "pk": "47745",
+        "pk": "56454",
         "isPrivateColumn": false
       },
       {
@@ -592,7 +592,7 @@
         "onUpdateFormula": "",
         "onChangeFormula": "",
         "isUpdated": true,
-        "pk": "47746",
+        "pk": "56453",
         "isPrivateColumn": false
       },
       {
@@ -1444,78 +1444,32 @@
     "customColumnCategory": { "enable": false, "categoryItemCount": 12, "prefix": "Category Item ", "suffix": "" },
     "showSubtotalLevels": {},
     "customInputColumn": {
-      "CALC_17285519731104700": {
-        "id": "CALC_17285519731104700",
-        "title": "Person",
-        "type": "PERSON_COLUMN",
+      "CALC_17285518928506796": {
+        "id": "CALC_17285518928506796",
+        "title": "Number",
+        "type": "NUMBER_COLUMN",
         "description": "",
         "meta": { "range": { "from": 0, "to": 100 }, "aggregationType": "sum", "selectedOptions": {} },
-        "columnId": "47746",
+        "columnId": "56448",
         "accessControl": { "read": [], "write": [] },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
+        "createdBy": "55",
+        "createdByUser": "Keerthika Subramaniam",
+        "createdByUserEmail": "KeerthikaS@lumel.com",
         "disableWriteAccess": false,
         "forecastAllowedUserPermissions": { "10": true },
         "forecastPermission": { "10": [] }
       },
-      "CALC_17285519589648966": {
-        "id": "CALC_17285519589648966",
-        "title": "Date",
-        "type": "DATE_COLUMN",
+      "CALC_17285519052953194": {
+        "id": "CALC_17285519052953194",
+        "title": "Text",
+        "type": "TEXT_COLUMN",
         "description": "",
-        "meta": { "date": null, "format": "DEFAULT_LOCALE", "selectedOptions": {} },
-        "columnId": "47745",
+        "meta": { "characterLimit": "", "fieldValidation": { "type": "Any Value" }, "textLength": {}, "selectedOptions": {} },
+        "columnId": "56449",
         "accessControl": { "read": [], "write": [] },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
-        "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": { "10": true },
-        "forecastPermission": { "10": [] }
-      },
-      "CALC_17285519485744132": {
-        "id": "CALC_17285519485744132",
-        "title": "Check Box",
-        "type": "CHECK_BOX",
-        "description": "",
-        "meta": { "selectedOptions": {} },
-        "columnId": "47744",
-        "accessControl": { "read": [], "write": [] },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
-        "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": { "10": true },
-        "forecastPermission": { "10": [] }
-      },
-      "CALC_17285519344489773": {
-        "id": "CALC_17285519344489773",
-        "title": "Multi Select",
-        "type": "MULTI_SELECT",
-        "description": "",
-        "meta": {
-          "isMultiSelect": true,
-          "options": [
-            { "displayName": "Option 1", "value": "custom_select_SL5bbrZq", "color": "#9CD740", "icon": "circle-fill", "order": 1 },
-            { "displayName": "Option 2", "value": "custom_select_9PATKd8j", "color": "#FF8A00", "icon": "circle-fill", "order": 2 },
-            { "displayName": "Option 3", "value": "custom_select_vzvKBVZm", "color": "#FF000A", "icon": "circle-fill", "order": 3 }
-          ],
-          "position": "left",
-          "shouldAddNewOptions": false,
-          "linkedColumn": {},
-          "linkedDataset": { "workspaceId": "", "datasetId": "", "optionDetails": { "tableName": "", "optionColumnName": "", "optionColumnID": "" }, "isJoin": false, "joins": [], "filterColumnDetail": { "filterColumnsMapping": {} } },
-          "linkedHelperVisual": {},
-          "optionStyle": "chip",
-          "schedule": {},
-          "isSyncRequired": false,
-          "selectedOptions": {}
-        },
-        "columnId": "47743",
-        "accessControl": { "read": [], "write": [] },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
+        "createdBy": "55",
+        "createdByUser": "Keerthika Subramaniam",
+        "createdByUserEmail": "KeerthikaS@lumel.com",
         "disableWriteAccess": false,
         "forecastAllowedUserPermissions": { "10": true },
         "forecastPermission": { "10": [] }
@@ -1542,41 +1496,87 @@
           "isSyncRequired": false,
           "selectedOptions": {}
         },
-        "columnId": "47741",
+        "columnId": "56450",
         "accessControl": { "read": [], "write": [] },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
+        "createdBy": "55",
+        "createdByUser": "Keerthika Subramaniam",
+        "createdByUserEmail": "KeerthikaS@lumel.com",
         "disableWriteAccess": false,
         "forecastAllowedUserPermissions": { "10": true },
         "forecastPermission": { "10": [] }
       },
-      "CALC_17285519052953194": {
-        "id": "CALC_17285519052953194",
-        "title": "Text",
-        "type": "TEXT_COLUMN",
+      "CALC_17285519344489773": {
+        "id": "CALC_17285519344489773",
+        "title": "Multi Select",
+        "type": "MULTI_SELECT",
         "description": "",
-        "meta": { "characterLimit": "", "fieldValidation": { "type": "Any Value" }, "textLength": {}, "selectedOptions": {} },
-        "columnId": "47739",
+        "meta": {
+          "isMultiSelect": true,
+          "options": [
+            { "displayName": "Option 1", "value": "custom_select_SL5bbrZq", "color": "#9CD740", "icon": "circle-fill", "order": 1 },
+            { "displayName": "Option 2", "value": "custom_select_9PATKd8j", "color": "#FF8A00", "icon": "circle-fill", "order": 2 },
+            { "displayName": "Option 3", "value": "custom_select_vzvKBVZm", "color": "#FF000A", "icon": "circle-fill", "order": 3 }
+          ],
+          "position": "left",
+          "shouldAddNewOptions": false,
+          "linkedColumn": {},
+          "linkedDataset": { "workspaceId": "", "datasetId": "", "optionDetails": { "tableName": "", "optionColumnName": "", "optionColumnID": "" }, "isJoin": false, "joins": [], "filterColumnDetail": { "filterColumnsMapping": {} } },
+          "linkedHelperVisual": {},
+          "optionStyle": "chip",
+          "schedule": {},
+          "isSyncRequired": false,
+          "selectedOptions": {}
+        },
+        "columnId": "56451",
         "accessControl": { "read": [], "write": [] },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
+        "createdBy": "55",
+        "createdByUser": "Keerthika Subramaniam",
+        "createdByUserEmail": "KeerthikaS@lumel.com",
         "disableWriteAccess": false,
         "forecastAllowedUserPermissions": { "10": true },
         "forecastPermission": { "10": [] }
       },
-      "CALC_17285518928506796": {
-        "id": "CALC_17285518928506796",
-        "title": "Number",
-        "type": "NUMBER_COLUMN",
+      "CALC_17285519485744132": {
+        "id": "CALC_17285519485744132",
+        "title": "Check Box",
+        "type": "CHECK_BOX",
+        "description": "",
+        "meta": { "selectedOptions": {} },
+        "columnId": "56452",
+        "accessControl": { "read": [], "write": [] },
+        "createdBy": "55",
+        "createdByUser": "Keerthika Subramaniam",
+        "createdByUserEmail": "KeerthikaS@lumel.com",
+        "disableWriteAccess": false,
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
+      },
+      "CALC_17285519731104700": {
+        "id": "CALC_17285519731104700",
+        "title": "Person",
+        "type": "PERSON_COLUMN",
         "description": "",
         "meta": { "range": { "from": 0, "to": 100 }, "aggregationType": "sum", "selectedOptions": {} },
-        "columnId": "47738",
+        "columnId": "56453",
         "accessControl": { "read": [], "write": [] },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
+        "createdBy": "55",
+        "createdByUser": "Keerthika Subramaniam",
+        "createdByUserEmail": "KeerthikaS@lumel.com",
+        "disableWriteAccess": false,
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
+      },
+      "CALC_17285519589648966": {
+        "id": "CALC_17285519589648966",
+        "title": "Date",
+        "type": "DATE_COLUMN",
+        "description": "",
+        "meta": { "date": null, "format": "DEFAULT_LOCALE", "selectedOptions": {} },
+        "columnId": "56454",
+        "accessControl": { "read": [], "write": [] },
+        "createdBy": "55",
+        "createdByUser": "Keerthika Subramaniam",
+        "createdByUserEmail": "KeerthikaS@lumel.com",
         "disableWriteAccess": false,
         "forecastAllowedUserPermissions": { "10": true },
         "forecastPermission": { "10": [] }
@@ -1618,15 +1618,15 @@
     "annotateMarker": { "toggle": false, "markerData": null },
     "fiscalMonth": 0,
     "visualSettings": {
-      "id": "17618",
-      "visualGuid": "JCENHAJKHCCFDJA",
+      "id": "20751",
+      "visualGuid": "LFNMFECHBMKHCJI",
       "tenantId": "6",
       "allowComment": true,
       "allowWriteBack": true,
       "accessType": 1,
       "notification": true,
       "reportIdentifier": "873c3f1c-f64f-462b-ab17-6443caea393b",
-      "reportDisplayName": "Sum of Sales by Category, Year, Segment, Quarter",
+      "reportDisplayName": "Sum of Sales by Region, Category, Segment, Year",
       "reportSection": "3022645c6834f890bff3",
       "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/873c3f1c-f64f-462b-ab17-6443caea393b/3022645c6834f890bff3?experience=power-bi",
       "visualMeta": {
@@ -1638,25 +1638,26 @@
             "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/873c3f1c-f64f-462b-ab17-6443caea393b/3022645c6834f890bff3?experience=power-bi"
           }
         ],
-        "columns": [{ "alias": "Quarter", "name": "Quarter", "isTimeInterval": true, "values": ["Qtr 1", "Qtr 2", "Qtr 3", "Qtr 4"], "timeIntervalUnit": "QUARTER", "level": 0, "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter" }],
+        "columns": [{ "alias": "Year", "name": "Year", "isTimeInterval": true, "values": ["2014", "2015", "2016", "2017"], "timeIntervalUnit": "YEAR", "level": 0, "id": "Orders.Order Date.Variation.Date Hierarchy.Year" }],
         "rows": [
-          { "alias": "Category", "name": "Category", "timeIntervalUnit": null, "level": 0, "isTimeInterval": false, "id": "Orders.Category" },
-          { "alias": "Year", "name": "Year", "timeIntervalUnit": "YEAR", "level": 1, "isTimeInterval": true, "id": "Orders.Order Date.Variation.Date Hierarchy.Year" },
+          { "alias": "Region", "name": "Region", "timeIntervalUnit": null, "level": 0, "isTimeInterval": false, "id": "Orders.Region" },
+          { "alias": "Category", "name": "Category", "timeIntervalUnit": null, "level": 1, "isTimeInterval": false, "id": "Orders.Category" },
           { "alias": "Segment", "name": "Segment", "timeIntervalUnit": null, "level": 2, "isTimeInterval": false, "id": "Orders.Segment" }
         ],
         "columnHierarchy": [
-          { "id": "Qtr__1__UXRyJTIwMQ__", "label": "Qtr 1", "level": 0, "path": "Qtr 1", "date": "2024-01-01T00:00:00+05:30" },
-          { "id": "Qtr__2__UXRyJTIwMg__", "label": "Qtr 2", "level": 0, "path": "Qtr 2", "date": "2024-04-01T00:00:00+05:30" },
-          { "id": "Qtr__3__UXRyJTIwMw__", "label": "Qtr 3", "level": 0, "path": "Qtr 3", "date": "2024-07-01T00:00:00+05:30" },
-          { "id": "Qtr__4__UXRyJTIwNA__", "label": "Qtr 4", "level": 0, "path": "Qtr 4", "date": "2024-10-01T00:00:00+05:30" }
+          { "id": "2014", "label": "2014", "level": 0, "path": "2014", "date": "2014-01-01T00:00:00+05:30" },
+          { "id": "2015", "label": "2015", "level": 0, "path": "2015", "date": "2015-01-01T00:00:00+05:30" },
+          { "id": "2016", "label": "2016", "level": 0, "path": "2016", "date": "2016-01-01T00:00:00+05:30" },
+          { "id": "2017", "label": "2017", "level": 0, "path": "2017", "date": "2017-01-01T00:00:00+05:30" }
         ],
         "visualSignature": {
           "dimensions": [
+            { "id": "Orders.Region", "name": "Region", "dataType": "TEXT" },
             { "id": "Orders.Category", "name": "Category", "dataType": "TEXT" },
-            { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year", "dataType": "NUMERIC" },
             { "id": "Orders.Segment", "name": "Segment", "dataType": "TEXT" },
-            { "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter", "name": "Quarter", "dataType": "TEXT" }
+            { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year", "dataType": "NUMERIC" }
           ],
+          "dimensionHash": "3247c215e84db29466d4ab6fdc4c911c",
           "measures": [
             { "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__", "name": "Sum of Sales", "dataType": "NUMERIC" },
             { "id": "CALC_17285518928506796", "name": "Number", "dataType": "NUMERIC" },
@@ -1669,16 +1670,16 @@
             { "name": "Notes", "dataType": "TEXT" },
             { "name": "Comments", "dataType": "TEXT" }
           ],
-          "reportDisplayName": "Sum of Sales by Category, Year, Segment, Quarter",
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
-          "hasNativeMeasures": true
+          "hasNativeMeasures": true,
+          "reportDisplayName": "Sum of Sales by Region, Category, Segment, Year"
         },
         "includedIdDimensions": [
+          { "id": "Orders.Region", "name": "Region" },
           { "id": "Orders.Category", "name": "Category" },
-          { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year" },
           { "id": "Orders.Segment", "name": "Segment" },
-          { "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter", "name": "Quarter" }
+          { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year" }
         ],
         "dimensionIdMapping": [],
         "isFilterContextEnabled": 20,
@@ -1690,18 +1691,18 @@
       "schedule": {},
       "scheduleStatus": null,
       "status": 10,
-      "createdBy": "91",
-      "createdAt": 1728551863,
+      "createdBy": "55",
+      "createdAt": 1730691701,
       "updatedBy": "55",
-      "updatedAt": 1730119251,
+      "updatedAt": 1730691715,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
       "snapshotSchedule": {},
       "snapshotScheduleStatus": null,
-      "reportAssetId": "931",
+      "reportAssetId": null,
       "mdeSettings": {},
-      "visualIdentifier": "inforiver_JCENHAJKHCCFDJA",
+      "visualIdentifier": "inforiver_LFNMFECHBMKHCJI",
       "languages": { "GERMAN": "de-DE", "FRENCH": "fr-FR", "SPANISH": "es-ES" },
       "filterContextMapping": {}
     },
@@ -1721,7 +1722,16 @@
     "allowNativeCellEdit": false,
     "calculatedVariables": {},
     "formFieldsVariables": { "variables": [], "onLoadFormula": "", "onDataChangeFormula": "" },
-    "filterList": [],
+    "filterList": [
+      { "combinator": "and", "id": "EIAKUOFT", "name": "Category", "rules": [{ "field": "Orders.Category", "operator": "isOneof", "value": "Furniture" }] },
+      { "combinator": "and", "id": "GRQXTYOB", "name": "Quarter", "rules": [{ "field": "Orders.Order Date.Variation.Date Hierarchy.Quarter", "operator": "is", "value": "Qtr 1" }] },
+      { "combinator": "and", "id": "INMMZWYH", "name": "Region", "rules": [{ "field": "Orders.Region", "operator": "isOneof", "value": "Central" }] },
+      { "combinator": "and", "id": "VXVZZPBP", "name": "Segment", "rules": [{ "field": "Orders.Segment", "operator": "isOneof", "value": "Consumer" }] },
+      { "combinator": "and", "id": "DTZBAHRW", "name": "Country", "rules": [{ "field": "Orders.Country", "operator": "isOneof", "value": "United States" }] },
+      { "combinator": "and", "id": "BJJODMHC", "name": "Product Name", "rules": [{ "field": "Orders.Product Name", "operator": "isOneof", "value": "\"While you Were Out\" Message Book, One Form per Page" }] },
+      { "combinator": "and", "id": "VLXTHTSR", "name": "Year", "rules": [{ "field": "Orders.Order Date.Variation.Date Hierarchy.Year", "operator": "is", "value": "2014" }] },
+      { "combinator": "and", "id": "LUSYVPMZ", "name": "City", "rules": [{ "field": "Orders.City", "operator": "isOneof", "value": "Aberdeen" }] }
+    ],
     "customIcons": [],
     "scrollThickness": false,
     "dynamicRowScale": {},
@@ -1824,7 +1834,14 @@
       "CALC_17285519589648966": "sum",
       "CALC_17285519731104700": "sum"
     },
-    "rowEditPermissions": {},
+    "rowEditPermissions": {
+      "dataConfig": {
+        "isMultiSelect": false,
+        "position": "left",
+        "linkedDataset": { "workspaceId": "", "datasetId": "", "optionDetails": { "tableName": "", "optionColumnName": "", "optionColumnID": "" }, "isJoin": false, "joins": [], "filterColumnDetail": { "filterColumnsMapping": {} } },
+        "selectedDataInputCols": []
+      }
+    },
     "showReadViewBookmark": false,
     "indianNumberSystem": false,
     "replaceForecastWithPYorPL": "none",
@@ -1838,14 +1855,15 @@
     "adjustments": { "enableAdjustments": true },
     "forecastTimeFilter": { "isFilterActive": false, "startDate": null, "endDate": null },
     "groupExpandCollapseIcon": false,
-    "enableApproval": true
+    "enableApproval": true,
+    "nullFreePaste": true
   },
   "csvOptions": {
-    "rows": ["Orders.Category", "Orders.Order Date.Variation.Date Hierarchy.Year", "Orders.Segment"],
-    "columns": ["Orders.Order Date.Variation.Date Hierarchy.Quarter"],
+    "rows": ["Orders.Region", "Orders.Category", "Orders.Segment"],
+    "columns": ["Orders.Order Date.Variation.Date Hierarchy.Year"],
     "rolesMap": {},
-    "typesMap": { "Orders.Category": "TEXT", "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC", "Orders.Segment": "TEXT", "Orders.Order Date.Variation.Date Hierarchy.Quarter": "TEXT", "Sum(Orders.Sales)": "NUMERIC" },
-    "labelMap": { "Orders.Category": "Category", "Orders.Order Date.Variation.Date Hierarchy.Year": "Year", "Orders.Segment": "Segment", "Orders.Order Date.Variation.Date Hierarchy.Quarter": "Quarter", "Sum(Orders.Sales)": "Sum of Sales" },
+    "typesMap": { "Orders.Region": "TEXT", "Orders.Category": "TEXT", "Orders.Segment": "TEXT", "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC", "Sum(Orders.Sales)": "NUMERIC" },
+    "labelMap": { "Orders.Region": "Region", "Orders.Category": "Category", "Orders.Segment": "Segment", "Orders.Order Date.Variation.Date Hierarchy.Year": "Year", "Sum(Orders.Sales)": "Sum of Sales" },
     "ac_roles": [],
     "pl_roles": [],
     "py_roles": ["Sum(Orders.Sales)"],
@@ -1854,13 +1872,13 @@
   },
   "metadata": {
     "measures": { "PY": [{ "label": "Sum of Sales", "name": "Sum(Orders.Sales)", "role": "PY" }] },
-    "columns": [{ "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter", "label": "Quarter" }],
+    "columns": [{ "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "label": "Year" }],
     "rows": [
+      { "id": "Orders.Region", "label": "Region" },
       { "id": "Orders.Category", "label": "Category" },
-      { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "label": "Year" },
       { "id": "Orders.Segment", "label": "Segment" }
     ]
   },
-  "visual": { "visualId": "JCENHAJKHCCFDJA", "visualTemplateGuid": "HAONAJHDJPHOFPE", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" },
+  "visual": { "visualId": "LFNMFECHBMKHCJI", "visualTemplateGuid": "HAONAJHDJPHOFPE", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" },
   "currentVersion": "v3.6.2.0"
 }
