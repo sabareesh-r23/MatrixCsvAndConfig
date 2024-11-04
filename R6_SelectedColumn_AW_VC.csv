@@ -1,0 +1,49 @@
+Orders.Sub-Category,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Segment,Orders.Region,Sum(Orders.Profit)
+Accessories,2014,Qtr 1,Technology,Consumer,Central,230.06320000000005
+Accessories,2014,Qtr 2,Technology,Consumer,Central,43.37639999999995
+Accessories,2015,Qtr 1,Technology,Consumer,Central,235.32889999999998
+Accessories,2015,Qtr 2,Technology,Consumer,Central,49.468999999999966
+Accessories,2014,Qtr 1,Technology,Consumer,East,177.58890000000002
+Accessories,2014,Qtr 2,Technology,Consumer,East,29.870100000000008
+Accessories,2015,Qtr 1,Technology,Consumer,East,5.932499999999996
+Accessories,2015,Qtr 2,Technology,Consumer,East,71.41499999999999
+Accessories,2014,Qtr 1,Technology,Consumer,South,169.13600000000002
+Accessories,2014,Qtr 2,Technology,Consumer,South,193.5869
+Accessories,2015,Qtr 1,Technology,Consumer,South,92.58779999999999
+Accessories,2015,Qtr 2,Technology,Consumer,South,42.840999999999994
+Accessories,2014,Qtr 1,Technology,Consumer,West,22.541999999999994
+Accessories,2014,Qtr 2,Technology,Consumer,West,286.1415
+Accessories,2015,Qtr 1,Technology,Consumer,West,126.5415
+Accessories,2015,Qtr 2,Technology,Consumer,West,777.177
+Accessories,2014,Qtr 1,Technology,Corporate,Central,22.4316
+Accessories,2014,Qtr 2,Technology,Corporate,Central,-3.6372000000000027
+Accessories,2015,Qtr 1,Technology,Corporate,Central,62.889499999999984
+Accessories,2015,Qtr 2,Technology,Corporate,Central,53.480999999999995
+Accessories,2014,Qtr 1,Technology,Corporate,East,81.7348
+Accessories,2014,Qtr 2,Technology,Corporate,East,57.5928
+Accessories,2015,Qtr 1,Technology,Corporate,East,8.100400000000004
+Accessories,2015,Qtr 2,Technology,Corporate,East,
+Accessories,2014,Qtr 1,Technology,Corporate,South,326.0688
+Accessories,2014,Qtr 2,Technology,Corporate,South,42.991400000000006
+Accessories,2015,Qtr 1,Technology,Corporate,South,
+Accessories,2015,Qtr 2,Technology,Corporate,South,18
+Accessories,2014,Qtr 1,Technology,Corporate,West,95.00819999999999
+Accessories,2014,Qtr 2,Technology,Corporate,West,216.25320000000002
+Accessories,2015,Qtr 1,Technology,Corporate,West,86.38919999999999
+Accessories,2015,Qtr 2,Technology,Corporate,West,
+Accessories,2014,Qtr 1,Technology,Home Office,Central,
+Accessories,2014,Qtr 2,Technology,Home Office,Central,10.397399999999998
+Accessories,2015,Qtr 1,Technology,Home Office,Central,
+Accessories,2015,Qtr 2,Technology,Home Office,Central,
+Accessories,2014,Qtr 1,Technology,Home Office,East,
+Accessories,2014,Qtr 2,Technology,Home Office,East,21.89699999999999
+Accessories,2015,Qtr 1,Technology,Home Office,East,52.73400000000001
+Accessories,2015,Qtr 2,Technology,Home Office,East,106.95100000000002
+Accessories,2014,Qtr 1,Technology,Home Office,South,
+Accessories,2014,Qtr 2,Technology,Home Office,South,
+Accessories,2015,Qtr 1,Technology,Home Office,South,
+Accessories,2015,Qtr 2,Technology,Home Office,South,118.84959999999998
+Accessories,2014,Qtr 1,Technology,Home Office,West,
+Accessories,2014,Qtr 2,Technology,Home Office,West,139.986
+Accessories,2015,Qtr 1,Technology,Home Office,West,
+Accessories,2015,Qtr 2,Technology,Home Office,West,
