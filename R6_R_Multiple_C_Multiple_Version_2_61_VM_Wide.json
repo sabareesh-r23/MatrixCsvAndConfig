@@ -2,56 +2,20 @@
   "version": 2,
   "config": {
     "sorting": [],
-    "pagination": {
-      "enable": true,
-      "pageRowCount": 10,
-      "autoRowCount": "layout",
-      "view": "browser",
-      "pageNo": 1,
-      "paginationHeight": 20,
-      "currentPageNumber": 0
-    },
-    "headerOption": {
-      "showHeaderIndicator": true,
-      "showHeader": true,
-      "showMeasureHeader": true
-    },
+    "pagination": { "enable": true, "pageRowCount": 10, "autoRowCount": "layout", "view": "browser", "pageNo": 1, "paginationHeight": 20, "currentPageNumber": 0 },
+    "headerOption": { "showHeaderIndicator": true, "showHeader": true, "showMeasureHeader": true },
     "enableSign": false,
     "isEditMode": true,
     "columnTitleConfigs": [],
     "overRideScaleFactor": true,
     "interactivity": {},
-    "compareHeader": {
-      "left": {
-        "label": "",
-        "values": []
-      },
-      "right": {
-        "label": "",
-        "values": []
-      }
-    },
-    "tableState": {
-      "rowHierarchyLevel": {},
-      "compareMeasure": null,
-      "expandCollapseIcon": "plusMinusSquare",
-      "columnExpandCollapseIcon": "arrows",
-      "columnHierarchyLevel": {},
-      "headerHeight": 25
-    },
+    "compareHeader": { "left": { "label": "", "values": [] }, "right": { "label": "", "values": [] } },
+    "tableState": { "rowHierarchyLevel": {}, "compareMeasure": null, "expandCollapseIcon": "plusMinusSquare", "columnExpandCollapseIcon": "arrows", "columnHierarchyLevel": {}, "headerHeight": 25 },
     "measureBasedHeader": true,
     "isReadModeConfigModified": true,
     "layout": "HIERARCHICAL",
-    "rowExpandCollapseOptions": {
-      "rows": {},
-      "expandTillDescendant": {},
-      "gridState": null,
-      "levelStates": [],
-      "maxLevelExpanded": null
-    },
-    "chartTitleOption": {
-      "show": true
-    },
+    "rowExpandCollapseOptions": { "rows": {}, "expandTillDescendant": {}, "gridState": null, "levelStates": [], "maxLevelExpanded": null },
+    "chartTitleOption": { "show": true },
     "chartCustomTitle": {
       "secondaryTitle": "",
       "measureTitle": "",
@@ -61,22 +25,9 @@
           {
             "type": "DEFAULT_TITLE",
             "id": "left-col",
-            "position": {
-              "top": 0,
-              "left": 0
-            },
-            "dimension": {
-              "width": "150",
-              "height": "30"
-            },
-            "layout": {
-              "x": 0,
-              "y": 0,
-              "w": 32,
-              "h": 3,
-              "i": "left-col",
-              "static": false
-            },
+            "position": { "top": 0, "left": 0 },
+            "dimension": { "width": "150", "height": "30" },
+            "layout": { "x": 0, "y": 0, "w": 32, "h": 3, "i": "left-col", "static": false },
             "content": "<span class='mention' data-value='{\"id\":\"[fields]\",\"fieldKey\":\"title\",\"key\":\"fields\"}'>[fields]</span><p><span style=\"font-size: 12px;\"><span class='mention' data-value='{\"id\":\"[scaling]\",\"fieldKey\":\"title\",\"key\":\"scaling\"}'>[scaling]</span></span></p>",
             "verticalAlign": "MIDDLE",
             "align": "left",
@@ -96,20 +47,11 @@
         ],
         "layout": "left-col",
         "layoutType": "CUSTOM",
-        "containerMeta": {
-          "width": 1260,
-          "height": 45
-        },
+        "containerMeta": { "width": 1260, "height": 45 },
         "containerPosition": "top"
       }
     },
-    "breakConfig": {
-      "sectionBreak": [],
-      "pageBreak": {
-        "rowBreakBy": "",
-        "columnBreakBy": ""
-      }
-    },
+    "breakConfig": { "sectionBreak": [], "pageBreak": { "rowBreakBy": "", "columnBreakBy": "" } },
     "miscellaneous": {
       "enableFooter": true,
       "showInfoRiverLogo": true,
@@ -131,10 +73,7 @@
       "headerHeight": 30,
       "headerFontSize": "14px",
       "headerFontColor": "#212121",
-      "rotateLabels": {
-        "enabled": false,
-        "angle": 0
-      },
+      "rotateLabels": { "enabled": false, "angle": 0 },
       "headerLabelOrient": "initial",
       "isHeightUpdatedManually": false,
       "isFontFamilyChanged": false,
@@ -158,14 +97,7 @@
       "columnAnnotations": [],
       "indicatorType": "numbered",
       "indicatorPosition": "default",
-      "persistProperty": {
-        "bgColor": "rgba(255,255,255,0.9)",
-        "lineColor": "rgba(3,169,244,0.7)",
-        "borderColor": "rgba(3,169,244,0.7)",
-        "iconColor": "rgba(0, 120, 212, 0.7)",
-        "displayOptions": 4,
-        "iconSize": 14
-      },
+      "persistProperty": { "bgColor": "rgba(255,255,255,0.9)", "lineColor": "rgba(3,169,244,0.7)", "borderColor": "rgba(3,169,244,0.7)", "iconColor": "rgba(0, 120, 212, 0.7)", "displayOptions": 4, "iconSize": 14 },
       "showFootnote": false,
       "rowLevelComments": false,
       "enableReply": true,
@@ -200,12 +132,7 @@
       "measureOnlyHighlight": false,
       "lineStyleRecentColor": ""
     },
-    "rowReorder": {
-      "enabled": true,
-      "siblingRowReorder": true,
-      "rowOrderConfig": {},
-      "rowOrderConfigMeta": {}
-    },
+    "rowReorder": { "enabled": true, "siblingRowReorder": true, "rowOrderConfig": {}, "rowOrderConfigMeta": {} },
     "columnHierarchySort": {},
     "verticalLabelColumn": false,
     "compareMesLabelAlign": false,
@@ -309,10 +236,7 @@
         "offset": 0,
         "isHierarchyColumn": false,
         "simulationSlider": true,
-        "simulationRange": [
-          -100,
-          100
-        ],
+        "simulationRange": [-100, 100],
         "simulationValueAlign": "left",
         "varianceFormattingStyle": "POSITIVE",
         "blendDirection": "vertical",
@@ -337,10 +261,7 @@
         "offset": 0,
         "isHierarchyColumn": false,
         "simulationSlider": true,
-        "simulationRange": [
-          -100,
-          100
-        ],
+        "simulationRange": [-100, 100],
         "simulationValueAlign": "left",
         "varianceFormattingStyle": "POSITIVE",
         "blendDirection": "vertical",
@@ -353,9 +274,7 @@
         "order": 9
       }
     ],
-    "calculatedColumnMeta": {
-      "newColumnIndex": 0
-    },
+    "calculatedColumnMeta": { "newColumnIndex": 0 },
     "totalUtility": {
       "rowGrandTotal": true,
       "rowGrandTotalPosition": "above",
@@ -390,20 +309,7 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": {
-            "selectedColorScheme": "Blues",
-            "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
-            "minColor": "red",
-            "middleColor": "blue",
-            "maxColor": "green"
-          },
+          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -416,11 +322,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -493,20 +395,7 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": {
-            "selectedColorScheme": "Blues",
-            "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
-            "minColor": "red",
-            "middleColor": "blue",
-            "maxColor": "green"
-          },
+          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -519,11 +408,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -596,20 +481,7 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": {
-            "selectedColorScheme": "Blues",
-            "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
-            "minColor": "red",
-            "middleColor": "blue",
-            "maxColor": "green"
-          },
+          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -622,11 +494,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -699,20 +567,7 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": {
-            "selectedColorScheme": "Blues",
-            "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
-            "minColor": "red",
-            "middleColor": "blue",
-            "maxColor": "green"
-          },
+          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -725,11 +580,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -802,20 +653,7 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": {
-            "selectedColorScheme": "Blues",
-            "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
-            "minColor": "red",
-            "middleColor": "blue",
-            "maxColor": "green"
-          },
+          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -828,11 +666,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -905,20 +739,7 @@
           "colorOnly": false,
           "invertColor": false,
           "colorScaleColorFor": "font",
-          "colorScheme": {
-            "selectedColorScheme": "Blues",
-            "numberOfRanges": 5,
-            "colors": [
-              "#d0e1f2",
-              "#94c4df",
-              "#4a98c9",
-              "#1764ab",
-              "#08306b"
-            ],
-            "minColor": "red",
-            "middleColor": "blue",
-            "maxColor": "green"
-          },
+          "colorScheme": { "selectedColorScheme": "Blues", "numberOfRanges": 5, "colors": ["#d0e1f2", "#94c4df", "#4a98c9", "#1764ab", "#08306b"], "minColor": "red", "middleColor": "blue", "maxColor": "green" },
           "classificationType": "icon",
           "enableCustom": false,
           "isTextGroupAltered": false,
@@ -931,11 +752,7 @@
           "iconGroupValueType": "percent",
           "textGroupValueType": "percent",
           "textColorFor": "font",
-          "ratingIcons": [
-            "cross",
-            "alert",
-            "tick"
-          ],
+          "ratingIcons": ["cross", "alert", "tick"],
           "conditionalOperator": "or",
           "conditions": [
             {
@@ -992,115 +809,24 @@
         }
       ]
     },
-    "kpiExplorerCf": {
-      "rules": []
-    },
+    "kpiExplorerCf": { "rules": [] },
     "columnSelection": false,
-    "templateConfig": {
-      "template": "Matrix",
-      "type": "default"
-    },
+    "templateConfig": { "template": "Matrix", "type": "default" },
     "isInFocus": false,
     "manageMeasures": [
-      {
-        "label": "Sum of Sales",
-        "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
-        "name": "Sum(Orders.Sales)",
-        "order": 0,
-        "visible": true,
-        "measureType": "data",
-        "role": "AC"
-      },
-      {
-        "id": "CALC_17283806455119294",
-        "label": "Number empty",
-        "order": 1,
-        "visible": true,
-        "columnType": "NUMBER_COLUMN",
-        "isStoredColumn": true,
-        "name": "CALC_17283806455119294"
-      },
-      {
-        "id": "CALC_17283806680021914",
-        "label": "Number",
-        "order": 2,
-        "visible": true,
-        "columnType": "NUMBER_COLUMN",
-        "isStoredColumn": true,
-        "name": "CALC_17283806680021914"
-      },
-      {
-        "id": "CALC_17283806776903285",
-        "label": "Text",
-        "order": 3,
-        "visible": true,
-        "columnType": "TEXT_COLUMN",
-        "isStoredColumn": true,
-        "name": "CALC_17283806776903285"
-      },
-      {
-        "id": "CALC_17283806878314781",
-        "label": "Single Select",
-        "order": 4,
-        "visible": true,
-        "columnType": "OPTIONS_COLUMN",
-        "isStoredColumn": true,
-        "name": "CALC_17283806878314781"
-      },
-      {
-        "id": "CALC_17283806991419565",
-        "label": "Multi Select",
-        "order": 5,
-        "visible": true,
-        "columnType": "MULTI_SELECT",
-        "isStoredColumn": true,
-        "name": "CALC_17283806991419565"
-      },
-      {
-        "id": "CALC_17283807115343633",
-        "label": "Check Box",
-        "order": 6,
-        "visible": true,
-        "columnType": "CHECK_BOX",
-        "isStoredColumn": true,
-        "name": "CALC_17283807115343633"
-      },
-      {
-        "id": "CALC_17283807231699180",
-        "label": "Date",
-        "order": 7,
-        "visible": true,
-        "columnType": "DATE_COLUMN",
-        "isStoredColumn": true,
-        "name": "CALC_17283807231699180"
-      },
-      {
-        "id": "CALC_17283807321349190",
-        "label": "Person",
-        "order": 8,
-        "visible": true,
-        "columnType": "PERSON_COLUMN",
-        "isStoredColumn": true,
-        "name": "CALC_17283807321349190"
-      },
-      {
-        "id": "LAST_UPDATED_AT",
-        "label": "Last Updated At",
-        "order": 9,
-        "visible": false,
-        "name": "LAST_UPDATED_AT"
-      },
-      {
-        "id": "LAST_UPDATED_BY",
-        "label": "Last Updated By",
-        "order": 10,
-        "visible": false,
-        "name": "LAST_UPDATED_BY"
-      }
+      { "label": "Sum of Sales", "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__", "name": "Sum(Orders.Sales)", "order": 0, "visible": true, "measureType": "data", "role": "AC" },
+      { "id": "CALC_17283806455119294", "label": "Number empty", "order": 1, "visible": true, "columnType": "NUMBER_COLUMN", "isStoredColumn": true, "name": "CALC_17283806455119294" },
+      { "id": "CALC_17283806680021914", "label": "Number", "order": 2, "visible": true, "columnType": "NUMBER_COLUMN", "isStoredColumn": true, "name": "CALC_17283806680021914" },
+      { "id": "CALC_17283806776903285", "label": "Text", "order": 3, "visible": true, "columnType": "TEXT_COLUMN", "isStoredColumn": true, "name": "CALC_17283806776903285" },
+      { "id": "CALC_17283806878314781", "label": "Single Select", "order": 4, "visible": true, "columnType": "OPTIONS_COLUMN", "isStoredColumn": true, "name": "CALC_17283806878314781" },
+      { "id": "CALC_17283806991419565", "label": "Multi Select", "order": 5, "visible": true, "columnType": "MULTI_SELECT", "isStoredColumn": true, "name": "CALC_17283806991419565" },
+      { "id": "CALC_17283807115343633", "label": "Check Box", "order": 6, "visible": true, "columnType": "CHECK_BOX", "isStoredColumn": true, "name": "CALC_17283807115343633" },
+      { "id": "CALC_17283807231699180", "label": "Date", "order": 7, "visible": true, "columnType": "DATE_COLUMN", "isStoredColumn": true, "name": "CALC_17283807231699180" },
+      { "id": "CALC_17283807321349190", "label": "Person", "order": 8, "visible": true, "columnType": "PERSON_COLUMN", "isStoredColumn": true, "name": "CALC_17283807321349190" },
+      { "id": "LAST_UPDATED_AT", "label": "Last Updated At", "order": 9, "visible": false, "name": "LAST_UPDATED_AT" },
+      { "id": "LAST_UPDATED_BY", "label": "Last Updated By", "order": 10, "visible": false, "name": "LAST_UPDATED_BY" }
     ],
-    "invertRows": {
-      "valueRow": {}
-    },
+    "invertRows": { "valueRow": {} },
     "resultRows": {},
     "shouldAggregate": false,
     "columnMeta": {},
@@ -1116,11 +842,7 @@
       "CALC_17283807231699180": "sum",
       "CALC_17283807321349190": "sum"
     },
-    "outliers": {
-      "enableOutlier": false,
-      "min": 0,
-      "max": 0
-    },
+    "outliers": { "enableOutlier": false, "min": 0, "max": 0 },
     "headerLabelFormat": {},
     "sparklineConfig": {},
     "displayAllCols": false,
@@ -1129,34 +851,15 @@
     "dynamicRowIcon": true,
     "showNullRefAsZero": true,
     "calcCellIcon": true,
-    "filter": {
-      "rules": [],
-      "combinator": "and",
-      "not": false
-    },
-    "search": {
-      "category": null,
-      "searchString": "",
-      "tokens": []
-    },
-    "ranking": {
-      "rules": [],
-      "othersLabel": "Others",
-      "enableOthersSuffix": false,
-      "enableOthersCount": true,
-      "showOthers": true,
-      "exemptions": {}
-    },
+    "filter": { "rules": [], "combinator": "and", "not": false },
+    "search": { "category": null, "searchString": "", "tokens": [] },
+    "ranking": { "rules": [], "othersLabel": "Others", "enableOthersSuffix": false, "enableOthersCount": true, "showOthers": true, "exemptions": {} },
     "kpiExplorer": {
       "showExplorer": false,
       "selectedMeasure": "",
       "filterValues": {},
       "panelWidthMeta": {},
-      "showKPI": {
-        "column": {},
-        "row": {},
-        "rowGroup": {}
-      },
+      "showKPI": { "column": {}, "row": {}, "rowGroup": {} },
       "sort": {},
       "expanded": true,
       "timeInterval": [],
@@ -1173,20 +876,13 @@
     "aggregationType": "sum",
     "varianceInvertColumn": {},
     "landingPage": false,
-    "columnExpandCollapse": {
-      "2014": {
-        "expanded": true
-      }
-    },
+    "columnExpandCollapse": { "2014": { "expanded": true } },
     "layoutType": "default",
     "calculatedCells": [],
     "enablePersistFilter": false,
     "columnGroupConfig": {},
     "alertFilter": [],
-    "rowHeightsConfig": {
-      "row": {},
-      "level": {}
-    },
+    "rowHeightsConfig": { "row": {}, "level": {} },
     "summarySettings": {
       "rowLayout": "multi",
       "forceMultiLine": false,
@@ -1196,10 +892,7 @@
       "detailGridHeightType": "auto",
       "detailXPadding": 10,
       "detailYPadding": 10,
-      "detailBreakBy": {
-        "row": "",
-        "column": ""
-      },
+      "detailBreakBy": { "row": "", "column": "" },
       "showAggregation": false,
       "detailLayout": "table",
       "showGroupBorder": true,
@@ -1207,15 +900,9 @@
       "groupHeaderColor": "#edebe9",
       "groupBorderColor": "#cccccc",
       "groupBorderThickness": 1,
-      "summaryHeader": {
-        "elements": []
-      },
-      "summaryFooter": {
-        "elements": []
-      },
-      "summaryGlobalHeader": {
-        "elements": []
-      },
+      "summaryHeader": { "elements": [] },
+      "summaryFooter": { "elements": [] },
+      "summaryGlobalHeader": { "elements": [] },
       "showSummaryHeader": true,
       "showSummaryFooter": true,
       "showSummaryGlobalHeader": false,
@@ -1223,16 +910,10 @@
       "summaryFooterHeight": 30,
       "summaryGlobalHeaderHeight": 180,
       "masterRowExpandCollapseConfig": {},
-      "multiColumn": {
-        "enabled": false,
-        "cols": []
-      },
+      "multiColumn": { "enabled": false, "cols": [] },
       "categoryBreak": [],
       "columnSpacing": 10,
-      "summaryPage": {
-        "enabled": false,
-        "position": "hide"
-      },
+      "summaryPage": { "enabled": false, "position": "hide" },
       "listView": true,
       "drillDownData": [],
       "syncScroll": true
@@ -1263,12 +944,7 @@
       "columnWidth": "normal",
       "orientation": "l",
       "margin": "md",
-      "logo": {
-        "filename": "",
-        "base64": "",
-        "width": 60,
-        "height": 30
-      },
+      "logo": { "filename": "", "base64": "", "width": 60, "height": 30 },
       "title": "",
       "subTitle": "",
       "displaydate": true,
@@ -1286,12 +962,7 @@
       "imageName": "",
       "imageHAlign": "center",
       "imageVAlign": "middle",
-      "imageMargin": {
-        "top": 0,
-        "bottom": 0,
-        "left": 0,
-        "right": 0
-      },
+      "imageMargin": { "top": 0, "bottom": 0, "left": 0, "right": 0 },
       "showFilterContext": "hide",
       "footComments": "hide",
       "exportCfSettings": {},
@@ -1300,12 +971,7 @@
     },
     "exportExcelSettings": {
       "exportType": "matrix",
-      "logo": {
-        "filename": "",
-        "base64": "",
-        "width": 60,
-        "height": 30
-      },
+      "logo": { "filename": "", "base64": "", "width": 60, "height": 30 },
       "title": "",
       "subTitle": "",
       "footerNote": "",
@@ -1316,53 +982,17 @@
       "showCustomHeaderImage": false,
       "smartFit": true
     },
-    "schedulerSettings": {
-      "hierarchyView": "flatIntended"
-    },
-    "ruler": {
-      "enabled": false,
-      "disabled": {
-        "state": false,
-        "prevEnabledState": null
-      },
-      "activeSummaryGroup": null
-    },
-    "recentColors": [
-      "#377D22",
-      "#A60000"
-    ],
+    "schedulerSettings": { "hierarchyView": "flatIntended" },
+    "ruler": { "enabled": false, "disabled": { "state": false, "prevEnabledState": null }, "activeSummaryGroup": null },
+    "recentColors": ["#377D22", "#A60000"],
     "frequentColors": [],
-    "formatConfig": {
-      "row": {},
-      "column": {},
-      "columnDimension": {},
-      "cell": {},
-      "labelCellGroup": {},
-      "measure": {},
-      "rowDimension": {},
-      "rowGroup": {},
-      "columnHierarchy": {},
-      "formatSize": 0,
-      "__lastHouseKeepedSize": 0
-    },
-    "layoutSizes": {
-      "tableWidth": 80,
-      "chartWidth": 150,
-      "labelWidth": 120,
-      "isResponsive": false,
-      "bulletWidth": 300,
-      "maximumChartWidth": 200,
-      "isMaximumChartWidthAllowed": false,
-      "preferedWidthSelection": "measure"
-    },
+    "formatConfig": { "row": {}, "column": {}, "columnDimension": {}, "cell": {}, "labelCellGroup": {}, "measure": {}, "rowDimension": {}, "rowGroup": {}, "columnHierarchy": {}, "formatSize": 0, "__lastHouseKeepedSize": 0 },
+    "layoutSizes": { "tableWidth": 80, "chartWidth": 150, "labelWidth": 120, "isResponsive": false, "bulletWidth": 300, "maximumChartWidth": 200, "isMaximumChartWidthAllowed": false, "preferedWidthSelection": "measure" },
     "pinnedRowIds": [],
     "pinnedColIds": [],
     "virtualRoleColumnMap": {},
     "rowGroupConfig": {},
-    "columnHierarchyReorder": {
-      "colOrderConfig": {},
-      "colOrderConfigMeta": {}
-    },
+    "columnHierarchyReorder": { "colOrderConfig": {}, "colOrderConfigMeta": {} },
     "rowLabelMeta": {},
     "hiddenRows": [],
     "toolbar": {
@@ -1379,87 +1009,23 @@
       "hideDuplicateReportWarning": false,
       "showForecastTab": false
     },
-    "warningModal": {
-      "show": false,
-      "message": "",
-      "autoClose": true,
-      "showLoader": false,
-      "showClose": true
-    },
+    "warningModal": { "show": false, "message": "", "autoClose": true, "showLoader": false, "showClose": true },
     "showGripper": true,
     "showComments": true,
     "showHeaderFooter": true,
-    "urlMetaConfig": {
-      "hasURL": false,
-      "hasImg": false,
-      "urlColId": "",
-      "urlColIndex": null
-    },
+    "urlMetaConfig": { "hasURL": false, "hasImg": false, "urlColId": "", "urlColIndex": null },
     "pbiThemeColor": {
-      "rowLevelTheme": {
-        "0": "#118DFF",
-        "1": "#12239E",
-        "2": "#E66C37"
-      },
-      "measureLevelTheme": {
-        "0": "#118DFF",
-        "1": "#12239E",
-        "2": "#E66C37",
-        "3": "#6B007B",
-        "4": "#E044A7",
-        "5": "#744EC2",
-        "6": "#D9B300",
-        "7": "#D64550",
-        "8": "#197278",
-        "9": "#1AAB40",
-        "10": "#15C6F4"
-      }
+      "rowLevelTheme": { "0": "#118DFF", "1": "#12239E", "2": "#E66C37" },
+      "measureLevelTheme": { "0": "#118DFF", "1": "#12239E", "2": "#E66C37", "3": "#6B007B", "4": "#E044A7", "5": "#744EC2", "6": "#D9B300", "7": "#D64550", "8": "#197278", "9": "#1AAB40", "10": "#15C6F4" }
     },
     "labelColIndex": null,
-    "hierarchy": {
-      "raggedHierarchy": true,
-      "hideBlanks": "vc",
-      "hideZeros": false,
-      "unbalancedHierarchy": "off"
-    },
-    "totalsDisplay": {
-      "showSubTotalsAsTable": false,
-      "showVarSubTotalsAsTable": false,
-      "showTotalAsTable": true,
-      "showVarTotalAsTable": false,
-      "showColumnGTAsTable": true,
-      "advancedSteppedLayout": false,
-      "removeSingleChildren": true
-    },
-    "rowAutoGroupConfig": {
-      "ruleName": "none"
-    },
-    "chartStyles": {
-      "variancePin": "square",
-      "showDataLabel": true,
-      "isBarOverlap": false
-    },
-    "autoFitOptions": {
-      "autoFit": false,
-      "lockColumnWidth": false,
-      "wrapCols": false,
-      "uniformColumnWidth": {
-        "enabled": false,
-        "width": null
-      }
-    },
+    "hierarchy": { "raggedHierarchy": true, "hideBlanks": "vc", "hideZeros": false, "unbalancedHierarchy": "off" },
+    "totalsDisplay": { "showSubTotalsAsTable": false, "showVarSubTotalsAsTable": false, "showTotalAsTable": true, "showVarTotalAsTable": false, "showColumnGTAsTable": true, "advancedSteppedLayout": false, "removeSingleChildren": true },
+    "rowAutoGroupConfig": { "ruleName": "none" },
+    "chartStyles": { "variancePin": "square", "showDataLabel": true, "isBarOverlap": false },
+    "autoFitOptions": { "autoFit": false, "lockColumnWidth": false, "wrapCols": false, "uniformColumnWidth": { "enabled": false, "width": null } },
     "readViewConfig": {
-      "home": {
-        "navigation": true,
-        "alignment": true,
-        "style": true,
-        "number": true,
-        "chart": true,
-        "analyze": true,
-        "notes": true,
-        "setup": true,
-        "manage": true
-      },
+      "home": { "navigation": true, "alignment": true, "style": true, "number": true, "chart": true, "analyze": true, "notes": true, "setup": true, "manage": true },
       "advanced": {
         "pagelayout": false,
         "compare": false,
@@ -1476,159 +1042,35 @@
         "variables": false,
         "bulkEdit": false
       },
-      "export": {
-        "pdf": true,
-        "excel": true,
-        "visual": true,
-        "copyToClipboard": true,
-        "schedule": true,
-        "writeBack": false
-      },
-      "dataEntry": {
-        "scenario": false,
-        "audit": false,
-        "comment": false,
-        "action": false,
-        "column": false,
-        "display": false
-      },
-      "advancedTabMenu": {
-        "rowColumnConfig": true
-      },
-      "enterprise": {
-        "writeBack": true,
-        "schedule": true,
-        "layout": true,
-        "breaks": true,
-        "table": true,
-        "reportPlus": true
-      },
-      "scenario": {
-        "scenario": false,
-        "export": false,
-        "writeBack": false,
-        "analyze": false,
-        "annotate": false,
-        "monitor": false,
-        "modifiedByUser": false,
-        "actions": false
-      },
-      "snapshot": {
-        "export": true,
-        "analyze": true,
-        "compare": true
-      },
-      "forecast": {
-        "openPeriods": false,
-        "measure": false,
-        "analyze": false,
-        "style": false,
-        "insert": false,
-        "measures": false,
-        "rows": false,
-        "annotate": false,
-        "actions": false
-      },
-      "indicator": {
-        "edit": false,
-        "header": true,
-        "row": false,
-        "row_label": false
-      },
-      "infoBridge": {
-        "export": false,
-        "configure": false,
-        "import": false
-      },
-      "buttonVariablesFloatingView": {
-        "variables": {},
-        "showOnReadMode": true
-      }
+      "export": { "pdf": true, "excel": true, "visual": true, "copyToClipboard": true, "schedule": true, "writeBack": false },
+      "dataEntry": { "scenario": false, "audit": false, "comment": false, "action": false, "column": false, "display": false },
+      "advancedTabMenu": { "rowColumnConfig": true },
+      "enterprise": { "writeBack": true, "schedule": true, "layout": true, "breaks": true, "table": true, "reportPlus": true },
+      "scenario": { "scenario": false, "export": false, "writeBack": false, "analyze": false, "annotate": false, "monitor": false, "modifiedByUser": false, "actions": false },
+      "snapshot": { "export": true, "analyze": true, "compare": true },
+      "forecast": { "openPeriods": false, "measure": false, "analyze": false, "style": false, "insert": false, "measures": false, "rows": false, "annotate": false, "actions": false },
+      "indicator": { "edit": false, "header": true, "row": false, "row_label": false },
+      "infoBridge": { "export": false, "configure": false, "import": false },
+      "buttonVariablesFloatingView": { "variables": {}, "showOnReadMode": true }
     },
-    "totalCustomTitle": {
-      "grandTotalTitle": "All",
-      "columnGrandTotalTitle": "Grand Total",
-      "totalColumnSuffix": "Total",
-      "steppedSubTotalTitle": "none",
-      "steppedSubTotalText": "Total",
-      "splitTotalRowSuffix": "Total",
-      "columnSubTotalTitle": "none"
-    },
-    "scaleDelta": {
-      "height": 0,
-      "width": 0,
-      "scale": 1
-    },
+    "totalCustomTitle": { "grandTotalTitle": "All", "columnGrandTotalTitle": "Grand Total", "totalColumnSuffix": "Total", "steppedSubTotalTitle": "none", "steppedSubTotalText": "Total", "splitTotalRowSuffix": "Total", "columnSubTotalTitle": "none" },
+    "scaleDelta": { "height": 0, "width": 0, "scale": 1 },
     "hideRowChildren": [],
     "hideExpandLevel": {},
-    "commentSettings": {
-      "rowLevelComments": true,
-      "expandRowLevelComments": false,
-      "rollUpComments": true
-    },
-    "rulerMeta": {
-      "width": 20,
-      "showNumbers": false
-    },
-    "commonRunTimeProps": {
-      "showBrokenImage": false
-    },
-    "hideHeader": {
-      "hierarchyHeader": false,
-      "separator": " - "
-    },
+    "commentSettings": { "rowLevelComments": true, "expandRowLevelComments": false, "rollUpComments": true },
+    "rulerMeta": { "width": 20, "showNumbers": false },
+    "commonRunTimeProps": { "showBrokenImage": false },
+    "hideHeader": { "hierarchyHeader": false, "separator": " - " },
     "measureAttributes": {},
-    "powerBiTheme": {
-      "isHighContrast": false,
-      "foreground": null,
-      "background": null,
-      "foregroundSelected": null,
-      "hyperlink": null,
-      "themeType": null,
-      "negative": "#D64554",
-      "positive": "#1AAB40",
-      "neutral": "#D9B300"
-    },
-    "quickFilter": {
-      "rules": [],
-      "combinator": "and",
-      "not": false
-    },
-    "selectionDataNote": {
-      "enable": true,
-      "aggregateOption": {
-        "sum": true,
-        "avg": true,
-        "min": false,
-        "max": false,
-        "count": true
-      }
-    },
-    "currentThemeType": {
-      "themeType": "trafficlights"
-    },
+    "powerBiTheme": { "isHighContrast": false, "foreground": null, "background": null, "foregroundSelected": null, "hyperlink": null, "themeType": null, "negative": "#D64554", "positive": "#1AAB40", "neutral": "#D9B300" },
+    "quickFilter": { "rules": [], "combinator": "and", "not": false },
+    "selectionDataNote": { "enable": true, "aggregateOption": { "sum": true, "avg": true, "min": false, "max": false, "count": true } },
+    "currentThemeType": { "themeType": "trafficlights" },
     "enableMeasureInRows": false,
     "enableMeasureInCols": false,
-    "quickAccessIcons": {
-      "exportExcel": true,
-      "undo": true,
-      "bestFit": false,
-      "redo": true,
-      "writeback": true,
-      "smartAnalysis": false,
-      "exportPdf": false,
-      "rails": true,
-      "reset": true,
-      "aggregation": false,
-      "crossFilter": false
-    },
+    "quickAccessIcons": { "exportExcel": true, "undo": true, "bestFit": false, "redo": true, "writeback": true, "smartAnalysis": false, "exportPdf": false, "rails": true, "reset": true, "aggregation": false, "crossFilter": false },
     "columnHierarchyHeader": {},
-    "customColumnCategory": {
-      "enable": false,
-      "categoryItemCount": 12,
-      "prefix": "Category Item ",
-      "suffix": ""
-    },
+    "customColumnCategory": { "enable": false, "categoryItemCount": 12, "prefix": "Category Item ", "suffix": "" },
     "showSubtotalLevels": {},
     "customInputColumn": {
       "CALC_17283807321349190": {
@@ -1636,79 +1078,45 @@
         "title": "Person",
         "type": "PERSON_COLUMN",
         "description": "",
-        "meta": {
-          "range": {
-            "from": 0,
-            "to": 100
-          },
-          "aggregationType": "sum",
-          "selectedOptions": {}
-        },
+        "meta": { "range": { "from": 0, "to": 100 }, "aggregationType": "sum", "selectedOptions": {} },
         "columnId": "46453",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
+        "accessControl": { "read": [], "write": [] },
         "createdBy": "91",
         "createdByUser": "Abisha Francis",
         "createdByUserEmail": "AbishaF@lumel.com",
         "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
       },
       "CALC_17283807231699180": {
         "id": "CALC_17283807231699180",
         "title": "Date",
         "type": "DATE_COLUMN",
         "description": "",
-        "meta": {
-          "date": null,
-          "format": "DEFAULT_LOCALE",
-          "selectedOptions": {}
-        },
+        "meta": { "date": null, "format": "DEFAULT_LOCALE", "selectedOptions": {} },
         "columnId": "46452",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
+        "accessControl": { "read": [], "write": [] },
         "createdBy": "91",
         "createdByUser": "Abisha Francis",
         "createdByUserEmail": "AbishaF@lumel.com",
         "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
       },
       "CALC_17283807115343633": {
         "id": "CALC_17283807115343633",
         "title": "Check Box",
         "type": "CHECK_BOX",
         "description": "",
-        "meta": {
-          "selectedOptions": {}
-        },
+        "meta": { "selectedOptions": {} },
         "columnId": "46450",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
+        "accessControl": { "read": [], "write": [] },
         "createdBy": "91",
         "createdByUser": "Abisha Francis",
         "createdByUserEmail": "AbishaF@lumel.com",
         "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
       },
       "CALC_17283806991419565": {
         "id": "CALC_17283806991419565",
@@ -1718,45 +1126,14 @@
         "meta": {
           "isMultiSelect": true,
           "options": [
-            {
-              "displayName": "Option 1",
-              "value": "custom_select_Dws1xEzp",
-              "color": "#9CD740",
-              "icon": "circle-fill",
-              "order": 1
-            },
-            {
-              "displayName": "Option 2",
-              "value": "custom_select_Z9sMvyGG",
-              "color": "#FF8A00",
-              "icon": "circle-fill",
-              "order": 2
-            },
-            {
-              "displayName": "Option 3",
-              "value": "custom_select_6JSRaDU4",
-              "color": "#FF000A",
-              "icon": "circle-fill",
-              "order": 3
-            }
+            { "displayName": "Option 1", "value": "custom_select_Dws1xEzp", "color": "#9CD740", "icon": "circle-fill", "order": 1 },
+            { "displayName": "Option 2", "value": "custom_select_Z9sMvyGG", "color": "#FF8A00", "icon": "circle-fill", "order": 2 },
+            { "displayName": "Option 3", "value": "custom_select_6JSRaDU4", "color": "#FF000A", "icon": "circle-fill", "order": 3 }
           ],
           "position": "left",
           "shouldAddNewOptions": false,
           "linkedColumn": {},
-          "linkedDataset": {
-            "workspaceId": "",
-            "datasetId": "",
-            "optionDetails": {
-              "tableName": "",
-              "optionColumnName": "",
-              "optionColumnID": ""
-            },
-            "isJoin": false,
-            "joins": [],
-            "filterColumnDetail": {
-              "filterColumnsMapping": {}
-            }
-          },
+          "linkedDataset": { "workspaceId": "", "datasetId": "", "optionDetails": { "tableName": "", "optionColumnName": "", "optionColumnID": "" }, "isJoin": false, "joins": [], "filterColumnDetail": { "filterColumnsMapping": {} } },
           "linkedHelperVisual": {},
           "optionStyle": "chip",
           "schedule": {},
@@ -1764,20 +1141,13 @@
           "selectedOptions": {}
         },
         "columnId": "46448",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
+        "accessControl": { "read": [], "write": [] },
         "createdBy": "91",
         "createdByUser": "Abisha Francis",
         "createdByUserEmail": "AbishaF@lumel.com",
         "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
       },
       "CALC_17283806878314781": {
         "id": "CALC_17283806878314781",
@@ -1787,45 +1157,14 @@
         "meta": {
           "isMultiSelect": false,
           "options": [
-            {
-              "displayName": "Option 1",
-              "value": "custom_select_5l8VwQtT",
-              "color": "#9CD740",
-              "icon": "circle-fill",
-              "order": 1
-            },
-            {
-              "displayName": "Option 2",
-              "value": "custom_select_CYfNhvXI",
-              "color": "#FF8A00",
-              "icon": "circle-fill",
-              "order": 2
-            },
-            {
-              "displayName": "Option 3",
-              "value": "custom_select_wjuHeGhi",
-              "color": "#FF000A",
-              "icon": "circle-fill",
-              "order": 3
-            }
+            { "displayName": "Option 1", "value": "custom_select_5l8VwQtT", "color": "#9CD740", "icon": "circle-fill", "order": 1 },
+            { "displayName": "Option 2", "value": "custom_select_CYfNhvXI", "color": "#FF8A00", "icon": "circle-fill", "order": 2 },
+            { "displayName": "Option 3", "value": "custom_select_wjuHeGhi", "color": "#FF000A", "icon": "circle-fill", "order": 3 }
           ],
           "position": "left",
           "shouldAddNewOptions": false,
           "linkedColumn": {},
-          "linkedDataset": {
-            "workspaceId": "",
-            "datasetId": "",
-            "optionDetails": {
-              "tableName": "",
-              "optionColumnName": "",
-              "optionColumnID": ""
-            },
-            "isJoin": false,
-            "joins": [],
-            "filterColumnDetail": {
-              "filterColumnsMapping": {}
-            }
-          },
+          "linkedDataset": { "workspaceId": "", "datasetId": "", "optionDetails": { "tableName": "", "optionColumnName": "", "optionColumnID": "" }, "isJoin": false, "joins": [], "filterColumnDetail": { "filterColumnsMapping": {} } },
           "linkedHelperVisual": {},
           "optionStyle": "chip",
           "schedule": {},
@@ -1833,199 +1172,94 @@
           "selectedOptions": {}
         },
         "columnId": "46447",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
+        "accessControl": { "read": [], "write": [] },
         "createdBy": "91",
         "createdByUser": "Abisha Francis",
         "createdByUserEmail": "AbishaF@lumel.com",
         "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
       },
       "CALC_17283806776903285": {
         "id": "CALC_17283806776903285",
         "title": "Text",
         "type": "TEXT_COLUMN",
         "description": "",
-        "meta": {
-          "characterLimit": "",
-          "fieldValidation": {
-            "type": "Any Value"
-          },
-          "textLength": {},
-          "selectedOptions": {}
-        },
+        "meta": { "characterLimit": "", "fieldValidation": { "type": "Any Value" }, "textLength": {}, "selectedOptions": {} },
         "columnId": "46446",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
+        "accessControl": { "read": [], "write": [] },
         "createdBy": "91",
         "createdByUser": "Abisha Francis",
         "createdByUserEmail": "AbishaF@lumel.com",
         "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
       },
       "CALC_17283806680021914": {
         "id": "CALC_17283806680021914",
         "title": "Number",
         "type": "NUMBER_COLUMN",
         "description": "",
-        "meta": {
-          "range": {
-            "from": 0,
-            "to": 100
-          },
-          "aggregationType": "sum",
-          "selectedOptions": {}
-        },
+        "meta": { "range": { "from": 0, "to": 100 }, "aggregationType": "sum", "selectedOptions": {} },
         "columnId": "46445",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
+        "accessControl": { "read": [], "write": [] },
         "createdBy": "91",
         "createdByUser": "Abisha Francis",
         "createdByUserEmail": "AbishaF@lumel.com",
         "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
       },
       "CALC_17283806455119294": {
         "id": "CALC_17283806455119294",
         "title": "Number empty",
         "type": "NUMBER_COLUMN",
         "description": "",
-        "meta": {
-          "range": {
-            "from": 0,
-            "to": 100
-          },
-          "aggregationType": "sum",
-          "selectedOptions": {}
-        },
+        "meta": { "range": { "from": 0, "to": 100 }, "aggregationType": "sum", "selectedOptions": {} },
         "columnId": "46443",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
+        "accessControl": { "read": [], "write": [] },
         "createdBy": "91",
         "createdByUser": "Abisha Francis",
         "createdByUserEmail": "AbishaF@lumel.com",
         "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
+        "forecastAllowedUserPermissions": { "10": true },
+        "forecastPermission": { "10": [] }
       }
     },
     "storedColumnTooltip": false,
     "diagnose": false,
-    "viewConfig": {
-      "views": [],
-      "selectedView": null,
-      "showViewSwitcher": true
-    },
+    "viewConfig": { "views": [], "selectedView": null, "showViewSwitcher": true },
     "repeatLevelLabels": {},
     "hideEmptyCols": true,
     "hideEmptyCalculatedCols": false,
-    "columnAsTable": {
-      "dimensionId": null
-    },
+    "columnAsTable": { "dimensionId": null },
     "contextMenu": true,
     "emptyRows": {},
     "breakRows": {},
-    "toastSettings": {
-      "disableToasts": false
-    },
+    "toastSettings": { "disableToasts": false },
     "dataReductionRowCount": 2000,
     "dataReductionColCount": 15,
-    "dataReductionSettings": {
-      "userOverride": false
-    },
-    "scenarioSettings": {
-      "showAllScenarios": false,
-      "showScenarioTabs": false,
-      "compareScenarioProps": {
-        "selectedScenarios": [],
-        "selectedMeasure": ""
-      },
-      "defaultScenario": "default_scenario"
-    },
-    "simulationSettings": {
-      "varianceSettings": [],
-      "showVariance": true,
-      "showSimulation": true
-    },
-    "version": {
-      "columnAsMeasure": false,
-      "level": 0
-    },
+    "dataReductionSettings": { "userOverride": false },
+    "scenarioSettings": { "showAllScenarios": false, "showScenarioTabs": false, "compareScenarioProps": { "selectedScenarios": [], "selectedMeasure": "" }, "defaultScenario": "default_scenario" },
+    "simulationSettings": { "varianceSettings": [], "showVariance": true, "showSimulation": true },
+    "version": { "columnAsMeasure": false, "level": 0 },
     "writebackColumnMapping": {
-      "formValues": {
-        "datasetId": "",
-        "workspaceId": "",
-        "datasetTableName": "",
-        "datasetKeyColumnName": "",
-        "renamedWBIdColumn": "",
-        "mappingColumns": [
-          {
-            "datasetColumnName": "",
-            "writebackColumnName": ""
-          }
-        ]
-      },
-      "formErrors": {
-        "datasetId": "",
-        "datasetTableName": "",
-        "datasetKeyColumnName": "",
-        "renamedWBIdColumn": "",
-        "mappingColumns": [
-          null
-        ]
-      },
+      "formValues": { "datasetId": "", "workspaceId": "", "datasetTableName": "", "datasetKeyColumnName": "", "renamedWBIdColumn": "", "mappingColumns": [{ "datasetColumnName": "", "writebackColumnName": "" }] },
+      "formErrors": { "datasetId": "", "datasetTableName": "", "datasetKeyColumnName": "", "renamedWBIdColumn": "", "mappingColumns": [null] },
       "columnMappingError": null,
       "openAdditionColumnModal": false,
       "modalTitle": "Additional Column Configuration",
       "datasetLoading": false,
       "showDatasetDropdown": false,
       "isSubmitting": false,
-      "warning": {
-        "title": "Additional Column Configuration",
-        "message": "",
-        "show": false
-      },
+      "warning": { "title": "Additional Column Configuration", "message": "", "show": false },
       "keyColumnsForAllAdditionalColumns": [],
       "additionalColumnMappings": [],
       "openDateAdditionalColumnModal": false,
-      "dateFormValues": {
-        "dateKeyColumnName": "",
-        "defaultYear": "2024",
-        "isCurrentYear": true
-      }
+      "dateFormValues": { "dateKeyColumnName": "", "defaultYear": "2024", "isCurrentYear": true }
     },
     "rollupNotes": true,
-    "annotateMarker": {
-      "toggle": false,
-      "markerData": null
-    },
+    "annotateMarker": { "toggle": false, "markerData": null },
     "fiscalMonth": 0,
     "visualSettings": {
       "id": "17240",
@@ -2049,161 +1283,39 @@
           }
         ],
         "columns": [
-          {
-            "alias": "Year",
-            "name": "Year",
-            "isTimeInterval": true,
-            "values": [
-              "2014"
-            ],
-            "timeIntervalUnit": "YEAR",
-            "level": 0,
-            "id": "Orders.Order Date.Variation.Date Hierarchy.Year"
-          },
-          {
-            "alias": "Quarter",
-            "name": "Quarter",
-            "isTimeInterval": true,
-            "values": [
-              "Qtr 1",
-              "Qtr 2",
-              "Qtr 3",
-              "Qtr 4"
-            ],
-            "timeIntervalUnit": "QUARTER",
-            "level": 1,
-            "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter"
-          }
+          { "alias": "Year", "name": "Year", "isTimeInterval": true, "values": ["2014"], "timeIntervalUnit": "YEAR", "level": 0, "id": "Orders.Order Date.Variation.Date Hierarchy.Year" },
+          { "alias": "Quarter", "name": "Quarter", "isTimeInterval": true, "values": ["Qtr 1", "Qtr 2", "Qtr 3", "Qtr 4"], "timeIntervalUnit": "QUARTER", "level": 1, "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter" }
         ],
         "rows": [
-          {
-            "alias": "Country",
-            "name": "Country",
-            "timeIntervalUnit": null,
-            "level": 0,
-            "isTimeInterval": false,
-            "id": "Orders.Country"
-          },
-          {
-            "alias": "Sub-Category",
-            "name": "Sub-Category",
-            "timeIntervalUnit": null,
-            "level": 1,
-            "isTimeInterval": false,
-            "id": "Orders.Sub-Category"
-          }
+          { "alias": "Country", "name": "Country", "timeIntervalUnit": null, "level": 0, "isTimeInterval": false, "id": "Orders.Country" },
+          { "alias": "Sub-Category", "name": "Sub-Category", "timeIntervalUnit": null, "level": 1, "isTimeInterval": false, "id": "Orders.Sub-Category" }
         ],
         "columnHierarchy": [
-          {
-            "id": "2014",
-            "label": "2014",
-            "level": 0,
-            "path": "2014",
-            "date": "2014-01-01T00:00:00+05:30"
-          },
-          {
-            "id": "2014__Qtr__1__UXRyJTIwMQ__",
-            "label": "Qtr 1",
-            "level": 1,
-            "path": "2014|Qtr 1",
-            "date": "2014-01-01T00:00:00+05:30"
-          },
-          {
-            "id": "2014__Qtr__2__UXRyJTIwMg__",
-            "label": "Qtr 2",
-            "level": 1,
-            "path": "2014|Qtr 2",
-            "date": "2014-04-01T00:00:00+05:30"
-          },
-          {
-            "id": "2014__Qtr__3__UXRyJTIwMw__",
-            "label": "Qtr 3",
-            "level": 1,
-            "path": "2014|Qtr 3",
-            "date": "2014-07-01T00:00:00+05:30"
-          },
-          {
-            "id": "2014__Qtr__4__UXRyJTIwNA__",
-            "label": "Qtr 4",
-            "level": 1,
-            "path": "2014|Qtr 4",
-            "date": "2014-10-01T00:00:00+05:30"
-          }
+          { "id": "2014", "label": "2014", "level": 0, "path": "2014", "date": "2014-01-01T00:00:00+05:30" },
+          { "id": "2014__Qtr__1__UXRyJTIwMQ__", "label": "Qtr 1", "level": 1, "path": "2014|Qtr 1", "date": "2014-01-01T00:00:00+05:30" },
+          { "id": "2014__Qtr__2__UXRyJTIwMg__", "label": "Qtr 2", "level": 1, "path": "2014|Qtr 2", "date": "2014-04-01T00:00:00+05:30" },
+          { "id": "2014__Qtr__3__UXRyJTIwMw__", "label": "Qtr 3", "level": 1, "path": "2014|Qtr 3", "date": "2014-07-01T00:00:00+05:30" },
+          { "id": "2014__Qtr__4__UXRyJTIwNA__", "label": "Qtr 4", "level": 1, "path": "2014|Qtr 4", "date": "2014-10-01T00:00:00+05:30" }
         ],
         "visualSignature": {
           "dimensions": [
-            {
-              "id": "Orders.Country",
-              "name": "Country",
-              "dataType": "TEXT"
-            },
-            {
-              "id": "Orders.Sub-Category",
-              "name": "Sub-Category",
-              "dataType": "TEXT"
-            },
-            {
-              "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
-              "name": "Year",
-              "dataType": "NUMERIC"
-            },
-            {
-              "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
-              "name": "Quarter",
-              "dataType": "TEXT"
-            }
+            { "id": "Orders.Country", "name": "Country", "dataType": "TEXT" },
+            { "id": "Orders.Sub-Category", "name": "Sub-Category", "dataType": "TEXT" },
+            { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year", "dataType": "NUMERIC" },
+            { "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter", "name": "Quarter", "dataType": "TEXT" }
           ],
           "dimensionHash": "43a85e1e3cb3ac3784b434f6e98ded5f",
           "measures": [
-            {
-              "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
-              "name": "Sum of Sales",
-              "dataType": "NUMERIC"
-            },
-            {
-              "id": "CALC_17283806455119294",
-              "name": "Number empty",
-              "dataType": "NUMERIC"
-            },
-            {
-              "id": "CALC_17283806680021914",
-              "name": "Number",
-              "dataType": "NUMERIC"
-            },
-            {
-              "id": "CALC_17283806776903285",
-              "name": "Text",
-              "dataType": "TEXT"
-            },
-            {
-              "id": "CALC_17283806878314781",
-              "name": "Single Select",
-              "dataType": "OPTIONS"
-            },
-            {
-              "id": "CALC_17283806991419565",
-              "name": "Multi Select",
-              "dataType": "MULTI_SELECT"
-            },
-            {
-              "id": "CALC_17283807115343633",
-              "name": "Check Box",
-              "dataType": "CHECK_BOX"
-            },
-            {
-              "id": "CALC_17283807231699180",
-              "name": "Date",
-              "dataType": "DATE"
-            },
-            {
-              "id": "CALC_17283807321349190",
-              "name": "Person",
-              "dataType": "PERSON"
-            },
-            {
-              "name": "Comments",
-              "dataType": "TEXT"
-            }
+            { "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__", "name": "Sum of Sales", "dataType": "NUMERIC" },
+            { "id": "CALC_17283806455119294", "name": "Number empty", "dataType": "NUMERIC" },
+            { "id": "CALC_17283806680021914", "name": "Number", "dataType": "NUMERIC" },
+            { "id": "CALC_17283806776903285", "name": "Text", "dataType": "TEXT" },
+            { "id": "CALC_17283806878314781", "name": "Single Select", "dataType": "OPTIONS" },
+            { "id": "CALC_17283806991419565", "name": "Multi Select", "dataType": "MULTI_SELECT" },
+            { "id": "CALC_17283807115343633", "name": "Check Box", "dataType": "CHECK_BOX" },
+            { "id": "CALC_17283807231699180", "name": "Date", "dataType": "DATE" },
+            { "id": "CALC_17283807321349190", "name": "Person", "dataType": "PERSON" },
+            { "name": "Comments", "dataType": "TEXT" }
           ],
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
@@ -2211,22 +1323,10 @@
           "reportDisplayName": " by Year, Quarter"
         },
         "includedIdDimensions": [
-          {
-            "id": "Orders.Country",
-            "name": "Country"
-          },
-          {
-            "id": "Orders.Sub-Category",
-            "name": "Sub-Category"
-          },
-          {
-            "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
-            "name": "Year"
-          },
-          {
-            "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
-            "name": "Quarter"
-          }
+          { "id": "Orders.Country", "name": "Country" },
+          { "id": "Orders.Sub-Category", "name": "Sub-Category" },
+          { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "name": "Year" },
+          { "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter", "name": "Quarter" }
         ],
         "dimensionIdMapping": [],
         "isFilterContextEnabled": 20,
@@ -2250,61 +1350,31 @@
       "reportAssetId": "914",
       "mdeSettings": {},
       "visualIdentifier": "inforiver_JGIBDFOILMCIDEC",
-      "languages": {
-        "GERMAN": "de-DE",
-        "FRENCH": "fr-FR",
-        "SPANISH": "es-ES"
-      },
+      "languages": { "GERMAN": "de-DE", "FRENCH": "fr-FR", "SPANISH": "es-ES" },
       "filterContextMapping": {}
     },
     "calculatedColHier": [],
     "timeDimensionMeta": {
-      "Orders.Order Date.Variation.Date Hierarchy.Year": {
-        "pattern": "$YYYY$",
-        "timeIntervalUnitType": "YEAR"
-      },
-      "Orders.Order Date.Variation.Date Hierarchy.Quarter": {
-        "pattern": "Qtr $Q$",
-        "timeIntervalUnitType": "QUARTER"
-      }
+      "Orders.Order Date.Variation.Date Hierarchy.Year": { "pattern": "$YYYY$", "timeIntervalUnitType": "YEAR" },
+      "Orders.Order Date.Variation.Date Hierarchy.Quarter": { "pattern": "Qtr $Q$", "timeIntervalUnitType": "QUARTER" }
     },
-    "timeExtension": {
-      "enabled": false,
-      "start": null,
-      "end": null
-    },
+    "timeExtension": { "enabled": false, "start": null, "end": null },
     "prefixNullWithUnit": true,
     "rowAggregation": {},
     "rowTotalCellAggregation": {},
     "columnTotalCellAggregation": {},
     "highLightInvertRows": false,
-    "highlightTopNRows": {
-      "highlight": false,
-      "color": {
-        "border": "#5db0d7",
-        "backGround": "#5db0d742"
-      }
-    },
+    "highlightTopNRows": { "highlight": false, "color": { "border": "#5db0d7", "backGround": "#5db0d742" } },
     "showInfoRiverLogo": true,
     "allowNativeCellEdit": false,
     "calculatedVariables": {},
-    "formFieldsVariables": {
-      "variables": [],
-      "onLoadFormula": "",
-      "onDataChangeFormula": ""
-    },
+    "formFieldsVariables": { "variables": [], "onLoadFormula": "", "onDataChangeFormula": "" },
     "filterList": [],
     "customIcons": [],
     "scrollThickness": false,
     "dynamicRowScale": {},
-    "reportSummaryNote": {
-      "annotationValue": null
-    },
-    "customDateFormat": {
-      "isCustomDateFormat": false,
-      "categories": [],
-      "newCategories": {}
-    },
+    "reportSummaryNote": { "annotationValue": null },
+    "customDateFormat": { "isCustomDateFormat": false, "categories": [], "newCategories": {} },
     "hidePinnedRows": false,
     "skippedRows": [],
     "hiddenClosePeriod": false,
@@ -2312,62 +1382,25 @@
     "decimalPrecision": 8,
     "filterContextHash": null,
     "filterContextDimensions": [],
-    "pbiSemanticColor": {
-      "positive": "#1AAB40",
-      "negative": "#D64554",
-      "neutral": "#D9B300"
-    },
+    "pbiSemanticColor": { "positive": "#1AAB40", "negative": "#D64554", "neutral": "#D9B300" },
     "stickedMeasures": [],
-    "compareSnapshotConfig": {
-      "baseSnapshotId": "",
-      "comparingSnapshotId": "",
-      "configId": ""
-    },
+    "compareSnapshotConfig": { "baseSnapshotId": "", "comparingSnapshotId": "", "configId": "" },
     "globalScript": [],
     "disableCrossFilter": false,
     "contextNotes": {},
     "filterContextHashMap": {},
-    "filterContextSettings": {
-      "isNoteFilterContext": true,
-      "isNoteColumnFilterContext": true,
-      "isCommentFilterContext": true,
-      "isCommentColumnFilterContext": true,
-      "filterContextStatus": null
-    },
-    "matrixCanvasRuntime": {
-      "canvasRendererEnabled": false,
-      "enableTestAutomation": false
-    },
+    "filterContextSettings": { "isNoteFilterContext": true, "isNoteColumnFilterContext": true, "isCommentFilterContext": true, "isCommentColumnFilterContext": true, "filterContextStatus": null },
+    "matrixCanvasRuntime": { "canvasRendererEnabled": false, "enableTestAutomation": false },
     "hideBlankColumns": false,
     "scenarioExtras": {},
     "enableDrilldown": false,
-    "performanceModeConfig": {
-      "isNotShowPopupAgain": false
-    },
+    "performanceModeConfig": { "isNotShowPopupAgain": false },
     "groupVariables": {
       "groupStyle": "tab",
       "groupVariablesOptions": [
-        {
-          "displayName": "Scenario 1",
-          "value": "GROUP_VARIABLE_1",
-          "order": 1,
-          "icon": "circle-fill",
-          "imageType": "icon"
-        },
-        {
-          "displayName": "Scenario 2",
-          "value": "GROUP_VARIABLE_2",
-          "order": 2,
-          "icon": "circle-fill",
-          "imageType": "icon"
-        },
-        {
-          "displayName": "Scenario 3",
-          "value": "GROUP_VARIABLE_3",
-          "order": 3,
-          "icon": "circle-fill",
-          "imageType": "icon"
-        }
+        { "displayName": "Scenario 1", "value": "GROUP_VARIABLE_1", "order": 1, "icon": "circle-fill", "imageType": "icon" },
+        { "displayName": "Scenario 2", "value": "GROUP_VARIABLE_2", "order": 2, "icon": "circle-fill", "imageType": "icon" },
+        { "displayName": "Scenario 3", "value": "GROUP_VARIABLE_3", "order": 3, "icon": "circle-fill", "imageType": "icon" }
       ],
       "groupFormula": "",
       "groupDimensions": [],
@@ -2379,23 +1412,13 @@
       "showLabel": true
     },
     "globalVariables": [],
-    "activeGroupVariable": {
-      "activeGroup": "GROUP_VARIABLE_1",
-      "isGroupEnabled": false
-    },
+    "activeGroupVariable": { "activeGroup": "GROUP_VARIABLE_1", "isGroupEnabled": false },
     "showMeasureTextLabel": true,
     "customCells": [],
-    "subTotals": {
-      "rowSubtotals": true,
-      "columnSubtotals": true
-    },
+    "subTotals": { "rowSubtotals": true, "columnSubtotals": true },
     "hideBlankLabel": false,
     "skippedRowDimensions": [],
-    "timeSort": {
-      "isRowTimeSort": true,
-      "isColumnTimeSort": true,
-      "isRowSortApplied": false
-    },
+    "timeSort": { "isRowTimeSort": true, "isColumnTimeSort": true, "isRowSortApplied": false },
     "emptyColumnConfigs": [],
     "controlsConfig": {
       "panelWidth": 300,
@@ -2408,22 +1431,9 @@
           {
             "type": "GLOBAL_CONTROL_ELEMENT",
             "id": "controls-panel-id",
-            "position": {
-              "top": 0,
-              "left": 0
-            },
-            "dimension": {
-              "width": "150",
-              "height": "30"
-            },
-            "layout": {
-              "x": 0,
-              "y": 0,
-              "w": 64,
-              "h": 3,
-              "i": "controls-panel-id",
-              "static": false
-            },
+            "position": { "top": 0, "left": 0 },
+            "dimension": { "width": "150", "height": "30" },
+            "layout": { "x": 0, "y": 0, "w": 64, "h": 3, "i": "controls-panel-id", "static": false },
             "content": "",
             "verticalAlign": "TOP",
             "align": "center",
@@ -2444,25 +1454,13 @@
         "containerPosition": "right",
         "layout": "controls-panel-id"
       },
-      "controlsPanelAppearances": {
-        "fillColor": "#ffffff",
-        "shadow": 1,
-        "border": 1,
-        "ruler": false,
-        "top": 0,
-        "bottom": 0,
-        "left": 0,
-        "right": 0
-      }
+      "controlsPanelAppearances": { "fillColor": "#ffffff", "shadow": 1, "border": 1, "ruler": false, "top": 0, "bottom": 0, "left": 0, "right": 0 }
     },
     "unhiddenSkipRows": [],
     "hideMeasures": {},
     "canvasColumnFilter": false,
     "replaceActualWithForecast": false,
-    "insertRowsConfig": {
-      "rowsTypeConfig": [],
-      "allowInReadMode": true
-    },
+    "insertRowsConfig": { "rowsTypeConfig": [], "allowInReadMode": true },
     "language": "en-US",
     "allowColumnReorder": true,
     "measureColAggMap": {
@@ -2481,103 +1479,38 @@
     "replaceForecastWithPYorPL": "none",
     "scalingInMeasureHeader": false,
     "nullSuppressMeasures": [],
-    "pivot": [
-      {
-        "id": "default_pivot",
-        "name": "All",
-        "isHidden": false,
-        "rowDimensions": []
-      }
-    ],
-    "pivotExplorer": {
-      "showPivotExplorer": false,
-      "activePivot": null
-    },
-    "fieldParamGroupConfig": {
-      "activeGroup": "",
-      "groups": {},
-      "defaultLabel": "",
-      "isFieldParamGroupEnabled": false
-    },
+    "pivot": [{ "id": "default_pivot", "name": "All", "isHidden": false, "rowDimensions": [] }],
+    "pivotExplorer": { "showPivotExplorer": false, "activePivot": null },
+    "fieldParamGroupConfig": { "activeGroup": "", "groups": {}, "defaultLabel": "", "isFieldParamGroupEnabled": false },
     "localizationVariables": {},
     "hideRepeatingRows": false,
-    "adjustments": {
-      "enableAdjustments": true
-    },
-    "forecastTimeFilter": {
-      "isFilterActive": false,
-      "startDate": null,
-      "endDate": null
-    },
+    "adjustments": { "enableAdjustments": true },
+    "forecastTimeFilter": { "isFilterActive": false, "startDate": null, "endDate": null },
     "groupExpandCollapseIcon": false
   },
   "csvOptions": {
-    "rows": [
-      "Orders.Country",
-      "Orders.Sub-Category"
-    ],
-    "columns": [
-      "Orders.Order Date.Variation.Date Hierarchy.Year",
-      "Orders.Order Date.Variation.Date Hierarchy.Quarter"
-    ],
+    "rows": ["Orders.Country", "Orders.Sub-Category"],
+    "columns": ["Orders.Order Date.Variation.Date Hierarchy.Year", "Orders.Order Date.Variation.Date Hierarchy.Quarter"],
     "rolesMap": {},
-    "typesMap": {
-      "Orders.Country": "TEXT",
-      "Orders.Sub-Category": "TEXT",
-      "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC",
-      "Orders.Order Date.Variation.Date Hierarchy.Quarter": "TEXT",
-      "Sum(Orders.Sales)": "NUMERIC"
-    },
-    "labelMap": {
-      "Orders.Country": "Country",
-      "Orders.Sub-Category": "Sub-Category",
-      "Orders.Order Date.Variation.Date Hierarchy.Year": "Year",
-      "Orders.Order Date.Variation.Date Hierarchy.Quarter": "Quarter",
-      "Sum(Orders.Sales)": "Sum of Sales"
-    },
-    "ac_roles": [
-      "Sum(Orders.Sales)"
-    ],
+    "typesMap": { "Orders.Country": "TEXT", "Orders.Sub-Category": "TEXT", "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC", "Orders.Order Date.Variation.Date Hierarchy.Quarter": "TEXT", "Sum(Orders.Sales)": "NUMERIC" },
+    "labelMap": { "Orders.Country": "Country", "Orders.Sub-Category": "Sub-Category", "Orders.Order Date.Variation.Date Hierarchy.Year": "Year", "Orders.Order Date.Variation.Date Hierarchy.Quarter": "Quarter", "Sum(Orders.Sales)": "Sum of Sales" },
+    "ac_roles": ["Sum(Orders.Sales)"],
     "pl_roles": [],
     "py_roles": [],
     "fc_roles": [],
     "om_roles": []
   },
   "metadata": {
-    "measures": {
-      "AC": [
-        {
-          "label": "Sum of Sales",
-          "name": "Sum(Orders.Sales)",
-          "role": "AC"
-        }
-      ]
-    },
+    "measures": { "AC": [{ "label": "Sum of Sales", "name": "Sum(Orders.Sales)", "role": "AC" }] },
     "columns": [
-      {
-        "id": "Orders.Order Date.Variation.Date Hierarchy.Year",
-        "label": "Year"
-      },
-      {
-        "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter",
-        "label": "Quarter"
-      }
+      { "id": "Orders.Order Date.Variation.Date Hierarchy.Year", "label": "Year" },
+      { "id": "Orders.Order Date.Variation.Date Hierarchy.Quarter", "label": "Quarter" }
     ],
     "rows": [
-      {
-        "id": "Orders.Country",
-        "label": "Country"
-      },
-      {
-        "id": "Orders.Sub-Category",
-        "label": "Sub-Category"
-      }
+      { "id": "Orders.Country", "label": "Country" },
+      { "id": "Orders.Sub-Category", "label": "Sub-Category" }
     ]
   },
   "currentVersion": "v3.6.0.0",
-  "visual": {
-    "visualId": "EODOPKNGABPJPON",
-    "visualTemplateGuid": "FAOMHCLLNCPONOD",
-    "tenantId": "ddec66fe92e4aa2436a44c7a0c220078"
-  }
+  "visual": { "visualId": "JGIBDFOILMCIDEC", "visualTemplateGuid": "FAOMHCLLNCPONOD", "tenantId": "ddec66fe92e4aa2436a44c7a0c220078" }
 }

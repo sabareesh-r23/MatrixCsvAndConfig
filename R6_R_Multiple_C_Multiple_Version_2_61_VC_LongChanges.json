@@ -322,7 +322,7 @@
         "showScenarioVariance": true,
         "meta": null,
         "isStoredColumn": false,
-        "order": 8
+        "order": 7
       },
       {
         "id": "LAST_UPDATED_BY",
@@ -350,7 +350,7 @@
         "showScenarioVariance": true,
         "meta": null,
         "isStoredColumn": false,
-        "order": 9
+        "order": 8
       }
     ],
     "calculatedColumnMeta": {
@@ -360,8 +360,8 @@
       "rowGrandTotal": true,
       "rowGrandTotalPosition": "above",
       "rowSubTotalPosition": "above",
-      "columnGrandTotal": true,
-      "columnGrandTotalPosition": "left",
+      "columnGrandTotal": false,
+      "columnGrandTotalPosition": "clear",
       "columnSubTotalPosition": "clear",
       "summaryTotal": false,
       "rowForSubtotal": false
@@ -1003,97 +1003,79 @@
     "isInFocus": false,
     "manageMeasures": [
       {
-        "label": "Sum of Sales",
-        "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
-        "name": "Sum(Orders.Sales)",
+        "label": "Count of Row ID",
+        "id": "CountNonNull__Orders__Row__ID__Q291bnROb25OdWxsKE9yZGVycy5Sb3clMjBJRCk__",
+        "name": "CountNonNull(Orders.Row ID)",
         "order": 0,
         "visible": true,
         "measureType": "data",
         "role": "AC"
       },
       {
-        "id": "CALC_17283806455119294",
-        "label": "Number empty",
+        "id": "CALC_17283811343604054",
+        "label": "Number",
         "order": 1,
         "visible": true,
         "columnType": "NUMBER_COLUMN",
         "isStoredColumn": true,
-        "name": "CALC_17283806455119294"
+        "name": "CALC_17283811343604054"
       },
       {
-        "id": "CALC_17283806680021914",
-        "label": "Number",
-        "order": 2,
-        "visible": true,
-        "columnType": "NUMBER_COLUMN",
-        "isStoredColumn": true,
-        "name": "CALC_17283806680021914"
-      },
-      {
-        "id": "CALC_17283806776903285",
+        "id": "CALC_17283811461044948",
         "label": "Text",
-        "order": 3,
+        "order": 2,
         "visible": true,
         "columnType": "TEXT_COLUMN",
         "isStoredColumn": true,
-        "name": "CALC_17283806776903285"
+        "name": "CALC_17283811461044948"
       },
       {
-        "id": "CALC_17283806878314781",
+        "id": "CALC_17283811549141043",
         "label": "Single Select",
-        "order": 4,
+        "order": 3,
         "visible": true,
         "columnType": "OPTIONS_COLUMN",
         "isStoredColumn": true,
-        "name": "CALC_17283806878314781"
+        "name": "CALC_17283811549141043"
       },
       {
-        "id": "CALC_17283806991419565",
+        "id": "CALC_17283811630488387",
         "label": "Multi Select",
-        "order": 5,
+        "order": 4,
         "visible": true,
         "columnType": "MULTI_SELECT",
         "isStoredColumn": true,
-        "name": "CALC_17283806991419565"
+        "name": "CALC_17283811630488387"
       },
       {
-        "id": "CALC_17283807115343633",
+        "id": "CALC_17283811730476184",
         "label": "Check Box",
-        "order": 6,
+        "order": 5,
         "visible": true,
         "columnType": "CHECK_BOX",
         "isStoredColumn": true,
-        "name": "CALC_17283807115343633"
+        "name": "CALC_17283811730476184"
       },
       {
-        "id": "CALC_17283807231699180",
+        "id": "CALC_17283811843723925",
         "label": "Date",
-        "order": 7,
+        "order": 6,
         "visible": true,
         "columnType": "DATE_COLUMN",
         "isStoredColumn": true,
-        "name": "CALC_17283807231699180"
-      },
-      {
-        "id": "CALC_17283807321349190",
-        "label": "Person",
-        "order": 8,
-        "visible": true,
-        "columnType": "PERSON_COLUMN",
-        "isStoredColumn": true,
-        "name": "CALC_17283807321349190"
+        "name": "CALC_17283811843723925"
       },
       {
         "id": "LAST_UPDATED_AT",
         "label": "Last Updated At",
-        "order": 9,
+        "order": 7,
         "visible": false,
         "name": "LAST_UPDATED_AT"
       },
       {
         "id": "LAST_UPDATED_BY",
         "label": "Last Updated By",
-        "order": 10,
+        "order": 8,
         "visible": false,
         "name": "LAST_UPDATED_BY"
       }
@@ -1107,14 +1089,13 @@
     "chartTypes": {},
     "gridLineCount": 1,
     "measureAggMap": {
-      "CALC_17283806455119294": "sum",
-      "CALC_17283806680021914": "sum",
-      "CALC_17283806776903285": "sum",
-      "CALC_17283806878314781": "sum",
-      "CALC_17283806991419565": "sum",
-      "CALC_17283807115343633": "sum",
-      "CALC_17283807231699180": "sum",
-      "CALC_17283807321349190": "sum"
+      "CALC_17283811343604054": "sum",
+      "CALC_17283811461044948": "sum",
+      "CALC_17283811549141043": "sum",
+      "CALC_17283811630488387": "sum",
+      "CALC_17283811730476184": "sum",
+      "CALC_17283811843723925": "sum",
+      "CALC_17283812002699709": "sum"
     },
     "outliers": {
       "enableOutlier": false,
@@ -1399,7 +1380,8 @@
       "rowLevelTheme": {
         "0": "#118DFF",
         "1": "#12239E",
-        "2": "#E66C37"
+        "2": "#E66C37",
+        "3": "#6B007B"
       },
       "measureLevelTheme": {
         "0": "#118DFF",
@@ -1485,12 +1467,12 @@
         "writeBack": false
       },
       "dataEntry": {
-        "scenario": false,
-        "audit": false,
-        "comment": false,
-        "action": false,
-        "column": false,
-        "display": false
+        "scenario": true,
+        "audit": true,
+        "comment": true,
+        "action": true,
+        "column": true,
+        "display": true
       },
       "advancedTabMenu": {
         "rowColumnConfig": true
@@ -1631,37 +1613,8 @@
     },
     "showSubtotalLevels": {},
     "customInputColumn": {
-      "CALC_17283807321349190": {
-        "id": "CALC_17283807321349190",
-        "title": "Person",
-        "type": "PERSON_COLUMN",
-        "description": "",
-        "meta": {
-          "range": {
-            "from": 0,
-            "to": 100
-          },
-          "aggregationType": "sum",
-          "selectedOptions": {}
-        },
-        "columnId": "46453",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
-        "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
-      },
-      "CALC_17283807231699180": {
-        "id": "CALC_17283807231699180",
+      "CALC_17283811843723925": {
+        "id": "CALC_17283811843723925",
         "title": "Date",
         "type": "DATE_COLUMN",
         "description": "",
@@ -1670,7 +1623,7 @@
           "format": "DEFAULT_LOCALE",
           "selectedOptions": {}
         },
-        "columnId": "46452",
+        "columnId": "46463",
         "accessControl": {
           "read": [],
           "write": []
@@ -1686,15 +1639,15 @@
           "10": []
         }
       },
-      "CALC_17283807115343633": {
-        "id": "CALC_17283807115343633",
+      "CALC_17283811730476184": {
+        "id": "CALC_17283811730476184",
         "title": "Check Box",
         "type": "CHECK_BOX",
         "description": "",
         "meta": {
           "selectedOptions": {}
         },
-        "columnId": "46450",
+        "columnId": "46462",
         "accessControl": {
           "read": [],
           "write": []
@@ -1710,8 +1663,8 @@
           "10": []
         }
       },
-      "CALC_17283806991419565": {
-        "id": "CALC_17283806991419565",
+      "CALC_17283811630488387": {
+        "id": "CALC_17283811630488387",
         "title": "Multi Select",
         "type": "MULTI_SELECT",
         "description": "",
@@ -1720,21 +1673,21 @@
           "options": [
             {
               "displayName": "Option 1",
-              "value": "custom_select_Dws1xEzp",
+              "value": "custom_select_8FBugF8d",
               "color": "#9CD740",
               "icon": "circle-fill",
               "order": 1
             },
             {
               "displayName": "Option 2",
-              "value": "custom_select_Z9sMvyGG",
+              "value": "custom_select_L9ADyx4o",
               "color": "#FF8A00",
               "icon": "circle-fill",
               "order": 2
             },
             {
               "displayName": "Option 3",
-              "value": "custom_select_6JSRaDU4",
+              "value": "custom_select_SCgaSA5Y",
               "color": "#FF000A",
               "icon": "circle-fill",
               "order": 3
@@ -1763,7 +1716,7 @@
           "isSyncRequired": false,
           "selectedOptions": {}
         },
-        "columnId": "46448",
+        "columnId": "46461",
         "accessControl": {
           "read": [],
           "write": []
@@ -1779,8 +1732,8 @@
           "10": []
         }
       },
-      "CALC_17283806878314781": {
-        "id": "CALC_17283806878314781",
+      "CALC_17283811549141043": {
+        "id": "CALC_17283811549141043",
         "title": "Single Select",
         "type": "OPTIONS_COLUMN",
         "description": "",
@@ -1789,21 +1742,21 @@
           "options": [
             {
               "displayName": "Option 1",
-              "value": "custom_select_5l8VwQtT",
+              "value": "custom_select_g0L2CacD",
               "color": "#9CD740",
               "icon": "circle-fill",
               "order": 1
             },
             {
               "displayName": "Option 2",
-              "value": "custom_select_CYfNhvXI",
+              "value": "custom_select_qrwVcPrE",
               "color": "#FF8A00",
               "icon": "circle-fill",
               "order": 2
             },
             {
               "displayName": "Option 3",
-              "value": "custom_select_wjuHeGhi",
+              "value": "custom_select_z5Val6WN",
               "color": "#FF000A",
               "icon": "circle-fill",
               "order": 3
@@ -1832,7 +1785,7 @@
           "isSyncRequired": false,
           "selectedOptions": {}
         },
-        "columnId": "46447",
+        "columnId": "46460",
         "accessControl": {
           "read": [],
           "write": []
@@ -1848,8 +1801,8 @@
           "10": []
         }
       },
-      "CALC_17283806776903285": {
-        "id": "CALC_17283806776903285",
+      "CALC_17283811461044948": {
+        "id": "CALC_17283811461044948",
         "title": "Text",
         "type": "TEXT_COLUMN",
         "description": "",
@@ -1861,7 +1814,7 @@
           "textLength": {},
           "selectedOptions": {}
         },
-        "columnId": "46446",
+        "columnId": "46459",
         "accessControl": {
           "read": [],
           "write": []
@@ -1877,8 +1830,8 @@
           "10": []
         }
       },
-      "CALC_17283806680021914": {
-        "id": "CALC_17283806680021914",
+      "CALC_17283811343604054": {
+        "id": "CALC_17283811343604054",
         "title": "Number",
         "type": "NUMBER_COLUMN",
         "description": "",
@@ -1890,36 +1843,7 @@
           "aggregationType": "sum",
           "selectedOptions": {}
         },
-        "columnId": "46445",
-        "accessControl": {
-          "read": [],
-          "write": []
-        },
-        "createdBy": "91",
-        "createdByUser": "Abisha Francis",
-        "createdByUserEmail": "AbishaF@lumel.com",
-        "disableWriteAccess": false,
-        "forecastAllowedUserPermissions": {
-          "10": true
-        },
-        "forecastPermission": {
-          "10": []
-        }
-      },
-      "CALC_17283806455119294": {
-        "id": "CALC_17283806455119294",
-        "title": "Number empty",
-        "type": "NUMBER_COLUMN",
-        "description": "",
-        "meta": {
-          "range": {
-            "from": 0,
-            "to": 100
-          },
-          "aggregationType": "sum",
-          "selectedOptions": {}
-        },
-        "columnId": "46443",
+        "columnId": "46458",
         "accessControl": {
           "read": [],
           "write": []
@@ -2028,24 +1952,24 @@
     },
     "fiscalMonth": 0,
     "visualSettings": {
-      "id": "17240",
-      "visualGuid": "JGIBDFOILMCIDEC",
+      "id": "17244",
+      "visualGuid": "OGLHHKJONJPEEGI",
       "tenantId": "6",
       "allowComment": true,
       "allowWriteBack": true,
       "accessType": 1,
       "notification": true,
       "reportIdentifier": "e20069db-972c-442d-941b-5401bccbfe79",
-      "reportDisplayName": " by Year, Quarter",
-      "reportSection": "00aef2f476ac16d10871",
-      "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e20069db-972c-442d-941b-5401bccbfe79/00aef2f476ac16d10871?experience=power-bi",
+      "reportDisplayName": " by Country, Segment, Sub-Category",
+      "reportSection": "ba184dc842cd51d0f8f3",
+      "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e20069db-972c-442d-941b-5401bccbfe79/ba184dc842cd51d0f8f3?experience=power-bi",
       "visualMeta": {
         "product": "inforiver",
         "duplicateIdentifiers": [
           {
             "reportIdentifier": "e20069db-972c-442d-941b-5401bccbfe79",
-            "reportSection": "00aef2f476ac16d10871",
-            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e20069db-972c-442d-941b-5401bccbfe79/00aef2f476ac16d10871?experience=power-bi"
+            "reportSection": "ba184dc842cd51d0f8f3",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e20069db-972c-442d-941b-5401bccbfe79/ba184dc842cd51d0f8f3?experience=power-bi"
           }
         ],
         "columns": [
@@ -2054,7 +1978,10 @@
             "name": "Year",
             "isTimeInterval": true,
             "values": [
-              "2014"
+              "2014",
+              "2015",
+              "2016",
+              "2017"
             ],
             "timeIntervalUnit": "YEAR",
             "level": 0,
@@ -2065,10 +1992,7 @@
             "name": "Quarter",
             "isTimeInterval": true,
             "values": [
-              "Qtr 1",
-              "Qtr 2",
-              "Qtr 3",
-              "Qtr 4"
+              "Qtr 1"
             ],
             "timeIntervalUnit": "QUARTER",
             "level": 1,
@@ -2077,10 +2001,18 @@
         ],
         "rows": [
           {
+            "alias": "Segment",
+            "name": "Segment",
+            "timeIntervalUnit": null,
+            "level": 0,
+            "isTimeInterval": false,
+            "id": "Orders.Segment"
+          },
+          {
             "alias": "Country",
             "name": "Country",
             "timeIntervalUnit": null,
-            "level": 0,
+            "level": 1,
             "isTimeInterval": false,
             "id": "Orders.Country"
           },
@@ -2088,7 +2020,7 @@
             "alias": "Sub-Category",
             "name": "Sub-Category",
             "timeIntervalUnit": null,
-            "level": 1,
+            "level": 2,
             "isTimeInterval": false,
             "id": "Orders.Sub-Category"
           }
@@ -2109,29 +2041,55 @@
             "date": "2014-01-01T00:00:00+05:30"
           },
           {
-            "id": "2014__Qtr__2__UXRyJTIwMg__",
-            "label": "Qtr 2",
-            "level": 1,
-            "path": "2014|Qtr 2",
-            "date": "2014-04-01T00:00:00+05:30"
+            "id": "2015",
+            "label": "2015",
+            "level": 0,
+            "path": "2015",
+            "date": "2015-01-01T00:00:00+05:30"
           },
           {
-            "id": "2014__Qtr__3__UXRyJTIwMw__",
-            "label": "Qtr 3",
+            "id": "2015__Qtr__1__UXRyJTIwMQ__",
+            "label": "Qtr 1",
             "level": 1,
-            "path": "2014|Qtr 3",
-            "date": "2014-07-01T00:00:00+05:30"
+            "path": "2015|Qtr 1",
+            "date": "2015-01-01T00:00:00+05:30"
           },
           {
-            "id": "2014__Qtr__4__UXRyJTIwNA__",
-            "label": "Qtr 4",
+            "id": "2016",
+            "label": "2016",
+            "level": 0,
+            "path": "2016",
+            "date": "2016-01-01T00:00:00+05:30"
+          },
+          {
+            "id": "2016__Qtr__1__UXRyJTIwMQ__",
+            "label": "Qtr 1",
             "level": 1,
-            "path": "2014|Qtr 4",
-            "date": "2014-10-01T00:00:00+05:30"
+            "path": "2016|Qtr 1",
+            "date": "2016-01-01T00:00:00+05:30"
+          },
+          {
+            "id": "2017",
+            "label": "2017",
+            "level": 0,
+            "path": "2017",
+            "date": "2017-01-01T00:00:00+05:30"
+          },
+          {
+            "id": "2017__Qtr__1__UXRyJTIwMQ__",
+            "label": "Qtr 1",
+            "level": 1,
+            "path": "2017|Qtr 1",
+            "date": "2017-01-01T00:00:00+05:30"
           }
         ],
         "visualSignature": {
           "dimensions": [
+            {
+              "id": "Orders.Segment",
+              "name": "Segment",
+              "dataType": "TEXT"
+            },
             {
               "id": "Orders.Country",
               "name": "Country",
@@ -2153,52 +2111,42 @@
               "dataType": "TEXT"
             }
           ],
-          "dimensionHash": "43a85e1e3cb3ac3784b434f6e98ded5f",
+          "dimensionHash": "3703fabb0bd54b8dcc5237bd0a8b48e8",
           "measures": [
             {
-              "id": "Sum__Orders__Sales__U3VtKE9yZGVycy5TYWxlcyk__",
-              "name": "Sum of Sales",
+              "id": "CountNonNull__Orders__Row__ID__Q291bnROb25OdWxsKE9yZGVycy5Sb3clMjBJRCk__",
+              "name": "Count of Row ID",
               "dataType": "NUMERIC"
             },
             {
-              "id": "CALC_17283806455119294",
-              "name": "Number empty",
-              "dataType": "NUMERIC"
-            },
-            {
-              "id": "CALC_17283806680021914",
+              "id": "CALC_17283811343604054",
               "name": "Number",
               "dataType": "NUMERIC"
             },
             {
-              "id": "CALC_17283806776903285",
+              "id": "CALC_17283811461044948",
               "name": "Text",
               "dataType": "TEXT"
             },
             {
-              "id": "CALC_17283806878314781",
+              "id": "CALC_17283811549141043",
               "name": "Single Select",
               "dataType": "OPTIONS"
             },
             {
-              "id": "CALC_17283806991419565",
+              "id": "CALC_17283811630488387",
               "name": "Multi Select",
               "dataType": "MULTI_SELECT"
             },
             {
-              "id": "CALC_17283807115343633",
+              "id": "CALC_17283811730476184",
               "name": "Check Box",
               "dataType": "CHECK_BOX"
             },
             {
-              "id": "CALC_17283807231699180",
+              "id": "CALC_17283811843723925",
               "name": "Date",
               "dataType": "DATE"
-            },
-            {
-              "id": "CALC_17283807321349190",
-              "name": "Person",
-              "dataType": "PERSON"
             },
             {
               "name": "Comments",
@@ -2208,9 +2156,13 @@
           "hasFormulaRows": false,
           "hasCascadeFormulaMeasure": false,
           "hasNativeMeasures": true,
-          "reportDisplayName": " by Year, Quarter"
+          "reportDisplayName": " by Country, Segment, Sub-Category"
         },
         "includedIdDimensions": [
+          {
+            "id": "Orders.Segment",
+            "name": "Segment"
+          },
           {
             "id": "Orders.Country",
             "name": "Country"
@@ -2239,9 +2191,9 @@
       "scheduleStatus": null,
       "status": 10,
       "createdBy": "91",
-      "createdAt": 1728380593,
+      "createdAt": 1728381048,
       "updatedBy": "91",
-      "updatedAt": 1728380824,
+      "updatedAt": 1728381378,
       "commentVisualDestinations": [],
       "digestMailList": [],
       "digestUnsubscribedMailList": [],
@@ -2249,7 +2201,7 @@
       "snapshotScheduleStatus": null,
       "reportAssetId": "914",
       "mdeSettings": {},
-      "visualIdentifier": "inforiver_JGIBDFOILMCIDEC",
+      "visualIdentifier": "inforiver_OGLHHKJONJPEEGI",
       "languages": {
         "GERMAN": "de-DE",
         "FRENCH": "fr-FR",
@@ -2466,14 +2418,13 @@
     "language": "en-US",
     "allowColumnReorder": true,
     "measureColAggMap": {
-      "CALC_17283806455119294": "sum",
-      "CALC_17283806680021914": "sum",
-      "CALC_17283806776903285": "sum",
-      "CALC_17283806878314781": "sum",
-      "CALC_17283806991419565": "sum",
-      "CALC_17283807115343633": "sum",
-      "CALC_17283807231699180": "sum",
-      "CALC_17283807321349190": "sum"
+      "CALC_17283811343604054": "sum",
+      "CALC_17283811461044948": "sum",
+      "CALC_17283811549141043": "sum",
+      "CALC_17283811630488387": "sum",
+      "CALC_17283811730476184": "sum",
+      "CALC_17283811843723925": "sum",
+      "CALC_17283812002699709": "sum"
     },
     "rowEditPermissions": {},
     "showReadViewBookmark": false,
@@ -2513,6 +2464,7 @@
   },
   "csvOptions": {
     "rows": [
+      "Orders.Segment",
       "Orders.Country",
       "Orders.Sub-Category"
     ],
@@ -2522,21 +2474,23 @@
     ],
     "rolesMap": {},
     "typesMap": {
+      "Orders.Segment": "TEXT",
       "Orders.Country": "TEXT",
       "Orders.Sub-Category": "TEXT",
       "Orders.Order Date.Variation.Date Hierarchy.Year": "NUMERIC",
       "Orders.Order Date.Variation.Date Hierarchy.Quarter": "TEXT",
-      "Sum(Orders.Sales)": "NUMERIC"
+      "CountNonNull(Orders.Row ID)": "NUMERIC"
     },
     "labelMap": {
+      "Orders.Segment": "Segment",
       "Orders.Country": "Country",
       "Orders.Sub-Category": "Sub-Category",
       "Orders.Order Date.Variation.Date Hierarchy.Year": "Year",
       "Orders.Order Date.Variation.Date Hierarchy.Quarter": "Quarter",
-      "Sum(Orders.Sales)": "Sum of Sales"
+      "CountNonNull(Orders.Row ID)": "Count of Row ID"
     },
     "ac_roles": [
-      "Sum(Orders.Sales)"
+      "CountNonNull(Orders.Row ID)"
     ],
     "pl_roles": [],
     "py_roles": [],
@@ -2547,8 +2501,8 @@
     "measures": {
       "AC": [
         {
-          "label": "Sum of Sales",
-          "name": "Sum(Orders.Sales)",
+          "label": "Count of Row ID",
+          "name": "CountNonNull(Orders.Row ID)",
           "role": "AC"
         }
       ]
@@ -2565,6 +2519,10 @@
     ],
     "rows": [
       {
+        "id": "Orders.Segment",
+        "label": "Segment"
+      },
+      {
         "id": "Orders.Country",
         "label": "Country"
       },
@@ -2576,8 +2534,8 @@
   },
   "currentVersion": "v3.6.0.0",
   "visual": {
-    "visualId": "EODOPKNGABPJPON",
-    "visualTemplateGuid": "FAOMHCLLNCPONOD",
+    "visualId": "CJPEJILBENHAMAI",
+    "visualTemplateGuid": "ACOALALEDIPKKJN",
     "tenantId": "ddec66fe92e4aa2436a44c7a0c220078"
   }
 }
