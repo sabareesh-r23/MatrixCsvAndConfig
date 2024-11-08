@@ -311,50 +311,7 @@
             "rowForSubtotal": true,
             "freezeTotal": true
         },
-        "dynamicRowConfig": [
-            {
-                "formula": "R_Cass",
-                "type": 1,
-                "previousRowId": "Allamakee",
-                "version": 2,
-                "parentId": "Grand__Total",
-                "dimensionId": "15000.County",
-                "pcbToRow": null,
-                "isTemplateFormatting": false,
-                "disabled": false,
-                "includeToTotal": true,
-                "includeInChart": false,
-                "isStoredRow": true,
-                "enableAllocateParent": true,
-                "allocateOperation": "by_weight",
-                "spreadByRowId": null,
-                "templatePosition": "auto",
-                "enableSign": false,
-                "isAggregatedRow": false,
-                "subAggregatedToRow": null,
-                "isUpdated": true,
-                "createdByUserEmail": "KeerthikaS@lumel.com",
-                "deferredRowExcludedMeasure": null,
-                "deferredType": "DIColumn",
-                "defaultValueType": "STATIC_VALUE",
-                "defaultValue": "",
-                "rowEditMode": "inBothMode",
-                "editConditionFormula": "",
-                "scalingFactor": "auto",
-                "bind": {
-                    "enable": false,
-                    "isRowId": true,
-                    "rowId": "",
-                    "dimensionId": "",
-                    "selectionType": "row",
-                    "dimensionType": ""
-                },
-                "id": "CAL_ROW17310457523456499",
-                "sourceId": null,
-                "label": "Cal Row",
-                "parentGroupId": null
-            }
-        ],
+        "dynamicRowConfig": [],
         "enableWordWrap": true,
         "rowCellFormatting": {},
         "cfProps": {
@@ -1599,9 +1556,7 @@
                 "message": "",
                 "show": false
             },
-            "keyColumnsForAllAdditionalColumns": [
-                "r4outlinevmlongwithchanges"
-            ],
+            "keyColumnsForAllAdditionalColumns": [],
             "additionalColumnMappings": [
                 {
                     "datasetId": "cdaf6294-2430-461b-896a-444ca9885604",
@@ -1814,7 +1769,7 @@
                         }
                     ],
                     "reportDisplayName": "Sum of Sale (Dollars) by County, Year, Quarter",
-                    "hasFormulaRows": true,
+                    "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
                     "hasNativeMeasures": true
                 },
@@ -1845,13 +1800,13 @@
             "createdBy": "55",
             "createdAt": 1731045750,
             "updatedBy": "55",
-            "updatedAt": 1731045809,
+            "updatedAt": 1731046449,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
             "snapshotSchedule": {},
             "snapshotScheduleStatus": null,
-            "reportAssetId": null,
+            "reportAssetId": "1153",
             "mdeSettings": {},
             "visualIdentifier": "inforiver_ECFJLKFEIPGDNJC",
             "languages": {
