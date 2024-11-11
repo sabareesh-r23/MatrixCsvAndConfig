@@ -348,7 +348,7 @@
                     "name": "CountNonNull(Orders.Postal Code)",
                     "label": "[AC]"
                 },
-                "pk": "46417",
+                "pk": "59935",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -421,7 +421,7 @@
                 "onUpdateFormula": "",
                 "onChangeFormula": "",
                 "isUpdated": true,
-                "pk": "46418",
+                "pk": "59936",
                 "isPrivateColumn": false
             },
             {
@@ -502,7 +502,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 2,
-                "pk": "46419",
+                "pk": "59939",
                 "isUpdated": true,
                 "depColumnFormulaId": null,
                 "depColumn2FormulaId": null,
@@ -602,7 +602,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 3,
-                "pk": "46420",
+                "pk": "59937",
                 "isUpdated": true,
                 "depColumnFormulaId": null,
                 "depColumn2FormulaId": null,
@@ -668,7 +668,7 @@
                 "onUpdateFormula": "",
                 "onChangeFormula": "",
                 "isUpdated": true,
-                "pk": "46421",
+                "pk": "59938",
                 "isPrivateColumn": false
             },
             {
@@ -714,7 +714,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 5,
-                "pk": "46422",
+                "pk": "59940",
                 "isUpdated": true,
                 "depColumnFormulaId": null,
                 "depColumn2FormulaId": null,
@@ -774,7 +774,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 6,
-                "pk": "46423",
+                "pk": "59941",
                 "isUpdated": true,
                 "depColumnFormulaId": null,
                 "depColumn2FormulaId": null,
@@ -2123,10 +2123,10 @@
         },
         "showSubtotalLevels": {},
         "customInputColumn": {
-            "CALC_17283799604046568": {
-                "id": "CALC_17283799604046568",
-                "title": "Person",
-                "type": "PERSON_COLUMN",
+            "CALC_17283798904789136": {
+                "id": "CALC_17283798904789136",
+                "title": "Number",
+                "type": "NUMBER_COLUMN",
                 "description": "",
                 "meta": {
                     "range": {
@@ -2136,7 +2136,7 @@
                     "aggregationType": "sum",
                     "selectedOptions": {}
                 },
-                "columnId": "46423",
+                "columnId": "59935",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2152,41 +2152,20 @@
                     "10": []
                 }
             },
-            "CALC_17283799483833568": {
-                "id": "CALC_17283799483833568",
-                "title": "Date",
-                "type": "DATE_COLUMN",
+            "CALC_17283799000129695": {
+                "id": "CALC_17283799000129695",
+                "title": "Text",
+                "type": "TEXT_COLUMN",
                 "description": "",
                 "meta": {
-                    "date": null,
-                    "format": "DEFAULT_LOCALE",
+                    "characterLimit": "",
+                    "fieldValidation": {
+                        "type": "Any Value"
+                    },
+                    "textLength": {},
                     "selectedOptions": {}
                 },
-                "columnId": "46422",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17283799372825018": {
-                "id": "CALC_17283799372825018",
-                "title": "Check Box",
-                "type": "CHECK_BOX",
-                "description": "",
-                "meta": {
-                    "selectedOptions": {}
-                },
-                "columnId": "46421",
+                "columnId": "59936",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2255,7 +2234,31 @@
                     "isSyncRequired": false,
                     "selectedOptions": {}
                 },
-                "columnId": "46420",
+                "columnId": "59937",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "91",
+                "createdByUser": "Abisha Francis",
+                "createdByUserEmail": "AbishaF@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17283799372825018": {
+                "id": "CALC_17283799372825018",
+                "title": "Check Box",
+                "type": "CHECK_BOX",
+                "description": "",
+                "meta": {
+                    "selectedOptions": {}
+                },
+                "columnId": "59938",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2317,7 +2320,7 @@
                     "isSyncRequired": false,
                     "selectedOptions": {}
                 },
-                "columnId": "46419",
+                "columnId": "59939",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2333,20 +2336,17 @@
                     "10": []
                 }
             },
-            "CALC_17283799000129695": {
-                "id": "CALC_17283799000129695",
-                "title": "Text",
-                "type": "TEXT_COLUMN",
+            "CALC_17283799483833568": {
+                "id": "CALC_17283799483833568",
+                "title": "Date",
+                "type": "DATE_COLUMN",
                 "description": "",
                 "meta": {
-                    "characterLimit": "",
-                    "fieldValidation": {
-                        "type": "Any Value"
-                    },
-                    "textLength": {},
+                    "date": null,
+                    "format": "DEFAULT_LOCALE",
                     "selectedOptions": {}
                 },
-                "columnId": "46418",
+                "columnId": "59940",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2362,10 +2362,10 @@
                     "10": []
                 }
             },
-            "CALC_17283798904789136": {
-                "id": "CALC_17283798904789136",
-                "title": "Number",
-                "type": "NUMBER_COLUMN",
+            "CALC_17283799604046568": {
+                "id": "CALC_17283799604046568",
+                "title": "Person",
+                "type": "PERSON_COLUMN",
                 "description": "",
                 "meta": {
                     "range": {
@@ -2375,7 +2375,7 @@
                     "aggregationType": "sum",
                     "selectedOptions": {}
                 },
-                "columnId": "46417",
+                "columnId": "59941",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2484,24 +2484,24 @@
         },
         "fiscalMonth": 0,
         "visualSettings": {
-            "id": "17230",
-            "visualGuid": "MEHDLHFGKIONHGL",
+            "id": "21716",
+            "visualGuid": "LCGFDOAEEELEFLH",
             "tenantId": "6",
             "allowComment": true,
             "allowWriteBack": true,
             "accessType": 1,
             "notification": true,
-            "reportIdentifier": "e20069db-972c-442d-941b-5401bccbfe79",
-            "reportDisplayName": " by City, Sub-Category",
+            "reportIdentifier": "33d4b4cb-8042-4bfc-ba0b-404e29f6eaae",
+            "reportDisplayName": "Count of Postal Code by Category, Sub-Category, Country, Region, Year, Quarter",
             "reportSection": "9b1a5c3f1dec3391d1f7",
-            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e20069db-972c-442d-941b-5401bccbfe79/9b1a5c3f1dec3391d1f7?experience=power-bi",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/33d4b4cb-8042-4bfc-ba0b-404e29f6eaae/9b1a5c3f1dec3391d1f7?experience=power-bi",
             "visualMeta": {
                 "product": "inforiver",
                 "duplicateIdentifiers": [
                     {
-                        "reportIdentifier": "e20069db-972c-442d-941b-5401bccbfe79",
+                        "reportIdentifier": "33d4b4cb-8042-4bfc-ba0b-404e29f6eaae",
                         "reportSection": "9b1a5c3f1dec3391d1f7",
-                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e20069db-972c-442d-941b-5401bccbfe79/9b1a5c3f1dec3391d1f7?experience=power-bi"
+                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/33d4b4cb-8042-4bfc-ba0b-404e29f6eaae/9b1a5c3f1dec3391d1f7?experience=power-bi"
                     }
                 ],
                 "columns": [
@@ -2720,7 +2720,7 @@
                     "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
                     "hasNativeMeasures": true,
-                    "reportDisplayName": " by City, Sub-Category"
+                    "reportDisplayName": "Count of Postal Code by Category, Sub-Category, Country, Region, Year, Quarter"
                 },
                 "includedIdDimensions": [
                     {
@@ -2759,17 +2759,17 @@
             "scheduleStatus": null,
             "status": 10,
             "createdBy": "91",
-            "createdAt": 1728379746,
+            "createdAt": 1731298627,
             "updatedBy": "91",
-            "updatedAt": 1730286965,
+            "updatedAt": 1731298787,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
             "snapshotSchedule": {},
             "snapshotScheduleStatus": null,
-            "reportAssetId": "914",
+            "reportAssetId": "1154",
             "mdeSettings": {},
-            "visualIdentifier": "inforiver_MEHDLHFGKIONHGL",
+            "visualIdentifier": "inforiver_LCGFDOAEEELEFLH",
             "languages": {
                 "GERMAN": "de-DE",
                 "FRENCH": "fr-FR",
@@ -2994,7 +2994,27 @@
             "CALC_17283799483833568": "sum",
             "CALC_17283799604046568": "sum"
         },
-        "rowEditPermissions": {},
+        "rowEditPermissions": {
+            "dataConfig": {
+                "isMultiSelect": false,
+                "position": "left",
+                "linkedDataset": {
+                    "workspaceId": "",
+                    "datasetId": "",
+                    "optionDetails": {
+                        "tableName": "",
+                        "optionColumnName": "",
+                        "optionColumnID": ""
+                    },
+                    "isJoin": false,
+                    "joins": [],
+                    "filterColumnDetail": {
+                        "filterColumnsMapping": {}
+                    }
+                },
+                "selectedDataInputCols": []
+            }
+        },
         "showReadViewBookmark": false,
         "indianNumberSystem": false,
         "replaceForecastWithPYorPL": "none",
@@ -3110,5 +3130,5 @@
         ]
     },
     "visual":{"visualId":"LCGFDOAEEELEFLH","visualTemplateGuid":"JKOAPBFPEKECMKN","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
-    "currentVersion": "v3.6.2.0"
+    "currentVersion": "v3.6.3.0"
 }

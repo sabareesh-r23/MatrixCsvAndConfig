@@ -364,7 +364,7 @@
                 "onChangeFormula": "",
                 "isUpdated": true,
                 "order": 0,
-                "pk": "46428",
+                "pk": "59991",
                 "isPrivateColumn": false
             },
             {
@@ -412,7 +412,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 1,
-                "pk": "46429",
+                "pk": "59992",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -509,7 +509,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 2,
-                "pk": "46430",
+                "pk": "59993",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -607,7 +607,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 3,
-                "pk": "46431",
+                "pk": "59994",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -660,7 +660,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 4,
-                "pk": "46432",
+                "pk": "59995",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -715,7 +715,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 5,
-                "pk": "46433",
+                "pk": "59996",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -773,7 +773,7 @@
                 "defaultValueType": "static",
                 "defaultValue": "",
                 "order": 6,
-                "pk": "46434",
+                "pk": "59997",
                 "isUpdated": true,
                 "linkedSimulations": null,
                 "editConditionFormula": "",
@@ -2114,10 +2114,10 @@
         },
         "showSubtotalLevels": {},
         "customInputColumn": {
-            "CALC_17283803736523932": {
-                "id": "CALC_17283803736523932",
-                "title": "Person",
-                "type": "PERSON_COLUMN",
+            "CALC_17283803155183476": {
+                "id": "CALC_17283803155183476",
+                "title": "Number",
+                "type": "NUMBER_COLUMN",
                 "description": "",
                 "meta": {
                     "range": {
@@ -2127,7 +2127,7 @@
                     "aggregationType": "sum",
                     "selectedOptions": {}
                 },
-                "columnId": "46434",
+                "columnId": "59991",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2143,110 +2143,20 @@
                     "10": []
                 }
             },
-            "CALC_17283803578885493": {
-                "id": "CALC_17283803578885493",
-                "title": "Date",
-                "type": "DATE_COLUMN",
+            "CALC_17283803253342238": {
+                "id": "CALC_17283803253342238",
+                "title": "Text",
+                "type": "TEXT_COLUMN",
                 "description": "",
                 "meta": {
-                    "date": null,
-                    "format": "DEFAULT_LOCALE",
-                    "selectedOptions": {}
-                },
-                "columnId": "46433",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17283803506683905": {
-                "id": "CALC_17283803506683905",
-                "title": "Check Box",
-                "type": "CHECK_BOX",
-                "description": "",
-                "meta": {
-                    "selectedOptions": {}
-                },
-                "columnId": "46432",
-                "accessControl": {
-                    "read": [],
-                    "write": []
-                },
-                "createdBy": "91",
-                "createdByUser": "Abisha Francis",
-                "createdByUserEmail": "AbishaF@lumel.com",
-                "disableWriteAccess": false,
-                "forecastAllowedUserPermissions": {
-                    "10": true
-                },
-                "forecastPermission": {
-                    "10": []
-                }
-            },
-            "CALC_17283803408511968": {
-                "id": "CALC_17283803408511968",
-                "title": "Multi Select",
-                "type": "MULTI_SELECT",
-                "description": "",
-                "meta": {
-                    "isMultiSelect": true,
-                    "options": [
-                        {
-                            "displayName": "Option 1",
-                            "value": "custom_select_GRFbx6c6",
-                            "color": "#9CD740",
-                            "icon": "circle-fill",
-                            "order": 1
-                        },
-                        {
-                            "displayName": "Option 2",
-                            "value": "custom_select_Ln2RcCwz",
-                            "color": "#FF8A00",
-                            "icon": "circle-fill",
-                            "order": 2
-                        },
-                        {
-                            "displayName": "Option 3",
-                            "value": "custom_select_slSwQBAh",
-                            "color": "#FF000A",
-                            "icon": "circle-fill",
-                            "order": 3
-                        }
-                    ],
-                    "position": "left",
-                    "shouldAddNewOptions": false,
-                    "linkedColumn": {},
-                    "linkedDataset": {
-                        "workspaceId": "",
-                        "datasetId": "",
-                        "optionDetails": {
-                            "tableName": "",
-                            "optionColumnName": "",
-                            "optionColumnID": ""
-                        },
-                        "isJoin": false,
-                        "joins": [],
-                        "filterColumnDetail": {
-                            "filterColumnsMapping": {}
-                        }
+                    "characterLimit": "",
+                    "fieldValidation": {
+                        "type": "Any Value"
                     },
-                    "linkedHelperVisual": {},
-                    "optionStyle": "chip",
-                    "schedule": {},
-                    "isSyncRequired": false,
+                    "textLength": {},
                     "selectedOptions": {}
                 },
-                "columnId": "46431",
+                "columnId": "59992",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2315,7 +2225,7 @@
                     "isSyncRequired": false,
                     "selectedOptions": {}
                 },
-                "columnId": "46430",
+                "columnId": "59993",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2331,20 +2241,60 @@
                     "10": []
                 }
             },
-            "CALC_17283803253342238": {
-                "id": "CALC_17283803253342238",
-                "title": "Text",
-                "type": "TEXT_COLUMN",
+            "CALC_17283803408511968": {
+                "id": "CALC_17283803408511968",
+                "title": "Multi Select",
+                "type": "MULTI_SELECT",
                 "description": "",
                 "meta": {
-                    "characterLimit": "",
-                    "fieldValidation": {
-                        "type": "Any Value"
+                    "isMultiSelect": true,
+                    "options": [
+                        {
+                            "displayName": "Option 1",
+                            "value": "custom_select_GRFbx6c6",
+                            "color": "#9CD740",
+                            "icon": "circle-fill",
+                            "order": 1
+                        },
+                        {
+                            "displayName": "Option 2",
+                            "value": "custom_select_Ln2RcCwz",
+                            "color": "#FF8A00",
+                            "icon": "circle-fill",
+                            "order": 2
+                        },
+                        {
+                            "displayName": "Option 3",
+                            "value": "custom_select_slSwQBAh",
+                            "color": "#FF000A",
+                            "icon": "circle-fill",
+                            "order": 3
+                        }
+                    ],
+                    "position": "left",
+                    "shouldAddNewOptions": false,
+                    "linkedColumn": {},
+                    "linkedDataset": {
+                        "workspaceId": "",
+                        "datasetId": "",
+                        "optionDetails": {
+                            "tableName": "",
+                            "optionColumnName": "",
+                            "optionColumnID": ""
+                        },
+                        "isJoin": false,
+                        "joins": [],
+                        "filterColumnDetail": {
+                            "filterColumnsMapping": {}
+                        }
                     },
-                    "textLength": {},
+                    "linkedHelperVisual": {},
+                    "optionStyle": "chip",
+                    "schedule": {},
+                    "isSyncRequired": false,
                     "selectedOptions": {}
                 },
-                "columnId": "46429",
+                "columnId": "59994",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2360,10 +2310,60 @@
                     "10": []
                 }
             },
-            "CALC_17283803155183476": {
-                "id": "CALC_17283803155183476",
-                "title": "Number",
-                "type": "NUMBER_COLUMN",
+            "CALC_17283803506683905": {
+                "id": "CALC_17283803506683905",
+                "title": "Check Box",
+                "type": "CHECK_BOX",
+                "description": "",
+                "meta": {
+                    "selectedOptions": {}
+                },
+                "columnId": "59995",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "91",
+                "createdByUser": "Abisha Francis",
+                "createdByUserEmail": "AbishaF@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17283803578885493": {
+                "id": "CALC_17283803578885493",
+                "title": "Date",
+                "type": "DATE_COLUMN",
+                "description": "",
+                "meta": {
+                    "date": null,
+                    "format": "DEFAULT_LOCALE",
+                    "selectedOptions": {}
+                },
+                "columnId": "59996",
+                "accessControl": {
+                    "read": [],
+                    "write": []
+                },
+                "createdBy": "91",
+                "createdByUser": "Abisha Francis",
+                "createdByUserEmail": "AbishaF@lumel.com",
+                "disableWriteAccess": false,
+                "forecastAllowedUserPermissions": {
+                    "10": true
+                },
+                "forecastPermission": {
+                    "10": []
+                }
+            },
+            "CALC_17283803736523932": {
+                "id": "CALC_17283803736523932",
+                "title": "Person",
+                "type": "PERSON_COLUMN",
                 "description": "",
                 "meta": {
                     "range": {
@@ -2373,7 +2373,7 @@
                     "aggregationType": "sum",
                     "selectedOptions": {}
                 },
-                "columnId": "46428",
+                "columnId": "59997",
                 "accessControl": {
                     "read": [],
                     "write": []
@@ -2482,24 +2482,24 @@
         },
         "fiscalMonth": 0,
         "visualSettings": {
-            "id": "17237",
-            "visualGuid": "KNHNEBKHMEEOCIB",
+            "id": "21725",
+            "visualGuid": "PMCKIEKDNAHHKLI",
             "tenantId": "6",
             "allowComment": true,
             "allowWriteBack": true,
             "accessType": 1,
             "notification": true,
-            "reportIdentifier": "e20069db-972c-442d-941b-5401bccbfe79",
-            "reportDisplayName": " by Sub-Category, Year, Quarter",
+            "reportIdentifier": "33d4b4cb-8042-4bfc-ba0b-404e29f6eaae",
+            "reportDisplayName": "Sum of Profit by Category, Segment, Region, Sub-Category, Year, Quarter",
             "reportSection": "ed75dbfc242c76402a81",
-            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e20069db-972c-442d-941b-5401bccbfe79/ed75dbfc242c76402a81?experience=power-bi",
+            "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/33d4b4cb-8042-4bfc-ba0b-404e29f6eaae/ed75dbfc242c76402a81?experience=power-bi",
             "visualMeta": {
                 "product": "inforiver",
                 "duplicateIdentifiers": [
                     {
-                        "reportIdentifier": "e20069db-972c-442d-941b-5401bccbfe79",
+                        "reportIdentifier": "33d4b4cb-8042-4bfc-ba0b-404e29f6eaae",
                         "reportSection": "ed75dbfc242c76402a81",
-                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/e20069db-972c-442d-941b-5401bccbfe79/ed75dbfc242c76402a81?experience=power-bi"
+                        "reportUrl": "https://app.powerbi.com/groups/16578ee2-acf8-4611-863a-02e5168c2883/reports/33d4b4cb-8042-4bfc-ba0b-404e29f6eaae/ed75dbfc242c76402a81?experience=power-bi"
                     }
                 ],
                 "columns": [
@@ -2703,7 +2703,7 @@
                     "hasFormulaRows": false,
                     "hasCascadeFormulaMeasure": false,
                     "hasNativeMeasures": true,
-                    "reportDisplayName": " by Sub-Category, Year, Quarter"
+                    "reportDisplayName": "Sum of Profit by Category, Segment, Region, Sub-Category, Year, Quarter"
                 },
                 "includedIdDimensions": [
                     {
@@ -2742,17 +2742,17 @@
             "scheduleStatus": null,
             "status": 10,
             "createdBy": "91",
-            "createdAt": 1728380195,
+            "createdAt": 1731299619,
             "updatedBy": "91",
-            "updatedAt": 1728380425,
+            "updatedAt": 1731299719,
             "commentVisualDestinations": [],
             "digestMailList": [],
             "digestUnsubscribedMailList": [],
             "snapshotSchedule": {},
             "snapshotScheduleStatus": null,
-            "reportAssetId": "914",
+            "reportAssetId": "1154",
             "mdeSettings": {},
-            "visualIdentifier": "inforiver_KNHNEBKHMEEOCIB",
+            "visualIdentifier": "inforiver_PMCKIEKDNAHHKLI",
             "languages": {
                 "GERMAN": "de-DE",
                 "FRENCH": "fr-FR",
@@ -2977,7 +2977,27 @@
             "CALC_17283803578885493": "sum",
             "CALC_17283803736523932": "sum"
         },
-        "rowEditPermissions": {},
+        "rowEditPermissions": {
+            "dataConfig": {
+                "isMultiSelect": false,
+                "position": "left",
+                "linkedDataset": {
+                    "workspaceId": "",
+                    "datasetId": "",
+                    "optionDetails": {
+                        "tableName": "",
+                        "optionColumnName": "",
+                        "optionColumnID": ""
+                    },
+                    "isJoin": false,
+                    "joins": [],
+                    "filterColumnDetail": {
+                        "filterColumnsMapping": {}
+                    }
+                },
+                "selectedDataInputCols": []
+            }
+        },
         "showReadViewBookmark": false,
         "indianNumberSystem": false,
         "replaceForecastWithPYorPL": "none",
@@ -3093,5 +3113,5 @@
         ]
     },
     "visual":{"visualId":"PMCKIEKDNAHHKLI","visualTemplateGuid":"IKDJOHPENEIPMPE","tenantId":"ddec66fe92e4aa2436a44c7a0c220078"},
-    "currentVersion": "v3.6.2.0"
+    "currentVersion": "v3.6.3.0"
 }
