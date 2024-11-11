@@ -1,0 +1,69 @@
+Orders.Region,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Category,Orders.Sub-Category,Orders.Country,CountNonNull(Orders.Postal Code)
+East,2014,Qtr 2,Furniture,Bookcases,United States,2
+East,2015,Qtr 2,Furniture,Bookcases,United States,2
+East,2016,Qtr 2,Furniture,Bookcases,United States,3
+East,2017,Qtr 2,Furniture,Bookcases,United States,4
+East,2014,Qtr 2,Furniture,Chairs,United States,6
+East,2015,Qtr 2,Furniture,Chairs,United States,7
+East,2016,Qtr 2,Furniture,Chairs,United States,7
+East,2017,Qtr 2,Furniture,Chairs,United States,9
+East,2014,Qtr 2,Furniture,Furnishings,United States,8
+East,2015,Qtr 2,Furniture,Furnishings,United States,16
+East,2016,Qtr 2,Furniture,Furnishings,United States,19
+East,2017,Qtr 2,Furniture,Furnishings,United States,20
+East,2014,Qtr 2,Furniture,Tables,United States,5
+East,2015,Qtr 2,Furniture,Tables,United States,
+East,2016,Qtr 2,Furniture,Tables,United States,4
+East,2017,Qtr 2,Furniture,Tables,United States,4
+East,2014,Qtr 2,Office Supplies,Appliances,United States,9
+East,2015,Qtr 2,Office Supplies,Appliances,United States,8
+East,2016,Qtr 2,Office Supplies,Appliances,United States,10
+East,2017,Qtr 2,Office Supplies,Appliances,United States,7
+East,2014,Qtr 2,Office Supplies,Art,United States,13
+East,2015,Qtr 2,Office Supplies,Art,United States,13
+East,2016,Qtr 2,Office Supplies,Art,United States,21
+East,2017,Qtr 2,Office Supplies,Art,United States,16
+East,2014,Qtr 2,Office Supplies,Binders,United States,25
+East,2015,Qtr 2,Office Supplies,Binders,United States,14
+East,2016,Qtr 2,Office Supplies,Binders,United States,30
+East,2017,Qtr 2,Office Supplies,Binders,United States,30
+East,2014,Qtr 2,Office Supplies,Envelopes,United States,3
+East,2015,Qtr 2,Office Supplies,Envelopes,United States,2
+East,2016,Qtr 2,Office Supplies,Envelopes,United States,5
+East,2017,Qtr 2,Office Supplies,Envelopes,United States,2
+East,2014,Qtr 2,Office Supplies,Fasteners,United States,1
+East,2015,Qtr 2,Office Supplies,Fasteners,United States,5
+East,2016,Qtr 2,Office Supplies,Fasteners,United States,3
+East,2017,Qtr 2,Office Supplies,Fasteners,United States,5
+East,2014,Qtr 2,Office Supplies,Labels,United States,3
+East,2015,Qtr 2,Office Supplies,Labels,United States,7
+East,2016,Qtr 2,Office Supplies,Labels,United States,11
+East,2017,Qtr 2,Office Supplies,Labels,United States,10
+East,2014,Qtr 2,Office Supplies,Paper,United States,10
+East,2015,Qtr 2,Office Supplies,Paper,United States,16
+East,2016,Qtr 2,Office Supplies,Paper,United States,26
+East,2017,Qtr 2,Office Supplies,Paper,United States,22
+East,2014,Qtr 2,Office Supplies,Storage,United States,5
+East,2015,Qtr 2,Office Supplies,Storage,United States,14
+East,2016,Qtr 2,Office Supplies,Storage,United States,23
+East,2017,Qtr 2,Office Supplies,Storage,United States,18
+East,2014,Qtr 2,Office Supplies,Supplies,United States,3
+East,2015,Qtr 2,Office Supplies,Supplies,United States,2
+East,2016,Qtr 2,Office Supplies,Supplies,United States,9
+East,2017,Qtr 2,Office Supplies,Supplies,United States,6
+East,2014,Qtr 2,Technology,Accessories,United States,4
+East,2015,Qtr 2,Technology,Accessories,United States,5
+East,2016,Qtr 2,Technology,Accessories,United States,11
+East,2017,Qtr 2,Technology,Accessories,United States,15
+East,2014,Qtr 2,Technology,Copiers,United States,1
+East,2015,Qtr 2,Technology,Copiers,United States,1
+East,2016,Qtr 2,Technology,Copiers,United States,2
+East,2017,Qtr 2,Technology,Copiers,United States,
+East,2014,Qtr 2,Technology,Machines,United States,2
+East,2015,Qtr 2,Technology,Machines,United States,1
+East,2016,Qtr 2,Technology,Machines,United States,4
+East,2017,Qtr 2,Technology,Machines,United States,2
+East,2014,Qtr 2,Technology,Phones,United States,9
+East,2015,Qtr 2,Technology,Phones,United States,10
+East,2016,Qtr 2,Technology,Phones,United States,14
+East,2017,Qtr 2,Technology,Phones,United States,11
