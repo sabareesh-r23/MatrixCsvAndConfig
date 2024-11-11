@@ -1,0 +1,73 @@
+Orders.Category,Orders.Order Date.Variation.Date Hierarchy.Year,Orders.Order Date.Variation.Date Hierarchy.Quarter,Orders.Country,Orders.Region,Orders.Segment,Sum(Orders.Quantity)
+Furniture,2014,Qtr 2,United States,Central,Consumer,56
+Furniture,2015,Qtr 2,United States,Central,Consumer,55
+Office Supplies,2014,Qtr 2,United States,Central,Consumer,143
+Office Supplies,2015,Qtr 2,United States,Central,Consumer,144
+Technology,2014,Qtr 2,United States,Central,Consumer,12
+Technology,2015,Qtr 2,United States,Central,Consumer,52
+Furniture,2014,Qtr 2,United States,Central,Corporate,17
+Furniture,2015,Qtr 2,United States,Central,Corporate,10
+Office Supplies,2014,Qtr 2,United States,Central,Corporate,49
+Office Supplies,2015,Qtr 2,United States,Central,Corporate,74
+Technology,2014,Qtr 2,United States,Central,Corporate,5
+Technology,2015,Qtr 2,United States,Central,Corporate,22
+Furniture,2014,Qtr 2,United States,Central,Home Office,10
+Furniture,2015,Qtr 2,United States,Central,Home Office,21
+Office Supplies,2014,Qtr 2,United States,Central,Home Office,58
+Office Supplies,2015,Qtr 2,United States,Central,Home Office,34
+Technology,2014,Qtr 2,United States,Central,Home Office,9
+Technology,2015,Qtr 2,United States,Central,Home Office,4
+Furniture,2014,Qtr 2,United States,East,Consumer,44
+Furniture,2015,Qtr 2,United States,East,Consumer,18
+Office Supplies,2014,Qtr 2,United States,East,Consumer,138
+Office Supplies,2015,Qtr 2,United States,East,Consumer,135
+Technology,2014,Qtr 2,United States,East,Consumer,40
+Technology,2015,Qtr 2,United States,East,Consumer,37
+Furniture,2014,Qtr 2,United States,East,Corporate,10
+Furniture,2015,Qtr 2,United States,East,Corporate,45
+Office Supplies,2014,Qtr 2,United States,East,Corporate,111
+Office Supplies,2015,Qtr 2,United States,East,Corporate,45
+Technology,2014,Qtr 2,United States,East,Corporate,19
+Technology,2015,Qtr 2,United States,East,Corporate,13
+Furniture,2014,Qtr 2,United States,East,Home Office,11
+Furniture,2015,Qtr 2,United States,East,Home Office,27
+Office Supplies,2014,Qtr 2,United States,East,Home Office,40
+Office Supplies,2015,Qtr 2,United States,East,Home Office,117
+Technology,2014,Qtr 2,United States,East,Home Office,2
+Technology,2015,Qtr 2,United States,East,Home Office,11
+Furniture,2014,Qtr 2,United States,South,Consumer,19
+Furniture,2015,Qtr 2,United States,South,Consumer,49
+Office Supplies,2014,Qtr 2,United States,South,Consumer,84
+Office Supplies,2015,Qtr 2,United States,South,Consumer,62
+Technology,2014,Qtr 2,United States,South,Consumer,49
+Technology,2015,Qtr 2,United States,South,Consumer,33
+Furniture,2014,Qtr 2,United States,South,Corporate,17
+Furniture,2015,Qtr 2,United States,South,Corporate,31
+Office Supplies,2014,Qtr 2,United States,South,Corporate,89
+Office Supplies,2015,Qtr 2,United States,South,Corporate,88
+Technology,2014,Qtr 2,United States,South,Corporate,11
+Technology,2015,Qtr 2,United States,South,Corporate,15
+Furniture,2014,Qtr 2,United States,South,Home Office,
+Furniture,2015,Qtr 2,United States,South,Home Office,
+Office Supplies,2014,Qtr 2,United States,South,Home Office,19
+Office Supplies,2015,Qtr 2,United States,South,Home Office,17
+Technology,2014,Qtr 2,United States,South,Home Office,3
+Technology,2015,Qtr 2,United States,South,Home Office,15
+Furniture,2014,Qtr 2,United States,West,Consumer,37
+Furniture,2015,Qtr 2,United States,West,Consumer,37
+Office Supplies,2014,Qtr 2,United States,West,Consumer,85
+Office Supplies,2015,Qtr 2,United States,West,Consumer,144
+Technology,2014,Qtr 2,United States,West,Consumer,74
+Technology,2015,Qtr 2,United States,West,Consumer,82
+Furniture,2014,Qtr 2,United States,West,Corporate,55
+Furniture,2015,Qtr 2,United States,West,Corporate,31
+Office Supplies,2014,Qtr 2,United States,West,Corporate,73
+Office Supplies,2015,Qtr 2,United States,West,Corporate,48
+Technology,2014,Qtr 2,United States,West,Corporate,47
+Technology,2015,Qtr 2,United States,West,Corporate,19
+Furniture,2014,Qtr 2,United States,West,Home Office,24
+Furniture,2015,Qtr 2,United States,West,Home Office,21
+Office Supplies,2014,Qtr 2,United States,West,Home Office,59
+Office Supplies,2015,Qtr 2,United States,West,Home Office,48
+Technology,2014,Qtr 2,United States,West,Home Office,4
+Technology,2015,Qtr 2,United States,West,Home Office,
